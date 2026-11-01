@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Analyseur de conformité — Bibliothèque de Skills AI (projet SkillsLibrairy).
+Analyseur de conformité — skillAISlop (projet skillAISlop).
 
 Vérifie que chaque skill du catalogue respecte les règles du projet :
   R1 — Indexation obligatoire (index en tête de chaque skill)
@@ -289,7 +289,7 @@ def generer_rapport(audits: list[SkillAudit], seuil: float, r6_global: list[str]
                     r8_sync: list[str], verbose: bool = False) -> str:
     """Construit le rapport Markdown — compact par défaut (R9), table complète avec --verbose."""
     lignes_rapport = [
-        "# Rapport de conformité — Bibliothèque de Skills AI",
+        "# Rapport de conformité — skillAISlop",
         "",
         f"Skills auditées : **{len(audits)}** — Seuil de conformité : **{seuil:.0f} %**",
         "",

@@ -1,10 +1,10 @@
 ---
-name: "done-skillslibrairy"
-title: "DONE — Bibliothèque de Skills AI"
+name: "done-skillaislop"
+title: "DONE — skillAISlop"
 type: "text/markdown"
 ---
 
-# DONE — Bibliothèque de Skills AI
+# DONE — skillAISlop
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
@@ -18,13 +18,13 @@ type: "text/markdown"
 
 - [x] **2026-11-01** — Compteur de skills automatisé : sous-commande `count` du routeur générant `totalSkillsCount.md` (511 sections · 510 skills + 1 routeur · 28 domaines) — exécuté vers /export, copie permanente publiée dans le canvas « totalSkillsCount », procédure documentée dans l'AGENTS.md ; build ✅ · lint ✅ · 28/28 tests ✅
 
-- [x] **2026-11-01** — Dossier `/export` créé et export JSON exécuté (511 sections · 28 domaines · 283 synonymes, 988 Ko) — copie permanente publiée dans le canvas « Export JSON — Bibliothèque de Skills AI », procédure de régénération documentée dans l'AGENTS.md
+- [x] **2026-11-01** — Dossier `/export` créé et export JSON exécuté (511 sections · 28 domaines · 283 synonymes, 988 Ko) — copie permanente publiée dans le canvas « Export JSON — skillAISlop », procédure de régénération documentée dans l'AGENTS.md
 
 - [x] **2026-11-01** — R6 assouplie : les emojis sont réutilisables entre skills (présence et pertinence exigées, plus d'unicité) — règlement, template, skill 250, AGENTS.md et script d'audit mis à jour, audit repassé ✅ 510/510 · Sous-commande `export` ajoutée au routeur : JSON structuré des 511 sections (régénérable en une commande) · Frontmatter vérifiés sur les 6 canvases
 - [x] **2026-11-01** — Vague 7 ajoutée : 10 skills sécurité informatique & web (501-510 : authentification web, en-têtes HTTP & cookies, WordPress/CMS, modélisation de menaces, correctifs & CVE, chiffrement & TLS, sécurité cloud, pipeline CI/CD, simulation de phishing, réseau & Wi-Fi) — routage complet (283 synonymes), lint ✅, 28/28 tests, audit 510/510 conformes · R6 ✅ · R8 ✅
 
 - [x] **2026-11-01** — Règle R11 établie : zéro sujet New Âge, jamais — méditation retirée du TODO, inscription dans la Knowledge et l'AGENTS.md ; catalogue vérifié : aucune skill New Âge existante
-- [x] **2026-11-01** — TODO et DONE convertis en canvases permanents « TODO — Bibliothèque de Skills AI » et « DONE — Bibliothèque de Skills AI » — R10 et AGENTS.md mis à jour (survie aux resets garantie)
+- [x] **2026-11-01** — TODO et DONE convertis en canvases permanents « TODO — skillAISlop » et « DONE — skillAISlop » — R10 et AGENTS.md mis à jour (survie aux resets garantie)
 - [x] **2026-11-01** — Règle R10 établie : suivi TODO/DONE automatique à chaque écriture — inscrite dans la Knowledge, l'AGENTS.md et auditée (R5) : 500/500 conformes
 - [x] **2026-11-01** — Correctif anti-faux-positifs du routeur : mode OU validé par mots complets, flou réservé aux inflexions, tolérance synonymes 7 caractères — sonde 78 sujets : 40 couverts légitimes, 0 faux positif
 - [x] **2026-11-01** — Rescapes post-durcissement : 12 synonymes ciblés + remap « speech » → 154 Studio de voix de synthèse

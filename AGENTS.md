@@ -1,13 +1,13 @@
-# AGENTS.md — SkillsLibrairy
+# AGENTS.md — skillAISlop
 
 > 🔎 **Index** : Contexte du projet · Environnement & livrables · Ajout d'une skill · Synchronisation index & routage · Audit & conformité · Mise à jour trimestrielle · Concision des sorties · Suivi des tâches TODO/DONE · Zéro sujet New Âge · Sources
 
-Fichier d'instructions pour tout agent IA intervenant sur la **Bibliothèque de Skills AI**, au format ouvert [AGENTS.md](https://github.com/agentsmd/agents.md) — un « README pour agents » : l'endroit prévisible où un agent trouve le contexte et les instructions nécessaires pour travailler sur ce projet.
+Fichier d'instructions pour tout agent IA intervenant sur la **skillAISlop**, au format ouvert [AGENTS.md](https://github.com/agentsmd/agents.md) — un « README pour agents » : l'endroit prévisible où un agent trouve le contexte et les instructions nécessaires pour travailler sur ce projet.
 
 ## Contexte du projet
 
 - La bibliothèque est un catalogue de **616 skills numérotées (0-616)** prêtes à l'emploi avec un assistant IA : la skill 0 est un routeur, les skills 1-616 sont classées par famille (rédaction, dev, data, agents IA, création visuelle & audio, marketing, vente, finance, gouvernance, RH, vie quotidienne, sécurité, quotidien & business).
-- Le catalogue vit dans le canvas **« Bibliothèque de Skills AI »**, **découpé en corpus** pour respecter le plafond de taille d'un canvas (1 024 000 octets) : le canvas principal porte sommaire, règles, template, skill 0 (carte des domaines, index inversé, table de routage, arbre décisionnel) et sections transverses ; les sections détaillées vivent dans les canvases **« corpus-skills-1-300 »**, **« corpus-skills-301-600 »** et **« corpus-skills-601-900 »**. Le script d'audit dans le canvas **« script-conformite-skills »** ; les règles durables (R1-R11) dans le règlement du catalogue et dans le Knowledge **skillslibrairy**.
+- Le catalogue vit dans le canvas **« skillAISlop »**, **découpé en corpus** pour respecter le plafond de taille d'un canvas (1 024 000 octets) : le canvas principal porte sommaire, règles, template, skill 0 (carte des domaines, index inversé, table de routage, arbre décisionnel) et sections transverses ; les sections détaillées vivent dans les canvases **« corpus-skills-1-300 »**, **« corpus-skills-301-600 »** et **« corpus-skills-601-900 »**. Le script d'audit dans le canvas **« script-conformite-skills »** ; les règles durables (R1-R11) dans le règlement du catalogue et dans le Knowledge **skillaislop**.
 - Chaque skill suit le **template officiel** : `## N. <emoji> <Nom>` · `> 🔎 Index` · `**Objectif** :` · `**Instructions système** :` (commencent par « Tu es ») · `**Méthode** :` (3 étapes numérotées) · `**Exemple de prompt** :` (guillemets « ») · `**Cas d'usage** :` (≥ 2 usages) · cross-refs vers d'autres skills.
 
 ## Environnement & livrables
@@ -15,13 +15,13 @@ Fichier d'instructions pour tout agent IA intervenant sur la **Bibliothèque de 
 - Toute modification du catalogue passe par le canvas principal et les canvases corpus — ne jamais dupliquer le catalogue ailleurs.
 - Le **sommaire global** (canvas principal) est l'unique source de vérité pour les numéros de skill.
 - Toute nouvelle skill est numérotée séquentiellement après la 616 et ne change plus de numéro ensuite ; sa section détaillée (corps R2) est ajoutée au canvas corpus couvrant son numéro (1-300, 301-600, 601-900).
-- **Export JSON & compteur** : le canvas « Export JSON — Bibliothèque de Skills AI » est un instantané machine-readable du catalogue (mode **compact** par défaut : index et métadonnées de routage ; `--complet` pour le texte intégral), le canvas « totalSkillsCount » le compteur officiel. **À chaque ajout ou suppression de skill**, les régénérer (reconstruire `routage.py` depuis le canvas « Routage SQL Skills », puis `python3 routage.py export --fichier <chemin>/catalogue.json` et `python3 routage.py count`) et recopier les résultats dans les deux canvases. Le dossier `/export` de session est éphémère ; seuls les canvases sont permanents.
+- **Export JSON & compteur** : le canvas « Export JSON — skillAISlop » est un instantané machine-readable du catalogue (mode **compact** par défaut : index et métadonnées de routage ; `--complet` pour le texte intégral), le canvas « totalSkillsCount » le compteur officiel. **À chaque ajout ou suppression de skill**, les régénérer (reconstruire `routage.py` depuis le canvas « Routage SQL Skills », puis `python3 routage.py export --fichier <chemin>/catalogue.json` et `python3 routage.py count`) et recopier les résultats dans les deux canvases. Le dossier `/export` de session est éphémère ; seuls les canvases sont permanents.
 
 ## Synchronisation index & routage (R8)
 
 - À **chaque modification** du catalogue (ajout, édition, renommage, retrait), l'index et le routage sont mis à jour **automatiquement et immédiatement** : `skills.db` (source de vérité du routage — reconstruite par `routage.py build` depuis le canvas code « routage-sql-skills », qui porte aussi `route` : recherche rapide, et `generate` : régénération des sections ; la base ne survit pas aux resets d'environnement, le canvas oui), sommaire, table de routage (bloc du domaine), carte des domaines, index inversé (mot-clé canonique de la nouvelle skill), arbre de décision, vue d'ensemble, index du document.
 - Aucune entrée ne peut être manquante, orpheline ou en double : une ligne d'index sans skill, une skill sans ligne de routage ou un renvoi d'arbre vers une skill inexistante sont des non-conformités bloquantes.
-- **À chaque ajout ou retrait de skill** : régénérer le compteur (`routage.py count`) et l'export JSON (`routage.py export`), et actualiser leurs canvases (« totalSkillsCount », « Export JSON — Bibliothèque de Skills AI ») — la modification n'est pas terminée sinon.
+- **À chaque ajout ou retrait de skill** : régénérer le compteur (`routage.py count`) et l'export JSON (`routage.py export`), et actualiser leurs canvases (« totalSkillsCount », « Export JSON — skillAISlop ») — la modification n'est pas terminée sinon.
 - Une modification n'est **pas terminée** tant que le script de conformité n'a pas confirmé la synchronisation (code de sortie 0).
 
 ## Concision des sorties (R9)
@@ -31,7 +31,7 @@ Fichier d'instructions pour tout agent IA intervenant sur la **Bibliothèque de 
 
 ## Suivi des tâches TODO/DONE (R10)
 
-- Toutes les choses à faire du projet vivent dans le canvas « TODO — Bibliothèque de Skills AI » ; les tâches terminées dans le canvas « DONE — Bibliothèque de Skills AI ». Ces deux canvases sont **permanents** (ils survivent aux resets d'environnement) — jamais de TODO/DONE dans des fichiers de session.
+- Toutes les choses à faire du projet vivent dans le canvas « TODO — skillAISlop » ; les tâches terminées dans le canvas « DONE — skillAISlop ». Ces deux canvases sont **permanents** (ils survivent aux resets d'environnement) — jamais de TODO/DONE dans des fichiers de session.
 - **Automatique à chaque écriture** : dès qu'une tâche est terminée — sans demande explicite — la retirer du canvas TODO et l'ajouter en tête du canvas DONE avec sa date. Une tâche n'est pas terminée tant que les deux canvases ne reflètent pas son état.
 
 ## Zéro sujet New Âge (R11)
@@ -64,7 +64,7 @@ Fichier d'instructions pour tout agent IA intervenant sur la **Bibliothèque de 
   2. **Dédoublonnage** : confronter chaque candidat au catalogue selon R6 ; enrichir ou écarter.
   3. **Intégration** : template (R2) + routage complet (R3) + cross-refs (R4).
   4. **Audit intégral** : repasser le script de conformité sur les 616 skills et consigner le verdict (R5).
-  5. **Conservation** : mettre à jour le Knowledge skillslibrairy (compteur de skills, vagues, dates de mise à jour).
+  5. **Conservation** : mettre à jour le Knowledge skillaislop (compteur de skills, vagues, dates de mise à jour).
 - La **skill 250 (Conservateur)** pilote ce cycle ; une tâche planifiée trimestrielle le déclenche.
 
 ## Sources
@@ -73,7 +73,7 @@ Fichier d'instructions pour tout agent IA intervenant sur la **Bibliothèque de 
 - Section « Sources d'inspiration » du catalogue — vagues 1 à 4 et sources web liées
 ## Layout du dépôt (import Vibe Code)
 
-Ce dépôt est l'export du projet SkillsLibrairy depuis Vibe Work ; le canvas principal y est éclaté en fichiers :
+Ce dépôt est l'export du projet skillAISlop depuis Vibe Work ; le canvas principal y est éclaté en fichiers :
 
 - `skills/` — **une skill = un fichier** (`NNN-slug.md`, frontmatter YAML : num, nom, emoji, domaine, signal, mot_cle, nom_court, branche, synonymes, cross_refs + corps intégral) ;
 - `catalogue/` — sommaire, règles (R1-R11), template, guide d'utilisation, sources, vue d'ensemble ;

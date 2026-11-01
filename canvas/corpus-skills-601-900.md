@@ -1,14 +1,14 @@
 ---
 name: "corpus-skills-601-900"
-title: "Corpus de skills 601-900 — Bibliothèque de Skills AI"
+title: "Corpus de skills 601-900 — skillAISlop"
 type: "text/markdown"
 ---
 
-# 📚 Corpus de skills 601-900 — Bibliothèque de Skills AI
+# 📚 Corpus de skills 601-900 — skillAISlop
 
 > 🔎 **Index** : Sections détaillées des skills 601-900 · Sommaire, carte des domaines et routage dans le canvas principal « bibliotheque-skills-ai »
 
-Ce canvas contient les sections détaillées des skills 601-900 de la Bibliothèque de Skills AI. Le sommaire complet, la carte des domaines, la table de routage et l'arbre décisionnel (skill 0) se trouvent dans le canvas principal « bibliotheque-skills-ai ».
+Ce canvas contient les sections détaillées des skills 601-900 de la skillAISlop. Le sommaire complet, la carte des domaines, la table de routage et l'arbre décisionnel (skill 0) se trouvent dans le canvas principal « bibliotheque-skills-ai ».
 
 ## 601. 📋 Contrôleur de session de travail IA
 

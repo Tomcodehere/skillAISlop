@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""routage.py — outillage SQL du routage de la Bibliothèque de Skills AI.
+"""routage.py — outillage SQL du routage de la skillAISlop.
 
 Ce script vit dans le canvas « routage-sql-skills » : le corps du canvas EST
 le script. Pour l'utiliser : sed -n '7,$p' CANVAS.md > routage.py puis :
@@ -1478,7 +1478,7 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False)
         skills.append(entree)
 
     export = {
-        "catalogue": "Bibliothèque de Skills AI",
+        "catalogue": "skillAISlop",
         "genere_le": time.strftime("%Y-%m-%d"),
         "mode": "complet" if complet else "compact",
         "stats": {
@@ -1511,7 +1511,7 @@ def cmd_count(canvas: Path, dossier: Path) -> int:
     operationnelles = total - 1  # hors skill 0 (routeur)
 
     lignes = [
-        "# Compteur de skills — Bibliothèque de Skills AI",
+        "# Compteur de skills — skillAISlop",
         "",
         "> 🔎 **Index** : Total · Répartition par domaine · Génération",
         "",
@@ -1533,7 +1533,7 @@ def cmd_count(canvas: Path, dossier: Path) -> int:
         "(canvas « Routage SQL Skills ») le "
         f"{time.strftime('%Y-%m-%d')}. À régénérer après chaque évolution "
         "du catalogue (R8), puis recopier dans le canvas "
-        "« totalSkillsCount — Bibliothèque de Skills AI ».",
+        "« totalSkillsCount — skillAISlop ».",
     ]
 
     dossier = Path(dossier)
@@ -1546,7 +1546,7 @@ def cmd_count(canvas: Path, dossier: Path) -> int:
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Routage SQL — Bibliothèque de Skills AI")
+    ap = argparse.ArgumentParser(description="Routage SQL — skillAISlop")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     p_build = sub.add_parser("build", help="canvas -> skills.db")

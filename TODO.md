@@ -1,10 +1,10 @@
 ---
-name: "todo-skillslibrairy"
-title: "TODO — Bibliothèque de Skills AI"
+name: "todo-skillaislop"
+title: "TODO — skillAISlop"
 type: "text/markdown"
 ---
 
-# TODO — Bibliothèque de Skills AI
+# TODO — skillAISlop
 
 > 🔎 **Index** : Améliorations routeur
 

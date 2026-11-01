@@ -1,6 +1,6 @@
-# skillAISlop — Bibliothèque de Skills AI (SkillsLibrairy)
+# skillAISlop — skillAISlop (skillAISlop)
 
-Export du projet SkillsLibrairy (Vibe Work, 2026-11-01) : **617 skills** numérotées (0-616) organisées en **28 domaines**, avec catalogue, routeur SQL et outils d'audit.
+Export du projet skillAISlop (Vibe Work, 2026-11-01) : **617 skills** numérotées (0-616) organisées en **28 domaines**, avec catalogue, routeur SQL et outils d'audit.
 
 ## Structure
 

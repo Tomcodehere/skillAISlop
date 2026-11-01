@@ -1,14 +1,14 @@
 ---
 name: "corpus-skills-1-300"
-title: "Corpus de skills 1-300 — Bibliothèque de Skills AI"
+title: "Corpus de skills 1-300 — skillAISlop"
 type: "text/markdown"
 ---
 
-# 📚 Corpus de skills 1-300 — Bibliothèque de Skills AI
+# 📚 Corpus de skills 1-300 — skillAISlop
 
 > 🔎 **Index** : Sections détaillées des skills 1-300 · Sommaire, carte des domaines et routage dans le canvas principal « bibliotheque-skills-ai »
 
-Ce canvas contient les sections détaillées des skills 1-300 de la Bibliothèque de Skills AI. Le sommaire complet, la carte des domaines, la table de routage et l'arbre décisionnel (skill 0) se trouvent dans le canvas principal « bibliotheque-skills-ai ».
+Ce canvas contient les sections détaillées des skills 1-300 de la skillAISlop. Le sommaire complet, la carte des domaines, la table de routage et l'arbre décisionnel (skill 0) se trouvent dans le canvas principal « bibliotheque-skills-ai ».
 
 ## 1. ✍️ Rédacteur d'articles SEO
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

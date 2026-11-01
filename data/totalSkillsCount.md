@@ -1,4 +1,4 @@
-# Compteur de skills — Bibliothèque de Skills AI
+# Compteur de skills — skillAISlop
 
 > 🔎 **Index** : Total · Répartition par domaine · Génération
 
@@ -39,4 +39,4 @@
 
 ## Génération
 
-Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-01. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — Bibliothèque de Skills AI ».
+Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-01. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — skillAISlop ».

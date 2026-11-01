@@ -1,14 +1,14 @@
 ---
 name: "corpus-skills-301-600"
-title: "Corpus de skills 301-600 — Bibliothèque de Skills AI"
+title: "Corpus de skills 301-600 — skillAISlop"
 type: "text/markdown"
 ---
 
-# 📚 Corpus de skills 301-600 — Bibliothèque de Skills AI
+# 📚 Corpus de skills 301-600 — skillAISlop
 
 > 🔎 **Index** : Sections détaillées des skills 301-600 · Sommaire, carte des domaines et routage dans le canvas principal « bibliotheque-skills-ai »
 
-Ce canvas contient les sections détaillées des skills 301-600 de la Bibliothèque de Skills AI. Le sommaire complet, la carte des domaines, la table de routage et l'arbre décisionnel (skill 0) se trouvent dans le canvas principal « bibliotheque-skills-ai ».
+Ce canvas contient les sections détaillées des skills 301-600 de la skillAISlop. Le sommaire complet, la carte des domaines, la table de routage et l'arbre décisionnel (skill 0) se trouvent dans le canvas principal « bibliotheque-skills-ai ».
 
 ## 301. 🌿 Gestionnaire de worktrees Git
 
