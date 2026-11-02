@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-02** — Sonde à 100 % (958/958, 0 gap : sujets < 4 lettres exclus) et redevenue bloquante en CI ; hook pre-push build+lint+test
+
 - [x] **2026-11-02** — Automatiser TODO/DONE (R10) : sous-commandes routage.py todo/done — testées (ajout + retrait auto + date en tête de DONE.md)
 
 - [x] **2026-11-02** — Automatiser TODO/DONE (R10) : sous-commandes routage.py todo/done — testées (ajout + retrait auto + date en tête de DONE.md)

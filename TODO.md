@@ -45,5 +45,5 @@ type: "text/markdown"
 
 - [ ] Merger la PR #2 dès que CLEAN + CI verte (éviter l'accumulation de commits sur la branche)
 - [ ] Un commit par sujet ; tester localement (build+lint+test) AVANT push, pas corriger via la CI après
-- [ ] Sonde bloquante en CI une fois à 100 % (aujourd'hui continue-on-error ; seul gap « ton » = artefact de sonde, mot < 4 lettres)
-- [ ] Revue `git diff --stat` + relecture avant chaque push
+- [x] ~~Sonde bloquante en CI~~ → 100 % (958/958, 0 gap) : sujets < 4 lettres exclus de la sonde, sonde redevenue bloquante en CI
+- [x] ~~Tests avant push~~ → hook .git/hooks/pre-push (build+lint+test) ; revue git diff --stat à faire à la main avant chaque push

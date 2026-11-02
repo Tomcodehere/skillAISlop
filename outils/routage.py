@@ -1943,7 +1943,7 @@ def cmd_sonde(fichier, top):
     sujets = []
     for d in db.execute('SELECT domaine, mots_cles FROM domaines ORDER BY domaine'):
         for kw in re.findall('[a-z0-9-]+', norm(d['mots_cles'])):
-            if len(kw) >= 3:
+            if len(kw) >= 4:  # sujets < 4 lettres = artefacts de sonde (ex. « ton »)
                 sujets.append((kw, d['domaine']))
     for r in db.execute('SELECT num, signal, domaine FROM skills WHERE signal != "" ORDER BY num'):
         sujets.append((r['signal'], r['domaine']))
@@ -1982,7 +1982,7 @@ def cmd_sonde(fichier, top):
         print(f'sonde: {len(couverts)}/{total} couverts ({pc}%) · {len(partiels)} partiels · {len(gaps)} gaps -> {fichier}')
     else:
         print(rapport)
-    return 0  # rapport informatif : les gaps ne font pas échouer la CI
+    return 1 if gaps else 0
 
 def cmd_misses(clear: bool, suggest: bool) -> int:
     if not DB_PATH.exists():

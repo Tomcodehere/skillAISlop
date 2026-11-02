@@ -1,10 +1,10 @@
 # Sonde de couverture
 
-Total 972 sujets · Couverts 971 (99%) · Partiels 0 · Gaps 1
+Total 958 sujets · Couverts 958 (100%) · Partiels 0 · Gaps 0
 
 ## Gaps (aucune candidate)
 
-- [Communication] ton
+- aucun
 
 ## Partiels (pistes/domaines seulement)
 

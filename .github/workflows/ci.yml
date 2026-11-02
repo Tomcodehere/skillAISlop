@@ -38,9 +38,8 @@ jobs:
           canvas/corpus-skills-301-600.md
           canvas/corpus-skills-601-900.md
 
-      - name: Sonde de couverture (rapport informatif)
+      - name: Sonde de couverture (bloquante, 100 % attendu)
         run: python3 outils/routage.py sonde
-        continue-on-error: true
 
       - name: Vocabulaire FTS (rapport informatif)
         run: python3 outils/routage.py vocab --limit 15
