@@ -1,0 +1,34 @@
+## 🗺️ Vue d'ensemble
+
+```mermaid
+flowchart TD
+    A[Entrée utilisateur] --> B{Nature du besoin}
+    B -->|Produire du texte| C[1 SEO · 2 Ton · 3 Copy · 4 Email · 7 Traduction\n27 Office · 29 UGC · 30 Social · 31 LinkedIn · 24 CR]
+    B -->|Améliorer l'existant| D[8 Relecture · 10 Review · 2 Réécriture\n34 Charte · 30 Optimisation]
+    B -->|Comprendre| E[11 Expliqueur · 5 Synthèse · 13 Data · 16 Juridique\n32 Benchmark · 39 Socrate]
+    B -->|Décider & planifier| F[15 Projet · 6 Brainstorming · 14 Deck · 12 Entretien\n19 Grill Me · 26 Découpage · 28 Fichiers · 36 KPI · 50 SOP]
+    B -->|Créer & construire| H[9 Code · 21 Incrémental · 20 Debug · 22 Diagrammes\n23 Doc · 35 Reco · 38 Skill Creator · 48 Infographie · 47 Naming]
+    B -->|Se former & progresser| I[40 Quiz · 41 Examen · 44 CV · 45 Négociation\n46 Conflits · 49 Rôle · 42 Voyage · 43 Budget]
+    B -->|Augmenter la puissance IA| G[17 Meta-prompting · 18 Recherche · 37 Red-team]
+    B -->|Contenus & prise de parole| M[51 Newsletter · 52 YouTube\\n53 Repurposing · 75 Discours]
+    B -->|Vendre & servir| J[54 Prospection · 55 Feedback\\n56 Support · 62 Propositions]
+    B -->|Piloter & décider| K[57 BMC · 58 Prix · 59 Finances\\n60 Prémortem · 61 Diable · 74 OKR · 73 Rétro]
+    B -->|Produit & design| L[63 PRD · 64 Critique UX\\n65 Microcopy · 66 Chatbot]
+    B -->|Qualité dev & automatisation| N[67 Tests · 68 Commits · 69 SQL\\n70 Sécurité · 71 Workflows · 72 Semaine]
+    B -->|Agents & IA industrielle| O[76 Agents CLI · 77 MCP · 96 Datasets · 97 Evals\n98 RAG · 99 Outils · 100 Instructions · 224 Autonomes · 236 Contexte · 237 Debug prompts]
+    B -->|Analyser & piloter| P[91 Scraping · 93 Prédictif · 101 Concepts · 103 Marché\n106 Cohortes · 107 Dashboards · 108 Storytelling · 109 Funnels · 186 Tracking]
+    B -->|Rédaction experte| Q[116 Longs · 117 Traduction · 119 FAQ · 120 Plagiat\n124 Cas clients · 125 Livres blancs · 130 Guides · 137 Courriers · 226 Lectures]
+    B -->|Visuel, vidéo & audio| R[139 Images · 140 Photos · 144 Vidéo · 145 Avatars · 146 Storyboard\n147 Miniatures · 154 Voix · 155 Musique · 157 Podcasts · 158 Sous-titres · 160 SFX]
+    B -->|Marketing & croissance| S[118 Fiches produits · 123 Pages de vente · 135 Éditorial\n161 SEO · 162 CRO · 163 Lancement · 173 Fidélité · 174 Lead magnets · 175 Communauté]
+    B -->|Vendre & financer| T[111 Leads · 112 Win/loss · 131 Témoignages · 164 Battlecards\n166 Objections · 168 Appels d'offres · 169 Marges · 170 Prévisionnel · 171 Levée]
+    B -->|Produit & design| U[176 Roadmap · 177 Accessibilité · 179 Activation · 180 Doc API\n181 Design system · 182 Formulaires · 185 Backlog · 187 Interviews · 188 Synthèse UX]
+    B -->|Gouvernance & conformité| V[189 RGPD · 190 Conformité · 191 Fraudes · 192 Modération\n193 Charte IA · 195 Injection · 197 Permissions · 199 Runbooks · 239 Réglementaire]
+    B -->|RH & formation| W[132 Enfants · 201 Formations · 202 Postes · 203 Onboarding\n204 Progression · 205 Compétences · 231 Reconversion · 233 Employer branding · 234 Mentorat]
+    B -->|Organisation & équipe| X[114 Connaissances · 208 Ateliers · 209 Réunions · 210 Décisions\n211 Team building · 232 Rituels · 235 Crise · 243 Audits internes]
+    B -->|Vie quotidienne & perso| Y[214 Sport · 215 Nutrition · 216 Recettes · 218 Cadeaux · 221 Événements\n225 Déménagement · 227 Investissement · 230 Abonnements · 246 Succession · 248 Équilibre · 249 Retraite]
+    B -->|Agentique & quotidien (vague 5)| Z[251 Handoff · 252 E2E · 256 Incidents · 259 Multi-agents\n261 Déclenchement · 268 PDF · 271 AI Act · 278 Hooks · 284 RDV · 293 Éloquence · 300 Gamification]
+    B -->|Dev, data & quotidien (vague 6)| W6[301 Worktrees · 308 Profileur · 326 Budget tokens · 339 Test fantôme\n343 Qualité données · 368 Démos · 408 Offres emploi · 427 Business cases · 447 Fuites données · 465 Travail profond · 483 Sommeil · 500 Parcours perso]
+    B -->|Sécurité info & web (vague 7)| V7[501 Auth · 502 En-têtes · 503 WordPress · 504 Menaces\n505 Correctifs · 506 Chiffrement · 507 Cloud · 508 CI/CD · 509 Phishing · 510 Réseau]
+    B -->|Gaps sonde + web 2026 (vague 8)| V8[511 Stress · 519 Bourse · 523 Regex · 530 Arnaques\n538 Humaniseur IA · 540 Vibe coding · 546 Prompt images · 561 Deepfakes\n577 Supervision IA · 590 Séparation · 600 Bilan]
+    B -->|skills-hub.ai + i-have-adhd (vague 9)| V9[601 Revue session · 602 Revue CTO · 606 Sprint dette\n612 GEO · 614 Pré-déploiement · 615 Auto-amélioration · 616 TDAH-friendly]
+```
