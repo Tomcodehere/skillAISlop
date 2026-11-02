@@ -85,3 +85,22 @@ Les skills 19-50 s'inspirent des skills, prompts et workflows les plus populaire
 - [skills-hub.ai — Best migrations skills](https://skills-hub.ai/best/migrations) — auto-amélioration de l'agent et mémoire de leçons → skill 615
 - [skills-hub.ai — Skill Stacks](https://skills-hub.ai/) — briefing du matin multi-projets → skill 611
 - [i-have-adhd (GitHub, ayghri)](https://github.com/ayghri/i-have-adhd) — communication TDAH-friendly : action d'abord, étapes numérotées, état rappelé chaque tour → skill 616
+
+**Vague 11 (skills 700-799) — veille web 2026 (registres, rapports, tendances)** :
+
+- [skills.sh (Vercel Labs)](https://skills.sh/) — registre ouvert, leaderboard par installs (find-skills 3,6 M), rapport « State of Agent Skills 2026 » → skills 715, 701
+- [ClawHub (OpenClaw)](https://clawhub.ai/) — registre OpenClaw, top downloads 2026 (Capability Evolver, GitHub, agent-browser), incident ClawHavoc → skills 715, 716
+- [awesome-claude-skills (ComposioHQ)](https://github.com/ComposioHQ/awesome-claude-skills) — 1000+ skills, 72 k stars → skills 715, 716
+- [2026 Agentic Coding Trends Report (Anthropic)](https://resources.anthropic.com/hubfs/2026%20Agentic%20Coding%20Trends%20Report.pdf) — harness, multi-agents, vérifiabilité → skills 712, 724
+- [Firecrawl — Top 15 Agentic AI Trends 2026](https://www.firecrawl.dev/blog/agentic-ai-trends) — MCP/A2A, agents de recherche, SOC agentique, live search vs hallucination → skills 708, 711, 722, 723
+- [Vercel — State of Agent Skills](https://vercel.com/blog/state-of-agent-skills) — 1 M de skills, 280 M d'installs, catégories sur-représentées → skill 715
+- [MindStudio — 6 protocoles agents 2026 (MCP, A2A, AGUI, A2UI, AP2, X42)](https://www.mindstudio.ai/blog/six-agent-protocols-ai-builders-2026) → skill 711
+- [Recherche arXiv — Orchestration of Multi-Agent Systems 2026](https://arxiv.org/html/2601.13671v1) — MCP + A2A, échecs des systèmes multi-agents → skills 711, 712
+- [video-shotcraft (GitHub)](https://github.com/Vincentwei1021/video-shotcraft) — 124 recettes de plans Remotion pour vidéos produit → skill 717
+- [caveman (JuliusBrussee)](https://github.com/juliusbrussee/caveman) — compression des réponses d'agent (-65 % de tokens) → skill 719
+- [Karpathy guidelines / behavioural skill 2026](https://composio.dev/content/top-claude-skills) — 4 règles de vérifiabilité du code IA → skill 724
+- [Walma/Taskade/Firecrawl — best Claude skills 2026 roundups](https://walma.ai/en/guides/skills/best-claude-skills) — superpowers, frontend-design, Grill Me, Remotion, text-to-cad → skills 717, 718, 720
+- [DataCamp — Top 100+ Agent Skills](https://www.datacamp.com/blog/top-agent-skills) — catégories recherche, sécurité, croissance, média → skills 708, 709
+- [AOFIRS — AI skills demand 2026 (PwC Barometer)](https://aofirs.org/articles/why-job-postings-requiring-ai-skills-have-doubled-year-over-year) — fact-checker de sorties IA, RAG specialist → skills 700, 725
+- [Arahi/Vellum/Lindy — best AI personal assistants 2026](https://arahi.ai/blog/best-ai-personal-assistants-2026) — inbox triage, meeting prep, daily brief, délégation → skills 701, 702, 703, 706
+- [Zentor — best Claude skills 2026](https://zentor.ai/blog/best-claude-skills) — video-shotcraft, text-to-cad, i-have-adhd → skills 717, 718

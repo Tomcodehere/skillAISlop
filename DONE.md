@@ -8,6 +8,32 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-02** — Sonde à 100 % (958/958, 0 gap : sujets < 4 lettres exclus) et redevenue bloquante en CI ; hook pre-push build+lint+test
+
+- [x] **2026-11-02** — Automatiser TODO/DONE (R10) : sous-commandes routage.py todo/done — testées (ajout + retrait auto + date en tête de DONE.md)
+
+- [x] **2026-11-02** — Automatiser TODO/DONE (R10) : sous-commandes routage.py todo/done — testées (ajout + retrait auto + date en tête de DONE.md)
+
+- [x] **2026-11-02** — Tester la sous-commande todo
+
+- [x] **2026-11-02** — AGENTS.md documenté avec tous les ajouts : nouvelle section « Architecture du routeur SQL » (tables skills_fts/skills_vec/trigrammes/skills_fts_vocab/meta/versions/routes, index, pragmas, cascade complète avec voies+scores+exit codes, sous-commandes vocab/versions/analytics), layout MAJ (CI + commandes) — test ✅ 224/224 · audit ✅ 799/799
+
+- [x] **2026-11-02** — Instructions du routeur (skill 0 + AGENTS.md) mises à jour pour exploiter la cascade complète : voies et scores de chaque candidate, interprétation des exit 0/1/2 (exit 0 = première candidate, exit 1 = piste à confirmer, exit 2 = consulter `misses --suggest` avant réponse directe) — test ✅ 224/224 · audit ✅ 799/799 · generate --check ✅
+
+- [x] **2026-11-02** — Passe floue trigrammes passée en SQL (table `trigrammes` WITHOUT ROWID, 54 304 entrées, indexée PK) : 16,3 → 1,8 ms, résultats identiques à la version Python (vérifié sur 5 requêtes), repli Python si table absente — route 7,8 → 7,6 ms (max 32 → 14 ms) · test ✅ 224/224 · IoT/zzz exit 2 · audit ✅ 799/799 · sonde 971/972 (0 partiel)
+
+- [x] **2026-11-02** — Optimisations du routeur : hoist de norm(query) + cache des mot_cle normalisés, k vec réduit à top, vec dim 256→128 (base 1,76→1,24 Mo), PRAGMA WAL + cache_size=-8000, VEC_PISTE relevé à 0.80 (zzz qwertyu repasse exit 2) — route 8,9→7,8 ms · build 0,23 s · test ✅ 224/224 · audit ✅ 799/799 · sonde 971/972 (0 partiel)
+
+- [x] **2026-11-02** — Améliorations SQLite : index secondaires (domaine, branche), tables meta+versions avec snapshot JSON et diff par build (`routage.py versions`), fts5vocab (`routage.py vocab`), analytics SQL des routages (`routage.py analytics`), PRAGMA optimize + VACUUM au build — build ✅ 800 skills · 783 synonymes · 800 vecteurs · test ✅ 224/224 · audit ✅ 799/799
+
+- [x] **2026-11-02** — CI GitHub Actions ajoutée (.github/workflows/ci.yml : build, generate --check, lint, test 224/224, audit conformité, sonde, compteur à jour) + bouclage sonde : 5 partiels levés (synonymes decks/arbitrer/trancher/tutorat/dispatcher), sonde à 971/972 couverts, 0 partiel, 1 gap (« ton » seul, couvert par « ton d'équipe ») — build ✅ 800 skills · 783 synonymes · 800 vecteurs · lint ✅ · test ✅ 224/224 · audit ✅ 799/799
+
+- [x] **2026-11-02** — Base vectorisée (sqlite-vec) : table `skills_vec` (vec0, cosinus, dim 256, embeddings locaux hash bag-of-words) créée au `build` et requêtée en voie « vec » entre le FTS5 et la passe floue ; seuil candidat 0.80, piste vec ≥ 0.65 ; repli gracieux si l'extension est absente (FTS5 seul) — build ✅ 800 vecteurs · test ✅ 224/224 (IoT et zzz restent exit 2) · lint ✅ · audit ✅ 799/799 · sonde 966/972 (99 %) · bench route 8,8 ms
+
+- [x] **2026-11-02** — Vague 11 ajoutée : 100 skills (700-799) sourcées d'une veille web 2026 (skills.sh, ClawHub, awesome-claude-skills, rapports 2026 Anthropic/Vercel) : fact-checking IA, A2A, harness, observabilité, mémoire structurée, audit de skills, vidéo Remotion, packshots IA, social listening, social selling, closing, upsell, tunnel e-commerce, lancement produit, daily brief, médiation, conduite du changement, recrutement, offboarding, CSE, RPS, négociation salariale, business plan, pitch investisseurs, trésorerie PME, sauvegardes 3-2-1, AI Act, contrats, PI — build ✅ 800 skills · 28 domaines · 774 synonymes · lint ✅ · 224/224 tests ✅ · audit ✅ 799/799 · R6 ✅ · R8 ✅ · generate --check ✅ ; compteur (800), exports compact/complet et sonde (966/972, 99 %) régénérés
+
+- [x] **2026-11-02** — Vague 10 ajoutée : 83 skills (617-699) — vie quotidienne approfondie (burn-out, charge mentale, syndrome de l'imposteur, sommeil, allergies, santé, grossesse, famille, seniors, handicap, déménagement, dépannage, voiture, voyage, sport, animaux, jardin, cuisine végé), travail & carrière (entretien annuel, promotion, licenciement, harcèlement, discrimination, télétravail, réunions efficaces, feedback, pitch, onboarding), finance & juridique (trésorerie, TVA, clôture, paie, surendettement, succession, divorce, résiliation, bail, copropriété, assurances, banque, épargne, retraite, achat immo), digital & IA 2026 (mots de passe, ransomware, arnaques, droit à l'image, RGPD quotidien, WCAG, green IT, veille tech, choix LLM, RAG, fine-tuning, injection de prompt, evals, coût tokens, no-code, prise de notes, langues, permis, reconversion) — build ✅ 700 skills · 28 domaines · 631 synonymes · lint ✅ · 125/125 tests ✅ · audit ✅ 699/699 · R6 ✅ · R8 ✅ ; compteur, exports compact/complet et sonde (864/872, 99 %) régénérés
+
 - [x] **2026-11-01** — Vague 9 ajoutée : 16 skills sourcées du registre open source skills-hub.ai (601-616 : revue de session IA, revue CTO, régressions visuelles, contrats d'API, plans de test manuels, sprint dette technique, publication mobile, design-to-code, Kubernetes, SOC 2, briefing du matin, GEO moteurs IA, SWOT, pré-déploiement, auto-amélioration d'agent) + skill i-have-adhd (communication TDAH-friendly) — build ✅ 617 sections · lint ✅ (449 synonymes, collision « recette » corrigée) · 42/42 tests ✅ · audit ✅ 616/616 · R6 ✅ · R8 ✅ ; compteur et export compact régénérés dans leurs canvases
 
 - [x] **2026-11-01** — Catalogue découpé en corpus (plafond de taille d'un canvas, 1 024 000 octets) : canvas principal (sommaire, règles, skill 0, routage, ~148 Ko) + canvases corpus-skills-1-300 (~431 Ko), corpus-skills-301-600 (~434 Ko) et corpus-skills-601-900 ; script d'audit passé en multi-fichiers, routeur adapté (export compact par défaut, `--complet` pour le texte intégral, lecture des sections dans les corpus) ; AGENTS.md documenté (layout corpus, commandes multi-fichiers)

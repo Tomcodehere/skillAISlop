@@ -6,7 +6,7 @@ type: "text/markdown"
 
 # 🧠 skillAISlop
 
-Catalogue de **616 skills complètes** prêtes à l'emploi avec un assistant IA (ChatGPT, Claude, Gemini, Mistral, Copilot…), **plus un système de routage** (skill 0) qui sélectionne automatiquement la bonne skill selon l'intention de l'utilisateur. Les skills 1-18 couvrent les fondamentaux ; les skills 19-50 sont inspirées des skills les plus populaires de la communauté (Grill Me de Matt Pocock, debugging systématique, skills officielles Anthropic, naming, pipelines de recommandation…) ; les skills 51-75 étendent le catalogue vers les créateurs de contenu, la vente et la relation client, la stratégie et le pilotage, le produit et le design, la qualité de développement et l'organisation ; les skills 76-250 forment une quatrième vague inspirée des compétences IA les plus utiles en 2026 : agents autonomes et MCP, data et pipelines, rédaction experte, création visuelle et audio, marketing, vente et finance, gouvernance et conformité, RH et formation, et jusqu'à la vie quotidienne  — avec la règle de zéro doublon (R6) ; les skills 251-300 forment une cinquième vague sourcée du web 2026 : handoff de session, tests E2E navigateur et de charge, incidents production, orchestration multi-agents, mémoire longue durée, coûts LLM, fine-tuning vs RAG, AI Act et AIPD, RH structurée et vie quotidienne (fiscal, crédit, immobilier), avec les règles de synchronisation automatique (R8) et de concision (R9) ; les skills 301-500 forment une sixième vague sourcée du web 2026 : outillage développeur (worktrees Git, feature flags, secrets, profiling, fuzzing), agents IA fiables (budget de tokens, schémas de sortie, tests fantômes, dérive de modèle), data gouvernée (qualité, métriques, dbt), marketing et vente opérationnels, rédaction étendue, communication d'entreprise, RH approfondie, gestion et stratégie, sécurité offensive et juridique, produit et design, productivité personnelle, vie quotidienne (sommeil, expatriation, aidants) et apprentissage ; les skills 501-510 forment une septième vague dédiée à la sécurité informatique et web : authentification (MFA, SSO, sessions), en-têtes HTTP & cookies, CMS (WordPress), modélisation de menaces (STRIDE), correctifs & CVE, chiffrement & TLS, sécurité cloud, chaîne CI/CD, simulation de phishing, réseau & Wi-Fi. ; les skills 511-600 forment une huitième vague : les 33 sujets non couverts de la sonde (santé mentale factuelle, crypto/web3, robotique, arts de la scène, musique, bourse & ETF, parentalité, montage vidéo, photographie, regex, game dev, dev mobile, design d'API, franchise, surendettement, voisinage, arnaques, droit à l'image, bénévolat, baby-sitting, poésie, journal intime, sorties culturelles, récits de vie) complétés par une veille web 2026 (vibe coding, humaniseur IA, Obsidian, audit de budget, supervision d'agents, deepfakes, quotidien et business). ; les skills 601-616 forment une neuvième vague sourcée du registre open source skills-hub.ai (14 300+ skills, top installé 2026 : revue de session IA, revue CTO, régressions visuelles, contrats d'API, plans de test manuels, sprint dette technique, publication mobile, design-to-code, Kubernetes, SOC 2, briefing du matin, GEO pour moteurs IA, SWOT, contrôle pré-déploiement, agent auto-amélioré), complétée par la skill i-have-adhd (communication TDAH-friendly) Chaque skill suit la même structure : **Objectif · Instructions · Méthode · Exemple de prompt · Cas d'usage**.
+Catalogue de **799 skills complètes** prêtes à l'emploi avec un assistant IA (ChatGPT, Claude, Gemini, Mistral, Copilot…), **plus un système de routage** (skill 0) qui sélectionne automatiquement la bonne skill selon l'intention de l'utilisateur. Les skills 1-18 couvrent les fondamentaux ; les skills 19-50 sont inspirées des skills les plus populaires de la communauté (Grill Me de Matt Pocock, debugging systématique, skills officielles Anthropic, naming, pipelines de recommandation…) ; les skills 51-75 étendent le catalogue vers les créateurs de contenu, la vente et la relation client, la stratégie et le pilotage, le produit et le design, la qualité de développement et l'organisation ; les skills 76-250 forment une quatrième vague inspirée des compétences IA les plus utiles en 2026 : agents autonomes et MCP, data et pipelines, rédaction experte, création visuelle et audio, marketing, vente et finance, gouvernance et conformité, RH et formation, et jusqu'à la vie quotidienne  — avec la règle de zéro doublon (R6) ; les skills 251-300 forment une cinquième vague sourcée du web 2026 : handoff de session, tests E2E navigateur et de charge, incidents production, orchestration multi-agents, mémoire longue durée, coûts LLM, fine-tuning vs RAG, AI Act et AIPD, RH structurée et vie quotidienne (fiscal, crédit, immobilier), avec les règles de synchronisation automatique (R8) et de concision (R9) ; les skills 301-500 forment une sixième vague sourcée du web 2026 : outillage développeur (worktrees Git, feature flags, secrets, profiling, fuzzing), agents IA fiables (budget de tokens, schémas de sortie, tests fantômes, dérive de modèle), data gouvernée (qualité, métriques, dbt), marketing et vente opérationnels, rédaction étendue, communication d'entreprise, RH approfondie, gestion et stratégie, sécurité offensive et juridique, produit et design, productivité personnelle, vie quotidienne (sommeil, expatriation, aidants) et apprentissage ; les skills 501-510 forment une septième vague dédiée à la sécurité informatique et web : authentification (MFA, SSO, sessions), en-têtes HTTP & cookies, CMS (WordPress), modélisation de menaces (STRIDE), correctifs & CVE, chiffrement & TLS, sécurité cloud, chaîne CI/CD, simulation de phishing, réseau & Wi-Fi. ; les skills 511-600 forment une huitième vague : les 33 sujets non couverts de la sonde (santé mentale factuelle, crypto/web3, robotique, arts de la scène, musique, bourse & ETF, parentalité, montage vidéo, photographie, regex, game dev, dev mobile, design d'API, franchise, surendettement, voisinage, arnaques, droit à l'image, bénévolat, baby-sitting, poésie, journal intime, sorties culturelles, récits de vie) complétés par une veille web 2026 (vibe coding, humaniseur IA, Obsidian, audit de budget, supervision d'agents, deepfakes, quotidien et business). ; les skills 601-616 forment une neuvième vague sourcée du registre open source skills-hub.ai (14 300+ skills, top installé 2026 : revue de session IA, revue CTO, régressions visuelles, contrats d'API, plans de test manuels, sprint dette technique, publication mobile, design-to-code, Kubernetes, SOC 2, briefing du matin, GEO pour moteurs IA, SWOT, contrôle pré-déploiement, agent auto-amélioré), complétée par la skill i-have-adhd (communication TDAH-friendly) ; les skills 617-699 forment une dixième vague (vie quotidienne approfondie : burn-out, charge mentale, santé, famille, déménagement, jardin, sport, animaux ; travail & carrière : télétravail, réunions efficaces, feedback, harcèlement, licenciement, promotion ; finance & juridique : trésorerie, TVA, clôture, paie, surendettement, succession, divorce, bail, copropriété, assurances, retraite, épargne ; digital & IA 2026 : mots de passe, ransomware, arnaques en ligne, RGPD quotidien, WCAG, green IT, choix de LLM, RAG, fine-tuning, injection de prompt, evals, coût des tokens, automatisations no-code, veille tech) ; les skills 700-799 forment une onzième vague sourcée d'une veille web 2026 (skills.sh, ClawHub, awesome-claude-skills, rapports Anthropic/Vercel 2026) : productivité personnelle agentique (daily brief, meeting prep, relances, statut d'équipe, agenda optimisé), vérification et fiabilité de l'IA (fact-checking, NotebookLM ancré, prompt RCORCF, raisonnement pas à pas, caveman), agentique avancé (A2A, harness, observabilité OTel GenAI, mémoire structurée, find-skills, audit de skills, SOC agentique, règles Karpathy), création (vidéo Remotion, text-to-CAD, packshots IA, carrousels, scripts shorts), marketing & vente 2026 (social listening, calendrier éditorial, social selling, démos, objections, closing, upsell, parrainage, séquences email, ads, SEO technique, tunnel e-commerce, lancement produit), gestion & RH (rapport hebdo, réunions distantes, délégation, médiation, priorités, conduite du changement, risques projet, Scrum, CSE, RPS, recrutement, offboarding, formation), carrière (entretien tech, négociation salariale, candidature, business plan, pitch investisseurs, relation investisseurs, trésorerie PME, facturation, devis, choix de SaaS, migration de données, automatisation bureautique, base de connaissances, veille juridique, assurances pro, contrats, PI, AI Act, incidents cyber, sauvegardes 3-2-1, hygiène numérique, phishing, paiement en ligne). Chaque skill suit la même structure : **Objectif · Instructions · Méthode · Exemple de prompt · Cas d'usage**.
 
 ## 📑 Sommaire
 
@@ -629,6 +629,189 @@ Catalogue de **616 skills complètes** prêtes à l'emploi avec un assistant IA 
 | 614 | Contrôleur pré-déploiement | Développement |
 | 615 | Boucle d'auto-amélioration de l'agent | IA / Prompting |
 | 616 | Communication adaptée TDAH | IA / Prompting |
+| 617 | Accompagnement burn-out | Personnel |
+| 618 | Charge mentale | Personnel |
+| 619 | Syndrome de l'imposteur | Personnel |
+| 620 | Perfectionnisme paralysant | Personnel |
+| 621 | Cauchemars & réveils nocturnes | Personnel |
+| 622 | Allergies & intolérances alimentaires | Personnel |
+| 623 | Observance & prise de médicaments | Personnel |
+| 624 | Santé bucco-dentaire | Personnel |
+| 625 | Optique & examen de vue | Personnel |
+| 626 | Grossesse & suivi médical | Personnel |
+| 627 | Allaitement & diversification | Personnel |
+| 628 | Garde d'enfants & nounou | Personnel |
+| 629 | Éducation des enfants | Personnel |
+| 630 | Maintien à domicile des seniors | Personnel |
+| 631 | Handicap, MDPH & aménagements | Personnel |
+| 632 | Entretien annuel d'évaluation | RH & formation |
+| 633 | Demander une promotion | Carrière |
+| 634 | Licenciement & fin de contrat | Juridique |
+| 635 | Reclassement & mobilité interne | Carrière |
+| 636 | Harcèlement moral au travail | Juridique |
+| 637 | Discriminations au travail | Juridique |
+| 638 | Trésorerie & prévisionnel | Finance |
+| 639 | TVA & déclarations fiscales pro | Finance |
+| 640 | Clôture comptable & bilan | Finance |
+| 641 | Bulletin de paie | Finance |
+| 642 | Télétravail & management à distance | RH & formation |
+| 643 | Réunions efficaces | Gestion |
+| 644 | Feedback constructif | RH & formation |
+| 645 | Pitch elevator | Communication |
+| 646 | Landing page & CTA | Marketing |
+| 647 | E-réputation & avis en ligne | Marketing |
+| 648 | Résiliation & droit de rétractation | Juridique |
+| 649 | Médiation & règlement amiable | Juridique |
+| 650 | Fichage Banque de France & surendettement | Finance |
+| 651 | Succession & héritage | Juridique |
+| 652 | Divorce & pension alimentaire | Juridique |
+| 653 | Déménagement & mise en service | Personnel |
+| 654 | Dépannage & petites réparations | Personnel |
+| 655 | Entretien de la voiture | Personnel |
+| 656 | Préparation d'un voyage | Personnel |
+| 657 | Organisation d'un dîner entre amis | Personnel |
+| 658 | Cadeaux & liste de souhaits | Personnel |
+| 659 | Programme sportif débutant | Personnel |
+| 660 | Gestion des animaux domestiques | Personnel |
+| 661 | Entretien du jardin & potager | Personnel |
+| 662 | Cuisine végétarienne équilibrée | Personnel |
+| 663 | Téléconsultation & démarches santé | Personnel |
+| 664 | Démarches administratives en ligne | Bureau |
+| 665 | Sécurité des mots de passe | Sécurité |
+| 666 | Ransomware & rançongiciel | Sécurité |
+| 667 | Droit à l'image & photos de personnes | Juridique |
+| 668 | Création de statut juridique | Gestion |
+| 669 | Automatisations no-code | Développement |
+| 670 | Outils de productivité & prise de notes | Productivité |
+| 671 | Apprentissage d'une langue (adulte) | Apprentissage |
+| 672 | Préparation au permis de conduire | Apprentissage |
+| 673 | Aide aux devoirs & méthodologie | Apprentissage |
+| 674 | Reconversion & bilan de compétences | Carrière |
+| 675 | Négociation d'achat immobilier | Finance |
+| 676 | Location & gestion locative | Juridique |
+| 677 | Copropriété & syndic | Juridique |
+| 678 | Transition énergétique du logement | Personnel |
+| 679 | Gestion des abonnements & résiliations | Personnel |
+| 680 | Changement de banque | Finance |
+| 681 | Épargne de précaution & livrets | Finance |
+| 682 | Préparation à la retraite | Finance |
+| 683 | Protection juridique & assurances | Juridique |
+| 684 | Expatriation & départ à l'étranger | Personnel |
+| 685 | Prévention des arnaques en ligne | Sécurité |
+| 686 | Accessibilité numérique (WCAG) | Design |
+| 687 | Green IT & sobriété numérique | Développement |
+| 688 | Veille technologique & veille IA | Recherche |
+| 689 | Choix d'un LLM & comparaison de modèles | IA / Prompting |
+| 690 | RAG & recherche augmentée | Data & IA |
+| 691 | Fine-tuning & personnalisation de modèle | IA / Prompting |
+| 692 | Sécurité des prompts & injection | Sécurité |
+| 693 | Évaluation de la qualité d'un agent IA | Data & IA |
+| 694 | Coût & optimisation des tokens LLM | Data & IA |
+| 695 | Données personnelles & RGPD au quotidien | Juridique |
+| 696 | Gestion de crise & communication de crise | Communication |
+| 697 | Préparation d'un entretien d'embauche (candidat) | Carrière |
+| 698 | Onboarding d'un nouveau collaborateur | RH & formation |
+| 699 | Déménagement international | Personnel |
+| 700 | Vérification des sorties IA (fact-checking) | IA / Prompting |
+| 701 | Briefing du matin (daily brief) | Productivité |
+| 702 | Préparation de réunion (meeting prep) | Productivité |
+| 703 | Rédaction de réponses email en son nom | Communication |
+| 704 | Gestion intelligente de l'agenda | Productivité |
+| 705 | Notes de réunion & action items | Productivité |
+| 706 | Relances & suivi des engagements | Productivité |
+| 707 | Statut & mise à jour d'équipe (standup écrit) | Communication |
+| 708 | Recherche profonde multi-sources | Recherche |
+| 709 | Veille concurrentielle automatisée | Marketing |
+| 710 | Rapport hebdomadaire d'activité | Gestion |
+| 711 | A2A & communication agent-à-agent | IA / Prompting |
+| 712 | Harnais d'agent (agent harness) & orchestration | IA / Prompting |
+| 713 | Observabilité & traces d'agents (OpenTelemetry GenAI) | Data & IA |
+| 714 | Mémoire persistante d'agent (structured memory) | IA / Prompting |
+| 715 | Skills dynamiques : découverte & installation (find-skills) | Data & IA |
+| 716 | Audit de sécurité d'une skill (SKILL.md) | Sécurité |
+| 717 | Vidéo programmatique avec Remotion | Créativité |
+| 718 | Text-to-CAD & génération 3D par IA | Créativité |
+| 719 | Mode caveman : réponses ultra-concises | IA / Prompting |
+| 720 | Grill Me : challenger un plan avant de coder | Développement |
+| 721 | Graphify : transformer un corpus en graphe de connaissances | Data & IA |
+| 722 | Souveraineté IA : modèles européens & hébergement UE | Sécurité |
+| 723 | SOC agentique & sécurité autonome | Sécurité |
+| 724 | Vérifiabilité du code IA (Karpathy) | Développement |
+| 725 | NotebookLM & réponses ancrées dans ses sources | Recherche |
+| 726 | Social listening & tendances temps réel | Marketing |
+| 727 | Planification de contenu & calendrier éditorial IA | Marketing |
+| 728 | Création de carrousels & visuels éducatifs | Créativité |
+| 729 | Scripting de vidéos courtes (Reels/TikTok/Shorts) | Marketing |
+| 730 | Génération d'images produit & mockups | Design |
+| 731 | Microcopy & textes d'interface | Design |
+| 732 | Design system & composants réutilisables | Design |
+| 733 | Tests A/B & expérimentation | Produit |
+| 734 | Recherche utilisateur & interviews | Produit |
+| 735 | Onboarding produit & activation | Produit |
+| 736 | Accessibilité des contenus (vidéos, documents) | Design |
+| 737 | Prompt engineering avancé (RCORCF) | IA / Prompting |
+| 738 | Chaîne de pensée & raisonnement pas à pas | IA / Prompting |
+| 739 | Personas & segmentation client | Marketing |
+| 740 | Prospection LinkedIn & social selling | Vente |
+| 741 | Préparation de démo produit | Vente |
+| 742 | Gestion des objections commerciales | Vente |
+| 743 | Closing & passage à l'action | Vente |
+| 744 | Upsell & cross-sell client | Vente |
+| 745 | Programme de parrainage & bouche-à-oreille | Marketing |
+| 746 | Email marketing & séquences automatisées | Marketing |
+| 747 | Publicité payante (SEA) & gestion de campagnes ads | Marketing |
+| 748 | SEO technique & audit de site | Marketing |
+| 749 | Rédaction SEO & optimisation de contenu | Rédaction |
+| 750 | Contrats commerciaux & CGV clairs | Juridique |
+| 751 | RGPD & registre des traitements (PME) | Juridique |
+| 752 | Propriété intellectuelle & licences | Juridique |
+| 753 | Conformité AI Act pour PME | Juridique |
+| 754 | Gestion des incidents de sécurité (réponse) | Sécurité |
+| 755 | Sauvegardes 3-2-1 & PRA personnel | Sécurité |
+| 756 | Hygiène numérique quotidienne | Sécurité |
+| 757 | Phishing & sensibilisation des équipes | Sécurité |
+| 758 | Sécurité des paiements en ligne | Sécurité |
+| 759 | Droit du travail &管理 du personnel (PME) | RH & formation |
+| 760 | Conduite de réunion à distance & hybride | Gestion |
+| 761 | Délégation & management de proximité | Gestion |
+| 762 | Gestion de conflit interpersonnel | Communication |
+| 763 | Gestion du temps & priorités (matrice d'Eisenhower) | Productivité |
+| 764 | Habitudes & routines personnelles | Personnel |
+| 765 | Gestion de l'anxiété & rumination | Personnel |
+| 766 | Communication non-violente (CNV) | Communication |
+| 767 | Préparation d'une soutenance orale | Apprentissage |
+| 768 | Méthodologie de dissertation & essai | Apprentissage |
+| 769 | Préparation d'un oral d'examen | Apprentissage |
+| 770 | Cours particuliers & accompagnement scolaire | Apprentissage |
+| 771 | Apprentissage par projet (project-based learning) | Apprentissage |
+| 772 | Préparation à un entretien d'embauche technique | Carrière |
+| 773 | Négociation salariale & package | Carrière |
+| 774 | Lettre de motivation & candidature spontanée | Carrière |
+| 775 | Business plan & prévisionnel financier | Stratégie |
+| 776 | Pitch investisseur & deck | Stratégie |
+| 777 | Relation investisseurs & reporting | Gestion |
+| 778 | Trésorerie & BFR de la PME | Finance |
+| 779 | Facturation & relances clients (pro) | Vente |
+| 780 | Devis & propositions commerciales | Vente |
+| 781 | Choix & comparaison de SaaS | Bureau |
+| 782 | Migration de données & changement d'outil | Data |
+| 783 | Automatisation bureautique (scripts & macros) | Développement |
+| 784 | Documentation interne & base de connaissances | Gestion |
+| 785 | Veille juridique & réglementaire | Juridique |
+| 786 | Assurances professionnelles (RC Pro, décennale) | Juridique |
+| 787 | Prévention des risques psychosociaux (RPS) | RH & formation |
+| 788 | Management à distance & engagement d'équipe | RH & formation |
+| 789 | Entretien de départ & offboarding | RH & formation |
+| 790 | Recrutement & entretiens d'embauche (employeur) | RH & formation |
+| 791 | Formation continue & plan de développement | RH & formation |
+| 792 | Comité social & CSE (entreprise) | RH & formation |
+| 793 | Gestion de projet agile (Scrum) | Gestion |
+| 794 | Gestion des risques projet | Gestion |
+| 795 | Conduite du changement | Gestion |
+| 796 | Prévention & gestion des litiges clients | Vente |
+| 797 | Expérience client (CX) & NPS | Vente |
+| 798 | E-commerce : tunnel de conversion & panier abandonné | Marketing |
+| 799 | Lancement de produit & go-to-market | Marketing |
 
 > 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–616 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
@@ -727,7 +910,10 @@ Règles en phrases affirmatives, testables.>
 Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur, tu suis ce protocole en 4 étapes, sans jamais sauter l'étape 1 :
 
 1. **Classifier** — Résous l'intention dominante en cascade, du plus rapide au plus exhaustif :
-   a. **Base SQLite (si l'environnement exécute des scripts)** — extrais le script du canvas « routage-sql-skills » puis : `routage.py build` (une fois) · `routage.py route "<demande>"`. La candidate renvoyée (2-3 lignes + ancre `## N.` de sa section) évite toute lecture de table. Exit 0 : candidate trouvée, passe à l'étape 2 · exit 1 : domaine plausible renvoyé, saute en c avec ce domaine · exit 2 : aucune piste, continue en b.
+   a. **Base SQLite (si l'environnement exécute des scripts)** — extrais le script du canvas « routage-sql-skills » puis : `routage.py build` (une fois) · `routage.py route "<demande>"`. La candidate renvoyée (2-3 lignes + ancre `## N.` de sa section) évite toute lecture de table. La cascade interne est : renvoi direct « skill N » → mot-clé canonique → synonyme → full-text FTS5 (bm25 pondéré) → vectoriel sqlite-vec (cosinus, seuil 0,80) → trigrammes (fautes de frappe, table SQL) → domaines plausibles. Chaque candidate porte sa voie (« mot-clé », « synonyme », « full-text », « vectoriel », « approx ») et son score quand il y en a un.
+      - **Exit 0** : au moins une candidate. Choisis la première (voie la plus forte : direct > mot-clé > synonyme > fts > vec > approx), annonce-la et passe à l'étape 2. Si plusieurs candidates de voies proches, annonce l'alternative en une ligne (« aussi : skill X »).
+      - **Exit 1** : aucune candidate exacte, mais une piste (approx ou vectorielle forte, score affiché) ou un domaine plausible. Annonce la piste/domaine, puis saute en c (carte des domaines) pour confirmer, ou passe à l'étape 2 si la piste est évidente.
+      - **Exit 2** : aucune piste. Avant de répondre en direct, consulte le journal `routage.py misses --suggest` : si la demande y revient souvent, propose d'ajouter le synonyme suggéré (à valider, R6). Puis continue en b (index inversé).
    b. **Index inversé** — si la demande contient un mot-clé canonique de l'index ci-dessous (« TDD », « RACI », « README », « dbt »…), la skill est résolue directement : passe à l'étape 2.
    c. **Carte des domaines** — sinon, identifie le domaine dominant dans la carte des domaines, puis lis uniquement son bloc dans la table de routage (regroupée par domaine).
    d. **Arbre de décision** — en cas d'hésitation entre plusieurs domaines, arbitre avec l'arbre ci-dessous.
@@ -776,47 +962,39 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 
 **Index inversé** (raccourci — un mot-clé canonique de la demande renvoie directement à la skill) :
 
-- **Apprentissage** — « tuteur socratique » → 39 · « quiz & flashcards » → 40 · « examen blanc » → 41 · « vulgarisateur pour enfants » → 132 · « langue (conversation) » → 212 · « flashcards » → 213 · « ficheur de lectures » → 226 · « soutenances » → 241 · « plans de lecture » → 494 · « atelier de mémorisation & mnémotechnie » → 495 · « répétition espacée » → 496 · « cours en ligne » → 497 · « prise de notes méthodique » → 498 · « apprentissage par l'enseignement » → 499 · « parcours d'apprentissage personnel » → 500 · « maths » → 559 · « mémoire & thèse » → 560 · « musées & art » → 569 · « devoirs » → 570 · « orientation scolaire » → 571 · « code de la route » → 580 · « bourses étudiantes » → 591
-- **Bureau** — « créateur de présentations » → 14 · « reçus & factures » → 115 · « guide de démarches administratives » → 217 · « dossiers de subventions » → 240 · « manipulateur de pdf » → 268
-- **Carrière** — « préparation d'entretien / interview » → 12 · « analyseur cv & lettre » → 44 · « négociation » → 45 · « conversations difficiles » → 46 · « simulateur de rôle » → 49 · « propositions freelance » → 62 · « progression » → 204 · « guide de reconversion professionnelle » → 231 · « éloquence » → 293 · « demande d'augmentation » → 294 · « marque personnelle » → 548 · « portfolio créatif » → 572 · « tarifs freelance » → 599 · « bilan de compétences » → 600
-- **Communication** — « assistant email professionnel » → 4 · « discours » → 75 · « communiqués de presse » → 126 · « mémos décision » → 127 · « bios & pages « à propos » » → 128 · « communicant de crise » → 235 · « réunions multilingues » → 289 · « questions-réponses en direct » → 397 · « briefeur d'agences & prestataires » → 398 · « matrice de ton d'équipe » → 399 · « procès-verbaux » → 400 · « jargon inter-équipes » → 401 · « points presse » → 402 · « déclarations officielles » → 403 · « messages de changement » → 404 · « experts internes » → 405 · « chartes de modération » → 406 · « messages d'entreprise » → 423
-- **Créativité** — « brainstorming structuré » → 6 · « générateur de noms » → 47 · « atelier d'écriture créative » → 121 · « synopsis & pitchs d'histoires » → 122 · « génération d'images » → 139 · « restaurateur de photos anciennes » → 140 · « assets 3d » → 142 · « génération vidéo » → 144 · « studio d'avatars vidéo ia » → 145 · « storyboarder » → 146 · « studio de voix de synthèse » → 154 · « compositeur musical ia » → 155 · « technicien de nettoyage audio » → 156 · « podcast ia » → 157 · « sous-titreur » → 158 · « designer sonore de marque » → 159 · « créateur d'effets sonores » → 160 · « créateur de jeux & énigmes » → 228 · « réalisateur de vidéos programmatiques » → 258 · « variantes créatives publicitaires » → 283 · « théâtre & impro » → 515 · « coach chant » → 516 · « coach danse » → 517 · « apprendre un instrument » → 518 · « montage vidéo débutant » → 521 · « photographie » → 522 · « prompt d'images » → 546 · « loisirs créatifs manuels » → 557 · « jeux de stratégie » → 567 · « écriture de chansons » → 573 · « retouche photo » → 574 · « streaming » → 576
-- **Data** — « analyste de données » → 13 · « données web (scraping) » → 91 · « nettoyeur de données » → 92 · « modélisateur prédictif » → 93 · « pipelines de données » → 94 · « cartographe de données » → 95 · « cohortes & rétention » → 106 · « tableaux de bord » → 107 · « data storyteller » → 108 · « parcours & funnel » → 109 · « tests a/b » → 110 · « tracking analytics » → 186 · « guidelines d'annotation » → 238 · « données publiques » → 242 · « données synthétiques » → 263 · « automatiseur excel & tableurs » → 264 · « qualité de données » → 343 · « gouverneur de définitions de métriques » → 344 · « séries temporelles » → 345 · « anomalies métier » → 346 · « formules excel » → 347 · « visualiseur de données géographiques » → 348 · « tests de données » → 349 · « transformations dbt » → 350 · « objectifs sli/slo » → 351 · « lecteur de heatmaps & sessions » → 352 · « propension client » → 353 · « sources hétérogènes » → 354 · « verbatims à grande échelle » → 355 · « extraction de documents » → 543 · « statistiques » → 547
-- **Data & IA** — « pipeline de recommandation » → 35 · « tableaux de bord & kpi » → 36 · « red-team de prompts » → 37 · « skill creator (skill.md) » → 38 · « infographie animée » → 48
+- **Apprentissage** — « tuteur socratique » → 39 · « quiz & flashcards » → 40 · « examen blanc » → 41 · « vulgarisateur pour enfants » → 132 · « langue (conversation) » → 212 · « flashcards » → 213 · « ficheur de lectures » → 226 · « soutenances » → 241 · « plans de lecture » → 494 · « atelier de mémorisation & mnémotechnie » → 495 · « répétition espacée » → 496 · « cours en ligne » → 497 · « prise de notes méthodique » → 498 · « apprentissage par l'enseignement » → 499 · « parcours d'apprentissage personnel » → 500 · « maths » → 559 · « mémoire & thèse » → 560 · « musées & art » → 569 · « devoirs » → 570 · « orientation scolaire » → 571 · « code de la route » → 580 · « bourses étudiantes » → 591 · « apprendre une langue » → 671 · « permis de conduire » → 672 · « méthodologie de travail » → 673 · « soutenance orale » → 767 · « dissertation » → 768 · « oral d'examen » → 769 · « cours particuliers » → 770 · « apprendre par projet » → 771
+- **Bureau** — « créateur de présentations » → 14 · « reçus & factures » → 115 · « guide de démarches administratives » → 217 · « dossiers de subventions » → 240 · « manipulateur de pdf » → 268 · « démarches en ligne » → 664 · « choisir un logiciel » → 781
+- **Carrière** — « préparation d'entretien / interview » → 12 · « analyseur cv & lettre » → 44 · « négociation » → 45 · « conversations difficiles » → 46 · « simulateur de rôle » → 49 · « propositions freelance » → 62 · « progression » → 204 · « guide de reconversion professionnelle » → 231 · « éloquence » → 293 · « demande d'augmentation » → 294 · « marque personnelle » → 548 · « portfolio créatif » → 572 · « tarifs freelance » → 599 · « bilan de compétences » → 600 · « promotion » → 633 · « reclassement » → 635 · « bilan de compétences financé » → 674 · « entretien d'embauche » → 697 · « entretien technique » → 772 · « négocier son salaire » → 773 · « lettre de motivation » → 774
+- **Communication** — « assistant email professionnel » → 4 · « discours » → 75 · « communiqués de presse » → 126 · « mémos décision » → 127 · « bios & pages « à propos » » → 128 · « communicant de crise » → 235 · « réunions multilingues » → 289 · « questions-réponses en direct » → 397 · « briefeur d'agences & prestataires » → 398 · « matrice de ton d'équipe » → 399 · « procès-verbaux » → 400 · « jargon inter-équipes » → 401 · « points presse » → 402 · « déclarations officielles » → 403 · « messages de changement » → 404 · « experts internes » → 405 · « chartes de modération » → 406 · « messages d'entreprise » → 423 · « pitch elevator » → 645 · « communication de crise » → 696 · « brouillon de mail » → 703 · « statut d'équipe » → 707 · « conflit collègues » → 762 · « cnv » → 766
+- **Créativité** — « brainstorming structuré » → 6 · « générateur de noms » → 47 · « atelier d'écriture créative » → 121 · « synopsis & pitchs d'histoires » → 122 · « génération d'images » → 139 · « restaurateur de photos anciennes » → 140 · « assets 3d » → 142 · « génération vidéo » → 144 · « studio d'avatars vidéo ia » → 145 · « storyboarder » → 146 · « studio de voix de synthèse » → 154 · « compositeur musical ia » → 155 · « technicien de nettoyage audio » → 156 · « podcast ia » → 157 · « sous-titreur » → 158 · « designer sonore de marque » → 159 · « créateur d'effets sonores » → 160 · « créateur de jeux & énigmes » → 228 · « réalisateur de vidéos programmatiques » → 258 · « variantes créatives publicitaires » → 283 · « théâtre & impro » → 515 · « coach chant » → 516 · « coach danse » → 517 · « apprendre un instrument » → 518 · « montage vidéo débutant » → 521 · « photographie » → 522 · « prompt d'images » → 546 · « loisirs créatifs manuels » → 557 · « jeux de stratégie » → 567 · « écriture de chansons » → 573 · « retouche photo » → 574 · « streaming » → 576 · « vidéo programmatique » → 717 · « text-to-cad » → 718 · « carrousel » → 728
+- **Data** — « analyste de données » → 13 · « données web (scraping) » → 91 · « nettoyeur de données » → 92 · « modélisateur prédictif » → 93 · « pipelines de données » → 94 · « cartographe de données » → 95 · « cohortes & rétention » → 106 · « tableaux de bord » → 107 · « data storyteller » → 108 · « parcours & funnel » → 109 · « tests a/b » → 110 · « tracking analytics » → 186 · « guidelines d'annotation » → 238 · « données publiques » → 242 · « données synthétiques » → 263 · « automatiseur excel & tableurs » → 264 · « qualité de données » → 343 · « gouverneur de définitions de métriques » → 344 · « séries temporelles » → 345 · « anomalies métier » → 346 · « formules excel » → 347 · « visualiseur de données géographiques » → 348 · « tests de données » → 349 · « transformations dbt » → 350 · « objectifs sli/slo » → 351 · « lecteur de heatmaps & sessions » → 352 · « propension client » → 353 · « sources hétérogènes » → 354 · « verbatims à grande échelle » → 355 · « extraction de documents » → 543 · « statistiques » → 547 · « migrer mes données » → 782
+- **Data & IA** — « pipeline de recommandation » → 35 · « tableaux de bord & kpi » → 36 · « red-team de prompts » → 37 · « skill creator (skill.md) » → 38 · « infographie animée » → 48 · « rag » → 690 · « évaluer un agent ia » → 693 · « coût tokens llm » → 694 · « observabilité agents » → 713 · « trouver une skill » → 715 · « graphe de connaissances » → 721
 - **Décision** — « avocat du diable » → 61
-- **Design** — « critique ux d'interface » → 64 · « ux writer (microcopy d'interface) » → 65 · « emails transactionnels » → 138 · « créateur d'illustrations vectorielles » → 141 · « créateur de mockups produits » → 143 · « miniatures » → 147 · « mood boards » → 148 · « palettes & typographies » → 149 · « bibliothécaire de styles visuels » → 150 · « illustrateur technique » → 151 · « briefeur de direction artistique » → 152 · « maquettiste wireframe » → 153 · « accessibilité (wcag) » → 177 · « design system » → 181 · « formulaires » → 182 · « auditeur anti-look générique ia » → 449 · « états vides » → 450 · « messages d'erreur & de récupération ui » → 452 · « remédiation d'accessibilité » → 454 · « design tokens » → 455 · « expérience mobile » → 456
-- **Développement** — « code commenté » → 9 · « review de code & debug » → 10 · « grill me (validation de plan) » → 19 · « débogage systématique » → 20 · « implémentation incrémentale » → 21 · « diagrammes d'architecture » → 22 · « documentation technique » → 23 · « tests unitaires » → 67 · « commits & descriptions de pr » → 68 · « assistant sql & modélisation de données » → 69 · « audit sécurité du code (owasp) » → 70 · « pilote d'agents de code cli » → 76 · « builder mcp (model context protocol) » → 77 · « prototypeur no-code » → 78 · « auditeur d'api » → 79 · « refactorer de code patrimonial » → 80 · « composants ui » → 81 · « ingénieur devops & déploiement » → 82 · « transpileur de code » → 83 · « algorithmes » → 84 · « infrastructure as code » → 85 · « migrations techniques » → 86 · « spécifications openapi » → 87 · « adr (décisions d'architecture) » → 88 · « post-mortems d'incident » → 89 · « release notes » → 129 · « documentation d'api » → 180 · « testeur e2e navigateur » → 252 · « auditeur performance web » → 253 · « mocks d'api » → 254 · « tests de charge » → 255 · « enquêteur d'incidents production » → 256 · « base de code inconnue » → 257 · « worktrees git » → 301 · « test-first (tdd) » → 302 · « versioning sémantique » → 303 · « feature flags » → 304 · « environnement de dev reproductible » → 305 · « secrets & trousseaux » → 306 · « montée de versions » → 307 · « profileur mémoire & cpu » → 308 · « benchmarkeur de code » → 309 · « cas limites & fuzzing » → 310 · « conventions de code d'équipe » → 311 · « readme » → 312 · « monorepo » → 313 · « conteneuriseur d'application » → 314 · « régression (git bisect) » → 315 · « dépôt git » → 316 · « tests d'intégration » → 317 · « requêtes sql lentes » → 318 · « files d'attente & jobs asynchrones » → 319 · « rate limits & quotas d'api » → 320 · « schémas de base de données » → 321 · « webhooks » → 322 · « builds & compilation » → 323 · « scripts cli robustes » → 324 · « robotique maker » → 514 · « regex » → 523 · « game dev » → 524 · « dev mobile » → 525 · « design d'api » → 526 · « vibe coding » → 540 · « administration bdd » → 542 · « bots discord slack » → 544 · « site statique » → 545 · « régressions visuelles » → 603 · « contrats d'api » → 604 · « sprint dette technique » → 606 · « publication mobile » → 607 · « design to code » → 608 · « kubernetes » → 609 · « pré-déploiement » → 614
-- **Finance** — « analyse de documents financiers » → 59 · « optimiseur finops (coûts cloud) » → 90 · « rentabilité unitaire » → 169 · « prévisionnel financier » → 170 · « levée de fonds » → 171 · « lettres investisseurs » → 172 · « initiateur à l'investissement » → 227 · « abonnements & dépenses récurrentes » → 230 · « retraite » → 249 · « assembleur de dossier fiscal » → 297 · « crédit & amortissement » → 298 · « éducation crypto » → 512 · « web3 & defi » → 513 · « bourse & etf » → 519 · « surendettement » → 528 · « audit de budget » → 541 · « finances freelance » → 563 · « comptabilité tpe » → 588
+- **Design** — « critique ux d'interface » → 64 · « ux writer (microcopy d'interface) » → 65 · « emails transactionnels » → 138 · « créateur d'illustrations vectorielles » → 141 · « créateur de mockups produits » → 143 · « miniatures » → 147 · « mood boards » → 148 · « palettes & typographies » → 149 · « bibliothécaire de styles visuels » → 150 · « illustrateur technique » → 151 · « briefeur de direction artistique » → 152 · « maquettiste wireframe » → 153 · « accessibilité (wcag) » → 177 · « design system » → 181 · « formulaires » → 182 · « auditeur anti-look générique ia » → 449 · « états vides » → 450 · « messages d'erreur & de récupération ui » → 452 · « remédiation d'accessibilité » → 454 · « design tokens » → 455 · « expérience mobile » → 456 · « accessibilité numérique » → 686 · « packshot ia » → 730 · « microcopy ui » → 731 · « design system équipe » → 732 · « contenu accessible » → 736
+- **Développement** — « code commenté » → 9 · « review de code & debug » → 10 · « grill me (validation de plan) » → 19 · « débogage systématique » → 20 · « implémentation incrémentale » → 21 · « diagrammes d'architecture » → 22 · « documentation technique » → 23 · « tests unitaires » → 67 · « commits & descriptions de pr » → 68 · « assistant sql & modélisation de données » → 69 · « audit sécurité du code (owasp) » → 70 · « pilote d'agents de code cli » → 76 · « builder mcp (model context protocol) » → 77 · « prototypeur no-code » → 78 · « auditeur d'api » → 79 · « refactorer de code patrimonial » → 80 · « composants ui » → 81 · « ingénieur devops & déploiement » → 82 · « transpileur de code » → 83 · « algorithmes » → 84 · « infrastructure as code » → 85 · « migrations techniques » → 86 · « spécifications openapi » → 87 · « adr (décisions d'architecture) » → 88 · « post-mortems d'incident » → 89 · « release notes » → 129 · « documentation d'api » → 180 · « testeur e2e navigateur » → 252 · « auditeur performance web » → 253 · « mocks d'api » → 254 · « tests de charge » → 255 · « enquêteur d'incidents production » → 256 · « base de code inconnue » → 257 · « worktrees git » → 301 · « test-first (tdd) » → 302 · « versioning sémantique » → 303 · « feature flags » → 304 · « environnement de dev reproductible » → 305 · « secrets & trousseaux » → 306 · « montée de versions » → 307 · « profileur mémoire & cpu » → 308 · « benchmarkeur de code » → 309 · « cas limites & fuzzing » → 310 · « conventions de code d'équipe » → 311 · « readme » → 312 · « monorepo » → 313 · « conteneuriseur d'application » → 314 · « régression (git bisect) » → 315 · « dépôt git » → 316 · « tests d'intégration » → 317 · « requêtes sql lentes » → 318 · « files d'attente & jobs asynchrones » → 319 · « rate limits & quotas d'api » → 320 · « schémas de base de données » → 321 · « webhooks » → 322 · « builds & compilation » → 323 · « scripts cli robustes » → 324 · « robotique maker » → 514 · « regex » → 523 · « game dev » → 524 · « dev mobile » → 525 · « design d'api » → 526 · « vibe coding » → 540 · « administration bdd » → 542 · « bots discord slack » → 544 · « site statique » → 545 · « régressions visuelles » → 603 · « contrats d'api » → 604 · « sprint dette technique » → 606 · « publication mobile » → 607 · « design to code » → 608 · « kubernetes » → 609 · « pré-déploiement » → 614 · « automatisation » → 669 · « sobriété numérique » → 687 · « challenger mon plan » → 720 · « code vérifiable » → 724 · « automatiser une tâche » → 783
+- **Finance** — « analyse de documents financiers » → 59 · « optimiseur finops (coûts cloud) » → 90 · « rentabilité unitaire » → 169 · « prévisionnel financier » → 170 · « levée de fonds » → 171 · « lettres investisseurs » → 172 · « initiateur à l'investissement » → 227 · « abonnements & dépenses récurrentes » → 230 · « retraite » → 249 · « assembleur de dossier fiscal » → 297 · « crédit & amortissement » → 298 · « éducation crypto » → 512 · « web3 & defi » → 513 · « bourse & etf » → 519 · « surendettement » → 528 · « audit de budget » → 541 · « finances freelance » → 563 · « comptabilité tpe » → 588 · « trésorerie » → 638 · « tva » → 639 · « clôture comptable » → 640 · « bulletin de paie » → 641 · « interdit bancaire » → 650 · « achat immobilier » → 675 · « changer de banque » → 680 · « épargne de précaution » → 681 · « préparer sa retraite » → 682 · « trésorerie pme » → 778
 - **Formation** — « expliqueur pédagogique » → 11 · « créateur de campagnes de sensibilisation sécurité » → 200 · « formations » → 201 · « capsules microlearning » → 295
-- **Gestion** — « planificateur de projet » → 15 · « rétrospective » → 73 · « définisseur d'okr » → 74 · « enquêtes internes » → 113 · « modérateur de communauté » → 192 · « évaluateur de risques fournisseurs » → 198 · « ateliers & séances de travail » → 208 · « décisions collectives » → 210 · « team building » → 211 · « événements » → 221 · « rituels d'équipe » → 232 · « audits internes » → 243 · « plan de continuité (pra) » → 273 · « atelier de notes atomiques zettelkasten » → 287 · « chartes d'équipe » → 424 · « coûts de projet » → 425 · « parties prenantes » → 426 · « business cases » → 427 · « maturité d'équipe » → 428 · « portefeuille de projets » → 429 · « intégration post-fusion » → 430 · « sla fournisseurs » → 431 · « communautés de pratique » → 432 · « processus métier » → 433 · « rôles & responsabilités (raci) » → 434 · « registre des risques » → 435 · « sprints design » → 437 · « rapports annuels d'activité » → 438 · « franchise & reprise » → 527 · « bénévolat associatif » → 532 · « vie associative » → 552 · « auto-entrepreneur » → 562 · « logistique e-commerce » → 587
-- **IA / Prompting** — « prompts (meta-prompting) » → 17 · « datasets d'entraînement llm » → 96 · « évaluations llm (evals) » → 97 · « pipelines rag » → 98 · « outils pour agents (function calling) » → 99 · « instructions d'agent » → 100 · « déployeur d'agents autonomes » → 224 · « contexte de conversation » → 236 · « débogueur de prompts » → 237 · « handoff de session » → 251 · « chef d'orchestre multi-agents » → 259 · « mémoire longue durée » → 260 · « déclenchement de skills » → 261 · « contrôleur qualité de skill.md » → 262 · « coûts & modèles llm » → 265 · « conseiller fine-tuning vs rag » → 266 · « agent vocal ivr » → 288 · « skills externes » → 325 · « tokens & budget de contexte » → 326 · « réponses ia » → 327 · « routines d'agents » → 328 · « points de contrôle humains » → 329 · « agents » → 330 · « modèles légers » → 331 · « schémas de sortie » → 332 · « benchmarks de modèles » → 333 · « prompts entre modèles » → 334 · « personnalité d'agent » → 335 · « biais de modèle & de données » → 336 · « cartes de modèle » → 337 · « régression de prompts » → 338 · « testeur fantôme d'agents » → 339 · « robustesse d'agents » → 340 · « contrats de tâche d'agent » → 341 · « dérive de modèle » → 342 · « supervision agents » → 577 · « amélioration des prompts » → 598 · « revue de session » → 601 · « auto-amélioration agent » → 615 · « communication tdah » → 616
-- **Juridique** — « assistant juridique de premier niveau » → 16 · « courriers officiels & réclamations » → 137 · « anonymisateur de données (rgpd) » → 189 · « documents de conformité » → 190 · « charte ia d'entreprise » → 193 · « registres rgpd » → 196 · « veilleur réglementaire » → 239 · « conformité ai act » → 271 · « aipd (analyse d'impact) » → 272 · « conditions générales de vente » → 374 · « politiques de rétention & archivage » → 442 · « cgu & mentions légales » → 443 · « notification de violation de données » → 444 · « clauses de sous-traitance (dpa) » → 446 · « nda sur mesure » → 448 · « litiges voisinage » → 529 · « droit à l'image » → 531 · « licences open source » → 553 · « locataire & bailleur » → 554 · « droit du travail » → 555 · « séparation & divorce » → 590 · « petites créances » → 594 · « copropriété » → 595 · « soc 2 » → 610
+- **Gestion** — « planificateur de projet » → 15 · « rétrospective » → 73 · « définisseur d'okr » → 74 · « enquêtes internes » → 113 · « modérateur de communauté » → 192 · « évaluateur de risques fournisseurs » → 198 · « ateliers & séances de travail » → 208 · « décisions collectives » → 210 · « team building » → 211 · « événements » → 221 · « rituels d'équipe » → 232 · « audits internes » → 243 · « plan de continuité (pra) » → 273 · « atelier de notes atomiques zettelkasten » → 287 · « chartes d'équipe » → 424 · « coûts de projet » → 425 · « parties prenantes » → 426 · « business cases » → 427 · « maturité d'équipe » → 428 · « portefeuille de projets » → 429 · « intégration post-fusion » → 430 · « sla fournisseurs » → 431 · « communautés de pratique » → 432 · « processus métier » → 433 · « rôles & responsabilités (raci) » → 434 · « registre des risques » → 435 · « sprints design » → 437 · « rapports annuels d'activité » → 438 · « franchise & reprise » → 527 · « bénévolat associatif » → 532 · « vie associative » → 552 · « auto-entrepreneur » → 562 · « logistique e-commerce » → 587 · « réunions efficaces » → 643 · « statut juridique » → 668 · « rapport hebdo » → 710 · « réunion à distance » → 760 · « déléguer » → 761 · « relation investisseurs » → 777 · « base de connaissances » → 784 · « projet agile » → 793 · « risques projet » → 794 · « conduite du changement » → 795
+- **IA / Prompting** — « prompts (meta-prompting) » → 17 · « datasets d'entraînement llm » → 96 · « évaluations llm (evals) » → 97 · « pipelines rag » → 98 · « outils pour agents (function calling) » → 99 · « instructions d'agent » → 100 · « déployeur d'agents autonomes » → 224 · « contexte de conversation » → 236 · « débogueur de prompts » → 237 · « handoff de session » → 251 · « chef d'orchestre multi-agents » → 259 · « mémoire longue durée » → 260 · « déclenchement de skills » → 261 · « contrôleur qualité de skill.md » → 262 · « coûts & modèles llm » → 265 · « conseiller fine-tuning vs rag » → 266 · « agent vocal ivr » → 288 · « skills externes » → 325 · « tokens & budget de contexte » → 326 · « réponses ia » → 327 · « routines d'agents » → 328 · « points de contrôle humains » → 329 · « agents » → 330 · « modèles légers » → 331 · « schémas de sortie » → 332 · « benchmarks de modèles » → 333 · « prompts entre modèles » → 334 · « personnalité d'agent » → 335 · « biais de modèle & de données » → 336 · « cartes de modèle » → 337 · « régression de prompts » → 338 · « testeur fantôme d'agents » → 339 · « robustesse d'agents » → 340 · « contrats de tâche d'agent » → 341 · « dérive de modèle » → 342 · « supervision agents » → 577 · « amélioration des prompts » → 598 · « revue de session » → 601 · « auto-amélioration agent » → 615 · « communication tdah » → 616 · « choisir un llm » → 689 · « fine-tuning » → 691 · « vérifier une ia » → 700 · « protocole a2a » → 711 · « agent harness » → 712 · « mémoire structurée » → 714 · « mode caveman » → 719 · « prompt structuré » → 737 · « raisonnement pas à pas » → 738
+- **Juridique** — « assistant juridique de premier niveau » → 16 · « courriers officiels & réclamations » → 137 · « anonymisateur de données (rgpd) » → 189 · « documents de conformité » → 190 · « charte ia d'entreprise » → 193 · « registres rgpd » → 196 · « veilleur réglementaire » → 239 · « conformité ai act » → 271 · « aipd (analyse d'impact) » → 272 · « conditions générales de vente » → 374 · « politiques de rétention & archivage » → 442 · « cgu & mentions légales » → 443 · « notification de violation de données » → 444 · « clauses de sous-traitance (dpa) » → 446 · « nda sur mesure » → 448 · « litiges voisinage » → 529 · « droit à l'image » → 531 · « licences open source » → 553 · « locataire & bailleur » → 554 · « droit du travail » → 555 · « séparation & divorce » → 590 · « petites créances » → 594 · « copropriété » → 595 · « soc 2 » → 610 · « licenciement » → 634 · « harcèlement » → 636 · « discrimination » → 637 · « résiliation » → 648 · « médiation » → 649 · « succession » → 651 · « divorce » → 652 · « autorisation photo » → 667 · « bail » → 676 · « charges de copropriété » → 677 · « assurance habitation » → 683 · « rgpd quotidien » → 695 · « contrat client » → 750 · « conformité rgpd » → 751 · « propriété intellectuelle » → 752 · « ai act » → 753 · « veille juridique » → 785 · « assurance pro » → 786
 - **Langues** — « traducteur professionnel » → 7 · « vocabulaire thématique » → 491 · « prononciation & phonétique » → 492 · « examens de langue » → 493
-- **Marketing** — « copywriting publicitaire » → 3 · « script vidéo ugc & pub » → 29 · « posts sociaux » → 30 · « ghostwriter linkedin » → 31 · « analyseur concurrentiel » → 32 · « personas » → 33 · « charte de marque » → 34 · « newsletter » → 51 · « scripteur youtube long format » → 52 · « moteur de repurposing de contenu » → 53 · « fiches produits e-commerce » → 118 · « pages de vente » → 123 · « études de cas clients » → 124 · « livres blancs » → 125 · « planificateur éditorial » → 135 · « auditeur seo technique » → 161 · « conversion (cro) » → 162 · « stratège de lancement produit » → 163 · « programmes de fidélité » → 173 · « créateur de lead magnets » → 174 · « communauté » → 175 · « atelier de hooks & titres viraux » → 278 · « produits concurrents e-commerce » → 279 · « publicités concurrentes » → 356 · « séquences email d'automatisation » → 357 · « audiences & listes emailing » → 358 · « sms & messages courts » → 359 · « stratège de présence locale » → 360 · « relations influenceurs » → 361 · « cohérence de marque 360 » → 362 · « transcréateur de campagnes par marché » → 363 · « quiz marketing interactifs » → 364 · « carrousels éditoriaux » → 365 · « social listening » → 366 · « pages comparatives & alternatives » → 367 · « parcours client » → 373 · « panier & d'upsell » → 375 · « délivrabilité email » → 586 · « moteurs ia » → 612
-- **Personnel** — « voyage » → 42 · « coach budget perso » → 43 · « messager d'occasions » → 136 · « coach sportif » → 214 · « conseiller nutrition » → 215 · « chef menu-maker (recettes contraintes) » → 216 · « cadeaux » → 218 · « comparateur d'achats » → 219 · « chef de projet rénovation » → 220 · « orchestrateur domotique » → 222 · « assistant de déménagement » → 225 · « potager » → 229 · « succession numérique » → 246 · « l'équilibre pro-perso » → 248 · « diagnostiqueur de pannes domestiques » → 291 · « carnet d'entretien véhicule » → 292 · « guide de visites immobilières » → 296 · « empreinte carbone numérique » → 470 · « archiviste familial » → 472 · « cahiers des charges de travaux » → 473 · « garanties & réparations » → 474 · « kits d'expatriation » → 476 · « plan d'urgence familial » → 477 · « courses & garde-manger » → 478 · « négociation d'achats importants » → 479 · « biens du foyer » → 480 · « logistique familiale » → 481 · « aidants familiaux » → 482 · « sommeil » → 483 · « ergonomie au bureau » → 484 · « bilans de santé » → 485 · « batch cooking » → 486 · « armoire à pharmacie » → 487 · « arrêt des habitudes » → 488 · « routines ancrées » → 489 · « mémoires familiales » → 490 · « gestion du stress » → 511 · « parentalité » → 520 · « arnaques en ligne » → 530 · « baby-sitting » → 533 · « sorties culturelles » → 536 · « animaux de compagnie » → 556 · « style vestimentaire » → 558 · « discours de famille » → 564 · « fêtes de famille » → 565 · « cuisine du quotidien » → 566 · « recommandations culturelles » → 568 · « plantes d'intérieur » → 578 · « désencombrement » → 579 · « numérique seniors » → 581 · « course à pied » → 582 · « randonnée » → 583 · « dégustation » → 584 · « miles & points » → 585 · « médiation familiale » → 589 · « colocation » → 592 · « mutuelles & santé » → 593
-- **Productivité** — « synthèse & résumé de documents » → 5 · « compte rendu de réunion » → 24 · « tri & priorisation d'emails » → 25 · « décomposition de tâches » → 26 · « créateur de documents office » → 27 · « planification par fichiers » → 28 · « créateur de sop & playbooks » → 50 · « workflows d'automatisation » → 71 · « semaine (time blocking) » → 72 · « bases de connaissances » → 114 · « réunions » → 209 · « tâches (to-do) » → 223 · « fabricant de templates de documents » → 245 · « automatiseur de tâches web répétitives » → 269 · « orchestrateur de prise de rendez-vous » → 284 · « traqueur d'action items de réunions » → 285 · « fichiers & arborescences » → 286 · « chirurgien du calendrier de réunions » → 463 · « système de lecture personnel » → 464 · « travail profond » → 465 · « horaires atypiques » → 466 · « fabricant de checklists critiques » → 467 · « tableau de bord personnel » → 468 · « filtres & règles email » → 469 · « dictée vocale » → 471 · « temps réaliste » → 475 · « obsidian » → 539 · « briefing du matin » → 611
-- **Produit** — « prd & user stories » → 63 · « narrateur de roadmap » → 176 · « tests fonctionnels (qa) » → 178 · « activation produit » → 179 · « dépréciations » → 183 · « trieur de tickets support » → 184 · « backlog » → 185 · « interviews utilisateurs » → 187 · « synthétiseur de recherche utilisateur » → 188 · « gamification » → 300 · « navigation & arborescence produit » → 451 · « parcours d'activation in-app » → 453 · « paliers d'offre » → 457 · « rôles & permissions produit » → 458 · « programme bêta » → 459 · « gardien anti-dark patterns » → 460 · « flux d'inscription & vérification » → 461 · « guides de migration clients » → 462 · « gameplay » → 575 · « plans de test manuels » → 605
+- **Marketing** — « copywriting publicitaire » → 3 · « script vidéo ugc & pub » → 29 · « posts sociaux » → 30 · « ghostwriter linkedin » → 31 · « analyseur concurrentiel » → 32 · « personas » → 33 · « charte de marque » → 34 · « newsletter » → 51 · « scripteur youtube long format » → 52 · « moteur de repurposing de contenu » → 53 · « fiches produits e-commerce » → 118 · « pages de vente » → 123 · « études de cas clients » → 124 · « livres blancs » → 125 · « planificateur éditorial » → 135 · « auditeur seo technique » → 161 · « conversion (cro) » → 162 · « stratège de lancement produit » → 163 · « programmes de fidélité » → 173 · « créateur de lead magnets » → 174 · « communauté » → 175 · « atelier de hooks & titres viraux » → 278 · « produits concurrents e-commerce » → 279 · « publicités concurrentes » → 356 · « séquences email d'automatisation » → 357 · « audiences & listes emailing » → 358 · « sms & messages courts » → 359 · « stratège de présence locale » → 360 · « relations influenceurs » → 361 · « cohérence de marque 360 » → 362 · « transcréateur de campagnes par marché » → 363 · « quiz marketing interactifs » → 364 · « carrousels éditoriaux » → 365 · « social listening » → 366 · « pages comparatives & alternatives » → 367 · « parcours client » → 373 · « panier & d'upsell » → 375 · « délivrabilité email » → 586 · « moteurs ia » → 612 · « landing page » → 646 · « e-réputation » → 647 · « veille concurrentielle » → 709 · « veille réseaux sociaux » → 726 · « calendrier éditorial » → 727 · « script vidéo courte » → 729 · « personas clients » → 739 · « parrainage » → 745 · « séquence email » → 746 · « campagne ads » → 747 · « seo technique » → 748 · « panier abandonné » → 798 · « lancer un produit » → 799
+- **Personnel** — « voyage » → 42 · « coach budget perso » → 43 · « messager d'occasions » → 136 · « coach sportif » → 214 · « conseiller nutrition » → 215 · « chef menu-maker (recettes contraintes) » → 216 · « cadeaux » → 218 · « comparateur d'achats » → 219 · « chef de projet rénovation » → 220 · « orchestrateur domotique » → 222 · « assistant de déménagement » → 225 · « potager » → 229 · « succession numérique » → 246 · « l'équilibre pro-perso » → 248 · « diagnostiqueur de pannes domestiques » → 291 · « carnet d'entretien véhicule » → 292 · « guide de visites immobilières » → 296 · « empreinte carbone numérique » → 470 · « archiviste familial » → 472 · « cahiers des charges de travaux » → 473 · « garanties & réparations » → 474 · « kits d'expatriation » → 476 · « plan d'urgence familial » → 477 · « courses & garde-manger » → 478 · « négociation d'achats importants » → 479 · « biens du foyer » → 480 · « logistique familiale » → 481 · « aidants familiaux » → 482 · « sommeil » → 483 · « ergonomie au bureau » → 484 · « bilans de santé » → 485 · « batch cooking » → 486 · « armoire à pharmacie » → 487 · « arrêt des habitudes » → 488 · « routines ancrées » → 489 · « mémoires familiales » → 490 · « gestion du stress » → 511 · « parentalité » → 520 · « arnaques en ligne » → 530 · « baby-sitting » → 533 · « sorties culturelles » → 536 · « animaux de compagnie » → 556 · « style vestimentaire » → 558 · « discours de famille » → 564 · « fêtes de famille » → 565 · « cuisine du quotidien » → 566 · « recommandations culturelles » → 568 · « plantes d'intérieur » → 578 · « désencombrement » → 579 · « numérique seniors » → 581 · « course à pied » → 582 · « randonnée » → 583 · « dégustation » → 584 · « miles & points » → 585 · « médiation familiale » → 589 · « colocation » → 592 · « mutuelles & santé » → 593 · « burn-out » → 617 · « charge mentale » → 618 · « imposteur » → 619 · « perfectionnisme » → 620 · « cauchemars » → 621 · « intolérances » → 622 · « observance » → 623 · « dents » → 624 · « opticien » → 625 · « grossesse » → 626 · « allaitement » → 627 · « nounou » → 628 · « éducation » → 629 · « maintien à domicile » → 630 · « mdph » → 631 · « déménagement » → 653 · « dépannage » → 654 · « entretien auto » → 655 · « itinéraire » → 656 · « dîner entre amis » → 657 · « cadeau » → 658 · « sport » → 659 · « animaux » → 660 · « jardinage » → 661 · « végétarien » → 662 · « téléconsultation » → 663 · « rénovation énergétique » → 678 · « abonnements » → 679 · « expatriation » → 684 · « déménagement international » → 699 · « routine personnelle » → 764 · « anxiété » → 765
+- **Productivité** — « synthèse & résumé de documents » → 5 · « compte rendu de réunion » → 24 · « tri & priorisation d'emails » → 25 · « décomposition de tâches » → 26 · « créateur de documents office » → 27 · « planification par fichiers » → 28 · « créateur de sop & playbooks » → 50 · « workflows d'automatisation » → 71 · « semaine (time blocking) » → 72 · « bases de connaissances » → 114 · « réunions » → 209 · « tâches (to-do) » → 223 · « fabricant de templates de documents » → 245 · « automatiseur de tâches web répétitives » → 269 · « orchestrateur de prise de rendez-vous » → 284 · « traqueur d'action items de réunions » → 285 · « fichiers & arborescences » → 286 · « chirurgien du calendrier de réunions » → 463 · « système de lecture personnel » → 464 · « travail profond » → 465 · « horaires atypiques » → 466 · « fabricant de checklists critiques » → 467 · « tableau de bord personnel » → 468 · « filtres & règles email » → 469 · « dictée vocale » → 471 · « temps réaliste » → 475 · « obsidian » → 539 · « briefing du matin » → 611 · « prise de notes » → 670 · « daily brief » → 701 · « préparer une réunion » → 702 · « optimiser mon agenda » → 704 · « notes de réunion » → 705 · « relancer » → 706 · « prioriser mes tâches » → 763
+- **Produit** — « prd & user stories » → 63 · « narrateur de roadmap » → 176 · « tests fonctionnels (qa) » → 178 · « activation produit » → 179 · « dépréciations » → 183 · « trieur de tickets support » → 184 · « backlog » → 185 · « interviews utilisateurs » → 187 · « synthétiseur de recherche utilisateur » → 188 · « gamification » → 300 · « navigation & arborescence produit » → 451 · « parcours d'activation in-app » → 453 · « paliers d'offre » → 457 · « rôles & permissions produit » → 458 · « programme bêta » → 459 · « gardien anti-dark patterns » → 460 · « flux d'inscription & vérification » → 461 · « guides de migration clients » → 462 · « gameplay » → 575 · « plans de test manuels » → 605 · « test a/b » → 733 · « entretiens utilisateurs recherche » → 734 · « onboarding produit » → 735
 - **Produit & IA** — « chatbot conversationnel » → 66
-- **Recherche** — « agent de recherche approfondie » → 18 · « concepts » → 101 · « analyste rag de documents personnels » → 102 · « lecteur d'études scientifiques » → 104 · « veille hebdomadaire » → 105 · « tendances & signaux faibles » → 290
-- **Rédaction** — « articles seo » → 1 · « réécriture & adaptation de ton » → 2 · « relecture & correction » → 8 · « documents longs » → 116 · « documents formatés » → 117 · « générateur de faq » → 119 · « textes ia & plagiat » → 120 · « guides utilisateurs » → 130 · « assistant de citations & bibliographies » → 133 · « définitions & glossaires » → 134 · « localisateur de contenu & d'app i18n » → 280 · « vulgarisateur de contrats en langage clair » → 281 · « créateur de pas-à-pas illustrés » → 299 · « lisibilité » → 377 · « transcriptions » → 378 · « notifications & push » → 379 · « threads éditoriaux » → 380 · « dialogues » → 381 · « atelier de fiction interactive » → 382 · « critiques & comparatifs produits » → 383 · « scripts de podcast » → 384 · « métadonnées youtube » → 385 · « pitches médias » → 386 · « kits média » → 387 · « intervieweur par écrit » → 388 · « contenu en 5 secondes » → 389 · « messages d'erreur » → 390 · « alt-text & descriptions d'images » → 391 · « scripts de webinaire » → 392 · « tribunes d'expert » → 393 · « macros de support » → 394 · « contrôleur avant publication » → 395 · « quatrièmes de couverture » → 396 · « poésie » → 534 · « journal intime » → 535 · « récits de vie » → 537 · « humaniseur de texte » → 538
-- **RH & formation** — « fiches de poste » → 202 · « onboarding collaborateurs » → 203 · « compétences d'équipe » → 205 · « évaluations annuelles » → 206 · « politiques internes rh » → 207 · « employer branding » → 233 · « programme de mentorat » → 234 · « sélecteur de candidatures (screening structuré) » → 274 · « offboarding » → 275 · « grille d'entretien de recrutement » → 276 · « auto-évaluation annuelle » → 277 · « plans de développement individuel » → 407 · « offres d'emploi attractives » → 408 · « succession de talents » → 409 · « équité salariale » → 410 · « programmes de stage & alternance » → 411 · « accords de télétravail » → 412 · « entretiens de départ » → 413 · « mobilité interne » → 414 · « cycles de feedback 360 » → 415 · « dossiers de financement de formation » → 416 · « formations obligatoires » → 417 · « intégration de managers débutants » → 418 · « canaux de feedback anonyme » → 419 · « continuité d'équipe » → 420 · « charge de travail d'équipe » → 421 · « lettres de recommandation » → 422 · « interculturel » → 549 · « neurodiversité » → 550
+- **Recherche** — « agent de recherche approfondie » → 18 · « concepts » → 101 · « analyste rag de documents personnels » → 102 · « lecteur d'études scientifiques » → 104 · « veille hebdomadaire » → 105 · « tendances & signaux faibles » → 290 · « veille technologique » → 688 · « recherche approfondie » → 708 · « notebooklm » → 725
+- **Rédaction** — « articles seo » → 1 · « réécriture & adaptation de ton » → 2 · « relecture & correction » → 8 · « documents longs » → 116 · « documents formatés » → 117 · « générateur de faq » → 119 · « textes ia & plagiat » → 120 · « guides utilisateurs » → 130 · « assistant de citations & bibliographies » → 133 · « définitions & glossaires » → 134 · « localisateur de contenu & d'app i18n » → 280 · « vulgarisateur de contrats en langage clair » → 281 · « créateur de pas-à-pas illustrés » → 299 · « lisibilité » → 377 · « transcriptions » → 378 · « notifications & push » → 379 · « threads éditoriaux » → 380 · « dialogues » → 381 · « atelier de fiction interactive » → 382 · « critiques & comparatifs produits » → 383 · « scripts de podcast » → 384 · « métadonnées youtube » → 385 · « pitches médias » → 386 · « kits média » → 387 · « intervieweur par écrit » → 388 · « contenu en 5 secondes » → 389 · « messages d'erreur » → 390 · « alt-text & descriptions d'images » → 391 · « scripts de webinaire » → 392 · « tribunes d'expert » → 393 · « macros de support » → 394 · « contrôleur avant publication » → 395 · « quatrièmes de couverture » → 396 · « poésie » → 534 · « journal intime » → 535 · « récits de vie » → 537 · « humaniseur de texte » → 538 · « optimisation seo » → 749
+- **RH & formation** — « fiches de poste » → 202 · « onboarding collaborateurs » → 203 · « compétences d'équipe » → 205 · « évaluations annuelles » → 206 · « politiques internes rh » → 207 · « employer branding » → 233 · « programme de mentorat » → 234 · « sélecteur de candidatures (screening structuré) » → 274 · « offboarding » → 275 · « grille d'entretien de recrutement » → 276 · « auto-évaluation annuelle » → 277 · « plans de développement individuel » → 407 · « offres d'emploi attractives » → 408 · « succession de talents » → 409 · « équité salariale » → 410 · « programmes de stage & alternance » → 411 · « accords de télétravail » → 412 · « entretiens de départ » → 413 · « mobilité interne » → 414 · « cycles de feedback 360 » → 415 · « dossiers de financement de formation » → 416 · « formations obligatoires » → 417 · « intégration de managers débutants » → 418 · « canaux de feedback anonyme » → 419 · « continuité d'équipe » → 420 · « charge de travail d'équipe » → 421 · « lettres de recommandation » → 422 · « interculturel » → 549 · « neurodiversité » → 550 · « entretien annuel » → 632 · « télétravail » → 642 · « feedback » → 644 · « onboarding » → 698 · « droit du travail pme » → 759 · « rps » → 787 · « management à distance » → 788 · « départ collaborateur » → 789 · « recruter » → 790 · « plan de formation » → 791 · « cse » → 792
 - **Routage** — « conservateur de la bibliothèque de skills » → 250
-- **Sécurité** — « fraudes & anomalies de logs » → 191 · « garde-fous d'agents » → 194 · « durcisseur anti-injection de prompt » → 195 · « permissions & accès » → 197 · « runbooks de sécurité » → 199 · « consignes de sécurité » → 244 · « hygiène numérique » → 247 · « inventoriste de dépendances (sbom) » → 267 · « tests d'intrusion » → 439 · « menaces » → 440 · « expert forensique numérique » → 441 · « sécurité physique » → 445 · « fuites de données » → 447 · « authentification web » → 501 · « en-têtes http & cookies » → 502 · « wordpress & cms » → 503 · « modélisation de menaces » → 504 · « correctifs & cve » → 505 · « chiffrement & tls » → 506 · « sécurité cloud » → 507 · « pipeline ci/cd » → 508 · « simulation de phishing » → 509 · « réseau & wi-fi » → 510 · « deepfakes » → 561 · « sauvegardes personnelles » → 596 · « contrôle parental » → 597
-- **Stratégie** — « business model canvas » → 57 · « stratégie de prix » → 58 · « prémortem de projet » → 60 · « marché sectoriel » → 103 · « partenariats stratégiques » → 436 · « vision & valeurs » → 551 · « revue cto » → 602 · « swot » → 613
-- **Vente** — « prospection à froid (cold outreach) » → 54 · « feedback client » → 55 · « support client » → 56 · « scorer de leads » → 111 · « analyste win/loss » → 112 · « témoignages clients » → 131 · « créateur de battlecards commerciaux » → 164 · « scripteur d'appels commerciaux » → 165 · « la gestion d'objections » → 166 · « business reviews clients » → 167 · « répondant aux appels d'offres (aapa) » → 168 · « metteur à jour de crm » → 270 · « répondant aux avis clients en ligne » → 282 · « démos personnalisées » → 368 · « grilles tarifaires » → 369 · « contrats commerciaux » → 370 · « factures impayées » → 371 · « pipeline commercial » → 372 · « reporting commercial » → 376
-
+- **Sécurité** — « fraudes & anomalies de logs » → 191 · « garde-fous d'agents » → 194 · « durcisseur anti-injection de prompt » → 195 · « permissions & accès » → 197 · « runbooks de sécurité » → 199 · « consignes de sécurité » → 244 · « hygiène numérique » → 247 · « inventoriste de dépendances (sbom) » → 267 · « tests d'intrusion » → 439 · « menaces » → 440 · « expert forensique numérique » → 441 · « sécurité physique » → 445 · « fuites de données » → 447 · « authentification web » → 501 · « en-têtes http & cookies » → 502 · « wordpress & cms » → 503 · « modélisation de menaces » → 504 · « correctifs & cve » → 505 · « chiffrement & tls » → 506 · « sécurité cloud » → 507 · « pipeline ci/cd » → 508 · « simulation de phishing » → 509 · « réseau & wi-fi » → 510 · « deepfakes » → 561 · « sauvegardes personnelles » → 596 · « contrôle parental » → 597 · « mots de passe » → 665 · « ransomware » → 666 · « arnaque en ligne » → 685 · « injection de prompt » → 692 · « audit skill » → 716 · « ia souveraine » → 722 · « soc agentique » → 723 · « incident de sécurité » → 754 · « sauvegarde 3-2-1 » → 755 · « nettoyage appareils » → 756 · « sensibilisation phishing » → 757 · « paiement en ligne » → 758
+- **Stratégie** — « business model canvas » → 57 · « stratégie de prix » → 58 · « prémortem de projet » → 60 · « marché sectoriel » → 103 · « partenariats stratégiques » → 436 · « vision & valeurs » → 551 · « revue cto » → 602 · « swot » → 613 · « business plan » → 775 · « pitch investisseur » → 776
+- **Vente** — « prospection à froid (cold outreach) » → 54 · « feedback client » → 55 · « support client » → 56 · « scorer de leads » → 111 · « analyste win/loss » → 112 · « témoignages clients » → 131 · « créateur de battlecards commerciaux » → 164 · « scripteur d'appels commerciaux » → 165 · « la gestion d'objections » → 166 · « business reviews clients » → 167 · « répondant aux appels d'offres (aapa) » → 168 · « metteur à jour de crm » → 270 · « répondant aux avis clients en ligne » → 282 · « démos personnalisées » → 368 · « grilles tarifaires » → 369 · « contrats commerciaux » → 370 · « factures impayées » → 371 · « pipeline commercial » → 372 · « reporting commercial » → 376 · « social selling » → 740 · « démo produit » → 741 · « objections commerciales » → 742 · « closer un deal » → 743 · « upsell » → 744 · « facture conforme » → 779 · « devis commercial » → 780 · « client mécontent » → 796 · « nps » → 797
 **Table de routage complète** (étage 2 — regroupée par domaine) :
 
 | Signal dans la demande | → Skill | Domaine |
 |---|---|---|
 | **Apprentissage** | | |
-| Maths, soutien scolaire mathématique, progression | 559 | Apprentissage |
-| Mémoire, thèse, dissertation académique, plan de rédaction | 560 | Apprentissage |
-| Musée, histoire de l'art, comprendre une exposition, mouvements artistiques | 569 | Apprentissage |
-| Aide aux devoirs, accompagnement scolaire à la maison | 570 | Apprentissage |
-| Orientation scolaire, choix d'études, filières | 571 | Apprentissage |
-| Code de la route, permis, révision, préparation examen | 580 | Apprentissage |
-| Bourses d'études, aides étudiantes, financement des études | 591 | Apprentissage |
 | Apprendre par questions guidées, socratique | 39 | Apprentissage |
 | Quiz, flashcards, réviser, mémoriser | 40 | Apprentissage |
 | Examen blanc, épreuve d'entraînement | 41 | Apprentissage |
@@ -832,17 +1010,30 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Méthode Cornell, notes structurées | 498 | Apprentissage |
 | Apprendre en enseignant, effet protégé | 499 | Apprentissage |
 | Que apprendre cette année, curriculum perso | 500 | Apprentissage |
+| Maths, soutien scolaire mathématique, progression | 559 | Apprentissage |
+| Mémoire, thèse, dissertation académique, plan de rédaction | 560 | Apprentissage |
+| Musée, histoire de l'art, comprendre une exposition, mouvements artistiques | 569 | Apprentissage |
+| Aide aux devoirs, accompagnement scolaire à la maison | 570 | Apprentissage |
+| Orientation scolaire, choix d'études, filières | 571 | Apprentissage |
+| Code de la route, permis, révision, préparation examen | 580 | Apprentissage |
+| Bourses d'études, aides étudiantes, financement des études | 591 | Apprentissage |
+| Apprendre une langue en tant qu'adulte, cours du soir, application de langue, immersion, niveau CECRL | 671 | Apprentissage |
+| Passer le permis, code de la route, conduite accompagnée, examen du permis, auto-école, conduite supervisée | 672 | Apprentissage |
+| Aide aux devoirs, méthodologie de travail, réviser efficacement, fiches de révision, gestion du cartable | 673 | Apprentissage |
+| Préparer une soutenance, présentation orale de mémoire, defensa, jury, diaporama de soutenance, questions du jury | 767 | Apprentissage |
+| Rédiger une dissertation, essai argumenté, plan dialectique, thèse-antithèse-synthèse, introduction de dissertation | 768 | Apprentissage |
+| Préparer un oral d'examen, épreuve orale, exposer un cours, grand oral du bac, examen de certification | 769 | Apprentissage |
+| Donner des cours particuliers, accompagner un élève, expliquer une leçon, rattrapage scolaire, soutien scolaire | 770 | Apprentissage |
+| Apprendre en faisant un projet, apprendre par la pratique, PBL, projet concret pour apprendre une compétence | 771 | Apprentissage |
 | **Bureau** | | |
 | Deck, slides, présentation | 14 | Bureau |
 | Reçus et factures, extraction de dépenses | 115 | Bureau |
 | Démarche administrative, paperasse pas à pas | 217 | Bureau |
 | Dossier de subvention, demande de prime | 240 | Bureau |
 | Extraire un tableau PDF, fusionner des PDF, OCR | 268 | Bureau |
+| Démarches en ligne, téléservice, ANTS, ameli, impots.gouv, espace personnel administration, CAF, Pôle emploi | 664 | Bureau |
+| Choisir un logiciel SaaS, comparer des outils (CRM, compta, gestion de projet), essai gratuit, démo éditeur | 781 | Bureau |
 | **Carrière** | | |
-| Marque personnelle, visibilité professionnelle, positionnement expert | 548 | Carrière |
-| Portfolio, book créatif, sélection de travaux, présentation designer | 572 | Carrière |
-| Tarifs freelance, prix de journée, devis, augmentation tarifaire | 599 | Carrière |
-| Bilan de compétences, point carrière, projet professionnel | 600 | Carrière |
 | Entretien, simulation, pitch oral | 12 | Carrière |
 | CV, lettre de motivation, candidature | 44 | Carrière |
 | Négocier : salaire, prix, contrat | 45 | Carrière |
@@ -853,6 +1044,17 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Reconversion professionnelle, changement de métier | 231 | Carrière |
 | Éloquence, tics de langage, parler en public | 293 | Carrière |
 | Demander une augmentation, négocier son salaire | 294 | Carrière |
+| Marque personnelle, visibilité professionnelle, positionnement expert | 548 | Carrière |
+| Portfolio, book créatif, sélection de travaux, présentation designer | 572 | Carrière |
+| Tarifs freelance, prix de journée, devis, augmentation tarifaire | 599 | Carrière |
+| Bilan de compétences, point carrière, projet professionnel | 600 | Carrière |
+| Promotion, évolution de poste, demande d'augmentation, changement de grade, mobilité interne | 633 | Carrière |
+| Reclassement, mobilité interne, changement de poste dans l'entreprise, nouveau projet professionnel | 635 | Carrière |
+| Changer de métier, reconversion professionnelle, bilan de compétences, VAE, projet professionnel | 674 | Carrière |
+| Préparer un entretien d'embauche, questions classiques, méthode STAR, se vendre, questions à poser au recruteur, relance | 697 | Carrière |
+| Entretien technique, live coding, entretien d'embauche développeur, algorithmes en entretien, system design interview | 772 | Carrière |
+| Négocier son salaire, package de rémunération, avantages en nature, brut net, stock-options, augmentation | 773 | Carrière |
+| Rédiger une lettre de motivation, candidature spontanée, postuler sans offre, relancer une candidature | 774 | Carrière |
 | **Communication** | | |
 | Email, lettre, message professionnel | 4 | Communication |
 | Discours de mariage, keynote, toast, éloge | 75 | Communication |
@@ -872,19 +1074,13 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Recueillir l'expertise, expert qui part | 405 | Communication |
 | Charte de modération, règles de communauté | 406 | Communication |
 | Vœux d'entreprise, message de direction | 423 | Communication |
+| Pitch elevator, se présenter en 30 secondes, accroche, présentation rapide de son projet | 645 | Communication |
+| Crise en entreprise, incident médiatique, communication de crise, bad buzz, réseaux sociaux en crise, holding statement | 696 | Communication |
+| Rédiger une réponse email à ma place, brouillon de mail dans mon ton, répondre à un email pour moi | 703 | Communication |
+| Rédiger mon statut d'équipe, update de sprint, ce que j'ai fait / ce que je fais / mes blocages | 707 | Communication |
+| Conflit entre collègues, médiation interne, gérer un désaccord, désamorcer une tension, conversation difficile | 762 | Communication |
+| Communication non violente, CNV, exprimer un besoin, formulation observation-sentiment-besoin-demande | 766 | Communication |
 | **Créativité** | | |
-| Théâtre, impro, jeu d'acteur, prise de scène | 515 | Créativité |
-| Chant, voix chantée, justesse, respiration | 516 | Créativité |
-| Danse, chorégraphie, apprendre à danser | 517 | Créativité |
-| Apprendre un instrument, guitare, piano, violon | 518 | Créativité |
-| Montage vidéo débutant, premier film, logiciels simples | 521 | Créativité |
-| Photographie, cadrage, lumière, appareil photo | 522 | Créativité |
-| Prompt d'images avancé, Midjourney, paramètres de génération | 546 | Créativité |
-| Loisirs créatifs, tricot, couture, céramique, projets manuels | 557 | Créativité |
-| Échecs, go, jeux de stratégie, progresser au jeu | 567 | Créativité |
-| Écrire une chanson, paroles, structure, composition | 573 | Créativité |
-| Retouche photo, Lightroom, développement raw, traitement d'images | 574 | Créativité |
-| Streaming, Twitch, chaîne live, setup de stream | 576 | Créativité |
 | Idées, créativité, atelier, naming | 6 | Créativité |
 | Nommer une marque, un produit, un projet | 47 | Créativité |
 | Écriture créative, nouvelle, scénario co-écrit | 121 | Créativité |
@@ -905,9 +1101,22 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Jeu, énigme, chasse au trésor sur mesure | 228 | Créativité |
 | Vidéo programmatique, récap en vidéo, Remotion | 258 | Créativité |
 | Variantes publicitaires, décliner une créa | 283 | Créativité |
+| Théâtre, impro, jeu d'acteur, prise de scène | 515 | Créativité |
+| Chant, voix chantée, justesse, respiration | 516 | Créativité |
+| Danse, chorégraphie, apprendre à danser | 517 | Créativité |
+| Apprendre un instrument, guitare, piano, violon | 518 | Créativité |
+| Montage vidéo débutant, premier film, logiciels simples | 521 | Créativité |
+| Photographie, cadrage, lumière, appareil photo | 522 | Créativité |
+| Prompt d'images avancé, Midjourney, paramètres de génération | 546 | Créativité |
+| Loisirs créatifs, tricot, couture, céramique, projets manuels | 557 | Créativité |
+| Échecs, go, jeux de stratégie, progresser au jeu | 567 | Créativité |
+| Écrire une chanson, paroles, structure, composition | 573 | Créativité |
+| Retouche photo, Lightroom, développement raw, traitement d'images | 574 | Créativité |
+| Streaming, Twitch, chaîne live, setup de stream | 576 | Créativité |
+| Créer une vidéo avec du code, Remotion, vidéo programmatique React, motion design automatisé, vidéo produit générée | 717 | Créativité |
+| Générer un modèle 3D from texte, text-to-CAD, impression 3D par IA, modèle 3D pour impression, Conception assistée IA | 718 | Créativité |
+| Créer un carrousel LinkedIn/Instagram, slides éducatifs, infographie animée, visuel pédagogique en plusieurs slides | 728 | Créativité |
 | **Data** | | |
-| OCR, extraction de documents, factures, tableaux depuis PDF | 543 | Data |
-| Statistiques, significativité, taille d'échantillon, incertitude | 547 | Data |
 | Chiffres, données, tendances, KPIs | 13 | Data |
 | Scraping web, pages en données structurées | 91 | Data |
 | Nettoyage de données, doublons et anomalies | 92 | Data |
@@ -937,12 +1146,21 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Score de propension, probabilité d'achat | 353 | Data |
 | Fusionner plusieurs sources de données | 354 | Data |
 | Mille verbatims, coder des réponses ouvertes | 355 | Data |
+| OCR, extraction de documents, factures, tableaux depuis PDF | 543 | Data |
+| Statistiques, significativité, taille d'échantillon, incertitude | 547 | Data |
+| Migrer ses données d'un outil à un autre, export/import, changement de logiciel, transfert de contacts, historique | 782 | Data |
 | **Data & IA** | | |
 | Recommandation, ranking, feed, top-K | 35 | Data & IA |
 | Dashboard, KPI, indicateurs de suivi | 36 | Data & IA |
 | Red-team, faille d'un prompt, détournement | 37 | Data & IA |
 | Créer un package de skill SKILL.md | 38 | Data & IA |
 | Infographie animée, visuel de données | 48 | Data & IA |
+| RAG, retrieval augmented generation, base de connaissances interne, indexation de documents, recherche sémantique, embeddings | 690 | Data & IA |
+| Évaluer un agent IA, evals, jeu de test, métriques de qualité LLM, évaluation automatique, golden dataset | 693 | Data & IA |
+| Coût des appels LLM, optimisation des tokens, cache de prompts, batching, modèle léger, facture API IA | 694 | Data & IA |
+| Observabilité agents IA, traces LLM, OpenTelemetry GenAI, logs des appels modèle, latence et coût par requête agent | 713 | Data & IA |
+| Trouver et installer une skill d'agent, find-skills, skills.sh, npx skills, découvrir les skills disponibles | 715 | Data & IA |
+| Transformer des documents en graphe de connaissances, graphify, connaissances en réseau, relations entre concepts | 721 | Data & IA |
 | **Décision** | | |
 | Avocat du diable, contredire, challenger une décision | 61 | Décision |
 | **Design** | | |
@@ -967,23 +1185,12 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Plan WCAG, remédier l'accessibilité | 454 | Design |
 | Design tokens, variables de thème | 455 | Design |
 | Parcours mobile, ergonomie une main | 456 | Design |
+| Accessibilité numérique, WCAG, lecteur d'écran, contraste, clavier, handicap visuel, audit RGAA | 686 | Design |
+| Photo produit IA, mockup produit, packshot automatique, image e-commerce générée, visuel produit sans studio | 730 | Design |
+| Rédiger les textes d'une interface, microcopy, bouton, message d'erreur, empty state, formulaire, onboarding UI | 731 | Design |
+| Créer un design system, bibliothèque de composants UI, tokens, cohérence visuelle entre écrans | 732 | Design |
+| Sous-titrer une vidéo, rendre un document accessible, transcription, alt-text, WCAG contenu, PDF accessible | 736 | Design |
 | **Développement** | | |
-| Régressions visuelles, comparaison de captures, CSS cassé, rendu | 603 | Développement |
-| Contrats d'API, tests consommateur, breaking changes, compatibilité | 604 | Développement |
-| Sprint dette technique, inventaire des TODOs, code mort, objets dieux | 606 | Développement |
-| Publication App Store, Google Play, fiche de store, release mobile | 607 | Développement |
-| Design to code, intégration de maquettes, Figma vers composants, handoff | 608 | Développement |
-| Kubernetes, manifests, pods, autoscaling, probes de déploiement | 609 | Développement |
-| Pré-déploiement, verdict READY NOT READY, vérifications avant mise en production | 614 | Développement |
-| Robotique, Arduino, Raspberry Pi, électronique embarquée | 514 | Développement |
-| Regex, expressions régulières, patterns de texte | 523 | Développement |
-| Game dev, premier jeu vidéo, Godot, Unity | 524 | Développement |
-| App mobile, iOS, Android, React Native, Flutter | 525 | Développement |
-| Design d'API, REST, GraphQL, contrats de ressources | 526 | Développement |
-| Vibe coding, construire une app en pilotage naturel, agent de code | 540 | Développement |
-| Administration base de données, Postgres, MySQL, index | 542 | Développement |
-| Bot Discord, Slack, Telegram, agent conversationnel automatisé | 544 | Développement |
-| Site statique, blog personnel, Hugo, Astro, déploiement simple | 545 | Développement |
 | Écrire du code / script neuf | 9 | Développement |
 | Bug, review, sécurité, audit de code | 10 | Développement |
 | Stress-tester un plan avant de coder, « grill me » | 19 | Développement |
@@ -1041,14 +1248,28 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Webhook, callback d'API, réception d'événements | 322 | Développement |
 | Build lent, temps de compilation | 323 | Développement |
 | Script shell robuste, mode strict, gestion d'erreur | 324 | Développement |
+| Robotique, Arduino, Raspberry Pi, électronique embarquée | 514 | Développement |
+| Regex, expressions régulières, patterns de texte | 523 | Développement |
+| Game dev, premier jeu vidéo, Godot, Unity | 524 | Développement |
+| App mobile, iOS, Android, React Native, Flutter | 525 | Développement |
+| Design d'API, REST, GraphQL, contrats de ressources | 526 | Développement |
+| Vibe coding, construire une app en pilotage naturel, agent de code | 540 | Développement |
+| Administration base de données, Postgres, MySQL, index | 542 | Développement |
+| Bot Discord, Slack, Telegram, agent conversationnel automatisé | 544 | Développement |
+| Site statique, blog personnel, Hugo, Astro, déploiement simple | 545 | Développement |
+| Régressions visuelles, comparaison de captures, CSS cassé, rendu | 603 | Développement |
+| Contrats d'API, tests consommateur, breaking changes, compatibilité | 604 | Développement |
+| Sprint dette technique, inventaire des TODOs, code mort, objets dieux | 606 | Développement |
+| Publication App Store, Google Play, fiche de store, release mobile | 607 | Développement |
+| Design to code, intégration de maquettes, Figma vers composants, handoff | 608 | Développement |
+| Kubernetes, manifests, pods, autoscaling, probes de déploiement | 609 | Développement |
+| Pré-déploiement, verdict READY NOT READY, vérifications avant mise en production | 614 | Développement |
+| Automatiser des tâches, Zapier, Make, n8n, workflow, automatisation sans code, intégration d'outils | 669 | Développement |
+| Sobriété numérique, green IT, empreinte carbone du code, hébergement vert, éco-conception web, réduction de l'empreinte carbone | 687 | Développement |
+| Challenger mon plan, grill me, critiquer une approche avant de commencer, poser les bonnes questions avant un projet | 720 | Développement |
+| Code généré par IA vérifiable, règles Karpathy, limiter la dette IA, code agent vérifiable automatiquement | 724 | Développement |
+| Automatiser une tâche bureautique, macro Excel, script Python, Google Apps Script, automatiser un rapport | 783 | Développement |
 | **Finance** | | |
-| Crypto, blockchain, comprendre les fondamentaux sans acheter | 512 | Finance |
-| Web3, DeFi, wallets, NFT en pratique sécurisée | 513 | Finance |
-| Bourse, ETF, premier investissement prudent | 519 | Finance |
-| Surendettement, crédits qui s'accumulent, rétablissement | 528 | Finance |
-| Audit de budget, cohérence prévisionnel, revue de chiffres | 541 | Finance |
-| Finances freelance, provisionnement, trésorerie irrégulière | 563 | Finance |
-| Comptabilité TPE, bilan simplifié, obligations petites entreprises | 588 | Finance |
 | Comptes annuels, bilan, compte de résultat à analyser | 59 | Finance |
 | FinOps, optimisation des coûts cloud | 90 | Finance |
 | Rentabilité unitaire, marge par offre | 169 | Finance |
@@ -1060,17 +1281,29 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Retraite, projection et projet de vie | 249 | Finance |
 | Dossier fiscal, justificatifs de déclaration | 297 | Finance |
 | Tableau d'amortissement, TAEG, comparer deux crédits | 298 | Finance |
+| Crypto, blockchain, comprendre les fondamentaux sans acheter | 512 | Finance |
+| Web3, DeFi, wallets, NFT en pratique sécurisée | 513 | Finance |
+| Bourse, ETF, premier investissement prudent | 519 | Finance |
+| Surendettement, crédits qui s'accumulent, rétablissement | 528 | Finance |
+| Audit de budget, cohérence prévisionnel, revue de chiffres | 541 | Finance |
+| Finances freelance, provisionnement, trésorerie irrégulière | 563 | Finance |
+| Comptabilité TPE, bilan simplifié, obligations petites entreprises | 588 | Finance |
+| Trésorerie, prévisionnel de trésorerie, entrée/sortie d'argent, difficulté de paiement, BFR | 638 | Finance |
+| TVA, déclaration de TVA (CA3/CA12), régime réel ou franchise en base, échéances fiscales professionnelles | 639 | Finance |
+| Clôture comptable, bilan comptable, compte de résultat, liasse fiscale, exercice comptable | 640 | Finance |
+| Bulletin de paie, fiche de paie, salaire net, cotisations, brut, net social, prélèvement à la source | 641 | Finance |
+| Fichage Banque de France, FICP, interdit bancaire, dossier de surendettement, commission de surendettement | 650 | Finance |
+| Acheter un bien immobilier, négocier le prix, offre d'achat, crédit immobilier, apport, compromis | 675 | Finance |
+| Changer de banque, ouvrir un compte bancaire, mobilité bancaire, comparer les banques, frais bancaires | 680 | Finance |
+| Épargne de précaution, livret A, LEP, assurance-vie, PEA, fonds euros, placer son argent | 681 | Finance |
+| Préparer sa retraite, âge de départ, trimestres de cotisation, PER, relevé de carrière, pension de réversion | 682 | Finance |
+| Gérer la trésorerie d'une PME, BFR, délais clients, affacturage, découvert, prévisionnel de trésorerie mensuel | 778 | Finance |
 | **Formation** | | |
 | Comprendre un concept, apprendre | 11 | Formation |
 | Sensibilisation sécurité, campagne phishing | 200 | Formation |
 | Formation, module pédagogique, e-learning | 201 | Formation |
 | Capsule microlearning, unité pédagogique de 5 minutes | 295 | Formation |
 | **Gestion** | | |
-| Franchise, reprise de commerce, installation commerçant | 527 | Gestion |
-| Bénévolat, association, engagement de bénévole | 532 | Gestion |
-| Association, statuts, assemblée générale, compte-rendu associatif | 552 | Gestion |
-| Auto-entrepreneur, micro-entreprise, statut freelance, obligations | 562 | Gestion |
-| Logistique e-commerce, stock, expédition, retours boutique | 587 | Gestion |
 | Planifier, estimer, backlog, risques | 15 | Gestion |
 | Rétrospective, rétro d'équipe, bilan de sprint | 73 | Gestion |
 | OKR, objectifs trimestriels, key results | 74 | Gestion |
@@ -1099,12 +1332,22 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Registre des risques, suivre les menaces | 435 | Gestion |
 | Design sprint, atelier d'innovation | 437 | Gestion |
 | Rapport annuel, bilan d'activité | 438 | Gestion |
+| Franchise, reprise de commerce, installation commerçant | 527 | Gestion |
+| Bénévolat, association, engagement de bénévole | 532 | Gestion |
+| Association, statuts, assemblée générale, compte-rendu associatif | 552 | Gestion |
+| Auto-entrepreneur, micro-entreprise, statut freelance, obligations | 562 | Gestion |
+| Logistique e-commerce, stock, expédition, retours boutique | 587 | Gestion |
+| Réunions inutiles, réunionite, trop de réunions, réunion qui aurait pu être un mail, ordre du jour | 643 | Gestion |
+| Choisir son statut juridique, SASU, EURL, auto-entrepreneur, entreprise individuelle, création d'entreprise | 668 | Gestion |
+| Rapport d'activité hebdo, bilan de la semaine, rapport pour mon manager, synthèse de mes avancées | 710 | Gestion |
+| Réunion à distance, visioconférence efficace, réunion hybride présentiel/distanciel, facilitation en ligne | 760 | Gestion |
+| Déléguer une tâche, confier une responsabilité, management de proximité, autonomie de l'équipe | 761 | Gestion |
+| Gérer la relation investisseurs, reporting mensuel aux investisseurs, board meeting, transparence financière | 777 | Gestion |
+| Créer une base de connaissances interne, wiki d'équipe, documenter un processus, runbook, SOP documentés | 784 | Gestion |
+| Mener un projet en Scrum, sprint, backlog, daily stand-up, rétrospective, vélocité, user stories, kanban | 793 | Gestion |
+| Identifier les risques d'un projet, registre des risques, probabilité impact, plan de contingence, mitigation | 794 | Gestion |
+| Mener un changement en entreprise, conduite du changement, adhésion des équipes, communication interne, résistance au changement | 795 | Gestion |
 | **IA / Prompting** | | |
-| Revue de session IA, travail à moitié fait, dérive avant commit | 601 | IA / Prompting |
-| Auto-amélioration de l'agent, leçons persistantes, règles de fonctionnement, mémoire curée | 615 | IA / Prompting |
-| Communication TDAH-friendly, réponses action d'abord, sans préambule, étapes numérotées | 616 | IA / Prompting |
-| Agents IA en production, tracing, coûts, alertes | 577 | IA / Prompting |
-| Amélioration continue des prompts, itération, feedback | 598 | IA / Prompting |
 | Créer un prompt, améliorer un prompt | 17 | IA / Prompting |
 | Dataset d'entraînement LLM, paires prompt-réponse | 96 | IA / Prompting |
 | Évaluations LLM (evals), mesure de qualité | 97 | IA / Prompting |
@@ -1140,16 +1383,21 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Agent qui échoue en conditions réelles, stresser un agent | 340 | IA / Prompting |
 | Contrat de tâche, brief d'agent | 341 | IA / Prompting |
 | Dérive du modèle, drift en production | 342 | IA / Prompting |
+| Agents IA en production, tracing, coûts, alertes | 577 | IA / Prompting |
+| Amélioration continue des prompts, itération, feedback | 598 | IA / Prompting |
+| Revue de session IA, travail à moitié fait, dérive avant commit | 601 | IA / Prompting |
+| Auto-amélioration de l'agent, leçons persistantes, règles de fonctionnement, mémoire curée | 615 | IA / Prompting |
+| Communication TDAH-friendly, réponses action d'abord, sans préambule, étapes numérotées | 616 | IA / Prompting |
+| Choisir un modèle d'IA, comparer LLM (GPT, Claude, Gemini, Mistral, open source), benchmark, coût par token, cas d'usage | 689 | IA / Prompting |
+| Fine-tuning, LoRA, QLoRA, entraîner un modèle sur ses données, spécialiser un LLM, distillation | 691 | IA / Prompting |
+| Vérifier une réponse IA, fact-checker, détecter hallucinations, contrôler les sources d'une génération IA | 700 | IA / Prompting |
+| Protocole A2A, agent-to-agent, faire communiquer deux agents IA, Agent Card, délégation entre agents | 711 | IA / Prompting |
+| Agent harness, orchestration d'agents, boucle agent, supervisor worker, orchestrateur d'agents IA en production | 712 | IA / Prompting |
+| Mémoire structurée d'agent, mémoire sémantique, préférences utilisateur persistantes, auto-mémoire Claude Code | 714 | IA / Prompting |
+| Réponses courtes, mode caveman, aller droit au but, moins de tokens, compresser la réponse de l'IA | 719 | IA / Prompting |
+| Structurer un prompt, RCORCF, rôle contexte objectif ressources contraintes format, prompt système efficace | 737 | IA / Prompting |
+| Faire raisonner l'IA étape par étape, chaîne de pensée, CoT, expliquer son raisonnement, décomposer un problème complexe | 738 | IA / Prompting |
 | **Juridique** | | |
-| SOC 2, critères TSC, preuves de conformité, audit sécurité organisation | 610 | Juridique |
-| Litige de voisinage, bruit, mitoyenneté, médiation | 529 | Juridique |
-| Droit à l'image, autorisation photo, publication d'image | 531 | Juridique |
-| Licence open source, MIT, GPL, conformité dépendances | 553 | Juridique |
-| Bail, location, caution, état des lieux, droits locataire | 554 | Juridique |
-| Droit du travail, contrat, licenciement, congés, litige employé | 555 | Juridique |
-| Séparation, divorce, procédure, garde, partage | 590 | Juridique |
-| Petites créances, litige consommateur, réclamation, recours | 594 | Juridique |
-| Copropriété, AG de copropriétaires, charges, travaux immeuble | 595 | Juridique |
 | Contrat, clause, question juridique | 16 | Juridique |
 | Courrier officiel, réclamation administrative | 137 | Juridique |
 | Anonymisation RGPD de données | 189 | Juridique |
@@ -1165,14 +1413,39 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Violation de données, notifier l'autorité | 444 | Juridique |
 | Clause sous-traitant, DPA RGPD | 446 | Juridique |
 | NDA, accord de confidentialité | 448 | Juridique |
+| Litige de voisinage, bruit, mitoyenneté, médiation | 529 | Juridique |
+| Droit à l'image, autorisation photo, publication d'image | 531 | Juridique |
+| Licence open source, MIT, GPL, conformité dépendances | 553 | Juridique |
+| Bail, location, caution, état des lieux, droits locataire | 554 | Juridique |
+| Droit du travail, contrat, licenciement, congés, litige employé | 555 | Juridique |
+| Séparation, divorce, procédure, garde, partage | 590 | Juridique |
+| Petites créances, litige consommateur, réclamation, recours | 594 | Juridique |
+| Copropriété, AG de copropriétaires, charges, travaux immeuble | 595 | Juridique |
+| SOC 2, critères TSC, preuves de conformité, audit sécurité organisation | 610 | Juridique |
+| Licenciement, rupture conventionnelle, fin de CDD, démission, procédure disciplinaire, solde de tout compte | 634 | Juridique |
+| Harcèlement moral au travail, humiliations répétées, mise à l'écart, comportements abusifs d'un manager | 636 | Juridique |
+| Discrimination au travail, sexisme, racisme, homophobie, âge, origine, traitement inégal, harcèlement sexuel | 637 | Juridique |
+| Résilier un contrat, droit de rétractation 14 jours, délai de rétractation, préavis, mise en demeure | 648 | Juridique |
+| Conflit de voisinage, litige, médiation, conciliateur, règlement à l'amiable, mise en demeure amiable | 649 | Juridique |
+| Succession, héritage, testament, donation, notaire, indivision, droits de succession, partage | 651 | Juridique |
+| Divorce, séparation, garde alternée, pension alimentaire, prestation compensatoire, médiation familiale | 652 | Juridique |
+| Droit à l'image, publier une photo de quelqu'un, autorisation, mineur, réseaux sociaux, RGPD photo | 667 | Juridique |
+| Louer un logement, bail, état des lieux, caution, quittance de loyer, agence immobilière, colocation | 676 | Juridique |
+| Copropriété, syndic, charges de copropriété, assemblée générale, travaux, conseil syndical, règlement de copropriété | 677 | Juridique |
+| Assurance habitation, responsabilité civile, protection juridique, garantie décennale, comparatif d'assurances | 683 | Juridique |
+| RGPD au quotidien, données personnelles, consentement, cookies, droit à l'effacement, fuite de données personnelles | 695 | Juridique |
+| Rédiger un contrat client, CGV, contrat de prestation, clause pénale, révision de contrat, modèle de contrat | 750 | Juridique |
+| Mettre en conformité RGPD une PME, registre des traitements, DPO, mentions légales, cookies, sous-traitants | 751 | Juridique |
+| Protéger ma création, déposer une marque, droit d'auteur, licence logiciel, brevet, plagiat, contrefaçon | 752 | Juridique |
+| AI Act européen, conformité IA 2026, système IA à haut risque, transparence, registre AI Act, obligations entreprise | 753 | Juridique |
+| Suivre l'actualité juridique, veille réglementaire, nouvelles lois 2026, conformité continue, newsletter juridique | 785 | Juridique |
+| Assurance responsabilité civile professionnelle, décennale, cyber-assurance, assurance entreprise, garanties pro | 786 | Juridique |
 | **Langues** | | |
 | Traduire | 7 | Langues |
 | Liste de vocabulaire par thème | 491 | Langues |
 | Phonétique, accent, prononcer | 492 | Langues |
 | DELF, TOEFL, examen de langue | 493 | Langues |
 | **Marketing** | | |
-| Moteurs IA, GEO, citations ChatGPT & Perplexity, visibilité dans les réponses | 612 | Marketing |
-| Délivrabilité email, SPF, DKIM, DMARC, arrivée en boîte | 586 | Marketing |
 | Accroche, pub, promo, conversion | 3 | Marketing |
 | Script vidéo courte, UGC, TikTok, pub vidéo | 29 | Marketing |
 | Post social à optimiser, portée, engagement | 30 | Marketing |
@@ -1210,28 +1483,22 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Page VS, alternative à, comparatif SEO | 367 | Marketing |
 | Parcours client, journey map | 373 | Marketing |
 | Panier moyen, upsell, cross-sell | 375 | Marketing |
+| Délivrabilité email, SPF, DKIM, DMARC, arrivée en boîte | 586 | Marketing |
+| Moteurs IA, GEO, citations ChatGPT & Perplexity, visibilité dans les réponses | 612 | Marketing |
+| Landing page, page d'atterrissage, CTA, bouton d'appel à l'action, conversion, formulaire de capture | 646 | Marketing |
+| Avis Google, e-réputation, avis clients négatifs, témoignages, gestion de la réputation en ligne | 647 | Marketing |
+| Surveiller mes concurrents, veille concurrentielle, alertes changements concurrents, benchmark automatique | 709 | Marketing |
+| Écouter les réseaux sociaux, tendances en temps réel, ce qu'on dit de ma marque, signaux faibles sur Reddit/X | 726 | Marketing |
+| Planifier mes contenus, calendrier éditorial, quoi poster cette semaine, batch de contenus, série de posts | 727 | Marketing |
+| Script d'une vidéo courte, Reels, TikTok, Shorts, hook des 3 premières secondes, structure hook-contenu-CTA | 729 | Marketing |
+| Définir mes personas, qui est mon client idéal, segmentation, fiche persona avec douleurs et objectifs | 739 | Marketing |
+| Lancer un programme de parrainage, bouche-à-oreille, recommander mon produit, récompenser les recommandations | 745 | Marketing |
+| Créer une séquence email, campagne emailing, newsletter automatisée, onboarding par email, nurturing | 746 | Marketing |
+| Lancer une campagne Google Ads / Meta Ads, publicité payante, SEA, budget pub, ROAS, ciblage payant | 747 | Marketing |
+| Audit SEO technique, Core Web Vitals, balises, sitemap, robots.txt, vitesse de chargement, indexation Google | 748 | Marketing |
+| Optimiser un site e-commerce, tunnel de conversion, panier abandonné, taux de conversion, fiche produit, checkout | 798 | Marketing |
+| Lancer un produit, go-to-market, stratégie de lancement, annonce produit, beta test, early adopters, waitlist | 799 | Marketing |
 | **Personnel** | | |
-| Stress, anxiété, gestion des tensions au quotidien | 511 | Personnel |
-| Parentalité, éducation des enfants, cadres bienveillants | 520 | Personnel |
-| Arnaque en ligne, sms frauduleux, faux support, fraude grand public | 530 | Personnel |
-| Baby-sitting, premiers jobs adolescents, garde d'enfants | 533 | Personnel |
-| Sorties culturelles, expo, concert, programme culturel | 536 | Personnel |
-| Animaux, chien, chat, éducation canine, santé animale | 556 | Personnel |
-| Style vestimentaire, garde-robe, couleurs, silhouette | 558 | Personnel |
-| Discours de mariage, toast familial, hommage, anniversaire | 564 | Personnel |
-| Fête de famille, mariage, anniversaire, organisation réception | 565 | Personnel |
-| Apprendre à cuisiner, techniques de base, repas de la semaine | 566 | Personnel |
-| Films, séries, livres, recommandations culturelles personnalisées | 568 | Personnel |
-| Plantes d'intérieur, arrosage, rempotage, plantes qui souffrent | 578 | Personnel |
-| Désencombrement, rangement, organisation maison, tri | 579 | Personnel |
-| Seniors, numérique, premiers pas smartphone, assistance aînés | 581 | Personnel |
-| Course à pied, plan d'entraînement, 10 km, semi-marathon | 582 | Personnel |
-| Randonnée, itinéraire, équipement outdoor, sécurité en montagne | 583 | Personnel |
-| Dégustation, vin, café, initiation, accords | 584 | Personnel |
-| Miles, points fidélité, programmes voyageurs, billets avantage | 585 | Personnel |
-| Médiation familiale, conflit famille, succession, dialogue | 589 | Personnel |
-| Colocation, contrat colocation, vie commune, loyers partagés | 592 | Personnel |
-| Mutuelle, remboursements santé, frais médicaux, choix de couverture | 593 | Personnel |
 | Voyage, itinéraire, séjour sur mesure | 42 | Personnel |
 | Budget, dépenses, finances personnelles | 43 | Personnel |
 | Message d'occasion, vœux, faire-part | 136 | Personnel |
@@ -1268,9 +1535,60 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Arrêter de fumer, sucre, écrans | 488 | Personnel |
 | Routine matinale, habitudes qui tiennent | 489 | Personnel |
 | Souvenirs des grands-parents, histoire orale | 490 | Personnel |
+| Stress, anxiété, gestion des tensions au quotidien | 511 | Personnel |
+| Parentalité, éducation des enfants, cadres bienveillants | 520 | Personnel |
+| Arnaque en ligne, sms frauduleux, faux support, fraude grand public | 530 | Personnel |
+| Baby-sitting, premiers jobs adolescents, garde d'enfants | 533 | Personnel |
+| Sorties culturelles, expo, concert, programme culturel | 536 | Personnel |
+| Animaux, chien, chat, éducation canine, santé animale | 556 | Personnel |
+| Style vestimentaire, garde-robe, couleurs, silhouette | 558 | Personnel |
+| Discours de mariage, toast familial, hommage, anniversaire | 564 | Personnel |
+| Fête de famille, mariage, anniversaire, organisation réception | 565 | Personnel |
+| Apprendre à cuisiner, techniques de base, repas de la semaine | 566 | Personnel |
+| Films, séries, livres, recommandations culturelles personnalisées | 568 | Personnel |
+| Plantes d'intérieur, arrosage, rempotage, plantes qui souffrent | 578 | Personnel |
+| Désencombrement, rangement, organisation maison, tri | 579 | Personnel |
+| Seniors, numérique, premiers pas smartphone, assistance aînés | 581 | Personnel |
+| Course à pied, plan d'entraînement, 10 km, semi-marathon | 582 | Personnel |
+| Randonnée, itinéraire, équipement outdoor, sécurité en montagne | 583 | Personnel |
+| Dégustation, vin, café, initiation, accords | 584 | Personnel |
+| Miles, points fidélité, programmes voyageurs, billets avantage | 585 | Personnel |
+| Médiation familiale, conflit famille, succession, dialogue | 589 | Personnel |
+| Colocation, contrat colocation, vie commune, loyers partagés | 592 | Personnel |
+| Mutuelle, remboursements santé, frais médicaux, choix de couverture | 593 | Personnel |
+| Burn-out, épuisement professionnel, perte de motivation au travail, envie de tout quitter | 617 | Personnel |
+| Charge mentale, gestion de toutes les tâches de la maison,oublis fréquents, surcharge cognitive familiale | 618 | Personnel |
+| Syndrome de l'imposteur, sentiment de fraude, pas légitime, doutes sur ses compétences | 619 | Personnel |
+| Perfectionnisme, blocage parce que ce n'est pas parfait, procrastination liée à la peur du jugement | 620 | Personnel |
+| Cauchemars récurrents, réveils nocturnes, peur de s'endormir, sommeil fragmenté | 621 | Personnel |
+| Allergie alimentaire, intolérance au lactose/gluten, réactions après les repas, régime d'éviction | 622 | Personnel |
+| Oubli de médicaments, observance, traitement chronique, effets secondaires, arrêt du traitement | 623 | Personnel |
+| Dents, douleur dentaire, gencives qui saignent, appareil dentaire, orthodontie, hygiène buccale | 624 | Personnel |
+| Lunettes, verres correcteurs, examen de vue, myopie, presbytie, choix de monture, lentilles | 625 | Personnel |
+| Grossesse, suivi de grossesse, maternité, échographies, préparation à l'accouchement, post-partum | 626 | Personnel |
+| Allaitement, tire-lait, diversification alimentaire du bébé, sevrage, reprise du travail | 627 | Personnel |
+| Garde d'enfants, nounou, assistante maternelle, crèche, baby-sitter, choix du mode de garde | 628 | Personnel |
+| Éducation des enfants, devoirs à la maison, activités extrascolaires, comportement, écrans | 629 | Personnel |
+| Maintien à domicile, aide à domicile, personne âgée, perte d'autonomie, aménagement du logement | 630 | Personnel |
+| Handicap, dossier MDPH, AAH, PCH, aménagement du logement, aide humaine, inclusion scolaire | 631 | Personnel |
+| Déménagement, changement d'adresse, ouverture de compteur, raccordement eau/électricité, mise en service | 653 | Personnel |
+| Panne, réparation, déboucher, fuite d'eau, problème électrique, petits travaux, bricolage du quotidien | 654 | Personnel |
+| Entretien auto, vidange, pneus, contrôle technique, révision, freins, batterie, voyant allumé | 655 | Personnel |
+| Préparer un voyage, itinéraire, bagages, hébergement, vol, passeport, visa, vaccins, assurance voyage | 656 | Personnel |
+| Organiser un dîner, invitations, menu, vin, restaurant, repas de fête, budget repas | 657 | Personnel |
+| Choisir un cadeau, liste de naissance, liste de mariage, cadeau d'anniversaire, budget cadeau | 658 | Personnel |
+| Se remettre au sport, programme débutant, course à pied, musculation maison, marathon, yoga, vélo | 659 | Personnel |
+| Chien, chat, vaccination, stérilisation, toilettage, pension, santé animale, comportement animal | 660 | Personnel |
+| Jardin, potager, compost, tonte, taille de haie, semis, entretien des plantes, désherbage | 661 | Personnel |
+| Cuisine végétarienne ou végane, protéines végétales, menu sans viande, équilibre alimentaire | 662 | Personnel |
+| Téléconsultation, médecin en ligne, ordonnance en ligne, renouvellement d'ordonnance, dossier médical | 663 | Personnel |
+| Rénovation énergétique, pompe à chaleur, panneaux solaires, isolation, DPE, aides (MaPrimeRénov', CEE) | 678 | Personnel |
+| Abonnements, résilier un abonnement, faire le tri de ses abonnements, streaming, salle de sport, box internet | 679 | Personnel |
+| S'expatrier, partir vivre à l'étranger, visa long séjour, déménagement international, douane, impôts à l'étranger | 684 | Personnel |
+| Déménagement international, conteneur maritime, douane, garde-meubles, transfert de domicile, résidence fiscale | 699 | Personnel |
+| Installer une habitude, routine matinale/soirée, ancrer une habitude, suivi de habitudes, streak | 764 | Personnel |
+| Anxiété, ruminer, pensées anxieuses, inquiétude permanente, technique de grounding, respiration 4-7-8 | 765 | Personnel |
 | **Productivité** | | |
-| Briefing du matin, digest multi-projets, point du jour, standup écrit | 611 | Productivité |
-| Obsidian, vault, notes liées, markdown, Dataview | 539 | Productivité |
 | Résumer, condenser un document | 5 | Productivité |
 | Compte rendu, PV, notes de réunion | 24 | Productivité |
 | Boîte mail débordante, prioriser des emails | 25 | Productivité |
@@ -1297,9 +1615,16 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Règles de tri, filtres automatiques | 469 | Productivité |
 | Dicter au lieu d'écrire, workflow vocal | 471 | Productivité |
 | Combien de temps ça prendra vraiment | 475 | Productivité |
+| Obsidian, vault, notes liées, markdown, Dataview | 539 | Productivité |
+| Briefing du matin, digest multi-projets, point du jour, standup écrit | 611 | Productivité |
+| Notion, Obsidian, Trello, Asana, Linear, prise de notes, organisation personnelle, GTD, second cerveau | 670 | Productivité |
+| Briefing du matin, résumé de la journée, ce qui m'attend aujourd'hui, priorities du jour, morning brief | 701 | Productivité |
+| Préparer une réunion, brief avant un call, fiche de préparation, contexte d'un rendez-vous client | 702 | Productivité |
+| Optimiser mon agenda, protéger mon temps de focus, décaler des réunions, bloc de deep work automatique | 704 | Productivité |
+| Prendre des notes de réunion, compte rendu avec action items, qui fait quoi après le call, suivi des décisions | 705 | Productivité |
+| Relancer quelqu'un, suivi des réponses attendues, qui me doit une réponse, relance automatique, relance polie | 706 | Productivité |
+| Gérer mon temps, prioriser mes tâches, matrice d'Eisenhower, urgent vs important, dire non, délégation de tâches | 763 | Productivité |
 | **Produit** | | |
-| Plan de test manuel, scénarios de recette, critères d'acceptation vérifiables | 605 | Produit |
-| Gameplay, équilibrage, boucle de jeu, game design | 575 | Produit |
 | PRD, user stories, exigences produit, backlog | 63 | Produit |
 | Roadmap produit, narration de priorités | 176 | Produit |
 | Plan de tests fonctionnels, recette QA | 178 | Produit |
@@ -1318,6 +1643,11 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Dark pattern, désinscription honnête | 460 | Produit |
 | Parcours d'inscription, KYC | 461 | Produit |
 | Guide de migration, changement côté client | 462 | Produit |
+| Gameplay, équilibrage, boucle de jeu, game design | 575 | Produit |
+| Plan de test manuel, scénarios de recette, critères d'acceptation vérifiables | 605 | Produit |
+| Lancer un test A/B, expérience utilisateur, comparer deux variantes, significativité statistique, itérer sur une feature | 733 | Produit |
+| Préparer des interviews utilisateurs, guide d'entretien, recruter des testeurs, synthétiser des retours utilisateurs | 734 | Produit |
+| Améliorer l'onboarding d'une app, première expérience utilisateur, taux d'activation, parcours d'inscription | 735 | Produit |
 | **Produit & IA** | | |
 | Chatbot, intents, flux conversationnel | 66 | Produit & IA |
 | **Recherche** | | |
@@ -1327,11 +1657,10 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Lecture d'études scientifiques, papier de recherche | 104 | Recherche |
 | Veille hebdomadaire consolidée | 105 | Recherche |
 | Signaux faibles, tendance émergente | 290 | Recherche |
+| Veille technologique, veille IA, newsletters tech, blogs, podcasts tech, suivre les nouveautés | 688 | Recherche |
+| Recherche approfondie, deep research, synthèse multi-sources, rapport de recherche avec citations vérifiées | 708 | Recherche |
+| NotebookLM, réponses basées uniquement sur mes documents, RAG personnel sur PDF, sources citées automatiquement | 725 | Recherche |
 | **Rédaction** | | |
-| Poésie, écrire des poèmes, atelier d'écriture | 534 | Rédaction |
-| Journal intime, écriture réflexive, journaling | 535 | Rédaction |
-| Récit de vie, biographie familiale, mémoire d'un proche | 537 | Rédaction |
-| Humaniser un texte IA, tics d'écriture IA, voix naturelle | 538 | Rédaction |
 | Écrire un article, blog, contenu web | 1 | Rédaction |
 | Adapter le ton / reformuler un texte existant | 2 | Rédaction |
 | Corriger, relire, améliorer style | 8 | Rédaction |
@@ -1365,9 +1694,12 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Macro de réponse, gabarit de support | 394 | Rédaction |
 | Avant de publier, vérifier un contenu sensible | 395 | Rédaction |
 | Texte de couverture, résumé de livre | 396 | Rédaction |
+| Poésie, écrire des poèmes, atelier d'écriture | 534 | Rédaction |
+| Journal intime, écriture réflexive, journaling | 535 | Rédaction |
+| Récit de vie, biographie familiale, mémoire d'un proche | 537 | Rédaction |
+| Humaniser un texte IA, tics d'écriture IA, voix naturelle | 538 | Rédaction |
+| Optimiser un texte pour le SEO, mot-clé principal, balises Hn, maillage interne, lisibilité, intention de recherche | 749 | Rédaction |
 | **RH & formation** | | |
-| Interculturel, travailler entre cultures, équipes multiculturelles | 549 | RH & formation |
-| Neurodiversité, TDAH, dys, aménagements au travail | 550 | RH & formation |
 | Fiche de poste, offre d'emploi | 202 | RH & formation |
 | Onboarding collaborateur, parcours d'arrivée | 203 | RH & formation |
 | Compétences d'équipe à cartographier | 205 | RH & formation |
@@ -1395,12 +1727,22 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Couvrir les congés, planning de remplacement | 420 | RH & formation |
 | Surcharge de travail, répartition | 421 | RH & formation |
 | Lettre de recommandation, référence d'ancien | 422 | RH & formation |
+| Interculturel, travailler entre cultures, équipes multiculturelles | 549 | RH & formation |
+| Neurodiversité, TDAH, dys, aménagements au travail | 550 | RH & formation |
+| Entretien annuel, évaluation des performances, entretien professionnel, bilan de l'année, objectifs | 632 | RH & formation |
+| Télétravail, remote, full remote, hybride, management à distance, organisation du travail à distance | 642 | RH & formation |
+| Donner un feedback, remarque à un collègue, entretien de feedback, retour critique, communication managériale | 644 | RH & formation |
+| Onboarding, accueil d'un nouveau salarié, parcours d'intégration, parrainage, check-list premier jour, plan 30-60-90 jours | 698 | RH & formation |
+| Embaucher, contrat de travail, rupture, harcèlement, registre du personnel, entretien annuel, PME employeur | 759 | RH & formation |
+| Prévenir les RPS, risques psychosociaux, burn-out équipe, charge de travail, DUERP, bien-être au travail | 787 | RH & formation |
+| Manager une équipe à distance, engagement des télétravailleurs, cohésion d'équipe remote, rituels à distance | 788 | RH & formation |
+| Gérer un départ, entretien de départ, offboarding collaborateur, passation, récupérer le matériel, accès | 789 | RH & formation |
+| Recruter un candidat, conduire un entretien d'embauche, grille d'entretien, test technique, essai, offre d'emploi | 790 | RH & formation |
+| Plan de formation annuel, CPF, compétences à développer, certification, veille compétences équipe, GPEC | 791 | RH & formation |
+| Fonctionnement du CSE, comité social et économique, réunions CSE, consultation, budget ASC, élections | 792 | RH & formation |
 | **Routage** | | |
 | Faire évoluer le catalogue, ajouter une skill | 250 | Routage |
 | **Sécurité** | | |
-| Deepfake, désinformation, vérification d'image, fiabilité source | 561 | Sécurité |
-| Sauvegarde personnelle, règle 3-2-1, perte de données, restauration | 596 | Sécurité |
-| Contrôle parental, filtrage, temps d'écran, protections enfants | 597 | Sécurité |
 | Détection de fraude, anomalies de logs | 191 | Sécurité |
 | Garde-fous d'agent, limites d'autonomie | 194 | Sécurité |
 | Injection de prompt, durcissement anti-piège | 195 | Sécurité |
@@ -1424,15 +1766,32 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Pipeline CI/CD, supply chain, artefacts signés | 508 | Sécurité |
 | Simulation de phishing, faux emails, résilience | 509 | Sécurité |
 | Réseau local, Wi-Fi, segmentation, VPN | 510 | Sécurité |
+| Deepfake, désinformation, vérification d'image, fiabilité source | 561 | Sécurité |
+| Sauvegarde personnelle, règle 3-2-1, perte de données, restauration | 596 | Sécurité |
+| Contrôle parental, filtrage, temps d'écran, protections enfants | 597 | Sécurité |
+| Mots de passe, gestionnaire de mots de passe, 2FA, MFA, piratage de compte, fuite de données | 665 | Sécurité |
+| Ransomware, rançongiciel, fichiers chiffrés, virus, demande de rançon, malware, nettoyage PC | 666 | Sécurité |
+| Arnaque en ligne, phishing, faux SMS, faux appel, usurpation d'identité, arnaque au faux conseiller bancaire | 685 | Sécurité |
+| Injection de prompt, prompt injection, jailbreak, fuite de données via prompt, sécuriser un agent IA, garde-fous | 692 | Sécurité |
+| Auditer une skill avant installation, vérifier un SKILL.md, skill malveillante, ClawHavoc, permissions d'une skill | 716 | Sécurité |
+| IA souveraine, hébergement de données en UE, modèles européens (Mistral), RGPD hébergement IA, sortir des hyperscalers US | 722 | Sécurité |
+| SOC autonome, agents de sécurité IA, triage d'alertes automatique, containment par agents, Agentic SOC | 723 | Sécurité |
+| Répondre à une cyberattaque, incident de sécurité, procédure de crise cyber, playbook incident, notification CNIL | 754 | Sécurité |
+| Stratégie de sauvegarde 3-2-1, backup automatique, PRA, plan de reprise d'activité, test de restauration | 755 | Sécurité |
+| Nettoyer ses appareils, vider le cache, désinstaller les apps inutiles, mises à jour, réduire sa surface d'attaque | 756 | Sécurité |
+| Sensibiliser au phishing, campagne de phishing simulée, former les employés, reconnaître un mail frauduleux | 757 | Sécurité |
+| Payer en ligne en sécurité, 3-D Secure, carte virtuelle,arnaque paiement, vérifier un site marchand, remboursements | 758 | Sécurité |
 | **Stratégie** | | |
-| Revue CTO, arbitrages techniques, scalabilité, build vs buy | 602 | Stratégie |
-| SWOT, forces faiblesses opportunités menaces, analyse de position | 613 | Stratégie |
-| Vision, mission, valeurs d'entreprise, cadre stratégique | 551 | Stratégie |
 | Modèle économique, business model, BMC | 57 | Stratégie |
 | Prix, tarification, paliers, abonnement à chiffrer | 58 | Stratégie |
 | Prémortem, risques projet avant lancement | 60 | Stratégie |
 | Analyse de marché sectoriel, acteurs et taille | 103 | Stratégie |
 | Partenariat stratégique, alliance | 436 | Stratégie |
+| Vision, mission, valeurs d'entreprise, cadre stratégique | 551 | Stratégie |
+| Revue CTO, arbitrages techniques, scalabilité, build vs buy | 602 | Stratégie |
+| SWOT, forces faiblesses opportunités menaces, analyse de position | 613 | Stratégie |
+| Rédiger un business plan, prévisionnel sur 3 ans, modèle économique, levée de fonds, pitch investisseurs | 775 | Stratégie |
+| Préparer un pitch investisseur, deck de levée, elevator pitch investisseur, roadshow, due diligence | 776 | Stratégie |
 | **Vente** | | |
 | Prospection, cold email, démarchage commercial | 54 | Vente |
 | Verbatims, avis clients, analyse de feedback, NPS | 55 | Vente |
@@ -1453,6 +1812,15 @@ Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur,
 | Facture impayée, relance client, recouvrement | 371 | Vente |
 | Prévision du pipeline, forecast commercial | 372 | Vente |
 | Reporting commercial, chiffres de vente hebdo | 376 | Vente |
+| Prospecter sur LinkedIn, social selling, envoyer des demandes de connexion ciblées, séquences de prospection | 740 | Vente |
+| Préparer une démo produit, démo personnalisée client, script de démo, montrer la bonne feature au bon moment | 741 | Vente |
+| Répondre à une objection, « c'est trop cher », « on a déjà un outil », objection prix, négociation commerciale | 742 | Vente |
+| Conclure une vente, closer un deal, demander la signature, proposer les prochaines étapes, résumer l'accord | 743 | Vente |
+| Vendre plus à un client existant, upsell, cross-sell, augmenter le panier, fidéliser par l'offre | 744 | Vente |
+| Émettre une facture conforme, relancer un impayé, conditions de paiement, pénalités de retard, recouvrement amiable | 779 | Vente |
+| Rédiger un devis, proposition commerciale, chiffrage d'un projet,ränement de prestation, devis détaillé | 780 | Vente |
+| Gérer un client mécontent, réclamation, litige client, médiation, geste commercial, fidélisation après conflit | 796 | Vente |
+| Mesurer la satisfaction client, NPS, enquête de satisfaction, parcours client, expérience client, avis clients | 797 | Vente |
 
 **Arbre de décision** :
 
@@ -1484,35 +1852,35 @@ flowchart TD
     Q4 -->|Non| Q5{Optimiser l'IA elle-même ?}
     Q5 -->|Oui| K17[Skill 17]
     Q5 -->|Non| Q6{Autre besoin métier ?}
-    Q6 -->|Dev avancé| D1[19 Grill Me · 20 Debug · 21 Incrémental · 22 Diagrammes · 23 Doc]
+    Q6 -->|Dev avancé| D1[19 Grill Me · 20 Debug · 21 Incrémental · 22 Diagrammes · 23 Doc · 720 Grill Me]
     Q6 -->|Bureau & suivi| D2[24 CR · 25 Inbox · 26 Découpage · 27 Office · 28 Fichiers]
     Q6 -->|Marketing & marque| D3[29 UGC · 30 Social · 31 LinkedIn · 32 Benchmark · 33 Personas · 34 Charte]
     Q6 -->|Data & méta-IA| D4[35 Reco · 36 KPI · 37 Red-team · 38 Skill Creator · 48 Infographie]
     Q6 -->|Apprendre & perso| D5[39 Socrate · 40 Quiz · 41 Examen · 42 Voyage · 43 Budget]
-    Q6 -->|Carrière & relations| D6[44 CV · 45 Négociation · 46 Conflits · 49 Rôle]
+    Q6 -->|Carrière & relations| D6[44 CV · 45 Négociation · 46 Conflits · 49 Rôle · 633 Promotion · 635 Reclassement · 645 Pitch elevator · 674 Bilan de compétences · 697 Entretien embauche · 766 CNV · 772 Entretien tech · 773 Négociation salariale · 774 Lettre de motivation]
     Q6 -->|Structurer & nommer| D7[47 Naming · 50 SOP]
     Q6 -->|Contenus & créateurs| D8[51 Newsletter · 52 YouTube · 53 Repurposing · 75 Discours]
-    Q6 -->|Vendre & servir le client| D9[54 Prospection · 55 Feedback · 56 Support · 62 Propositions]
-    Q6 -->|Stratégie & pilotage| D10[57 BMC · 58 Prix · 59 Finances · 60 Prémortem · 61 Diable · 74 OKR · 602 Revue CTO · 613 SWOT]
+    Q6 -->|Vendre & servir le client| D9[54 Prospection · 55 Feedback · 56 Support · 62 Propositions · 703 Brouillon mail · 796 Litige client · 797 NPS/CX]
+    Q6 -->|Stratégie & pilotage| D10[57 BMC · 58 Prix · 59 Finances · 60 Prémortem · 61 Diable · 74 OKR · 602 Revue CTO · 613 SWOT · 775 Business plan · 776 Pitch investisseur]
     Q6 -->|Produit & design| D11[63 PRD · 64 Critique UX · 65 Microcopy · 66 Chatbot]
-    Q6 -->|Dev qualité & ops| D12[67 Tests · 68 Commits/PR · 69 SQL · 70 Sécurité · 71 Workflows]
+    Q6 -->|Dev qualité & ops| D12[67 Tests · 68 Commits/PR · 69 SQL · 70 Sécurité · 71 Workflows · 724 Vérifiabilité]
     Q6 -->|Organisation d'équipe| D13[72 Semaine · 73 Rétro · 611 Briefing du matin]
-    Q6 -->|Agents & IA| D14[76 Agents CLI · 77 MCP · 96 Datasets · 97 Evals · 98 RAG · 99 Outils · 100 Instructions · 224 Autonomes · 236 Contexte · 237 Debug prompts · 238 Annotation · 251 Handoff · 259 Multi-agents · 260 Mémoire · 261 Déclenchement · 262 Audit skills · 288 Vocal · 325 Curateur skills · 326 Budget tokens · 327 Compresseur réponses · 328 Routines agents · 329 Contrôle humain · 330 Observateur agents · 331 Modèles légers · 332 Schémas sortie · 333 Benchmarks · 334 Traducteur prompts · 335 Personnalité agent · 336 Biais modèles · 337 Cartes modèle · 338 Régression prompts · 339 Test fantôme · 340 Robustesse agents · 341 Contrats tâche · 342 Dérive modèle · 601 Revue session · 615 Auto-amélioration · 616 TDAH-friendly]
-    Q6 -->|Craft & data| D15[79 API · 83 Transpile · 84 Algos · 85 IaC · 86 Migrations · 87 OpenAPI · 88 ADR · 91 Scraping · 92 Nettoyage · 94 Pipelines · 95 Carto data · 242 Open data · 254 Mocks · 255 Charge · 257 Explorateur · 263 Synthétiques · 267 SBOM · 269 Web répétitif · 301 Worktrees · 303 SemVer · 304 Feature flags · 306 Secrets · 307 Montée versions · 311 Conventions code · 312 README · 313 Monorepo · 316 Jardinier Git · 318 SQL lentes · 319 Jobs async · 320 Rate limits · 321 Schémas BDD · 322 Webhooks · 324 Scripts CLI · 343 Qualité données · 349 Tests données · 350 dbt · 354 Sources hétérogènes]
-    Q6 -->|Ops & qualité| D16[78 No-code · 80 Legacy · 82 DevOps · 89 Post-mortem · 90 FinOps · 178 QA · 184 Tickets · 199 Runbooks · 243 Audits internes · 244 Sécurité atelier · 252 E2E · 253 Perfs web · 256 Incidents · 302 TDD · 305 Env reproductible · 308 Profileur · 309 Bench code · 310 Fuzzing · 314 Conteneurisation · 315 Bisect · 317 Tests intégration · 323 Builds · 603 Régressions visuelles · 604 Contrats d'API · 605 Plans de test · 606 Sprint dette · 607 Publication mobile · 609 Kubernetes · 614 Pré-déploiement]
-    Q6 -->|Analyse & pilotage| D17[93 Prédictif · 101 Concepts · 102 RAG perso · 103 Marché · 104 Études · 105 Veille · 106 Cohortes · 107 Dashboards · 108 Storytelling · 109 Funnels · 110 A/B · 113 Enquêtes · 115 Reçus · 186 Tracking · 264 Excel · 265 Coûts LLM · 266 FT vs RAG · 344 Métriques · 345 Séries temporelles · 346 Anomalies · 347 Formules Excel · 348 Données géo · 351 SLI/SLO · 352 Heatmaps · 353 Propension · 355 Verbatims · 427 Business cases]
-    Q6 -->|Rédaction experte| D18[116 Longs · 117 Traduction · 118 Fiches · 119 FAQ · 120 Plagiat · 121 Créative · 122 Pitchs · 127 Mémos · 128 Bios · 129 Release notes · 130 Guides · 133 Citations · 134 Glossaires · 137 Courriers · 226 Lectures · 245 Templates · 268 PDF · 280 i18n · 281 Contrats clairs · 299 Pas-à-pas · 377 Lisibilité · 378 Transcriptions · 379 Notifications · 380 Threads · 381 Dialogues · 382 Fiction interactive · 383 Comparatifs · 384 Scripts podcast · 385 Métadonnées YouTube · 386 Pitches médias · 387 Kits média · 388 Interview écrit · 389 Test 5 secondes · 390 Messages d erreur · 391 Alt-text · 392 Webinaires · 393 Tribunes · 394 Macros support · 395 Pré-publication · 396 Quatrièmes couverture]
-    Q6 -->|Visuel & audio| D19[139 Images · 140 Photos · 141 Vectoriel · 142 3D · 143 Mockups · 144 Vidéo · 145 Avatars · 146 Storyboard · 147 Miniatures · 148 Moodboards · 149 Palettes · 150 Styles · 151 Illustrations · 152 Briefs DA · 153 Wireframes · 154 Voix · 155 Musique · 156 Audio · 157 Podcasts · 158 Sous-titres · 159 Jingles · 160 SFX · 258 Vidéo programmatique · 283 Variantes]
-    Q6 -->|Marketing & croissance| D20[123 Pages de vente · 124 Cas clients · 125 Livres blancs · 126 Presse · 135 Éditorial · 136 Occasions · 161 SEO · 162 CRO · 163 Lancement · 173 Fidélité · 174 Lead magnets · 175 Communauté · 278 Hooks · 279 Concurrents · 290 Signaux faibles · 356 Ads concurrentes · 357 Séquences email · 358 Audiences · 359 SMS courts · 360 Présence locale · 361 Influenceurs · 362 Marque 360 · 363 Transcréation · 364 Quiz marketing · 365 Carrousels · 366 Social listening · 367 Alternatives · 373 Parcours client · 375 Upsell · 402 Points presse · 403 Déclarations · 612 GEO moteurs IA]
-    Q6 -->|Vente & finance| D21[111 Leads · 112 Win/loss · 131 Témoignages · 164 Battlecards · 165 Appels · 166 Objections · 167 Reviews · 168 Appels d'offres · 169 Marges · 170 Prévisionnel · 171 Levée · 172 Investisseurs · 270 CRM · 282 Avis · 298 Crédit · 368 Démos · 369 Grilles tarifaires · 370 Contrats commerciaux · 371 Factures impayées · 372 Pipeline · 376 Reporting commercial]
-    Q6 -->|Produit & design| D22[81 Composants UI · 138 Emails transactionnels · 176 Roadmap · 177 Accessibilité · 179 Activation · 180 Doc API · 181 Design system · 182 Formulaires · 183 Dépréciation · 185 Backlog · 187 Interviews · 188 Synthèse UX · 300 Gamification · 449 Anti générique · 450 États vides · 451 Navigation · 452 Erreurs UI · 453 Activation in-app · 454 Accessibilité · 455 Design tokens · 456 Expérience mobile · 457 Paliers offre · 458 Rôles produit · 459 Bêta · 460 Dark patterns · 461 Inscription · 462 Migration clients · 608 Design to code]
-    Q6 -->|Sécurité & conformité| D23[189 Anonymisation · 190 Conformité · 191 Fraudes · 192 Modération · 193 Charte IA · 194 Garde-fous · 195 Injection · 196 Registres · 197 Permissions · 198 Fournisseurs · 200 Sensibilisation · 239 Réglementaire · 271 AI Act · 272 AIPD · 273 PRA · 374 CGV · 406 Chartes modération · 439 Pentest · 440 Menaces · 441 Forensique · 442 Archivage · 443 CGU · 444 Violation données · 445 Sécurité physique · 446 DPA · 447 Fuites données · 448 NDA · 501 Auth · 502 En-têtes · 503 WordPress · 504 Menaces · 505 Correctifs · 506 Chiffrement · 507 Cloud · 508 CI/CD · 509 Phishing · 510 Réseau · 610 SOC 2]
-    Q6 -->|RH & formation| D24[132 Enfants · 201 Formations · 202 Postes · 203 Onboarding · 204 Progression · 205 Compétences · 206 Évaluations · 207 Politiques RH · 231 Reconversion · 233 Employer branding · 234 Mentorat · 274 Screening · 275 Offboarding · 276 Grilles entretien · 277 Auto-éval · 295 Microlearning · 407 Plans dev · 408 Offres emploi · 409 Succession · 410 Équité salariale · 411 Stages · 412 Télétravail · 413 Départs · 414 Mobilité · 415 Feedback 360 · 416 Financement formation · 417 Formations obligatoires · 418 Managers débutants · 419 Feedback anonyme · 420 Continuité · 421 Charge travail · 422 Recommandations]
-    Q6 -->|Organisation & équipe| D25[114 Bases de connaissances · 208 Ateliers · 209 Réunions · 210 Décisions · 211 Team building · 232 Rituels · 235 Crise · 284 RDV · 285 Actions · 286 Nettoyage · 287 Zettelkasten · 289 Multilingue · 397 Q&A live · 398 Briefs agences · 399 Matrice ton · 400 PV · 401 Jargon · 404 Messages changement · 405 Experts internes · 423 Messages entreprise · 424 Chartes équipe · 425 Coûts projet · 426 Parties prenantes · 428 Maturité équipe · 429 Portefeuille · 430 Post-fusion · 431 SLA fournisseurs · 432 Communautés pratique · 433 Processus métier · 434 RACI · 435 Registre risques · 436 Partenariats · 437 Sprints design · 438 Rapports annuels · 463 Calendrier réunions · 464 Système lecture · 465 Travail profond · 466 Horaires atypiques · 467 Checklists · 468 Dashboard perso · 469 Filtres email · 471 Dictée vocale · 475 Estimation temps]
-    Q6 -->|Vie quotidienne & divers| D26[212 Langues · 213 Flashcards · 214 Sport · 215 Nutrition · 216 Recettes · 217 Démarches · 218 Cadeaux · 219 Achats · 220 Rénovation · 221 Événements · 222 Domotique · 223 To-do · 225 Déménagement · 227 Investissement · 228 Jeux · 229 Potager · 230 Abonnements · 240 Subventions · 241 Soutenances · 246 Succession · 247 Hygiène numérique · 248 Équilibre · 249 Retraite · 250 Conservateur · 291 Pannes · 292 Auto · 293 Éloquence · 294 Augmentation · 296 Immobilier · 297 Fiscal · 470 Empreinte carbone · 472 Archiviste familial · 473 Cahiers travaux · 474 Garanties · 476 Expatriation · 477 Plan urgence · 478 Garde-manger · 479 Négociation achats · 480 Inventaire foyer · 481 Logistique familiale · 482 Aidants · 483 Sommeil · 484 Ergonomie · 485 Bilans santé · 486 Batch cooking · 487 Pharmacie · 488 Arrêt habitudes · 489 Routines · 490 Mémoires familiales · 491 Vocabulaire · 492 Prononciation · 493 Examens langue · 494 Plans lecture · 495 Mémorisation · 496 Répétition espacée · 497 Cours en ligne · 498 Notes méthodiques · 499 Enseigner · 500 Parcours perso]
-    Q6 -->|Quotidien, santé & famille (vague 8)| D27[511 Stress · 520 Parentalité · 530 Arnaques · 533 Baby-sitting · 536 Sorties culturelles · 556 Animaux · 558 Style · 564 Discours famille · 565 Fêtes famille · 566 Cuisine · 568 Culture · 578 Plantes · 579 Désencombrement · 581 Seniors numériques · 582 Running · 583 Rando · 584 Dégustation · 585 Miles · 589 Médiation famille · 592 Colocation · 593 Mutuelles · 596 Sauvegardes · 597 Contrôle parental]
-    Q6 -->|Créativité & apprentissage (vague 8)| D28[515 Théâtre · 516 Chant · 517 Danse · 518 Instrument · 521 Montage vidéo · 522 Photo · 546 Prompt images · 557 Créatifs manuels · 559 Maths · 560 Thèse · 567 Stratégie jeux · 569 Musées · 570 Devoirs · 571 Orientation · 573 Chansons · 574 Retouche · 576 Streamer · 580 Code · 591 Bourses]
-    Q6 -->|Pro, business & droit (vague 8)| D29[512 Crypto · 513 Web3 · 519 Bourse · 527 Franchise · 528 Surendettement · 529 Voisinage · 531 Droit image · 532 Bénévolat · 534 Poésie · 535 Journal intime · 537 Récits de vie · 538 Humaniseur IA · 539 Obsidian · 541 Audit budget · 548 Marque perso · 549 Interculturel · 550 Neurodiversité · 551 Vision · 552 Association · 553 Licences OSS · 554 Location · 555 Droit travail · 562 Micro-entreprise · 563 Finances freelance · 572 Portfolio · 586 Délivrabilité · 587 Logistique e-com · 588 Compta TPE · 590 Séparation · 594 Petites créances · 595 Copropriété · 599 Tarifs freelance · 600 Bilan]
+    Q6 -->|Agents & IA| D14[76 Agents CLI · 77 MCP · 96 Datasets · 97 Evals · 98 RAG · 99 Outils · 100 Instructions · 224 Autonomes · 236 Contexte · 237 Debug prompts · 238 Annotation · 251 Handoff · 259 Multi-agents · 260 Mémoire · 261 Déclenchement · 262 Audit skills · 288 Vocal · 325 Curateur skills · 326 Budget tokens · 327 Compresseur réponses · 328 Routines agents · 329 Contrôle humain · 330 Observateur agents · 331 Modèles légers · 332 Schémas sortie · 333 Benchmarks · 334 Traducteur prompts · 335 Personnalité agent · 336 Biais modèles · 337 Cartes modèle · 338 Régression prompts · 339 Test fantôme · 340 Robustesse agents · 341 Contrats tâche · 342 Dérive modèle · 601 Revue session · 615 Auto-amélioration · 616 TDAH-friendly · 689 Choisir un LLM · 690 RAG · 691 Fine-tuning · 693 Evals · 694 Coût LLM · 700 Fact-check IA · 711 A2A · 712 Harness · 713 Observabilité · 714 Mémoire structurée · 715 Find-skills · 719 Caveman · 737 Prompt structuré · 738 Step-by-step]
+    Q6 -->|Craft & data| D15[79 API · 83 Transpile · 84 Algos · 85 IaC · 86 Migrations · 87 OpenAPI · 88 ADR · 91 Scraping · 92 Nettoyage · 94 Pipelines · 95 Carto data · 242 Open data · 254 Mocks · 255 Charge · 257 Explorateur · 263 Synthétiques · 267 SBOM · 269 Web répétitif · 301 Worktrees · 303 SemVer · 304 Feature flags · 306 Secrets · 307 Montée versions · 311 Conventions code · 312 README · 313 Monorepo · 316 Jardinier Git · 318 SQL lentes · 319 Jobs async · 320 Rate limits · 321 Schémas BDD · 322 Webhooks · 324 Scripts CLI · 343 Qualité données · 349 Tests données · 350 dbt · 354 Sources hétérogènes · 721 Graphify · 782 Migration données]
+    Q6 -->|Ops & qualité| D16[78 No-code · 80 Legacy · 82 DevOps · 89 Post-mortem · 90 FinOps · 178 QA · 184 Tickets · 199 Runbooks · 243 Audits internes · 244 Sécurité atelier · 252 E2E · 253 Perfs web · 256 Incidents · 302 TDD · 305 Env reproductible · 308 Profileur · 309 Bench code · 310 Fuzzing · 314 Conteneurisation · 315 Bisect · 317 Tests intégration · 323 Builds · 603 Régressions visuelles · 604 Contrats d'API · 605 Plans de test · 606 Sprint dette · 607 Publication mobile · 609 Kubernetes · 614 Pré-déploiement · 669 Automatisation · 687 Green IT · 783 Auto bureautique]
+    Q6 -->|Analyse & pilotage| D17[93 Prédictif · 101 Concepts · 102 RAG perso · 103 Marché · 104 Études · 105 Veille · 106 Cohortes · 107 Dashboards · 108 Storytelling · 109 Funnels · 110 A/B · 113 Enquêtes · 115 Reçus · 186 Tracking · 264 Excel · 265 Coûts LLM · 266 FT vs RAG · 344 Métriques · 345 Séries temporelles · 346 Anomalies · 347 Formules Excel · 348 Données géo · 351 SLI/SLO · 352 Heatmaps · 353 Propension · 355 Verbatims · 427 Business cases · 688 Veille tech · 708 Deep research · 725 NotebookLM]
+    Q6 -->|Rédaction experte| D18[116 Longs · 117 Traduction · 118 Fiches · 119 FAQ · 120 Plagiat · 121 Créative · 122 Pitchs · 127 Mémos · 128 Bios · 129 Release notes · 130 Guides · 133 Citations · 134 Glossaires · 137 Courriers · 226 Lectures · 245 Templates · 268 PDF · 280 i18n · 281 Contrats clairs · 299 Pas-à-pas · 377 Lisibilité · 378 Transcriptions · 379 Notifications · 380 Threads · 381 Dialogues · 382 Fiction interactive · 383 Comparatifs · 384 Scripts podcast · 385 Métadonnées YouTube · 386 Pitches médias · 387 Kits média · 388 Interview écrit · 389 Test 5 secondes · 390 Messages d erreur · 391 Alt-text · 392 Webinaires · 393 Tribunes · 394 Macros support · 395 Pré-publication · 396 Quatrièmes couverture · 749 SEO contenu]
+    Q6 -->|Visuel & audio| D19[139 Images · 140 Photos · 141 Vectoriel · 142 3D · 143 Mockups · 144 Vidéo · 145 Avatars · 146 Storyboard · 147 Miniatures · 148 Moodboards · 149 Palettes · 150 Styles · 151 Illustrations · 152 Briefs DA · 153 Wireframes · 154 Voix · 155 Musique · 156 Audio · 157 Podcasts · 158 Sous-titres · 159 Jingles · 160 SFX · 258 Vidéo programmatique · 283 Variantes · 717 Vidéo code · 718 Text-to-CAD · 728 Carrousel · 730 Packshot IA]
+    Q6 -->|Marketing & croissance| D20[123 Pages de vente · 124 Cas clients · 125 Livres blancs · 126 Presse · 135 Éditorial · 136 Occasions · 161 SEO · 162 CRO · 163 Lancement · 173 Fidélité · 174 Lead magnets · 175 Communauté · 278 Hooks · 279 Concurrents · 290 Signaux faibles · 356 Ads concurrentes · 357 Séquences email · 358 Audiences · 359 SMS courts · 360 Présence locale · 361 Influenceurs · 362 Marque 360 · 363 Transcréation · 364 Quiz marketing · 365 Carrousels · 366 Social listening · 367 Alternatives · 373 Parcours client · 375 Upsell · 402 Points presse · 403 Déclarations · 612 GEO moteurs IA · 646 Landing page · 647 E-réputation · 709 Veille concurrents · 726 Social listening · 727 Calendrier éditorial · 729 Script short · 739 Personas · 745 Parrainage · 746 Séquence email · 747 Campagne ads · 748 SEO technique · 798 Tunnel e-com · 799 Lancement]
+    Q6 -->|Vente & finance| D21[111 Leads · 112 Win/loss · 131 Témoignages · 164 Battlecards · 165 Appels · 166 Objections · 167 Reviews · 168 Appels d'offres · 169 Marges · 170 Prévisionnel · 171 Levée · 172 Investisseurs · 270 CRM · 282 Avis · 298 Crédit · 368 Démos · 369 Grilles tarifaires · 370 Contrats commerciaux · 371 Factures impayées · 372 Pipeline · 376 Reporting commercial · 740 Social selling · 741 Démo · 742 Objections · 743 Closing · 744 Upsell · 779 Facturation · 780 Devis]
+    Q6 -->|Produit & design| D22[81 Composants UI · 138 Emails transactionnels · 176 Roadmap · 177 Accessibilité · 179 Activation · 180 Doc API · 181 Design system · 182 Formulaires · 183 Dépréciation · 185 Backlog · 187 Interviews · 188 Synthèse UX · 300 Gamification · 449 Anti générique · 450 États vides · 451 Navigation · 452 Erreurs UI · 453 Activation in-app · 454 Accessibilité · 455 Design tokens · 456 Expérience mobile · 457 Paliers offre · 458 Rôles produit · 459 Bêta · 460 Dark patterns · 461 Inscription · 462 Migration clients · 608 Design to code · 686 Accessibilité · 731 Microcopy UI · 732 Design system · 733 Test A/B · 734 User interviews · 735 Onboarding · 736 Contenu accessible]
+    Q6 -->|Sécurité & conformité| D23[189 Anonymisation · 190 Conformité · 191 Fraudes · 192 Modération · 193 Charte IA · 194 Garde-fous · 195 Injection · 196 Registres · 197 Permissions · 198 Fournisseurs · 200 Sensibilisation · 239 Réglementaire · 271 AI Act · 272 AIPD · 273 PRA · 374 CGV · 406 Chartes modération · 439 Pentest · 440 Menaces · 441 Forensique · 442 Archivage · 443 CGU · 444 Violation données · 445 Sécurité physique · 446 DPA · 447 Fuites données · 448 NDA · 501 Auth · 502 En-têtes · 503 WordPress · 504 Menaces · 505 Correctifs · 506 Chiffrement · 507 Cloud · 508 CI/CD · 509 Phishing · 510 Réseau · 610 SOC 2 · 665 Mots de passe · 666 Ransomware · 685 Arnaques en ligne · 692 Injection prompt · 695 RGPD perso · 716 Audit skill · 722 IA souveraine · 723 SOC agentique · 751 Conformité RGPD · 754 Incident cyber · 755 Backup 3-2-1 · 756 Hygiène numérique · 757 Anti-phishing · 758 Paiement en ligne]
+    Q6 -->|RH & formation| D24[132 Enfants · 201 Formations · 202 Postes · 203 Onboarding · 204 Progression · 205 Compétences · 206 Évaluations · 207 Politiques RH · 231 Reconversion · 233 Employer branding · 234 Mentorat · 274 Screening · 275 Offboarding · 276 Grilles entretien · 277 Auto-éval · 295 Microlearning · 407 Plans dev · 408 Offres emploi · 409 Succession · 410 Équité salariale · 411 Stages · 412 Télétravail · 413 Départs · 414 Mobilité · 415 Feedback 360 · 416 Financement formation · 417 Formations obligatoires · 418 Managers débutants · 419 Feedback anonyme · 420 Continuité · 421 Charge travail · 422 Recommandations · 632 Entretien annuel · 642 Télétravail · 644 Feedback · 698 Onboarding · 759 Droit du travail PME · 787 RPS · 788 Management remote · 789 Offboarding · 790 Recrutement · 791 Plan de formation · 792 CSE]
+    Q6 -->|Organisation & équipe| D25[114 Bases de connaissances · 208 Ateliers · 209 Réunions · 210 Décisions · 211 Team building · 232 Rituels · 235 Crise · 284 RDV · 285 Actions · 286 Nettoyage · 287 Zettelkasten · 289 Multilingue · 397 Q&A live · 398 Briefs agences · 399 Matrice ton · 400 PV · 401 Jargon · 404 Messages changement · 405 Experts internes · 423 Messages entreprise · 424 Chartes équipe · 425 Coûts projet · 426 Parties prenantes · 428 Maturité équipe · 429 Portefeuille · 430 Post-fusion · 431 SLA fournisseurs · 432 Communautés pratique · 433 Processus métier · 434 RACI · 435 Registre risques · 436 Partenariats · 437 Sprints design · 438 Rapports annuels · 463 Calendrier réunions · 464 Système lecture · 465 Travail profond · 466 Horaires atypiques · 467 Checklists · 468 Dashboard perso · 469 Filtres email · 471 Dictée vocale · 475 Estimation temps · 643 Réunions efficaces · 664 Démarches en ligne · 670 Prise de notes · 696 Crise · 701 Daily brief · 702 Meeting prep · 704 Agenda optimisé · 705 Notes de réunion · 706 Relance · 707 Status update · 710 Rapport hebdo · 760 Visio efficace · 761 Délégation · 762 Médiation interne · 763 Priorisation · 777 Relation investisseurs · 781 Choisir un SaaS · 784 Wiki interne · 793 Agile/Scrum · 794 Risques projet · 795 Changement]
+    Q6 -->|Vie quotidienne & divers| D26[212 Langues · 213 Flashcards · 214 Sport · 215 Nutrition · 216 Recettes · 217 Démarches · 218 Cadeaux · 219 Achats · 220 Rénovation · 221 Événements · 222 Domotique · 223 To-do · 225 Déménagement · 227 Investissement · 228 Jeux · 229 Potager · 230 Abonnements · 240 Subventions · 241 Soutenances · 246 Succession · 247 Hygiène numérique · 248 Équilibre · 249 Retraite · 250 Conservateur · 291 Pannes · 292 Auto · 293 Éloquence · 294 Augmentation · 296 Immobilier · 297 Fiscal · 470 Empreinte carbone · 472 Archiviste familial · 473 Cahiers travaux · 474 Garanties · 476 Expatriation · 477 Plan urgence · 478 Garde-manger · 479 Négociation achats · 480 Inventaire foyer · 481 Logistique familiale · 482 Aidants · 483 Sommeil · 484 Ergonomie · 485 Bilans santé · 486 Batch cooking · 487 Pharmacie · 488 Arrêt habitudes · 489 Routines · 490 Mémoires familiales · 491 Vocabulaire · 492 Prononciation · 493 Examens langue · 494 Plans lecture · 495 Mémorisation · 496 Répétition espacée · 497 Cours en ligne · 498 Notes méthodiques · 499 Enseigner · 500 Parcours perso · 619 Imposteur · 620 Perfectionnisme · 630 Maintien à domicile · 631 MDPH · 653 Déménagement · 654 Dépannage · 655 Entretien auto · 656 Itinéraire · 657 Dîner entre amis · 658 Cadeau · 659 Sport · 661 Potager · 678 Rénovation · 679 Abonnements · 684 Expatriation · 699 Déménagement international · 764 Habitudes]
+    Q6 -->|Quotidien, santé & famille (vague 8)| D27[511 Stress · 520 Parentalité · 530 Arnaques · 533 Baby-sitting · 536 Sorties culturelles · 556 Animaux · 558 Style · 564 Discours famille · 565 Fêtes famille · 566 Cuisine · 568 Culture · 578 Plantes · 579 Désencombrement · 581 Seniors numériques · 582 Running · 583 Rando · 584 Dégustation · 585 Miles · 589 Médiation famille · 592 Colocation · 593 Mutuelles · 596 Sauvegardes · 597 Contrôle parental · 617 Burn-out · 618 Charge mentale · 621 Cauchemars · 622 Intolérances · 623 Observance · 624 Dents · 625 Opticien · 626 Grossesse · 627 Allaitement · 628 Nounou · 629 Éducation · 660 Animaux · 662 Végétarien · 663 Téléconsultation · 765 Anxiété]
+    Q6 -->|Créativité & apprentissage (vague 8)| D28[515 Théâtre · 516 Chant · 517 Danse · 518 Instrument · 521 Montage vidéo · 522 Photo · 546 Prompt images · 557 Créatifs manuels · 559 Maths · 560 Thèse · 567 Stratégie jeux · 569 Musées · 570 Devoirs · 571 Orientation · 573 Chansons · 574 Retouche · 576 Streamer · 580 Code · 591 Bourses · 671 Langue adulte · 672 Permis · 673 Méthodologie · 767 Soutenance · 768 Dissertation · 769 Oral · 770 Cours particuliers · 771 PBL]
+    Q6 -->|Pro, business & droit (vague 8)| D29[512 Crypto · 513 Web3 · 519 Bourse · 527 Franchise · 528 Surendettement · 529 Voisinage · 531 Droit image · 532 Bénévolat · 534 Poésie · 535 Journal intime · 537 Récits de vie · 538 Humaniseur IA · 539 Obsidian · 541 Audit budget · 548 Marque perso · 549 Interculturel · 550 Neurodiversité · 551 Vision · 552 Association · 553 Licences OSS · 554 Location · 555 Droit travail · 562 Micro-entreprise · 563 Finances freelance · 572 Portfolio · 586 Délivrabilité · 587 Logistique e-com · 588 Compta TPE · 590 Séparation · 594 Petites créances · 595 Copropriété · 599 Tarifs freelance · 600 Bilan · 634 Licenciement · 636 Harcèlement · 637 Discrimination · 638 Trésorerie · 639 TVA · 640 Clôture comptable · 641 Bulletin de paie · 648 Résiliation · 649 Médiation · 650 Interdit bancaire · 651 Succession · 652 Divorce · 667 Droit à l'image · 668 Statut juridique · 675 Achat immo · 676 Bail · 677 Copropriété · 680 Changer de banque · 681 Épargne · 682 Retraite · 683 Assurances · 750 Contrat client · 752 PI · 753 AI Act · 778 Trésorerie PME · 785 Veille juridique · 786 Assurance pro]
     Q6 -->|Dev, data, IA & produit (vague 8)| D30[514 Robotique · 523 Regex · 524 Game dev · 525 Dev mobile · 526 API design · 540 Vibe coding · 542 Admin BDD · 543 Extraction OCR · 544 Bots · 545 Site statique · 547 Stats · 561 Deepfakes · 575 Gameplay · 577 Supervision IA · 598 Boucle prompts]
     Q6 -->|Aucun| F[Réponse directe<br/>+ suggestion de créer une skill]
 ```
@@ -1586,7 +1954,6 @@ Les skills 19-50 s'inspirent des skills, prompts et workflows les plus populaire
 - [Snyk — Top Claude Skills cybersécurité](https://snyk.io/fr/articles/top-claude-skills-cybersecurity-hacking-vulnerability-scanning/) — audit de vulnérabilités, scans OWASP → skill 70
 - [TimOnWeb — 5 security skills pour Claude Code](https://timonweb.com/ai/i-checked-5-security-skills-for-claude-code-only-one-is-worth-installing/) — audit contextuel vs checklist aveugle → skill 70
 - [bestclaudecodeskills — Testing & Security](https://bestclaudecodeskills.com/categories/testing-security) — skills de tests, approche test-first → skill 67
-
 
 **Vague 4 (skills 76-250) — le grand élargissement, inspiré des « 100 compétences IA 2026 »** :
 

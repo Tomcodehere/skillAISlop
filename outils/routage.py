@@ -14,12 +14,16 @@ le script. Pour l'utiliser : sed -n '7,$p' CANVAS.md > routage.py puis :
     python3 routage.py stats [--clear]       # observabilité du routage
     python3 routage.py bench [--tours N]     # mesure build/route + gain tokens
     python3 routage.py sonde [--fichier R.md]  # couverture : couverts/partiels/gaps
+    python3 routage.py vocab [--limit N]        # top tokens FTS5 (fts5vocab) — lint sémantique
+    python3 routage.py versions                 # historique des builds (ajouts/supprimes/modifies)
+    python3 routage.py analytics                # stats SQL des routages de session (exit, voie, domaine)
 
 Sous-commandes :
   build    (re)construit skills.db depuis le canvas : tables skills, domaines,
            synonymes + index full-text FTS5 (unicode61) avec triggers.
   route    cascade : renvoi direct -> mot-clé canonique -> synonyme ->
            full-text FTS5 (bm25 pondéré : mot-clé > signal > nom court > nom)
+           -> passe vectorielle sqlite-vec (cosinus, embeddings locaux)
            -> passe floue par trigrammes (fautes de frappe) -> domaines
            plausibles. Chaque candidate porte l'ancre « ## N. » de sa section
            dans le canvas. Exit 0 : candidate trouvée · exit 1 : domaine
@@ -536,6 +540,342 @@ SYNONYMES = [
     ("leçons", 615),
     ("tdah", 616),
     ("préambule", 616),
+
+    # --- Vague 10 (skills 617-699) ---
+    ("épuisement professionnel", 617),
+    ("burnout au travail", 617),
+    ("charge mentale parentale", 618),
+    ("syndrome imposteur", 619),
+    ("réveils nocturnes", 621),
+    ("allergies alimentaires", 622),
+    ("prise de médicaments", 623),
+    ("orthodontie", 624),
+    ("lunettes", 625),
+    ("maternité", 626),
+    ("diversification", 627),
+    ("garde d'enfants", 628),
+    ("activités enfants", 629),
+    ("aide à domicile", 630),
+    ("aménagement logement", 631),
+    ("évaluation annuelle", 632),
+    ("évolution interne", 633),
+    ("rupture conventionnelle", 634),
+    ("changement de poste en interne", 635),
+    ("harcèlement moral", 636),
+    ("sexisme", 637),
+    ("prévisionnel trésorerie", 638),
+    ("déclaration fiscale", 639),
+    ("bilan comptable", 640),
+    ("fiche de paie", 641),
+    ("full remote", 642),
+    ("réunionite", 643),
+    ("retour d'expérience", 644),
+    ("se présenter brièvement", 645),
+    ("page de conversion", 646),
+    ("avis google maps", 647),
+    ("délai de rétractation", 648),
+    ("règlement amiable", 649),
+    ("fichage banque de france", 650),
+    ("testament", 651),
+    ("héritage familial", 651),
+    ("pension alimentaire", 652),
+    ("garde alternée", 652),
+    ("mise en service", 653),
+    ("bricolage", 654),
+    ("vidange", 655),
+    ("contrôle technique", 655),
+    ("préparer un voyage", 656),
+    ("bagages", 656),
+    ("organiser un repas", 657),
+    ("liste de naissance", 658),
+    ("préparer un marathon", 659),
+    ("musculation maison", 659),
+    ("yoga débutant", 659),
+    ("programme vélo", 659),
+    ("vaccination chien", 660),
+    ("stérilisation", 660),
+    ("toilettage", 660),
+    ("potager maison", 661),
+    ("compostage", 661),
+    ("vegan", 662),
+    ("médecin en ligne", 663),
+    ("téléservice", 664),
+    ("gestionnaire de mots de passe", 665),
+    ("virus", 666),
+    ("malware", 666),
+    ("photo de quelqu'un", 667),
+    ("publier une photo", 667),
+    ("sasu", 668),
+    ("eurl", 668),
+    ("zapier", 669),
+    ("make", 669),
+    ("second cerveau", 670),
+    ("cours de langue", 671),
+    ("conduite accompagnée", 672),
+    ("réviser efficacement", 673),
+    ("changer de voie professionnelle", 674),
+    ("offre d'achat", 675),
+    ("crédit immobilier", 675),
+    ("état des lieux", 676),
+    ("quittance de loyer", 676),
+    ("conseil syndical", 677),
+    ("assemblée générale copro", 677),
+    ("pompe à chaleur", 678),
+    ("panneaux solaires", 678),
+    ("dpe", 678),
+    ("résilier un abonnement", 679),
+    ("mobilité bancaire", 680),
+    ("livret a", 681),
+    ("pea", 681),
+    ("relevé de carrière", 682),
+    ("protection juridique", 683),
+    ("comparatif assurances", 683),
+    ("partir vivre à l'étranger", 684),
+    ("faux sms", 685),
+    ("usurpation d'identité", 685),
+    ("wcag", 686),
+    ("empreinte carbone numérique", 687),
+    ("veille ia", 688),
+    ("comparatif modèles ia", 689),
+    ("recherche sémantique", 690),
+    ("embeddings", 690),
+    ("lora", 691),
+    ("entraîner un modèle", 691),
+    ("prompt injection", 692),
+    ("jailbreak", 692),
+    ("evals", 693),
+    ("évaluation llm", 693),
+    ("optimiser les tokens", 694),
+    ("mes données personnelles", 695),
+    ("gestion des cookies", 695),
+    ("buzz négatif", 696),
+    ("questions entretien", 697),
+    ("parcours d'intégration", 698),
+    ("douane déménagement", 699),
+    ("conteneur maritime", 699),
+    ("allergique", 622),
+    ("allergie alimentaire", 622),
+    ("médicaments", 623),
+    ("oubli médicaments", 623),
+    ("enceinte", 626),
+    ("suivi de grossesse", 626),
+    ("éducation des enfants", 629),
+    ("écrans ado", 629),
+    ("entretien préalable", 634),
+    ("télétravail hybride", 642),
+    ("fuite d'eau", 654),
+    ("réparation maison", 654),
+    ("reprendre le sport", 659),
+    ("programme sportif", 659),
+    ("adopter un animal", 660),
+    ("chat adulte", 660),
+    ("carte d'identité", 664),
+    ("démarches administratives", 664),
+    ("automatiser", 669),
+    ("workflow no-code", 669),
+    ("notion obsidian", 670),
+    ("organisation personnelle", 670),
+    ("apprendre l'espagnol", 671),
+    ("cours de langue adulte", 671),
+    ("brevet", 673),
+    ("méthodologie scolaire", 673),
+    ("reconversion professionnelle", 674),
+    ("caution locative", 676),
+    ("état des lieux litige", 676),
+    ("appel de fonds", 677),
+    ("s'expatrier", 684),
+    ("départ à l'étranger", 684),
+    ("viral", 696),
+    ("incident médiatique", 696),
+    ("déménagement à l'étranger", 699),
+    ("expatriation déménagement", 699),
+    ("changer de poste", 635),
+    ("chasse d'eau", 654),
+    ("wc qui fuit", 654),
+    ("courir un 10 km", 659),
+    ("10 km", 659),
+    ("un seul système de notes", 670),
+    ("second cerveau organisation", 670),
+    ("changer de métier", 674),
+    ("proprio retient caution", 676),
+    ("litige caution", 676),
+    ("expatriation 2 ans", 684),
+    ("fine-tuning", 691),
+    ("déménager à lisbonne", 699),
+    ("mes notes sont partout", 670),
+    ("prise de notes éparpillée", 670),
+    ("reconversion dans l'environnement", 674),
+    ("bilan de compétences financé", 674),
+    ("mon proprio bloque ma caution", 676),
+    ("retenue abusive caution", 676),
+    ("expatriation professionnelle", 684),
+    ("expat singapour", 684),
+    ("fine-tuner", 691),
+    ("spécialiser un llm", 691),
+    ("vivre à lisbonne", 699),
+    ("déménagement lisbonne", 699),
+    ("j'ai des notes partout", 670),
+    ("je veux me reconvertir", 674),
+    ("mon proprio retient ma caution", 676),
+    ("on s'expatrie", 684),
+    ("fine-tuner un modèle", 691),
+    ("on déménage vivre", 699),
+    ("ado", 629),
+    ("écrans en famille", 629),
+    ("hybride", 642),
+    ("2 jours de tt", 642),
+
+    # --- Vague 11 (skills 700-799 : veille web 2026) ---
+    ("hallucination ia", 700),
+    ("vérifier les sources", 700),
+    ("résumé de ma journée", 701),
+    ("prépa call", 702),
+    ("répondre à un email", 703),
+    ("protéger mon focus", 704),
+    ("action items", 705),
+    ("suivi des réponses", 706),
+    ("point d'avancement", 707),
+    ("rapport de recherche", 708),
+    ("surveiller mes concurrents", 709),
+    ("bilan de la semaine", 710),
+    ("agent-to-agent", 711),
+    ("orchestration agents", 712),
+    ("traces llm", 713),
+    ("mémoire sémantique", 714),
+    ("installer une skill", 715),
+    ("skill malveillante", 716),
+    ("remotion", 717),
+    ("modèle 3d par ia", 718),
+    ("réponse courte", 719),
+    ("critiquer mon approche", 720),
+    ("connaissances en réseau", 721),
+    ("hébergement ue", 722),
+    ("agents de sécurité", 723),
+    ("règles karpathy", 724),
+    ("réponses ancrées dans mes documents", 725),
+    ("tendances temps réel", 726),
+    ("planifier mes contenus", 727),
+    ("slides éducatifs", 728),
+    ("script tiktok", 729),
+    ("photo produit ia", 730),
+    ("texte bouton", 731),
+    ("bibliothèque de composants", 732),
+    ("expérimentation", 733),
+    ("retours utilisateurs", 734),
+    ("première utilisation", 735),
+    ("sous-titres vidéo", 736),
+    ("rcorcf", 737),
+    ("chaîne de pensée", 738),
+    ("client idéal", 739),
+    ("prospection linkedin", 740),
+    ("démo personnalisée", 741),
+    ("c'est trop cher", 742),
+    ("demander la signature", 743),
+    ("cross-sell", 744),
+    ("bouche-à-oreille", 745),
+    ("campagne emailing", 746),
+    ("google ads", 747),
+    ("meta ads", 747),
+    ("core web vitals", 748),
+    ("référencement naturel", 749),
+    ("cgv", 750),
+    ("registre des traitements", 751),
+    ("droit d'auteur", 752),
+    ("règlement ia européen", 753),
+    ("cyberattaque", 754),
+    ("plan de reprise", 755),
+    ("nettoyer mon pc", 756),
+    ("mail frauduleux", 757),
+    ("3-d secure", 758),
+    ("embaucher quelqu'un", 759),
+    ("visioconférence", 760),
+    ("confier une mission", 761),
+    ("désamorcer une tension", 762),
+    ("matrice eisenhower", 763),
+    ("installer une habitude", 764),
+    ("rumination", 765),
+    ("communication non violente", 766),
+    ("defense de mémoire", 767),
+    ("plan dialectique", 768),
+    ("grand oral", 769),
+    ("soutien scolaire", 770),
+    ("apprendre en faisant", 771),
+    ("live coding", 772),
+    ("demande d'augmentation", 773),
+    ("candidature spontanée", 774),
+    ("prévisionnel 3 ans", 775),
+    ("deck de levée", 776),
+    ("board meeting", 777),
+    ("bfr", 778),
+    ("relance impayé", 779),
+    ("proposition commerciale", 780),
+    ("comparer des outils", 781),
+    ("changer d'outil", 782),
+    ("macro excel", 783),
+    ("documenter un processus", 784),
+    ("veille réglementaire", 785),
+    ("rc pro", 786),
+    ("décennale", 786),
+    ("risques psychosociaux", 787),
+    ("équipe remote", 788),
+    ("départ d'un salarié", 789),
+    ("entretien d'embauche employeur", 790),
+    ("compétences à développer", 791),
+    ("comité social", 792),
+    ("scrum", 793),
+    ("registre des risques", 794),
+    ("adhésion équipe", 795),
+    ("réclamation client", 796),
+    ("satisfaction client", 797),
+    ("taux de conversion e-commerce", 798),
+    ("go-to-market", 799),
+    ("fact-checker une ia", 700),
+    ("hallucinations", 700),
+    ("relance prestataire", 706),
+    ("suivi des engagements", 706),
+    ("closer", 743),
+    ("obtenir un engagement", 743),
+    ("forfait pro", 744),
+    ("expansion de compte", 744),
+    ("emails de bienvenue", 746),
+    ("séquence de bienvenue", 746),
+    ("optimiser un article seo", 749),
+    ("seo contenu", 749),
+    ("embaucher", 759),
+    ("premier salarié", 759),
+    ("conflit entre collègues", 762),
+    ("médiation interne", 762),
+    ("je rumine", 765),
+    ("cours particuliers 4e", 770),
+    ("expliquer les équations", 770),
+    ("migrer emails proton", 782),
+    ("migration de données", 782),
+    ("offboarding développeur", 789),
+    ("check-list offboarding", 789),
+    ("recrutement commercial", 790),
+    ("process de recrutement", 790),
+    ("embarquer l'équipe", 795),
+    ("conduite du changement crm", 795),
+    ("plan de lancement", 799),
+    ("lancer une appli", 799),
+    ("vérifie les chiffres", 700),
+    ("texte généré par ia", 700),
+    ("ne répond plus", 706),
+    ("relance-le", 706),
+    ("optimise cet article", 749),
+    ("se disputent", 762),
+    ("je médie", 762),
+    ("migre mes emails", 782),
+    ("10 ans d'emails", 782),
+    ("recrutement de notre", 790),
+    ("notre commercial", 790),
+    ("ton d'équipe", 399), ("ton de communication", 399), ("changer de ton", 399), ("adapter son ton", 399),
+    ("decks", 14),
+    ("arbitrer", 266),
+    ("trancher", 266),
+    ("tutorat", 39),
+    ("dispatcher", 0),
+    # --- Bouclage sonde (gap/partiels, 2026-11-02) ---
 ]
 
 # ---------------------------------------------------------------------------
@@ -590,6 +930,192 @@ TESTS_ROUTAGE = [
     ("contrôle pré-déploiement", 614),
     ("notre positionnement dans les réponses de ChatGPT", 612),
     ("adapte tes réponses pour un lecteur TDAH", 616),
+
+    # --- Vague 10 (skills 617-699) ---
+    ("je fais un burn-out au travail", 617),
+    ("on veut répartir la charge mentale à la maison", 618),
+    ("j'ai le syndrome de l'imposteur", 619),
+    ("je bloque à cause du perfectionnisme", 620),
+    ("je fais des cauchemars toutes les nuits", 621),
+    ("mon fils est allergique aux arachides", 622),
+    ("j'oublie de prendre mes médicaments", 623),
+    ("mes gencives saignent", 624),
+    ("je dois renouveler mes lunettes", 625),
+    ("je suis enceinte de 12 semaines", 626),
+    ("comment organiser l'allaitement et la diversification", 627),
+    ("on cherche une nounou pour bébé", 628),
+    ("mon ado en CM1 et les écrans", 629),
+    ("maintien à domicile de ma mère de 84 ans", 630),
+    ("dossier MDPH pour mon fils autiste", 631),
+    ("préparer mon entretien annuel", 632),
+    ("je veux demander une promotion", 633),
+    ("convocation à un entretien préalable", 634),
+    ("je veux changer de poste en interne", 635),
+    ("harcèlement moral par mon manager", 636),
+    ("discrimination salariale homme femme", 637),
+    ("mon entreprise est en difficulté de trésorerie", 638),
+    ("déclaration de TVA en CA3", 639),
+    ("lire mon bilan comptable de fin d'année", 640),
+    ("expliquer ma fiche de paie", 641),
+    ("on passe en hybride 2 jours de TT", 642),
+    ("trop de réunions inutiles au bureau", 643),
+    ("donner un feedback à un collègue", 644),
+    ("prépare mon pitch elevator", 645),
+    ("refaire notre landing page de conversion", 646),
+    ("répondre à un avis négatif sur google", 647),
+    ("exercer mon droit de rétractation", 648),
+    ("médiation avec mon voisin", 649),
+    ("dossier de surendettement à la banque de france", 650),
+    ("la succession de mon père", 651),
+    ("garde alternée et pension alimentaire", 652),
+    ("déménagement et ouverture de compteur edf", 653),
+    ("la chasse d'eau fuit", 654),
+    ("vidange et contrôle technique de ma voiture", 655),
+    ("préparer notre voyage au japon", 656),
+    ("organiser un dîner pour 8 samedi", 657),
+    ("trouver un cadeau pour les 30 ans de ma sœur", 658),
+    ("je veux courir un 10 km dans 6 mois", 659),
+    ("adopter un chat adulte", 660),
+    ("mon potager de 20 m2 cet été", 661),
+    ("menus végétariens pour toute la famille", 662),
+    ("téléconsultation pour renouveler mon ordonnance", 663),
+    ("renouveler ma carte d'identité en ligne", 664),
+    ("sécuriser mes mots de passe", 665),
+    ("mon pc est infecté par un ransomware", 666),
+    ("publier la photo de classe de mon fils", 667),
+    ("choisir entre auto-entrepreneur et sasu", 668),
+    ("automatiser mon formulaire typeform vers mon crm", 669),
+    ("j'ai des notes partout, un seul système svp", 670),
+    ("apprendre l'espagnol en 8 mois", 671),
+    ("passer le permis à 17 ans", 672),
+    ("mon fils révise mal pour le brevet", 673),
+    ("je veux me reconvertir dans l'environnement", 674),
+    ("négocier une offre d'achat immobilier", 675),
+    ("mon proprio retient ma caution", 676),
+    ("appel de fonds de ma copropriété", 677),
+    ("isoler ma maison classée F au dpe", 678),
+    ("faire le tri dans mes abonnements", 679),
+    ("changer de banque sans perdre mes prélèvements", 680),
+    ("livret A ou PEA pour mon épargne", 681),
+    ("à quel âge partir à la retraite à taux plein", 682),
+    ("quelle assurance habitation en colocation", 683),
+    ("on s'expatrie 2 ans à singapour", 684),
+    ("ce sms de la douane est-il une arnaque", 685),
+    ("notre site doit être conforme wcag", 686),
+    ("réduire l'empreinte carbone de notre site", 687),
+    ("organiser ma veille technologique ia", 688),
+    ("quel llm choisir pour notre chatbot", 689),
+    ("monter un rag sur nos procédures internes", 690),
+    ("fine-tuner un modèle sur notre ton de marque", 691),
+    ("sécuriser notre agent contre l'injection de prompt", 692),
+    ("mettre en place des evals sur notre agent", 693),
+    ("notre facture api llm a triplé", 694),
+    ("un client demande l'effacement de ses données rgpd", 695),
+    ("notre livreur maltraite un colis, c'est viral", 696),
+    ("préparer mon entretien d'embauche de jeudi", 697),
+    ("onboarder notre nouveau développeur lundi", 698),
+    ("on déménage vivre 2 ans à lisbonne", 699),
+
+    # --- Vague 11 (skills 700-799) ---
+    ("vérifie les chiffres de ce texte généré par une ia", 700),
+    ("donne-moi mon briefing du matin", 701),
+    ("prépare ma fiche pour le call de 14 h", 702),
+    ("rédige un brouillon de réponse à ce mail client", 703),
+    ("mon agenda est un bazar, optimise ma semaine", 704),
+    ("rédige le compte rendu de cette réunion avec les action items", 705),
+    ("mon prestataire ne répond plus, relance-le", 706),
+    ("rédige mon statut d'équipe pour demain", 707),
+    ("fais une recherche approfondie sur ce marché avec sources", 708),
+    ("mets en place une veille sur mes concurrents", 709),
+    ("prépare mon rapport hebdo pour mon manager", 710),
+    ("explique-moi le protocole a2a entre agents", 711),
+    ("comment structurer le harness de mon agent", 712),
+    ("instrumente les appels llm de mon agent", 713),
+    ("structure la mémoire persistante de mon agent", 714),
+    ("trouve et installe une skill pour connecter notion", 715),
+    ("audite cette skill avant de l'installer", 716),
+    ("crée une vidéo de démo produit avec remotion", 717),
+    ("génère un modèle 3d imprimable from texte", 718),
+    ("donne-moi la version courte caveman de cette réponse", 719),
+    ("challenge mon plan de migration avant que je code", 720),
+    ("transforme mes 200 notes en graphe de connaissances", 721),
+    ("quelles solutions ia souveraines hébergées en ue", 722),
+    ("quels playbooks confier à des agents de sécurité", 723),
+    ("applique les règles de vérifiabilité au code ia", 724),
+    ("réponds-moi uniquement depuis mes pdf avec citations", 725),
+    ("que dit-on de ma marque sur reddit cette semaine", 726),
+    ("construis mon calendrier éditorial du mois", 727),
+    ("écris le texte d'un carrousel de 8 slides", 728),
+    ("script un reels de 30 secondes avec hook", 729),
+    ("génère des packshots blancs pour mes 20 produits", 730),
+    ("rédige tous les textes de notre page d'inscription", 731),
+    ("par quoi commencer notre design system", 732),
+    ("comment mener ce test a/b proprement", 733),
+    ("prépare le guide de nos interviews utilisateurs", 734),
+    ("70 % des inscrits partent après l'accueil, corrige l'onboarding", 735),
+    ("donne-moi la check-list accessibilité de mes contenus", 736),
+    ("transforme ce prompt brouillon en rcorcf", 737),
+    ("explique-moi étape par étape ce raisonnement", 738),
+    ("définis mes 3 personas clients", 739),
+    ("cible-moi 20 profils linkedin et écris la séquence", 740),
+    ("prépare le script de ma démo de 15 min", 741),
+    ("le prospect dit que c'est trop cher, quelles réponses", 742),
+    ("comment closer pour obtenir un engagement daté", 743),
+    ("quand proposer le forfait pro à ce client", 744),
+    ("crée la séquence de 5 emails de bienvenue", 746),
+    ("lance une campagne google ads à 30 euros par jour", 747),
+    ("fais l'audit seo technique de mon site", 748),
+    ("optimise cet article pour le mot-clé choisi", 749),
+    ("quelles clauses ne pas oublier dans ce contrat", 750),
+    ("quelles obligations rgpd pour notre pme", 751),
+    ("faut-il déposer notre marque avant le lancement", 752),
+    ("sommes-nous concernés par l'ai act pour le tri de cv", 753),
+    ("notre serveur a été compromis, procédure d'incident", 754),
+    ("mets en place la sauvegarde 3-2-1", 755),
+    ("fais la routine de nettoyage de mes appareils", 756),
+    ("forme mon équipe au phishing", 757),
+    ("est-ce que ce site marchand est sûr pour payer", 758),
+    ("quelles démarches pour embaucher mon premier salarié", 759),
+    ("notre comité est hybride et les distants décrochent", 760),
+    ("comment déléguer cette refonte sans micromanager", 761),
+    ("deux collègues se disputent, je médie", 762),
+    ("aide-moi à prioriser avec la matrice d'eisenhower", 763),
+    ("comment installer l'habitude de lire le soir", 764),
+    ("je rumine la nuit, que faire maintenant", 765),
+    ("comment lui dire en cnv qu'il laisse la vaisselle", 766),
+    ("prépare ma soutenance de master en 10 jours", 767),
+    ("aide-moi à construire le plan de ma dissertation", 768),
+    ("prépare mon grand oral de 5 minutes", 769),
+    ("comment expliquer les équations à mon fils en 4e", 770),
+    ("quel projet concret pour apprendre le dev web", 771),
+    ("prépare mon entretien technique live coding", 772),
+    ("négocie mon salaire de 45k à 52k", 773),
+    ("rédige une candidature spontanée convaincante", 774),
+    ("structure le business plan de ma marketplace", 775),
+    ("prépare mon deck de levée de 300k", 776),
+    ("prépare mon premier board investisseurs", 777),
+    ("ma pme est souvent à découvert, gère la trésorerie", 778),
+    ("ce client me doit 3 factures, quelles relances", 779),
+    ("structure ce devis e-commerce avec options", 780),
+    ("quel crm choisir pour 8 commerciaux", 781),
+    ("migre mes 10 ans d'emails vers proton mail", 782),
+    ("automatise mon rapport vendredi qui consolide 5 excel", 783),
+    ("créons une base de connaissances pour l'équipe", 784),
+    ("veille juridique : quelles lois 2026 nous concernent", 785),
+    ("quelles assurances pro pour mon agence web", 786),
+    ("actions rps immédiates, deux collègues en arrêt", 787),
+    ("mon équipe full remote se désagrège, quels rituels", 788),
+    ("check-list offboarding de mon développeur qui part", 789),
+    ("déroule le recrutement de notre commercial", 790),
+    ("plan de formation ia générative pour mon équipe", 791),
+    ("je suis élu cse, quelles réunions obligatoires", 792),
+    ("quels rituels scrum dès la semaine 1", 793),
+    ("risques prioritaires de notre projet de migration", 794),
+    ("comment embarquer l'équipe sur le nouveau crm", 795),
+    ("ce client réclame 5000 euros de retard de livraison", 796),
+    ("analyse notre nps de 32 et agis", 797),
+    ("78 % de paniers abandonnés, diagnostique le tunnel", 798),
+    ("plan de lancement de notre appli dans 6 semaines", 799),
 ]
 
 # ---------------------------------------------------------------------------
@@ -636,7 +1162,7 @@ def extraire(canvas: str):
     sommaire = {}
     for num, nom, dom in RE_SOMMAIRE.findall(canvas):
         sommaire[int(num)] = [nom.strip(), dom.strip()]
-    assert len(sommaire) == 617, f"sommaire : {len(sommaire)} lignes"
+    assert len(sommaire) == 800, f"sommaire : {len(sommaire)} lignes"
 
     signaux = {}
     for sig, num, dom in RE_ROUTAGE.findall(canvas):
@@ -644,7 +1170,7 @@ def extraire(canvas: str):
         assert n not in signaux, f"signal dupliqué pour {n}"
         signaux[n] = sig.strip()
         assert sommaire[n][1] == dom.strip(), f"domaine incohérent pour {n}"
-    assert len(signaux) == 616
+    assert len(signaux) == 799
 
     mot_cles, cartes, bullets = {}, [], False
     dans_carte = False
@@ -677,7 +1203,7 @@ def extraire(canvas: str):
         elif bullets and s and not s.startswith("- **"):
             bullets = False
     assert len(cartes) == 28, f"carte : {len(cartes)}"
-    assert len(mot_cles) == 616, f"index : {len(mot_cles)}"
+    assert len(mot_cles) == 799, f"index : {len(mot_cles)}"
 
     branches, noms_courts = {}, {}
     for m in RE_Q6.finditer(canvas):
@@ -689,16 +1215,70 @@ def extraire(canvas: str):
             noms_courts[n] = mi.group(2).strip()
     for n in RE_KNODE.findall(canvas):
         branches.setdefault(int(n), "K")
-    assert len(branches) == 616, f"arbre : {len(branches)} skills couvertes"
+    assert len(branches) == 799, f"arbre : {len(branches)} skills couvertes"
     return sommaire, signaux, mot_cles, branches, noms_courts, cartes
+
+
+def _json_dumps(x) -> str:
+    import json
+    return json.dumps(x, ensure_ascii=False)
+
+
+VEC_DIM = 128  # dimension des embeddings locaux (hash bag-of-words normalisé)
+VEC_SEUIL = 0.80  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
+VEC_PISTE = 0.80  # au-dessus, la meilleure candidate vec devient piste (exit 1) — même seuil que les candidats
+
+
+def charger_vec(db: sqlite3.Connection) -> bool:
+    """Charge l'extension sqlite-vec si disponible. Retourne True si la
+    recherche vectorielle est active."""
+    try:
+        import sqlite_vec
+        db.enable_load_extension(True)
+        sqlite_vec.load(db)
+        return True
+    except Exception:
+        return False
+
+
+def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
+    """Embedding local déterministe et sans dépendance externe : chaque token
+    est hashé (sha256) dans un vecteur de `dim` cases, pondéré, puis normalisé
+    (cosinus). Assez pour rapprocher des formulations proches (synonymes,
+    périphrases légères) sans appeler de modèle externe."""
+    import hashlib
+    import math
+    import struct
+    toks = tokens(texte)
+    v = [0.0] * dim
+    for t in toks:
+        h = int(hashlib.sha256(t.encode("utf-8")).hexdigest(), 16)
+        v[h % dim] += 1.0
+    n = math.sqrt(sum(x * x for x in v)) or 1.0
+    return struct.pack(f"{dim}f", *(x / n for x in v))
 
 
 def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
     sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(
         chemin.read_text(encoding="utf-8"))
+    old_snapshot = None
     if db_path.exists():
+        try:
+            _old = sqlite3.connect(db_path)
+            old_snapshot = _old.execute(
+                "SELECT v FROM meta WHERE k='snapshot'").fetchone()
+            _old.close()
+        except sqlite3.Error:
+            pass
         db_path.unlink()
     db = sqlite3.connect(db_path)
+    db.execute("PRAGMA journal_mode=WAL")
+    db.execute("PRAGMA cache_size=-8000")
+    vec_ok = charger_vec(db)
+    if vec_ok:
+        db.execute(f"CREATE VIRTUAL TABLE skills_vec USING vec0("
+                   f"num INTEGER PRIMARY KEY, embedding float[{VEC_DIM}] "
+                   f"distance_metric=cosine)")
     db.executescript("""
         CREATE TABLE skills (
             num       INTEGER PRIMARY KEY,
@@ -734,6 +1314,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
             num UNINDEXED, nom, signal, mot_cle, nom_court, domaine,
             tokenize='unicode61'
         );
+        CREATE VIRTUAL TABLE IF NOT EXISTS skills_fts_vocab USING fts5vocab(skills_fts, row);
         CREATE TRIGGER skills_ai AFTER INSERT ON skills BEGIN
             INSERT INTO skills_fts(num, nom, signal, mot_cle, nom_court, domaine)
             VALUES (new.num, new.nom, new.signal, new.mot_cle, new.nom_court, new.domaine);
@@ -746,31 +1327,132 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
             INSERT INTO skills_fts(num, nom, signal, mot_cle, nom_court, domaine)
             VALUES (new.num, new.nom, new.signal, new.mot_cle, new.nom_court, new.domaine);
         END;
+        CREATE INDEX IF NOT EXISTS idx_skills_domaine ON skills(domaine);
+        CREATE INDEX IF NOT EXISTS idx_skills_branche ON skills(branche);
+        CREATE TABLE IF NOT EXISTS meta (
+            k TEXT PRIMARY KEY,
+            v TEXT NOT NULL
+        );
+        CREATE TABLE IF NOT EXISTS trigrammes (
+            trigramme TEXT NOT NULL,
+            num       INTEGER NOT NULL,
+            PRIMARY KEY (trigramme, num)
+        ) WITHOUT ROWID;
+        CREATE TABLE IF NOT EXISTS versions (
+            id        INTEGER PRIMARY KEY AUTOINCREMENT,
+            date      TEXT NOT NULL DEFAULT (datetime('now')),
+            nb_skills INTEGER NOT NULL,
+            ajouts    TEXT NOT NULL DEFAULT '[]',
+            supprimes TEXT NOT NULL DEFAULT '[]',
+            modifies  TEXT NOT NULL DEFAULT '[]'
+        );
     """)
+    if old_snapshot:
+        db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)",
+                   (old_snapshot[0],))
     db.executemany("INSERT INTO domaines VALUES (?, ?)", cartes)
     for num in sorted(sommaire):
         nom, dom = sommaire[num]
+        sig = signaux.get(num, "")
+        mc = mot_cles.get(num, "")
+        br = branches.get(num, "")
+        nc = noms_courts.get(num, "")
         db.execute("INSERT INTO skills VALUES (?,?,?,?,?,?,?)",
-                   (num, nom, dom, signaux.get(num, ""), mot_cles.get(num, ""),
-                    branches.get(num, ""), noms_courts.get(num, "")))
+                   (num, nom, dom, sig, mc, br, nc))
+        if vec_ok:
+            db.execute("INSERT INTO skills_vec(num, embedding) VALUES (?,?)",
+                       (num, embed_hash(" ".join(x for x in (nom, sig, mc, nc, dom) if x))))
     connus = {n for (n,) in db.execute("SELECT num FROM skills")}
     for syn, num in SYNONYMES:
         assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
         db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?)", (syn, num))
+    # table des trigrammes (passe floue en SQL) : mêmes champs que la version Python
+    tg = []
+    for r in db.execute("SELECT num, nom, signal, mot_cle, nom_court FROM skills"):
+        texte = norm(" ".join(str(x) for x in (r[1], r[2], r[3], r[4])))
+        seen = set()
+        for i in range(len(texte) - 2):
+            tri = texte[i:i+3]
+            if tri not in seen:
+                seen.add(tri)
+                tg.append((tri, r[0]))
+    db.executemany("INSERT OR IGNORE INTO trigrammes VALUES (?,?)", tg)
     db.commit()
     n = db.execute("SELECT COUNT(*) FROM skills").fetchone()[0]
     d = db.execute("SELECT COUNT(*) FROM domaines").fetchone()[0]
     s = db.execute("SELECT COUNT(*) FROM synonymes").fetchone()[0]
     f = db.execute("SELECT COUNT(*) FROM skills_fts").fetchone()[0]
+    v = db.execute("SELECT COUNT(*) FROM skills_vec").fetchone()[0] if vec_ok else 0
+    # historique des versions : snapshot JSON + diff vs version précédente
+    snapshot = db.execute(
+        "SELECT json_group_array(json_object('num', num, 'nom', nom, "
+        "'domaine', domaine, 'signal', signal, 'mot_cle', mot_cle)) "
+        "FROM (SELECT * FROM skills ORDER BY num)").fetchone()[0]
+    old_snap = db.execute("SELECT v FROM meta WHERE k='snapshot'").fetchone()
+    ajouts, supprimes, modifies = [], [], []
+    if old_snap:
+        import json as _json
+        old_map = {e["num"]: e for e in _json.loads(old_snap[0])}
+        new_map = {e["num"]: e for e in _json.loads(snapshot)}
+        for num in sorted(set(new_map) - set(old_map)):
+            ajouts.append(num)
+        for num in sorted(set(old_map) - set(new_map)):
+            supprimes.append(num)
+        for num in sorted(set(old_map) & set(new_map)):
+            if old_map[num] != new_map[num]:
+                modifies.append(num)
+    db.execute("INSERT INTO versions(nb_skills, ajouts, supprimes, modifies) "
+               "VALUES (?,?,?,?)",
+               (n, _json_dumps(ajouts), _json_dumps(supprimes), _json_dumps(modifies)))
+    db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)", (snapshot,))
+    db.commit()
+    db.execute("PRAGMA optimize")
+    db.execute("VACUUM")
     db.close()
     if db_path == DB_PATH:
         print(f"skills.db reconstruit : {n} skills · {d} domaines · "
-              f"{s} synonymes · {f} lignes FTS")
+              f"{s} synonymes · {f} lignes FTS · {v} vecteurs")
 
 
 # ---------------------------------------------------------------------------
 # route : base -> candidates
 # ---------------------------------------------------------------------------
+
+def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
+                           vus=None):
+    """Passe floue par trigrammes en SQL (table `trigrammes` indexée).
+    Même contrat que proches_trigrammes : liste triée (ratio, nb, mot, row).
+    Repli sur la version Python si la table est absente (base ancienne)."""
+    req_tri = {t: {t[i:i + 3] for i in range(len(t) - 2)}
+               for t in qt if len(t) >= 5}
+    if not req_tri:
+        return []
+    if not db.execute("SELECT 1 FROM sqlite_master WHERE name='trigrammes'").fetchone():
+        return proches_trigrammes(db, qt, ratio_mini, vus)
+    best = {}
+    for t, tri in req_tri.items():
+        ph = ",".join("?" * len(tri))
+        for num, c in db.execute(
+                f"SELECT num, COUNT(*) FROM trigrammes WHERE trigramme IN ({ph}) "
+                f"GROUP BY num", tuple(tri)):
+            if vus and num in vus:
+                continue
+            ratio = c / len(tri)
+            if c >= 2 and ratio >= ratio_mini:
+                key = (num, t)
+                if key not in best or (ratio, c) > best[key]:
+                    best[key] = (ratio, c)
+    if not best:
+        return []
+    nums = sorted({num for num, _ in best})
+    ph = ",".join("?" * len(nums))
+    skills = {r["num"]: r for r in db.execute(
+        f"SELECT num, nom, domaine, signal, mot_cle, nom_court FROM skills "
+        f"WHERE num IN ({ph})", tuple(nums))}
+    out = [(ratio, c, t, skills[num]) for (num, t), (ratio, c) in best.items()]
+    out.sort(key=lambda x: (-x[0], -x[1]))
+    return out
+
 
 def proches_trigrammes(db: sqlite3.Connection, qt, ratio_mini=0.6,
                        vus=None):
@@ -837,9 +1519,10 @@ def _fts_valide(r, qt_forts) -> bool:
 def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     q = norm(query)
     qt = tokens(query)
+    qn = q  # forme normalisée hoistée (évite de re-normaliser dans les boucles)
     qt_forts = [t for t in qt if len(t) >= 3]
-    res = {"exact": [], "fts": [], "flou": [], "pistes": [], "domaines": [],
-           "direct": None}
+    res = {"exact": [], "fts": [], "vec": [], "flou": [], "pistes": [],
+           "domaines": [], "direct": None}
     vus = set()
 
     def cand(num, nom, domaine, signal, voie, cible, score=None):
@@ -858,12 +1541,15 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             res["direct"] = cand(r["num"], r["nom"], r["domaine"],
                                  r["signal"] or "(routeur)", "direct", None)
 
-    # 1) mot-clé canonique : égalité puis inclusion
+    # 1) mot-clé canonique : égalité puis inclusion (mot_cle pré-normalisé en cache)
+    cache_mc = {}
     for r in db.execute("SELECT num, nom, domaine, signal, mot_cle FROM skills "
                         "WHERE mot_cle != ''"):
-        kw = norm(r["mot_cle"])
-        if q and (q == kw or (len(q) >= 5 and q in kw)
-                  or (len(kw) >= 5 and kw in q)):
+        kw = cache_mc.get(r["num"])
+        if kw is None:
+            kw = cache_mc[r["num"]] = norm(r["mot_cle"])
+        if qn and (qn == kw or (len(qn) >= 5 and qn in kw)
+                  or (len(kw) >= 5 and kw in qn)):
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "mot-clé", r["mot_cle"]))
             vus.add(r["num"])
@@ -871,7 +1557,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                        "WHERE mot_cle != ''"):
         if r["num"] in vus:
             continue
-        kwt = set(tokens(r["mot_cle"]))
+        kwt = set(tokens(cache_mc.get(r["num"]) or norm(r["mot_cle"])))
         if kwt and kwt <= set(qt):
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "mot-clé", r["mot_cle"]))
@@ -924,11 +1610,53 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 break
         res["fts"] = res["fts"][:top]
 
+    # 3a) passe vectorielle sqlite-vec (cosinus sur embeddings locaux) :
+    #     capture les périphrases sans mot-clé exact, en complément du FTS5
+    try:
+        has_vec = db.execute(
+            "SELECT 1 FROM sqlite_master WHERE name='skills_vec'").fetchone()
+    except sqlite3.Error:
+        has_vec = None
+    if has_vec and qt_forts:
+        qvec = embed_hash(query)
+        try:
+            hits = db.execute(
+                "SELECT v.num, s.nom, s.domaine, s.signal, 1 - distance AS cos "
+                "FROM skills_vec v JOIN skills s ON s.num = v.num "
+                "WHERE v.embedding MATCH ? AND k = ? "
+                "ORDER BY distance LIMIT ?",
+                (qvec, top, top)).fetchall()
+            for r in hits:
+                if r["num"] in vus:
+                    continue
+                cos = r["cos"]
+                if cos < VEC_SEUIL:
+                    continue
+                res["vec"].append(cand(r["num"], r["nom"], r["domaine"],
+                                       r["signal"], "vec", None, round(cos, 3)))
+                vus.add(r["num"])
+        except sqlite3.OperationalError:
+            pass  # extension absente ou table manquante : on ignore
+        res["vec"] = res["vec"][:top]
+        if not res["vec"]:
+            try:
+                r0 = db.execute(
+                    "SELECT v.num, s.nom, s.domaine, s.signal, 1 - distance AS cos "
+                    "FROM skills_vec v JOIN skills s ON s.num = v.num "
+                    "WHERE v.embedding MATCH ? AND k = 1 ORDER BY distance",
+                    (qvec,)).fetchone()
+                if r0 and r0["cos"] >= VEC_PISTE and r0["num"] not in vus:
+                    res["pistes"].append(cand(r0["num"], r0["nom"], r0["domaine"],
+                                              r0["signal"], "piste-vec", None,
+                                              round(r0["cos"], 3)))
+            except sqlite3.OperationalError:
+                pass
+
     # 3b) passe floue : trigrammes communs (fautes de frappe), si rien trouvé ;
     #     en dessous du seuil, les meilleurs recouvrements deviennent pistes
-    if not res["exact"] and not res["fts"]:
+    if not res["exact"] and not res["fts"] and not res["vec"] and not res["pistes"]:
         pistes_vues = set()
-        for ratio, nb, t, r in proches_trigrammes(db, qt_forts, 0.35, vus):
+        for ratio, nb, t, r in proches_trigrammes_sql(db, qt_forts, 0.65, vus):
             mots = mots_de(r)
             uniques = set(qt_forts)
             n = sum(1 for t2 in uniques if mot_match_large(t2, mots))
@@ -945,7 +1673,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 pistes_vues.add(r["num"])
 
     # 4) domaines plausibles
-    if not res["exact"] and not res["fts"] and not res["flou"]:
+    if not res["exact"] and not res["fts"] and not res["vec"] and not res["flou"] and not res["pistes"]:
         for d in db.execute("SELECT domaine, mots_cles FROM domaines"):
             dt = set(tokens(d["domaine"])) | set(tokens(d["mots_cles"]))
             commun = dt & set(qt)
@@ -977,10 +1705,13 @@ def cmd_route(query: str, top: int, as_json: bool) -> int:
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
     db = sqlite3.connect(DB_PATH)
     db.row_factory = sqlite3.Row
+    db.execute("PRAGMA cache_size=-8000")
+    charger_vec(db)
     res = chercher(db, query, top)
     candidats = ([res["direct"]] if res["direct"] else []) + res["exact"] \
-        + res["fts"] + res["flou"]
-    code = 0 if candidats else (1 if res["domaines"] else 2)
+        + res["fts"] + res["vec"] + res["flou"]
+    pistes_vec = any(p["voie"] == "piste-vec" for p in res["pistes"])
+    code = 0 if candidats else (1 if (res["domaines"] or pistes_vec) else 2)
     if code == 2:
         _journaliser(db, query)
     try:
@@ -1007,6 +1738,9 @@ def cmd_route(query: str, top: int, as_json: bool) -> int:
     for r in res["fts"]:
         print(f"◇ Skill {r['num']} · {r['nom']} · [{r['domaine']}]")
         print(f"  ↳ full-text (score {r['score']}) — signal : {r['signal']}")
+    for r in res["vec"]:
+        print(f"◈ Skill {r['num']} · {r['nom']} · [{r['domaine']}]")
+        print(f"  ↳ vectoriel (cosinus {r['score']}) — signal : {r['signal']}")
     for r in res["flou"]:
         print(f"◇ Skill {r['num']} · {r['nom']} · [{r['domaine']}]")
         print(f"  ↳ approx (trigrammes « {r['cible']} », {r['score']}) "
@@ -1182,6 +1916,7 @@ def cmd_test() -> int:
         res = chercher(db, demande, 5)
         trouves = ({r["num"] for r in res["exact"]}
                    | {r["num"] for r in res["fts"]}
+                   | {r["num"] for r in res.get("vec", [])}
                    | {r["num"] for r in res["flou"]}
                    | ({res["direct"]["num"]} if res["direct"] else set()))
         if attendu is None:
@@ -1208,14 +1943,14 @@ def cmd_sonde(fichier, top):
     sujets = []
     for d in db.execute('SELECT domaine, mots_cles FROM domaines ORDER BY domaine'):
         for kw in re.findall('[a-z0-9-]+', norm(d['mots_cles'])):
-            if len(kw) >= 3:
+            if len(kw) >= 4:  # sujets < 4 lettres = artefacts de sonde (ex. « ton »)
                 sujets.append((kw, d['domaine']))
     for r in db.execute('SELECT num, signal, domaine FROM skills WHERE signal != "" ORDER BY num'):
         sujets.append((r['signal'], r['domaine']))
     couverts, partiels, gaps = [], [], []
     for sujet, domaine in sujets:
         res = chercher(db, sujet, top)
-        nums = sorted({r['num'] for r in res['exact'] + res['fts'] + res['flou']}
+        nums = sorted({r['num'] for r in res['exact'] + res['fts'] + res.get('vec', []) + res['flou']}
                       | ({res['direct']['num']} if res['direct'] else set()))
         if nums:
             couverts.append((sujet, domaine, nums[:top]))
@@ -1499,6 +2234,102 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False)
     return 0
 
 
+def _todo_done_paths():
+    return RACINE / "TODO.md", RACINE / "DONE.md"
+
+
+def cmd_todo(texte: str) -> int:
+    """Ajoute une tâche en fin de TODO.md (R10)."""
+    todo, _ = _todo_done_paths()
+    t = todo.read_text(encoding="utf-8").rstrip("\n")
+    t += f"\n\n- [ ] {texte}\n"
+    todo.write_text(t, encoding="utf-8")
+    print(f"✅ TODO ajouté : {texte}")
+    return 0
+
+
+def cmd_done(texte: str) -> int:
+    """R10 automatique : retire la tâche de TODO.md (si elle y est) et l'ajoute
+    en tête de DONE.md avec sa date."""
+    import datetime
+    todo, done = _todo_done_paths()
+    date = datetime.date.today().isoformat()
+    # retirer de TODO (ligne contenant le texte, insensible à la casse)
+    lines = todo.read_text(encoding="utf-8").splitlines()
+    reste = [l for l in lines if texte.lower() not in l.lower()]
+    if len(reste) != len(lines):
+        todo.write_text("\n".join(reste).rstrip("\n") + "\n", encoding="utf-8")
+    # ajouter en tête de DONE (après le bloc frontmatter + index)
+    d = done.read_text(encoding="utf-8")
+    ancre = "(les plus récentes en premier)\n\n"
+    assert ancre in d
+    ligne = f"- [x] **{date}** — {texte}\n\n"
+    d = d.replace(ancre, ancre + ligne, 1)
+    done.write_text(d, encoding="utf-8")
+    print(f"✅ DONE ajouté ({date}) : {texte}")
+    return 0
+
+
+def cmd_vocab(limit: int = 30) -> int:
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = sqlite3.connect(DB_PATH)
+    charger_vec(db)
+    try:
+        rows = db.execute(
+            "SELECT term, doc, cnt FROM skills_fts_vocab ORDER BY cnt DESC, doc DESC LIMIT ?",
+            (limit,)).fetchall()
+    except sqlite3.OperationalError:
+        print("fts5vocab indisponible")
+        return 1
+    print(f"Top {len(rows)} tokens du FTS (term · docs · occurrences) :")
+    for term, doc, cnt in rows:
+        print(f"  {term:<20} {doc:>4} docs  {cnt:>5} occ")
+    db.close()
+    return 0
+
+
+def cmd_versions() -> int:
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = sqlite3.connect(DB_PATH)
+    try:
+        rows = db.execute(
+            "SELECT id, date, nb_skills, ajouts, supprimes, modifies "
+            "FROM versions ORDER BY id").fetchall()
+    except sqlite3.OperationalError:
+        print("table versions absente — rebuild nécessaire")
+        return 1
+    for vid, date, nb, aj, su, mo in rows:
+        print(f"#{vid} {date} — {nb} skills · +{aj} -{su} ~{mo}")
+    db.close()
+    return 0
+
+
+def cmd_analytics() -> int:
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = sqlite3.connect(DB_PATH)
+    db.row_factory = sqlite3.Row
+    try:
+        print("Par code de sortie :")
+        for r in db.execute("SELECT code, COUNT(*) n FROM routes GROUP BY code ORDER BY code"):
+            print(f"  exit {r['code']} : {r['n']}")
+        print("Par voie (top) :")
+        for r in db.execute("SELECT voie, COUNT(*) n FROM routes GROUP BY voie ORDER BY n DESC LIMIT 8"):
+            print(f"  {r['voie']:<12} {r['n']}")
+        print("Exit 2 par domaine :")
+        for r in db.execute(
+                "SELECT s.domaine, COUNT(*) n FROM routes r "
+                "LEFT JOIN skills s ON s.num = r.num "
+                "WHERE r.code = 2 GROUP BY s.domaine ORDER BY n DESC LIMIT 8"):
+            print(f"  {r['domaine'] or '(sans skill)':<20} {r['n']}")
+    except sqlite3.OperationalError:
+        print("table routes absente — aucune session enregistrée")
+    db.close()
+    return 0
+
+
 def cmd_count(canvas: Path, dossier: Path) -> int:
     """Compte les skills du catalogue et écrit totalSkillsCount.md."""
     texte = Path(canvas).read_text(encoding="utf-8")
@@ -1575,6 +2406,15 @@ def main():
     p_sonde.add_argument("--fichier", type=Path, default=None)
     p_sonde.add_argument("--top", type=int, default=3)
 
+    p_vocab = sub.add_parser("vocab", help="top tokens FTS5 (fts5vocab) — lint sémantique")
+    p_vocab.add_argument("--limit", type=int, default=30)
+    sub.add_parser("versions", help="historique des builds (ajouts/supprimes/modifies)")
+    p_todo = sub.add_parser("todo", help="ajoute une tâche à TODO.md (R10)")
+    p_todo.add_argument("texte")
+    p_done = sub.add_parser("done", help="marque une tâche terminée : la retire de TODO.md et la met en tête de DONE.md (R10)")
+    p_done.add_argument("texte")
+    sub.add_parser("analytics", help="stats SQL des routages de session (exit, voie, domaine)")
+
     p_bench = sub.add_parser("bench", help="mesure build/route et gain tokens")
     p_bench.add_argument("--tours", type=int, default=3)
 
@@ -1606,6 +2446,16 @@ def main():
         raise SystemExit(cmd_stats(args.clear))
     elif args.cmd == "sonde":
         raise SystemExit(cmd_sonde(args.fichier, args.top))
+    elif args.cmd == "vocab":
+        raise SystemExit(cmd_vocab(args.limit))
+    elif args.cmd == "versions":
+        raise SystemExit(cmd_versions())
+    elif args.cmd == "todo":
+        raise SystemExit(cmd_todo(args.texte))
+    elif args.cmd == "done":
+        raise SystemExit(cmd_done(args.texte))
+    elif args.cmd == "analytics":
+        raise SystemExit(cmd_analytics())
     elif args.cmd == "bench":
         raise SystemExit(cmd_bench(args.tours))
     elif args.cmd == "lint":
