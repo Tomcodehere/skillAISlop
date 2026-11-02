@@ -24,6 +24,24 @@ Fichier d'instructions pour tout agent IA intervenant sur la **skillAISlop**, au
 - **À chaque ajout ou retrait de skill** : régénérer le compteur (`routage.py count`) et l'export JSON (`routage.py export`), et actualiser leurs canvases (« totalSkillsCount », « Export JSON — skillAISlop ») — la modification n'est pas terminée sinon.
 - Une modification n'est **pas terminée** tant que le script de conformité n'a pas confirmé la synchronisation (code de sortie 0).
 
+## Architecture du routeur SQL (2026-11-02)
+
+La base `outils/skills.db` (reconstruite par `routage.py build`, ignorée par git) contient :
+
+- `skills` (num, nom, domaine, signal, mot_cle, branche, nom_court) + index `idx_skills_domaine`, `idx_skills_branche` ;
+- `domaines`, `synonymes` (unicité par PK) ;
+- `skills_fts` — index full-text **FTS5** (unicode61) alimenté par triggers, bm25 pondéré (mot_cle > signal > nom_court > nom > domaine) ;
+- `skills_vec` — index vectoriel **sqlite-vec** (vec0, `distance_metric=cosine`, dim 128), embeddings 100 % locaux (`embed_hash` : hash bag-of-words sha256 normalisé, aucune dépendance externe) ; chargement avec **repli gracieux** si l'extension est absente (FTS5 seul) ;
+- `trigrammes` — table `WITHOUT ROWID` PK (trigramme, num), ~54 k entrées, passe floue (fautes de frappe) en SQL (`proches_trigrammes_sql`, repli sur la version Python si table absente) ;
+- `skills_fts_vocab` — fts5vocab pour introspection du vocabulaire (`routage.py vocab`) ;
+- `meta` (snapshot JSON du catalogue) + `versions` (historique des builds : ajouts/supprimes/modifiés en JSON, lu par `routage.py versions`) ;
+- `routes` / `non_routees` — journal de session (observabilité : `routage.py stats`, `routage.py analytics`, `routage.py misses`) ;
+- `PRAGMA journal_mode=WAL`, `cache_size=-8000`, puis `PRAGMA optimize` + `VACUUM` en fin de build.
+
+**Cascade de `route`** : renvoi direct « skill N » → mot-clé canonique → synonyme → FTS5 → **sqlite-vec** (cosinus ≥ `VEC_SEUIL` 0,80 ; meilleure candidate ≥ `VEC_PISTE` 0,80 devient piste) → trigrammes SQL (fautes de frappe) → domaines plausibles. Chaque candidate porte sa **voie** et son **score**. Interprétation des exit codes : **0** = prendre la première candidate (voie la plus forte) et l'annoncer, **1** = piste/domaine à confirmer via la carte des domaines, **2** = consulter `misses --suggest` avant de répondre en direct (ajouter un synonyme si récurrent, R6).
+
+Nouvelles sous-commandes : `vocab [--limit N]`, `versions`, `analytics`, `sonde [--fichier R.md]`.
+
 ## Concision des sorties (R9)
 
 - Rapports d'audit compacts par défaut : verdict en une ligne, seules les non-conformités détaillées (`--verbose` pour la table complète).
@@ -78,8 +96,9 @@ Ce dépôt est l'export du projet skillAISlop depuis Vibe Work ; le canvas princ
 - `skills/` — **une skill = un fichier** (`NNN-slug.md`, frontmatter YAML : num, nom, emoji, domaine, signal, mot_cle, nom_court, branche, synonymes, cross_refs + corps intégral) ;
 - `catalogue/` — sommaire, règles (R1-R11), template, guide d'utilisation, sources, vue d'ensemble ;
 - `canvas/` — copies verbatim des 4 canvases Work (provenance ; ce sont les sources des scripts) ;
-- `outils/routage.py` — routeur SQL (build, route, generate, export, count, lint, test, misses, stats, bench), chemins relatifs au dépôt ;
+- `outils/routage.py` — routeur SQL hybride (build, route, generate, export, count, lint, test, misses, stats, bench, sonde, vocab, versions, analytics), chemins relatifs au dépôt ;
+- `.github/workflows/ci.yml` — CI sur chaque PR (build, generate --check, lint, test, audit, sonde, compteur, vocab, versions) ;
 - `outils/audit_conformite.py` — audit R1-R8 multi-fichiers (`python3 outils/audit_conformite.py canvas/*.md`) ;
 - `data/` — export JSON compact et complet, compteur de skills.
 
-Après toute modification : `python3 outils/routage.py build && python3 outils/routage.py lint && python3 outils/routage.py test`, puis `python3 outils/audit_conformite.py canvas/bibliotheque-skills-ai.md canvas/corpus-skills-1-300.md canvas/corpus-skills-301-600.md canvas/corpus-skills-601-900.md`.
+Après toute modification : `python3 outils/routage.py build && python3 outils/routage.py generate --check && python3 outils/routage.py lint && python3 outils/routage.py test`, puis `python3 outils/audit_conformite.py canvas/bibliotheque-skills-ai.md canvas/corpus-skills-1-300.md canvas/corpus-skills-301-600.md canvas/corpus-skills-601-900.md`. La CI (`.github/workflows/ci.yml`) rejoue tout ça automatiquement sur chaque PR.

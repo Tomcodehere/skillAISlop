@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-02** — AGENTS.md documenté avec tous les ajouts : nouvelle section « Architecture du routeur SQL » (tables skills_fts/skills_vec/trigrammes/skills_fts_vocab/meta/versions/routes, index, pragmas, cascade complète avec voies+scores+exit codes, sous-commandes vocab/versions/analytics), layout MAJ (CI + commandes) — test ✅ 224/224 · audit ✅ 799/799
+
 - [x] **2026-11-02** — Instructions du routeur (skill 0 + AGENTS.md) mises à jour pour exploiter la cascade complète : voies et scores de chaque candidate, interprétation des exit 0/1/2 (exit 0 = première candidate, exit 1 = piste à confirmer, exit 2 = consulter `misses --suggest` avant réponse directe) — test ✅ 224/224 · audit ✅ 799/799 · generate --check ✅
 
 - [x] **2026-11-02** — Passe floue trigrammes passée en SQL (table `trigrammes` WITHOUT ROWID, 54 304 entrées, indexée PK) : 16,3 → 1,8 ms, résultats identiques à la version Python (vérifié sur 5 requêtes), repli Python si table absente — route 7,8 → 7,6 ms (max 32 → 14 ms) · test ✅ 224/224 · IoT/zzz exit 2 · audit ✅ 799/799 · sonde 971/972 (0 partiel)
