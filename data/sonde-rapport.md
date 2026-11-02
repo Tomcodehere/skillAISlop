@@ -8,11 +8,11 @@ Total 972 sujets · Couverts 966 (99%) · Partiels 5 · Gaps 1
 
 ## Partiels (pistes/domaines seulement)
 
-- [Bureau] decks -> pistes [14, 171, 776] domaines ['Bureau']
-- [Décision] arbitrer -> pistes [266, 602, 736] domaines ['Décision']
-- [Décision] trancher -> pistes [301, 316, 639] domaines ['Décision']
-- [Formation] tutorat -> pistes [234, 299, 615] domaines ['Formation']
-- [Routage] dispatcher -> pistes [386, 694] domaines ['Routage']
+- [Bureau] decks -> pistes [14, 171, 776] domaines []
+- [Décision] arbitrer -> pistes [266, 602, 736] domaines []
+- [Décision] trancher -> pistes [301, 316, 639] domaines []
+- [Formation] tutorat -> pistes [234, 299, 615] domaines []
+- [Routage] dispatcher -> pistes [386, 694] domaines []
 
 ## Echantillon couverts
 

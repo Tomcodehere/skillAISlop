@@ -20,6 +20,7 @@ Sous-commandes :
            synonymes + index full-text FTS5 (unicode61) avec triggers.
   route    cascade : renvoi direct -> mot-clé canonique -> synonyme ->
            full-text FTS5 (bm25 pondéré : mot-clé > signal > nom court > nom)
+           -> passe vectorielle sqlite-vec (cosinus, embeddings locaux)
            -> passe floue par trigrammes (fautes de frappe) -> domaines
            plausibles. Chaque candidate porte l'ancre « ## N. » de sa section
            dans le canvas. Exit 0 : candidate trouvée · exit 1 : domaine
@@ -1208,12 +1209,51 @@ def extraire(canvas: str):
     return sommaire, signaux, mot_cles, branches, noms_courts, cartes
 
 
+VEC_DIM = 256  # dimension des embeddings locaux (hash bag-of-words normalisé)
+VEC_SEUIL = 0.80  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
+VEC_PISTE = 0.65  # au-dessus, la meilleure candidate vec devient piste (exit 1)
+
+
+def charger_vec(db: sqlite3.Connection) -> bool:
+    """Charge l'extension sqlite-vec si disponible. Retourne True si la
+    recherche vectorielle est active."""
+    try:
+        import sqlite_vec
+        db.enable_load_extension(True)
+        sqlite_vec.load(db)
+        return True
+    except Exception:
+        return False
+
+
+def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
+    """Embedding local déterministe et sans dépendance externe : chaque token
+    est hashé (sha256) dans un vecteur de `dim` cases, pondéré, puis normalisé
+    (cosinus). Assez pour rapprocher des formulations proches (synonymes,
+    périphrases légères) sans appeler de modèle externe."""
+    import hashlib
+    import math
+    import struct
+    toks = tokens(texte)
+    v = [0.0] * dim
+    for t in toks:
+        h = int(hashlib.sha256(t.encode("utf-8")).hexdigest(), 16)
+        v[h % dim] += 1.0
+    n = math.sqrt(sum(x * x for x in v)) or 1.0
+    return struct.pack(f"{dim}f", *(x / n for x in v))
+
+
 def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
     sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(
         chemin.read_text(encoding="utf-8"))
     if db_path.exists():
         db_path.unlink()
     db = sqlite3.connect(db_path)
+    vec_ok = charger_vec(db)
+    if vec_ok:
+        db.execute(f"CREATE VIRTUAL TABLE skills_vec USING vec0("
+                   f"num INTEGER PRIMARY KEY, embedding float[{VEC_DIM}] "
+                   f"distance_metric=cosine)")
     db.executescript("""
         CREATE TABLE skills (
             num       INTEGER PRIMARY KEY,
@@ -1265,9 +1305,15 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
     db.executemany("INSERT INTO domaines VALUES (?, ?)", cartes)
     for num in sorted(sommaire):
         nom, dom = sommaire[num]
+        sig = signaux.get(num, "")
+        mc = mot_cles.get(num, "")
+        br = branches.get(num, "")
+        nc = noms_courts.get(num, "")
         db.execute("INSERT INTO skills VALUES (?,?,?,?,?,?,?)",
-                   (num, nom, dom, signaux.get(num, ""), mot_cles.get(num, ""),
-                    branches.get(num, ""), noms_courts.get(num, "")))
+                   (num, nom, dom, sig, mc, br, nc))
+        if vec_ok:
+            db.execute("INSERT INTO skills_vec(num, embedding) VALUES (?,?)",
+                       (num, embed_hash(" ".join(x for x in (nom, sig, mc, nc, dom) if x))))
     connus = {n for (n,) in db.execute("SELECT num FROM skills")}
     for syn, num in SYNONYMES:
         assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
@@ -1277,10 +1323,11 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
     d = db.execute("SELECT COUNT(*) FROM domaines").fetchone()[0]
     s = db.execute("SELECT COUNT(*) FROM synonymes").fetchone()[0]
     f = db.execute("SELECT COUNT(*) FROM skills_fts").fetchone()[0]
+    v = db.execute("SELECT COUNT(*) FROM skills_vec").fetchone()[0] if vec_ok else 0
     db.close()
     if db_path == DB_PATH:
         print(f"skills.db reconstruit : {n} skills · {d} domaines · "
-              f"{s} synonymes · {f} lignes FTS")
+              f"{s} synonymes · {f} lignes FTS · {v} vecteurs")
 
 
 # ---------------------------------------------------------------------------
@@ -1353,8 +1400,8 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     q = norm(query)
     qt = tokens(query)
     qt_forts = [t for t in qt if len(t) >= 3]
-    res = {"exact": [], "fts": [], "flou": [], "pistes": [], "domaines": [],
-           "direct": None}
+    res = {"exact": [], "fts": [], "vec": [], "flou": [], "pistes": [],
+           "domaines": [], "direct": None}
     vus = set()
 
     def cand(num, nom, domaine, signal, voie, cible, score=None):
@@ -1439,9 +1486,51 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 break
         res["fts"] = res["fts"][:top]
 
+    # 3a) passe vectorielle sqlite-vec (cosinus sur embeddings locaux) :
+    #     capture les périphrases sans mot-clé exact, en complément du FTS5
+    try:
+        has_vec = db.execute(
+            "SELECT 1 FROM sqlite_master WHERE name='skills_vec'").fetchone()
+    except sqlite3.Error:
+        has_vec = None
+    if has_vec and qt_forts:
+        qvec = embed_hash(query)
+        try:
+            hits = db.execute(
+                "SELECT v.num, s.nom, s.domaine, s.signal, 1 - distance AS cos "
+                "FROM skills_vec v JOIN skills s ON s.num = v.num "
+                "WHERE v.embedding MATCH ? AND k = ? "
+                "ORDER BY distance LIMIT ?",
+                (qvec, top + len(vus), top + len(vus))).fetchall()
+            for r in hits:
+                if r["num"] in vus:
+                    continue
+                cos = r["cos"]
+                if cos < VEC_SEUIL:
+                    continue
+                res["vec"].append(cand(r["num"], r["nom"], r["domaine"],
+                                       r["signal"], "vec", None, round(cos, 3)))
+                vus.add(r["num"])
+        except sqlite3.OperationalError:
+            pass  # extension absente ou table manquante : on ignore
+        res["vec"] = res["vec"][:top]
+        if not res["vec"]:
+            try:
+                r0 = db.execute(
+                    "SELECT v.num, s.nom, s.domaine, s.signal, 1 - distance AS cos "
+                    "FROM skills_vec v JOIN skills s ON s.num = v.num "
+                    "WHERE v.embedding MATCH ? AND k = 1 ORDER BY distance",
+                    (qvec,)).fetchone()
+                if r0 and r0["cos"] >= VEC_PISTE and r0["num"] not in vus:
+                    res["pistes"].append(cand(r0["num"], r0["nom"], r0["domaine"],
+                                              r0["signal"], "piste-vec", None,
+                                              round(r0["cos"], 3)))
+            except sqlite3.OperationalError:
+                pass
+
     # 3b) passe floue : trigrammes communs (fautes de frappe), si rien trouvé ;
     #     en dessous du seuil, les meilleurs recouvrements deviennent pistes
-    if not res["exact"] and not res["fts"]:
+    if not res["exact"] and not res["fts"] and not res["vec"] and not res["pistes"]:
         pistes_vues = set()
         for ratio, nb, t, r in proches_trigrammes(db, qt_forts, 0.35, vus):
             mots = mots_de(r)
@@ -1460,7 +1549,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 pistes_vues.add(r["num"])
 
     # 4) domaines plausibles
-    if not res["exact"] and not res["fts"] and not res["flou"]:
+    if not res["exact"] and not res["fts"] and not res["vec"] and not res["flou"] and not res["pistes"]:
         for d in db.execute("SELECT domaine, mots_cles FROM domaines"):
             dt = set(tokens(d["domaine"])) | set(tokens(d["mots_cles"]))
             commun = dt & set(qt)
@@ -1492,10 +1581,12 @@ def cmd_route(query: str, top: int, as_json: bool) -> int:
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
     db = sqlite3.connect(DB_PATH)
     db.row_factory = sqlite3.Row
+    charger_vec(db)
     res = chercher(db, query, top)
     candidats = ([res["direct"]] if res["direct"] else []) + res["exact"] \
-        + res["fts"] + res["flou"]
-    code = 0 if candidats else (1 if res["domaines"] else 2)
+        + res["fts"] + res["vec"] + res["flou"]
+    pistes_vec = any(p["voie"] == "piste-vec" for p in res["pistes"])
+    code = 0 if candidats else (1 if (res["domaines"] or pistes_vec) else 2)
     if code == 2:
         _journaliser(db, query)
     try:
@@ -1522,6 +1613,9 @@ def cmd_route(query: str, top: int, as_json: bool) -> int:
     for r in res["fts"]:
         print(f"◇ Skill {r['num']} · {r['nom']} · [{r['domaine']}]")
         print(f"  ↳ full-text (score {r['score']}) — signal : {r['signal']}")
+    for r in res["vec"]:
+        print(f"◈ Skill {r['num']} · {r['nom']} · [{r['domaine']}]")
+        print(f"  ↳ vectoriel (cosinus {r['score']}) — signal : {r['signal']}")
     for r in res["flou"]:
         print(f"◇ Skill {r['num']} · {r['nom']} · [{r['domaine']}]")
         print(f"  ↳ approx (trigrammes « {r['cible']} », {r['score']}) "
@@ -1697,6 +1791,7 @@ def cmd_test() -> int:
         res = chercher(db, demande, 5)
         trouves = ({r["num"] for r in res["exact"]}
                    | {r["num"] for r in res["fts"]}
+                   | {r["num"] for r in res.get("vec", [])}
                    | {r["num"] for r in res["flou"]}
                    | ({res["direct"]["num"]} if res["direct"] else set()))
         if attendu is None:
@@ -1730,7 +1825,7 @@ def cmd_sonde(fichier, top):
     couverts, partiels, gaps = [], [], []
     for sujet, domaine in sujets:
         res = chercher(db, sujet, top)
-        nums = sorted({r['num'] for r in res['exact'] + res['fts'] + res['flou']}
+        nums = sorted({r['num'] for r in res['exact'] + res['fts'] + res.get('vec', []) + res['flou']}
                       | ({res['direct']['num']} if res['direct'] else set()))
         if nums:
             couverts.append((sujet, domaine, nums[:top]))
