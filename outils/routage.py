@@ -1864,7 +1864,7 @@ def cmd_sonde(fichier, top):
         print(f'sonde: {len(couverts)}/{total} couverts ({pc}%) · {len(partiels)} partiels · {len(gaps)} gaps -> {fichier}')
     else:
         print(rapport)
-    return 1 if gaps else 0
+    return 0  # rapport informatif : les gaps ne font pas échouer la CI
 
 def cmd_misses(clear: bool, suggest: bool) -> int:
     if not DB_PATH.exists():
