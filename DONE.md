@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-02** — CI GitHub Actions ajoutée (.github/workflows/ci.yml : build, generate --check, lint, test 224/224, audit conformité, sonde, compteur à jour) + bouclage sonde : 5 partiels levés (synonymes decks/arbitrer/trancher/tutorat/dispatcher), sonde à 971/972 couverts, 0 partiel, 1 gap (« ton » seul, couvert par « ton d'équipe ») — build ✅ 800 skills · 783 synonymes · 800 vecteurs · lint ✅ · test ✅ 224/224 · audit ✅ 799/799
+
 - [x] **2026-11-02** — Base vectorisée (sqlite-vec) : table `skills_vec` (vec0, cosinus, dim 256, embeddings locaux hash bag-of-words) créée au `build` et requêtée en voie « vec » entre le FTS5 et la passe floue ; seuil candidat 0.80, piste vec ≥ 0.65 ; repli gracieux si l'extension est absente (FTS5 seul) — build ✅ 800 vecteurs · test ✅ 224/224 (IoT et zzz restent exit 2) · lint ✅ · audit ✅ 799/799 · sonde 966/972 (99 %) · bench route 8,8 ms
 
 - [x] **2026-11-02** — Vague 11 ajoutée : 100 skills (700-799) sourcées d'une veille web 2026 (skills.sh, ClawHub, awesome-claude-skills, rapports 2026 Anthropic/Vercel) : fact-checking IA, A2A, harness, observabilité, mémoire structurée, audit de skills, vidéo Remotion, packshots IA, social listening, social selling, closing, upsell, tunnel e-commerce, lancement produit, daily brief, médiation, conduite du changement, recrutement, offboarding, CSE, RPS, négociation salariale, business plan, pitch investisseurs, trésorerie PME, sauvegardes 3-2-1, AI Act, contrats, PI — build ✅ 800 skills · 28 domaines · 774 synonymes · lint ✅ · 224/224 tests ✅ · audit ✅ 799/799 · R6 ✅ · R8 ✅ · generate --check ✅ ; compteur (800), exports compact/complet et sonde (966/972, 99 %) régénérés

@@ -866,6 +866,13 @@ SYNONYMES = [
     ("10 ans d'emails", 782),
     ("recrutement de notre", 790),
     ("notre commercial", 790),
+    ("ton d'équipe", 399), ("ton de communication", 399), ("changer de ton", 399), ("adapter son ton", 399),
+    ("decks", 14),
+    ("arbitrer", 266),
+    ("trancher", 266),
+    ("tutorat", 39),
+    ("dispatcher", 0),
+    # --- Bouclage sonde (gap/partiels, 2026-11-02) ---
 ]
 
 # ---------------------------------------------------------------------------

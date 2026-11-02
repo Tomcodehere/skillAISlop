@@ -1,0 +1,47 @@
+name: CI — routeur & conformité
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build-test-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer sqlite-vec
+        run: pip install sqlite-vec
+
+      - name: Build skills.db
+        run: python3 outils/routage.py build
+
+      - name: Synchronisation canvas (R8)
+        run: python3 outils/routage.py generate --check
+
+      - name: Lint synonymes & tests
+        run: python3 outils/routage.py lint
+
+      - name: Tests de non-régression du routage
+        run: python3 outils/routage.py test
+
+      - name: Audit de conformité R1-R8 (R5)
+        run: >
+          python3 outils/audit_conformite.py
+          canvas/bibliotheque-skills-ai.md
+          canvas/corpus-skills-1-300.md
+          canvas/corpus-skills-301-600.md
+          canvas/corpus-skills-601-900.md
+
+      - name: Sonde de couverture (rapport non bloquant)
+        run: python3 outils/routage.py sonde
+
+      - name: Compteur à jour (R8)
+        run: |
+          python3 outils/routage.py count --dossier /tmp/count-check
+          diff <(grep -m1 "Total" data/totalSkillsCount.md) <(grep -m1 "Total" /tmp/count-check/totalSkillsCount.md)

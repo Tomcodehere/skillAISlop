@@ -1,6 +1,6 @@
 # Sonde de couverture
 
-Total 972 sujets · Couverts 966 (99%) · Partiels 5 · Gaps 1
+Total 972 sujets · Couverts 971 (99%) · Partiels 0 · Gaps 1
 
 ## Gaps (aucune candidate)
 
@@ -8,11 +8,7 @@ Total 972 sujets · Couverts 966 (99%) · Partiels 5 · Gaps 1
 
 ## Partiels (pistes/domaines seulement)
 
-- [Bureau] decks -> pistes [14, 171, 776] domaines []
-- [Décision] arbitrer -> pistes [266, 602, 736] domaines []
-- [Décision] trancher -> pistes [301, 316, 639] domaines []
-- [Formation] tutorat -> pistes [234, 299, 615] domaines []
-- [Routage] dispatcher -> pistes [386, 694] domaines []
+- aucun
 
 ## Echantillon couverts
 
@@ -30,6 +26,7 @@ Total 972 sujets · Couverts 966 (99%) · Partiels 5 · Gaps 1
 - [Bureau] powerpoint -> [14, 27]
 - [Bureau] fichiers -> [28, 286, 666]
 - [Bureau] presentations -> [14]
+- [Bureau] decks -> [14]
 - [Carrière] candidature -> [44, 274, 774]
 - [Carrière] entretien -> [12, 187, 276]
 - [Carrière] salaire -> [45, 294, 641]
@@ -40,4 +37,3 @@ Total 972 sujets · Couverts 966 (99%) · Partiels 5 · Gaps 1
 - [Communication] professionnel -> [4, 7, 231]
 - [Communication] annonce -> [126, 404, 408]
 - [Communication] equipe -> [73, 205, 232]
-- [Communication] jargon -> [401]

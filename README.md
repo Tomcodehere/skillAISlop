@@ -24,9 +24,9 @@ Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-11 le 2026-11-02
 
 ## Vérifications
 
-- `build` ✅ (800 skills · 28 domaines · 774 synonymes · 800 vecteurs sqlite-vec)
+- `build` ✅ (800 skills · 28 domaines · 783 synonymes · 800 vecteurs sqlite-vec)
 - `test` ✅ **224/224**
 - `lint` ✅ aucun problème
 - `route "IoT"` → exit 2 (faux positif corrigé) ✅
 - `route "domotique"` → skill 222 ✅
-- `sonde` → **966/972 couverts (99 %), 5 partiels, 1 gap** ✅
+- `sonde` → **971/972 couverts (99 %), 0 partiel, 1 gap** ✅
