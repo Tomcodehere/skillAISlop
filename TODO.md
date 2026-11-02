@@ -47,3 +47,5 @@ type: "text/markdown"
 - [ ] Un commit par sujet ; tester localement (build+lint+test) AVANT push, pas corriger via la CI après
 - [x] ~~Sonde bloquante en CI~~ → 100 % (958/958, 0 gap) : sujets < 4 lettres exclus de la sonde, sonde redevenue bloquante en CI
 - [x] ~~Tests avant push~~ → hook .git/hooks/pre-push (build+lint+test) ; revue git diff --stat à faire à la main avant chaque push
+
+- [ ] Vague 12 (R7, janvier) : re-faire la veille web, viser les vrais gaps restants plutôt que du volume
