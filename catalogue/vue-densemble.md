@@ -31,4 +31,6 @@ flowchart TD
     B -->|Sécurité info & web (vague 7)| V7[501 Auth · 502 En-têtes · 503 WordPress · 504 Menaces\n505 Correctifs · 506 Chiffrement · 507 Cloud · 508 CI/CD · 509 Phishing · 510 Réseau]
     B -->|Gaps sonde + web 2026 (vague 8)| V8[511 Stress · 519 Bourse · 523 Regex · 530 Arnaques\n538 Humaniseur IA · 540 Vibe coding · 546 Prompt images · 561 Deepfakes\n577 Supervision IA · 590 Séparation · 600 Bilan]
     B -->|skills-hub.ai + i-have-adhd (vague 9)| V9[601 Revue session · 602 Revue CTO · 606 Sprint dette\n612 GEO · 614 Pré-déploiement · 615 Auto-amélioration · 616 TDAH-friendly]
+    B -->|Vie quotidienne & travail (vague 10)| V10[617 Burn-out · 618 Charge mentale · 626 Grossesse · 630 Maintien à domicile\n636 Harcèlement · 642 Télétravail · 654 Dépannage · 659 Sport · 699 Déménagement intl]
+    B -->|Finance, droit & digital 2026 (vague 10)| V11[638 Trésorerie · 651 Succession · 676 Bail\n665 Mots de passe · 690 RAG · 691 Fine-tuning · 692 Injection prompt · 693 Evals · 694 Coût tokens]
 ```

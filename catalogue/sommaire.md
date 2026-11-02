@@ -619,7 +619,173 @@
 | 614 | Contrôleur pré-déploiement | Développement |
 | 615 | Boucle d'auto-amélioration de l'agent | IA / Prompting |
 | 616 | Communication adaptée TDAH | IA / Prompting |
+| 617 | Accompagnement burn-out | Personnel |
+| 618 | Charge mentale | Personnel |
+| 619 | Syndrome de l'imposteur | Personnel |
+| 620 | Perfectionnisme paralysant | Personnel |
+| 621 | Cauchemars & réveils nocturnes | Personnel |
+| 622 | Allergies & intolérances alimentaires | Personnel |
+| 623 | Observance & prise de médicaments | Personnel |
+| 624 | Santé bucco-dentaire | Personnel |
+| 625 | Optique & examen de vue | Personnel |
+| 626 | Grossesse & suivi médical | Personnel |
+| 627 | Allaitement & diversification | Personnel |
+| 628 | Garde d'enfants & nounou | Personnel |
+| 629 | Éducation des enfants | Personnel |
+| 630 | Maintien à domicile des seniors | Personnel |
+| 631 | Handicap, MDPH & aménagements | Personnel |
+| 632 | Entretien annuel d'évaluation | RH & formation |
+| 633 | Demander une promotion | Carrière |
+| 634 | Licenciement & fin de contrat | Juridique |
+| 635 | Reclassement & mobilité interne | Carrière |
+| 636 | Harcèlement moral au travail | Juridique |
+| 637 | Discriminations au travail | Juridique |
+| 638 | Trésorerie & prévisionnel | Finance |
+| 639 | TVA & déclarations fiscales pro | Finance |
+| 640 | Clôture comptable & bilan | Finance |
+| 641 | Bulletin de paie | Finance |
+| 642 | Télétravail & management à distance | RH & formation |
+| 643 | Réunions efficaces | Gestion |
+| 644 | Feedback constructif | RH & formation |
+| 645 | Pitch elevator | Communication |
+| 646 | Landing page & CTA | Marketing |
+| 647 | E-réputation & avis en ligne | Marketing |
+| 648 | Résiliation & droit de rétractation | Juridique |
+| 649 | Médiation & règlement amiable | Juridique |
+| 650 | Fichage Banque de France & surendettement | Finance |
+| 651 | Succession & héritage | Juridique |
+| 652 | Divorce & pension alimentaire | Juridique |
+| 653 | Déménagement & mise en service | Personnel |
+| 654 | Dépannage & petites réparations | Personnel |
+| 655 | Entretien de la voiture | Personnel |
+| 656 | Préparation d'un voyage | Personnel |
+| 657 | Organisation d'un dîner entre amis | Personnel |
+| 658 | Cadeaux & liste de souhaits | Personnel |
+| 659 | Programme sportif débutant | Personnel |
+| 660 | Gestion des animaux domestiques | Personnel |
+| 661 | Entretien du jardin & potager | Personnel |
+| 662 | Cuisine végétarienne équilibrée | Personnel |
+| 663 | Téléconsultation & démarches santé | Personnel |
+| 664 | Démarches administratives en ligne | Bureau |
+| 665 | Sécurité des mots de passe | Sécurité |
+| 666 | Ransomware & rançongiciel | Sécurité |
+| 667 | Droit à l'image & photos de personnes | Juridique |
+| 668 | Création de statut juridique | Gestion |
+| 669 | Automatisations no-code | Développement |
+| 670 | Outils de productivité & prise de notes | Productivité |
+| 671 | Apprentissage d'une langue (adulte) | Apprentissage |
+| 672 | Préparation au permis de conduire | Apprentissage |
+| 673 | Aide aux devoirs & méthodologie | Apprentissage |
+| 674 | Reconversion & bilan de compétences | Carrière |
+| 675 | Négociation d'achat immobilier | Finance |
+| 676 | Location & gestion locative | Juridique |
+| 677 | Copropriété & syndic | Juridique |
+| 678 | Transition énergétique du logement | Personnel |
+| 679 | Gestion des abonnements & résiliations | Personnel |
+| 680 | Changement de banque | Finance |
+| 681 | Épargne de précaution & livrets | Finance |
+| 682 | Préparation à la retraite | Finance |
+| 683 | Protection juridique & assurances | Juridique |
+| 684 | Expatriation & départ à l'étranger | Personnel |
+| 685 | Prévention des arnaques en ligne | Sécurité |
+| 686 | Accessibilité numérique (WCAG) | Design |
+| 687 | Green IT & sobriété numérique | Développement |
+| 688 | Veille technologique & veille IA | Recherche |
+| 689 | Choix d'un LLM & comparaison de modèles | IA / Prompting |
+| 690 | RAG & recherche augmentée | Data & IA |
+| 691 | Fine-tuning & personnalisation de modèle | IA / Prompting |
+| 692 | Sécurité des prompts & injection | Sécurité |
+| 693 | Évaluation de la qualité d'un agent IA | Data & IA |
+| 694 | Coût & optimisation des tokens LLM | Data & IA |
+| 695 | Données personnelles & RGPD au quotidien | Juridique |
+| 696 | Gestion de crise & communication de crise | Communication |
+| 697 | Préparation d'un entretien d'embauche (candidat) | Carrière |
+| 698 | Onboarding d'un nouveau collaborateur | RH & formation |
+| 699 | Déménagement international | Personnel |
+| 617 | Accompagnement burn-out | Personnel |
+| 618 | Charge mentale | Personnel |
+| 619 | Syndrome de l'imposteur | Personnel |
+| 620 | Perfectionnisme paralysant | Personnel |
+| 621 | Cauchemars & réveils nocturnes | Personnel |
+| 622 | Allergies & intolérances alimentaires | Personnel |
+| 623 | Observance & prise de médicaments | Personnel |
+| 624 | Santé bucco-dentaire | Personnel |
+| 625 | Optique & examen de vue | Personnel |
+| 626 | Grossesse & suivi médical | Personnel |
+| 627 | Allaitement & diversification | Personnel |
+| 628 | Garde d'enfants & nounou | Personnel |
+| 629 | Éducation des enfants | Personnel |
+| 630 | Maintien à domicile des seniors | Personnel |
+| 631 | Handicap, MDPH & aménagements | Personnel |
+| 632 | Entretien annuel d'évaluation | RH & formation |
+| 633 | Demander une promotion | Carrière |
+| 634 | Licenciement & fin de contrat | Juridique |
+| 635 | Reclassement & mobilité interne | Carrière |
+| 636 | Harcèlement moral au travail | Juridique |
+| 637 | Discriminations au travail | Juridique |
+| 638 | Trésorerie & prévisionnel | Finance |
+| 639 | TVA & déclarations fiscales pro | Finance |
+| 640 | Clôture comptable & bilan | Finance |
+| 641 | Bulletin de paie | Finance |
+| 642 | Télétravail & management à distance | RH & formation |
+| 643 | Réunions efficaces | Gestion |
+| 644 | Feedback constructif | RH & formation |
+| 645 | Pitch elevator | Communication |
+| 646 | Landing page & CTA | Marketing |
+| 647 | E-réputation & avis en ligne | Marketing |
+| 648 | Résiliation & droit de rétractation | Juridique |
+| 649 | Médiation & règlement amiable | Juridique |
+| 650 | Fichage Banque de France & surendettement | Finance |
+| 651 | Succession & héritage | Juridique |
+| 652 | Divorce & pension alimentaire | Juridique |
+| 653 | Déménagement & mise en service | Personnel |
+| 654 | Dépannage & petites réparations | Personnel |
+| 655 | Entretien de la voiture | Personnel |
+| 656 | Préparation d'un voyage | Personnel |
+| 657 | Organisation d'un dîner entre amis | Personnel |
+| 658 | Cadeaux & liste de souhaits | Personnel |
+| 659 | Programme sportif débutant | Personnel |
+| 660 | Gestion des animaux domestiques | Personnel |
+| 661 | Entretien du jardin & potager | Personnel |
+| 662 | Cuisine végétarienne équilibrée | Personnel |
+| 663 | Téléconsultation & démarches santé | Personnel |
+| 664 | Démarches administratives en ligne | Bureau |
+| 665 | Sécurité des mots de passe | Sécurité |
+| 666 | Ransomware & rançongiciel | Sécurité |
+| 667 | Droit à l'image & photos de personnes | Juridique |
+| 668 | Création de statut juridique | Gestion |
+| 669 | Automatisations no-code | Développement |
+| 670 | Outils de productivité & prise de notes | Productivité |
+| 671 | Apprentissage d'une langue (adulte) | Apprentissage |
+| 672 | Préparation au permis de conduire | Apprentissage |
+| 673 | Aide aux devoirs & méthodologie | Apprentissage |
+| 674 | Reconversion & bilan de compétences | Carrière |
+| 675 | Négociation d'achat immobilier | Finance |
+| 676 | Location & gestion locative | Juridique |
+| 677 | Copropriété & syndic | Juridique |
+| 678 | Transition énergétique du logement | Personnel |
+| 679 | Gestion des abonnements & résiliations | Personnel |
+| 680 | Changement de banque | Finance |
+| 681 | Épargne de précaution & livrets | Finance |
+| 682 | Préparation à la retraite | Finance |
+| 683 | Protection juridique & assurances | Juridique |
+| 684 | Expatriation & départ à l'étranger | Personnel |
+| 685 | Prévention des arnaques en ligne | Sécurité |
+| 686 | Accessibilité numérique (WCAG) | Design |
+| 687 | Green IT & sobriété numérique | Développement |
+| 688 | Veille technologique & veille IA | Recherche |
+| 689 | Choix d'un LLM & comparaison de modèles | IA / Prompting |
+| 690 | RAG & recherche augmentée | Data & IA |
+| 691 | Fine-tuning & personnalisation de modèle | IA / Prompting |
+| 692 | Sécurité des prompts & injection | Sécurité |
+| 693 | Évaluation de la qualité d'un agent IA | Data & IA |
+| 694 | Coût & optimisation des tokens LLM | Data & IA |
+| 695 | Données personnelles & RGPD au quotidien | Juridique |
+| 696 | Gestion de crise & communication de crise | Communication |
+| 697 | Préparation d'un entretien d'embauche (candidat) | Carrière |
+| 698 | Onboarding d'un nouveau collaborateur | RH & formation |
+| 699 | Déménagement international | Personnel |
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–616 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–699 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---
