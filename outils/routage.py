@@ -14,6 +14,9 @@ le script. Pour l'utiliser : sed -n '7,$p' CANVAS.md > routage.py puis :
     python3 routage.py stats [--clear]       # observabilité du routage
     python3 routage.py bench [--tours N]     # mesure build/route + gain tokens
     python3 routage.py sonde [--fichier R.md]  # couverture : couverts/partiels/gaps
+    python3 routage.py vocab [--limit N]        # top tokens FTS5 (fts5vocab) — lint sémantique
+    python3 routage.py versions                 # historique des builds (ajouts/supprimes/modifies)
+    python3 routage.py analytics                # stats SQL des routages de session (exit, voie, domaine)
 
 Sous-commandes :
   build    (re)construit skills.db depuis le canvas : tables skills, domaines,
@@ -1216,6 +1219,11 @@ def extraire(canvas: str):
     return sommaire, signaux, mot_cles, branches, noms_courts, cartes
 
 
+def _json_dumps(x) -> str:
+    import json
+    return json.dumps(x, ensure_ascii=False)
+
+
 VEC_DIM = 256  # dimension des embeddings locaux (hash bag-of-words normalisé)
 VEC_SEUIL = 0.80  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
 VEC_PISTE = 0.65  # au-dessus, la meilleure candidate vec devient piste (exit 1)
@@ -1253,7 +1261,15 @@ def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
 def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
     sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(
         chemin.read_text(encoding="utf-8"))
+    old_snapshot = None
     if db_path.exists():
+        try:
+            _old = sqlite3.connect(db_path)
+            old_snapshot = _old.execute(
+                "SELECT v FROM meta WHERE k='snapshot'").fetchone()
+            _old.close()
+        except sqlite3.Error:
+            pass
         db_path.unlink()
     db = sqlite3.connect(db_path)
     vec_ok = charger_vec(db)
@@ -1296,6 +1312,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
             num UNINDEXED, nom, signal, mot_cle, nom_court, domaine,
             tokenize='unicode61'
         );
+        CREATE VIRTUAL TABLE IF NOT EXISTS skills_fts_vocab USING fts5vocab(skills_fts, row);
         CREATE TRIGGER skills_ai AFTER INSERT ON skills BEGIN
             INSERT INTO skills_fts(num, nom, signal, mot_cle, nom_court, domaine)
             VALUES (new.num, new.nom, new.signal, new.mot_cle, new.nom_court, new.domaine);
@@ -1308,7 +1325,24 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
             INSERT INTO skills_fts(num, nom, signal, mot_cle, nom_court, domaine)
             VALUES (new.num, new.nom, new.signal, new.mot_cle, new.nom_court, new.domaine);
         END;
+        CREATE INDEX IF NOT EXISTS idx_skills_domaine ON skills(domaine);
+        CREATE INDEX IF NOT EXISTS idx_skills_branche ON skills(branche);
+        CREATE TABLE IF NOT EXISTS meta (
+            k TEXT PRIMARY KEY,
+            v TEXT NOT NULL
+        );
+        CREATE TABLE IF NOT EXISTS versions (
+            id        INTEGER PRIMARY KEY AUTOINCREMENT,
+            date      TEXT NOT NULL DEFAULT (datetime('now')),
+            nb_skills INTEGER NOT NULL,
+            ajouts    TEXT NOT NULL DEFAULT '[]',
+            supprimes TEXT NOT NULL DEFAULT '[]',
+            modifies  TEXT NOT NULL DEFAULT '[]'
+        );
     """)
+    if old_snapshot:
+        db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)",
+                   (old_snapshot[0],))
     db.executemany("INSERT INTO domaines VALUES (?, ?)", cartes)
     for num in sorted(sommaire):
         nom, dom = sommaire[num]
@@ -1331,6 +1365,31 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
     s = db.execute("SELECT COUNT(*) FROM synonymes").fetchone()[0]
     f = db.execute("SELECT COUNT(*) FROM skills_fts").fetchone()[0]
     v = db.execute("SELECT COUNT(*) FROM skills_vec").fetchone()[0] if vec_ok else 0
+    # historique des versions : snapshot JSON + diff vs version précédente
+    snapshot = db.execute(
+        "SELECT json_group_array(json_object('num', num, 'nom', nom, "
+        "'domaine', domaine, 'signal', signal, 'mot_cle', mot_cle)) "
+        "FROM (SELECT * FROM skills ORDER BY num)").fetchone()[0]
+    old_snap = db.execute("SELECT v FROM meta WHERE k='snapshot'").fetchone()
+    ajouts, supprimes, modifies = [], [], []
+    if old_snap:
+        import json as _json
+        old_map = {e["num"]: e for e in _json.loads(old_snap[0])}
+        new_map = {e["num"]: e for e in _json.loads(snapshot)}
+        for num in sorted(set(new_map) - set(old_map)):
+            ajouts.append(num)
+        for num in sorted(set(old_map) - set(new_map)):
+            supprimes.append(num)
+        for num in sorted(set(old_map) & set(new_map)):
+            if old_map[num] != new_map[num]:
+                modifies.append(num)
+    db.execute("INSERT INTO versions(nb_skills, ajouts, supprimes, modifies) "
+               "VALUES (?,?,?,?)",
+               (n, _json_dumps(ajouts), _json_dumps(supprimes), _json_dumps(modifies)))
+    db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)", (snapshot,))
+    db.commit()
+    db.execute("PRAGMA optimize")
+    db.execute("VACUUM")
     db.close()
     if db_path == DB_PATH:
         print(f"skills.db reconstruit : {n} skills · {d} domaines · "
@@ -2116,6 +2175,66 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False)
     return 0
 
 
+def cmd_vocab(limit: int = 30) -> int:
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = sqlite3.connect(DB_PATH)
+    charger_vec(db)
+    try:
+        rows = db.execute(
+            "SELECT term, doc, cnt FROM skills_fts_vocab ORDER BY cnt DESC, doc DESC LIMIT ?",
+            (limit,)).fetchall()
+    except sqlite3.OperationalError:
+        print("fts5vocab indisponible")
+        return 1
+    print(f"Top {len(rows)} tokens du FTS (term · docs · occurrences) :")
+    for term, doc, cnt in rows:
+        print(f"  {term:<20} {doc:>4} docs  {cnt:>5} occ")
+    db.close()
+    return 0
+
+
+def cmd_versions() -> int:
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = sqlite3.connect(DB_PATH)
+    try:
+        rows = db.execute(
+            "SELECT id, date, nb_skills, ajouts, supprimes, modifies "
+            "FROM versions ORDER BY id").fetchall()
+    except sqlite3.OperationalError:
+        print("table versions absente — rebuild nécessaire")
+        return 1
+    for vid, date, nb, aj, su, mo in rows:
+        print(f"#{vid} {date} — {nb} skills · +{aj} -{su} ~{mo}")
+    db.close()
+    return 0
+
+
+def cmd_analytics() -> int:
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = sqlite3.connect(DB_PATH)
+    db.row_factory = sqlite3.Row
+    try:
+        print("Par code de sortie :")
+        for r in db.execute("SELECT code, COUNT(*) n FROM routes GROUP BY code ORDER BY code"):
+            print(f"  exit {r['code']} : {r['n']}")
+        print("Par voie (top) :")
+        for r in db.execute("SELECT voie, COUNT(*) n FROM routes GROUP BY voie ORDER BY n DESC LIMIT 8"):
+            print(f"  {r['voie']:<12} {r['n']}")
+        print("Exit 2 par domaine :")
+        for r in db.execute(
+                "SELECT s.domaine, COUNT(*) n FROM routes r "
+                "LEFT JOIN skills s ON s.num = r.num "
+                "WHERE r.code = 2 GROUP BY s.domaine ORDER BY n DESC LIMIT 8"):
+            print(f"  {r['domaine'] or '(sans skill)':<20} {r['n']}")
+    except sqlite3.OperationalError:
+        print("table routes absente — aucune session enregistrée")
+    db.close()
+    return 0
+
+
 def cmd_count(canvas: Path, dossier: Path) -> int:
     """Compte les skills du catalogue et écrit totalSkillsCount.md."""
     texte = Path(canvas).read_text(encoding="utf-8")
@@ -2192,6 +2311,11 @@ def main():
     p_sonde.add_argument("--fichier", type=Path, default=None)
     p_sonde.add_argument("--top", type=int, default=3)
 
+    p_vocab = sub.add_parser("vocab", help="top tokens FTS5 (fts5vocab) — lint sémantique")
+    p_vocab.add_argument("--limit", type=int, default=30)
+    sub.add_parser("versions", help="historique des builds (ajouts/supprimes/modifies)")
+    sub.add_parser("analytics", help="stats SQL des routages de session (exit, voie, domaine)")
+
     p_bench = sub.add_parser("bench", help="mesure build/route et gain tokens")
     p_bench.add_argument("--tours", type=int, default=3)
 
@@ -2223,6 +2347,12 @@ def main():
         raise SystemExit(cmd_stats(args.clear))
     elif args.cmd == "sonde":
         raise SystemExit(cmd_sonde(args.fichier, args.top))
+    elif args.cmd == "vocab":
+        raise SystemExit(cmd_vocab(args.limit))
+    elif args.cmd == "versions":
+        raise SystemExit(cmd_versions())
+    elif args.cmd == "analytics":
+        raise SystemExit(cmd_analytics())
     elif args.cmd == "bench":
         raise SystemExit(cmd_bench(args.tours))
     elif args.cmd == "lint":

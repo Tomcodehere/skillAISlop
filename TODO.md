@@ -18,3 +18,14 @@ type: "text/markdown"
 - [x] ~~Boucler les partiels de la sonde~~ → fait le 2026-11-02 (decks/arbitrer/trancher/tutorat/dispatcher) : 0 partiel, 971/972 couverts ; seul gap restant : « ton » seul (trop court pour le moteur de synonymes, couvert par « ton d'équipe » → 399)
 - [x] ~~CI GitHub Actions~~ → en place le 2026-11-02 (.github/workflows/ci.yml : build + generate --check + lint + test + audit + sonde + compteur)
 - [ ] `misses --suggest` en routine hebdo (journal des exit 2 → synonymes)
+
+## Pistes SQLite (2026-11-02)
+
+- [x] ~~Index secondaires domaine/branche~~ → fait (idx_skills_domaine, idx_skills_branche)
+- [x] ~~Historique des versions (snapshot JSON + diff)~~ → fait (tables meta/versions, `routage.py versions`)
+- [x] ~~fts5vocab~~ → fait (`routage.py vocab --limit N`)
+- [x] ~~Analytics SQL des routages~~ → fait (`routage.py analytics`)
+- [x] ~~PRAGMA optimize + VACUUM au build~~ → fait
+- [ ] RTREE / géolocalisation de skills — écarté pour l'instant (pas de cas d'usage)
+- [ ] stmt (vtab) — écarté (le Python suffit)
+- [ ] Export JSON 100 % SQL (json_group_array) à la place du Python — à envisager si l'export grossit

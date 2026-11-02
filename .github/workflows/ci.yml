@@ -42,6 +42,14 @@ jobs:
         run: python3 outils/routage.py sonde
         continue-on-error: true
 
+      - name: Vocabulaire FTS (rapport informatif)
+        run: python3 outils/routage.py vocab --limit 15
+        continue-on-error: true
+
+      - name: Historique des versions (rapport informatif)
+        run: python3 outils/routage.py versions
+        continue-on-error: true
+
       - name: Compteur à jour (R8)
         run: |
           python3 outils/routage.py count --dossier /tmp/count-check

@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-02** — Améliorations SQLite : index secondaires (domaine, branche), tables meta+versions avec snapshot JSON et diff par build (`routage.py versions`), fts5vocab (`routage.py vocab`), analytics SQL des routages (`routage.py analytics`), PRAGMA optimize + VACUUM au build — build ✅ 800 skills · 783 synonymes · 800 vecteurs · test ✅ 224/224 · audit ✅ 799/799
+
 - [x] **2026-11-02** — CI GitHub Actions ajoutée (.github/workflows/ci.yml : build, generate --check, lint, test 224/224, audit conformité, sonde, compteur à jour) + bouclage sonde : 5 partiels levés (synonymes decks/arbitrer/trancher/tutorat/dispatcher), sonde à 971/972 couverts, 0 partiel, 1 gap (« ton » seul, couvert par « ton d'équipe ») — build ✅ 800 skills · 783 synonymes · 800 vecteurs · lint ✅ · test ✅ 224/224 · audit ✅ 799/799
 
 - [x] **2026-11-02** — Base vectorisée (sqlite-vec) : table `skills_vec` (vec0, cosinus, dim 256, embeddings locaux hash bag-of-words) créée au `build` et requêtée en voie « vec » entre le FTS5 et la passe floue ; seuil candidat 0.80, piste vec ≥ 0.65 ; repli gracieux si l'extension est absente (FTS5 seul) — build ✅ 800 vecteurs · test ✅ 224/224 (IoT et zzz restent exit 2) · lint ✅ · audit ✅ 799/799 · sonde 966/972 (99 %) · bench route 8,8 ms
