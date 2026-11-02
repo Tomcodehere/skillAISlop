@@ -40,3 +40,10 @@ type: "text/markdown"
 - [x] ~~Passe trigrammes en SQL (table trigrammes indexée, 54 k lignes)~~ → fait : 16,3 → 1,8 ms, résultats identiques à la version Python, repli auto si table absente
 - [ ] vec0 avec HNSW (index vectoriel approché) si le catalogue dépasse ~5 000 skills
 - [ ] WAL checkpoint périodique si la base est ouverte longtemps en session
+
+## Process (2026-11-02)
+
+- [ ] Merger la PR #2 dès que CLEAN + CI verte (éviter l'accumulation de commits sur la branche)
+- [ ] Un commit par sujet ; tester localement (build+lint+test) AVANT push, pas corriger via la CI après
+- [ ] Sonde bloquante en CI une fois à 100 % (aujourd'hui continue-on-error ; seul gap « ton » = artefact de sonde, mot < 4 lettres)
+- [ ] Revue `git diff --stat` + relecture avant chaque push

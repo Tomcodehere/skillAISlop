@@ -2234,6 +2234,42 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False)
     return 0
 
 
+def _todo_done_paths():
+    return RACINE / "TODO.md", RACINE / "DONE.md"
+
+
+def cmd_todo(texte: str) -> int:
+    """Ajoute une tâche en fin de TODO.md (R10)."""
+    todo, _ = _todo_done_paths()
+    t = todo.read_text(encoding="utf-8").rstrip("\n")
+    t += f"\n\n- [ ] {texte}\n"
+    todo.write_text(t, encoding="utf-8")
+    print(f"✅ TODO ajouté : {texte}")
+    return 0
+
+
+def cmd_done(texte: str) -> int:
+    """R10 automatique : retire la tâche de TODO.md (si elle y est) et l'ajoute
+    en tête de DONE.md avec sa date."""
+    import datetime
+    todo, done = _todo_done_paths()
+    date = datetime.date.today().isoformat()
+    # retirer de TODO (ligne contenant le texte, insensible à la casse)
+    lines = todo.read_text(encoding="utf-8").splitlines()
+    reste = [l for l in lines if texte.lower() not in l.lower()]
+    if len(reste) != len(lines):
+        todo.write_text("\n".join(reste).rstrip("\n") + "\n", encoding="utf-8")
+    # ajouter en tête de DONE (après le bloc frontmatter + index)
+    d = done.read_text(encoding="utf-8")
+    ancre = "(les plus récentes en premier)\n\n"
+    assert ancre in d
+    ligne = f"- [x] **{date}** — {texte}\n\n"
+    d = d.replace(ancre, ancre + ligne, 1)
+    done.write_text(d, encoding="utf-8")
+    print(f"✅ DONE ajouté ({date}) : {texte}")
+    return 0
+
+
 def cmd_vocab(limit: int = 30) -> int:
     if not DB_PATH.exists():
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
@@ -2373,6 +2409,10 @@ def main():
     p_vocab = sub.add_parser("vocab", help="top tokens FTS5 (fts5vocab) — lint sémantique")
     p_vocab.add_argument("--limit", type=int, default=30)
     sub.add_parser("versions", help="historique des builds (ajouts/supprimes/modifies)")
+    p_todo = sub.add_parser("todo", help="ajoute une tâche à TODO.md (R10)")
+    p_todo.add_argument("texte")
+    p_done = sub.add_parser("done", help="marque une tâche terminée : la retire de TODO.md et la met en tête de DONE.md (R10)")
+    p_done.add_argument("texte")
     sub.add_parser("analytics", help="stats SQL des routages de session (exit, voie, domaine)")
 
     p_bench = sub.add_parser("bench", help="mesure build/route et gain tokens")
@@ -2410,6 +2450,10 @@ def main():
         raise SystemExit(cmd_vocab(args.limit))
     elif args.cmd == "versions":
         raise SystemExit(cmd_versions())
+    elif args.cmd == "todo":
+        raise SystemExit(cmd_todo(args.texte))
+    elif args.cmd == "done":
+        raise SystemExit(cmd_done(args.texte))
     elif args.cmd == "analytics":
         raise SystemExit(cmd_analytics())
     elif args.cmd == "bench":
