@@ -3,10 +3,10 @@
   "genere_le": "2026-11-02",
   "mode": "compact",
   "stats": {
-    "sections": 700,
+    "sections": 800,
     "domaines": 28,
-    "synonymes": 631,
-    "tests_routage": 125
+    "synonymes": 774,
+    "tests_routage": 224
   },
   "domaines": [
     {
@@ -12194,6 +12194,1849 @@
         "expatriation déménagement",
         "on déménage vivre",
         "vivre à lisbonne"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 700,
+      "emoji": "🔍",
+      "nom": "Vérification des sorties IA (fact-checking)",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Vérifier une réponse IA, fact-checker, détecter hallucinations, contrôler les sources d'une génération IA",
+      "mot_cle_index": "vérifier une ia",
+      "nom_court": "Fact-check IA",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        18,
+        37
+      ],
+      "synonymes": [
+        "fact-checker une ia",
+        "hallucination ia",
+        "hallucinations",
+        "texte généré par ia",
+        "vérifie les chiffres",
+        "vérifier les sources"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 701,
+      "emoji": "☀️",
+      "nom": "Briefing du matin (daily brief)",
+      "domaine": "Productivité",
+      "signal_routage": "Briefing du matin, résumé de la journée, ce qui m'attend aujourd'hui, priorities du jour, morning brief",
+      "mot_cle_index": "daily brief",
+      "nom_court": "Daily brief",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        468,
+        611
+      ],
+      "synonymes": [
+        "résumé de ma journée"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 702,
+      "emoji": "🗂️",
+      "nom": "Préparation de réunion (meeting prep)",
+      "domaine": "Productivité",
+      "signal_routage": "Préparer une réunion, brief avant un call, fiche de préparation, contexte d'un rendez-vous client",
+      "mot_cle_index": "préparer une réunion",
+      "nom_court": "Meeting prep",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        209,
+        611
+      ],
+      "synonymes": [
+        "prépa call"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 703,
+      "emoji": "✉️",
+      "nom": "Rédaction de réponses email en son nom",
+      "domaine": "Communication",
+      "signal_routage": "Rédiger une réponse email à ma place, brouillon de mail dans mon ton, répondre à un email pour moi",
+      "mot_cle_index": "brouillon de mail",
+      "nom_court": "Brouillon mail",
+      "branche_arbre": "D9",
+      "cross_refs": [
+        2,
+        4
+      ],
+      "synonymes": [
+        "répondre à un email"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 704,
+      "emoji": "📅",
+      "nom": "Gestion intelligente de l'agenda",
+      "domaine": "Productivité",
+      "signal_routage": "Optimiser mon agenda, protéger mon temps de focus, décaler des réunions, bloc de deep work automatique",
+      "mot_cle_index": "optimiser mon agenda",
+      "nom_court": "Agenda optimisé",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        72,
+        465
+      ],
+      "synonymes": [
+        "protéger mon focus"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 705,
+      "emoji": "📝",
+      "nom": "Notes de réunion & action items",
+      "domaine": "Productivité",
+      "signal_routage": "Prendre des notes de réunion, compte rendu avec action items, qui fait quoi après le call, suivi des décisions",
+      "mot_cle_index": "notes de réunion",
+      "nom_court": "Notes de réunion",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        24,
+        285
+      ],
+      "synonymes": [
+        "action items"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 706,
+      "emoji": "⏰",
+      "nom": "Relances & suivi des engagements",
+      "domaine": "Productivité",
+      "signal_routage": "Relancer quelqu'un, suivi des réponses attendues, qui me doit une réponse, relance automatique, relance polie",
+      "mot_cle_index": "relancer",
+      "nom_court": "Relance",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        25,
+        703
+      ],
+      "synonymes": [
+        "ne répond plus",
+        "relance prestataire",
+        "relance-le",
+        "suivi des engagements",
+        "suivi des réponses"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 707,
+      "emoji": "📣",
+      "nom": "Statut & mise à jour d'équipe (standup écrit)",
+      "domaine": "Communication",
+      "signal_routage": "Rédiger mon statut d'équipe, update de sprint, ce que j'ai fait / ce que je fais / mes blocages",
+      "mot_cle_index": "statut d'équipe",
+      "nom_court": "Status update",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        209,
+        643
+      ],
+      "synonymes": [
+        "point d'avancement"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 708,
+      "emoji": "🌐",
+      "nom": "Recherche profonde multi-sources",
+      "domaine": "Recherche",
+      "signal_routage": "Recherche approfondie, deep research, synthèse multi-sources, rapport de recherche avec citations vérifiées",
+      "mot_cle_index": "recherche approfondie",
+      "nom_court": "Deep research",
+      "branche_arbre": "D17",
+      "cross_refs": [
+        18,
+        700
+      ],
+      "synonymes": [
+        "rapport de recherche"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 709,
+      "emoji": "🕵️",
+      "nom": "Veille concurrentielle automatisée",
+      "domaine": "Marketing",
+      "signal_routage": "Surveiller mes concurrents, veille concurrentielle, alertes changements concurrents, benchmark automatique",
+      "mot_cle_index": "veille concurrentielle",
+      "nom_court": "Veille concurrents",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        32,
+        279
+      ],
+      "synonymes": [
+        "surveiller mes concurrents"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 710,
+      "emoji": "📊",
+      "nom": "Rapport hebdomadaire d'activité",
+      "domaine": "Gestion",
+      "signal_routage": "Rapport d'activité hebdo, bilan de la semaine, rapport pour mon manager, synthèse de mes avancées",
+      "mot_cle_index": "rapport hebdo",
+      "nom_court": "Rapport hebdo",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        438,
+        707
+      ],
+      "synonymes": [
+        "bilan de la semaine"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 711,
+      "emoji": "🔗",
+      "nom": "A2A & communication agent-à-agent",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Protocole A2A, agent-to-agent, faire communiquer deux agents IA, Agent Card, délégation entre agents",
+      "mot_cle_index": "protocole a2a",
+      "nom_court": "A2A",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        77,
+        259
+      ],
+      "synonymes": [
+        "agent-to-agent"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 712,
+      "emoji": "🎛️",
+      "nom": "Harnais d'agent (agent harness) & orchestration",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Agent harness, orchestration d'agents, boucle agent, supervisor worker, orchestrateur d'agents IA en production",
+      "mot_cle_index": "agent harness",
+      "nom_court": "Harness",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        259,
+        341
+      ],
+      "synonymes": [
+        "orchestration agents"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 713,
+      "emoji": "📈",
+      "nom": "Observabilité & traces d'agents (OpenTelemetry GenAI)",
+      "domaine": "Data & IA",
+      "signal_routage": "Observabilité agents IA, traces LLM, OpenTelemetry GenAI, logs des appels modèle, latence et coût par requête agent",
+      "mot_cle_index": "observabilité agents",
+      "nom_court": "Observabilité",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        186,
+        694
+      ],
+      "synonymes": [
+        "traces llm"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 714,
+      "emoji": "🧠",
+      "nom": "Mémoire persistante d'agent (structured memory)",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Mémoire structurée d'agent, mémoire sémantique, préférences utilisateur persistantes, auto-mémoire Claude Code",
+      "mot_cle_index": "mémoire structurée",
+      "nom_court": "Mémoire structurée",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        260,
+        615
+      ],
+      "synonymes": [
+        "mémoire sémantique"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 715,
+      "emoji": "🧩",
+      "nom": "Skills dynamiques : découverte & installation (find-skills)",
+      "domaine": "Data & IA",
+      "signal_routage": "Trouver et installer une skill d'agent, find-skills, skills.sh, npx skills, découvrir les skills disponibles",
+      "mot_cle_index": "trouver une skill",
+      "nom_court": "Find-skills",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        38,
+        325
+      ],
+      "synonymes": [
+        "installer une skill"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 716,
+      "emoji": "🛡️",
+      "nom": "Audit de sécurité d'une skill (SKILL.md)",
+      "domaine": "Sécurité",
+      "signal_routage": "Auditer une skill avant installation, vérifier un SKILL.md, skill malveillante, ClawHavoc, permissions d'une skill",
+      "mot_cle_index": "audit skill",
+      "nom_court": "Audit skill",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        195,
+        262
+      ],
+      "synonymes": [
+        "skill malveillante"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 717,
+      "emoji": "🎬",
+      "nom": "Vidéo programmatique avec Remotion",
+      "domaine": "Créativité",
+      "signal_routage": "Créer une vidéo avec du code, Remotion, vidéo programmatique React, motion design automatisé, vidéo produit générée",
+      "mot_cle_index": "vidéo programmatique",
+      "nom_court": "Vidéo code",
+      "branche_arbre": "D19",
+      "cross_refs": [
+        144,
+        258
+      ],
+      "synonymes": [
+        "remotion"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 718,
+      "emoji": "🧊",
+      "nom": "Text-to-CAD & génération 3D par IA",
+      "domaine": "Créativité",
+      "signal_routage": "Générer un modèle 3D from texte, text-to-CAD, impression 3D par IA, modèle 3D pour impression, Conception assistée IA",
+      "mot_cle_index": "text-to-cad",
+      "nom_court": "Text-to-CAD",
+      "branche_arbre": "D19",
+      "cross_refs": [
+        142,
+        514
+      ],
+      "synonymes": [
+        "modèle 3d par ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 719,
+      "emoji": "🪨",
+      "nom": "Mode caveman : réponses ultra-concises",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Réponses courtes, mode caveman, aller droit au but, moins de tokens, compresser la réponse de l'IA",
+      "mot_cle_index": "mode caveman",
+      "nom_court": "Caveman",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        327,
+        694
+      ],
+      "synonymes": [
+        "réponse courte"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 720,
+      "emoji": "🔥",
+      "nom": "Grill Me : challenger un plan avant de coder",
+      "domaine": "Développement",
+      "signal_routage": "Challenger mon plan, grill me, critiquer une approche avant de commencer, poser les bonnes questions avant un projet",
+      "mot_cle_index": "challenger mon plan",
+      "nom_court": "Grill Me",
+      "branche_arbre": "D1",
+      "cross_refs": [
+        19,
+        61
+      ],
+      "synonymes": [
+        "critiquer mon approche"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 721,
+      "emoji": "🕸️",
+      "nom": "Graphify : transformer un corpus en graphe de connaissances",
+      "domaine": "Data & IA",
+      "signal_routage": "Transformer des documents en graphe de connaissances, graphify, connaissances en réseau, relations entre concepts",
+      "mot_cle_index": "graphe de connaissances",
+      "nom_court": "Graphify",
+      "branche_arbre": "D15",
+      "cross_refs": [
+        95,
+        287
+      ],
+      "synonymes": [
+        "connaissances en réseau"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 722,
+      "emoji": "🇪🇺",
+      "nom": "Souveraineté IA : modèles européens & hébergement UE",
+      "domaine": "Sécurité",
+      "signal_routage": "IA souveraine, hébergement de données en UE, modèles européens (Mistral), RGPD hébergement IA, sortir des hyperscalers US",
+      "mot_cle_index": "ia souveraine",
+      "nom_court": "IA souveraine",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        189,
+        507
+      ],
+      "synonymes": [
+        "hébergement ue"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 723,
+      "emoji": "🤖",
+      "nom": "SOC agentique & sécurité autonome",
+      "domaine": "Sécurité",
+      "signal_routage": "SOC autonome, agents de sécurité IA, triage d'alertes automatique, containment par agents, Agentic SOC",
+      "mot_cle_index": "soc agentique",
+      "nom_court": "SOC agentique",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        256,
+        440
+      ],
+      "synonymes": [
+        "agents de sécurité"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 724,
+      "emoji": "✅",
+      "nom": "Vérifiabilité du code IA (Karpathy)",
+      "domaine": "Développement",
+      "signal_routage": "Code généré par IA vérifiable, règles Karpathy, limiter la dette IA, code agent vérifiable automatiquement",
+      "mot_cle_index": "code vérifiable",
+      "nom_court": "Vérifiabilité",
+      "branche_arbre": "D12",
+      "cross_refs": [
+        67,
+        302
+      ],
+      "synonymes": [
+        "règles karpathy"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 725,
+      "emoji": "📓",
+      "nom": "NotebookLM & réponses ancrées dans ses sources",
+      "domaine": "Recherche",
+      "signal_routage": "NotebookLM, réponses basées uniquement sur mes documents, RAG personnel sur PDF, sources citées automatiquement",
+      "mot_cle_index": "notebooklm",
+      "nom_court": "NotebookLM",
+      "branche_arbre": "D17",
+      "cross_refs": [
+        102,
+        690
+      ],
+      "synonymes": [
+        "réponses ancrées dans mes documents"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 726,
+      "emoji": "👂",
+      "nom": "Social listening & tendances temps réel",
+      "domaine": "Marketing",
+      "signal_routage": "Écouter les réseaux sociaux, tendances en temps réel, ce qu'on dit de ma marque, signaux faibles sur Reddit/X",
+      "mot_cle_index": "veille réseaux sociaux",
+      "nom_court": "Social listening",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        290,
+        366
+      ],
+      "synonymes": [
+        "tendances temps réel"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 727,
+      "emoji": "🗓️",
+      "nom": "Planification de contenu & calendrier éditorial IA",
+      "domaine": "Marketing",
+      "signal_routage": "Planifier mes contenus, calendrier éditorial, quoi poster cette semaine, batch de contenus, série de posts",
+      "mot_cle_index": "calendrier éditorial",
+      "nom_court": "Calendrier éditorial",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        53,
+        135
+      ],
+      "synonymes": [
+        "planifier mes contenus"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 728,
+      "emoji": "🎠",
+      "nom": "Création de carrousels & visuels éducatifs",
+      "domaine": "Créativité",
+      "signal_routage": "Créer un carrousel LinkedIn/Instagram, slides éducatifs, infographie animée, visuel pédagogique en plusieurs slides",
+      "mot_cle_index": "carrousel",
+      "nom_court": "Carrousel",
+      "branche_arbre": "D19",
+      "cross_refs": [
+        48,
+        365
+      ],
+      "synonymes": [
+        "slides éducatifs"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 729,
+      "emoji": "🎥",
+      "nom": "Scripting de vidéos courtes (Reels/TikTok/Shorts)",
+      "domaine": "Marketing",
+      "signal_routage": "Script d'une vidéo courte, Reels, TikTok, Shorts, hook des 3 premières secondes, structure hook-contenu-CTA",
+      "mot_cle_index": "script vidéo courte",
+      "nom_court": "Script short",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        29,
+        278
+      ],
+      "synonymes": [
+        "script tiktok"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 730,
+      "emoji": "🖼️",
+      "nom": "Génération d'images produit & mockups",
+      "domaine": "Design",
+      "signal_routage": "Photo produit IA, mockup produit, packshot automatique, image e-commerce générée, visuel produit sans studio",
+      "mot_cle_index": "packshot ia",
+      "nom_court": "Packshot IA",
+      "branche_arbre": "D19",
+      "cross_refs": [
+        139,
+        143
+      ],
+      "synonymes": [
+        "photo produit ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 731,
+      "emoji": "🔤",
+      "nom": "Microcopy & textes d'interface",
+      "domaine": "Design",
+      "signal_routage": "Rédiger les textes d'une interface, microcopy, bouton, message d'erreur, empty state, formulaire, onboarding UI",
+      "mot_cle_index": "microcopy ui",
+      "nom_court": "Microcopy UI",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        65,
+        450
+      ],
+      "synonymes": [
+        "texte bouton"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 732,
+      "emoji": "🧱",
+      "nom": "Design system & composants réutilisables",
+      "domaine": "Design",
+      "signal_routage": "Créer un design system, bibliothèque de composants UI, tokens, cohérence visuelle entre écrans",
+      "mot_cle_index": "design system équipe",
+      "nom_court": "Design system",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        181,
+        455
+      ],
+      "synonymes": [
+        "bibliothèque de composants"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 733,
+      "emoji": "🧪",
+      "nom": "Tests A/B & expérimentation",
+      "domaine": "Produit",
+      "signal_routage": "Lancer un test A/B, expérience utilisateur, comparer deux variantes, significativité statistique, itérer sur une feature",
+      "mot_cle_index": "test a/b",
+      "nom_court": "Test A/B",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        110,
+        179
+      ],
+      "synonymes": [
+        "expérimentation"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 734,
+      "emoji": "🎙️",
+      "nom": "Recherche utilisateur & interviews",
+      "domaine": "Produit",
+      "signal_routage": "Préparer des interviews utilisateurs, guide d'entretien, recruter des testeurs, synthétiser des retours utilisateurs",
+      "mot_cle_index": "entretiens utilisateurs recherche",
+      "nom_court": "User interviews",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        187,
+        188
+      ],
+      "synonymes": [
+        "retours utilisateurs"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 735,
+      "emoji": "🚀",
+      "nom": "Onboarding produit & activation",
+      "domaine": "Produit",
+      "signal_routage": "Améliorer l'onboarding d'une app, première expérience utilisateur, taux d'activation, parcours d'inscription",
+      "mot_cle_index": "onboarding produit",
+      "nom_court": "Onboarding",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        179,
+        453
+      ],
+      "synonymes": [
+        "première utilisation"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 736,
+      "emoji": "🦻",
+      "nom": "Accessibilité des contenus (vidéos, documents)",
+      "domaine": "Design",
+      "signal_routage": "Sous-titrer une vidéo, rendre un document accessible, transcription, alt-text, WCAG contenu, PDF accessible",
+      "mot_cle_index": "contenu accessible",
+      "nom_court": "Contenu accessible",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        158,
+        686
+      ],
+      "synonymes": [
+        "sous-titres vidéo"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 737,
+      "emoji": "🧠",
+      "nom": "Prompt engineering avancé (RCORCF)",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Structurer un prompt, RCORCF, rôle contexte objectif ressources contraintes format, prompt système efficace",
+      "mot_cle_index": "prompt structuré",
+      "nom_court": "Prompt structuré",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        17,
+        334
+      ],
+      "synonymes": [
+        "rcorcf"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 738,
+      "emoji": "🪜",
+      "nom": "Chaîne de pensée & raisonnement pas à pas",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Faire raisonner l'IA étape par étape, chaîne de pensée, CoT, expliquer son raisonnement, décomposer un problème complexe",
+      "mot_cle_index": "raisonnement pas à pas",
+      "nom_court": "Step-by-step",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        11,
+        21
+      ],
+      "synonymes": [
+        "chaîne de pensée"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 739,
+      "emoji": "🎯",
+      "nom": "Personas & segmentation client",
+      "domaine": "Marketing",
+      "signal_routage": "Définir mes personas, qui est mon client idéal, segmentation, fiche persona avec douleurs et objectifs",
+      "mot_cle_index": "personas clients",
+      "nom_court": "Personas",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        33,
+        175
+      ],
+      "synonymes": [
+        "client idéal"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 740,
+      "emoji": "💼",
+      "nom": "Prospection LinkedIn & social selling",
+      "domaine": "Vente",
+      "signal_routage": "Prospecter sur LinkedIn, social selling, envoyer des demandes de connexion ciblées, séquences de prospection",
+      "mot_cle_index": "social selling",
+      "nom_court": "Social selling",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        54,
+        111
+      ],
+      "synonymes": [
+        "prospection linkedin"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 741,
+      "emoji": "🎪",
+      "nom": "Préparation de démo produit",
+      "domaine": "Vente",
+      "signal_routage": "Préparer une démo produit, démo personnalisée client, script de démo, montrer la bonne feature au bon moment",
+      "mot_cle_index": "démo produit",
+      "nom_court": "Démo",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        165,
+        368
+      ],
+      "synonymes": [
+        "démo personnalisée"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 742,
+      "emoji": "🛡️",
+      "nom": "Gestion des objections commerciales",
+      "domaine": "Vente",
+      "signal_routage": "Répondre à une objection, « c'est trop cher », « on a déjà un outil », objection prix, négociation commerciale",
+      "mot_cle_index": "objections commerciales",
+      "nom_court": "Objections",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        45,
+        166
+      ],
+      "synonymes": [
+        "c'est trop cher"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 743,
+      "emoji": "🤝",
+      "nom": "Closing & passage à l'action",
+      "domaine": "Vente",
+      "signal_routage": "Conclure une vente, closer un deal, demander la signature, proposer les prochaines étapes, résumer l'accord",
+      "mot_cle_index": "closer un deal",
+      "nom_court": "Closing",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        168,
+        370
+      ],
+      "synonymes": [
+        "closer",
+        "demander la signature",
+        "obtenir un engagement"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 744,
+      "emoji": "📈",
+      "nom": "Upsell & cross-sell client",
+      "domaine": "Vente",
+      "signal_routage": "Vendre plus à un client existant, upsell, cross-sell, augmenter le panier, fidéliser par l'offre",
+      "mot_cle_index": "upsell",
+      "nom_court": "Upsell",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        173,
+        375
+      ],
+      "synonymes": [
+        "cross-sell",
+        "expansion de compte",
+        "forfait pro"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 745,
+      "emoji": "🗣️",
+      "nom": "Programme de parrainage & bouche-à-oreille",
+      "domaine": "Marketing",
+      "signal_routage": "Lancer un programme de parrainage, bouche-à-oreille, recommander mon produit, récompenser les recommandations",
+      "mot_cle_index": "parrainage",
+      "nom_court": "Parrainage",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        173,
+        174
+      ],
+      "synonymes": [
+        "bouche-à-oreille"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 746,
+      "emoji": "📧",
+      "nom": "Email marketing & séquences automatisées",
+      "domaine": "Marketing",
+      "signal_routage": "Créer une séquence email, campagne emailing, newsletter automatisée, onboarding par email, nurturing",
+      "mot_cle_index": "séquence email",
+      "nom_court": "Séquence email",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        51,
+        357
+      ],
+      "synonymes": [
+        "campagne emailing",
+        "emails de bienvenue",
+        "séquence de bienvenue"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 747,
+      "emoji": "💰",
+      "nom": "Publicité payante (SEA) & gestion de campagnes ads",
+      "domaine": "Marketing",
+      "signal_routage": "Lancer une campagne Google Ads / Meta Ads, publicité payante, SEA, budget pub, ROAS, ciblage payant",
+      "mot_cle_index": "campagne ads",
+      "nom_court": "Campagne ads",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        162,
+        356
+      ],
+      "synonymes": [
+        "google ads",
+        "meta ads"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 748,
+      "emoji": "🔧",
+      "nom": "SEO technique & audit de site",
+      "domaine": "Marketing",
+      "signal_routage": "Audit SEO technique, Core Web Vitals, balises, sitemap, robots.txt, vitesse de chargement, indexation Google",
+      "mot_cle_index": "seo technique",
+      "nom_court": "SEO technique",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        161,
+        253
+      ],
+      "synonymes": [
+        "core web vitals"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 749,
+      "emoji": "✍️",
+      "nom": "Rédaction SEO & optimisation de contenu",
+      "domaine": "Rédaction",
+      "signal_routage": "Optimiser un texte pour le SEO, mot-clé principal, balises Hn, maillage interne, lisibilité, intention de recherche",
+      "mot_cle_index": "optimisation seo",
+      "nom_court": "SEO contenu",
+      "branche_arbre": "D18",
+      "cross_refs": [
+        1,
+        377
+      ],
+      "synonymes": [
+        "optimise cet article",
+        "optimiser un article seo",
+        "référencement naturel",
+        "seo contenu"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 750,
+      "emoji": "📜",
+      "nom": "Contrats commerciaux & CGV clairs",
+      "domaine": "Juridique",
+      "signal_routage": "Rédiger un contrat client, CGV, contrat de prestation, clause pénale, révision de contrat, modèle de contrat",
+      "mot_cle_index": "contrat client",
+      "nom_court": "Contrat client",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        281,
+        370
+      ],
+      "synonymes": [
+        "cgv"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 751,
+      "emoji": "📋",
+      "nom": "RGPD & registre des traitements (PME)",
+      "domaine": "Juridique",
+      "signal_routage": "Mettre en conformité RGPD une PME, registre des traitements, DPO, mentions légales, cookies, sous-traitants",
+      "mot_cle_index": "conformité rgpd",
+      "nom_court": "Conformité RGPD",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        190,
+        695
+      ],
+      "synonymes": [
+        "registre des traitements"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 752,
+      "emoji": "©️",
+      "nom": "Propriété intellectuelle & licences",
+      "domaine": "Juridique",
+      "signal_routage": "Protéger ma création, déposer une marque, droit d'auteur, licence logiciel, brevet, plagiat, contrefaçon",
+      "mot_cle_index": "propriété intellectuelle",
+      "nom_court": "PI",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        120,
+        553
+      ],
+      "synonymes": [
+        "droit d'auteur"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 753,
+      "emoji": "🇪🇺",
+      "nom": "Conformité AI Act pour PME",
+      "domaine": "Juridique",
+      "signal_routage": "AI Act européen, conformité IA 2026, système IA à haut risque, transparence, registre AI Act, obligations entreprise",
+      "mot_cle_index": "ai act",
+      "nom_court": "AI Act",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        239,
+        271
+      ],
+      "synonymes": [
+        "règlement ia européen"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 754,
+      "emoji": "🚨",
+      "nom": "Gestion des incidents de sécurité (réponse)",
+      "domaine": "Sécurité",
+      "signal_routage": "Répondre à une cyberattaque, incident de sécurité, procédure de crise cyber, playbook incident, notification CNIL",
+      "mot_cle_index": "incident de sécurité",
+      "nom_court": "Incident cyber",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        256,
+        441
+      ],
+      "synonymes": [
+        "cyberattaque"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 755,
+      "emoji": "💾",
+      "nom": "Sauvegardes 3-2-1 & PRA personnel",
+      "domaine": "Sécurité",
+      "signal_routage": "Stratégie de sauvegarde 3-2-1, backup automatique, PRA, plan de reprise d'activité, test de restauration",
+      "mot_cle_index": "sauvegarde 3-2-1",
+      "nom_court": "Backup 3-2-1",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        273,
+        596
+      ],
+      "synonymes": [
+        "plan de reprise"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 756,
+      "emoji": "🧼",
+      "nom": "Hygiène numérique quotidienne",
+      "domaine": "Sécurité",
+      "signal_routage": "Nettoyer ses appareils, vider le cache, désinstaller les apps inutiles, mises à jour, réduire sa surface d'attaque",
+      "mot_cle_index": "nettoyage appareils",
+      "nom_court": "Hygiène numérique",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        247,
+        665
+      ],
+      "synonymes": [
+        "nettoyer mon pc"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 757,
+      "emoji": "🎣",
+      "nom": "Phishing & sensibilisation des équipes",
+      "domaine": "Sécurité",
+      "signal_routage": "Sensibiliser au phishing, campagne de phishing simulée, former les employés, reconnaître un mail frauduleux",
+      "mot_cle_index": "sensibilisation phishing",
+      "nom_court": "Anti-phishing",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        200,
+        509
+      ],
+      "synonymes": [
+        "mail frauduleux"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 758,
+      "emoji": "💳",
+      "nom": "Sécurité des paiements en ligne",
+      "domaine": "Sécurité",
+      "signal_routage": "Payer en ligne en sécurité, 3-D Secure, carte virtuelle,arnaque paiement, vérifier un site marchand, remboursements",
+      "mot_cle_index": "paiement en ligne",
+      "nom_court": "Paiement en ligne",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        530,
+        685
+      ],
+      "synonymes": [
+        "3-d secure"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 759,
+      "emoji": "👥",
+      "nom": "Droit du travail &管理 du personnel (PME)",
+      "domaine": "RH & formation",
+      "signal_routage": "Embaucher, contrat de travail, rupture, harcèlement, registre du personnel, entretien annuel, PME employeur",
+      "mot_cle_index": "droit du travail pme",
+      "nom_court": "Droit du travail PME",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        202,
+        555
+      ],
+      "synonymes": [
+        "embaucher",
+        "embaucher quelqu'un",
+        "premier salarié"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 760,
+      "emoji": "💻",
+      "nom": "Conduite de réunion à distance & hybride",
+      "domaine": "Gestion",
+      "signal_routage": "Réunion à distance, visioconférence efficace, réunion hybride présentiel/distanciel, facilitation en ligne",
+      "mot_cle_index": "réunion à distance",
+      "nom_court": "Visio efficace",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        209,
+        642
+      ],
+      "synonymes": [
+        "visioconférence"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 761,
+      "emoji": "🤲",
+      "nom": "Délégation & management de proximité",
+      "domaine": "Gestion",
+      "signal_routage": "Déléguer une tâche, confier une responsabilité, management de proximité, autonomie de l'équipe",
+      "mot_cle_index": "déléguer",
+      "nom_court": "Délégation",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        434,
+        644
+      ],
+      "synonymes": [
+        "confier une mission"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 762,
+      "emoji": "🕊️",
+      "nom": "Gestion de conflit interpersonnel",
+      "domaine": "Communication",
+      "signal_routage": "Conflit entre collègues, médiation interne, gérer un désaccord, désamorcer une tension, conversation difficile",
+      "mot_cle_index": "conflit collègues",
+      "nom_court": "Médiation interne",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        46,
+        636
+      ],
+      "synonymes": [
+        "conflit entre collègues",
+        "désamorcer une tension",
+        "je médie",
+        "médiation interne",
+        "se disputent"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 763,
+      "emoji": "⏳",
+      "nom": "Gestion du temps & priorités (matrice d'Eisenhower)",
+      "domaine": "Productivité",
+      "signal_routage": "Gérer mon temps, prioriser mes tâches, matrice d'Eisenhower, urgent vs important, dire non, délégation de tâches",
+      "mot_cle_index": "prioriser mes tâches",
+      "nom_court": "Priorisation",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        26,
+        72
+      ],
+      "synonymes": [
+        "matrice eisenhower"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 764,
+      "emoji": "🔄",
+      "nom": "Habitudes & routines personnelles",
+      "domaine": "Personnel",
+      "signal_routage": "Installer une habitude, routine matinale/soirée, ancrer une habitude, suivi de habitudes, streak",
+      "mot_cle_index": "routine personnelle",
+      "nom_court": "Habitudes",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        488,
+        489
+      ],
+      "synonymes": [
+        "installer une habitude"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 765,
+      "emoji": "🌤️",
+      "nom": "Gestion de l'anxiété & rumination",
+      "domaine": "Personnel",
+      "signal_routage": "Anxiété, ruminer, pensées anxieuses, inquiétude permanente, technique de grounding, respiration 4-7-8",
+      "mot_cle_index": "anxiété",
+      "nom_court": "Anxiété",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        483,
+        511
+      ],
+      "synonymes": [
+        "je rumine",
+        "rumination"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 766,
+      "emoji": "🕊️",
+      "nom": "Communication non-violente (CNV)",
+      "domaine": "Communication",
+      "signal_routage": "Communication non violente, CNV, exprimer un besoin, formulation observation-sentiment-besoin-demande",
+      "mot_cle_index": "cnv",
+      "nom_court": "CNV",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        46,
+        644
+      ],
+      "synonymes": [
+        "communication non violente"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 767,
+      "emoji": "🎓",
+      "nom": "Préparation d'une soutenance orale",
+      "domaine": "Apprentissage",
+      "signal_routage": "Préparer une soutenance, présentation orale de mémoire, defensa, jury, diaporama de soutenance, questions du jury",
+      "mot_cle_index": "soutenance orale",
+      "nom_court": "Soutenance",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        75,
+        241
+      ],
+      "synonymes": [
+        "defense de mémoire"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 768,
+      "emoji": "📝",
+      "nom": "Méthodologie de dissertation & essai",
+      "domaine": "Apprentissage",
+      "signal_routage": "Rédiger une dissertation, essai argumenté, plan dialectique, thèse-antithèse-synthèse, introduction de dissertation",
+      "mot_cle_index": "dissertation",
+      "nom_court": "Dissertation",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        377,
+        560
+      ],
+      "synonymes": [
+        "plan dialectique"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 769,
+      "emoji": "🗣️",
+      "nom": "Préparation d'un oral d'examen",
+      "domaine": "Apprentissage",
+      "signal_routage": "Préparer un oral d'examen, épreuve orale, exposer un cours, grand oral du bac, examen de certification",
+      "mot_cle_index": "oral d'examen",
+      "nom_court": "Oral",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        41,
+        293
+      ],
+      "synonymes": [
+        "grand oral"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 770,
+      "emoji": "🏫",
+      "nom": "Cours particuliers & accompagnement scolaire",
+      "domaine": "Apprentissage",
+      "signal_routage": "Donner des cours particuliers, accompagner un élève, expliquer une leçon, rattrapage scolaire, soutien scolaire",
+      "mot_cle_index": "cours particuliers",
+      "nom_court": "Cours particuliers",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        132,
+        570
+      ],
+      "synonymes": [
+        "cours particuliers 4e",
+        "expliquer les équations",
+        "soutien scolaire"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 771,
+      "emoji": "🛠️",
+      "nom": "Apprentissage par projet (project-based learning)",
+      "domaine": "Apprentissage",
+      "signal_routage": "Apprendre en faisant un projet, apprendre par la pratique, PBL, projet concret pour apprendre une compétence",
+      "mot_cle_index": "apprendre par projet",
+      "nom_court": "PBL",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        499,
+        500
+      ],
+      "synonymes": [
+        "apprendre en faisant"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 772,
+      "emoji": "💻",
+      "nom": "Préparation à un entretien d'embauche technique",
+      "domaine": "Carrière",
+      "signal_routage": "Entretien technique, live coding, entretien d'embauche développeur, algorithmes en entretien, system design interview",
+      "mot_cle_index": "entretien technique",
+      "nom_court": "Entretien tech",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        12,
+        697
+      ],
+      "synonymes": [
+        "live coding"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 773,
+      "emoji": "💶",
+      "nom": "Négociation salariale & package",
+      "domaine": "Carrière",
+      "signal_routage": "Négocier son salaire, package de rémunération, avantages en nature, brut net, stock-options, augmentation",
+      "mot_cle_index": "négocier son salaire",
+      "nom_court": "Négociation salariale",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        45,
+        294
+      ],
+      "synonymes": [
+        "demande d'augmentation"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 774,
+      "emoji": "📨",
+      "nom": "Lettre de motivation & candidature spontanée",
+      "domaine": "Carrière",
+      "signal_routage": "Rédiger une lettre de motivation, candidature spontanée, postuler sans offre, relancer une candidature",
+      "mot_cle_index": "lettre de motivation",
+      "nom_court": "Lettre de motivation",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        44,
+        697
+      ],
+      "synonymes": [
+        "candidature spontanée"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 775,
+      "emoji": "📊",
+      "nom": "Business plan & prévisionnel financier",
+      "domaine": "Stratégie",
+      "signal_routage": "Rédiger un business plan, prévisionnel sur 3 ans, modèle économique, levée de fonds, pitch investisseurs",
+      "mot_cle_index": "business plan",
+      "nom_court": "Business plan",
+      "branche_arbre": "D10",
+      "cross_refs": [
+        57,
+        170
+      ],
+      "synonymes": [
+        "prévisionnel 3 ans"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 776,
+      "emoji": "🎤",
+      "nom": "Pitch investisseur & deck",
+      "domaine": "Stratégie",
+      "signal_routage": "Préparer un pitch investisseur, deck de levée, elevator pitch investisseur, roadshow, due diligence",
+      "mot_cle_index": "pitch investisseur",
+      "nom_court": "Pitch investisseur",
+      "branche_arbre": "D10",
+      "cross_refs": [
+        172,
+        645
+      ],
+      "synonymes": [
+        "deck de levée"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 777,
+      "emoji": "🤝",
+      "nom": "Relation investisseurs & reporting",
+      "domaine": "Gestion",
+      "signal_routage": "Gérer la relation investisseurs, reporting mensuel aux investisseurs, board meeting, transparence financière",
+      "mot_cle_index": "relation investisseurs",
+      "nom_court": "Relation investisseurs",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        376,
+        438
+      ],
+      "synonymes": [
+        "board meeting"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 778,
+      "emoji": "🏦",
+      "nom": "Trésorerie & BFR de la PME",
+      "domaine": "Finance",
+      "signal_routage": "Gérer la trésorerie d'une PME, BFR, délais clients, affacturage, découvert, prévisionnel de trésorerie mensuel",
+      "mot_cle_index": "trésorerie pme",
+      "nom_court": "Trésorerie PME",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        230,
+        638
+      ],
+      "synonymes": [
+        "bfr"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 779,
+      "emoji": "🧾",
+      "nom": "Facturation & relances clients (pro)",
+      "domaine": "Vente",
+      "signal_routage": "Émettre une facture conforme, relancer un impayé, conditions de paiement, pénalités de retard, recouvrement amiable",
+      "mot_cle_index": "facture conforme",
+      "nom_court": "Facturation",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        371,
+        706
+      ],
+      "synonymes": [
+        "relance impayé"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 780,
+      "emoji": "📑",
+      "nom": "Devis & propositions commerciales",
+      "domaine": "Vente",
+      "signal_routage": "Rédiger un devis, proposition commerciale, chiffrage d'un projet,ränement de prestation, devis détaillé",
+      "mot_cle_index": "devis commercial",
+      "nom_court": "Devis",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        62,
+        369
+      ],
+      "synonymes": [
+        "proposition commerciale"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 781,
+      "emoji": "🧰",
+      "nom": "Choix & comparaison de SaaS",
+      "domaine": "Bureau",
+      "signal_routage": "Choisir un logiciel SaaS, comparer des outils (CRM, compta, gestion de projet), essai gratuit, démo éditeur",
+      "mot_cle_index": "choisir un logiciel",
+      "nom_court": "Choisir un SaaS",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        32,
+        219
+      ],
+      "synonymes": [
+        "comparer des outils"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 782,
+      "emoji": "🚚",
+      "nom": "Migration de données & changement d'outil",
+      "domaine": "Data",
+      "signal_routage": "Migrer ses données d'un outil à un autre, export/import, changement de logiciel, transfert de contacts, historique",
+      "mot_cle_index": "migrer mes données",
+      "nom_court": "Migration données",
+      "branche_arbre": "D15",
+      "cross_refs": [
+        92,
+        462
+      ],
+      "synonymes": [
+        "10 ans d'emails",
+        "changer d'outil",
+        "migration de données",
+        "migre mes emails",
+        "migrer emails proton"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 783,
+      "emoji": "🤖",
+      "nom": "Automatisation bureautique (scripts & macros)",
+      "domaine": "Développement",
+      "signal_routage": "Automatiser une tâche bureautique, macro Excel, script Python, Google Apps Script, automatiser un rapport",
+      "mot_cle_index": "automatiser une tâche",
+      "nom_court": "Auto bureautique",
+      "branche_arbre": "D16",
+      "cross_refs": [
+        264,
+        669
+      ],
+      "synonymes": [
+        "macro excel"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 784,
+      "emoji": "📚",
+      "nom": "Documentation interne & base de connaissances",
+      "domaine": "Gestion",
+      "signal_routage": "Créer une base de connaissances interne, wiki d'équipe, documenter un processus, runbook, SOP documentés",
+      "mot_cle_index": "base de connaissances",
+      "nom_court": "Wiki interne",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        23,
+        114
+      ],
+      "synonymes": [
+        "documenter un processus"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 785,
+      "emoji": "⚖️",
+      "nom": "Veille juridique & réglementaire",
+      "domaine": "Juridique",
+      "signal_routage": "Suivre l'actualité juridique, veille réglementaire, nouvelles lois 2026, conformité continue, newsletter juridique",
+      "mot_cle_index": "veille juridique",
+      "nom_court": "Veille juridique",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        239,
+        688
+      ],
+      "synonymes": [
+        "veille réglementaire"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 786,
+      "emoji": "🛡️",
+      "nom": "Assurances professionnelles (RC Pro, décennale)",
+      "domaine": "Juridique",
+      "signal_routage": "Assurance responsabilité civile professionnelle, décennale, cyber-assurance, assurance entreprise, garanties pro",
+      "mot_cle_index": "assurance pro",
+      "nom_court": "Assurance pro",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        198,
+        683
+      ],
+      "synonymes": [
+        "décennale",
+        "rc pro"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 787,
+      "emoji": "🧘",
+      "nom": "Prévention des risques psychosociaux (RPS)",
+      "domaine": "RH & formation",
+      "signal_routage": "Prévenir les RPS, risques psychosociaux, burn-out équipe, charge de travail, DUERP, bien-être au travail",
+      "mot_cle_index": "rps",
+      "nom_court": "RPS",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        421,
+        617
+      ],
+      "synonymes": [
+        "risques psychosociaux"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 788,
+      "emoji": "🌐",
+      "nom": "Management à distance & engagement d'équipe",
+      "domaine": "RH & formation",
+      "signal_routage": "Manager une équipe à distance, engagement des télétravailleurs, cohésion d'équipe remote, rituels à distance",
+      "mot_cle_index": "management à distance",
+      "nom_court": "Management remote",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        232,
+        642
+      ],
+      "synonymes": [
+        "équipe remote"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 789,
+      "emoji": "🚪",
+      "nom": "Entretien de départ & offboarding",
+      "domaine": "RH & formation",
+      "signal_routage": "Gérer un départ, entretien de départ, offboarding collaborateur, passation, récupérer le matériel, accès",
+      "mot_cle_index": "départ collaborateur",
+      "nom_court": "Offboarding",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        275,
+        634
+      ],
+      "synonymes": [
+        "check-list offboarding",
+        "départ d'un salarié",
+        "offboarding développeur"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 790,
+      "emoji": "🎯",
+      "nom": "Recrutement & entretiens d'embauche (employeur)",
+      "domaine": "RH & formation",
+      "signal_routage": "Recruter un candidat, conduire un entretien d'embauche, grille d'entretien, test technique, essai, offre d'emploi",
+      "mot_cle_index": "recruter",
+      "nom_court": "Recrutement",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        276,
+        408
+      ],
+      "synonymes": [
+        "entretien d'embauche employeur",
+        "notre commercial",
+        "process de recrutement",
+        "recrutement commercial",
+        "recrutement de notre"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 791,
+      "emoji": "📈",
+      "nom": "Formation continue & plan de développement",
+      "domaine": "RH & formation",
+      "signal_routage": "Plan de formation annuel, CPF, compétences à développer, certification, veille compétences équipe, GPEC",
+      "mot_cle_index": "plan de formation",
+      "nom_court": "Plan de formation",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        205,
+        407
+      ],
+      "synonymes": [
+        "compétences à développer"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 792,
+      "emoji": "🏛️",
+      "nom": "Comité social & CSE (entreprise)",
+      "domaine": "RH & formation",
+      "signal_routage": "Fonctionnement du CSE, comité social et économique, réunions CSE, consultation, budget ASC, élections",
+      "mot_cle_index": "cse",
+      "nom_court": "CSE",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        207,
+        413
+      ],
+      "synonymes": [
+        "comité social"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 793,
+      "emoji": "🏃",
+      "nom": "Gestion de projet agile (Scrum)",
+      "domaine": "Gestion",
+      "signal_routage": "Mener un projet en Scrum, sprint, backlog, daily stand-up, rétrospective, vélocité, user stories, kanban",
+      "mot_cle_index": "projet agile",
+      "nom_court": "Agile/Scrum",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        15,
+        185
+      ],
+      "synonymes": [
+        "scrum"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 794,
+      "emoji": "⚠️",
+      "nom": "Gestion des risques projet",
+      "domaine": "Gestion",
+      "signal_routage": "Identifier les risques d'un projet, registre des risques, probabilité impact, plan de contingence, mitigation",
+      "mot_cle_index": "risques projet",
+      "nom_court": "Risques projet",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        60,
+        435
+      ],
+      "synonymes": [
+        "registre des risques"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 795,
+      "emoji": "🔄",
+      "nom": "Conduite du changement",
+      "domaine": "Gestion",
+      "signal_routage": "Mener un changement en entreprise, conduite du changement, adhésion des équipes, communication interne, résistance au changement",
+      "mot_cle_index": "conduite du changement",
+      "nom_court": "Changement",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        235,
+        404
+      ],
+      "synonymes": [
+        "adhésion équipe",
+        "conduite du changement crm",
+        "embarquer l'équipe"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 796,
+      "emoji": "🤝",
+      "nom": "Prévention & gestion des litiges clients",
+      "domaine": "Vente",
+      "signal_routage": "Gérer un client mécontent, réclamation, litige client, médiation, geste commercial, fidélisation après conflit",
+      "mot_cle_index": "client mécontent",
+      "nom_court": "Litige client",
+      "branche_arbre": "D9",
+      "cross_refs": [
+        56,
+        649
+      ],
+      "synonymes": [
+        "réclamation client"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 797,
+      "emoji": "⭐",
+      "nom": "Expérience client (CX) & NPS",
+      "domaine": "Vente",
+      "signal_routage": "Mesurer la satisfaction client, NPS, enquête de satisfaction, parcours client, expérience client, avis clients",
+      "mot_cle_index": "nps",
+      "nom_court": "NPS/CX",
+      "branche_arbre": "D9",
+      "cross_refs": [
+        55,
+        282
+      ],
+      "synonymes": [
+        "satisfaction client"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 798,
+      "emoji": "🛒",
+      "nom": "E-commerce : tunnel de conversion & panier abandonné",
+      "domaine": "Marketing",
+      "signal_routage": "Optimiser un site e-commerce, tunnel de conversion, panier abandonné, taux de conversion, fiche produit, checkout",
+      "mot_cle_index": "panier abandonné",
+      "nom_court": "Tunnel e-com",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        162,
+        586
+      ],
+      "synonymes": [
+        "taux de conversion e-commerce"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 799,
+      "emoji": "🚀",
+      "nom": "Lancement de produit & go-to-market",
+      "domaine": "Marketing",
+      "signal_routage": "Lancer un produit, go-to-market, stratégie de lancement, annonce produit, beta test, early adopters, waitlist",
+      "mot_cle_index": "lancer un produit",
+      "nom_court": "Lancement",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        163,
+        696
+      ],
+      "synonymes": [
+        "go-to-market",
+        "lancer une appli",
+        "plan de lancement"
       ],
       "fichier": "canvas"
     }

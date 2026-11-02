@@ -1,6 +1,6 @@
 # Sonde de couverture
 
-Total 872 sujets · Couverts 864 (99%) · Partiels 7 · Gaps 1
+Total 972 sujets · Couverts 966 (99%) · Partiels 5 · Gaps 1
 
 ## Gaps (aucune candidate)
 
@@ -8,12 +8,10 @@ Total 872 sujets · Couverts 864 (99%) · Partiels 7 · Gaps 1
 
 ## Partiels (pistes/domaines seulement)
 
-- [Bureau] decks -> pistes [14, 171] domaines ['Bureau']
-- [Décision] arbitrer -> pistes [266, 602] domaines ['Décision']
+- [Bureau] decks -> pistes [14, 171, 776] domaines ['Bureau']
+- [Décision] arbitrer -> pistes [266, 602, 736] domaines ['Décision']
 - [Décision] trancher -> pistes [301, 316, 639] domaines ['Décision']
-- [Formation] former -> pistes [2, 52, 117] domaines ['Formation']
 - [Formation] tutorat -> pistes [234, 299, 615] domaines ['Formation']
-- [Productivité] focus -> pistes [] domaines ['Productivité']
 - [Routage] dispatcher -> pistes [386, 694] domaines ['Routage']
 
 ## Echantillon couverts
@@ -26,14 +24,14 @@ Total 872 sujets · Couverts 864 (99%) · Partiels 7 · Gaps 1
 - [Apprentissage] cours -> [75, 109, 373]
 - [Apprentissage] ligne -> [282, 392, 497]
 - [Apprentissage] parcours -> [109, 203, 373]
-- [Apprentissage] apprentissage -> [40, 213, 499]
+- [Apprentissage] apprentissage -> [40, 499, 500]
 - [Bureau] word -> [27, 503]
 - [Bureau] excel -> [27, 264, 347]
 - [Bureau] powerpoint -> [14, 27]
 - [Bureau] fichiers -> [28, 286, 666]
 - [Bureau] presentations -> [14]
-- [Carrière] candidature -> [44, 274]
-- [Carrière] entretien -> [12, 187, 206]
+- [Carrière] candidature -> [44, 274, 774]
+- [Carrière] entretien -> [12, 187, 276]
 - [Carrière] salaire -> [45, 294, 641]
 - [Carrière] evolution -> [633]
 - [Carrière] role -> [49, 434, 458]
@@ -41,5 +39,5 @@ Total 872 sujets · Couverts 864 (99%) · Partiels 7 · Gaps 1
 - [Communication] message -> [4, 136, 138]
 - [Communication] professionnel -> [4, 7, 231]
 - [Communication] annonce -> [126, 404, 408]
-- [Communication] equipe -> [73, 113, 205]
+- [Communication] equipe -> [73, 205, 232]
 - [Communication] jargon -> [401]

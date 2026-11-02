@@ -702,6 +702,106 @@
 | 697 | Préparation d'un entretien d'embauche (candidat) | Carrière |
 | 698 | Onboarding d'un nouveau collaborateur | RH & formation |
 | 699 | Déménagement international | Personnel |
+| 700 | Vérification des sorties IA (fact-checking) | IA / Prompting |
+| 701 | Briefing du matin (daily brief) | Productivité |
+| 702 | Préparation de réunion (meeting prep) | Productivité |
+| 703 | Rédaction de réponses email en son nom | Communication |
+| 704 | Gestion intelligente de l'agenda | Productivité |
+| 705 | Notes de réunion & action items | Productivité |
+| 706 | Relances & suivi des engagements | Productivité |
+| 707 | Statut & mise à jour d'équipe (standup écrit) | Communication |
+| 708 | Recherche profonde multi-sources | Recherche |
+| 709 | Veille concurrentielle automatisée | Marketing |
+| 710 | Rapport hebdomadaire d'activité | Gestion |
+| 711 | A2A & communication agent-à-agent | IA / Prompting |
+| 712 | Harnais d'agent (agent harness) & orchestration | IA / Prompting |
+| 713 | Observabilité & traces d'agents (OpenTelemetry GenAI) | Data & IA |
+| 714 | Mémoire persistante d'agent (structured memory) | IA / Prompting |
+| 715 | Skills dynamiques : découverte & installation (find-skills) | Data & IA |
+| 716 | Audit de sécurité d'une skill (SKILL.md) | Sécurité |
+| 717 | Vidéo programmatique avec Remotion | Créativité |
+| 718 | Text-to-CAD & génération 3D par IA | Créativité |
+| 719 | Mode caveman : réponses ultra-concises | IA / Prompting |
+| 720 | Grill Me : challenger un plan avant de coder | Développement |
+| 721 | Graphify : transformer un corpus en graphe de connaissances | Data & IA |
+| 722 | Souveraineté IA : modèles européens & hébergement UE | Sécurité |
+| 723 | SOC agentique & sécurité autonome | Sécurité |
+| 724 | Vérifiabilité du code IA (Karpathy) | Développement |
+| 725 | NotebookLM & réponses ancrées dans ses sources | Recherche |
+| 726 | Social listening & tendances temps réel | Marketing |
+| 727 | Planification de contenu & calendrier éditorial IA | Marketing |
+| 728 | Création de carrousels & visuels éducatifs | Créativité |
+| 729 | Scripting de vidéos courtes (Reels/TikTok/Shorts) | Marketing |
+| 730 | Génération d'images produit & mockups | Design |
+| 731 | Microcopy & textes d'interface | Design |
+| 732 | Design system & composants réutilisables | Design |
+| 733 | Tests A/B & expérimentation | Produit |
+| 734 | Recherche utilisateur & interviews | Produit |
+| 735 | Onboarding produit & activation | Produit |
+| 736 | Accessibilité des contenus (vidéos, documents) | Design |
+| 737 | Prompt engineering avancé (RCORCF) | IA / Prompting |
+| 738 | Chaîne de pensée & raisonnement pas à pas | IA / Prompting |
+| 739 | Personas & segmentation client | Marketing |
+| 740 | Prospection LinkedIn & social selling | Vente |
+| 741 | Préparation de démo produit | Vente |
+| 742 | Gestion des objections commerciales | Vente |
+| 743 | Closing & passage à l'action | Vente |
+| 744 | Upsell & cross-sell client | Vente |
+| 745 | Programme de parrainage & bouche-à-oreille | Marketing |
+| 746 | Email marketing & séquences automatisées | Marketing |
+| 747 | Publicité payante (SEA) & gestion de campagnes ads | Marketing |
+| 748 | SEO technique & audit de site | Marketing |
+| 749 | Rédaction SEO & optimisation de contenu | Rédaction |
+| 750 | Contrats commerciaux & CGV clairs | Juridique |
+| 751 | RGPD & registre des traitements (PME) | Juridique |
+| 752 | Propriété intellectuelle & licences | Juridique |
+| 753 | Conformité AI Act pour PME | Juridique |
+| 754 | Gestion des incidents de sécurité (réponse) | Sécurité |
+| 755 | Sauvegardes 3-2-1 & PRA personnel | Sécurité |
+| 756 | Hygiène numérique quotidienne | Sécurité |
+| 757 | Phishing & sensibilisation des équipes | Sécurité |
+| 758 | Sécurité des paiements en ligne | Sécurité |
+| 759 | Droit du travail &管理 du personnel (PME) | RH & formation |
+| 760 | Conduite de réunion à distance & hybride | Gestion |
+| 761 | Délégation & management de proximité | Gestion |
+| 762 | Gestion de conflit interpersonnel | Communication |
+| 763 | Gestion du temps & priorités (matrice d'Eisenhower) | Productivité |
+| 764 | Habitudes & routines personnelles | Personnel |
+| 765 | Gestion de l'anxiété & rumination | Personnel |
+| 766 | Communication non-violente (CNV) | Communication |
+| 767 | Préparation d'une soutenance orale | Apprentissage |
+| 768 | Méthodologie de dissertation & essai | Apprentissage |
+| 769 | Préparation d'un oral d'examen | Apprentissage |
+| 770 | Cours particuliers & accompagnement scolaire | Apprentissage |
+| 771 | Apprentissage par projet (project-based learning) | Apprentissage |
+| 772 | Préparation à un entretien d'embauche technique | Carrière |
+| 773 | Négociation salariale & package | Carrière |
+| 774 | Lettre de motivation & candidature spontanée | Carrière |
+| 775 | Business plan & prévisionnel financier | Stratégie |
+| 776 | Pitch investisseur & deck | Stratégie |
+| 777 | Relation investisseurs & reporting | Gestion |
+| 778 | Trésorerie & BFR de la PME | Finance |
+| 779 | Facturation & relances clients (pro) | Vente |
+| 780 | Devis & propositions commerciales | Vente |
+| 781 | Choix & comparaison de SaaS | Bureau |
+| 782 | Migration de données & changement d'outil | Data |
+| 783 | Automatisation bureautique (scripts & macros) | Développement |
+| 784 | Documentation interne & base de connaissances | Gestion |
+| 785 | Veille juridique & réglementaire | Juridique |
+| 786 | Assurances professionnelles (RC Pro, décennale) | Juridique |
+| 787 | Prévention des risques psychosociaux (RPS) | RH & formation |
+| 788 | Management à distance & engagement d'équipe | RH & formation |
+| 789 | Entretien de départ & offboarding | RH & formation |
+| 790 | Recrutement & entretiens d'embauche (employeur) | RH & formation |
+| 791 | Formation continue & plan de développement | RH & formation |
+| 792 | Comité social & CSE (entreprise) | RH & formation |
+| 793 | Gestion de projet agile (Scrum) | Gestion |
+| 794 | Gestion des risques projet | Gestion |
+| 795 | Conduite du changement | Gestion |
+| 796 | Prévention & gestion des litiges clients | Vente |
+| 797 | Expérience client (CX) & NPS | Vente |
+| 798 | E-commerce : tunnel de conversion & panier abandonné | Marketing |
+| 799 | Lancement de produit & go-to-market | Marketing |
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -785,7 +885,107 @@
 | 697 | Préparation d'un entretien d'embauche (candidat) | Carrière |
 | 698 | Onboarding d'un nouveau collaborateur | RH & formation |
 | 699 | Déménagement international | Personnel |
+| 700 | Vérification des sorties IA (fact-checking) | IA / Prompting |
+| 701 | Briefing du matin (daily brief) | Productivité |
+| 702 | Préparation de réunion (meeting prep) | Productivité |
+| 703 | Rédaction de réponses email en son nom | Communication |
+| 704 | Gestion intelligente de l'agenda | Productivité |
+| 705 | Notes de réunion & action items | Productivité |
+| 706 | Relances & suivi des engagements | Productivité |
+| 707 | Statut & mise à jour d'équipe (standup écrit) | Communication |
+| 708 | Recherche profonde multi-sources | Recherche |
+| 709 | Veille concurrentielle automatisée | Marketing |
+| 710 | Rapport hebdomadaire d'activité | Gestion |
+| 711 | A2A & communication agent-à-agent | IA / Prompting |
+| 712 | Harnais d'agent (agent harness) & orchestration | IA / Prompting |
+| 713 | Observabilité & traces d'agents (OpenTelemetry GenAI) | Data & IA |
+| 714 | Mémoire persistante d'agent (structured memory) | IA / Prompting |
+| 715 | Skills dynamiques : découverte & installation (find-skills) | Data & IA |
+| 716 | Audit de sécurité d'une skill (SKILL.md) | Sécurité |
+| 717 | Vidéo programmatique avec Remotion | Créativité |
+| 718 | Text-to-CAD & génération 3D par IA | Créativité |
+| 719 | Mode caveman : réponses ultra-concises | IA / Prompting |
+| 720 | Grill Me : challenger un plan avant de coder | Développement |
+| 721 | Graphify : transformer un corpus en graphe de connaissances | Data & IA |
+| 722 | Souveraineté IA : modèles européens & hébergement UE | Sécurité |
+| 723 | SOC agentique & sécurité autonome | Sécurité |
+| 724 | Vérifiabilité du code IA (Karpathy) | Développement |
+| 725 | NotebookLM & réponses ancrées dans ses sources | Recherche |
+| 726 | Social listening & tendances temps réel | Marketing |
+| 727 | Planification de contenu & calendrier éditorial IA | Marketing |
+| 728 | Création de carrousels & visuels éducatifs | Créativité |
+| 729 | Scripting de vidéos courtes (Reels/TikTok/Shorts) | Marketing |
+| 730 | Génération d'images produit & mockups | Design |
+| 731 | Microcopy & textes d'interface | Design |
+| 732 | Design system & composants réutilisables | Design |
+| 733 | Tests A/B & expérimentation | Produit |
+| 734 | Recherche utilisateur & interviews | Produit |
+| 735 | Onboarding produit & activation | Produit |
+| 736 | Accessibilité des contenus (vidéos, documents) | Design |
+| 737 | Prompt engineering avancé (RCORCF) | IA / Prompting |
+| 738 | Chaîne de pensée & raisonnement pas à pas | IA / Prompting |
+| 739 | Personas & segmentation client | Marketing |
+| 740 | Prospection LinkedIn & social selling | Vente |
+| 741 | Préparation de démo produit | Vente |
+| 742 | Gestion des objections commerciales | Vente |
+| 743 | Closing & passage à l'action | Vente |
+| 744 | Upsell & cross-sell client | Vente |
+| 745 | Programme de parrainage & bouche-à-oreille | Marketing |
+| 746 | Email marketing & séquences automatisées | Marketing |
+| 747 | Publicité payante (SEA) & gestion de campagnes ads | Marketing |
+| 748 | SEO technique & audit de site | Marketing |
+| 749 | Rédaction SEO & optimisation de contenu | Rédaction |
+| 750 | Contrats commerciaux & CGV clairs | Juridique |
+| 751 | RGPD & registre des traitements (PME) | Juridique |
+| 752 | Propriété intellectuelle & licences | Juridique |
+| 753 | Conformité AI Act pour PME | Juridique |
+| 754 | Gestion des incidents de sécurité (réponse) | Sécurité |
+| 755 | Sauvegardes 3-2-1 & PRA personnel | Sécurité |
+| 756 | Hygiène numérique quotidienne | Sécurité |
+| 757 | Phishing & sensibilisation des équipes | Sécurité |
+| 758 | Sécurité des paiements en ligne | Sécurité |
+| 759 | Droit du travail &管理 du personnel (PME) | RH & formation |
+| 760 | Conduite de réunion à distance & hybride | Gestion |
+| 761 | Délégation & management de proximité | Gestion |
+| 762 | Gestion de conflit interpersonnel | Communication |
+| 763 | Gestion du temps & priorités (matrice d'Eisenhower) | Productivité |
+| 764 | Habitudes & routines personnelles | Personnel |
+| 765 | Gestion de l'anxiété & rumination | Personnel |
+| 766 | Communication non-violente (CNV) | Communication |
+| 767 | Préparation d'une soutenance orale | Apprentissage |
+| 768 | Méthodologie de dissertation & essai | Apprentissage |
+| 769 | Préparation d'un oral d'examen | Apprentissage |
+| 770 | Cours particuliers & accompagnement scolaire | Apprentissage |
+| 771 | Apprentissage par projet (project-based learning) | Apprentissage |
+| 772 | Préparation à un entretien d'embauche technique | Carrière |
+| 773 | Négociation salariale & package | Carrière |
+| 774 | Lettre de motivation & candidature spontanée | Carrière |
+| 775 | Business plan & prévisionnel financier | Stratégie |
+| 776 | Pitch investisseur & deck | Stratégie |
+| 777 | Relation investisseurs & reporting | Gestion |
+| 778 | Trésorerie & BFR de la PME | Finance |
+| 779 | Facturation & relances clients (pro) | Vente |
+| 780 | Devis & propositions commerciales | Vente |
+| 781 | Choix & comparaison de SaaS | Bureau |
+| 782 | Migration de données & changement d'outil | Data |
+| 783 | Automatisation bureautique (scripts & macros) | Développement |
+| 784 | Documentation interne & base de connaissances | Gestion |
+| 785 | Veille juridique & réglementaire | Juridique |
+| 786 | Assurances professionnelles (RC Pro, décennale) | Juridique |
+| 787 | Prévention des risques psychosociaux (RPS) | RH & formation |
+| 788 | Management à distance & engagement d'équipe | RH & formation |
+| 789 | Entretien de départ & offboarding | RH & formation |
+| 790 | Recrutement & entretiens d'embauche (employeur) | RH & formation |
+| 791 | Formation continue & plan de développement | RH & formation |
+| 792 | Comité social & CSE (entreprise) | RH & formation |
+| 793 | Gestion de projet agile (Scrum) | Gestion |
+| 794 | Gestion des risques projet | Gestion |
+| 795 | Conduite du changement | Gestion |
+| 796 | Prévention & gestion des litiges clients | Vente |
+| 797 | Expérience client (CX) & NPS | Vente |
+| 798 | E-commerce : tunnel de conversion & panier abandonné | Marketing |
+| 799 | Lancement de produit & go-to-market | Marketing |
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–699 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–799 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

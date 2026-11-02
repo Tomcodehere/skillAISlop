@@ -33,4 +33,7 @@ flowchart TD
     B -->|skills-hub.ai + i-have-adhd (vague 9)| V9[601 Revue session · 602 Revue CTO · 606 Sprint dette\n612 GEO · 614 Pré-déploiement · 615 Auto-amélioration · 616 TDAH-friendly]
     B -->|Vie quotidienne & travail (vague 10)| V10[617 Burn-out · 618 Charge mentale · 626 Grossesse · 630 Maintien à domicile\n636 Harcèlement · 642 Télétravail · 654 Dépannage · 659 Sport · 699 Déménagement intl]
     B -->|Finance, droit & digital 2026 (vague 10)| V11[638 Trésorerie · 651 Succession · 676 Bail\n665 Mots de passe · 690 RAG · 691 Fine-tuning · 692 Injection prompt · 693 Evals · 694 Coût tokens]
+    B -->|Agentique & fiabilité IA 2026 (vague 11)| V12[700 Fact-check IA · 711 A2A · 712 Harness\n713 Observabilité · 714 Mémoire structurée · 716 Audit skill · 722 IA souveraine · 723 SOC agentique]
+    B -->|Créa, marketing & vente 2026 (vague 11)| V13[717 Remotion · 727 Calendrier éditorial · 729 Script short\n740 Social selling · 747 Ads · 798 Tunnel e-com · 799 Lancement]
+    B -->|Gestion, RH & carrière 2026 (vague 11)| V14[701 Daily brief · 710 Rapport hebdo · 762 Médiation\n775 Business plan · 790 Recrutement · 793 Scrum · 787 RPS]
 ```
