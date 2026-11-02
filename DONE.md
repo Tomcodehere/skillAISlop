@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-02** — Optimisations du routeur : hoist de norm(query) + cache des mot_cle normalisés, k vec réduit à top, vec dim 256→128 (base 1,76→1,24 Mo), PRAGMA WAL + cache_size=-8000, VEC_PISTE relevé à 0.80 (zzz qwertyu repasse exit 2) — route 8,9→7,8 ms · build 0,23 s · test ✅ 224/224 · audit ✅ 799/799 · sonde 971/972 (0 partiel)
+
 - [x] **2026-11-02** — Améliorations SQLite : index secondaires (domaine, branche), tables meta+versions avec snapshot JSON et diff par build (`routage.py versions`), fts5vocab (`routage.py vocab`), analytics SQL des routages (`routage.py analytics`), PRAGMA optimize + VACUUM au build — build ✅ 800 skills · 783 synonymes · 800 vecteurs · test ✅ 224/224 · audit ✅ 799/799
 
 - [x] **2026-11-02** — CI GitHub Actions ajoutée (.github/workflows/ci.yml : build, generate --check, lint, test 224/224, audit conformité, sonde, compteur à jour) + bouclage sonde : 5 partiels levés (synonymes decks/arbitrer/trancher/tutorat/dispatcher), sonde à 971/972 couverts, 0 partiel, 1 gap (« ton » seul, couvert par « ton d'équipe ») — build ✅ 800 skills · 783 synonymes · 800 vecteurs · lint ✅ · test ✅ 224/224 · audit ✅ 799/799

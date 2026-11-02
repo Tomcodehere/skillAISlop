@@ -1224,9 +1224,9 @@ def _json_dumps(x) -> str:
     return json.dumps(x, ensure_ascii=False)
 
 
-VEC_DIM = 256  # dimension des embeddings locaux (hash bag-of-words normalisé)
+VEC_DIM = 128  # dimension des embeddings locaux (hash bag-of-words normalisé)
 VEC_SEUIL = 0.80  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
-VEC_PISTE = 0.65  # au-dessus, la meilleure candidate vec devient piste (exit 1)
+VEC_PISTE = 0.80  # au-dessus, la meilleure candidate vec devient piste (exit 1) — même seuil que les candidats
 
 
 def charger_vec(db: sqlite3.Connection) -> bool:
@@ -1272,6 +1272,8 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
             pass
         db_path.unlink()
     db = sqlite3.connect(db_path)
+    db.execute("PRAGMA journal_mode=WAL")
+    db.execute("PRAGMA cache_size=-8000")
     vec_ok = charger_vec(db)
     if vec_ok:
         db.execute(f"CREATE VIRTUAL TABLE skills_vec USING vec0("
@@ -1465,6 +1467,7 @@ def _fts_valide(r, qt_forts) -> bool:
 def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     q = norm(query)
     qt = tokens(query)
+    qn = q  # forme normalisée hoistée (évite de re-normaliser dans les boucles)
     qt_forts = [t for t in qt if len(t) >= 3]
     res = {"exact": [], "fts": [], "vec": [], "flou": [], "pistes": [],
            "domaines": [], "direct": None}
@@ -1486,12 +1489,15 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             res["direct"] = cand(r["num"], r["nom"], r["domaine"],
                                  r["signal"] or "(routeur)", "direct", None)
 
-    # 1) mot-clé canonique : égalité puis inclusion
+    # 1) mot-clé canonique : égalité puis inclusion (mot_cle pré-normalisé en cache)
+    cache_mc = {}
     for r in db.execute("SELECT num, nom, domaine, signal, mot_cle FROM skills "
                         "WHERE mot_cle != ''"):
-        kw = norm(r["mot_cle"])
-        if q and (q == kw or (len(q) >= 5 and q in kw)
-                  or (len(kw) >= 5 and kw in q)):
+        kw = cache_mc.get(r["num"])
+        if kw is None:
+            kw = cache_mc[r["num"]] = norm(r["mot_cle"])
+        if qn and (qn == kw or (len(qn) >= 5 and qn in kw)
+                  or (len(kw) >= 5 and kw in qn)):
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "mot-clé", r["mot_cle"]))
             vus.add(r["num"])
@@ -1499,7 +1505,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                        "WHERE mot_cle != ''"):
         if r["num"] in vus:
             continue
-        kwt = set(tokens(r["mot_cle"]))
+        kwt = set(tokens(cache_mc.get(r["num"]) or norm(r["mot_cle"])))
         if kwt and kwt <= set(qt):
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "mot-clé", r["mot_cle"]))
@@ -1567,7 +1573,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 "FROM skills_vec v JOIN skills s ON s.num = v.num "
                 "WHERE v.embedding MATCH ? AND k = ? "
                 "ORDER BY distance LIMIT ?",
-                (qvec, top + len(vus), top + len(vus))).fetchall()
+                (qvec, top, top)).fetchall()
             for r in hits:
                 if r["num"] in vus:
                     continue
@@ -1598,7 +1604,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     #     en dessous du seuil, les meilleurs recouvrements deviennent pistes
     if not res["exact"] and not res["fts"] and not res["vec"] and not res["pistes"]:
         pistes_vues = set()
-        for ratio, nb, t, r in proches_trigrammes(db, qt_forts, 0.35, vus):
+        for ratio, nb, t, r in proches_trigrammes(db, qt_forts, 0.65, vus):
             mots = mots_de(r)
             uniques = set(qt_forts)
             n = sum(1 for t2 in uniques if mot_match_large(t2, mots))
@@ -1647,6 +1653,7 @@ def cmd_route(query: str, top: int, as_json: bool) -> int:
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
     db = sqlite3.connect(DB_PATH)
     db.row_factory = sqlite3.Row
+    db.execute("PRAGMA cache_size=-8000")
     charger_vec(db)
     res = chercher(db, query, top)
     candidats = ([res["direct"]] if res["direct"] else []) + res["exact"] \

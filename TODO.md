@@ -29,3 +29,14 @@ type: "text/markdown"
 - [ ] RTREE / géolocalisation de skills — écarté pour l'instant (pas de cas d'usage)
 - [ ] stmt (vtab) — écarté (le Python suffit)
 - [ ] Export JSON 100 % SQL (json_group_array) à la place du Python — à envisager si l'export grossit
+
+## Optimisations (2026-11-02)
+
+- [x] ~~Hoist norm(query) + cache mot_cle normalisés~~ → fait (chercher 8,9 → 7,9 ms)
+- [x] ~~vec dim 256 → 128~~ → fait (skills_vec 1,05 → 0,53 Mo, fichier 1,76 → 1,24 Mo)
+- [x] ~~k vec = top au lieu de top+vus~~ → fait
+- [x] ~~PRAGMA journal_mode=WAL + cache_size=-8000~~ → fait
+- [x] ~~VEC_PISTE 0.65 → 0.80 (anti-bruit : zzz repasse exit 2)~~ → fait
+- [ ] Passe trigrammes en C/SQL (ou index trigrammes) — 14,9 ms, dernier gros poste Python
+- [ ] vec0 avec HNSW (index vectoriel approché) si le catalogue dépasse ~5 000 skills
+- [ ] WAL checkpoint périodique si la base est ouverte longtemps en session
