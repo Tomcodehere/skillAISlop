@@ -1333,6 +1333,11 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
             k TEXT PRIMARY KEY,
             v TEXT NOT NULL
         );
+        CREATE TABLE IF NOT EXISTS trigrammes (
+            trigramme TEXT NOT NULL,
+            num       INTEGER NOT NULL,
+            PRIMARY KEY (trigramme, num)
+        ) WITHOUT ROWID;
         CREATE TABLE IF NOT EXISTS versions (
             id        INTEGER PRIMARY KEY AUTOINCREMENT,
             date      TEXT NOT NULL DEFAULT (datetime('now')),
@@ -1361,6 +1366,17 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
     for syn, num in SYNONYMES:
         assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
         db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?)", (syn, num))
+    # table des trigrammes (passe floue en SQL) : mêmes champs que la version Python
+    tg = []
+    for r in db.execute("SELECT num, nom, signal, mot_cle, nom_court FROM skills"):
+        texte = norm(" ".join(str(x) for x in (r[1], r[2], r[3], r[4])))
+        seen = set()
+        for i in range(len(texte) - 2):
+            tri = texte[i:i+3]
+            if tri not in seen:
+                seen.add(tri)
+                tg.append((tri, r[0]))
+    db.executemany("INSERT OR IGNORE INTO trigrammes VALUES (?,?)", tg)
     db.commit()
     n = db.execute("SELECT COUNT(*) FROM skills").fetchone()[0]
     d = db.execute("SELECT COUNT(*) FROM domaines").fetchone()[0]
@@ -1401,6 +1417,42 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
 # ---------------------------------------------------------------------------
 # route : base -> candidates
 # ---------------------------------------------------------------------------
+
+def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
+                           vus=None):
+    """Passe floue par trigrammes en SQL (table `trigrammes` indexée).
+    Même contrat que proches_trigrammes : liste triée (ratio, nb, mot, row).
+    Repli sur la version Python si la table est absente (base ancienne)."""
+    req_tri = {t: {t[i:i + 3] for i in range(len(t) - 2)}
+               for t in qt if len(t) >= 5}
+    if not req_tri:
+        return []
+    if not db.execute("SELECT 1 FROM sqlite_master WHERE name='trigrammes'").fetchone():
+        return proches_trigrammes(db, qt, ratio_mini, vus)
+    best = {}
+    for t, tri in req_tri.items():
+        ph = ",".join("?" * len(tri))
+        for num, c in db.execute(
+                f"SELECT num, COUNT(*) FROM trigrammes WHERE trigramme IN ({ph}) "
+                f"GROUP BY num", tuple(tri)):
+            if vus and num in vus:
+                continue
+            ratio = c / len(tri)
+            if c >= 2 and ratio >= ratio_mini:
+                key = (num, t)
+                if key not in best or (ratio, c) > best[key]:
+                    best[key] = (ratio, c)
+    if not best:
+        return []
+    nums = sorted({num for num, _ in best})
+    ph = ",".join("?" * len(nums))
+    skills = {r["num"]: r for r in db.execute(
+        f"SELECT num, nom, domaine, signal, mot_cle, nom_court FROM skills "
+        f"WHERE num IN ({ph})", tuple(nums))}
+    out = [(ratio, c, t, skills[num]) for (num, t), (ratio, c) in best.items()]
+    out.sort(key=lambda x: (-x[0], -x[1]))
+    return out
+
 
 def proches_trigrammes(db: sqlite3.Connection, qt, ratio_mini=0.6,
                        vus=None):
@@ -1604,7 +1656,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     #     en dessous du seuil, les meilleurs recouvrements deviennent pistes
     if not res["exact"] and not res["fts"] and not res["vec"] and not res["pistes"]:
         pistes_vues = set()
-        for ratio, nb, t, r in proches_trigrammes(db, qt_forts, 0.65, vus):
+        for ratio, nb, t, r in proches_trigrammes_sql(db, qt_forts, 0.65, vus):
             mots = mots_de(r)
             uniques = set(qt_forts)
             n = sum(1 for t2 in uniques if mot_match_large(t2, mots))

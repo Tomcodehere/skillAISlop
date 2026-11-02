@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-02** — Passe floue trigrammes passée en SQL (table `trigrammes` WITHOUT ROWID, 54 304 entrées, indexée PK) : 16,3 → 1,8 ms, résultats identiques à la version Python (vérifié sur 5 requêtes), repli Python si table absente — route 7,8 → 7,6 ms (max 32 → 14 ms) · test ✅ 224/224 · IoT/zzz exit 2 · audit ✅ 799/799 · sonde 971/972 (0 partiel)
+
 - [x] **2026-11-02** — Optimisations du routeur : hoist de norm(query) + cache des mot_cle normalisés, k vec réduit à top, vec dim 256→128 (base 1,76→1,24 Mo), PRAGMA WAL + cache_size=-8000, VEC_PISTE relevé à 0.80 (zzz qwertyu repasse exit 2) — route 8,9→7,8 ms · build 0,23 s · test ✅ 224/224 · audit ✅ 799/799 · sonde 971/972 (0 partiel)
 
 - [x] **2026-11-02** — Améliorations SQLite : index secondaires (domaine, branche), tables meta+versions avec snapshot JSON et diff par build (`routage.py versions`), fts5vocab (`routage.py vocab`), analytics SQL des routages (`routage.py analytics`), PRAGMA optimize + VACUUM au build — build ✅ 800 skills · 783 synonymes · 800 vecteurs · test ✅ 224/224 · audit ✅ 799/799

@@ -37,6 +37,6 @@ type: "text/markdown"
 - [x] ~~k vec = top au lieu de top+vus~~ → fait
 - [x] ~~PRAGMA journal_mode=WAL + cache_size=-8000~~ → fait
 - [x] ~~VEC_PISTE 0.65 → 0.80 (anti-bruit : zzz repasse exit 2)~~ → fait
-- [ ] Passe trigrammes en C/SQL (ou index trigrammes) — 14,9 ms, dernier gros poste Python
+- [x] ~~Passe trigrammes en SQL (table trigrammes indexée, 54 k lignes)~~ → fait : 16,3 → 1,8 ms, résultats identiques à la version Python, repli auto si table absente
 - [ ] vec0 avec HNSW (index vectoriel approché) si le catalogue dépasse ~5 000 skills
 - [ ] WAL checkpoint périodique si la base est ouverte longtemps en session
