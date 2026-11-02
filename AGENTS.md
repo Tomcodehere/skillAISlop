@@ -24,24 +24,6 @@ Fichier d'instructions pour tout agent IA intervenant sur la **skillAISlop**, au
 - **À chaque ajout ou retrait de skill** : régénérer le compteur (`routage.py count`) et l'export JSON (`routage.py export`), et actualiser leurs canvases (« totalSkillsCount », « Export JSON — skillAISlop ») — la modification n'est pas terminée sinon.
 - Une modification n'est **pas terminée** tant que le script de conformité n'a pas confirmé la synchronisation (code de sortie 0).
 
-## Architecture du routeur SQL (2026-11-02)
-
-La base `outils/skills.db` (reconstruite par `routage.py build`, ignorée par git) contient :
-
-- `skills` (num, nom, domaine, signal, mot_cle, branche, nom_court) + index `idx_skills_domaine`, `idx_skills_branche` ;
-- `domaines`, `synonymes` (unicité par PK) ;
-- `skills_fts` — index full-text **FTS5** (unicode61) alimenté par triggers, bm25 pondéré (mot_cle > signal > nom_court > nom > domaine) ;
-- `skills_vec` — index vectoriel **sqlite-vec** (vec0, `distance_metric=cosine`, dim 128), embeddings 100 % locaux (`embed_hash` : hash bag-of-words sha256 normalisé, aucune dépendance externe) ; chargement avec **repli gracieux** si l'extension est absente (FTS5 seul) ;
-- `trigrammes` — table `WITHOUT ROWID` PK (trigramme, num), ~54 k entrées, passe floue (fautes de frappe) en SQL (`proches_trigrammes_sql`, repli sur la version Python si table absente) ;
-- `skills_fts_vocab` — fts5vocab pour introspection du vocabulaire (`routage.py vocab`) ;
-- `meta` (snapshot JSON du catalogue) + `versions` (historique des builds : ajouts/supprimes/modifiés en JSON, lu par `routage.py versions`) ;
-- `routes` / `non_routees` — journal de session (observabilité : `routage.py stats`, `routage.py analytics`, `routage.py misses`) ;
-- `PRAGMA journal_mode=WAL`, `cache_size=-8000`, puis `PRAGMA optimize` + `VACUUM` en fin de build.
-
-**Cascade de `route`** : renvoi direct « skill N » → mot-clé canonique → synonyme → FTS5 → **sqlite-vec** (cosinus ≥ `VEC_SEUIL` 0,80 ; meilleure candidate ≥ `VEC_PISTE` 0,80 devient piste) → trigrammes SQL (fautes de frappe) → domaines plausibles. Chaque candidate porte sa **voie** et son **score**. Interprétation des exit codes : **0** = prendre la première candidate (voie la plus forte) et l'annoncer, **1** = piste/domaine à confirmer via la carte des domaines, **2** = consulter `misses --suggest` avant de répondre en direct (ajouter un synonyme si récurrent, R6).
-
-Nouvelles sous-commandes : `vocab [--limit N]`, `versions`, `analytics`, `sonde [--fichier R.md]`.
-
 ## Concision des sorties (R9)
 
 - Rapports d'audit compacts par défaut : verdict en une ligne, seules les non-conformités détaillées (`--verbose` pour la table complète).
@@ -62,7 +44,7 @@ Nouvelles sous-commandes : `vocab [--limit N]`, `versions`, `analytics`, `sonde 
 
 - Vérifier d'abord le **zéro doublon** (R6) : noms, signaux de routage, périmètre — l'emoji doit être pertinent, sa réutilisation entre skills est permise. Si le besoin est couvert, **enrichir la skill existante** plutôt que créer ; consigner les candidats écartés.
 - Rédiger la skill selon le template officiel, à l'identique : mêmes sections, même ordre, mêmes libellés.
-- Brancher le routage complet (R3) : une ligne dans le **sommaire** (`| N | Nom | Domaine |`), une ligne dans la **table de routage** de la skill 0 (`| signal | N | Domaine |`, dans le bloc du domaine concerné, la table étant regroupée par domaine), une entrée dans l'**arbre de décision** (branche D1-D30 adaptée), et une branche dans la **vue d'ensemble** si nouvelle famille. Voie outillée recommandée : insérer la ligne dans `skills.db` (table `skills` : num, nom, domaine, signal, mot_cle, branche, nom_court — unicité R6 à vérifier d'abord), lancer `routage.py generate` (script du canvas « routage-sql-skills ») qui régénère sommaire, carte, index, table et arbre, puis ajouter la section de la skill (corps R2) dans le canvas corpus couvrant son numéro avant de repasser l'audit. Un faux négatif de routage (`routage.py route` → exit 2) se corrige en ajoutant un synonyme dans la liste SYNONYMES du canvas « routage-sql-skills », suivi de `routage.py build` ; la cascade interne est direct → mot-clé → synonyme → FTS5 → sqlite-vec (cosinus ≥ 0,80) → trigrammes SQL (fautes de frappe) → domaines ; chaque sortie `route` porte la voie et le score de chaque candidate, et il faut les interpréter : exit 0 = prendre la première candidate (voie la plus forte), exit 1 = piste/domaine à confirmer via la carte, exit 2 = consulter `misses --suggest` avant de répondre en direct. Les exit 2 sont consignés automatiquement au journal (`routage.py misses`, tri par récurrence — `--clear` pour vider) et, sur exit 2, le routeur affiche des pistes approx en clair ; `routage.py misses --suggest` rédige pour chaque entrée la ligne de synonyme proposée (meilleur recouvrement de trigrammes) — à valider avant intégration (R6 : le synonyme doit être pertinent, pas seulement proche). Après toute modification du routeur, des synonymes ou du catalogue, repasser `routage.py lint` (qualité des synonymes et tests) puis `routage.py test` (non-régression : demandes → skill attendue, corpus TESTS_ROUTAGE dans le même canvas) ; `routage.py stats` donne l'observabilité du routage de la session et `routage.py bench` re-mesure les gains après chaque évolution du routeur.
+- Brancher le routage complet (R3) : une ligne dans le **sommaire** (`| N | Nom | Domaine |`), une ligne dans la **table de routage** de la skill 0 (`| signal | N | Domaine |`, dans le bloc du domaine concerné, la table étant regroupée par domaine), une entrée dans l'**arbre de décision** (branche D1-D30 adaptée), et une branche dans la **vue d'ensemble** si nouvelle famille. Voie outillée recommandée : insérer la ligne dans `skills.db` (table `skills` : num, nom, domaine, signal, mot_cle, branche, nom_court — unicité R6 à vérifier d'abord), lancer `routage.py generate` (script du canvas « routage-sql-skills ») qui régénère sommaire, carte, index, table et arbre, puis ajouter la section de la skill (corps R2) dans le canvas corpus couvrant son numéro avant de repasser l'audit. Un faux négatif de routage (`routage.py route` → exit 2) se corrige en ajoutant un synonyme dans la liste SYNONYMES du canvas « routage-sql-skills », suivi de `routage.py build` Les exit 2 sont consignés automatiquement au journal (`routage.py misses`, tri par récurrence — `--clear` pour vider) et, sur exit 2, le routeur affiche des pistes approx en clair ; `routage.py misses --suggest` rédige pour chaque entrée la ligne de synonyme proposée (meilleur recouvrement de trigrammes) — à valider avant intégration (R6 : le synonyme doit être pertinent, pas seulement proche). Après toute modification du routeur, des synonymes ou du catalogue, repasser `routage.py lint` (qualité des synonymes et tests) puis `routage.py test` (non-régression : demandes → skill attendue, corpus TESTS_ROUTAGE dans le même canvas) ; `routage.py stats` donne l'observabilité du routage de la session et `routage.py bench` re-mesure les gains après chaque évolution du routeur.
 - Ajouter au moins une cross-référence vers une skill complémentaire (R4).
 - **Régénérer le compteur** (`routage.py count`) **et l'export JSON** (`routage.py export`), puis actualiser leurs canvases — **obligatoire à chaque ajout ou suppression de skill**.
 - Mettre à jour l'index du document si une nouvelle section `##` apparaît (R1).
@@ -91,12 +73,15 @@ Nouvelles sous-commandes : `vocab [--limit N]`, `versions`, `analytics`, `sonde 
 - Section « Sources d'inspiration » du catalogue — vagues 1 à 4 et sources web liées
 ## Layout du dépôt (import Vibe Code)
 
+> **Règle** : toute ligne ajoutée à ce fichier va dans cette section (documentation d'installation), jamais ailleurs.
+
 Ce dépôt est l'export du projet skillAISlop depuis Vibe Work ; le canvas principal y est éclaté en fichiers :
 
 - `skills/` — **une skill = un fichier** (`NNN-slug.md`, frontmatter YAML : num, nom, emoji, domaine, signal, mot_cle, nom_court, branche, synonymes, cross_refs + corps intégral) ;
 - `catalogue/` — sommaire, règles (R1-R11), template, guide d'utilisation, sources, vue d'ensemble ;
 - `canvas/` — copies verbatim des 4 canvases Work (provenance ; ce sont les sources des scripts) ;
-- `outils/routage.py` — routeur SQL hybride (build, route, generate, export, count, lint, test, misses, stats, bench, sonde, vocab, versions, analytics), chemins relatifs au dépôt ;
+- `outils/routage.py` — routeur SQL hybride (build, route, generate, export, count, lint, test, misses, stats, bench, sonde, vocab, versions, analytics), chemins relatifs au dépôt. La base `skills.db` (reconstruite par `build`, ignorée par git) embarque : `skills` (+ index `domaine`/`branche`), `domaines`, `synonymes`, `skills_fts` (FTS5 + triggers, bm25 pondéré), `skills_vec` (sqlite-vec vec0, cosinus, dim 128, embeddings locaux `embed_hash` sans dépendance externe, repli gracieux si l'extension est absente), `trigrammes` (WITHOUT ROWID, passe floue en SQL), `skills_fts_vocab`, `meta`/`versions` (snapshot JSON + diff par build), `routes`/`non_routees` (journal de session). Pragmas : WAL, cache_size=-8000, optimize + VACUUM en fin de build. Dépendance CI : `pip install sqlite-vec`.
+  - **Cascade de `route`** : direct « skill N » → mot-clé → synonyme → FTS5 → sqlite-vec (cosinus ≥ 0,80) → trigrammes SQL → domaines. Chaque candidate porte sa **voie** et son **score** ; exit 0 = prendre la première candidate (voie la plus forte), exit 1 = piste/domaine à confirmer, exit 2 = consulter `misses --suggest` avant de répondre en direct.
 - `.github/workflows/ci.yml` — CI sur chaque PR (build, generate --check, lint, test, audit, sonde, compteur, vocab, versions) ;
 - `outils/audit_conformite.py` — audit R1-R8 multi-fichiers (`python3 outils/audit_conformite.py canvas/*.md`) ;
 - `data/` — export JSON compact et complet, compteur de skills.
