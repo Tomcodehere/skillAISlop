@@ -1387,6 +1387,34 @@ RE_ITEM_ARBRE = re.compile(r"(\d+) ([^·\]]+?)\s*$")
 RE_KNODE = re.compile(r"K\d+\[Skill (\d+)\]")
 
 
+def extraire_frontmatter(dossier_skills: Path):
+    """Reconstruit sommaire/signaux/mot_cles/branches/noms_courts/cartes depuis
+    skills/*.md (frontmatter YAML) — source de vérité autonome du canvas."""
+    import re as _re
+    sommaire, signaux, mot_cles, branches, noms_courts = {}, {}, {}, {}, {}
+    syns_par_num = {}
+    cartes = {}
+    for f in sorted(dossier_skills.glob("*.md")):
+        txt = f.read_text(encoding="utf-8")
+        m = _re.match(r"---\n(.*?)\n---\n", txt, _re.S)
+        assert m, f"{f.name} : pas de frontmatter"
+        fm = m.group(1)
+        g = lambda k: _re.search(rf'^{k}: "(.*)"$', fm, _re.M).group(1)
+        num = int(_re.search(r"^num: (\d+)$", fm, _re.M).group(1))
+        nom, dom = g("nom"), g("domaine")
+        sommaire[num] = [nom, dom]
+        signaux[num] = g("signal")
+        mot_cles[num] = g("mot_cle")
+        noms_courts[num] = g("nom_court")
+        branches[num] = g("branche")
+        syns_par_num[num] = _re.search(r'^synonymes: \[(.*)\]$', fm, _re.M).group(1)
+        syns_par_num[num] = [s.strip().strip('"') for s in syns_par_num[num].split(",") if s.strip()]
+        cartes.setdefault(dom, []).append(g("mot_cle"))
+    # carte des domaines = mots-clés déclencheurs (on prend les 5 premiers mots-clés du domaine)
+    carte = [(dom, ", ".join(mcs[:5])) for dom, mcs in sorted(cartes.items())]
+    return sommaire, signaux, mot_cles, branches, noms_courts, carte, syns_par_num
+
+
 def extraire(canvas: str):
     sommaire = {}
     for num, nom, dom in RE_SOMMAIRE.findall(canvas):
@@ -1487,9 +1515,15 @@ def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
     return struct.pack(f"{dim}f", *(x / n for x in v))
 
 
-def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
-    sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(
-        chemin.read_text(encoding="utf-8"))
+def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) -> None:
+    if from_skills:
+        sommaire, signaux, mot_cles, branches, noms_courts, cartes, syns_par_num = \
+            extraire_frontmatter(RACINE / "skills")
+        SYN_A_UTILISER = syns_par_num
+    else:
+        sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(
+            chemin.read_text(encoding="utf-8"))
+        SYN_A_UTILISER = {n: [s for s, num in SYNONYMES if num == n] for n in set(num for _, num in SYNONYMES)}
     old_snapshot = None
     if db_path.exists():
         try:
@@ -1592,9 +1626,10 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH) -> None:
             db.execute("INSERT INTO skills_vec(num, embedding) VALUES (?,?)",
                        (num, embed_hash(" ".join(x for x in (nom, sig, mc, nc, dom) if x))))
     connus = {n for (n,) in db.execute("SELECT num FROM skills")}
-    for syn, num in SYNONYMES:
-        assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
-        db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?)", (syn, num))
+    for num, syns in SYN_A_UTILISER.items():
+        for syn in syns:
+            assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
+            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?)", (syn, num))
     # table des trigrammes (passe floue en SQL) : mêmes champs que la version Python
     tg = []
     for r in db.execute("SELECT num, nom, signal, mot_cle, nom_court FROM skills"):
@@ -2609,8 +2644,10 @@ def main():
     ap = argparse.ArgumentParser(description="Routage SQL — skillAISlop")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
-    p_build = sub.add_parser("build", help="canvas -> skills.db")
+    p_build = sub.add_parser("build", help="canvas -> skills.db (ou --from-skills pour lire skills/*.md)")
     p_build.add_argument("canvas", nargs="?", type=Path, default=CANVAS_PAR_DEFAUT)
+    p_build.add_argument("--from-skills", action="store_true",
+                         help="reconstruit depuis skills/*.md (frontmatter) au lieu du canvas")
 
     p_route = sub.add_parser("route", help="recherche rapide d'une skill")
     p_route.add_argument("query")
@@ -2662,7 +2699,7 @@ def main():
 
     args = ap.parse_args()
     if args.cmd == "build":
-        cmd_build(args.canvas)
+        cmd_build(args.canvas, from_skills=args.from_skills)
     elif args.cmd == "route":
         raise SystemExit(cmd_route(args.query, args.top, args.json))
     elif args.cmd == "generate":
