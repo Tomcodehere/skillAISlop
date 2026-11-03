@@ -1,12 +1,12 @@
 {
   "catalogue": "skillAISlop",
-  "genere_le": "2026-11-02",
+  "genere_le": "2026-11-03",
   "mode": "compact",
   "stats": {
-    "sections": 800,
+    "sections": 900,
     "domaines": 28,
-    "synonymes": 774,
-    "tests_routage": 224
+    "synonymes": 813,
+    "tests_routage": 449
   },
   "domaines": [
     {
@@ -133,7 +133,9 @@
       "nom_court": null,
       "branche_arbre": null,
       "cross_refs": [],
-      "synonymes": [],
+      "synonymes": [
+        "dispatcher"
+      ],
       "fichier": "principal"
     },
     {
@@ -373,6 +375,7 @@
         27
       ],
       "synonymes": [
+        "decks",
         "powerpoint",
         "presentation",
         "slides"
@@ -781,7 +784,9 @@
       "cross_refs": [
         11
       ],
-      "synonymes": [],
+      "synonymes": [
+        "tutorat"
+      ],
       "fichier": "canvas"
     },
     {
@@ -4592,7 +4597,10 @@
         97,
         98
       ],
-      "synonymes": [],
+      "synonymes": [
+        "arbitrer",
+        "trancher"
+      ],
       "fichier": "canvas"
     },
     {
@@ -6770,7 +6778,12 @@
         34,
         362
       ],
-      "synonymes": [],
+      "synonymes": [
+        "adapter son ton",
+        "changer de ton",
+        "ton d'équipe",
+        "ton de communication"
+      ],
       "fichier": "canvas"
     },
     {
@@ -14038,6 +14051,1653 @@
         "lancer une appli",
         "plan de lancement"
       ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 800,
+      "emoji": "🤖",
+      "nom": "Délégation à un agent personnel (Muse, Dots…)",
+      "domaine": "Personnel",
+      "signal_routage": "Déléguer une tâche à un agent IA personnel (Muse, Dots, Duet), courses, réservations, formulaires, achats en ligne",
+      "mot_cle_index": "agent personnel",
+      "nom_court": "Agent personnel",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        701,
+        704
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 801,
+      "emoji": "🔐",
+      "nom": "Gouvernance des permissions d'agents IA",
+      "domaine": "Sécurité",
+      "signal_routage": "Permissions d'un agent IA, scopes, approbation humaine, audit trail des actions d'agent, déléguer sans risque",
+      "mot_cle_index": "permissions agent",
+      "nom_court": "Permissions agent",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        716,
+        800
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 802,
+      "emoji": "🧠",
+      "nom": "Mémoire persistante avancée (claude-mem)",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Mémoire persistante d'agent (claude-mem, ChromaDB + SQLite), mémoire longue durée qui apprend de chaque session",
+      "mot_cle_index": "mémoire persistante agent",
+      "nom_court": "Mémoire persistante",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        260,
+        714
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 803,
+      "emoji": "🌐",
+      "nom": "Navigateur agentique (WebMCP, lightpanda)",
+      "domaine": "Développement",
+      "signal_routage": "Navigateur pour agent IA, WebMCP, lightpanda, agent-browser, automation web headless par agent",
+      "mot_cle_index": "navigateur agentique",
+      "nom_court": "Navigateur agentique",
+      "branche_arbre": "D16",
+      "cross_refs": [
+        252,
+        544
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 804,
+      "emoji": "🎮",
+      "nom": "Studio de création IA (jeu, film, vidéo)",
+      "domaine": "Créativité",
+      "signal_routage": "Studio de jeu vidéo avec agents IA (Claude-Code-Game-Studios), studio IA film, production automatisée de contenu",
+      "mot_cle_index": "studio ia",
+      "nom_court": "Studio IA",
+      "branche_arbre": "D19",
+      "cross_refs": [
+        524,
+        717
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 805,
+      "emoji": "🎨",
+      "nom": "Anti-« IA slop » : design qui ne fait pas IA",
+      "domaine": "Design",
+      "signal_routage": "Éviter le look généré par IA, Hallmark 48 thèmes design, site qui ne ressemble pas à l'IA, design humain 2026",
+      "mot_cle_index": "anti ia slop",
+      "nom_court": "Anti-IA slop",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        449,
+        686
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 806,
+      "emoji": "🚨",
+      "nom": "Détecteur de bullshit (bullshit-detector)",
+      "domaine": "Recherche",
+      "signal_routage": "Détecter du bullshit, vérifier des claims d'un média/PDF, fact-checker automatiquement, score de crédibilité",
+      "mot_cle_index": "détecteur de bullshit",
+      "nom_court": "Bullshit detector",
+      "branche_arbre": "D17",
+      "cross_refs": [
+        700,
+        708
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 807,
+      "emoji": "🔍",
+      "nom": "Audit de session d'agent de code",
+      "domaine": "Data & IA",
+      "signal_routage": "Auditer une session d'agent de code, agenttrace, coût, échecs, latence, diffs, revue de ce qu'un agent a fait",
+      "mot_cle_index": "audit session agent",
+      "nom_court": "Audit session",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        694,
+        713
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 808,
+      "emoji": "🎙️",
+      "nom": "Agent vocal (voice agent) & voix locale",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Agent vocal IA, voicebox, clonage de voix local, assistant vocal custom, IVR vocal 2026",
+      "mot_cle_index": "agent vocal",
+      "nom_court": "Agent vocal",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        154,
+        288
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 809,
+      "emoji": "🎤",
+      "nom": "Codage vocal (voice coding, DevDay 2026)",
+      "domaine": "Développement",
+      "signal_routage": "Coder à la voix, voice coding, piloter Codex/agent en parlant, dictée de code, /agents vocal",
+      "mot_cle_index": "codage vocal",
+      "nom_court": "Voice coding",
+      "branche_arbre": "D1",
+      "cross_refs": [
+        76,
+        471
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 810,
+      "emoji": "🧭",
+      "nom": "Choisir son agent personnel 2026 (Muse, Dots, Duet)",
+      "domaine": "Personnel",
+      "signal_routage": "Quel agent IA personnel choisir en 2026, Muse vs Dots vs Duet vs Manus, comparatif agents personnels",
+      "mot_cle_index": "choisir son agent personnel",
+      "nom_court": "Choisir agent perso",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        688,
+        800
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 811,
+      "emoji": "📜",
+      "nom": "Loi de finances 2026 : changements clés",
+      "domaine": "Finance",
+      "signal_routage": "Loi de finances 2026, changements fiscaux 2026, loi 2026-103, CDHR, PER, prélèvements sociaux 18,6 %",
+      "mot_cle_index": "loi de finances 2026",
+      "nom_court": "LF 2026",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        297,
+        639,
+        2026
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 812,
+      "emoji": "🧮",
+      "nom": "Optimisation fiscale légale 2026",
+      "domaine": "Finance",
+      "signal_routage": "Optimiser ses impôts légalement en 2026, niches fiscales, PER, LMNP, donations 100 000 €, PEA, assurance-vie",
+      "mot_cle_index": "optimisation fiscale",
+      "nom_court": "Optimisation fiscale",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        681,
+        811
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 813,
+      "emoji": "🌙",
+      "nom": "Digital detox & sommeil-écrans",
+      "domaine": "Personnel",
+      "signal_routage": "Digital detox, réduire son temps d'écran, sommeil et écrans, lumière bleue, routine du soir sans écran",
+      "mot_cle_index": "digital detox",
+      "nom_court": "Digital detox",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        483,
+        621
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 814,
+      "emoji": "⏰",
+      "nom": "Régularité du sommeil (circadien)",
+      "domaine": "Personnel",
+      "signal_routage": "Régularité des horaires de sommeil, rythme circadien, se coucher et se lever à heure fixe, régularité > durée",
+      "mot_cle_index": "régularité du sommeil",
+      "nom_court": "Régularité sommeil",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        483,
+        813
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 815,
+      "emoji": "🎓",
+      "nom": "AI literacy : comprendre ce que l'IA fait et ne fait pas",
+      "domaine": "Apprentissage",
+      "signal_routage": "AI literacy, comprendre l'IA, quand faire confiance à un LLM, limites des modèles, hallucinations, biais",
+      "mot_cle_index": "ai literacy",
+      "nom_court": "AI literacy",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        336,
+        700
+      ],
+      "synonymes": [
+        "apprendre l'ai literacy pour mon équipe"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 816,
+      "emoji": "📊",
+      "nom": "Data literacy : lire les chiffres sans se faire avoir",
+      "domaine": "Apprentissage",
+      "signal_routage": "Data literacy, lire un graphique, détecter une stat bidon, corrélation vs causalité, moyenne vs médiane",
+      "mot_cle_index": "data literacy",
+      "nom_court": "Data literacy",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        547,
+        806
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 817,
+      "emoji": "💬",
+      "nom": "Prompt engineering itératif (dialogue, pas one-shot)",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Prompt engineering 2026, dialogue itératif avec l'IA, affiner un prompt, itérer plutôt que one-shot",
+      "mot_cle_index": "prompt itératif",
+      "nom_court": "Prompt itératif",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        338,
+        737
+      ],
+      "synonymes": [
+        "affiner un prompt par dialogue itératif"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 818,
+      "emoji": "🕸️",
+      "nom": "Sécurité des agents : injection via le web",
+      "domaine": "Sécurité",
+      "signal_routage": "Prompt injection indirecte, page web malveillante qui pirate un agent, agent qui lit le web, sécurité agent navigateur",
+      "mot_cle_index": "prompt injection web",
+      "nom_court": "Injection web",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        692,
+        803
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 819,
+      "emoji": "🛡️",
+      "nom": "Guardrails & evals live en production",
+      "domaine": "Data & IA",
+      "signal_routage": "Guardrails en production, évaluer un agent en live, monitoring qualité agent, détection de dérive en prod",
+      "mot_cle_index": "guardrails production",
+      "nom_court": "Guardrails",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        693,
+        713
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 820,
+      "emoji": "🏢",
+      "nom": "Équipe d'agents (« agent-as-organization »)",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Équipe d'agents IA, organisation d'agents spécialisés, Claude-Code-Game-Studios, coordination multi-agents 2026",
+      "mot_cle_index": "équipe d'agents",
+      "nom_court": "Équipe d'agents",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        259,
+        712
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 821,
+      "emoji": "👀",
+      "nom": "Revue de PR automatisée par agent",
+      "domaine": "Développement",
+      "signal_routage": "Revue de PR par agent IA, CodeRabbit, GitHub Agent HQ, revue de code automatique, commentaire de PR auto",
+      "mot_cle_index": "revue de pr auto",
+      "nom_court": "PR review auto",
+      "branche_arbre": "D12",
+      "cross_refs": [
+        10,
+        68
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 822,
+      "emoji": "🧪",
+      "nom": "Génération de tests depuis la doc (doc-to-test)",
+      "domaine": "Développement",
+      "signal_routage": "Générer des tests depuis la documentation API, doc-to-test, tests auto depuis un PDF de spec",
+      "mot_cle_index": "tests depuis la doc",
+      "nom_court": "Doc-to-test",
+      "branche_arbre": "D12",
+      "cross_refs": [
+        302,
+        543
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 823,
+      "emoji": "✨",
+      "nom": "UX adaptative par agent (agentic UI)",
+      "domaine": "Produit",
+      "signal_routage": "UX personnalisée par agent IA, interface qui s'adapte à l'utilisateur, agentic UI, personnalisation in-app",
+      "mot_cle_index": "ux adaptative",
+      "nom_court": "UX adaptative",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        300,
+        735
+      ],
+      "synonymes": [
+        "rendre mon interface adaptative au niveau utilisateur"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 824,
+      "emoji": "📧",
+      "nom": "Fraude au président (BEC) & virements",
+      "domaine": "Sécurité",
+      "signal_routage": "Fraude au président, BEC, business email compromise, usurpation d'email dirigeant, virement frauduleux",
+      "mot_cle_index": "fraude au président",
+      "nom_court": "BEC",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        757,
+        758
+      ],
+      "synonymes": [
+        "mail du dg en déplacement demandant un virement urgent"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 825,
+      "emoji": "🏷️",
+      "nom": "Négociation de facture / réduction de prix",
+      "domaine": "Vente",
+      "signal_routage": "Négocier une facture, obtenir une remise, demander un geste commercial, réduire un abonnement annuel",
+      "mot_cle_index": "négocier une facture",
+      "nom_court": "Négocier facture",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        230,
+        742
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 826,
+      "emoji": "🏠",
+      "nom": "Vente d'un bien immobilier",
+      "domaine": "Finance",
+      "signal_routage": "Vendre sa maison, négocier le prix de vente, estimation immobilière, mandat d'agence, contre-offre acheteur",
+      "mot_cle_index": "vendre son bien",
+      "nom_court": "Vendre son bien",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        45,
+        675
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 827,
+      "emoji": "🔑",
+      "nom": "Impayé de loyer (propriétaire)",
+      "domaine": "Juridique",
+      "signal_routage": "Locataire qui ne paie pas, impayé de loyer, commandement de payer, garantie Visale, assurance loyer impayé",
+      "mot_cle_index": "impayé de loyer",
+      "nom_court": "Impayé loyer",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        371,
+        554
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 828,
+      "emoji": "🏘️",
+      "nom": "Contrat de colocation & règlement",
+      "domaine": "Juridique",
+      "signal_routage": "Rédiger un contrat de colocation, règlement intérieur coloc, répartition des charges, caution solidaire, départ d'un colocataire",
+      "mot_cle_index": "contrat de colocation",
+      "nom_court": "Colocation",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        592,
+        676
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 829,
+      "emoji": "✉️",
+      "nom": "Démission & départ volontaire",
+      "domaine": "Carrière",
+      "signal_routage": "Rédiger sa lettre de démission, démissionner proprement, préavis, solde de tout compte, certificat de travail",
+      "mot_cle_index": "démissionner",
+      "nom_court": "Démission",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        634,
+        789
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 830,
+      "emoji": "💼",
+      "nom": "Chômage & droits France Travail",
+      "domaine": "Juridique",
+      "signal_routage": "S'inscrire à France Travail, toucher le chômage, ARE, calcul indemnisation, cumul emploi chômage, rupture conventionnelle",
+      "mot_cle_index": "chômage",
+      "nom_court": "Chômage",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        634,
+        829
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 831,
+      "emoji": "💻",
+      "nom": "TJM & rentabilité freelance",
+      "domaine": "Gestion",
+      "signal_routage": "Devenir freelance, calculer son TJM, tarif journalier, charges freelance 2026, rentabilité mission, seuil TVA",
+      "mot_cle_index": "tjm freelance",
+      "nom_court": "TJM",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        599,
+        668
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 832,
+      "emoji": "💌",
+      "nom": "Recouvrement amiable d'impayé",
+      "domaine": "Vente",
+      "signal_routage": "Relancer un client qui ne paie pas, relance amiable avant mise en demeure, échelonnement proposé",
+      "mot_cle_index": "relance amiable",
+      "nom_court": "Relance amiable",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        706,
+        779
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 833,
+      "emoji": "🏦",
+      "nom": "Délégation d'assurance emprunteur (loi Lemoine)",
+      "domaine": "Finance",
+      "signal_routage": "Changer d'assurance emprunteur, délégation d'assurance crédit immobilier, loi Lemoine, comparer les garanties",
+      "mot_cle_index": "assurance emprunteur",
+      "nom_court": "Assurance emprunteur",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        298,
+        683
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 834,
+      "emoji": "💸",
+      "nom": "Remboursement anticipé / rachat de crédit",
+      "domaine": "Finance",
+      "signal_routage": "Rembourser son crédit par anticipation, IRA, renégocier son taux, rachat de crédit, calcul du gain réel",
+      "mot_cle_index": "remboursement anticipé",
+      "nom_court": "Remb. anticipé",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        298,
+        833
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 835,
+      "emoji": "📈",
+      "nom": "Arbitrages d'assurance-vie",
+      "domaine": "Finance",
+      "signal_routage": "Optimiser son assurance vie, arbitrage fonds euros vs unités de compte, rachat partiel, abattement 4 600 €/9 200 € après 8 ans",
+      "mot_cle_index": "arbitrage assurance vie",
+      "nom_court": "Arbitrage AV",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        681,
+        812
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 836,
+      "emoji": "🏢",
+      "nom": "SCPI & pierre papier",
+      "domaine": "Finance",
+      "signal_routage": "Investir en SCPI, SCPI de rendement, SCPI fiscale, pierre papier, rendement SCPI 2026, SCPI en assurance-vie",
+      "mot_cle_index": "scpi",
+      "nom_court": "SCPI",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        519,
+        835
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 837,
+      "emoji": "👨‍👩‍👧",
+      "nom": "Donation-partage & succession anticipée",
+      "domaine": "Juridique",
+      "signal_routage": "Préparer sa succession, donation-partage, abattement 100 000 € renouvelable, démembrement usufruit nue-propriété, assurance-vie bénéficiaire",
+      "mot_cle_index": "préparer sa succession",
+      "nom_court": "Succession préparée",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        651,
+        812
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 838,
+      "emoji": "🗑️",
+      "nom": "Droit à l'oubli & déréférencement",
+      "domaine": "Juridique",
+      "signal_routage": "Droit à l'oubli, effacer ses données en ligne, déréférencement Google, supprimer un compte, nettoyer sa e-réputation",
+      "mot_cle_index": "droit à l'oubli",
+      "nom_court": "Droit à l'oubli",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        189,
+        695
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 839,
+      "emoji": "🎯",
+      "nom": "Spear phishing & signalement",
+      "domaine": "Sécurité",
+      "signal_routage": "Spear phishing, mail ciblé avec mes vraies infos, signalement phishing, 33700, Pharos, banque",
+      "mot_cle_index": "spear phishing",
+      "nom_court": "Spear phishing",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        685,
+        757
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 840,
+      "emoji": "🎭",
+      "nom": "Deepfakes & usurpation vidéo",
+      "domaine": "Sécurité",
+      "signal_routage": "Deepfake, vidéo truquée, usurpation d'identité par IA, reconnaître un deepfake, appel vidéo frauduleux",
+      "mot_cle_index": "deepfake",
+      "nom_court": "Deepfake",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        561,
+        824
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 841,
+      "emoji": "☁️",
+      "nom": "Sauvegarde cloud chiffrée & synchro",
+      "domaine": "Sécurité",
+      "signal_routage": "Sauvegarder sur le cloud, sync téléphone/PC, Nextcloud/Proton chiffré, 2FA cloud, récupération de compte",
+      "mot_cle_index": "sauvegarde cloud",
+      "nom_court": "Backup cloud",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        665,
+        755
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 842,
+      "emoji": "🕵️",
+      "nom": "Vérifier un influenceur avant achat",
+      "domaine": "Recherche",
+      "signal_routage": "Vérifier si un influenceur est fiable, avis sponsorisé caché, arnaque influenceur, acheter chez un influenceur en sécurité",
+      "mot_cle_index": "vérifier un influenceur",
+      "nom_court": "Vérif influenceur",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        647,
+        709
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 843,
+      "emoji": "📋",
+      "nom": "Préparation d'un audit interne",
+      "domaine": "Gestion",
+      "signal_routage": "Préparer un audit interne, audit qualité ISO, audit sécurité, check-list audit, preuves avant audit externe",
+      "mot_cle_index": "préparer un audit",
+      "nom_court": "Audit interne",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        243,
+        614
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 844,
+      "emoji": "⚖️",
+      "nom": "Matrice de décision multicritères",
+      "domaine": "Décision",
+      "signal_routage": "Prendre une décision multicritères, pondérer des critères, matrice de décision, comparer des options objectivement",
+      "mot_cle_index": "matrice de décision",
+      "nom_court": "Matrice décision",
+      "branche_arbre": "D10",
+      "cross_refs": [
+        61,
+        266
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 845,
+      "emoji": "📐",
+      "nom": "Rédaction de cahier des charges",
+      "domaine": "Produit",
+      "signal_routage": "Rédiger un cahier des charges, CDC projet, expression de besoin, spécifications fonctionnelles, recette",
+      "mot_cle_index": "cahier des charges",
+      "nom_court": "CDC",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        63,
+        605
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 846,
+      "emoji": "🔄",
+      "nom": "Rétrospective blameless",
+      "domaine": "Gestion",
+      "signal_routage": "Faire une rétrospective d'équipe, rétro agile, post-mortem sans blâme, actions concrètes avec responsables",
+      "mot_cle_index": "rétrospective équipe",
+      "nom_court": "Rétro",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        60,
+        73
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 847,
+      "emoji": "🎯",
+      "nom": "Matrice RACI & rôles clairs",
+      "domaine": "Gestion",
+      "signal_routage": "Matrice RACI, qui est responsable de quoi, clarifier les rôles dans un projet, éviter les zones grises",
+      "mot_cle_index": "matrice raci",
+      "nom_court": "RACI",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        434,
+        761
+      ],
+      "synonymes": [
+        "clarifier les rôles d'un projet avec raci"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 848,
+      "emoji": "⚖️",
+      "nom": "Conflits d'intérêts & lanceur d'alerte",
+      "domaine": "Juridique",
+      "signal_routage": "Conflit d'intérêts en entreprise, cadeaux fournisseurs, déclaration d'intérêt, lanceur d'alerte, Sapin 2",
+      "mot_cle_index": "conflit d'intérêts",
+      "nom_court": "Conflit d'intérêts",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        191,
+        637
+      ],
+      "synonymes": [
+        "mon frère répond à notre appel d'offres, conflit d'intérêts"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 849,
+      "emoji": "🎥",
+      "nom": "Visio pro à fort enjeu (vente, entretien)",
+      "domaine": "Communication",
+      "signal_routage": "Préparer une visio importante, test technique, fond, éclairage, regard caméra, prise de parole en visio",
+      "mot_cle_index": "préparer une visio",
+      "nom_court": "Visio pro",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        702,
+        760
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 850,
+      "emoji": "📮",
+      "nom": "Lettre de réclamation client (SAV)",
+      "domaine": "Vente",
+      "signal_routage": "Rédiger une réclamation client, lettre de réclamation, SAV, droit de rétractation, médiation consommateur",
+      "mot_cle_index": "réclamation client",
+      "nom_court": "Réclamation",
+      "branche_arbre": "D9",
+      "cross_refs": [
+        648,
+        796
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 851,
+      "emoji": "🛒",
+      "nom": "Achat en ligne sécurisé (marketplace)",
+      "domaine": "Personnel",
+      "signal_routage": "Acheter en ligne en sécurité, marketplace (Leboncoin, Vinted, eBay), arnaque marketplace, paiement sécurisé entre particuliers",
+      "mot_cle_index": "achat en ligne sécurisé",
+      "nom_court": "Achat en ligne",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        758,
+        842
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 852,
+      "emoji": "📑",
+      "nom": "Préparation d'un appel d'offres (AAP)",
+      "domaine": "Vente",
+      "signal_routage": "Répondre à un appel d'offres public (AAP), dossier de candidature, mémoire technique, note méthodologique",
+      "mot_cle_index": "appel d'offres",
+      "nom_court": "AAP",
+      "branche_arbre": "D21",
+      "cross_refs": [
+        168,
+        780
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 853,
+      "emoji": "🔍",
+      "nom": "Lecture de contrat : points de vigilance",
+      "domaine": "Juridique",
+      "signal_routage": "Lire un contrat avant de signer, clauses abusives, ce qu'il faut vérifier dans un contrat, pièges contractuels",
+      "mot_cle_index": "lire un contrat",
+      "nom_court": "Lire un contrat",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        281,
+        750
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 854,
+      "emoji": "🏖️",
+      "nom": "Location saisonnière & saisonnier",
+      "domaine": "Juridique",
+      "signal_routage": "Louer en saisonnier (Airbnb, saison), contrat de location saisonnière, dépôt de garantie, état des lieux, arnaque location vacances",
+      "mot_cle_index": "location saisonnière",
+      "nom_court": "Location saisonnière",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        676,
+        851
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 855,
+      "emoji": "⚖️",
+      "nom": "Défense du consommateur (litiges)",
+      "domaine": "Juridique",
+      "signal_routage": "Litige consommateur, médiation consommation, conciliateur de justice, tribunal, droit de rétractation, garantie légale",
+      "mot_cle_index": "litige consommateur",
+      "nom_court": "Défense conso",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        649,
+        850
+      ],
+      "synonymes": [
+        "mon artisan a bâclé la rénovation, quelles étapes"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 856,
+      "emoji": "🤝",
+      "nom": "Bénévolat & engagement associatif structuré",
+      "domaine": "Gestion",
+      "signal_routage": "S'engager dans une association, bénévolat efficace, mission bénévole claire, statut bénévole, assurance bénévole",
+      "mot_cle_index": "bénévolat structuré",
+      "nom_court": "Bénévolat",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        532,
+        552
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 857,
+      "emoji": "🕊️",
+      "nom": "Gestion de crise personnelle (deuil, accident)",
+      "domaine": "Personnel",
+      "signal_routage": "Deuil, accident, crise personnelle, démarches après décès, assurance, aide psychologique, qui appeler",
+      "mot_cle_index": "crise personnelle",
+      "nom_court": "Crise perso",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        617,
+        651
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 858,
+      "emoji": "💝",
+      "nom": "Préparation d'une donation à une asso",
+      "domaine": "Finance",
+      "signal_routage": "Faire un don à une association, réduction d'impôt 66 %, reçu fiscal, don manuel, mécénat, choix d'association fiable",
+      "mot_cle_index": "don association",
+      "nom_court": "Don asso",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        812,
+        856
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 859,
+      "emoji": "🚨",
+      "nom": "Plan d'urgence domestique (incendie, inondation)",
+      "domaine": "Personnel",
+      "signal_routage": "Plan d'urgence maison, incendie, fuite de gaz, inondation, évacuation, numéros d'urgence, extincteur, détecteur de fumée",
+      "mot_cle_index": "plan d'urgence maison",
+      "nom_court": "Plan urgence",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        477,
+        754
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 860,
+      "emoji": "🛒",
+      "nom": "Courses & liste de courses intelligente",
+      "domaine": "Personnel",
+      "signal_routage": "Faire les courses efficacement, liste de courses, anti-gaspi, comparer les prix, drive, courses en ligne",
+      "mot_cle_index": "liste de courses",
+      "nom_court": "Courses",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        486,
+        541
+      ],
+      "synonymes": [
+        "faire ma liste de courses anti gaspi"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 861,
+      "emoji": "🍱",
+      "nom": "Meal prep & batch cooking efficace",
+      "domaine": "Personnel",
+      "signal_routage": "Meal prep, batch cooking, préparer ses repas de la semaine, congélation, organisation cuisine",
+      "mot_cle_index": "meal prep semaine",
+      "nom_court": "Batch cooking",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        486,
+        860
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 862,
+      "emoji": "🗄️",
+      "nom": "Organisation des papiers administratifs (famille)",
+      "domaine": "Bureau",
+      "signal_routage": "Classer ses papiers administratifs, archivage familial, durée de conservation, coffre numérique, qui garde quoi",
+      "mot_cle_index": "classer ses papiers",
+      "nom_court": "Papiers admin",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        472,
+        664
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 863,
+      "emoji": "🎉",
+      "nom": "Préparation d'un baptême / mariage / fête familiale",
+      "domaine": "Personnel",
+      "signal_routage": "Organiser un baptême, un mariage, une fête de famille, budget événement, prestataires, invitations, timing",
+      "mot_cle_index": "organiser une fête",
+      "nom_court": "Fête familiale",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        565,
+        657
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 864,
+      "emoji": "🏘️",
+      "nom": "Gestion d'un litige de voisinage",
+      "domaine": "Juridique",
+      "signal_routage": "Conflit de voisinage, nuisances sonores, haie mitoyenne, stationnement, médiation de voisinage, trouble anormal",
+      "mot_cle_index": "litige voisinage",
+      "nom_court": "Voisinage",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        529,
+        649
+      ],
+      "synonymes": [
+        "bruit voisin le matin",
+        "mon voisin fait du bruit",
+        "voisin bruyant",
+        "voisin travaux 7h"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 865,
+      "emoji": "🚄",
+      "nom": "Voyage en train/avion low-cost optimisé",
+      "domaine": "Personnel",
+      "signal_routage": "Trouver un billet de train/avion pas cher, low-cost, comparaison (Trainline, SNCF Connect, Skyscanner), bagages cabine, annulation",
+      "mot_cle_index": "billet pas cher",
+      "nom_court": "Billet low-cost",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        42,
+        656
+      ],
+      "synonymes": [
+        "trouver un vol low cost pas cher"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 866,
+      "emoji": "🚗",
+      "nom": "Conduite accompagnée / permis à 17 ans",
+      "domaine": "Apprentissage",
+      "signal_routage": "Conduite accompagnée (AAC), permis à 17 ans, heures de conduite, examen blanc, assurance jeune conducteur",
+      "mot_cle_index": "conduite accompagnée",
+      "nom_court": "AAC",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        580,
+        672
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 867,
+      "emoji": "🎸",
+      "nom": "Apprentissage d'un instrument de musique (adulte)",
+      "domaine": "Apprentissage",
+      "signal_routage": "Apprendre la guitare/piano en adulte, cours en ligne, professeur particulier, progression réaliste, tablatures",
+      "mot_cle_index": "apprendre la guitare adulte",
+      "nom_court": "Instrument",
+      "branche_arbre": "D28",
+      "cross_refs": [
+        516,
+        518
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 868,
+      "emoji": "👨‍🍳",
+      "nom": "Cours de cuisine thématique",
+      "domaine": "Personnel",
+      "signal_routage": "Apprendre à cuisiner un type de cuisine (italienne, asiatique, pâtisserie), cours de cuisine en ligne, techniques de base",
+      "mot_cle_index": "apprendre à cuisiner",
+      "nom_court": "Cours cuisine",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        566,
+        662
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 869,
+      "emoji": "📦",
+      "nom": "Préparation d'un déménagement en colocation",
+      "domaine": "Personnel",
+      "signal_routage": "Déménager en colocation, check-list déménagement, état des lieux, assurance, raccordements, changement d'adresse coloc",
+      "mot_cle_index": "déménager en colocation",
+      "nom_court": "Déménagement coloc",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        653,
+        828
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 870,
+      "emoji": "🔎",
+      "nom": "Vérification d'une annonce immobilière",
+      "domaine": "Recherche",
+      "signal_routage": "Vérifier une annonce immobilière avant de visiter, arnaque annonce immo, prix au m², DPE, charges, visites groupées pièges",
+      "mot_cle_index": "vérifier une annonce immo",
+      "nom_court": "Vérif annonce immo",
+      "branche_arbre": "D17",
+      "cross_refs": [
+        709,
+        826
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 871,
+      "emoji": "👶",
+      "nom": "Sécurité des enfants en ligne (parent)",
+      "domaine": "Sécurité",
+      "signal_routage": "Sécurité enfants en ligne, contrôle parental, temps d'écran enfant, réseaux sociaux ado, jeux en ligne, protection mineurs",
+      "mot_cle_index": "sécurité enfants en ligne",
+      "nom_court": "E-sécurité enfants",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        597,
+        813
+      ],
+      "synonymes": [
+        "donner un smartphone à mon ado de 12 ans en sécurité"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 872,
+      "emoji": "💻",
+      "nom": "Préparation d'un entretien d'embauche en visio (candidat)",
+      "domaine": "Carrière",
+      "signal_routage": "Entretien d'embauche en visio, se préparer, test technique, fond, lumière, questions à poser, relance après",
+      "mot_cle_index": "entretien visio",
+      "nom_court": "Entretien visio",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        697,
+        849
+      ],
+      "synonymes": [
+        "préparer mon entretien d'embauche en visio"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 873,
+      "emoji": "🖥️",
+      "nom": "Gestion d'une panne informatique domestique",
+      "domaine": "Sécurité",
+      "signal_routage": "Mon ordinateur ne démarre plus, panne PC, écran noir, disque dur qui clique, récupération de données, réparation ou remplacement",
+      "mot_cle_index": "panne ordinateur",
+      "nom_court": "Panne PC",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        291,
+        755
+      ],
+      "synonymes": [
+        "disque dur qui clique pc",
+        "mon pc fait un clic et rame"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 874,
+      "emoji": "🚩",
+      "nom": "Vérification d'une offre d'emploi (arnaque)",
+      "domaine": "Carrière",
+      "signal_routage": "Offre d'emploi frauduleuse, arnaque recrutement, faux entretien, demande de payer, vérifier une entreprise (SIRET, avis)",
+      "mot_cle_index": "offre d'emploi frauduleuse",
+      "nom_court": "Arnaque emploi",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        839,
+        842
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 875,
+      "emoji": "💶",
+      "nom": "Négocier son salaire à l'embauche (offre)",
+      "domaine": "Carrière",
+      "signal_routage": "Négocier une offre d'emploi, salaire proposé trop bas, contre-offre, package (fixe, variable, avantages)",
+      "mot_cle_index": "négocier une offre",
+      "nom_court": "Négocier offre",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        697,
+        773
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 876,
+      "emoji": "📊",
+      "nom": "Préparation d'un entretien annuel (manager)",
+      "domaine": "RH & formation",
+      "signal_routage": "Préparer l'entretien annuel de son équipe, évaluation collaborateurs, feedback structuré, objectifs SMART, augmentation",
+      "mot_cle_index": "entretien annuel manager",
+      "nom_court": "Entretien annuel mgr",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        632,
+        644
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 877,
+      "emoji": "🌐",
+      "nom": "Gestion d'un projet en mode hybride (présentiel/distanciel)",
+      "domaine": "Gestion",
+      "signal_routage": "Projet hybride, équipe mixte présentiel/distanciel, règles de fonctionnement, outils, équité des deux mondes",
+      "mot_cle_index": "projet hybride",
+      "nom_court": "Projet hybride",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        760,
+        788
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 878,
+      "emoji": "🔇",
+      "nom": "Réduction du bruit dans un open space",
+      "domaine": "Personnel",
+      "signal_routage": "Open space trop bruyant, concentration au bureau, casque anti-bruit, règles de l'open space, espaces calmes",
+      "mot_cle_index": "open space bruyant",
+      "nom_court": "Open space",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        465,
+        813
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 879,
+      "emoji": "🎤",
+      "nom": "Préparation d'une présentation orale importante",
+      "domaine": "Communication",
+      "signal_routage": "Préparer une présentation orale importante, pitch, conférence, discours, slides, répétition, gestion du stress",
+      "mot_cle_index": "présentation orale",
+      "nom_court": "Présentation orale",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        75,
+        293
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 880,
+      "emoji": "🛡️",
+      "nom": "Gestion d'un client difficile (négociation)",
+      "domaine": "Vente",
+      "signal_routage": "Client difficile, client toxique, gérer un conflit client, dire non au client, préserver la relation",
+      "mot_cle_index": "client difficile",
+      "nom_court": "Client difficile",
+      "branche_arbre": "D9",
+      "cross_refs": [
+        46,
+        796
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 881,
+      "emoji": "📥",
+      "nom": "Mise en place d'un canal de feedback anonyme",
+      "domaine": "RH & formation",
+      "signal_routage": "Feedback anonyme équipe, boîte à idées, enquête anonyme, outil (Typeform, Google Forms, Officevibe), protéger l'anonymat",
+      "mot_cle_index": "feedback anonyme",
+      "nom_court": "Feedback anonyme",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        419,
+        787
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 882,
+      "emoji": "🤝",
+      "nom": "Préparation d'une négociation fournisseurs",
+      "domaine": "Gestion",
+      "signal_routage": "Négocier avec un fournisseur, renégocier un contrat fournisseur, benchmark, SLA, pénalités, alternative (BATNA)",
+      "mot_cle_index": "négociation fournisseur",
+      "nom_court": "Négociation fourn.",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        198,
+        825
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 883,
+      "emoji": "📜",
+      "nom": "Règlement intérieur d'entreprise (RI)",
+      "domaine": "RH & formation",
+      "signal_routage": "Rédiger un règlement intérieur, RI entreprise, charte informatique, hygiène sécurité, sanctions, CSE obligatoire",
+      "mot_cle_index": "règlement intérieur",
+      "nom_court": "RI",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        207,
+        792
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 884,
+      "emoji": "🏠",
+      "nom": "Politique de télétravail écrite",
+      "domaine": "RH & formation",
+      "signal_routage": "Rédiger un accord de télétravail, charte télétravail, jours de TT, remboursement frais, droit à la déconnexion",
+      "mot_cle_index": "accord télétravail",
+      "nom_court": "Accord TT",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        412,
+        642
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 885,
+      "emoji": "⚠️",
+      "nom": "Prévention des risques professionnels (DUERP)",
+      "domaine": "RH & formation",
+      "signal_routage": "DUERP, document unique, évaluation des risques professionnels, registre des accidents, plan de prévention, CSE",
+      "mot_cle_index": "duerp",
+      "nom_court": "DUERP",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        243,
+        787
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 886,
+      "emoji": "🩹",
+      "nom": "Gestion d'un accident du travail",
+      "domaine": "Juridique",
+      "signal_routage": "Accident du travail, déclaration AT sous 48 h, enquête, arrêt de travail, prévention, faute inexcusable",
+      "mot_cle_index": "accident du travail",
+      "nom_court": "AT",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        634,
+        885
+      ],
+      "synonymes": [
+        "accident du travail déclaration",
+        "déclaration AT 48h",
+        "salarié blessé machine déclaration",
+        "un salarié s'est blessé sur une machine"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 887,
+      "emoji": "🎓",
+      "nom": "Recrutement d'un alternant / stagiaire",
+      "domaine": "RH & formation",
+      "signal_routage": "Recruter un alternant, contrat pro/apprentissage, aide à l'embauche alternant 2026, tuteur, grille de rémunération",
+      "mot_cle_index": "recruter un alternant",
+      "nom_court": "Alternant",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        411,
+        790
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 888,
+      "emoji": "📋",
+      "nom": "Gestion d'une rupture conventionnelle collective",
+      "domaine": "Juridique",
+      "signal_routage": "Rupture conventionnelle collective, RCC, accord collectif, homologation DIRECCTE, plan de départs volontaires",
+      "mot_cle_index": "rupture conventionnelle collective",
+      "nom_court": "RCC",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        634,
+        830
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 889,
+      "emoji": "🗳️",
+      "nom": "Préparation d'un CSE (élections)",
+      "domaine": "RH & formation",
+      "signal_routage": "Organiser les élections CSE, protocole d'accord préélectoral, listes, vote, mandature 4 ans",
+      "mot_cle_index": "élections cse",
+      "nom_court": "Élections CSE",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        792,
+        883
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 890,
+      "emoji": "🕊️",
+      "nom": "Médiation d'un conflit salarial collectif",
+      "domaine": "Juridique",
+      "signal_routage": "Conflit salarial, grève, négociation annuelle obligatoire (NAO), médiation, conciliation, accord d'intéressement",
+      "mot_cle_index": "conflit salarial",
+      "nom_court": "Conflit salarial",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        410,
+        762
+      ],
+      "synonymes": [
+        "conflit salarial collectif",
+        "les syndicats ont déposé un préavis de grève",
+        "préavis de grève NAO",
+        "préavis de grève déposé par les syndicats",
+        "préavis de grève syndicats"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 891,
+      "emoji": "🏢",
+      "nom": "Préparation d'une cession / transmission d'entreprise",
+      "domaine": "Gestion",
+      "signal_routage": "Vendre son entreprise, cession, transmission, valorisation, due diligence, pacte d'associés, Dutreil",
+      "mot_cle_index": "vendre son entreprise",
+      "nom_court": "Cession entreprise",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        527,
+        837
+      ],
+      "synonymes": [
+        "cession entreprise",
+        "cession pme 30 personnes",
+        "vendre ma pme",
+        "vendre ma pme dans 3 ans"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 892,
+      "emoji": "🏛️",
+      "nom": "Création d'association (loi 1901)",
+      "domaine": "Gestion",
+      "signal_routage": "Créer une association loi 1901, statuts, assemblée constitutive, déclaration préfecture, compte bancaire, assurance",
+      "mot_cle_index": "créer une association",
+      "nom_court": "Association",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        552,
+        856
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 893,
+      "emoji": "🏢",
+      "nom": "Gestion d'une copropriété en crise (syndic défaillant)",
+      "domaine": "Juridique",
+      "signal_routage": "Syndic défaillant, changer de syndic, conseil syndical, AG extraordinaire, travaux urgents copropriété",
+      "mot_cle_index": "changer de syndic",
+      "nom_court": "Changer syndic",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        595,
+        677
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 894,
+      "emoji": "🏠",
+      "nom": "Défiscalisation immobilière (LMNP, Pinel)",
+      "domaine": "Finance",
+      "signal_routage": "LMNP location meublée non professionnelle, Pinel 2026, déficit foncier, monument historique, investissement locatif défiscalisé",
+      "mot_cle_index": "lmnp",
+      "nom_court": "LMNP",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        812,
+        836
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 895,
+      "emoji": "🏗️",
+      "nom": "Assurance dommages-ouvrage & décennale",
+      "domaine": "Juridique",
+      "signal_routage": "Assurance dommages-ouvrage, décennale, DO avant travaux, réception de chantier, vices cachés, recours contre constructeur",
+      "mot_cle_index": "dommages-ouvrage",
+      "nom_court": "DO",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        220,
+        786
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 896,
+      "emoji": "🏪",
+      "nom": "Droit du bail commercial",
+      "domaine": "Juridique",
+      "signal_routage": "Bail commercial 3/6/9, révision du loyer, renouvellement, indemnité d'éviction, fonds de commerce",
+      "mot_cle_index": "bail commercial",
+      "nom_court": "Bail 3/6/9",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        676,
+        853
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 897,
+      "emoji": "🛡️",
+      "nom": "Protection du dirigeant (assurance homme clé)",
+      "domaine": "Finance",
+      "signal_routage": "Assurance homme clé dirigeant, perte d'exploitation, responsabilité civile dirigeant (RCMS), garantie décennale dirigeant",
+      "mot_cle_index": "assurance homme clé",
+      "nom_court": "Homme clé",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        786,
+        891
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 898,
+      "emoji": "🚀",
+      "nom": "Préparation d'une levée de fonds (amorçage)",
+      "domaine": "Stratégie",
+      "signal_routage": "Préparer une levée de fonds amorçage 2026, business angels, fonds VC, valorisation pre-money, term sheet, due diligence",
+      "mot_cle_index": "lever des fonds",
+      "nom_court": "Levée de fonds",
+      "branche_arbre": "D10",
+      "cross_refs": [
+        775,
+        776
+      ],
+      "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 899,
+      "emoji": "✅",
+      "nom": "Bilan de fin d'année (tous domaines)",
+      "domaine": "Gestion",
+      "signal_routage": "Faire son bilan de l'année, rétrospective personnelle 2026, objectifs année prochaine, bonnes résolutions réalistes",
+      "mot_cle_index": "bilan de l'année",
+      "nom_court": "Bilan annuel",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        600,
+        846
+      ],
+      "synonymes": [],
       "fichier": "canvas"
     }
   ]

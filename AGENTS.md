@@ -6,7 +6,7 @@ Fichier d'instructions pour tout agent IA intervenant sur la **skillAISlop**, au
 
 ## Contexte du projet
 
-- La bibliothèque est un catalogue de **799 skills numérotées (0-799)** prêtes à l'emploi avec un assistant IA : la skill 0 est un routeur, les skills 1-799 sont classées par famille (rédaction, dev, data, agents IA, création visuelle & audio, marketing, vente, finance, gouvernance, RH, vie quotidienne, sécurité, quotidien & business).
+- La bibliothèque est un catalogue de **899 skills numérotées (0-899)** prêtes à l'emploi avec un assistant IA : la skill 0 est un routeur, les skills 1-899 sont classées par famille (rédaction, dev, data, agents IA, création visuelle & audio, marketing, vente, finance, gouvernance, RH, vie quotidienne, sécurité, quotidien & business).
 - Le catalogue vit dans le canvas **« skillAISlop »**, **découpé en corpus** pour respecter le plafond de taille d'un canvas (1 024 000 octets) : le canvas principal porte sommaire, règles, template, skill 0 (carte des domaines, index inversé, table de routage, arbre décisionnel) et sections transverses ; les sections détaillées vivent dans les canvases **« corpus-skills-1-300 »**, **« corpus-skills-301-600 »** et **« corpus-skills-601-900 »**. Le script d'audit dans le canvas **« script-conformite-skills »** ; les règles durables (R1-R11) dans le règlement du catalogue et dans le Knowledge **skillaislop**.
 - Chaque skill suit le **template officiel** : `## N. <emoji> <Nom>` · `> 🔎 Index` · `**Objectif** :` · `**Instructions système** :` (commencent par « Tu es ») · `**Méthode** :` (3 étapes numérotées) · `**Exemple de prompt** :` (guillemets « ») · `**Cas d'usage** :` (≥ 2 usages) · cross-refs vers d'autres skills.
 
@@ -14,7 +14,7 @@ Fichier d'instructions pour tout agent IA intervenant sur la **skillAISlop**, au
 
 - Toute modification du catalogue passe par le canvas principal et les canvases corpus — ne jamais dupliquer le catalogue ailleurs.
 - Le **sommaire global** (canvas principal) est l'unique source de vérité pour les numéros de skill.
-- Toute nouvelle skill est numérotée séquentiellement après la 799 et ne change plus de numéro ensuite ; sa section détaillée (corps R2) est ajoutée au canvas corpus couvrant son numéro (1-300, 301-600, 601-900).
+- Toute nouvelle skill est numérotée séquentiellement après la 899 et ne change plus de numéro ensuite ; sa section détaillée (corps R2) est ajoutée au canvas corpus couvrant son numéro (1-300, 301-600, 601-900).
 - **Export JSON & compteur** : le canvas « Export JSON — skillAISlop » est un instantané machine-readable du catalogue (mode **compact** par défaut : index et métadonnées de routage ; `--complet` pour le texte intégral), le canvas « totalSkillsCount » le compteur officiel. **À chaque ajout ou suppression de skill**, les régénérer (reconstruire `routage.py` depuis le canvas « Routage SQL Skills », puis `python3 routage.py export --fichier <chemin>/catalogue.json` et `python3 routage.py count`) et recopier les résultats dans les deux canvases. Le dossier `/export` de session est éphémère ; seuls les canvases sont permanents.
 
 ## Synchronisation index & routage (R8)
@@ -52,7 +52,7 @@ Fichier d'instructions pour tout agent IA intervenant sur la **skillAISlop**, au
 ## Audit & conformité
 
 - Après chaque ajout de règle ou vague de skills, exécuter le **script de conformité** (canvas « script-conformite-skills ») sur les **quatre fichiers** — canvas principal puis les trois corpus (`check_conformite.py <principal> <corpus-1-300> <corpus-301-600> <corpus-601-900>`) — et consigner le verdict dans la conversation (R5).
-- Contrôles par skill : index présent (R1) ; objectif non vide, « Tu es », ≥ 3 étapes numérotées, exemple entre guillemets, ≥ 2 cas d'usage (R2) ; sommaire + table de routage + arbre (R3) ; ≥ 1 cross-ref dans les bornes 0-799 (R4).
+- Contrôles par skill : index présent (R1) ; objectif non vide, « Tu es », ≥ 3 étapes numérotées, exemple entre guillemets, ≥ 2 cas d'usage (R2) ; sommaire + table de routage + arbre (R3) ; ≥ 1 cross-ref dans les bornes 0-899 (R4).
 - Contrôles R6 : unicité des noms et des signaux de routage sur l'ensemble du catalogue ; emoji présent et pertinent par skill (réutilisations permises).
 - Une règle fraîchement ajoutée n'est active qu'une fois l'audit repassé ; corriger toute non-conformité avant toute autre évolution.
 
@@ -63,7 +63,7 @@ Fichier d'instructions pour tout agent IA intervenant sur la **skillAISlop**, au
   1. **Veille** : rechercher les nouvelles compétences IA du trimestre (sources : [DataCamp — Top Agent Skills](https://www.datacamp.com/fr/blog/top-agent-skills), [Lessie — Best Claude Skills](https://lessie.ai/fr/blog/best-claude-skills), dépôts awesome-claude-skills, annonces Anthropic/OpenAI…).
   2. **Dédoublonnage** : confronter chaque candidat au catalogue selon R6 ; enrichir ou écarter.
   3. **Intégration** : template (R2) + routage complet (R3) + cross-refs (R4).
-  4. **Audit intégral** : repasser le script de conformité sur les 799 skills et consigner le verdict (R5).
+  4. **Audit intégral** : repasser le script de conformité sur les 899 skills et consigner le verdict (R5).
   5. **Conservation** : mettre à jour le Knowledge skillaislop (compteur de skills, vagues, dates de mise à jour).
 - La **skill 250 (Conservateur)** pilote ce cycle ; une tâche planifiée trimestrielle le déclenche.
 

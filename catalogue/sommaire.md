@@ -802,6 +802,106 @@
 | 797 | Expérience client (CX) & NPS | Vente |
 | 798 | E-commerce : tunnel de conversion & panier abandonné | Marketing |
 | 799 | Lancement de produit & go-to-market | Marketing |
+| 800 | Délégation à un agent personnel (Muse, Dots…) | Personnel|
+| 801 | Gouvernance des permissions d'agents IA | Sécurité|
+| 802 | Mémoire persistante avancée (claude-mem) | IA / Prompting|
+| 803 | Navigateur agentique (WebMCP, lightpanda) | Développement|
+| 804 | Studio de création IA (jeu, film, vidéo) | Créativité|
+| 805 | Anti-« IA slop » : design qui ne fait pas IA | Design|
+| 806 | Détecteur de bullshit (bullshit-detector) | Recherche|
+| 807 | Audit de session d'agent de code | Data & IA|
+| 808 | Agent vocal (voice agent) & voix locale | IA / Prompting|
+| 809 | Codage vocal (voice coding, DevDay 2026) | Développement|
+| 810 | Choisir son agent personnel 2026 (Muse, Dots, Duet) | Personnel|
+| 811 | Loi de finances 2026 : changements clés | Finance|
+| 812 | Optimisation fiscale légale 2026 | Finance|
+| 813 | Digital detox & sommeil-écrans | Personnel|
+| 814 | Régularité du sommeil (circadien) | Personnel|
+| 815 | AI literacy : comprendre ce que l'IA fait et ne fait pas | Apprentissage|
+| 816 | Data literacy : lire les chiffres sans se faire avoir | Apprentissage|
+| 817 | Prompt engineering itératif (dialogue, pas one-shot) | IA / Prompting|
+| 818 | Sécurité des agents : injection via le web | Sécurité|
+| 819 | Guardrails & evals live en production | Data & IA|
+| 820 | Équipe d'agents (« agent-as-organization ») | IA / Prompting|
+| 821 | Revue de PR automatisée par agent | Développement|
+| 822 | Génération de tests depuis la doc (doc-to-test) | Développement|
+| 823 | UX adaptative par agent (agentic UI) | Produit|
+| 824 | Fraude au président (BEC) & virements | Sécurité|
+| 825 | Négociation de facture / réduction de prix | Vente|
+| 826 | Vente d'un bien immobilier | Finance|
+| 827 | Impayé de loyer (propriétaire) | Juridique|
+| 828 | Contrat de colocation & règlement | Juridique|
+| 829 | Démission & départ volontaire | Carrière|
+| 830 | Chômage & droits France Travail | Juridique|
+| 831 | TJM & rentabilité freelance | Gestion|
+| 832 | Recouvrement amiable d'impayé | Vente|
+| 833 | Délégation d'assurance emprunteur (loi Lemoine) | Finance|
+| 834 | Remboursement anticipé / rachat de crédit | Finance|
+| 835 | Arbitrages d'assurance-vie | Finance|
+| 836 | SCPI & pierre papier | Finance|
+| 837 | Donation-partage & succession anticipée | Juridique|
+| 838 | Droit à l'oubli & déréférencement | Juridique|
+| 839 | Spear phishing & signalement | Sécurité|
+| 840 | Deepfakes & usurpation vidéo | Sécurité|
+| 841 | Sauvegarde cloud chiffrée & synchro | Sécurité|
+| 842 | Vérifier un influenceur avant achat | Recherche|
+| 843 | Préparation d'un audit interne | Gestion|
+| 844 | Matrice de décision multicritères | Décision|
+| 845 | Rédaction de cahier des charges | Produit|
+| 846 | Rétrospective blameless | Gestion|
+| 847 | Matrice RACI & rôles clairs | Gestion|
+| 848 | Conflits d'intérêts & lanceur d'alerte | Juridique|
+| 849 | Visio pro à fort enjeu (vente, entretien) | Communication|
+| 850 | Lettre de réclamation client (SAV) | Vente|
+| 851 | Achat en ligne sécurisé (marketplace) | Personnel|
+| 852 | Préparation d'un appel d'offres (AAP) | Vente|
+| 853 | Lecture de contrat : points de vigilance | Juridique|
+| 854 | Location saisonnière & saisonnier | Juridique|
+| 855 | Défense du consommateur (litiges) | Juridique|
+| 856 | Bénévolat & engagement associatif structuré | Gestion|
+| 857 | Gestion de crise personnelle (deuil, accident) | Personnel|
+| 858 | Préparation d'une donation à une asso | Finance|
+| 859 | Plan d'urgence domestique (incendie, inondation) | Personnel|
+| 860 | Courses & liste de courses intelligente | Personnel|
+| 861 | Meal prep & batch cooking efficace | Personnel|
+| 862 | Organisation des papiers administratifs (famille) | Bureau|
+| 863 | Préparation d'un baptême / mariage / fête familiale | Personnel|
+| 864 | Gestion d'un litige de voisinage | Juridique|
+| 865 | Voyage en train/avion low-cost optimisé | Personnel|
+| 866 | Conduite accompagnée / permis à 17 ans | Apprentissage|
+| 867 | Apprentissage d'un instrument de musique (adulte) | Apprentissage|
+| 868 | Cours de cuisine thématique | Personnel|
+| 869 | Préparation d'un déménagement en colocation | Personnel|
+| 870 | Vérification d'une annonce immobilière | Recherche|
+| 871 | Sécurité des enfants en ligne (parent) | Sécurité|
+| 872 | Préparation d'un entretien d'embauche en visio (candidat) | Carrière|
+| 873 | Gestion d'une panne informatique domestique | Sécurité|
+| 874 | Vérification d'une offre d'emploi (arnaque) | Carrière|
+| 875 | Négocier son salaire à l'embauche (offre) | Carrière|
+| 876 | Préparation d'un entretien annuel (manager) | RH & formation|
+| 877 | Gestion d'un projet en mode hybride (présentiel/distanciel) | Gestion|
+| 878 | Réduction du bruit dans un open space | Personnel|
+| 879 | Préparation d'une présentation orale importante | Communication|
+| 880 | Gestion d'un client difficile (négociation) | Vente|
+| 881 | Mise en place d'un canal de feedback anonyme | RH & formation|
+| 882 | Préparation d'une négociation fournisseurs | Gestion|
+| 883 | Règlement intérieur d'entreprise (RI) | RH & formation|
+| 884 | Politique de télétravail écrite | RH & formation|
+| 885 | Prévention des risques professionnels (DUERP) | RH & formation|
+| 886 | Gestion d'un accident du travail | Juridique|
+| 887 | Recrutement d'un alternant / stagiaire | RH & formation|
+| 888 | Gestion d'une rupture conventionnelle collective | Juridique|
+| 889 | Préparation d'un CSE (élections) | RH & formation|
+| 890 | Médiation d'un conflit salarial collectif | Juridique|
+| 891 | Préparation d'une cession / transmission d'entreprise | Gestion|
+| 892 | Création d'association (loi 1901) | Gestion|
+| 893 | Gestion d'une copropriété en crise (syndic défaillant) | Juridique|
+| 894 | Défiscalisation immobilière (LMNP, Pinel) | Finance|
+| 895 | Assurance dommages-ouvrage & décennale | Juridique|
+| 896 | Droit du bail commercial | Juridique|
+| 897 | Protection du dirigeant (assurance homme clé) | Finance|
+| 898 | Préparation d'une levée de fonds (amorçage) | Stratégie|
+| 899 | Bilan de fin d'année (tous domaines) | Gestion|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -985,7 +1085,107 @@
 | 797 | Expérience client (CX) & NPS | Vente |
 | 798 | E-commerce : tunnel de conversion & panier abandonné | Marketing |
 | 799 | Lancement de produit & go-to-market | Marketing |
+| 800 | Délégation à un agent personnel (Muse, Dots…) | Personnel|
+| 801 | Gouvernance des permissions d'agents IA | Sécurité|
+| 802 | Mémoire persistante avancée (claude-mem) | IA / Prompting|
+| 803 | Navigateur agentique (WebMCP, lightpanda) | Développement|
+| 804 | Studio de création IA (jeu, film, vidéo) | Créativité|
+| 805 | Anti-« IA slop » : design qui ne fait pas IA | Design|
+| 806 | Détecteur de bullshit (bullshit-detector) | Recherche|
+| 807 | Audit de session d'agent de code | Data & IA|
+| 808 | Agent vocal (voice agent) & voix locale | IA / Prompting|
+| 809 | Codage vocal (voice coding, DevDay 2026) | Développement|
+| 810 | Choisir son agent personnel 2026 (Muse, Dots, Duet) | Personnel|
+| 811 | Loi de finances 2026 : changements clés | Finance|
+| 812 | Optimisation fiscale légale 2026 | Finance|
+| 813 | Digital detox & sommeil-écrans | Personnel|
+| 814 | Régularité du sommeil (circadien) | Personnel|
+| 815 | AI literacy : comprendre ce que l'IA fait et ne fait pas | Apprentissage|
+| 816 | Data literacy : lire les chiffres sans se faire avoir | Apprentissage|
+| 817 | Prompt engineering itératif (dialogue, pas one-shot) | IA / Prompting|
+| 818 | Sécurité des agents : injection via le web | Sécurité|
+| 819 | Guardrails & evals live en production | Data & IA|
+| 820 | Équipe d'agents (« agent-as-organization ») | IA / Prompting|
+| 821 | Revue de PR automatisée par agent | Développement|
+| 822 | Génération de tests depuis la doc (doc-to-test) | Développement|
+| 823 | UX adaptative par agent (agentic UI) | Produit|
+| 824 | Fraude au président (BEC) & virements | Sécurité|
+| 825 | Négociation de facture / réduction de prix | Vente|
+| 826 | Vente d'un bien immobilier | Finance|
+| 827 | Impayé de loyer (propriétaire) | Juridique|
+| 828 | Contrat de colocation & règlement | Juridique|
+| 829 | Démission & départ volontaire | Carrière|
+| 830 | Chômage & droits France Travail | Juridique|
+| 831 | TJM & rentabilité freelance | Gestion|
+| 832 | Recouvrement amiable d'impayé | Vente|
+| 833 | Délégation d'assurance emprunteur (loi Lemoine) | Finance|
+| 834 | Remboursement anticipé / rachat de crédit | Finance|
+| 835 | Arbitrages d'assurance-vie | Finance|
+| 836 | SCPI & pierre papier | Finance|
+| 837 | Donation-partage & succession anticipée | Juridique|
+| 838 | Droit à l'oubli & déréférencement | Juridique|
+| 839 | Spear phishing & signalement | Sécurité|
+| 840 | Deepfakes & usurpation vidéo | Sécurité|
+| 841 | Sauvegarde cloud chiffrée & synchro | Sécurité|
+| 842 | Vérifier un influenceur avant achat | Recherche|
+| 843 | Préparation d'un audit interne | Gestion|
+| 844 | Matrice de décision multicritères | Décision|
+| 845 | Rédaction de cahier des charges | Produit|
+| 846 | Rétrospective blameless | Gestion|
+| 847 | Matrice RACI & rôles clairs | Gestion|
+| 848 | Conflits d'intérêts & lanceur d'alerte | Juridique|
+| 849 | Visio pro à fort enjeu (vente, entretien) | Communication|
+| 850 | Lettre de réclamation client (SAV) | Vente|
+| 851 | Achat en ligne sécurisé (marketplace) | Personnel|
+| 852 | Préparation d'un appel d'offres (AAP) | Vente|
+| 853 | Lecture de contrat : points de vigilance | Juridique|
+| 854 | Location saisonnière & saisonnier | Juridique|
+| 855 | Défense du consommateur (litiges) | Juridique|
+| 856 | Bénévolat & engagement associatif structuré | Gestion|
+| 857 | Gestion de crise personnelle (deuil, accident) | Personnel|
+| 858 | Préparation d'une donation à une asso | Finance|
+| 859 | Plan d'urgence domestique (incendie, inondation) | Personnel|
+| 860 | Courses & liste de courses intelligente | Personnel|
+| 861 | Meal prep & batch cooking efficace | Personnel|
+| 862 | Organisation des papiers administratifs (famille) | Bureau|
+| 863 | Préparation d'un baptême / mariage / fête familiale | Personnel|
+| 864 | Gestion d'un litige de voisinage | Juridique|
+| 865 | Voyage en train/avion low-cost optimisé | Personnel|
+| 866 | Conduite accompagnée / permis à 17 ans | Apprentissage|
+| 867 | Apprentissage d'un instrument de musique (adulte) | Apprentissage|
+| 868 | Cours de cuisine thématique | Personnel|
+| 869 | Préparation d'un déménagement en colocation | Personnel|
+| 870 | Vérification d'une annonce immobilière | Recherche|
+| 871 | Sécurité des enfants en ligne (parent) | Sécurité|
+| 872 | Préparation d'un entretien d'embauche en visio (candidat) | Carrière|
+| 873 | Gestion d'une panne informatique domestique | Sécurité|
+| 874 | Vérification d'une offre d'emploi (arnaque) | Carrière|
+| 875 | Négocier son salaire à l'embauche (offre) | Carrière|
+| 876 | Préparation d'un entretien annuel (manager) | RH & formation|
+| 877 | Gestion d'un projet en mode hybride (présentiel/distanciel) | Gestion|
+| 878 | Réduction du bruit dans un open space | Personnel|
+| 879 | Préparation d'une présentation orale importante | Communication|
+| 880 | Gestion d'un client difficile (négociation) | Vente|
+| 881 | Mise en place d'un canal de feedback anonyme | RH & formation|
+| 882 | Préparation d'une négociation fournisseurs | Gestion|
+| 883 | Règlement intérieur d'entreprise (RI) | RH & formation|
+| 884 | Politique de télétravail écrite | RH & formation|
+| 885 | Prévention des risques professionnels (DUERP) | RH & formation|
+| 886 | Gestion d'un accident du travail | Juridique|
+| 887 | Recrutement d'un alternant / stagiaire | RH & formation|
+| 888 | Gestion d'une rupture conventionnelle collective | Juridique|
+| 889 | Préparation d'un CSE (élections) | RH & formation|
+| 890 | Médiation d'un conflit salarial collectif | Juridique|
+| 891 | Préparation d'une cession / transmission d'entreprise | Gestion|
+| 892 | Création d'association (loi 1901) | Gestion|
+| 893 | Gestion d'une copropriété en crise (syndic défaillant) | Juridique|
+| 894 | Défiscalisation immobilière (LMNP, Pinel) | Finance|
+| 895 | Assurance dommages-ouvrage & décennale | Juridique|
+| 896 | Droit du bail commercial | Juridique|
+| 897 | Protection du dirigeant (assurance homme clé) | Finance|
+| 898 | Préparation d'une levée de fonds (amorçage) | Stratégie|
+| 899 | Bilan de fin d'année (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–799 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–899 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

@@ -8,6 +8,10 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-03** — Branche vibe/vague-12-900-sections poussée + PR #3 ouverte (brouillon) — vague 12 à 900 sections, CI verte (run 41646172879)
+
+- [x] **2026-11-03** — Vague 12 ajoutée : 100 skills (800-899) sourcées d'une veille nov. 2026 — catalogue à 900 sections (899 skills + routeur) : agents personnels & gouvernance (Muse/Dots, WebMCP, claude-mem, guardrails, BEC/deepfakes), fiscalité 2026 (LF 2026-103, PER, Coluche, LMNP), conso & quotidien (droit à l'oubli, litiges, voisinage, voyages low-cost), RH avancée (RI, TT, DUERP, AT, CSE, RCC, cession, levée de fonds), AI/data literacy — build ✅ 900 skills · 813 synonymes · 900 vecteurs · lint ✅ · 449/449 tests ✅ · audit ✅ 899/899 · sonde 1058/1058 (100 %)
+
 - [x] **2026-11-02** — PR #2 mergée dans main (merge 77a594f) : 800 sections, vectorisation sqlite-vec, trigrammes SQL, CI, optimisations, sonde 100 % bloquante
 
 - [x] **2026-11-02** — Sonde à 100 % (958/958, 0 gap : sujets < 4 lettres exclus) et redevenue bloquante en CI ; hook pre-push build+lint+test

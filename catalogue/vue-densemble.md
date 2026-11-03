@@ -36,4 +36,7 @@ flowchart TD
     B -->|Agentique & fiabilité IA 2026 (vague 11)| V12[700 Fact-check IA · 711 A2A · 712 Harness\n713 Observabilité · 714 Mémoire structurée · 716 Audit skill · 722 IA souveraine · 723 SOC agentique]
     B -->|Créa, marketing & vente 2026 (vague 11)| V13[717 Remotion · 727 Calendrier éditorial · 729 Script short\n740 Social selling · 747 Ads · 798 Tunnel e-com · 799 Lancement]
     B -->|Gestion, RH & carrière 2026 (vague 11)| V14[701 Daily brief · 710 Rapport hebdo · 762 Médiation\n775 Business plan · 790 Recrutement · 793 Scrum · 787 RPS]
+    B -->|Agents personnels & gouvernance (vague 12)| V15[800 Agent perso · 801 Permissions · 802 Mémoire · 803 WebMCP\n818 Injection web · 819 Guardrails · 820 Équipe d'agents · 824 BEC]
+    B -->|Fiscalité, conso & quotidien 2026 (vague 12)| V16[811 LF 2026 · 812 Optim. fiscale · 838 Droit oubli\n855 Défense conso · 864 Voisinage · 865 Billet low cost · 899 Bilan annuel]
+    B -->|RH avancée & cession (vague 12)| V17[883 RI · 884 TT · 885 DUERP · 886 AT\n889 Élections CSE · 890 Conflit salarial · 891 Cession · 898 Levée fonds]
 ```
