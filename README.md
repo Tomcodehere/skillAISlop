@@ -1,12 +1,12 @@
 # skillAISlop — skillAISlop (skillAISlop)
 
-Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-11 le 2026-11-02) : **800 skills** numérotées (0-799) organisées en **28 domaines**, avec catalogue, routeur SQL et outils d'audit.
+Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-12 le 2026-11-02) : **900 skills** numérotées (0-899) organisées en **28 domaines**, avec catalogue, routeur SQL et outils d'audit.
 
 ## Structure
 
 | Chemin | Contenu |
 |---|---|
-| `skills/` | 800 fichiers `.md` (une skill = un fichier, frontmatter YAML) |
+| `skills/` | 900 fichiers `.md` (une skill = un fichier, frontmatter YAML) |
 | `catalogue/` | sommaire, règles R1-R11, template, utilisation, sources, vue d'ensemble |
 | `outils/` | `routage.py` (routeur SQL hybride FTS5 + sqlite-vec, repli gracieux si l'extension est absente), `audit_conformite.py` |
 | `data/` | catalogues JSON + `sonde-rapport.md` (rapport de couverture) |
@@ -24,9 +24,9 @@ Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-11 le 2026-11-02
 
 ## Vérifications
 
-- `build` ✅ (800 skills · 28 domaines · 783 synonymes · 800 vecteurs sqlite-vec)
-- `test` ✅ **224/224**
+- `build` ✅ (900 skills · 28 domaines · 813 synonymes · 900 vecteurs sqlite-vec)
+- `test` ✅ **449/449**
 - `lint` ✅ aucun problème
 - `route "IoT"` → exit 2 (faux positif corrigé) ✅
 - `route "domotique"` → skill 222 ✅
-- `sonde` → **971/972 couverts (99 %), 0 partiel, 1 gap** ✅
+- `sonde` → **1058/1058 couverts (100 %), 0 partiel, 0 gap** ✅

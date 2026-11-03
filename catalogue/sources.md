@@ -104,3 +104,19 @@ Les skills 19-50 s'inspirent des skills, prompts et workflows les plus populaire
 - [AOFIRS — AI skills demand 2026 (PwC Barometer)](https://aofirs.org/articles/why-job-postings-requiring-ai-skills-have-doubled-year-over-year) — fact-checker de sorties IA, RAG specialist → skills 700, 725
 - [Arahi/Vellum/Lindy — best AI personal assistants 2026](https://arahi.ai/blog/best-ai-personal-assistants-2026) — inbox triage, meeting prep, daily brief, délégation → skills 701, 702, 703, 706
 - [Zentor — best Claude skills 2026](https://zentor.ai/blog/best-claude-skills) — video-shotcraft, text-to-cad, i-have-adhd → skills 717, 718
+
+**Vague 12 (skills 800-899) — veille novembre 2026** :
+
+- [Meta Muse (agent personnel, sept 2026)](https://ai.meta.com/muse/) — délégation de tâches quotidiennes → skills 800, 810
+- [TLDL — Best Personal AI Agents 2026 (Muse, Dots, Duet, Manus)](https://www.tldl.io/resources/personal-ai-agents-2026) → skills 800, 810
+- [OpenAI DevDay 2026 — Codex vocal, /agents, Dots](https://openai.com/index/devday-2026-recap/) → skills 809, 810
+- [Coddykit — GitHub Trending nov 2026 (claude-mem 108k, lightpanda 39k, Game-Studios 31k)](https://www.coddykit.com/pages/blog-detail?id=5130013) → skills 802, 803, 804, 820
+- [No Hacks — Agentic Browser Landscape 2026 (WebMCP)](https://nohacks.co/blog/agentic-browser-landscape-2026) → skill 803
+- [Firecrawl — Agentic AI Trends (gouvernance-by-design, injection web)](https://www.firecrawl.dev/blog/agentic-ai-trends) → skills 801, 818, 819
+- [skilld.dev — Trending skills nov 2026 (find-skills 4,1M, Hallmark 31k anti-slop)](https://skilld.dev/skills/trending) → skills 805, 717
+- [BehiSecc/awesome-claude-skills — bullshit-detector, agenttrace](https://github.com/BehiSecc/awesome-claude-skills) → skills 806, 807
+- [Service-Public — Loi de finances 2026 (PER 5 ans, PS 18,6 %, CDHR, Coluche 2 000 €)](https://www.service-public.gouv.fr/particuliers/actualites/A18841) → skills 811, 812
+- [Mon Patrimoine Guide — Optimisation fiscale 2026](https://mon-patrimoine-guide.fr/epargne/guide-optimisation-fiscale-2026/) → skills 812, 837
+- [Welltory — Wellness trends 2026 (sommeil, digital detox)](https://welltory.com/blog/wellness-trends-2026) → skills 813, 814
+- [Tripleten — 11 AI skills in demand 2026 (AI literacy, data literacy)](https://tripleten.com/blog/posts/ai-skills) → skills 815, 816
+- [Blog Mean — AI agents news nov 2026 (permissions, BEC, injection web)](https://blog.mean.ceo/ai-agents-news-november-2026/) → skills 801, 818, 824

@@ -49,3 +49,5 @@ type: "text/markdown"
 - [x] ~~Tests avant push~~ → hook .git/hooks/pre-push (build+lint+test) ; revue git diff --stat à faire à la main avant chaque push
 
 - [ ] Vague 12 (R7, janvier) : re-faire la veille web, viser les vrais gaps restants plutôt que du volume
+
+- [ ] Pousser la branche vibe/vague-12-900-sections et ouvrir la PR quand le rate limit GitHub/Vibe sera levé

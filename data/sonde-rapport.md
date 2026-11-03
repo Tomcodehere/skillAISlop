@@ -1,6 +1,6 @@
 # Sonde de couverture
 
-Total 958 sujets · Couverts 958 (100%) · Partiels 0 · Gaps 0
+Total 1058 sujets · Couverts 1058 (100%) · Partiels 0 · Gaps 0
 
 ## Gaps (aucune candidate)
 
@@ -20,7 +20,7 @@ Total 958 sujets · Couverts 958 (100%) · Partiels 0 · Gaps 0
 - [Apprentissage] cours -> [75, 109, 373]
 - [Apprentissage] ligne -> [282, 392, 497]
 - [Apprentissage] parcours -> [109, 203, 373]
-- [Apprentissage] apprentissage -> [40, 499, 500]
+- [Apprentissage] apprentissage -> [499, 500, 671]
 - [Bureau] word -> [27, 503]
 - [Bureau] excel -> [27, 264, 347]
 - [Bureau] powerpoint -> [14, 27]
@@ -29,7 +29,7 @@ Total 958 sujets · Couverts 958 (100%) · Partiels 0 · Gaps 0
 - [Bureau] decks -> [14]
 - [Carrière] candidature -> [44, 274, 774]
 - [Carrière] entretien -> [12, 187, 276]
-- [Carrière] salaire -> [45, 294, 641]
+- [Carrière] salaire -> [45, 294, 773]
 - [Carrière] evolution -> [633]
 - [Carrière] role -> [49, 434, 458]
 - [Communication] email -> [4, 25, 51]
