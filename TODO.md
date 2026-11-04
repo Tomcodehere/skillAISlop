@@ -35,3 +35,5 @@ type: "text/markdown"
 ## Prochaine vague
 
 - [ ] Vague 13 (R7, janvier 2027) : re-faire la veille web, viser les vrais gaps restants plutôt que du volume
+
+- [ ] Vague 14 (R7, avril 2027) : prochaine veille trimestrielle

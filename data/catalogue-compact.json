@@ -1,12 +1,12 @@
 {
   "catalogue": "skillAISlop",
-  "genere_le": "2026-11-03",
+  "genere_le": "2026-11-04",
   "mode": "compact",
   "stats": {
-    "sections": 900,
+    "sections": 1000,
     "domaines": 28,
-    "synonymes": 813,
-    "tests_routage": 449
+    "synonymes": 1116,
+    "tests_routage": 549
   },
   "domaines": [
     {
@@ -15698,6 +15698,2010 @@
         846
       ],
       "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 900,
+      "emoji": "🇪🇺",
+      "nom": "Préparer l'AI Act haut risque (annexe III, déc. 2027)",
+      "domaine": "Juridique",
+      "signal_routage": "Préparer son entreprise à l'AI Act : systèmes à haut risque annexe III (recrutement, crédit), échéance 2 décembre 2027, registre, contrôle humain",
+      "mot_cle_index": "ai act haut risque 2027",
+      "nom_court": "AI Act HR",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        698,
+        883
+      ],
+      "synonymes": [
+        "ai act haut risque annexe iii",
+        "conformité ai act",
+        "préparer l'ai act haut risque annexe iii décembre 2027",
+        "préparer l'ai act haut risque avant décembre 2027",
+        "préparer l'ai act haut risque décembre 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 901,
+      "emoji": "🏷️",
+      "nom": "Transparence IA obligatoire (contenu généré, chatbots)",
+      "domaine": "Juridique",
+      "signal_routage": "Signaler qu'on parle à une IA (chatbot), étiqueter le contenu généré par IA, transparence AI Act art. 50 en vigueur depuis août 2026",
+      "mot_cle_index": "étiquetage contenu ia",
+      "nom_court": "Étiquetage IA",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        561,
+        900
+      ],
+      "synonymes": [
+        "contenu généré par ia obligatoire",
+        "mon chatbot doit-il dire qu'il est une ia",
+        "étiquetage contenu généré ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 902,
+      "emoji": "🤖",
+      "nom": "Gestion algorithmique du travail (AI Act emploi)",
+      "domaine": "RH & formation",
+      "signal_routage": "Management algorithmique, IA qui assigne et évalue le travail, AI Act annexe III emploi, transparence pour les salariés, 2 décembre 2027",
+      "mot_cle_index": "management algorithmique",
+      "nom_court": "Management algo",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        876,
+        900
+      ],
+      "synonymes": [
+        "ia qui évalue mon travail",
+        "management algorithmique ia au travail",
+        "notre appli évalue la productivité avec une ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 903,
+      "emoji": "📱",
+      "nom": "Petits modèles locaux (SLM) pour PME",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Lancer un petit modèle IA local (SLM) sur téléphone/PC, Ollama, données qui restent locales, coût 2027, souveraineté",
+      "mot_cle_index": "modèle ia local slm",
+      "nom_court": "SLM local",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        688,
+        802
+      ],
+      "synonymes": [
+        "faire tourner un petit modèle ia en local",
+        "llm local",
+        "modèle ia local ollama",
+        "ollama local"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 904,
+      "emoji": "📞",
+      "nom": "Agent vocal en support client (2027)",
+      "domaine": "Produit & IA",
+      "signal_routage": "Déployer un agent vocal IA en support client 2027, IVR intelligent, coût, fallback humain, conformité transparence",
+      "mot_cle_index": "agent vocal support client",
+      "nom_court": "Voice agent support",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        808,
+        901
+      ],
+      "synonymes": [
+        "agent vocal support client 2027",
+        "déployer un agent vocal sur notre hotline",
+        "standard ia 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 905,
+      "emoji": "🛡️",
+      "nom": "Sécurité des marketplaces de skills (ClawHub, skills.sh)",
+      "domaine": "Sécurité",
+      "signal_routage": "Installer une skill agent en sécurité, malware marketplace ClawHub 2026, vérifier SKILL.md et scripts avant install, supply chain skills 2027",
+      "mot_cle_index": "skill agent malveillante",
+      "nom_court": "Skill malveillante",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        716,
+        818
+      ],
+      "synonymes": [
+        "installer une skill clawhub en sécurité",
+        "malware clawhub",
+        "skill agent malveillante clawhub"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 906,
+      "emoji": "🔒",
+      "nom": "Certificats TLS 64 jours (Let's Encrypt, fév. 2027)",
+      "domaine": "Développement",
+      "signal_routage": "Renouvellement automatique certificats TLS, Let's Encrypt passe à 64 jours le 10 février 2027, ACME, Certbot, test staging",
+      "mot_cle_index": "certificat tls 64 jours",
+      "nom_court": "TLS 64j",
+      "branche_arbre": "D16",
+      "cross_refs": [
+        507,
+        512
+      ],
+      "synonymes": [
+        "certificat tls 64 jours lets encrypt",
+        "lets encrypt 2027",
+        "mon certificat lets encrypt passe à 64 jours en février 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 907,
+      "emoji": "🎯",
+      "nom": "Attaques IA autonomes & social engineering 2027",
+      "domaine": "Sécurité",
+      "signal_routage": "Cyberattaque autonome par IA 2027, social engineering augmenté par IA, attaque autonome chaîne complète, défense 2027",
+      "mot_cle_index": "attaque ia autonome",
+      "nom_court": "Attaque IA",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        839,
+        840
+      ],
+      "synonymes": [
+        "attaque ia autonome 2027",
+        "piratage par ia",
+        "se défendre des attaques ia autonomes"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 908,
+      "emoji": "🆔",
+      "nom": "Zero Trust & identité des agents IA",
+      "domaine": "Sécurité",
+      "signal_routage": "Zero Trust 2027, gouverner les agents IA comme des identités, contrôle d'accès par agent, journal des actions d'agent en prod",
+      "mot_cle_index": "zero trust agents",
+      "nom_court": "Zero Trust",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        801,
+        819
+      ],
+      "synonymes": [
+        "gouvernance identités ia",
+        "gouverniser les agents ia comme des identités",
+        "zero trust agents identités"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 909,
+      "emoji": "🤖",
+      "nom": "Bot traffic & anti-scraping 2027",
+      "domaine": "Développement",
+      "signal_routage": "Trafic de bots 2027, scraping agressif, protéger son site des bots IA, Cloudflare, rate limiting, fingerprinting 2027",
+      "mot_cle_index": "protéger son site des bots",
+      "nom_court": "Anti-bots",
+      "branche_arbre": "D16",
+      "cross_refs": [
+        544,
+        907
+      ],
+      "synonymes": [
+        "protéger api scraping bots ia",
+        "protéger mon api du scraping de bots ia",
+        "scraping ia 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 910,
+      "emoji": "💸",
+      "nom": "PLF 2027 : dons d'argent allégés S1 2027",
+      "domaine": "Finance",
+      "signal_routage": "PLF 2027, don d'argent 50 000 € exonéré taux 6 % du 1er janvier au 30 juin 2027, fenêtre fiscale transmission jeunes générations",
+      "mot_cle_index": "don argent 2027 6%",
+      "nom_court": "Don 2027",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        811,
+        837
+      ],
+      "synonymes": [
+        "don argent 50 000 euros taux 6 pourcent 2027",
+        "don d'argent à 6 % au premier semestre 2027",
+        "plf 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 911,
+      "emoji": "📉",
+      "nom": "PLF 2027 : indemnités de rupture plafonnées à 1 PASS",
+      "domaine": "Juridique",
+      "signal_routage": "PLF 2027, indemnités de rupture contrat de travail plafonnées à 1 PASS (48 060 €), fin de l'exonération partielle, top 5 % des salariés concernés",
+      "mot_cle_index": "indemnité rupture 2027",
+      "nom_court": "Indemnité rupture",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        634,
+        830
+      ],
+      "synonymes": [
+        "indemnité rupture plafonnée pass 2027",
+        "mon indemnité de rupture sera plafonnée à 1 pass",
+        "plf 2027 licenciement"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 912,
+      "emoji": "💶",
+      "nom": "Directive européenne transparence salariale (fin 2027)",
+      "domaine": "RH & formation",
+      "signal_routage": "Directive UE transparence salariale 2027, afficher les fourchettes de salaire dès l'offre, interdiction de demander l'historique salarial, rapport écart H/F",
+      "mot_cle_index": "transparence salariale 2027",
+      "nom_court": "Transparence salariale",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        410,
+        875
+      ],
+      "synonymes": [
+        "afficher les salaires dans nos offres dès 2027",
+        "directive salaire 2027",
+        "transparence salariale directive ue 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 913,
+      "emoji": "✈️",
+      "nom": "ETIAS 2027 : autorisation voyage Europe",
+      "domaine": "Personnel",
+      "signal_routage": "ETIAS 2027, autorisation de voyage Schengen 20 €,voyageurs dispensés de visa, lancement prévu 2027, EES déjà en vigueur avril 2026",
+      "mot_cle_index": "etias 2027",
+      "nom_court": "ETIAS",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        656,
+        865
+      ],
+      "synonymes": [
+        "autorisation voyage europe",
+        "etias 2027 autorisation voyage",
+        "partir en europe en 2027, faut-il l'etias"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 914,
+      "emoji": "🚆",
+      "nom": "Nouveaux trains Europe 2027 (Munich-Rome, trains de luxe)",
+      "domaine": "Personnel",
+      "signal_routage": "Nouvelles lignes de train Europe 2027, Munich-Rome, trains de luxe Espagne, Paris-Cappadoce, réservation anticipée 2027",
+      "mot_cle_index": "nouveau train europe 2027",
+      "nom_court": "Train Europe 2027",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        865,
+        913
+      ],
+      "synonymes": [
+        "ligne munich rome",
+        "nouvelle ligne de train munich rome en 2027",
+        "train munich rome 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 915,
+      "emoji": "🌡️",
+      "nom": "Canicule & été 2027 : se préparer",
+      "domaine": "Personnel",
+      "signal_routage": "Canicule été 2027, canicule record, se préparer à l'été 2027, climatisation, hydratation, plan canicule, personnes vulnérables",
+      "mot_cle_index": "canicule 2027",
+      "nom_court": "Canicule 2027",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        814,
+        859
+      ],
+      "synonymes": [
+        "canicule été 2027 se préparer",
+        "se préparer à la canicule de l'été 2027",
+        "vague de chaleur 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 916,
+      "emoji": "🧘",
+      "nom": "Régulation nerveuse & micro-rituels 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Régulation du système nerveux 2027, micro-rituels anti-stress, respiration, pauses, gestion de l'attention, tendance bien-être 2027",
+      "mot_cle_index": "régulation nerveuse",
+      "nom_court": "Régulation nerveuse",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        617,
+        813
+      ],
+      "synonymes": [
+        "adopter des micro-rituels de régulation nerveuse",
+        "micro-rituels anti stress",
+        "micro-rituels régulation nerveuse"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 917,
+      "emoji": "🩸",
+      "nom": "Métabolisme & biomarqueurs personnels (CGM, tests sanguins)",
+      "domaine": "Personnel",
+      "signal_routage": "Suivi métabolique personnel 2027, capteur glycémie continu CGM, tests sanguins à domicile, biomarqueurs, habitude alimentaire personnalisée",
+      "mot_cle_index": "suivi métabolique cgm",
+      "nom_court": "CGM perso",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        483,
+        816
+      ],
+      "synonymes": [
+        "capteur glycémie cgm suivi",
+        "glycémie continue 2027",
+        "suivre ma glycémie avec un capteur cgm"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 918,
+      "emoji": "📅",
+      "nom": "Semaine de 4 jours : négocier & tester",
+      "domaine": "Carrière",
+      "signal_routage": "Semaine de 4 jours, négocier la semaine à 4 jours en 2027, test pilote, productivité, droit du travail",
+      "mot_cle_index": "semaine 4 jours",
+      "nom_court": "Semaine 4j",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        877,
+        884
+      ],
+      "synonymes": [
+        "4 jours par semaine",
+        "négocier la semaine de 4 jours",
+        "semaine 4 jours négocier"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 919,
+      "emoji": "🔀",
+      "nom": "Reconversion & métiers porteurs 2027",
+      "domaine": "Carrière",
+      "signal_routage": "Reconversion professionnelle 2027, métiers qui recrutent 2027 (IA, cybersécurité, data, rénovation énergétique, soins), formation gratuite MOOC France Numérique",
+      "mot_cle_index": "reconversion 2027",
+      "nom_court": "Reconversion",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        790,
+        867
+      ],
+      "synonymes": [
+        "changer de métier 2027",
+        "me reconvertir dans la cybersécurité en 2027",
+        "reconversion cybersécurité 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 920,
+      "emoji": "🔌",
+      "nom": "Droit à la déconnexion renforcé",
+      "domaine": "Juridique",
+      "signal_routage": "Droit à la déconnexion, ne pas répondre aux mails le soir, charte de déconnexion 2027, harcèlement numérique, limites au travail",
+      "mot_cle_index": "droit à la déconnexion",
+      "nom_court": "Déconnexion",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        638,
+        884
+      ],
+      "synonymes": [
+        "droit déconnexion mails soir",
+        "ne pas répondre aux mails le soir, mon droit",
+        "ne pas répondre le soir"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 921,
+      "emoji": "🥱",
+      "nom": "Prévenir le bore-out (ennui au travail)",
+      "domaine": "Personnel",
+      "signal_routage": "Bore-out, ennui au travail, sous-activité, perte de sens, bore out 2027, boreout symptômes, en sortir",
+      "mot_cle_index": "bore-out",
+      "nom_court": "Bore-out",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        465,
+        617
+      ],
+      "synonymes": [
+        "bore-out ennui travail",
+        "ennui au travail",
+        "je m'ennuie au travail, c'est le bore-out"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 922,
+      "emoji": "🎯",
+      "nom": "Marque employeur & recrutement par compétences 2027",
+      "domaine": "Gestion",
+      "signal_routage": "Marque employeur 2027, recruter par compétences plutôt que diplôme, skills-based hiring 2027, transparence salariale, cohérence annonce-contrat",
+      "mot_cle_index": "recrutement par compétences",
+      "nom_court": "Skills-based hiring",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        790,
+        912
+      ],
+      "synonymes": [
+        "marque employeur 2027",
+        "recruter par compétences plutôt que diplômes",
+        "skills-based hiring recrutement compétences"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 923,
+      "emoji": "📵",
+      "nom": "Dumbphone & réduction d'écran volontaire",
+      "domaine": "Personnel",
+      "signal_routage": "Dumbphone, téléphone sans smartphone, réduire son temps d'écran volontairement en 2027, téléphone basique, désinstaller les réseaux",
+      "mot_cle_index": "dumbphone",
+      "nom_court": "Dumbphone",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        813,
+        871
+      ],
+      "synonymes": [
+        "dumbphone réduire écran",
+        "passer à un dumbphone en 2027",
+        "téléphone sans internet"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 924,
+      "emoji": "🇪🇺",
+      "nom": "Souveraineté numérique & hébergement européen",
+      "domaine": "Développement",
+      "signal_routage": "Souveraineté numérique 2027, héberger ses données en Europe, RGPD, hébergeur européen, neocloud GPU Europe, données qui restent en UE",
+      "mot_cle_index": "hébergement européen souverain",
+      "nom_court": "Souveraineté UE",
+      "branche_arbre": "D16",
+      "cross_refs": [
+        841,
+        900
+      ],
+      "synonymes": [
+        "données en europe",
+        "hébergement européen souveraineté données",
+        "héberger nos données en europe en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 925,
+      "emoji": "🔌",
+      "nom": "Agent Client Protocol (ACP) & BYO agent",
+      "domaine": "Développement",
+      "signal_routage": "Agent Client Protocol ACP 2027, bring your own agent Android Studio, installer plusieurs agents de code, interop agents 2027",
+      "mot_cle_index": "agent client protocol acp",
+      "nom_court": "ACP",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        76,
+        803
+      ],
+      "synonymes": [
+        "agent client protocol acp rabbit 2",
+        "brancher plusieurs agents dans rabbit 2",
+        "byo agent"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 926,
+      "emoji": "✨",
+      "nom": "Intelligent UI : interfaces générées par l'IA",
+      "domaine": "Produit",
+      "signal_routage": "Intelligent UI, interface générée par l'IA à la volée, UI adaptative générative 2027, OpenAI Intelligent UI",
+      "mot_cle_index": "interface générée par ia",
+      "nom_court": "Intelligent UI",
+      "branche_arbre": "D22",
+      "cross_refs": [
+        805,
+        823
+      ],
+      "synonymes": [
+        "faire générer des formulaires par l'ia",
+        "intelligent ui formulaires générés ia",
+        "ui générative"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 927,
+      "emoji": "🧾",
+      "nom": "Tarification hybride des logiciels IA (per-user + usage)",
+      "domaine": "Gestion",
+      "signal_routage": "Tarification hybride SaaS IA 2027, per-user + à l'usage, prévoir le coût des agents IA dans le budget 2027, Deloitte prévision 2027",
+      "mot_cle_index": "coût logiciels ia 2027",
+      "nom_court": "Coût SaaS IA",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        694,
+        882
+      ],
+      "synonymes": [
+        "budget ia 2027",
+        "prévoir le coût des logiciels ia dans le budget 2027",
+        "tarification hybride logiciels ia budget"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 928,
+      "emoji": "🌑",
+      "nom": "Shadow IA : encadrer les usages informels",
+      "domaine": "Gestion",
+      "signal_routage": "Shadow IA en entreprise 2027, outils IA utilisés sans validation IT, encadrer, registre, politique d'usage, fuites de données",
+      "mot_cle_index": "shadow ia",
+      "nom_court": "Shadow IA",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        695,
+        900
+      ],
+      "synonymes": [
+        "ia non déclarée entreprise",
+        "mes collègues utilisent chatgpt perso au bureau",
+        "shadow ia outils non déclarés"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 929,
+      "emoji": "🌍",
+      "nom": "World models & simulation pour la recherche",
+      "domaine": "Data & IA",
+      "signal_routage": "World models 2027, simulation d'environnements par IA, tester des scénarios (bio, robotique, supply chain) moins cher en 2027",
+      "mot_cle_index": "world model simulation",
+      "nom_court": "World model",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        266,
+        693
+      ],
+      "synonymes": [
+        "simulation ia recherche",
+        "tester nos scénarios logistique avec un world model",
+        "world model simulation logistique"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 930,
+      "emoji": "🎵",
+      "nom": "Contenu audio IA (Suno/Udio) : musique & voix",
+      "domaine": "Créativité",
+      "signal_routage": "Générer une chanson avec l'IA (Suno, Udio) en 2027, voix clonée légale, droits d'auteur musique IA 2027, jingle, podcast",
+      "mot_cle_index": "musique ia 2027",
+      "nom_court": "Musique IA",
+      "branche_arbre": "D19",
+      "cross_refs": [
+        154,
+        561
+      ],
+      "synonymes": [
+        "générer un jingle avec suno",
+        "musique ia suno jingle",
+        "suno udio"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 931,
+      "emoji": "🦾",
+      "nom": "Robots humanoïdes au travail (2027)",
+      "domaine": "Gestion",
+      "signal_routage": "Robots humanoïdes en entreprise 2027, Digit Agility Robotics 65 000 h, BMW 90 000 pièces, automatisation usine 2027",
+      "mot_cle_index": "robot humanoïde travail",
+      "nom_court": "Robot humanoïde",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        259,
+        907
+      ],
+      "synonymes": [
+        "les robots humanoïdes arrivent dans mon usine",
+        "robot usine 2027",
+        "robots humanoïdes usine 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 932,
+      "emoji": "🛂",
+      "nom": "EES : contrôle biométrique aux frontières Schengen",
+      "domaine": "Personnel",
+      "signal_routage": "EES Entry Exit System, contrôle biométrique frontières Schengen depuis avril 2026, empreintes, facial, délais aéroport 2027",
+      "mot_cle_index": "ees frontière schengen",
+      "nom_court": "EES",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        656,
+        913
+      ],
+      "synonymes": [
+        "contrôle biométrique aéroport",
+        "contrôle biométrique à la frontière schengen en 2027",
+        "ees contrôle biométrique frontière"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 933,
+      "emoji": "🎓",
+      "nom": "Permis Graduate UK raccourci à 18 mois (2027)",
+      "domaine": "Carrière",
+      "signal_routage": "Visa Graduate Royaume-Uni 18 mois à partir du 1er janvier 2027, études UK, travail post-études 2027",
+      "mot_cle_index": "visa graduate uk 2027",
+      "nom_court": "Graduate UK",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        656,
+        830
+      ],
+      "synonymes": [
+        "graduate visa uk 18 mois",
+        "visa graduate uk à 18 mois en 2027",
+        "étudier travailler royaume-uni 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 934,
+      "emoji": "🧳",
+      "nom": "Règles bagages cabine & powerbanks 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Règles bagages cabine 2027, powerbanks interdits/limités soute, nouvelles règles marchandises dangereuses avions 2027 UE",
+      "mot_cle_index": "powerbank cabine avion 2027",
+      "nom_court": "Powerbank avion",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        865,
+        914
+      ],
+      "synonymes": [
+        "batterie avion 2027",
+        "powerbank cabine avion 2027",
+        "powerbank en cabine avion en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 935,
+      "emoji": "🏡",
+      "nom": "Anah & rénovation globale 2027 (recentrage PLF 2027)",
+      "domaine": "Finance",
+      "signal_routage": "Anah 2027, aides rénovation recentrées sur rénovation globale et copropriétés dégradées (PLF 2027), MaPrimeRénov' 2027, CEE solaires supprimés nov 2026",
+      "mot_cle_index": "aide rénovation 2027 anah",
+      "nom_court": "Anah 2027",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        811,
+        894
+      ],
+      "synonymes": [
+        "aides anah recentrées en 2027",
+        "anah aides rénovation recentrées 2027",
+        "maprimerenov 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 936,
+      "emoji": "🤝",
+      "nom": "Reprise d'entreprise par les salariés (Pacte Papin 2027)",
+      "domaine": "Gestion",
+      "signal_routage": "Reprise d'entreprise par les salariés 2027, pacte Papin, droits d'enregistrement 0,1 %, suramortissement 30 % modernisation, abattement retraite 500k-1M€",
+      "mot_cle_index": "reprise entreprise salariés",
+      "nom_court": "Reprise salariés",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        888,
+        891
+      ],
+      "synonymes": [
+        "pacte papin",
+        "pacte papin reprise salariés",
+        "reprise de mon entreprise par les salariés en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 937,
+      "emoji": "🧘",
+      "nom": "Prévention RPS & bien-être au travail (indicateur 2027)",
+      "domaine": "RH & formation",
+      "signal_routage": "Prévention des risques psychosociaux 2027, RPS indicateur business, bien-être au travail, management bienveillant, charge mentale équipe",
+      "mot_cle_index": "prévention rps 2027",
+      "nom_court": "Prévention RPS",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        787,
+        921
+      ],
+      "synonymes": [
+        "bien-être au travail 2027",
+        "prévenir les rps comme indicateur 2027",
+        "prévention rps indicateur 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 938,
+      "emoji": "🔍",
+      "nom": "GEO / AEO : être cité par les moteurs IA",
+      "domaine": "Marketing",
+      "signal_routage": "Être cité par ChatGPT/Perplexity/Gemini (GEO AEO 2027), optimiser son contenu pour les moteurs génératifs, structured data, brand mentions",
+      "mot_cle_index": "être cité par chatgpt",
+      "nom_court": "GEO AEO",
+      "branche_arbre": "D20",
+      "cross_refs": [
+        647,
+        735
+      ],
+      "synonymes": [
+        "geo aeo être cité moteurs ia",
+        "geo moteurs ia",
+        "être cité par chatgpt quand on cherche un comparatif"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 939,
+      "emoji": "✅",
+      "nom": "Vérification humaine des sorties d'agents (2027)",
+      "domaine": "Data & IA",
+      "signal_routage": "Vérifier ce que produit un agent IA avant usage (Karpathy verifiability 2027), revue humaine systématique, tests de régression sur sorties",
+      "mot_cle_index": "vérifier sortie agent ia",
+      "nom_court": "Vérif agent",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        693,
+        819
+      ],
+      "synonymes": [
+        "verifiability karpathy",
+        "verifiability vérifier sorties agent",
+        "vérifier les sorties de mon agent avant prod"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 940,
+      "emoji": "⚖️",
+      "nom": "Données publiques & scraping éthique/légal 2027",
+      "domaine": "Juridique",
+      "signal_routage": "Scraper des données publiques en 2027 légalement, robots.txt, CGU, RGPD, opt-out robots IA (llms.txt, balises), bornes du scraping",
+      "mot_cle_index": "scraper données publiques légal",
+      "nom_court": "Scraping légal",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        695,
+        909
+      ],
+      "synonymes": [
+        "llms.txt 2027",
+        "scraper des données publiques légalement",
+        "scraping légal robots.txt rgpd"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 941,
+      "emoji": "❤️",
+      "nom": "Nutrition fonctionnelle & santé cardiovasculaire 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Santé cardiovasculaire 2027, bêta-glucanes avoine, nitrates betterave, polyphénols, créatine, muscle & longévité 2027, preuves scientifiques",
+      "mot_cle_index": "santé cœur 2027 nutrition",
+      "nom_court": "Nutrition 2027",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        483,
+        917
+      ],
+      "synonymes": [
+        "créatine 2027",
+        "créatine et santé cardiaque, quelles preuves en 2027",
+        "nutrition cardiovasculaire créatine preuves"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 942,
+      "emoji": "🛏️",
+      "nom": "Sommeil & voyages (sleep tourism) 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Sleep tourism 2027, hôtels optimisés sommeil (lumière circadienne, blackout), séjours « sommeil », 8 h de sommeil comme objectif voyage",
+      "mot_cle_index": "hôtel sommeil 2027",
+      "nom_court": "Sleep tourism",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        814,
+        915
+      ],
+      "synonymes": [
+        "choisir un hôtel optimisé pour le sommeil",
+        "sleep tourism hôtel sommeil",
+        "voyage sommeil"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 943,
+      "emoji": "📲",
+      "nom": "IA embarquée & on-device (téléphone 2027)",
+      "domaine": "Développement",
+      "signal_routage": "IA embarquée on-device 2027, modèles qui tournent sur téléphone, confidentialité maximale, Siri nouvelle génération, Apple Intelligence",
+      "mot_cle_index": "ia sur téléphone 2027",
+      "nom_court": "IA on-device",
+      "branche_arbre": "D16",
+      "cross_refs": [
+        841,
+        903
+      ],
+      "synonymes": [
+        "apple intelligence 2027",
+        "faire tourner siri en local sur mon téléphone",
+        "ia on-device téléphone local"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 944,
+      "emoji": "📚",
+      "nom": "Fact-checking & NotebookLM ancré 2027",
+      "domaine": "Recherche",
+      "signal_routage": "Vérifier une info avec NotebookLM ancré sur ses sources 2027, fact-checking assisté, sources primaires, biais de confirmation",
+      "mot_cle_index": "vérifier une info avec ia ancrée",
+      "nom_court": "NotebookLM ancré",
+      "branche_arbre": "D17",
+      "cross_refs": [
+        700,
+        806
+      ],
+      "synonymes": [
+        "fact-check ia sources",
+        "notebooklm ancré fact-check",
+        "vérifier une info avec notebooklm ancré"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 945,
+      "emoji": "🪨",
+      "nom": "Prompt « caveman » & concision des sorties IA",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Prompt caveman, réduire les tokens et la verbosité de l'IA (étude mars 2026 : brièveté = +26 % de précision), sorties courtes",
+      "mot_cle_index": "prompt caveman",
+      "nom_court": "Caveman",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        694,
+        817
+      ],
+      "synonymes": [
+        "le prompt caveman pour des réponses courtes",
+        "prompt caveman concision",
+        "réduire tokens ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 946,
+      "emoji": "🚫",
+      "nom": "Gestion des données d'entraînement & opt-out (créateur)",
+      "domaine": "Juridique",
+      "signal_routage": "Empêcher son contenu d'entraîner les IA (opt-out 2027), llms.txt, meta noai, Google-Extended, droits d'auteur contenu IA",
+      "mot_cle_index": "opt-out entraînement ia",
+      "nom_court": "Opt-out IA",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        901,
+        940
+      ],
+      "synonymes": [
+        "empêcher les llm d'entraîner sur mon contenu",
+        "ne pas entraîner ia sur mon contenu",
+        "opt-out llms.txt entraînement ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 947,
+      "emoji": "🧨",
+      "nom": "Agent éphémère jetable (one-shot tasks)",
+      "domaine": "IA / Prompting",
+      "signal_routage": "Lancer un agent jetable pour une tâche ponctuelle 2027 (one-shot), ne pas garder d'agent permanent inutile, coût par tâche",
+      "mot_cle_index": "agent jetable one-shot",
+      "nom_court": "Agent jetable",
+      "branche_arbre": "D14",
+      "cross_refs": [
+        820,
+        927
+      ],
+      "synonymes": [
+        "agent one-shot jetable",
+        "lancer un agent jetable pour une tâche ponctuelle",
+        "tâche ponctuelle agent"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 948,
+      "emoji": "📋",
+      "nom": "Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027)",
+      "domaine": "Juridique",
+      "signal_routage": "Audit CNIL renforcé 2027 (1,5 million de contrôles prévus), registre des traitements, DPO, DPIA, sous-traitants, logs de conformité",
+      "mot_cle_index": "audit cnil 2027",
+      "nom_court": "Audit CNIL",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        695,
+        843
+      ],
+      "synonymes": [
+        "audit cnil 1,5 million contrôles",
+        "contrôle cnil 2027",
+        "se préparer aux 1,5 million de contrôles cnil en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 949,
+      "emoji": "🎯",
+      "nom": "Bilan & objectifs 2027 (tous domaines)",
+      "domaine": "Gestion",
+      "signal_routage": "Faire son bilan 2026 et poser ses objectifs 2027, bonnes résolutions réalistes, revue mensuelle, 3 objectifs max SMART",
+      "mot_cle_index": "objectifs 2027",
+      "nom_court": "Objectifs 2027",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        898,
+        899
+      ],
+      "synonymes": [
+        "bilan 2026 objectifs 2027",
+        "bilan 2026 objectifs 2027 smart",
+        "faire mon bilan 2026 et mes objectifs 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 950,
+      "emoji": "📉",
+      "nom": "Négocier un PSE (plan de sauvegarde de l'emploi)",
+      "domaine": "Juridique",
+      "signal_routage": "PSE plan de sauvegarde de l'emploi, licenciement économique collectif, procédure, CSE, accord majoritaire, homologation DIRECCTE 2027",
+      "mot_cle_index": "pse licenciement économique",
+      "nom_court": "PSE",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        634,
+        888
+      ],
+      "synonymes": [
+        "on doit faire un pse",
+        "plan de licenciement collectif",
+        "pse plan sauvegarde emploi"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 951,
+      "emoji": "💰",
+      "nom": "Accord d'intéressement & participation 2027",
+      "domaine": "RH & formation",
+      "signal_routage": "Mettre en place un accord d'intéressement ou de participation 2027, prime liée aux résultats, exonérations fiscales et sociales",
+      "mot_cle_index": "intéressement 2027",
+      "nom_court": "Intéressement",
+      "branche_arbre": "D24",
+      "cross_refs": [
+        410,
+        912
+      ],
+      "synonymes": [
+        "accord intéressement participation",
+        "mettre en place un accord d'intéressement",
+        "prime résultats salariés"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 952,
+      "emoji": "🎰",
+      "nom": "Prévention des addictions (écrans, jeux, paris) 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Prévention addiction aux jeux d'argent/paris en ligne 2027, écrans, réseaux sociaux, jeux vidéo, signaux d'alerte, aide (Joueurs Info Service)",
+      "mot_cle_index": "addiction écrans jeux 2027",
+      "nom_court": "Prévention addiction",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        813,
+        923
+      ],
+      "synonymes": [
+        "addiction paris en ligne",
+        "addiction paris écrans prévention",
+        "prévenir l'addiction aux paris en ligne"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 953,
+      "emoji": "💳",
+      "nom": "Gestion d'une fraude bancaire en ligne (2027)",
+      "domaine": "Sécurité",
+      "signal_routage": "Carte bancaire piratée, fraude bancaire en ligne 2027, opposition carte, remboursement banque (3-D Secure), plainte, Pharos",
+      "mot_cle_index": "fraude carte bancaire",
+      "nom_court": "Fraude CB",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        758,
+        839
+      ],
+      "synonymes": [
+        "carte piratée",
+        "fraude carte bancaire opposition",
+        "fraude sur ma carte bancaire ce matin"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 954,
+      "emoji": "🛂",
+      "nom": "Vol ou perte de passeport à l'étranger (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Passeport volé ou perdu à l'étranger en 2027, déclaration commissariat local, laissez-passer consulat, ETIAS/EES impact, assurance voyage",
+      "mot_cle_index": "passeport volé étranger",
+      "nom_court": "Passeport volé",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        913,
+        932
+      ],
+      "synonymes": [
+        "mon passeport a été volé à l'étranger",
+        "passeport volé consulat laissez-passer",
+        "perdu passeport voyage"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 955,
+      "emoji": "🖥️",
+      "nom": "Démarches administratives en ligne (ANTS,ANTS 2027)",
+      "domaine": "Bureau",
+      "signal_routage": "Démarches ANTS en ligne 2027 (carte grise, passeport, permis), France Identité,ANTS, délais 2027, rdv agence",
+      "mot_cle_index": "démarches ants en ligne",
+      "nom_court": "ANTS en ligne",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        471,
+        664
+      ],
+      "synonymes": [
+        "ants démarche passeport en ligne",
+        "carte grise en ligne",
+        "renouveler mon passeport sur ants en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 956,
+      "emoji": "🚩",
+      "nom": "Vérification d'un site de rencontre (arnaques)",
+      "domaine": "Sécurité",
+      "signal_routage": "Arnaque site de rencontre 2027 (love scam), faux profil, demande d'argent, vérification photo inversée, signaux, signaler",
+      "mot_cle_index": "arnaque site de rencontre",
+      "nom_court": "Love scam",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        839,
+        842
+      ],
+      "synonymes": [
+        "arnaque sur un site de rencontre",
+        "love scam",
+        "love scam site rencontre arnaque"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 957,
+      "emoji": "🔓",
+      "nom": "Gestion d'un piratage de compte (mail, réseau social)",
+      "domaine": "Sécurité",
+      "signal_routage": "Compte piraté (mail, Instagram, banque) 2027, récupération, 2FA, changement mots de passe, sessions actives, signalement",
+      "mot_cle_index": "compte piraté 2027",
+      "nom_court": "Compte piraté",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        665,
+        953
+      ],
+      "synonymes": [
+        "compte piraté récupération 2fa",
+        "mon compte a été hacké",
+        "mon compte instagram a été piraté"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 958,
+      "emoji": "🌍",
+      "nom": "Préparation d'une expatriation (visa, banque, santé) 2027",
+      "domaine": "Personnel",
+      "signal_routage": "S'expatrier en 2027 : visa long séjour, compte bancaire à l'étranger, assurance santé internationale, impôts (non-résident), ETIAS/ETA selon destination",
+      "mot_cle_index": "s'expatrier 2027",
+      "nom_court": "Expatriation",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        656,
+        933
+      ],
+      "synonymes": [
+        "expatriation portugal visa 2027",
+        "je m'expatrie au portugal en 2027",
+        "vivre à l'étranger 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 959,
+      "emoji": "🚗",
+      "nom": "Achat d'une voiture électrique d'occasion (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Acheter une voiture électrique d'occasion en 2027, batterie (SOH), autonomie réelle, bonus écologique, borne de recharge, leasing social",
+      "mot_cle_index": "voiture électrique occasion 2027",
+      "nom_court": "VE occasion",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        298,
+        541
+      ],
+      "synonymes": [
+        "acheter tesla occasion",
+        "acheter une voiture électrique d'occasion en 2027",
+        "voiture électrique occasion soh batterie"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 960,
+      "emoji": "🔌",
+      "nom": "Installation d'une borne de recharge à domicile (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Installer une borne de recharge électrique à domicile en 2027, aide CEE/MaPrimeRénov', puissance 7 kW, délestage, copropriété (droit à la prise)",
+      "mot_cle_index": "borne de recharge domicile",
+      "nom_court": "Borne recharge",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        935,
+        959
+      ],
+      "synonymes": [
+        "borne recharge wallbox domicile aides",
+        "installer une borne de recharge chez moi",
+        "installer wallbox"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 961,
+      "emoji": "🏠",
+      "nom": "Rénovation énergétique globale (DPE) 2027",
+      "domaine": "Finance",
+      "signal_routage": "Rénovation énergétique globale 2027, DPE, interdiction location passoires thermiques, audit énergétique, MaPrimeRénov' parcours accompagné",
+      "mot_cle_index": "rénovation énergétique globale",
+      "nom_court": "Rénovation globale",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        894,
+        935
+      ],
+      "synonymes": [
+        "dpe 2027 interdiction location",
+        "rénovation globale dpe passoire",
+        "rénovation énergétique globale de ma maison"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 962,
+      "emoji": "🔑",
+      "nom": "Vérification d'une offre de colocation / arnaque logement",
+      "domaine": "Recherche",
+      "signal_routage": "Arnaque annonce logement 2027, fausse proprio, virement avant visite, visite virtuelle truquée, vérifier agence SIRET, Signaler Pharos",
+      "mot_cle_index": "arnaque logement location",
+      "nom_court": "Arnaque logement",
+      "branche_arbre": "D17",
+      "cross_refs": [
+        828,
+        854,
+        870
+      ],
+      "synonymes": [
+        "arnaque annonce location logement",
+        "arnaque à l'annonce de colocation",
+        "fausse annonce immo"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 963,
+      "emoji": "📜",
+      "nom": "Rédiger un testament (formes, légataires, réserve héréditaire)",
+      "domaine": "Juridique",
+      "signal_routage": "Rédiger un testament en 2027, testament olographe vs authentique, légataires, réserve héréditaire, notaire, validité",
+      "mot_cle_index": "rédiger un testament",
+      "nom_court": "Testament",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        651,
+        837
+      ],
+      "synonymes": [
+        "faire son testament",
+        "rédiger mon testament",
+        "testament olographe notaire"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 964,
+      "emoji": "📈",
+      "nom": "Ouverture d'un PEA / compte-titres 2027",
+      "domaine": "Finance",
+      "signal_routage": "Ouvrir un PEA ou compte-titres en 2027, banque en ligne vs banque traditionnelle, ETF monde, fiscalité après 5 ans, plafond 150 000 €",
+      "mot_cle_index": "ouvrir un pea 2027",
+      "nom_court": "PEA 2027",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        519,
+        835
+      ],
+      "synonymes": [
+        "compte-titres 2027",
+        "ouvrir un pea en 2027",
+        "pea compte-titres etf monde"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 965,
+      "emoji": "🏠",
+      "nom": "Assurance habitation & multirisque 2027",
+      "domaine": "Finance",
+      "signal_routage": "Choisir une assurance habitation multirisque en 2027, comparer les garanties (dégâts des eaux, vol, responsabilité civile), franchise, tarifs 2027",
+      "mot_cle_index": "assurance habitation 2027",
+      "nom_court": "Assurance habitation",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        683,
+        895
+      ],
+      "synonymes": [
+        "assurance habitation multirisque comparer",
+        "comparer deux assurances habitation",
+        "multirisque habitation"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 966,
+      "emoji": "🏦",
+      "nom": "Crédit immobilier : simuler & comparer les offres 2027",
+      "domaine": "Finance",
+      "signal_routage": "Simuler un crédit immobilier en 2027, comparer TAEG entre banques, délégation d'assurance, apport, durée, capacité d'emprunt",
+      "mot_cle_index": "simuler crédit immobilier 2027",
+      "nom_court": "Simulateur crédit",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        298,
+        833
+      ],
+      "synonymes": [
+        "simulation crédit immobilier taeg",
+        "simuler un crédit immobilier en 2027",
+        "taux crédit 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 967,
+      "emoji": "🔍",
+      "nom": "Vérifier une entreprise avant embauche/achat (due diligence légère)",
+      "domaine": "Recherche",
+      "signal_routage": "Vérifier une entreprise avant embauche ou achat en 2027 : SIRET, bilans (Pappers, Societe.com), avis salariés (Glassdoor, Indeed), contentieux, santé financière",
+      "mot_cle_index": "vérifier une entreprise 2027",
+      "nom_court": "Due diligence légère",
+      "branche_arbre": "D17",
+      "cross_refs": [
+        647,
+        874
+      ],
+      "synonymes": [
+        "due diligence vérifier entreprise",
+        "vérifier employeur",
+        "vérifier une entreprise avant d'y postuler"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 968,
+      "emoji": "🎯",
+      "nom": "Préparer un entretien d'embauche côté candidat (STAR + questions)",
+      "domaine": "Carrière",
+      "signal_routage": "Préparer un entretien d'embauche en 2027 : méthode STAR, recherche entreprise, questions à poser, test technique, négociation offre",
+      "mot_cle_index": "préparer entretien embauche 2027",
+      "nom_court": "Entretien STAR",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        872,
+        875
+      ],
+      "synonymes": [
+        "entretien embauche méthode star",
+        "méthode star entretien",
+        "préparer mon entretien d'embauche avec la méthode star"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 969,
+      "emoji": "🤝",
+      "nom": "Négocier une rupture conventionnelle individuelle",
+      "domaine": "Juridique",
+      "signal_routage": "Négocier une rupture conventionnelle individuelle en 2027, indemnité supra-légale, congé de reclassement, délai de rétractation 15 jours, homologation",
+      "mot_cle_index": "rupture conventionnelle individuelle",
+      "nom_court": "RC individuelle",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        830,
+        888
+      ],
+      "synonymes": [
+        "négocier ma rupture conventionnelle",
+        "négocier sa rupture",
+        "rupture conventionnelle négocier indemnité"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 970,
+      "emoji": "🩺",
+      "nom": "Prévenir l'usure professionnelle (santé au travail)",
+      "domaine": "Personnel",
+      "signal_routage": "Usure professionnelle, TMS, troubles musculo-squelettiques, ergonomie bureau 2027, médecin du travail, aménagement de poste",
+      "mot_cle_index": "usure professionnelle",
+      "nom_court": "Usure pro",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        484,
+        937
+      ],
+      "synonymes": [
+        "j'ai mal au poignet au bureau depuis 6 mois",
+        "tms bureau 2027",
+        "tms usure professionnelle ergonomie"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 971,
+      "emoji": "🕊️",
+      "nom": "Gestion d'un conflit entre collègues",
+      "domaine": "Communication",
+      "signal_routage": "Conflit entre collègues 2027, médiation interne, parler directement, reformuler, se concentrer sur les faits, RH si besoin",
+      "mot_cle_index": "dispute avec un collègue",
+      "nom_court": "Conflit collègues",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        649,
+        762
+      ],
+      "synonymes": [
+        "conflit avec un collègue qui prend mes idées",
+        "conflit collègue dispute travail",
+        "dispute au travail"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 972,
+      "emoji": "🎉",
+      "nom": "Organiser un pot de départ / événement d'équipe",
+      "domaine": "Communication",
+      "signal_routage": "Organiser un pot de départ, événement d'équipe 2027, budget, lieu, invitations, discours de départ, photo de groupe",
+      "mot_cle_index": "organiser un pot de départ",
+      "nom_court": "Pot de départ",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        657,
+        863
+      ],
+      "synonymes": [
+        "organiser le pot de départ de mon collègue",
+        "pot de départ organiser équipe",
+        "événement équipe 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 973,
+      "emoji": "🧾",
+      "nom": "Lire et comprendre sa fiche de paie (2027)",
+      "domaine": "Juridique",
+      "signal_routage": "Lire sa fiche de paie 2027, comprendre les lignes (brut, net, cotisations, CSG CRDS, PAS prélèvement à la source), erreurs fréquentes",
+      "mot_cle_index": "lire sa fiche de paie",
+      "nom_court": "Fiche de paie",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        297,
+        639
+      ],
+      "synonymes": [
+        "comprendre bulletin salaire",
+        "fiche de paie lire comprendre",
+        "mon net a baissé sans explication sur ma paie"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 974,
+      "emoji": "📝",
+      "nom": "Déclarer ses revenus 2027 (déclaration en ligne)",
+      "domaine": "Juridique",
+      "signal_routage": "Déclarer ses revenus 2027 en ligne (impots.gouv.fr), déclaration automatique, revenus à déclarer (foncier, capitaux, pro), délais mai-juin 2027",
+      "mot_cle_index": "déclaration revenus 2027",
+      "nom_court": "Déclaration 2027",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        811,
+        973
+      ],
+      "synonymes": [
+        "déclaration revenus mai 2027 impots",
+        "déclarer mes revenus en mai 2027",
+        "impots.gouv.fr 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 975,
+      "emoji": "🏥",
+      "nom": "Faire reconnaître une maladie professionnelle (MP)",
+      "domaine": "Juridique",
+      "signal_routage": "Maladie professionnelle reconnue en 2027, tableau MP, déclaration CPAM sous 2 ans, expertise médicale, indemnisation, IJ AT/MP",
+      "mot_cle_index": "maladie professionnelle",
+      "nom_court": "MP",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        886,
+        970
+      ],
+      "synonymes": [
+        "faire reconnaître ma tendinite comme maladie pro",
+        "maladie professionnelle reconnaissance cpam",
+        "reconnaissance AT MP"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 976,
+      "emoji": "🏗️",
+      "nom": "Acheter un bien en VEFA / neuf en 2027",
+      "domaine": "Finance",
+      "signal_routage": "Acheter en VEFA neuf en 2027, contrat de réservation, VEFA, garanties décennale/biennale, échelonnement des paiements, PTZ 2027",
+      "mot_cle_index": "acheter en vefa 2027",
+      "nom_court": "VEFA 2027",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        675,
+        966
+      ],
+      "synonymes": [
+        "achat vefa appartement neuf",
+        "acheter en vefa un appartement neuf en 2027",
+        "acheter neuf 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 977,
+      "emoji": "🛋️",
+      "nom": "Louer son bien en meublé (LMNP) vs nu 2027",
+      "domaine": "Finance",
+      "signal_routage": "Louer en meublé (LMNP) ou nu en 2027, comparaison fiscale, amortissement LMNP, Jeanbrun location nue 2027, charges, bail meublé",
+      "mot_cle_index": "lmnp vs location nue 2027",
+      "nom_court": "LMNP vs nue",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        894,
+        935
+      ],
+      "synonymes": [
+        "lmnp meublé vs location nue",
+        "louer mon bien en meublé ou en nu en 2027",
+        "meublé ou nu 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 978,
+      "emoji": "👴",
+      "nom": "Préparer sa retraite (PER, calcul rente) 2027",
+      "domaine": "Finance",
+      "signal_routage": "Préparer sa retraite en 2027, PER, calcul de la rente, âge légal 64 ans, trimestres, cumul emploi-retraite, décote/surcote",
+      "mot_cle_index": "préparer sa retraite 2027",
+      "nom_court": "Retraite 2027",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        811,
+        964
+      ],
+      "synonymes": [
+        "calcul retraite 2027",
+        "préparer ma retraite à 64 ans",
+        "préparer retraite 64 ans trimestres"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 979,
+      "emoji": "🔋",
+      "nom": "Faire un audit énergétique & DPE avant travaux 2027",
+      "domaine": "Finance",
+      "signal_routage": "Audit énergétique obligatoire 2027 avant vente/location, DPE, travaux prioritaires, aides France Rénov', diagnostiqueur certifié",
+      "mot_cle_index": "audit énergétique 2027",
+      "nom_court": "Audit éner.",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        935,
+        961
+      ],
+      "synonymes": [
+        "audit énergétique dpe avant travaux",
+        "dpe 2027 avant travaux",
+        "faire un audit énergétique avant de louer"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 980,
+      "emoji": "🏢",
+      "nom": "Créer une SCI (société civile immobilière) 2027",
+      "domaine": "Gestion",
+      "signal_routage": "Créer une SCI en 2027, statuts SCI, SCI à l'IS ou IR, gestion, apports, comptes, assemblée générale, notaire",
+      "mot_cle_index": "créer une sci 2027",
+      "nom_court": "SCI",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        837,
+        892
+      ],
+      "synonymes": [
+        "créer sci société civile immobilière",
+        "créer une sci avec ma famille en 2027",
+        "sci immobilière"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 981,
+      "emoji": "🔨",
+      "nom": "Gérer un litige avec un artisan / travaux bâclés",
+      "domaine": "Juridique",
+      "signal_routage": "Litige artisan travaux bâclés 2027, mise en demeure, garantie décennale/biennale/parfait achèvement, expertise judiciaire, médiation, assurance DO",
+      "mot_cle_index": "litige artisan travaux",
+      "nom_court": "Litige travaux",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        855,
+        895
+      ],
+      "synonymes": [
+        "litige artisan garantie décennale",
+        "mon artisan a bâclé la toiture",
+        "travaux bâclés 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 982,
+      "emoji": "⚖️",
+      "nom": "Prévenir le surendettement & FICP 2027",
+      "domaine": "Finance",
+      "signal_routage": "Surendettement, dossier Banque de France 2027, FICP, négociation avec les créanciers, commission de surendettement, plan de redressement",
+      "mot_cle_index": "surendettement 2027",
+      "nom_court": "Surendettement",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        371,
+        832
+      ],
+      "synonymes": [
+        "ficp inscription",
+        "je suis en surendettement, que faire",
+        "surendettement dossier banque de france"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 983,
+      "emoji": "♻️",
+      "nom": "Acheter un produit reconditionné en sécurité (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Acheter reconditionné en 2027 (téléphone, ordinateur), garantie légale 2 ans, Back Market, garantie constructeur, test à réception",
+      "mot_cle_index": "acheter reconditionné 2027",
+      "nom_court": "Reconditionné",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        842,
+        851
+      ],
+      "synonymes": [
+        "acheter reconditionné back market",
+        "acheter un iphone reconditionné en sécurité",
+        "back market 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 984,
+      "emoji": "🚐",
+      "nom": "Préparer un road-trip en van aménagé 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Road-trip van aménagé 2027, louer ou acheter un van, itinéraire, aires de camping-car, budget, assurance, appli Park4Night",
+      "mot_cle_index": "road trip van 2027",
+      "nom_court": "Van 2027",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        865,
+        914
+      ],
+      "synonymes": [
+        "road-trip en van aménagé cet été 2027",
+        "van aménagé 2027",
+        "van aménagé road-trip park4night"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 985,
+      "emoji": "💍",
+      "nom": "Préparer un mariage écolo & petit budget 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Mariage écolo petit budget 2027, salle champêtre, traiteur local, faire-part numérique, liste de mariage responsable, témoin, mairie",
+      "mot_cle_index": "mariage écolo 2027",
+      "nom_court": "Mariage écolo",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        541,
+        863
+      ],
+      "synonymes": [
+        "mariage pas cher 2027",
+        "mariage écolo petit budget",
+        "mariage écolo à petit budget en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 986,
+      "emoji": "🥾",
+      "nom": "Préparer un trek / randonnée plusieurs jours 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Préparer un trek plusieurs jours 2027, GR, équipement, refuge, ravitaillement, météo, assurance, appli Visorando, poids du sac",
+      "mot_cle_index": "préparer un trek 2027",
+      "nom_court": "Trek 2027",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        914,
+        915
+      ],
+      "synonymes": [
+        "faire le gr20 en trek en 2027",
+        "randonnée gr 2027",
+        "trek gr20 randonnée plusieurs jours"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 987,
+      "emoji": "🎊",
+      "nom": "Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Organiser un EVJF/EVG 2027, budget, activités, week-end, invitations, surprise, déguisements, sécurité (alcool responsable)",
+      "mot_cle_index": "organiser un evjf 2027",
+      "nom_court": "EVJF 2027",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        863,
+        972
+      ],
+      "synonymes": [
+        "evg 2027",
+        "evjf evg organiser",
+        "organiser l'evjf de ma sœur en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 988,
+      "emoji": "🚴",
+      "nom": "Préparer une expédition vélo (cyclotourisme) 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Préparer une expédition vélo plusieurs jours 2027, vélo de voyage, sacoches, itinéraire EuroVélo, bagages, mécanique de base, assurance",
+      "mot_cle_index": "expédition vélo 2027",
+      "nom_court": "Cyclotourisme",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        914,
+        986
+      ],
+      "synonymes": [
+        "eurovélo 2027",
+        "expédition vélo eurovélo",
+        "faire la vélodyssée à vélo en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 989,
+      "emoji": "🛶",
+      "nom": "Préparer une expédition en kayak/canoë 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Expédition kayak canoë 2027, itinéraire rivière, équipement (gilet, pagaie, casque), niveau, assurance, appli (canoe-kayak)",
+      "mot_cle_index": "expédition kayak 2027",
+      "nom_court": "Kayak 2027",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        986,
+        988
+      ],
+      "synonymes": [
+        "canoë 2027",
+        "expédition kayak sur la dordogne",
+        "kayak canoë expédition rivière"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 990,
+      "emoji": "🌍",
+      "nom": "Faire du volontariat international (VSI, PVT) 2027",
+      "domaine": "Carrière",
+      "signal_routage": "Volontariat international VSI 2027, PVT (programme vacances travail), visas, assurances, organismes (France Volontaires, Workaway), budget",
+      "mot_cle_index": "volontariat international 2027",
+      "nom_court": "VSI 2027",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        919,
+        958
+      ],
+      "synonymes": [
+        "partir en volontariat international vsi en 2027",
+        "pvt 2027",
+        "vsi volontariat international"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 991,
+      "emoji": "📦",
+      "nom": "Préparer un déménagement à l'étranger (douane, conteneur) 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Déménagement à l'étranger 2027, conteneur maritime, douane (certificat de changement de résidence), inventaire, assurance, prix",
+      "mot_cle_index": "déménagement étranger 2027",
+      "nom_court": "Déménagement inter.",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        954,
+        958
+      ],
+      "synonymes": [
+        "déménagement international 2027",
+        "déménagement international conteneur douane",
+        "déménager au canada en 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 992,
+      "emoji": "🏝️",
+      "nom": "Acheter un bien à l'étranger (résidence secondaire) 2027",
+      "domaine": "Finance",
+      "signal_routage": "Acheter un bien immobilier à l'étranger en 2027 (Portugal, Espagne, Italie), notaire local, financement, fiscalité non-résident, gestion à distance",
+      "mot_cle_index": "acheter à l'étranger 2027",
+      "nom_court": "Achat étranger",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        676,
+        958
+      ],
+      "synonymes": [
+        "achat immobilier étranger portugal",
+        "acheter un appartement au portugal en 2027",
+        "résidence secondaire 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 993,
+      "emoji": "✈️",
+      "nom": "Gérer un litige avec une compagnie aérienne (2027)",
+      "domaine": "Juridique",
+      "signal_routage": "Litige compagnie aérienne 2027 (retard, annulation, bagage perdu), règlement UE 261/2004, indemnisation 250-600 €, médiation, tribunal",
+      "mot_cle_index": "indemnisation vol retardé 2027",
+      "nom_court": "Litige avion",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        855,
+        865
+      ],
+      "synonymes": [
+        "mon vol a 5h de retard, quelle indemnisation",
+        "vol annulé remboursement",
+        "vol retardé indemnisation 261"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 994,
+      "emoji": "🛡️",
+      "nom": "Souscrire une assurance voyage/rapatriement 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Assurance voyage rapatriement sanitaire 2027, carte bancaire vs spécialisée, franchises, exclusions (sports, alcool), plafond",
+      "mot_cle_index": "assurance voyage 2027",
+      "nom_court": "Assurance voyage",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        683,
+        954
+      ],
+      "synonymes": [
+        "assurance voyage rapatriement sanitaire",
+        "quelle assurance voyage pour la thaïlande",
+        "rapatriement sanitaire"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 995,
+      "emoji": "🏍️",
+      "nom": "Préparer un road-trip moto 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Road-trip moto 2027, permis A, équipement de sécurité (casque, airbag, gants), itinéraire sinueux, entretien, assurance, bagages",
+      "mot_cle_index": "road trip moto 2027",
+      "nom_court": "Moto 2027",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        866,
+        984
+      ],
+      "synonymes": [
+        "road-trip moto dans les alpes en 2027",
+        "road-trip moto équipement casque",
+        "voyage moto 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 996,
+      "emoji": "🏢",
+      "nom": "Organiser un séminaire d'entreprise 2027",
+      "domaine": "Gestion",
+      "signal_routage": "Organiser un séminaire d'entreprise 2027, lieu, budget, activités team-building, logistique, RSE, évaluation post-événement",
+      "mot_cle_index": "séminaire entreprise 2027",
+      "nom_court": "Séminaire",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        877,
+        972
+      ],
+      "synonymes": [
+        "organiser notre séminaire d'entreprise en 2027",
+        "séminaire entreprise team-building",
+        "team building 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 997,
+      "emoji": "🔄",
+      "nom": "Préparer une mobilité interne (changement de poste) 2027",
+      "domaine": "Carrière",
+      "signal_routage": "Changement de poste interne en 2027, mobilité interne, entretien avec le manager, fiche de poste, période d'essai interne, GPEC",
+      "mot_cle_index": "changer de poste interne 2027",
+      "nom_court": "Mobilité interne",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        876,
+        919
+      ],
+      "synonymes": [
+        "changer de poste en interne en 2027",
+        "mobilité interne changement de poste",
+        "évolution interne 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 998,
+      "emoji": "🌴",
+      "nom": "Faire une pause carrière (congé sabbatique) 2027",
+      "domaine": "Carrière",
+      "signal_routage": "Congé sabbatique 2027, demander un congé sans solde ou sabbatique, économies nécessaires, projet personnel, retour garanti selon entreprise",
+      "mot_cle_index": "congé sabbatique 2027",
+      "nom_court": "Sabbatique",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        918,
+        997
+      ],
+      "synonymes": [
+        "congé sabbatique pause carrière",
+        "pause carrière 2027",
+        "prendre un congé sabbatique d'un an"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 999,
+      "emoji": "🎯",
+      "nom": "Bilan & objectifs 2027 (tous domaines) — édition annuelle",
+      "domaine": "Gestion",
+      "signal_routage": "Bilan 2026 et objectifs 2027 : 3 objectifs max SMART, revue mensuelle, célébrer les réussites de 2026",
+      "mot_cle_index": "bilan objectifs 2027 annuel",
+      "nom_court": "Bilan 2027",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        899,
+        949
+      ],
+      "synonymes": [
+        "faire mon bilan 2026 et poser mes objectifs 2027",
+        "nouvelle année 2027 résolutions",
+        "résolutions nouvelle année 2027"
+      ],
       "fichier": "canvas"
     }
   ]

@@ -902,6 +902,106 @@
 | 897 | Protection du dirigeant (assurance homme clé) | Finance|
 | 898 | Préparation d'une levée de fonds (amorçage) | Stratégie|
 | 899 | Bilan de fin d'année (tous domaines) | Gestion|
+| 900 | Préparer l'AI Act haut risque (annexe III, déc. 2027) | Juridique|
+| 901 | Transparence IA obligatoire (contenu généré, chatbots) | Juridique|
+| 902 | Gestion algorithmique du travail (AI Act emploi) | RH & formation|
+| 903 | Petits modèles locaux (SLM) pour PME | IA / Prompting|
+| 904 | Agent vocal en support client (2027) | Produit & IA|
+| 905 | Sécurité des marketplaces de skills (ClawHub, skills.sh) | Sécurité|
+| 906 | Certificats TLS 64 jours (Let's Encrypt, fév. 2027) | Développement|
+| 907 | Attaques IA autonomes & social engineering 2027 | Sécurité|
+| 908 | Zero Trust & identité des agents IA | Sécurité|
+| 909 | Bot traffic & anti-scraping 2027 | Développement|
+| 910 | PLF 2027 : dons d'argent allégés S1 2027 | Finance|
+| 911 | PLF 2027 : indemnités de rupture plafonnées à 1 PASS | Juridique|
+| 912 | Directive européenne transparence salariale (fin 2027) | RH & formation|
+| 913 | ETIAS 2027 : autorisation voyage Europe | Personnel|
+| 914 | Nouveaux trains Europe 2027 (Munich-Rome, trains de luxe) | Personnel|
+| 915 | Canicule & été 2027 : se préparer | Personnel|
+| 916 | Régulation nerveuse & micro-rituels 2027 | Personnel|
+| 917 | Métabolisme & biomarqueurs personnels (CGM, tests sanguins) | Personnel|
+| 918 | Semaine de 4 jours : négocier & tester | Carrière|
+| 919 | Reconversion & métiers porteurs 2027 | Carrière|
+| 920 | Droit à la déconnexion renforcé | Juridique|
+| 921 | Prévenir le bore-out (ennui au travail) | Personnel|
+| 922 | Marque employeur & recrutement par compétences 2027 | Gestion|
+| 923 | Dumbphone & réduction d'écran volontaire | Personnel|
+| 924 | Souveraineté numérique & hébergement européen | Développement|
+| 925 | Agent Client Protocol (ACP) & BYO agent | Développement|
+| 926 | Intelligent UI : interfaces générées par l'IA | Produit|
+| 927 | Tarification hybride des logiciels IA (per-user + usage) | Gestion|
+| 928 | Shadow IA : encadrer les usages informels | Gestion|
+| 929 | World models & simulation pour la recherche | Data & IA|
+| 930 | Contenu audio IA (Suno/Udio) : musique & voix | Créativité|
+| 931 | Robots humanoïdes au travail (2027) | Gestion|
+| 932 | EES : contrôle biométrique aux frontières Schengen | Personnel|
+| 933 | Permis Graduate UK raccourci à 18 mois (2027) | Carrière|
+| 934 | Règles bagages cabine & powerbanks 2027 | Personnel|
+| 935 | Anah & rénovation globale 2027 (recentrage PLF 2027) | Finance|
+| 936 | Reprise d'entreprise par les salariés (Pacte Papin 2027) | Gestion|
+| 937 | Prévention RPS & bien-être au travail (indicateur 2027) | RH & formation|
+| 938 | GEO / AEO : être cité par les moteurs IA | Marketing|
+| 939 | Vérification humaine des sorties d'agents (2027) | Data & IA|
+| 940 | Données publiques & scraping éthique/légal 2027 | Juridique|
+| 941 | Nutrition fonctionnelle & santé cardiovasculaire 2027 | Personnel|
+| 942 | Sommeil & voyages (sleep tourism) 2027 | Personnel|
+| 943 | IA embarquée & on-device (téléphone 2027) | Développement|
+| 944 | Fact-checking & NotebookLM ancré 2027 | Recherche|
+| 945 | Prompt « caveman » & concision des sorties IA | IA / Prompting|
+| 946 | Gestion des données d'entraînement & opt-out (créateur) | Juridique|
+| 947 | Agent éphémère jetable (one-shot tasks) | IA / Prompting|
+| 948 | Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027) | Juridique|
+| 949 | Bilan & objectifs 2027 (tous domaines) | Gestion|
+| 950 | Négocier un PSE (plan de sauvegarde de l'emploi) | Juridique|
+| 951 | Accord d'intéressement & participation 2027 | RH & formation|
+| 952 | Prévention des addictions (écrans, jeux, paris) 2027 | Personnel|
+| 953 | Gestion d'une fraude bancaire en ligne (2027) | Sécurité|
+| 954 | Vol ou perte de passeport à l'étranger (2027) | Personnel|
+| 955 | Démarches administratives en ligne (ANTS,ANTS 2027) | Bureau|
+| 956 | Vérification d'un site de rencontre (arnaques) | Sécurité|
+| 957 | Gestion d'un piratage de compte (mail, réseau social) | Sécurité|
+| 958 | Préparation d'une expatriation (visa, banque, santé) 2027 | Personnel|
+| 959 | Achat d'une voiture électrique d'occasion (2027) | Personnel|
+| 960 | Installation d'une borne de recharge à domicile (2027) | Personnel|
+| 961 | Rénovation énergétique globale (DPE) 2027 | Finance|
+| 962 | Vérification d'une offre de colocation / arnaque logement | Recherche|
+| 963 | Rédiger un testament (formes, légataires, réserve héréditaire) | Juridique|
+| 964 | Ouverture d'un PEA / compte-titres 2027 | Finance|
+| 965 | Assurance habitation & multirisque 2027 | Finance|
+| 966 | Crédit immobilier : simuler & comparer les offres 2027 | Finance|
+| 967 | Vérifier une entreprise avant embauche/achat (due diligence légère) | Recherche|
+| 968 | Préparer un entretien d'embauche côté candidat (STAR + questions) | Carrière|
+| 969 | Négocier une rupture conventionnelle individuelle | Juridique|
+| 970 | Prévenir l'usure professionnelle (santé au travail) | Personnel|
+| 971 | Gestion d'un conflit entre collègues | Communication|
+| 972 | Organiser un pot de départ / événement d'équipe | Communication|
+| 973 | Lire et comprendre sa fiche de paie (2027) | Juridique|
+| 974 | Déclarer ses revenus 2027 (déclaration en ligne) | Juridique|
+| 975 | Faire reconnaître une maladie professionnelle (MP) | Juridique|
+| 976 | Acheter un bien en VEFA / neuf en 2027 | Finance|
+| 977 | Louer son bien en meublé (LMNP) vs nu 2027 | Finance|
+| 978 | Préparer sa retraite (PER, calcul rente) 2027 | Finance|
+| 979 | Faire un audit énergétique & DPE avant travaux 2027 | Finance|
+| 980 | Créer une SCI (société civile immobilière) 2027 | Gestion|
+| 981 | Gérer un litige avec un artisan / travaux bâclés | Juridique|
+| 982 | Prévenir le surendettement & FICP 2027 | Finance|
+| 983 | Acheter un produit reconditionné en sécurité (2027) | Personnel|
+| 984 | Préparer un road-trip en van aménagé 2027 | Personnel|
+| 985 | Préparer un mariage écolo & petit budget 2027 | Personnel|
+| 986 | Préparer un trek / randonnée plusieurs jours 2027 | Personnel|
+| 987 | Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027 | Personnel|
+| 988 | Préparer une expédition vélo (cyclotourisme) 2027 | Personnel|
+| 989 | Préparer une expédition en kayak/canoë 2027 | Personnel|
+| 990 | Faire du volontariat international (VSI, PVT) 2027 | Carrière|
+| 991 | Préparer un déménagement à l'étranger (douane, conteneur) 2027 | Personnel|
+| 992 | Acheter un bien à l'étranger (résidence secondaire) 2027 | Finance|
+| 993 | Gérer un litige avec une compagnie aérienne (2027) | Juridique|
+| 994 | Souscrire une assurance voyage/rapatriement 2027 | Personnel|
+| 995 | Préparer un road-trip moto 2027 | Personnel|
+| 996 | Organiser un séminaire d'entreprise 2027 | Gestion|
+| 997 | Préparer une mobilité interne (changement de poste) 2027 | Carrière|
+| 998 | Faire une pause carrière (congé sabbatique) 2027 | Carrière|
+| 999 | Bilan & objectifs 2027 (tous domaines) — édition annuelle | Gestion|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -1185,7 +1285,107 @@
 | 897 | Protection du dirigeant (assurance homme clé) | Finance|
 | 898 | Préparation d'une levée de fonds (amorçage) | Stratégie|
 | 899 | Bilan de fin d'année (tous domaines) | Gestion|
+| 900 | Préparer l'AI Act haut risque (annexe III, déc. 2027) | Juridique|
+| 901 | Transparence IA obligatoire (contenu généré, chatbots) | Juridique|
+| 902 | Gestion algorithmique du travail (AI Act emploi) | RH & formation|
+| 903 | Petits modèles locaux (SLM) pour PME | IA / Prompting|
+| 904 | Agent vocal en support client (2027) | Produit & IA|
+| 905 | Sécurité des marketplaces de skills (ClawHub, skills.sh) | Sécurité|
+| 906 | Certificats TLS 64 jours (Let's Encrypt, fév. 2027) | Développement|
+| 907 | Attaques IA autonomes & social engineering 2027 | Sécurité|
+| 908 | Zero Trust & identité des agents IA | Sécurité|
+| 909 | Bot traffic & anti-scraping 2027 | Développement|
+| 910 | PLF 2027 : dons d'argent allégés S1 2027 | Finance|
+| 911 | PLF 2027 : indemnités de rupture plafonnées à 1 PASS | Juridique|
+| 912 | Directive européenne transparence salariale (fin 2027) | RH & formation|
+| 913 | ETIAS 2027 : autorisation voyage Europe | Personnel|
+| 914 | Nouveaux trains Europe 2027 (Munich-Rome, trains de luxe) | Personnel|
+| 915 | Canicule & été 2027 : se préparer | Personnel|
+| 916 | Régulation nerveuse & micro-rituels 2027 | Personnel|
+| 917 | Métabolisme & biomarqueurs personnels (CGM, tests sanguins) | Personnel|
+| 918 | Semaine de 4 jours : négocier & tester | Carrière|
+| 919 | Reconversion & métiers porteurs 2027 | Carrière|
+| 920 | Droit à la déconnexion renforcé | Juridique|
+| 921 | Prévenir le bore-out (ennui au travail) | Personnel|
+| 922 | Marque employeur & recrutement par compétences 2027 | Gestion|
+| 923 | Dumbphone & réduction d'écran volontaire | Personnel|
+| 924 | Souveraineté numérique & hébergement européen | Développement|
+| 925 | Agent Client Protocol (ACP) & BYO agent | Développement|
+| 926 | Intelligent UI : interfaces générées par l'IA | Produit|
+| 927 | Tarification hybride des logiciels IA (per-user + usage) | Gestion|
+| 928 | Shadow IA : encadrer les usages informels | Gestion|
+| 929 | World models & simulation pour la recherche | Data & IA|
+| 930 | Contenu audio IA (Suno/Udio) : musique & voix | Créativité|
+| 931 | Robots humanoïdes au travail (2027) | Gestion|
+| 932 | EES : contrôle biométrique aux frontières Schengen | Personnel|
+| 933 | Permis Graduate UK raccourci à 18 mois (2027) | Carrière|
+| 934 | Règles bagages cabine & powerbanks 2027 | Personnel|
+| 935 | Anah & rénovation globale 2027 (recentrage PLF 2027) | Finance|
+| 936 | Reprise d'entreprise par les salariés (Pacte Papin 2027) | Gestion|
+| 937 | Prévention RPS & bien-être au travail (indicateur 2027) | RH & formation|
+| 938 | GEO / AEO : être cité par les moteurs IA | Marketing|
+| 939 | Vérification humaine des sorties d'agents (2027) | Data & IA|
+| 940 | Données publiques & scraping éthique/légal 2027 | Juridique|
+| 941 | Nutrition fonctionnelle & santé cardiovasculaire 2027 | Personnel|
+| 942 | Sommeil & voyages (sleep tourism) 2027 | Personnel|
+| 943 | IA embarquée & on-device (téléphone 2027) | Développement|
+| 944 | Fact-checking & NotebookLM ancré 2027 | Recherche|
+| 945 | Prompt « caveman » & concision des sorties IA | IA / Prompting|
+| 946 | Gestion des données d'entraînement & opt-out (créateur) | Juridique|
+| 947 | Agent éphémère jetable (one-shot tasks) | IA / Prompting|
+| 948 | Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027) | Juridique|
+| 949 | Bilan & objectifs 2027 (tous domaines) | Gestion|
+| 950 | Négocier un PSE (plan de sauvegarde de l'emploi) | Juridique|
+| 951 | Accord d'intéressement & participation 2027 | RH & formation|
+| 952 | Prévention des addictions (écrans, jeux, paris) 2027 | Personnel|
+| 953 | Gestion d'une fraude bancaire en ligne (2027) | Sécurité|
+| 954 | Vol ou perte de passeport à l'étranger (2027) | Personnel|
+| 955 | Démarches administratives en ligne (ANTS,ANTS 2027) | Bureau|
+| 956 | Vérification d'un site de rencontre (arnaques) | Sécurité|
+| 957 | Gestion d'un piratage de compte (mail, réseau social) | Sécurité|
+| 958 | Préparation d'une expatriation (visa, banque, santé) 2027 | Personnel|
+| 959 | Achat d'une voiture électrique d'occasion (2027) | Personnel|
+| 960 | Installation d'une borne de recharge à domicile (2027) | Personnel|
+| 961 | Rénovation énergétique globale (DPE) 2027 | Finance|
+| 962 | Vérification d'une offre de colocation / arnaque logement | Recherche|
+| 963 | Rédiger un testament (formes, légataires, réserve héréditaire) | Juridique|
+| 964 | Ouverture d'un PEA / compte-titres 2027 | Finance|
+| 965 | Assurance habitation & multirisque 2027 | Finance|
+| 966 | Crédit immobilier : simuler & comparer les offres 2027 | Finance|
+| 967 | Vérifier une entreprise avant embauche/achat (due diligence légère) | Recherche|
+| 968 | Préparer un entretien d'embauche côté candidat (STAR + questions) | Carrière|
+| 969 | Négocier une rupture conventionnelle individuelle | Juridique|
+| 970 | Prévenir l'usure professionnelle (santé au travail) | Personnel|
+| 971 | Gestion d'un conflit entre collègues | Communication|
+| 972 | Organiser un pot de départ / événement d'équipe | Communication|
+| 973 | Lire et comprendre sa fiche de paie (2027) | Juridique|
+| 974 | Déclarer ses revenus 2027 (déclaration en ligne) | Juridique|
+| 975 | Faire reconnaître une maladie professionnelle (MP) | Juridique|
+| 976 | Acheter un bien en VEFA / neuf en 2027 | Finance|
+| 977 | Louer son bien en meublé (LMNP) vs nu 2027 | Finance|
+| 978 | Préparer sa retraite (PER, calcul rente) 2027 | Finance|
+| 979 | Faire un audit énergétique & DPE avant travaux 2027 | Finance|
+| 980 | Créer une SCI (société civile immobilière) 2027 | Gestion|
+| 981 | Gérer un litige avec un artisan / travaux bâclés | Juridique|
+| 982 | Prévenir le surendettement & FICP 2027 | Finance|
+| 983 | Acheter un produit reconditionné en sécurité (2027) | Personnel|
+| 984 | Préparer un road-trip en van aménagé 2027 | Personnel|
+| 985 | Préparer un mariage écolo & petit budget 2027 | Personnel|
+| 986 | Préparer un trek / randonnée plusieurs jours 2027 | Personnel|
+| 987 | Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027 | Personnel|
+| 988 | Préparer une expédition vélo (cyclotourisme) 2027 | Personnel|
+| 989 | Préparer une expédition en kayak/canoë 2027 | Personnel|
+| 990 | Faire du volontariat international (VSI, PVT) 2027 | Carrière|
+| 991 | Préparer un déménagement à l'étranger (douane, conteneur) 2027 | Personnel|
+| 992 | Acheter un bien à l'étranger (résidence secondaire) 2027 | Finance|
+| 993 | Gérer un litige avec une compagnie aérienne (2027) | Juridique|
+| 994 | Souscrire une assurance voyage/rapatriement 2027 | Personnel|
+| 995 | Préparer un road-trip moto 2027 | Personnel|
+| 996 | Organiser un séminaire d'entreprise 2027 | Gestion|
+| 997 | Préparer une mobilité interne (changement de poste) 2027 | Carrière|
+| 998 | Faire une pause carrière (congé sabbatique) 2027 | Carrière|
+| 999 | Bilan & objectifs 2027 (tous domaines) — édition annuelle | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–899 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–999 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

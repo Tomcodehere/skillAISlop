@@ -2,41 +2,41 @@
 
 > 🔎 **Index** : Total · Répartition par domaine · Génération
 
-**Total : 900 sections (0-899)** — **899 skills opérationnelles** + 1 routeur (skill 0).
+**Total : 1000 sections (0-999)** — **999 skills opérationnelles** + 1 routeur (skill 0).
 
 ## Répartition par domaine
 
 | Domaine | Skills |
 |---|---|
-| Personnel | 103 |
-| Développement | 82 |
-| Juridique | 58 |
-| Gestion | 53 |
-| IA / Prompting | 53 |
-| Marketing | 52 |
-| RH & formation | 47 |
-| Sécurité | 46 |
-| Finance | 38 |
+| Personnel | 130 |
+| Développement | 87 |
+| Juridique | 73 |
+| Gestion | 62 |
+| IA / Prompting | 56 |
+| Marketing | 53 |
+| Sécurité | 52 |
+| RH & formation | 51 |
+| Finance | 50 |
 | Rédaction | 38 |
-| Créativité | 36 |
+| Créativité | 37 |
 | Productivité | 35 |
 | Apprentissage | 34 |
 | Vente | 33 |
+| Carrière | 32 |
 | Data | 32 |
+| Communication | 28 |
 | Design | 27 |
-| Communication | 26 |
-| Carrière | 25 |
-| Produit | 25 |
-| Data & IA | 13 |
-| Recherche | 12 |
+| Produit | 26 |
+| Data & IA | 15 |
+| Recherche | 15 |
 | Stratégie | 11 |
-| Bureau | 8 |
+| Bureau | 9 |
 | Formation | 4 |
 | Langues | 4 |
 | Décision | 2 |
+| Produit & IA | 2 |
 | Routage | 2 |
-| Produit & IA | 1 |
 
 ## Génération
 
-Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-03. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — skillAISlop ».
+Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-04. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — skillAISlop ».
