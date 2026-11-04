@@ -1483,6 +1483,7 @@ def _json_dumps(x) -> str:
 
 
 VEC_DIM = 128  # dimension des embeddings locaux (hash bag-of-words normalisé)
+CATALOGUE_VERSION = "12.0.0"  # version sémantique du catalogue (vague 12 = 900 sections)
 VEC_SEUIL = 0.80  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
 VEC_PISTE = 0.80  # au-dessus, la meilleure candidate vec devient piste (exit 1) — même seuil que les candidats
 
@@ -1689,6 +1690,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
                "VALUES (?,?,?,?)",
                (n, _json_dumps(ajouts), _json_dumps(supprimes), _json_dumps(modifies)))
     db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)", (snapshot,))
+    db.execute("INSERT OR REPLACE INTO meta VALUES ('version', ?)", (CATALOGUE_VERSION,))
     db.commit()
     db.execute("PRAGMA optimize")
     db.execute("VACUUM")
@@ -2575,7 +2577,7 @@ python3 routage.py route "ma demande"   # route vers la bonne skill (exit 0/1/2)
 ## Contenu
 - `skills/` — {nb} fichiers `NNN-slug.md` (frontmatter YAML complet : num, nom, domaine, signal, mot_cle, synonymes, cross_refs)
 - `routage.py` — routeur autonome (build, route, test, lint, export, sonde, vocab, versions, analytics)
-- `manifeste.json` — version, nombre de skills, domaines, hash sha256 des fichiers skills
+- `manifeste.json` — version sémantique (meta), nombre de skills, domaines, hash sha256 des fichiers skills
 
 ## Commandes utiles
 - `route "<demande>"` → skill 0/1/2 (0 = trouvée, 1 = piste, 2 = rien)
@@ -2588,7 +2590,7 @@ def cmd_pack(sortie: Path, check: bool) -> int:
     import json, zipfile, hashlib, tempfile, shutil
     nb = len(list((RACINE / "skills").glob("*.md")))
     h = _hash_skills()
-    version = "12.0.0"
+    version = CATALOGUE_VERSION
     manifeste = {
         "name": "skillaislop",
         "version": version,
@@ -2769,6 +2771,8 @@ def cmd_versions() -> int:
     except sqlite3.OperationalError:
         print("table versions absente — rebuild nécessaire")
         return 1
+    ver = db.execute("SELECT v FROM meta WHERE k='version'").fetchone()
+    print(f"Version courante du catalogue : {ver[0] if ver else CATALOGUE_VERSION}")
     for vid, date, nb, aj, su, mo in rows:
         print(f"#{vid} {date} — {nb} skills · +{aj} -{su} ~{mo}")
     db.close()

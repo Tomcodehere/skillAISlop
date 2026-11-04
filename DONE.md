@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-04** — Versioning sémantique : CATALOGUE_VERSION (12.0.0) dans meta au build, affiché par versions, embarqué dans le manifeste du pack — section Export multi-projets de la TODO 100 % faite
+
 - [x] **2026-11-04** — API locale : routage.py serve (loopback 127.0.0.1 uniquement, bind externe refusé) — /health, /route?q= (exit 0/1/2 + voies/scores), /skills, /export.json ; testé en local + smoke test CI
 
 - [x] **2026-11-04** — Interop Agent Skills : routage.py skillmd génère 900 SKILL.md standardisés (data/agent-skills/ + skills.json) depuis skills/*.md — installables via npx skills add dans Claude Code/Codex/Cursor ; testé en CI

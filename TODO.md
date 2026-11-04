@@ -24,7 +24,7 @@ type: "text/markdown"
 - [x] ~~`routage.py pack`~~ → fait : zip 1,01 Mo (900 skills + routage.py + manifeste.json v12.0.0 + hash sha256 + README) + `pack --check` = test de fidélité ✅ FIDÈLE, rejoué en CI
 - [x] ~~Wrappers `SKILL.md`~~ → `routage.py skillmd` génère 900 SKILL.md (frontmatter standard + metadata num/domaine/synonymes) dans data/agent-skills/ + skills.json pour `npx skills add` ; testé en CI (non bloquant), data/agent-skills/ ignoré par git
 - [x] ~~`routage.py serve`~~ → fait : API loopback 127.0.0.1 (bind non-loopback refusé), /health + /route?q= (exit 0/1/2, voies/scores) + /skills + /export.json ; smoke test en CI
-- [ ] Versioning sémantique du catalogue dans `meta` (ex. 12.0.0 = vague 12) pour tracer les packs exportés
+- [x] ~~Versioning sémantique~~ → `CATALOGUE_VERSION` (12.0.0) écrite dans `meta` au build, affichée par `versions`, embarquée dans le manifeste du pack
 
 ## Process
 
