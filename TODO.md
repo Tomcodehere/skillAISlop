@@ -6,48 +6,32 @@ type: "text/markdown"
 
 # TODO — skillAISlop
 
-> 🔎 **Index** : Améliorations routeur
+> 🔎 **Index** : Optimisations perf · Export multi-projets · Process · Prochaine vague
 
-## Améliorations routeur
+## Optimisations perf routeur (mesuré : route 8,5 ms, DB 2,04 Mo)
 
-- [x] ~~Envisager une sous-commande `sonde`~~ → faite le 2026-11-01 (sous-commande `sonde` rejouable, rapport dans data/sonde-rapport.md) de couverture rejouable (batterie de sujets → rapport couverts/partiels/gaps) pour les cycles trimestriels
-- [x] ~~Corriger le faux positif résiduel~~ → corrigé le 2026-11-01 (mots < 5 lettres exclus de la passe floue ; `route "IoT"` → exit 2 confirmé le 2026-11-02) détecté par re-sonde (2026-11-01) : « IoT » seul route par trigrammes vers 150/250 (« iot » ⊂ « bibliothécaire ») — exclure les mots courts (< 5 lettres) de la passe floue
-
-## Nouvelles pistes (2026-11-02)
-
-- [x] ~~Boucler les partiels de la sonde~~ → fait le 2026-11-02 (decks/arbitrer/trancher/tutorat/dispatcher) : 0 partiel, 971/972 couverts ; seul gap restant : « ton » seul (trop court pour le moteur de synonymes, couvert par « ton d'équipe » → 399)
-- [x] ~~CI GitHub Actions~~ → en place le 2026-11-02 (.github/workflows/ci.yml : build + generate --check + lint + test + audit + sonde + compteur)
-- [ ] `misses --suggest` en routine hebdo (journal des exit 2 → synonymes)
-
-## Pistes SQLite (2026-11-02)
-
-- [x] ~~Index secondaires domaine/branche~~ → fait (idx_skills_domaine, idx_skills_branche)
-- [x] ~~Historique des versions (snapshot JSON + diff)~~ → fait (tables meta/versions, `routage.py versions`)
-- [x] ~~fts5vocab~~ → fait (`routage.py vocab --limit N`)
-- [x] ~~Analytics SQL des routages~~ → fait (`routage.py analytics`)
-- [x] ~~PRAGMA optimize + VACUUM au build~~ → fait
-- [ ] RTREE / géolocalisation de skills — écarté pour l'instant (pas de cas d'usage)
+- [ ] Table `mots_cles(mot_cle, num)` indexée + requête SQL au lieu de la boucle Python sur 900 lignes (gain estimé −3 à −5 ms)
+- [ ] `trigrammes` : ne stocker que les trigrammes des mots >= 5 lettres (passe floue inutile en dessous) — économise ~30-50 % de la table (0,72 Mo)
+- [ ] vec0 + HNSW (index vectoriel approché) si le catalogue dépasse ~5 000 skills (inutile à 900)
+- [ ] WAL checkpoint périodique si la base reste ouverte longtemps en session
+- [ ] RTREE / géolocalisation de skills — écarté (pas de cas d'usage)
 - [ ] stmt (vtab) — écarté (le Python suffit)
-- [ ] Export JSON 100 % SQL (json_group_array) à la place du Python — à envisager si l'export grossit
+- [ ] Export JSON 100 % SQL (json_group_array) à la place du Python — si l'export grossit
 
-## Optimisations (2026-11-02)
+## Export multi-projets (pack portable)
 
-- [x] ~~Hoist norm(query) + cache mot_cle normalisés~~ → fait (chercher 8,9 → 7,9 ms)
-- [x] ~~vec dim 256 → 128~~ → fait (skills_vec 1,05 → 0,53 Mo, fichier 1,76 → 1,24 Mo)
-- [x] ~~k vec = top au lieu de top+vus~~ → fait
-- [x] ~~PRAGMA journal_mode=WAL + cache_size=-8000~~ → fait
-- [x] ~~VEC_PISTE 0.65 → 0.80 (anti-bruit : zzz repasse exit 2)~~ → fait
-- [x] ~~Passe trigrammes en SQL (table trigrammes indexée, 54 k lignes)~~ → fait : 16,3 → 1,8 ms, résultats identiques à la version Python, repli auto si table absente
-- [ ] vec0 avec HNSW (index vectoriel approché) si le catalogue dépasse ~5 000 skills
-- [ ] WAL checkpoint périodique si la base est ouverte longtemps en session
+- [ ] `build --from-skills` : reconstruire skills.db depuis `skills/*.md` seuls (frontmatter), sans les canvases — réconcilier d'abord les écarts (23 noms canvas≠fichier, carte des domaines, ~48 synonymes absents des fichiers)
+- [ ] `routage.py pack` : zip portable = skills/ + routage.py + manifeste JSON (version, 900 skills, hash) + README install + test de fidélité (rebuild depuis le pack, comparer hash)
+- [ ] Générer des wrappers `SKILL.md` (frontmatter YAML standard Agent Skills) depuis chaque `NNN-slug.md` → interop Claude Code/Codex via `npx skills add`
+- [ ] `routage.py serve` : mini API HTTP sur 127.0.0.1 uniquement (`GET /route?q=`, `/skills`, `/export.json`)
+- [ ] Versioning sémantique du catalogue dans `meta` (ex. 12.0.0 = vague 12) pour tracer les packs exportés
 
-## Process (2026-11-02)
+## Process
 
-- [ ] Merger la PR #2 dès que CLEAN + CI verte (éviter l'accumulation de commits sur la branche)
-- [ ] Un commit par sujet ; tester localement (build+lint+test) AVANT push, pas corriger via la CI après
-- [x] ~~Sonde bloquante en CI~~ → 100 % (958/958, 0 gap) : sujets < 4 lettres exclus de la sonde, sonde redevenue bloquante en CI
-- [x] ~~Tests avant push~~ → hook .git/hooks/pre-push (build+lint+test) ; revue git diff --stat à faire à la main avant chaque push
+- [ ] `misses --suggest` en routine hebdo (journal des exit 2 → synonymes)
+- [ ] Merger les PR dès que CLEAN + CI verte (éviter l'accumulation sur la branche)
+- [ ] Un commit par sujet ; `git diff --stat` + relecture avant chaque push (hook pre-push déjà en place)
 
-- [ ] Vague 12 (R7, janvier) : re-faire la veille web, viser les vrais gaps restants plutôt que du volume
+## Prochaine vague
 
-- [ ] Pousser la branche vibe/vague-12-900-sections et ouvrir la PR quand le rate limit GitHub/Vibe sera levé
+- [ ] Vague 13 (R7, janvier 2027) : re-faire la veille web, viser les vrais gaps restants plutôt que du volume
