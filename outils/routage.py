@@ -2686,6 +2686,59 @@ metadata:
     return 0
 
 
+def cmd_serve(host: str, port: int) -> int:
+    """Mini API HTTP de routage, bind loopback UNIQUEMENT (127.0.0.1 par défaut)."""
+    if host not in ("127.0.0.1", "localhost", "::1"):
+        print(f"⛔ refus : bind {host} interdit — loopback uniquement (127.0.0.1)")
+        return 1
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    from http.server import BaseHTTPRequestHandler, HTTPServer
+    from urllib.parse import urlparse, parse_qs
+    db = sqlite3.connect(DB_PATH)
+    db.row_factory = sqlite3.Row
+    db.execute("PRAGMA cache_size=-8000")
+    charger_vec(db)
+
+    class H(BaseHTTPRequestHandler):
+        def _json(self, obj, code=200):
+            import json
+            body = json.dumps(obj, ensure_ascii=False).encode("utf-8")
+            self.send_response(code)
+            self.send_header("Content-Type", "application/json; charset=utf-8")
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+        def do_GET(self):
+            u = urlparse(self.path)
+            if u.path == "/health":
+                n = db.execute("SELECT COUNT(*) FROM skills").fetchone()[0]
+                return self._json({"ok": True, "skills": n})
+            if u.path == "/route":
+                q = parse_qs(u.query).get("q", [""])[0]
+                top = int(parse_qs(u.query).get("top", ["3"])[0])
+                res = chercher(db, q, top)
+                cands = [dict(r) for r in res["exact"] + res["fts"] + res["vec"] + res["flou"]]
+                code = 0 if cands else (1 if (res["pistes"] or res["domaines"]) else 2)
+                return self._json({"query": q, "exit": code, "candidates": cands,
+                                   "pistes": [dict(x) for x in res["pistes"]],
+                                   "domaines": [dict(x) for x in res["domaines"]]})
+            if u.path in ("/skills", "/export.json"):
+                rows = db.execute("SELECT num, nom, domaine, signal, mot_cle, nom_court FROM skills ORDER BY num").fetchall()
+                return self._json({"skills": [dict(r) for r in rows]})
+            return self._json({"error": "not found", "endpoints": ["/health", "/route?q=", "/skills", "/export.json"]}, 404)
+        def log_message(self, *a):
+            pass
+
+    srv = HTTPServer((host, port), H)
+    print(f"🟢 API locale sur http://{host}:{port} (loopback uniquement — Ctrl+C pour arrêter)")
+    try:
+        srv.serve_forever()
+    except KeyboardInterrupt:
+        print("\narrêt.")
+    return 0
+
+
 def cmd_vocab(limit: int = 30) -> int:
     if not DB_PATH.exists():
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
@@ -2837,6 +2890,9 @@ def main():
     p_pack.add_argument("--check", action="store_true", help="vérifie le pack : extrait, rebuild --from-skills, compare les tables")
     p_sm = sub.add_parser("skillmd", help="génère un dossier de SKILL.md (standard Agent Skills) depuis skills/*.md")
     p_sm.add_argument("--sortie", type=Path, default=RACINE / "data" / "agent-skills")
+    p_srv = sub.add_parser("serve", help="mini API HTTP locale (127.0.0.1 uniquement) : /route?q= /skills /export.json /health")
+    p_srv.add_argument("--port", type=int, default=8765)
+    p_srv.add_argument("--host", default="127.0.0.1")
 
     p_bench = sub.add_parser("bench", help="mesure build/route et gain tokens")
     p_bench.add_argument("--tours", type=int, default=3)
@@ -2883,6 +2939,8 @@ def main():
         raise SystemExit(cmd_pack(args.sortie, args.check))
     elif args.cmd == "skillmd":
         raise SystemExit(cmd_skillmd(args.sortie))
+    elif args.cmd == "serve":
+        raise SystemExit(cmd_serve(args.host, args.port))
     elif args.cmd == "bench":
         raise SystemExit(cmd_bench(args.tours))
     elif args.cmd == "lint":

@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-04** — API locale : routage.py serve (loopback 127.0.0.1 uniquement, bind externe refusé) — /health, /route?q= (exit 0/1/2 + voies/scores), /skills, /export.json ; testé en local + smoke test CI
+
 - [x] **2026-11-04** — Interop Agent Skills : routage.py skillmd génère 900 SKILL.md standardisés (data/agent-skills/ + skills.json) depuis skills/*.md — installables via npx skills add dans Claude Code/Codex/Cursor ; testé en CI
 
 - [x] **2026-11-04** — Export multi-projets : build --from-skills fidèle (tables identiques au build canvas) + routage.py pack (zip 1,01 Mo : 900 skills + routage.py + manifeste v12.0.0 + hash + README) + pack --check FIDÈLE en CI — un autre projet fait pip install sqlite-vec + build --from-skills + route
