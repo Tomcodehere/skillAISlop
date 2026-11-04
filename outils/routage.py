@@ -2014,6 +2014,7 @@ def cmd_route(query: str, top: int, as_json: bool) -> int:
     if code == 2:
         _journaliser(db, query)
     try:
+        db.execute("PRAGMA wal_checkpoint(PASSIVE)")  # checkpoint WAL après écriture de session
         db.execute("INSERT INTO routes(demande, code, voie, num) "
                    "VALUES (?,?,?,?)",
                    (norm(query), code,

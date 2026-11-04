@@ -13,7 +13,7 @@ type: "text/markdown"
 - [x] ~~Table `mots_cles` en SQL~~ → fait : voie mot-clé en requête indexée (instr/length), route 8,5 → 6,1 ms, 449/449 tests
 - [x] ~~Trigrammes filtrés >= 5 lettres~~ → fait : 65 289 → 33 555 entrées, DB 2,04 → 1,72 Mo (−16 %), fautes de frappe toujours OK (organisr/procrastinnation → exit 0)
 - [ ] vec0 + HNSW (index vectoriel approché) si le catalogue dépasse ~5 000 skills (inutile à 900)
-- [ ] WAL checkpoint périodique si la base reste ouverte longtemps en session
+- [x] ~~WAL checkpoint~~ → `PRAGMA wal_checkpoint(PASSIVE)` après chaque écriture de session (routes/non_routees) ; VACUUM déjà en fin de build
 - [ ] RTREE / géolocalisation de skills — écarté (pas de cas d'usage)
 - [ ] stmt (vtab) — écarté (le Python suffit)
 - [ ] Export JSON 100 % SQL (json_group_array) à la place du Python — si l'export grossit
