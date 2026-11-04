@@ -1,6 +1,6 @@
 ---
 num: 25
-nom: "Tri & priorisation d'emails (inbox)"
+nom: "Tri & priorisation d'emails"
 emoji: "📥"
 domaine: "Productivité"
 signal: "Boîte mail débordante, prioriser des emails"

@@ -1,6 +1,6 @@
 ---
 num: 30
-nom: "Optimiseur de posts réseaux sociaux"
+nom: "Optimiseur de posts sociaux"
 emoji: "📱"
 domaine: "Marketing"
 signal: "Post social à optimiser, portée, engagement"

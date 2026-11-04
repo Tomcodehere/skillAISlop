@@ -1,6 +1,6 @@
 ---
 num: 31
-nom: "Ghostwriter LinkedIn & personal branding"
+nom: "Ghostwriter LinkedIn"
 emoji: "📘"
 domaine: "Marketing"
 signal: "Post LinkedIn, personal branding, autorité"

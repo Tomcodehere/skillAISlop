@@ -1,6 +1,6 @@
 ---
 num: 37
-nom: "Red-team de prompts & systèmes IA"
+nom: "Red-team de prompts"
 emoji: "🛡️"
 domaine: "Data & IA"
 signal: "Red-team, faille d'un prompt, détournement"

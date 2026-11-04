@@ -1,6 +1,6 @@
 ---
 num: 19
-nom: "Grill Me (validation de plan par interview)"
+nom: "Grill Me (validation de plan)"
 emoji: "🔥"
 domaine: "Développement"
 signal: "Stress-tester un plan avant de coder, « grill me »"

@@ -20,8 +20,8 @@ type: "text/markdown"
 
 ## Export multi-projets (pack portable)
 
-- [ ] `build --from-skills` : reconstruire skills.db depuis `skills/*.md` seuls (frontmatter), sans les canvases — réconcilier d'abord les écarts (23 noms canvas≠fichier, carte des domaines, ~48 synonymes absents des fichiers)
-- [ ] `routage.py pack` : zip portable = skills/ + routage.py + manifeste JSON (version, 900 skills, hash) + README install + test de fidélité (rebuild depuis le pack, comparer hash)
+- [x] ~~`build --from-skills`~~ → fait : 23 fichiers skills/ synchronisés sur le sommaire, carte des domaines depuis le canvas si présent, synonymes = SYNONYMES (source unique, embarquée dans le pack) ; build canvas et --from-skills produisent des tables identiques (skills/synonymes/domaines/FTS/trigrammes)
+- [x] ~~`routage.py pack`~~ → fait : zip 1,01 Mo (900 skills + routage.py + manifeste.json v12.0.0 + hash sha256 + README) + `pack --check` = test de fidélité ✅ FIDÈLE, rejoué en CI
 - [ ] Générer des wrappers `SKILL.md` (frontmatter YAML standard Agent Skills) depuis chaque `NNN-slug.md` → interop Claude Code/Codex via `npx skills add`
 - [ ] `routage.py serve` : mini API HTTP sur 127.0.0.1 uniquement (`GET /route?q=`, `/skills`, `/export.json`)
 - [ ] Versioning sémantique du catalogue dans `meta` (ex. 12.0.0 = vague 12) pour tracer les packs exportés

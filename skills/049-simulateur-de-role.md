@@ -1,6 +1,6 @@
 ---
 num: 49
-nom: "Simulateur de rôle (client, ventes, support)"
+nom: "Simulateur de rôle"
 emoji: "🎭"
 domaine: "Carrière"
 signal: "Simuler un client / prospect / utilisateur"

@@ -1,6 +1,6 @@
 ---
 num: 44
-nom: "Analyseur CV & lettre de motivation"
+nom: "Analyseur CV & lettre"
 emoji: "📃"
 domaine: "Carrière"
 signal: "CV, lettre de motivation, candidature"

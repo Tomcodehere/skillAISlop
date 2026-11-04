@@ -1,6 +1,6 @@
 ---
 num: 43
-nom: "Coach budget & finances personnelles"
+nom: "Coach budget perso"
 emoji: "💸"
 domaine: "Personnel"
 signal: "Budget, dépenses, finances personnelles"

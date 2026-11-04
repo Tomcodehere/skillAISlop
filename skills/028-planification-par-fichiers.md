@@ -1,6 +1,6 @@
 ---
 num: 28
-nom: "Planification par fichiers (suivi documenté)"
+nom: "Planification par fichiers"
 emoji: "📋"
 domaine: "Productivité"
 signal: "Suivi de mission multi-sessions documenté"

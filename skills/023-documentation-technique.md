@@ -1,6 +1,6 @@
 ---
 num: 23
-nom: "Rédacteur de documentation technique"
+nom: "Documentation technique"
 emoji: "📚"
 domaine: "Développement"
 signal: "README, documentation, guide technique"

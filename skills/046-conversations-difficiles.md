@@ -1,6 +1,6 @@
 ---
 num: 46
-nom: "Préparation de conversations difficiles"
+nom: "Conversations difficiles"
 emoji: "🎙️"
 domaine: "Carrière"
 signal: "Conversation difficile, conflit, feedback dur"

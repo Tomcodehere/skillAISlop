@@ -1,6 +1,6 @@
 ---
 num: 32
-nom: "Analyseur concurrentiel (benchmark)"
+nom: "Analyseur concurrentiel"
 emoji: "🥊"
 domaine: "Marketing"
 signal: "Benchmark, concurrents, positionnement"

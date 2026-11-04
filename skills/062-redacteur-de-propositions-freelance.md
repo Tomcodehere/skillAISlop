@@ -1,6 +1,6 @@
 ---
 num: 62
-nom: "Rédacteur de propositions freelance (devis)"
+nom: "Rédacteur de propositions freelance"
 emoji: "📬"
 domaine: "Carrière"
 signal: "Proposition, devis, réponse à un besoin client freelance"

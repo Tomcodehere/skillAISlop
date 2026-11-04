@@ -1,6 +1,6 @@
 ---
 num: 35
-nom: "Pipeline de recommandation & ranking"
+nom: "Pipeline de recommandation"
 emoji: "🔗"
 domaine: "Data & IA"
 signal: "Recommandation, ranking, feed, top-K"

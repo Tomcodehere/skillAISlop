@@ -1,6 +1,6 @@
 ---
 num: 47
-nom: "Générateur de noms (naming)"
+nom: "Générateur de noms"
 emoji: "🏷️"
 domaine: "Créativité"
 signal: "Nommer une marque, un produit, un projet"

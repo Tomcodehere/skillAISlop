@@ -1,6 +1,6 @@
 ---
 num: 33
-nom: "Générateur de personas utilisateurs"
+nom: "Générateur de personas"
 emoji: "👤"
 domaine: "Marketing"
 signal: "Persona, profil cible utilisateur"

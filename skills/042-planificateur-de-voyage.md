@@ -1,6 +1,6 @@
 ---
 num: 42
-nom: "Planificateur de voyage sur mesure"
+nom: "Planificateur de voyage"
 emoji: "🧳"
 domaine: "Personnel"
 signal: "Voyage, itinéraire, séjour sur mesure"

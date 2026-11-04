@@ -1,6 +1,6 @@
 ---
 num: 48
-nom: "Infographie animée & visuels de données"
+nom: "Infographie animée"
 emoji: "🖼️"
 domaine: "Data & IA"
 signal: "Infographie animée, visuel de données"

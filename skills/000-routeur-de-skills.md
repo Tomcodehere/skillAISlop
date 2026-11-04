@@ -1,6 +1,6 @@
 ---
 num: 0
-nom: "Routeur de skills (dispatcher)"
+nom: "🧭 Routeur de skills"
 emoji: "🧭"
 domaine: "Routage"
 signal: ""

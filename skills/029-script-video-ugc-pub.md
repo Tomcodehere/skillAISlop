@@ -1,6 +1,6 @@
 ---
 num: 29
-nom: "Script vidéo UGC & publicité"
+nom: "Script vidéo UGC & pub"
 emoji: "🎥"
 domaine: "Marketing"
 signal: "Script vidéo courte, UGC, TikTok, pub vidéo"

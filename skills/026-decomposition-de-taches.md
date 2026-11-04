@@ -1,6 +1,6 @@
 ---
 num: 26
-nom: "Décomposition de tâches (anti-procrastination)"
+nom: "Décomposition de tâches"
 emoji: "🪓"
 domaine: "Productivité"
 signal: "Tâche trop grosse, procrastination, où commencer"

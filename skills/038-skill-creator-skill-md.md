@@ -1,6 +1,6 @@
 ---
 num: 38
-nom: "Skill Creator (packages SKILL.md)"
+nom: "Skill Creator (SKILL.md)"
 emoji: "🧩"
 domaine: "Data & IA"
 signal: "Créer un package de skill SKILL.md"

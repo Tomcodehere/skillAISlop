@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-04** — Export multi-projets : build --from-skills fidèle (tables identiques au build canvas) + routage.py pack (zip 1,01 Mo : 900 skills + routage.py + manifeste v12.0.0 + hash + README) + pack --check FIDÈLE en CI — un autre projet fait pip install sqlite-vec + build --from-skills + route
+
 - [x] **2026-11-03** — PR #3 mergée dans main (merge 492efa9) : catalogue à 900 sections (899 skills + routeur), CI verte
 
 - [x] **2026-11-03** — Branche vibe/vague-12-900-sections poussée + PR #3 ouverte (brouillon) — vague 12 à 900 sections, CI verte (run 41646172879)

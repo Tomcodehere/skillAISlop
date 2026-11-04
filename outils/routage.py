@@ -65,6 +65,8 @@ import argparse
 import json
 import re
 import sqlite3
+import importlib.util
+import sys
 import sys
 import time
 import unicodedata
@@ -1410,9 +1412,8 @@ def extraire_frontmatter(dossier_skills: Path):
         syns_par_num[num] = _re.search(r'^synonymes: \[(.*)\]$', fm, _re.M).group(1)
         syns_par_num[num] = [s.strip().strip('"') for s in syns_par_num[num].split(",") if s.strip()]
         cartes.setdefault(dom, []).append(g("mot_cle"))
-    # carte des domaines = mots-clés déclencheurs (on prend les 5 premiers mots-clés du domaine)
-    carte = [(dom, ", ".join(mcs[:5])) for dom, mcs in sorted(cartes.items())]
-    return sommaire, signaux, mot_cles, branches, noms_courts, carte, syns_par_num
+    carte = None  # résolue par l'appelant (canvas si dispo, sinon reconstruite)
+    return sommaire, signaux, mot_cles, branches, noms_courts, carte, syns_par_num, cartes
 
 
 def extraire(canvas: str):
@@ -1517,9 +1518,23 @@ def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
 
 def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) -> None:
     if from_skills:
-        sommaire, signaux, mot_cles, branches, noms_courts, cartes, syns_par_num = \
-            extraire_frontmatter(RACINE / "skills")
-        SYN_A_UTILISER = syns_par_num
+        sommaire, signaux, mot_cles, branches, noms_courts, _, syns_par_num, cartes_brutes = \
+            extraire_frontmatter(Path(__file__).resolve().parent / "skills")
+        # source unique des synonymes = SYNONYMES (embarquée dans routage.py, donc dans le pack)
+        SYN_A_UTILISER = {n: [s for s, num in SYNONYMES if num == n] for n in set(num for _, num in SYNONYMES)}
+        # si le canvas existe : noms + carte des domaines depuis le canvas (source de vérité)
+        if chemin.exists():
+            canvas_txt = chemin.read_text(encoding="utf-8")
+            try:
+                s_c, sig_c, mc_c, br_c, nc_c, cartes = extraire(canvas_txt)
+                for num in sommaire:
+                    if num in s_c:
+                        sommaire[num][0] = s_c[num][0]
+            except AssertionError:
+                # pack autonome (pas de canvas) : noms du frontmatter, carte reconstruite
+                cartes = [(dom, ", ".join(mcs[:5])) for dom, mcs in sorted(cartes_brutes.items())]
+        else:
+            cartes = [(dom, ", ".join(mcs[:5])) for dom, mcs in sorted(cartes_brutes.items())]
     else:
         sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(
             chemin.read_text(encoding="utf-8"))
@@ -1626,6 +1641,11 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             db.execute("INSERT INTO skills_vec(num, embedding) VALUES (?,?)",
                        (num, embed_hash(" ".join(x for x in (nom, sig, mc, nc, dom) if x))))
     connus = {n for (n,) in db.execute("SELECT num FROM skills")}
+    if 0 not in connus:  # pack autonome : recréer la skill 0 (routeur)
+        db.execute("INSERT INTO skills VALUES (0, '🧭 Routeur de skills', 'Routage', '', '', '', '')")
+        db.execute("INSERT INTO skills_fts VALUES (0, 'Routeur de skills', '', '', 'Routeur', 'Routage')")
+        db.commit()
+        connus = {n for (n,) in db.execute("SELECT num FROM skills")}
     for num, syns in SYN_A_UTILISER.items():
         for syn in syns:
             assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
@@ -2534,6 +2554,92 @@ def cmd_done(texte: str) -> int:
     return 0
 
 
+def _hash_skills() -> str:
+    import hashlib
+    h = hashlib.sha256()
+    for f in sorted((RACINE / "skills").glob("*.md")):
+        h.update(f.name.encode())
+        h.update(f.read_bytes())
+    return h.hexdigest()
+
+
+README_PACK = """# Pack skillAISlop — catalogue de skills pour agent IA
+
+## Installation
+```bash
+pip install sqlite-vec   # extension vectorielle SQLite (repli gracieux sinon)
+python3 routage.py build --from-skills   # construit skills.db depuis skills/*.md
+python3 routage.py route "ma demande"   # route vers la bonne skill (exit 0/1/2)
+```
+
+## Contenu
+- `skills/` — {nb} fichiers `NNN-slug.md` (frontmatter YAML complet : num, nom, domaine, signal, mot_cle, synonymes, cross_refs)
+- `routage.py` — routeur autonome (build, route, test, lint, export, sonde, vocab, versions, analytics)
+- `manifeste.json` — version, nombre de skills, domaines, hash sha256 des fichiers skills
+
+## Commandes utiles
+- `route "<demande>"` → skill 0/1/2 (0 = trouvée, 1 = piste, 2 = rien)
+- `route "<demande>" --json` → candidats avec voie et score
+- `test` · `lint` · `sonde` · `vocab` · `versions` · `misses` · `analytics`
+"""
+
+
+def cmd_pack(sortie: Path, check: bool) -> int:
+    import json, zipfile, hashlib, tempfile, shutil
+    nb = len(list((RACINE / "skills").glob("*.md")))
+    h = _hash_skills()
+    version = "12.0.0"
+    manifeste = {
+        "name": "skillaislop",
+        "version": version,
+        "skills": nb,
+        "domaines": 28,
+        "skills_hash_sha256": h,
+        "build_from": "skills/*.md (frontmatter) — build --from-skills",
+        "license": "voir dépôt source",
+    }
+    if check:
+        # test de fidélité : extraire le pack, rebuild, comparer les tables clés
+        with tempfile.TemporaryDirectory() as td:
+            td = Path(td)
+            with zipfile.ZipFile(sortie) as z:
+                z.extractall(td)
+            import sqlite3 as _sq
+            sys_path_backup = list(sys.path)
+            sys.path.insert(0, str(td))
+            try:
+                spec = importlib.util.spec_from_file_location("rt_pack", td / "routage.py")
+                rt = importlib.util.module_from_spec(spec)
+                spec.loader.exec_module(rt)
+                rt.cmd_build(td / "routage.py", db_path=td / "skills.db", from_skills=True)
+                db = _sq.connect(td / "skills.db")
+                got = {t: db.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
+                       for t in ("skills", "synonymes", "domaines", "skills_fts", "trigrammes")}
+                gh = hashlib.sha256()
+                for f in sorted((td / "skills").glob("*.md")):
+                    gh.update(f.name.encode()); gh.update(f.read_bytes())
+                hash_ok = gh.hexdigest() == h
+            finally:
+                sys.path[:] = sys_path_backup
+            ref = sqlite3.connect(Path(__file__).resolve().with_name("skills.db"))  # DB du dépôt courant
+            attendu = {t: ref.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
+                       for t in ("skills", "synonymes", "domaines", "skills_fts", "trigrammes")}
+            ref.close()
+            ok = got == attendu and hash_ok
+            print("pack check:", "✅ FIDÈLE" if ok else f"❌ écart {got} vs {attendu}, hash_ok={hash_ok}")
+            return 0 if ok else 1
+    sortie.parent.mkdir(parents=True, exist_ok=True)
+    with zipfile.ZipFile(sortie, "w", zipfile.ZIP_DEFLATED) as z:
+        for f in sorted((RACINE / "skills").glob("*.md")):
+            z.write(f, f"skills/{f.name}")
+        z.write(RACINE / "outils" / "routage.py", "routage.py")
+        z.writestr("manifeste.json", json.dumps(manifeste, ensure_ascii=False, indent=2))
+        z.writestr("README.md", README_PACK.format(nb=nb))
+    print(f"✅ pack exporté : {sortie} ({sortie.stat().st_size/1e6:.2f} Mo, {nb} skills, hash {h[:12]}…)")
+    print(f"   test de fidélité : python3 outils/routage.py pack --check")
+    return 0
+
+
 def cmd_vocab(limit: int = 30) -> int:
     if not DB_PATH.exists():
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
@@ -2680,6 +2786,9 @@ def main():
     p_done = sub.add_parser("done", help="marque une tâche terminée : la retire de TODO.md et la met en tête de DONE.md (R10)")
     p_done.add_argument("texte")
     sub.add_parser("analytics", help="stats SQL des routages de session (exit, voie, domaine)")
+    p_pack = sub.add_parser("pack", help="exporte un zip portable (skills/ + routage.py + manifeste + README) pour un autre projet")
+    p_pack.add_argument("--sortie", type=Path, default=RACINE / "data" / "skillaislop-pack.zip")
+    p_pack.add_argument("--check", action="store_true", help="vérifie le pack : extrait, rebuild --from-skills, compare les tables")
 
     p_bench = sub.add_parser("bench", help="mesure build/route et gain tokens")
     p_bench.add_argument("--tours", type=int, default=3)
@@ -2722,6 +2831,8 @@ def main():
         raise SystemExit(cmd_done(args.texte))
     elif args.cmd == "analytics":
         raise SystemExit(cmd_analytics())
+    elif args.cmd == "pack":
+        raise SystemExit(cmd_pack(args.sortie, args.check))
     elif args.cmd == "bench":
         raise SystemExit(cmd_bench(args.tours))
     elif args.cmd == "lint":

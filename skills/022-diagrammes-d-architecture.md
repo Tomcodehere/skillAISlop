@@ -1,6 +1,6 @@
 ---
 num: 22
-nom: "Générateur de diagrammes d'architecture"
+nom: "Diagrammes d'architecture"
 emoji: "🏗️"
 domaine: "Développement"
 signal: "Schéma d'architecture, diagramme de système"

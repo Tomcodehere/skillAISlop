@@ -49,6 +49,11 @@ jobs:
         run: python3 outils/routage.py versions
         continue-on-error: true
 
+      - name: Pack exportable fidèle (build --from-skills + pack --check)
+        run: |
+          python3 outils/routage.py pack
+          python3 outils/routage.py pack --check
+
       - name: Compteur à jour (R8)
         run: |
           python3 outils/routage.py count --dossier /tmp/count-check
