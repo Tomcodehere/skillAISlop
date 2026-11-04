@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-04** — Perf : voie mot-clé en SQL (table mots_cles indexée) → route 8,5 → 6,0 ms ; trigrammes filtrés >= 5 lettres → DB 2,04 → 1,72 Mo — 449/449 tests, sonde 100 %, pack FIDÈLE
+
 - [x] **2026-11-04** — Versioning sémantique : CATALOGUE_VERSION (12.0.0) dans meta au build, affiché par versions, embarqué dans le manifeste du pack — section Export multi-projets de la TODO 100 % faite
 
 - [x] **2026-11-04** — API locale : routage.py serve (loopback 127.0.0.1 uniquement, bind externe refusé) — /health, /route?q= (exit 0/1/2 + voies/scores), /skills, /export.json ; testé en local + smoke test CI

@@ -10,8 +10,8 @@ type: "text/markdown"
 
 ## Optimisations perf routeur (mesuré : route 8,5 ms, DB 2,04 Mo)
 
-- [ ] Table `mots_cles(mot_cle, num)` indexée + requête SQL au lieu de la boucle Python sur 900 lignes (gain estimé −3 à −5 ms)
-- [ ] `trigrammes` : ne stocker que les trigrammes des mots >= 5 lettres (passe floue inutile en dessous) — économise ~30-50 % de la table (0,72 Mo)
+- [x] ~~Table `mots_cles` en SQL~~ → fait : voie mot-clé en requête indexée (instr/length), route 8,5 → 6,1 ms, 449/449 tests
+- [x] ~~Trigrammes filtrés >= 5 lettres~~ → fait : 65 289 → 33 555 entrées, DB 2,04 → 1,72 Mo (−16 %), fautes de frappe toujours OK (organisr/procrastinnation → exit 0)
 - [ ] vec0 + HNSW (index vectoriel approché) si le catalogue dépasse ~5 000 skills (inutile à 900)
 - [ ] WAL checkpoint périodique si la base reste ouverte longtemps en session
 - [ ] RTREE / géolocalisation de skills — écarté (pas de cas d'usage)

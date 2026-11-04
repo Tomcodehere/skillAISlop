@@ -1612,6 +1612,11 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             k TEXT PRIMARY KEY,
             v TEXT NOT NULL
         );
+        CREATE TABLE IF NOT EXISTS mots_cles (
+            mot_cle_norm TEXT NOT NULL,
+            num          INTEGER NOT NULL,
+            PRIMARY KEY (mot_cle_norm, num)
+        ) WITHOUT ROWID;
         CREATE TABLE IF NOT EXISTS trigrammes (
             trigramme TEXT NOT NULL,
             num       INTEGER NOT NULL,
@@ -1651,16 +1656,24 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         for syn in syns:
             assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
             db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?)", (syn, num))
+    # table des mots-clés normalisés (voie mot-clé en SQL, indexée)
+    mcs = []
+    for r in db.execute("SELECT num, mot_cle FROM skills WHERE mot_cle != ''"):
+        mcs.append((norm(r[1]), r[0]))
+    db.executemany("INSERT OR IGNORE INTO mots_cles VALUES (?,?)", mcs)
+    db.commit()
     # table des trigrammes (passe floue en SQL) : mêmes champs que la version Python
     tg = []
     for r in db.execute("SELECT num, nom, signal, mot_cle, nom_court FROM skills"):
-        texte = norm(" ".join(str(x) for x in (r[1], r[2], r[3], r[4])))
+        # trigrammes des tokens >= 5 lettres seulement (la passe floue ne matche que qt_forts >= 5)
+        mots = [t for t in tokens(" ".join(str(x) for x in (r[1], r[2], r[3], r[4]))) if len(t) >= 5]
         seen = set()
-        for i in range(len(texte) - 2):
-            tri = texte[i:i+3]
-            if tri not in seen:
-                seen.add(tri)
-                tg.append((tri, r[0]))
+        for t in mots:
+            for i in range(len(t) - 2):
+                tri = t[i:i+3]
+                if tri not in seen:
+                    seen.add(tri)
+                    tg.append((tri, r[0]))
     db.executemany("INSERT OR IGNORE INTO trigrammes VALUES (?,?)", tg)
     db.commit()
     n = db.execute("SELECT COUNT(*) FROM skills").fetchone()[0]
@@ -1827,23 +1840,23 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             res["direct"] = cand(r["num"], r["nom"], r["domaine"],
                                  r["signal"] or "(routeur)", "direct", None)
 
-    # 1) mot-clé canonique : égalité puis inclusion (mot_cle pré-normalisé en cache)
-    cache_mc = {}
-    for r in db.execute("SELECT num, nom, domaine, signal, mot_cle FROM skills "
-                        "WHERE mot_cle != ''"):
-        kw = cache_mc.get(r["num"])
-        if kw is None:
-            kw = cache_mc[r["num"]] = norm(r["mot_cle"])
-        if qn and (qn == kw or (len(qn) >= 5 and qn in kw)
-                  or (len(kw) >= 5 and kw in qn)):
+    # 1) mot-clé canonique : égalité puis inclusion, en SQL sur mots_cles (indexé)
+    if qn:
+        rows_mc = db.execute(
+            "SELECT m.num, s.nom, s.domaine, s.signal, m.mot_cle_norm AS mot_cle FROM mots_cles m "
+            "JOIN skills s ON s.num = m.num "
+            "WHERE m.mot_cle_norm = ? OR (length(?) >= 5 AND instr(m.mot_cle_norm, ?) > 0) "
+            "   OR (length(m.mot_cle_norm) >= 5 AND instr(?, m.mot_cle_norm) > 0)",
+            (qn, qn, qn, qn)).fetchall()
+        for r in rows_mc:
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "mot-clé", r["mot_cle"]))
             vus.add(r["num"])
-    for r in db.execute("SELECT num, nom, domaine, signal, mot_cle FROM skills "
-                       "WHERE mot_cle != ''"):
+    for r in db.execute("SELECT m.num, s.nom, s.domaine, s.signal, m.mot_cle_norm AS mot_cle FROM mots_cles m "
+                       "JOIN skills s ON s.num = m.num"):
         if r["num"] in vus:
             continue
-        kwt = set(tokens(cache_mc.get(r["num"]) or norm(r["mot_cle"])))
+        kwt = set(tokens(r["mot_cle"]))
         if kwt and kwt <= set(qt):
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "mot-clé", r["mot_cle"]))
