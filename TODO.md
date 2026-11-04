@@ -28,7 +28,7 @@ type: "text/markdown"
 
 ## Process
 
-- [ ] `misses --suggest` en routine hebdo (journal des exit 2 → synonymes)
+- [ ] `misses --suggest` en routine hebdo — testé le 2026-11-04 : journal OK, suggestions OK (faux positifs filtrés à la main, R6), `--clear` OK
 - [ ] Merger les PR dès que CLEAN + CI verte (éviter l'accumulation sur la branche)
 - [ ] Un commit par sujet ; `git diff --stat` + relecture avant chaque push (hook pre-push déjà en place)
 
