@@ -2640,6 +2640,52 @@ def cmd_pack(sortie: Path, check: bool) -> int:
     return 0
 
 
+def cmd_skillmd(sortie: Path) -> int:
+    """Génère un dossier de SKILL.md (standard ouvert Agent Skills : frontmatter
+    name/description + corps) depuis skills/*.md — installable via `npx skills add`."""
+    import re as _re, unicodedata
+    def norm(s):
+        s = unicodedata.normalize("NFKD", s)
+        return "".join(c for c in s if not unicodedata.combining(c)).lower()
+    sortie.mkdir(parents=True, exist_ok=True)
+    n = 0
+    for f in sorted((Path(__file__).resolve().parent.parent / "skills").glob("*.md")):
+        txt = f.read_text(encoding="utf-8")
+        fm = _re.match(r"---\n(.*?)\n---\n(.*)", txt, _re.S)
+        meta, corps = fm.group(1), fm.group(2)
+        g = lambda k: _re.search(rf'^{k}: "(.*)"$', meta, _re.M).group(1)
+        num = int(_re.search(r"^num: (\d+)$", meta, _re.M).group(1))
+        nom, signal, dom, mc = g("nom"), g("signal"), g("domaine"), g("mot_cle")
+        syns = _re.search(r'^synonymes: \[(.*)\]$', meta, _re.M).group(1)
+        desc = f"{signal or nom} [{dom}]"[:200]
+        # nom de dossier conforme au standard : kebab-case, prefix numérique gardé
+        slug = _re.sub(r"[^a-z0-9]+", "-", norm(nom)).strip("-")[:40]
+        d = sortie / f"{num:03d}-{slug}"
+        d.mkdir(exist_ok=True)
+        skill_md = f"""---
+name: "{num:03d}-{slug}"
+description: "{desc}"
+metadata:
+  skillAISlop_num: {num}
+  domaine: "{dom}"
+  mot_cle: "{mc}"
+  synonymes: [{syns}]
+---
+
+{corps.strip()}
+"""
+        (d / "SKILL.md").write_text(skill_md, encoding="utf-8")
+        n += 1
+    # manifeste global pour npx skills add
+    import json
+    (sortie / "skills.json").write_text(json.dumps({
+        "name": "skillaislop", "version": "12.0.0", "skills": n,
+        "source": "github:Tomcodehere/skillAISlop",
+    }, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"✅ {n} SKILL.md générés dans {sortie} (+ skills.json pour npx skills add)")
+    return 0
+
+
 def cmd_vocab(limit: int = 30) -> int:
     if not DB_PATH.exists():
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
@@ -2789,6 +2835,8 @@ def main():
     p_pack = sub.add_parser("pack", help="exporte un zip portable (skills/ + routage.py + manifeste + README) pour un autre projet")
     p_pack.add_argument("--sortie", type=Path, default=RACINE / "data" / "skillaislop-pack.zip")
     p_pack.add_argument("--check", action="store_true", help="vérifie le pack : extrait, rebuild --from-skills, compare les tables")
+    p_sm = sub.add_parser("skillmd", help="génère un dossier de SKILL.md (standard Agent Skills) depuis skills/*.md")
+    p_sm.add_argument("--sortie", type=Path, default=RACINE / "data" / "agent-skills")
 
     p_bench = sub.add_parser("bench", help="mesure build/route et gain tokens")
     p_bench.add_argument("--tours", type=int, default=3)
@@ -2833,6 +2881,8 @@ def main():
         raise SystemExit(cmd_analytics())
     elif args.cmd == "pack":
         raise SystemExit(cmd_pack(args.sortie, args.check))
+    elif args.cmd == "skillmd":
+        raise SystemExit(cmd_skillmd(args.sortie))
     elif args.cmd == "bench":
         raise SystemExit(cmd_bench(args.tours))
     elif args.cmd == "lint":

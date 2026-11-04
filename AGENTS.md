@@ -84,6 +84,7 @@ Ce dépôt est l'export du projet skillAISlop depuis Vibe Work ; le canvas princ
   - **Cascade de `route`** : direct « skill N » → mot-clé → synonyme → FTS5 → sqlite-vec (cosinus ≥ 0,80) → trigrammes SQL → domaines. Chaque candidate porte sa **voie** et son **score** ; exit 0 = prendre la première candidate (voie la plus forte), exit 1 = piste/domaine à confirmer, exit 2 = consulter `misses --suggest` avant de répondre en direct.
 - `.github/workflows/ci.yml` — CI sur chaque PR (build, generate --check, lint, test, audit, sonde, compteur, vocab, versions, pack --check) ;
 - **Export multi-projets** : `routage.py pack` produit `data/skillaislop-pack.zip` (skills/*.md + routage.py + manifeste.json avec hash + README) ; un projet tiers fait `pip install sqlite-vec && python3 routage.py build --from-skills && python3 routage.py route "<demande>"` ; fidélité vérifiée par `routage.py pack --check` (rebuild depuis le pack, compare les tables + hash) ;
+- **Interop Agent Skills** : `routage.py skillmd` génère `data/agent-skills/<NNN-slug>/SKILL.md` (frontmatter standard `name`/`description` + metadata) depuis chaque `skills/NNN-*.md`, installables via `npx skills add` dans Claude Code/Codex/Cursor ;
 - `outils/audit_conformite.py` — audit R1-R8 multi-fichiers (`python3 outils/audit_conformite.py canvas/*.md`) ;
 - `data/` — export JSON compact et complet, compteur de skills.
 

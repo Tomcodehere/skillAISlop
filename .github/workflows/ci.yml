@@ -49,6 +49,10 @@ jobs:
         run: python3 outils/routage.py versions
         continue-on-error: true
 
+      - name: Génération SKILL.md (interop Agent Skills)
+        run: python3 outils/routage.py skillmd
+        continue-on-error: true
+
       - name: Pack exportable fidèle (build --from-skills + pack --check)
         run: |
           python3 outils/routage.py pack
