@@ -37,3 +37,5 @@ type: "text/markdown"
 - [ ] Vague 13 (R7, janvier 2027) : re-faire la veille web, viser les vrais gaps restants plutôt que du volume
 
 - [ ] Vague 14 (R7, avril 2027) : prochaine veille trimestrielle
+
+- [ ] Utiliser templateSkills.md du repo cloné tvprodel/SkillsAI (/workspace/github__tvprodel__SkillsAI, 313 *.skill.md, 13 sections standard) pour mettre à jour tous les fichiers agents de ce projet vers le template standard (Objectif, Triggers, Hors périmètre, Inputs, Sorties, Workflow, Garde-fous, Templates, QA, KPI, DoD, Exemples, Sources)
