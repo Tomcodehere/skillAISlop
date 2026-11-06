@@ -120,3 +120,7 @@ Les skills 19-50 s'inspirent des skills, prompts et workflows les plus populaire
 - [Welltory — Wellness trends 2026 (sommeil, digital detox)](https://welltory.com/blog/wellness-trends-2026) → skills 813, 814
 - [Tripleten — 11 AI skills in demand 2026 (AI literacy, data literacy)](https://tripleten.com/blog/posts/ai-skills) → skills 815, 816
 - [Blog Mean — AI agents news nov 2026 (permissions, BEC, injection web)](https://blog.mean.ceo/ai-agents-news-november-2026/) → skills 801, 818, 824
+
+**Merge SkillsAI (skills 1000-1310, 2026-11-06)** :
+
+- [tvprodel/SkillsAI — 311 skills *.skill.md + templateSkills.md (13 sections)](https://github.com/tvprodel/SkillsAI) — mergées au format TEMPLATE-v2 dans skills 1000-1310

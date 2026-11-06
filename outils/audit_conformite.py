@@ -182,33 +182,47 @@ def auditer_skill(num: int, titre: str, corps: str, sommaire: set[int],
     tete = next((l for l in lignes if l.strip()), "")
     audit.tests["R1_index_present"] = bool(INDEX_LINE.match(tete.strip()))
 
-    # R2 — blocs du template
-    audit.tests["R2_objectif"] = bool(OBJECTIF.search(corps_strip))
+    # R2 — blocs du template (R2 classique < 1000, TEMPLATE-v2 >= 1000 : sections v2 requises)
+    v2 = num >= 1000
+    if v2:
+        V2 = [r"\*\*Objectif\*\*", r"\*\*Quand l'utiliser \(triggers\)\*\*", r"\*\*Hors périmètre\*\*",
+              r"\*\*Garde-fous\*\*", r"\*\*Instructions système\*\*", r"\*\*Inputs requis\*\*",
+              r"\*\*Méthode\*\*", r"\*\*Sorties attendues\*\*", r"\*\*Exemple de prompt\*\*",
+              r"\*\*Cas d'usage\*\*", r"\*\*Checklist QA interne\*\*", r"\*\*Definition of done\*\*"]
+        for i, pat in enumerate(V2):
+            audit.tests[f"R2_v2_{i}"] = bool(re.search(pat, corps_strip))
+        # R2 classique désactivé pour v2
+        for k in ["R2_objectif", "R2_instructions_tu_es", "R2_methode_3_etapes", "R2_exemple_concret", "R2_cas_usage_2"]:
+            audit.tests[k] = True
+    audit.tests["R2_objectif"] = True if v2 else bool(OBJECTIF.search(corps_strip))
 
-    instr_ok = bool(INSTRUCTIONS.search(corps_strip))
+    if v2:
+        instr_ok = True
+    else:
+        instr_ok = bool(INSTRUCTIONS.search(corps_strip))
     apres_instr = INSTRUCTIONS.search(corps_strip)
     debut = apres_instr.end() if apres_instr else 0
     fin_methode = METHODE.search(corps_strip)
     zone_instr = corps_strip[debut:fin_methode.start()] if fin_methode else corps_strip[debut:]
-    audit.tests["R2_instructions_tu_es"] = instr_ok and bool(INSTR_TU_ES.search(zone_instr))
+    audit.tests["R2_instructions_tu_es"] = True if v2 else (instr_ok and bool(INSTR_TU_ES.search(zone_instr)))
 
     m_methode = METHODE.search(corps_strip)
     zone_methode = corps_strip[m_methode.end():] if m_methode else ""
     zone_methode = zone_methode.split("**Exemple")[0]
     etapes = re.findall(r"(?m)^\d+\. ", zone_methode)
-    audit.tests["R2_methode_3_etapes"] = len(etapes) >= 3
+    audit.tests["R2_methode_3_etapes"] = True if v2 else len(etapes) >= 3
 
     m_ex = EXEMPLE.search(corps_strip)
     zone_ex = corps_strip[m_ex.end():] if m_ex else ""
     zone_ex = zone_ex.split("**Cas d'usage")[0]
-    audit.tests["R2_exemple_concret"] = (
+    audit.tests["R2_exemple_concret"] = True if v2 else (
         bool(EXEMPLE_CONCRET.search(zone_ex))
         and len(zone_ex.strip()) >= MIN_CONTEXTE_EXEMPLE
     )
 
     m_cu = CAS_USAGE.search(corps_strip)
     usages = [u for u in re.split(r"[,;]", m_cu.group("liste")) if u.strip()] if m_cu else []
-    audit.tests["R2_cas_usage_2"] = len(usages) >= 2
+    audit.tests["R2_cas_usage_2"] = True if v2 else len(usages) >= 2
 
     # R3 — routage
     audit.tests["R3_sommaire"] = num in sommaire

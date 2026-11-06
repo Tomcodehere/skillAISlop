@@ -1002,6 +1002,317 @@
 | 997 | Préparer une mobilité interne (changement de poste) 2027 | Carrière|
 | 998 | Faire une pause carrière (congé sabbatique) 2027 | Carrière|
 | 999 | Bilan & objectifs 2027 (tous domaines) — édition annuelle | Gestion|
+| 1000 | Acceptance Scenario Derivation | Gestion|
+| 1001 | Accessibility Evidence Register | Recherche|
+| 1002 | Accessible Alternative Text Review | IA / Prompting|
+| 1003 | Accountant Meeting & Document Preparation | Créativité|
+| 1004 | Active Directory Architecture Design | Développement|
+| 1005 | Active Directory Management | Design|
+| 1006 | AD Migration & Consolidation | Gestion|
+| 1007 | AD Replication & Sites Management | RH & formation|
+| 1008 | AD Security & Tiering | IA / Prompting|
+| 1009 | Adaptive Audio Implementation | Développement|
+| 1010 | Adaptive Interactive Music & Stems | Créativité|
+| 1011 | Adversarial Testing & Robustness | Développement|
+| 1012 | Advertising Measurement & Experimentation | IA / Prompting|
+| 1013 | Agent Role Regression Campaign | Gestion|
+| 1014 | Agent State Boundary Design | IA / Prompting|
+| 1015 | AI Act Technical Oversight Mapping | Design|
+| 1016 | AI Adoption Feedback Decision | Produit|
+| 1017 | AI Capability Interface Specification | Design|
+| 1018 | AI Ethical Impact Decision Record | IA / Prompting|
+| 1019 | Skill: AI Explainability & Transparency | Gestion|
+| 1020 | AI Feature Prioritization & Metrics | Data & IA|
+| 1021 | AI Feature Success Contract | IA / Prompting|
+| 1022 | AI Model Release Value Decision | Développement|
+| 1023 | AI Product Discovery & Adoption | Produit|
+| 1024 | AI Product Strategy & Roadmap | IA / Prompting|
+| 1025 | AI-SI Integration Strategy | Gestion|
+| 1026 | AI System Architecture Design | Développement|
+| 1027 | AI System Failure Recovery Design | IA / Prompting|
+| 1028 | AI Transparency Audience Plan | Design|
+| 1029 | Anti-Bot Evasion & Scraping Best Practices | Développement|
+| 1030 | API Documentation & OpenAPI Specification | Développement|
+| 1031 | API and Webhook Contract Mapping | Développement|
+| 1032 | Application Diagnostics & Troubleshooting | Développement|
+| 1033 | Application Migration Data Transfer | Data & IA|
+| 1034 | Application Synchronization Conflict Policy | Gestion|
+| 1035 | AppSec Trust-Boundary Review | Développement|
+| 1036 | APT and Pacman Recovery Planning | Gestion|
+| 1037 | Architecture Quality Scenario | Développement|
+| 1038 | Artifact Dependency Inventory | Gestion|
+| 1039 | ASP.NET Core API Development | Développement|
+| 1040 | Audit Cohérence Logique Brief | Gestion|
+| 1041 | B2B Prospecting & Lead Qualification | Vente|
+| 1042 | Backend Transaction Consistency | Développement|
+| 1043 | Backup Recovery Automation | Développement|
+| 1044 | Bash Exit and Signal Safety | Développement|
+| 1045 | Behavioral Pattern Analysis (Analyse Patterns Comportementaux) | Design|
+| 1046 | Belgian Accounting & Bookkeeping Basics | Finance|
+| 1047 | Belgian VAT & Tax Orientation | Créativité|
+| 1048 | Bitmap Texture & Sprite Sheet Preparation | Design|
+| 1049 | Blazor Component Design | Développement|
+| 1050 | Blender Game-Ready Export Pipeline | Développement|
+| 1051 | Blender Hard Surface & Organic Modeling | Développement|
+| 1052 | Blender Rigging & Animation Workflow | Développement|
+| 1053 | Blender UV Unwrap & PBR Material Setup | Développement|
+| 1054 | Bounded Utility Specification | Gestion|
+| 1055 | BPMN Process Modeling | IA / Prompting|
+| 1056 | Brand Positioning Strategy | Marketing|
+| 1057 | Brief Assumption Ledger | Design|
+| 1058 | Business Insight Narrative | Data & IA|
+| 1059 | Business KPI Analysis & Dashboard Design | Data & IA|
+| 1060 | Calibration Confiance Décisionnelle | IA / Prompting|
+| 1061 | Campaign Claim Evidence Review | Recherche|
+| 1062 | Capacity Planning & Sizing | Gestion|
+| 1063 | Certificate Management Applications | Développement|
+| 1064 | Chain of Thought Engineering | Développement|
+| 1065 | Change Readiness Evidence | Développement|
+| 1066 | Claim-Source Evidence Matrix | Recherche|
+| 1067 | Cloud Architecture Design | Développement|
+| 1068 | Cloud Cost Optimization | Recherche|
+| 1069 | Cloud Failure-Domain Placement | Gestion|
+| 1070 | Cloud IAM Responsibility Blueprint | Design|
+| 1071 | Cloud Migration Strategy | Gestion|
+| 1072 | Cloud Migration Wave Acceptance | Gestion|
+| 1073 | Cloud Security & Compliance | Développement|
+| 1074 | Cloud Storage Strategies | IA / Prompting|
+| 1075 | Code Architecture Trace Documentation | Développement|
+| 1076 | Cognitive Journey Barrier Review | Formation|
+| 1077 | Cognitive Load Assessment | Développement|
+| 1078 | Commercial Opportunity & Segment Mapping | Développement|
+| 1079 | Competitive Landscape & Positioning Analysis | Produit|
+| 1080 | Compliance Automation (RegOps) | Design|
+| 1081 | Component Dependency Conformance | Développement|
+| 1082 | Medical Consultation Preparation | Créativité|
+| 1083 | Container Registry Management | Développement|
+| 1084 | Content Approval Evidence | Recherche|
+| 1085 | Content Regression Checkpointing | Rédaction|
+| 1086 | Contingency Trigger Design | Design|
+| 1087 | Contract Drafting & Negotiation | Produit|
+| 1088 | Controlled Vocabulary Lifecycle | Gestion|
+| 1089 | Conversion Copy Experimentation | Développement|
+| 1090 | Cookie Consent Evidence Review | Produit|
+| 1091 | Corporate & Litigation Risk Management | Design|
+| 1092 | Cost Governance (FinOps elargi) | Data & IA|
+| 1093 | Cross-Artifact Consistency Review | Gestion|
+| 1094 | Cross-Locale Meaning Alignment | Design|
+| 1095 | Data Catalog & Lineage | Data & IA|
+| 1096 | Data Freshness Incident Triage | Data & IA|
+| 1097 | Data Governance & Quality | Data & IA|
+| 1098 | Data Lake Architecture & Storage | Développement|
+| 1099 | Data Quality Monitoring | Développement|
+| 1100 | Data Retention Policy Design | Data & IA|
+| 1101 | Data Stewardship Responsibility Design | Développement|
+| 1102 | Data Storytelling & Insights Communication | Data & IA|
+| 1103 | Data Visualization & ML Insights | IA / Prompting|
+| 1104 | Debian & Arch System Administration | Développement|
+| 1105 | Deliverable Completeness Review | Gestion|
+| 1106 | Détection Boucles Délégation | Gestion|
+| 1107 | Dialogue & Quest Scripting Workflow | Développement|
+| 1108 | Disaster Recovery Design | Design|
+| 1109 | Docker Compose Orchestration | Développement|
+| 1110 | Dockerfile Best Practices | Développement|
+| 1111 | Document d'Architecture du Système d'Information (DIS) | Développement|
+| 1112 | Documentation Example Verification | Développement|
+| 1113 | Dynamic Web Scraping (Playwright/Selenium) | Développement|
+| 1114 | EDA & Statistical Analysis for ML | IA / Prompting|
+| 1115 | Editorial Change Impact | Rédaction|
+| 1116 | Engine Profiling & Build Pipeline | Développement|
+| 1117 | Enterprise Application Lifecycle | Développement|
+| 1118 | Entity Framework Core Migrations | Développement|
+| 1119 | Skill: Ethical Impact Assessment | IA / Prompting|
+| 1120 | Ethical Monetization & Compliance Watch | Développement|
+| 1121 | ETL Pipeline Design & Orchestration | Développement|
+| 1122 | Evidence-Claim Reconciliation | Recherche|
+| 1123 | Excel Advanced Functions | IA / Prompting|
+| 1124 | Execution Commande Shell | Gestion|
+| 1125 | Experiment Power Planning | Data & IA|
+| 1126 | Exploration Coverage Boundary | IA / Prompting|
+| 1127 | Fairness & Bias Detection | Design|
+| 1128 | Feature Engineering & Data Preparation | Développement|
+| 1129 | FinTech Business Model Strategy | IA / Prompting|
+| 1130 | FinTech Partnership & Ecosystem Strategy | IA / Prompting|
+| 1131 | FinTech Product & Market Strategy | Produit|
+| 1132 | Firewall Rule Design | Développement|
+| 1133 | Foundation Model Support Watch | IA / Prompting|
+| 1134 | Functional Specification & Traceability | Développement|
+| 1135 | FX Performance Budget Optimization | Design|
+| 1136 | Game AI Difficulty & Director Tuning | Design|
+| 1137 | Game Audio Mixing & Loudness | Design|
+| 1138 | Game Economy Sources & Sinks Modeling | IA / Prompting|
+| 1139 | Game Engine Performance & Profiling | Gestion|
+| 1140 | Game Loop & ECS Architecture | Développement|
+| 1141 | Game Music Composition & Themes | IA / Prompting|
+| 1142 | GDExtension & Native Module Development | Développement|
+| 1143 | Generative Model Selection & Evaluation | IA / Prompting|
+| 1144 | General Purpose Delegation Fallback | Gestion|
+| 1145 | Generative Capability Benchmark Design | IA / Prompting|
+| 1146 | Generative Output Quality Benchmarking | Développement|
+| 1147 | Gestion Echecs & Rollback | IA / Prompting|
+| 1148 | GIMP Photo Retouch & Compositing | Design|
+| 1149 | Godot Animation System Integration | Développement|
+| 1150 | Godot Export & Build Pipeline | Développement|
+| 1151 | GPO Advanced Design & Troubleshooting | IA / Prompting|
+| 1152 | Grammar & Orthography Compliance Audit | Rédaction|
+| 1153 | Grammatical Ambiguity Resolution | Design|
+| 1154 | Grill Me (Clarification Socratique) | Design|
+| 1155 | Hallucination Evidence Evaluation | IA / Prompting|
+| 1156 | Health Information Literacy | Design|
+| 1157 | Hygiene Environnement Execution | Recherche|
+| 1158 | I Have ADHD (Output Mode Neurodivergent) | Gestion|
+| 1159 | IaC Blueprint Generation | Développement|
+| 1160 | IaC On-Prem Automation | Développement|
+| 1161 | Incident Commander (SRE / Runbook) | Design|
+| 1162 | Inclusive Design Psychology (Psychologie Design Inclusif) | Design|
+| 1163 | Inclusive Research Protocol | Design|
+| 1164 | Inference Cache Benefit Assessment | IA / Prompting|
+| 1165 | Infrastructure Resilience Design | Développement|
+| 1166 | Inkscape Icon & Logo System Design | Développement|
+| 1167 | Inkscape SVG Export & Optimization | Développement|
+| 1168 | Inkscape Vector Production Workflow | Design|
+| 1169 | Integration Reliability Patterns | Gestion|
+| 1170 | Intellectual Property Protection | Recherche|
+| 1171 | Interactive Narrative & Branching Design | Créativité|
+| 1172 | Interface Error-Recovery Writing | Design|
+| 1173 | Knowledge Curator (RAG / Docs Ops) | IA / Prompting|
+| 1174 | Krita Digital Painting Workflow | Développement|
+| 1175 | Landing Page Argument Design | Marketing|
+| 1176 | Language Correction Regression Suite | Design|
+| 1177 | Libre Software Advocacy & Licensing | IA / Prompting|
+| 1178 | Linux Security Hardening | Développement|
+| 1179 | LLM Latency Bottleneck Measurement | IA / Prompting|
+| 1180 | LLM Token Cost Attribution | IA / Prompting|
+| 1181 | Localization Context Adaptation | Design|
+| 1182 | Lore, Worldbuilding Bible & Localization Prep | Développement|
+| 1183 | M365 Integration Patterns | Développement|
+| 1184 | MariaDB Performance & Reliability | Gestion|
+| 1185 | Market & Competitive Intelligence | Recherche|
+| 1186 | Marketing Email Sequence Drafting | Marketing|
+| 1187 | Meaning-Preserving Reformulation | Gestion|
+| 1188 | Meeting Decision Extraction | Communication|
+| 1189 | Message Delivery Recovery Design | Design|
+| 1190 | Metadata Classification Policy | Data & IA|
+| 1191 | ML Error Cohort Analysis | IA / Prompting|
+| 1192 | ML Experimentation & Validation | IA / Prompting|
+| 1193 | MLOps & Model Lifecycle Management | IA / Prompting|
+| 1194 | ML Pipeline Design & Evaluation | Développement|
+| 1195 | Model Drift Retraining Gate | IA / Prompting|
+| 1196 | Multi-Agent Orchestration Patterns | IA / Prompting|
+| 1197 | Multi-Cloud Tradeoff Analysis | Gestion|
+| 1198 | Multi-OS Integration Strategy | Développement|
+| 1199 | Multilingual Quality & Localization | Rédaction|
+| 1200 | Music Arrangement, Loop & Delivery | Développement|
+| 1201 | MySQL Query Optimization | Développement|
+| 1202 | NestJS Architecture | Développement|
+| 1203 | Network Segmentation | Développement|
+| 1204 | Neutral Document Condensation | Design|
+| 1205 | Notarial Appointment Preparation | Créativité|
+| 1206 | Notarial Document Preparation | Gestion|
+| 1207 | Belgian Notarial Procedures Orientation | Recherche|
+| 1208 | NPC Behavior Trees & State Machines | Design|
+| 1209 | Observability Engineer | Data & IA|
+| 1210 | Onboarding Instruction Design | Design|
+| 1211 | Open Image License Traceability | Gestion|
+| 1212 | Operational Performance System & Governance | Design|
+| 1213 | Operational Runbook Acceptance | IA / Prompting|
+| 1214 | Operations Strategy & Operating Model Design | IA / Prompting|
+| 1215 | Operations Transformation Portfolio & Benefits Governance | Design|
+| 1216 | Organic Search & Social Measurement | Développement|
+| 1217 | Organic Social Media Strategy | Produit|
+| 1218 | Orthotypographic Consistency Review | Rédaction|
+| 1219 | Outlook Productivity Automation | Communication|
+| 1220 | Package Management Best Practices | Développement|
+| 1221 | Paid Advertising Campaign Planning | Produit|
+| 1222 | Particle VFX Design 2D/3D | Développement|
+| 1223 | Partnership Development & Execution | Design|
+| 1224 | Pathfinding, Navigation & Perception | Développement|
+| 1225 | Perl Stream Transformation | Design|
+| 1226 | Personal Data Flow and Lawful-Basis Mapping | Data & IA|
+| 1227 | PHP Request Validation Flow | Développement|
+| 1228 | Portfolio / Capacity Planner | Design|
+| 1229 | PostgreSQL Advanced Tuning | Développement|
+| 1230 | PowerPoint Design Efficiency | Design|
+| 1231 | PowerShell DSC Advanced | Développement|
+| 1232 | Predictive Temporal Validation | IA / Prompting|
+| 1233 | Process KPI Definition | Data & IA|
+| 1234 | Producer-Consumer Data Contracts | Data & IA|
+| 1235 | Product Opportunity Assessment | Développement|
+| 1236 | Product Outcome Roadmap | Produit|
+| 1237 | Product Prioritization Decision | Produit|
+| 1238 | Progression & Loot Table Balancing | Design|
+| 1239 | Project Baseline Change Assessment | Gestion|
+| 1240 | Project Estimate Calibration | Design|
+| 1241 | Prompt Engineer & Guardrails | IA / Prompting|
+| 1242 | Prompt Injection Boundary Evaluation | IA / Prompting|
+| 1243 | Prompt Structure Optimization | IA / Prompting|
+| 1244 | Prompt Versioning & Testing | Développement|
+| 1245 | Protected-Group Evaluation Protocol | IA / Prompting|
+| 1246 | Python Service Boundary Implementation | Développement|
+| 1247 | Quality Rule Acceptance Design | Développement|
+| 1248 | RAG & Fine-Tuning Strategy Design | Développement|
+| 1249 | React Hooks Patterns | Développement|
+| 1250 | Regression Risk Selection | Gestion|
+| 1251 | Release Manager & Change Control | Développement|
+| 1252 | Reporting Structure d'Exécution | Design|
+| 1253 | Repository Entry-Point Survey | Gestion|
+| 1254 | Requirements Elicitation & Analysis | Design|
+| 1255 | Research Uncertainty Synthesis | Recherche|
+| 1256 | RHEL Package Lifecycle Plan | Productivité|
+| 1257 | RHEL SELinux Diagnosis | Développement|
+| 1258 | Risk Exposure Aggregation | IA / Prompting|
+| 1259 | Risk Register & Mitigation Planning | Design|
+| 1260 | Roast My Idea (Feedback Tough Love) | IA / Prompting|
+| 1261 | RPA Automation Design | Développement|
+| 1262 | Sales Pipeline & Opportunity Management | Développement|
+| 1263 | SAN/NAS Design | Développement|
+| 1264 | Scene and Signal Architecture | Développement|
+| 1265 | Scraping Ethics & Legal Awareness | Développement|
+| 1266 | Security Engineering (AppSec Automation) | Productivité|
+| 1267 | Security Remediation Verification | Gestion|
+| 1268 | Semantic CSS Responsive Implementation | Développement|
+| 1269 | SEO Audit & Keyword Strategy | IA / Prompting|
+| 1270 | Shader Visual Effects Authoring | Développement|
+| 1271 | SLO and Error-Budget Decision | Design|
+| 1272 | Small File-Format Transformation | Formation|
+| 1273 | Software Boundary ADR | Gestion|
+| 1274 | Sound Effects Design & Recording | Design|
+| 1275 | Source API Contract Documentation | Développement|
+| 1276 | Source Authority Comparison | Recherche|
+| 1277 | SQL Analytics & Data Quality | Développement|
+| 1278 | Static Web Scraping (BeautifulSoup/lxml/Requests) | Développement|
+| 1279 | Statistical Inference Protocol | Data & IA|
+| 1280 | Streaming Data Processing | Développement|
+| 1281 | System Architecture Design | Développement|
+| 1282 | System Monitoring & Observability | Développement|
+| 1283 | System Script Idempotence Proof | Développement|
+| 1284 | Systemd Service Management | Développement|
+| 1285 | Teams Collaboration Best Practices | Développement|
+| 1286 | Terminology Management & Glossary Governance | Rédaction|
+| 1287 | Test Architect (QA avancee) | Développement|
+| 1288 | Test Fixture Isolation Design | Développement|
+| 1289 | Translation Terminology Validation | Design|
+| 1290 | Troubleshooting Decision Tree | Formation|
+| 1291 | 2D Animation Cutout & Frame-by-Frame | Design|
+| 1292 | TypeScript Advanced Types | Développement|
+| 1293 | UI Tone-of-Voice Specification | Produit|
+| 1294 | UI Transitions Library (Transitions.dev) | Développement|
+| 1295 | Urgent Care Navigation | Design|
+| 1296 | User Guide Task Design | Design|
+| 1297 | User Stories & Acceptance Criteria | Produit|
+| 1298 | Utility Execution Evidence | Recherche|
+| 1299 | UX Microcopy Accessibility | Design|
+| 1300 | UX Researcher (Discovery) | Produit|
+| 1301 | Vector Illustration Construction | Créativité|
+| 1302 | Verification Post-Execution | Design|
+| 1303 | Visual Identity Asset Specification | Gestion|
+| 1304 | VPN Configuration | Gestion|
+| 1305 | Vue Component State Contract | Développement|
+| 1306 | Vulnerability Evidence Triage | Recherche|
+| 1307 | WBS and Dependency Planning | Gestion|
+| 1308 | Web Accessibility Audit (Audit Accessibilité Web) | Développement|
+| 1309 | Web Data Extraction & Structuring | Développement|
+| 1310 | Windows Server Hardening | Développement|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -1385,7 +1696,318 @@
 | 997 | Préparer une mobilité interne (changement de poste) 2027 | Carrière|
 | 998 | Faire une pause carrière (congé sabbatique) 2027 | Carrière|
 | 999 | Bilan & objectifs 2027 (tous domaines) — édition annuelle | Gestion|
+| 1000 | Acceptance Scenario Derivation | Gestion|
+| 1001 | Accessibility Evidence Register | Recherche|
+| 1002 | Accessible Alternative Text Review | IA / Prompting|
+| 1003 | Accountant Meeting & Document Preparation | Créativité|
+| 1004 | Active Directory Architecture Design | Développement|
+| 1005 | Active Directory Management | Design|
+| 1006 | AD Migration & Consolidation | Gestion|
+| 1007 | AD Replication & Sites Management | RH & formation|
+| 1008 | AD Security & Tiering | IA / Prompting|
+| 1009 | Adaptive Audio Implementation | Développement|
+| 1010 | Adaptive Interactive Music & Stems | Créativité|
+| 1011 | Adversarial Testing & Robustness | Développement|
+| 1012 | Advertising Measurement & Experimentation | IA / Prompting|
+| 1013 | Agent Role Regression Campaign | Gestion|
+| 1014 | Agent State Boundary Design | IA / Prompting|
+| 1015 | AI Act Technical Oversight Mapping | Design|
+| 1016 | AI Adoption Feedback Decision | Produit|
+| 1017 | AI Capability Interface Specification | Design|
+| 1018 | AI Ethical Impact Decision Record | IA / Prompting|
+| 1019 | Skill: AI Explainability & Transparency | Gestion|
+| 1020 | AI Feature Prioritization & Metrics | Data & IA|
+| 1021 | AI Feature Success Contract | IA / Prompting|
+| 1022 | AI Model Release Value Decision | Développement|
+| 1023 | AI Product Discovery & Adoption | Produit|
+| 1024 | AI Product Strategy & Roadmap | IA / Prompting|
+| 1025 | AI-SI Integration Strategy | Gestion|
+| 1026 | AI System Architecture Design | Développement|
+| 1027 | AI System Failure Recovery Design | IA / Prompting|
+| 1028 | AI Transparency Audience Plan | Design|
+| 1029 | Anti-Bot Evasion & Scraping Best Practices | Développement|
+| 1030 | API Documentation & OpenAPI Specification | Développement|
+| 1031 | API and Webhook Contract Mapping | Développement|
+| 1032 | Application Diagnostics & Troubleshooting | Développement|
+| 1033 | Application Migration Data Transfer | Data & IA|
+| 1034 | Application Synchronization Conflict Policy | Gestion|
+| 1035 | AppSec Trust-Boundary Review | Développement|
+| 1036 | APT and Pacman Recovery Planning | Gestion|
+| 1037 | Architecture Quality Scenario | Développement|
+| 1038 | Artifact Dependency Inventory | Gestion|
+| 1039 | ASP.NET Core API Development | Développement|
+| 1040 | Audit Cohérence Logique Brief | Gestion|
+| 1041 | B2B Prospecting & Lead Qualification | Vente|
+| 1042 | Backend Transaction Consistency | Développement|
+| 1043 | Backup Recovery Automation | Développement|
+| 1044 | Bash Exit and Signal Safety | Développement|
+| 1045 | Behavioral Pattern Analysis (Analyse Patterns Comportementaux) | Design|
+| 1046 | Belgian Accounting & Bookkeeping Basics | Finance|
+| 1047 | Belgian VAT & Tax Orientation | Créativité|
+| 1048 | Bitmap Texture & Sprite Sheet Preparation | Design|
+| 1049 | Blazor Component Design | Développement|
+| 1050 | Blender Game-Ready Export Pipeline | Développement|
+| 1051 | Blender Hard Surface & Organic Modeling | Développement|
+| 1052 | Blender Rigging & Animation Workflow | Développement|
+| 1053 | Blender UV Unwrap & PBR Material Setup | Développement|
+| 1054 | Bounded Utility Specification | Gestion|
+| 1055 | BPMN Process Modeling | IA / Prompting|
+| 1056 | Brand Positioning Strategy | Marketing|
+| 1057 | Brief Assumption Ledger | Design|
+| 1058 | Business Insight Narrative | Data & IA|
+| 1059 | Business KPI Analysis & Dashboard Design | Data & IA|
+| 1060 | Calibration Confiance Décisionnelle | IA / Prompting|
+| 1061 | Campaign Claim Evidence Review | Recherche|
+| 1062 | Capacity Planning & Sizing | Gestion|
+| 1063 | Certificate Management Applications | Développement|
+| 1064 | Chain of Thought Engineering | Développement|
+| 1065 | Change Readiness Evidence | Développement|
+| 1066 | Claim-Source Evidence Matrix | Recherche|
+| 1067 | Cloud Architecture Design | Développement|
+| 1068 | Cloud Cost Optimization | Recherche|
+| 1069 | Cloud Failure-Domain Placement | Gestion|
+| 1070 | Cloud IAM Responsibility Blueprint | Design|
+| 1071 | Cloud Migration Strategy | Gestion|
+| 1072 | Cloud Migration Wave Acceptance | Gestion|
+| 1073 | Cloud Security & Compliance | Développement|
+| 1074 | Cloud Storage Strategies | IA / Prompting|
+| 1075 | Code Architecture Trace Documentation | Développement|
+| 1076 | Cognitive Journey Barrier Review | Formation|
+| 1077 | Cognitive Load Assessment | Développement|
+| 1078 | Commercial Opportunity & Segment Mapping | Développement|
+| 1079 | Competitive Landscape & Positioning Analysis | Produit|
+| 1080 | Compliance Automation (RegOps) | Design|
+| 1081 | Component Dependency Conformance | Développement|
+| 1082 | Medical Consultation Preparation | Créativité|
+| 1083 | Container Registry Management | Développement|
+| 1084 | Content Approval Evidence | Recherche|
+| 1085 | Content Regression Checkpointing | Rédaction|
+| 1086 | Contingency Trigger Design | Design|
+| 1087 | Contract Drafting & Negotiation | Produit|
+| 1088 | Controlled Vocabulary Lifecycle | Gestion|
+| 1089 | Conversion Copy Experimentation | Développement|
+| 1090 | Cookie Consent Evidence Review | Produit|
+| 1091 | Corporate & Litigation Risk Management | Design|
+| 1092 | Cost Governance (FinOps elargi) | Data & IA|
+| 1093 | Cross-Artifact Consistency Review | Gestion|
+| 1094 | Cross-Locale Meaning Alignment | Design|
+| 1095 | Data Catalog & Lineage | Data & IA|
+| 1096 | Data Freshness Incident Triage | Data & IA|
+| 1097 | Data Governance & Quality | Data & IA|
+| 1098 | Data Lake Architecture & Storage | Développement|
+| 1099 | Data Quality Monitoring | Développement|
+| 1100 | Data Retention Policy Design | Data & IA|
+| 1101 | Data Stewardship Responsibility Design | Développement|
+| 1102 | Data Storytelling & Insights Communication | Data & IA|
+| 1103 | Data Visualization & ML Insights | IA / Prompting|
+| 1104 | Debian & Arch System Administration | Développement|
+| 1105 | Deliverable Completeness Review | Gestion|
+| 1106 | Détection Boucles Délégation | Gestion|
+| 1107 | Dialogue & Quest Scripting Workflow | Développement|
+| 1108 | Disaster Recovery Design | Design|
+| 1109 | Docker Compose Orchestration | Développement|
+| 1110 | Dockerfile Best Practices | Développement|
+| 1111 | Document d'Architecture du Système d'Information (DIS) | Développement|
+| 1112 | Documentation Example Verification | Développement|
+| 1113 | Dynamic Web Scraping (Playwright/Selenium) | Développement|
+| 1114 | EDA & Statistical Analysis for ML | IA / Prompting|
+| 1115 | Editorial Change Impact | Rédaction|
+| 1116 | Engine Profiling & Build Pipeline | Développement|
+| 1117 | Enterprise Application Lifecycle | Développement|
+| 1118 | Entity Framework Core Migrations | Développement|
+| 1119 | Skill: Ethical Impact Assessment | IA / Prompting|
+| 1120 | Ethical Monetization & Compliance Watch | Développement|
+| 1121 | ETL Pipeline Design & Orchestration | Développement|
+| 1122 | Evidence-Claim Reconciliation | Recherche|
+| 1123 | Excel Advanced Functions | IA / Prompting|
+| 1124 | Execution Commande Shell | Gestion|
+| 1125 | Experiment Power Planning | Data & IA|
+| 1126 | Exploration Coverage Boundary | IA / Prompting|
+| 1127 | Fairness & Bias Detection | Design|
+| 1128 | Feature Engineering & Data Preparation | Développement|
+| 1129 | FinTech Business Model Strategy | IA / Prompting|
+| 1130 | FinTech Partnership & Ecosystem Strategy | IA / Prompting|
+| 1131 | FinTech Product & Market Strategy | Produit|
+| 1132 | Firewall Rule Design | Développement|
+| 1133 | Foundation Model Support Watch | IA / Prompting|
+| 1134 | Functional Specification & Traceability | Développement|
+| 1135 | FX Performance Budget Optimization | Design|
+| 1136 | Game AI Difficulty & Director Tuning | Design|
+| 1137 | Game Audio Mixing & Loudness | Design|
+| 1138 | Game Economy Sources & Sinks Modeling | IA / Prompting|
+| 1139 | Game Engine Performance & Profiling | Gestion|
+| 1140 | Game Loop & ECS Architecture | Développement|
+| 1141 | Game Music Composition & Themes | IA / Prompting|
+| 1142 | GDExtension & Native Module Development | Développement|
+| 1143 | Generative Model Selection & Evaluation | IA / Prompting|
+| 1144 | General Purpose Delegation Fallback | Gestion|
+| 1145 | Generative Capability Benchmark Design | IA / Prompting|
+| 1146 | Generative Output Quality Benchmarking | Développement|
+| 1147 | Gestion Echecs & Rollback | IA / Prompting|
+| 1148 | GIMP Photo Retouch & Compositing | Design|
+| 1149 | Godot Animation System Integration | Développement|
+| 1150 | Godot Export & Build Pipeline | Développement|
+| 1151 | GPO Advanced Design & Troubleshooting | IA / Prompting|
+| 1152 | Grammar & Orthography Compliance Audit | Rédaction|
+| 1153 | Grammatical Ambiguity Resolution | Design|
+| 1154 | Grill Me (Clarification Socratique) | Design|
+| 1155 | Hallucination Evidence Evaluation | IA / Prompting|
+| 1156 | Health Information Literacy | Design|
+| 1157 | Hygiene Environnement Execution | Recherche|
+| 1158 | I Have ADHD (Output Mode Neurodivergent) | Gestion|
+| 1159 | IaC Blueprint Generation | Développement|
+| 1160 | IaC On-Prem Automation | Développement|
+| 1161 | Incident Commander (SRE / Runbook) | Design|
+| 1162 | Inclusive Design Psychology (Psychologie Design Inclusif) | Design|
+| 1163 | Inclusive Research Protocol | Design|
+| 1164 | Inference Cache Benefit Assessment | IA / Prompting|
+| 1165 | Infrastructure Resilience Design | Développement|
+| 1166 | Inkscape Icon & Logo System Design | Développement|
+| 1167 | Inkscape SVG Export & Optimization | Développement|
+| 1168 | Inkscape Vector Production Workflow | Design|
+| 1169 | Integration Reliability Patterns | Gestion|
+| 1170 | Intellectual Property Protection | Recherche|
+| 1171 | Interactive Narrative & Branching Design | Créativité|
+| 1172 | Interface Error-Recovery Writing | Design|
+| 1173 | Knowledge Curator (RAG / Docs Ops) | IA / Prompting|
+| 1174 | Krita Digital Painting Workflow | Développement|
+| 1175 | Landing Page Argument Design | Marketing|
+| 1176 | Language Correction Regression Suite | Design|
+| 1177 | Libre Software Advocacy & Licensing | IA / Prompting|
+| 1178 | Linux Security Hardening | Développement|
+| 1179 | LLM Latency Bottleneck Measurement | IA / Prompting|
+| 1180 | LLM Token Cost Attribution | IA / Prompting|
+| 1181 | Localization Context Adaptation | Design|
+| 1182 | Lore, Worldbuilding Bible & Localization Prep | Développement|
+| 1183 | M365 Integration Patterns | Développement|
+| 1184 | MariaDB Performance & Reliability | Gestion|
+| 1185 | Market & Competitive Intelligence | Recherche|
+| 1186 | Marketing Email Sequence Drafting | Marketing|
+| 1187 | Meaning-Preserving Reformulation | Gestion|
+| 1188 | Meeting Decision Extraction | Communication|
+| 1189 | Message Delivery Recovery Design | Design|
+| 1190 | Metadata Classification Policy | Data & IA|
+| 1191 | ML Error Cohort Analysis | IA / Prompting|
+| 1192 | ML Experimentation & Validation | IA / Prompting|
+| 1193 | MLOps & Model Lifecycle Management | IA / Prompting|
+| 1194 | ML Pipeline Design & Evaluation | Développement|
+| 1195 | Model Drift Retraining Gate | IA / Prompting|
+| 1196 | Multi-Agent Orchestration Patterns | IA / Prompting|
+| 1197 | Multi-Cloud Tradeoff Analysis | Gestion|
+| 1198 | Multi-OS Integration Strategy | Développement|
+| 1199 | Multilingual Quality & Localization | Rédaction|
+| 1200 | Music Arrangement, Loop & Delivery | Développement|
+| 1201 | MySQL Query Optimization | Développement|
+| 1202 | NestJS Architecture | Développement|
+| 1203 | Network Segmentation | Développement|
+| 1204 | Neutral Document Condensation | Design|
+| 1205 | Notarial Appointment Preparation | Créativité|
+| 1206 | Notarial Document Preparation | Gestion|
+| 1207 | Belgian Notarial Procedures Orientation | Recherche|
+| 1208 | NPC Behavior Trees & State Machines | Design|
+| 1209 | Observability Engineer | Data & IA|
+| 1210 | Onboarding Instruction Design | Design|
+| 1211 | Open Image License Traceability | Gestion|
+| 1212 | Operational Performance System & Governance | Design|
+| 1213 | Operational Runbook Acceptance | IA / Prompting|
+| 1214 | Operations Strategy & Operating Model Design | IA / Prompting|
+| 1215 | Operations Transformation Portfolio & Benefits Governance | Design|
+| 1216 | Organic Search & Social Measurement | Développement|
+| 1217 | Organic Social Media Strategy | Produit|
+| 1218 | Orthotypographic Consistency Review | Rédaction|
+| 1219 | Outlook Productivity Automation | Communication|
+| 1220 | Package Management Best Practices | Développement|
+| 1221 | Paid Advertising Campaign Planning | Produit|
+| 1222 | Particle VFX Design 2D/3D | Développement|
+| 1223 | Partnership Development & Execution | Design|
+| 1224 | Pathfinding, Navigation & Perception | Développement|
+| 1225 | Perl Stream Transformation | Design|
+| 1226 | Personal Data Flow and Lawful-Basis Mapping | Data & IA|
+| 1227 | PHP Request Validation Flow | Développement|
+| 1228 | Portfolio / Capacity Planner | Design|
+| 1229 | PostgreSQL Advanced Tuning | Développement|
+| 1230 | PowerPoint Design Efficiency | Design|
+| 1231 | PowerShell DSC Advanced | Développement|
+| 1232 | Predictive Temporal Validation | IA / Prompting|
+| 1233 | Process KPI Definition | Data & IA|
+| 1234 | Producer-Consumer Data Contracts | Data & IA|
+| 1235 | Product Opportunity Assessment | Développement|
+| 1236 | Product Outcome Roadmap | Produit|
+| 1237 | Product Prioritization Decision | Produit|
+| 1238 | Progression & Loot Table Balancing | Design|
+| 1239 | Project Baseline Change Assessment | Gestion|
+| 1240 | Project Estimate Calibration | Design|
+| 1241 | Prompt Engineer & Guardrails | IA / Prompting|
+| 1242 | Prompt Injection Boundary Evaluation | IA / Prompting|
+| 1243 | Prompt Structure Optimization | IA / Prompting|
+| 1244 | Prompt Versioning & Testing | Développement|
+| 1245 | Protected-Group Evaluation Protocol | IA / Prompting|
+| 1246 | Python Service Boundary Implementation | Développement|
+| 1247 | Quality Rule Acceptance Design | Développement|
+| 1248 | RAG & Fine-Tuning Strategy Design | Développement|
+| 1249 | React Hooks Patterns | Développement|
+| 1250 | Regression Risk Selection | Gestion|
+| 1251 | Release Manager & Change Control | Développement|
+| 1252 | Reporting Structure d'Exécution | Design|
+| 1253 | Repository Entry-Point Survey | Gestion|
+| 1254 | Requirements Elicitation & Analysis | Design|
+| 1255 | Research Uncertainty Synthesis | Recherche|
+| 1256 | RHEL Package Lifecycle Plan | Productivité|
+| 1257 | RHEL SELinux Diagnosis | Développement|
+| 1258 | Risk Exposure Aggregation | IA / Prompting|
+| 1259 | Risk Register & Mitigation Planning | Design|
+| 1260 | Roast My Idea (Feedback Tough Love) | IA / Prompting|
+| 1261 | RPA Automation Design | Développement|
+| 1262 | Sales Pipeline & Opportunity Management | Développement|
+| 1263 | SAN/NAS Design | Développement|
+| 1264 | Scene and Signal Architecture | Développement|
+| 1265 | Scraping Ethics & Legal Awareness | Développement|
+| 1266 | Security Engineering (AppSec Automation) | Productivité|
+| 1267 | Security Remediation Verification | Gestion|
+| 1268 | Semantic CSS Responsive Implementation | Développement|
+| 1269 | SEO Audit & Keyword Strategy | IA / Prompting|
+| 1270 | Shader Visual Effects Authoring | Développement|
+| 1271 | SLO and Error-Budget Decision | Design|
+| 1272 | Small File-Format Transformation | Formation|
+| 1273 | Software Boundary ADR | Gestion|
+| 1274 | Sound Effects Design & Recording | Design|
+| 1275 | Source API Contract Documentation | Développement|
+| 1276 | Source Authority Comparison | Recherche|
+| 1277 | SQL Analytics & Data Quality | Développement|
+| 1278 | Static Web Scraping (BeautifulSoup/lxml/Requests) | Développement|
+| 1279 | Statistical Inference Protocol | Data & IA|
+| 1280 | Streaming Data Processing | Développement|
+| 1281 | System Architecture Design | Développement|
+| 1282 | System Monitoring & Observability | Développement|
+| 1283 | System Script Idempotence Proof | Développement|
+| 1284 | Systemd Service Management | Développement|
+| 1285 | Teams Collaboration Best Practices | Développement|
+| 1286 | Terminology Management & Glossary Governance | Rédaction|
+| 1287 | Test Architect (QA avancee) | Développement|
+| 1288 | Test Fixture Isolation Design | Développement|
+| 1289 | Translation Terminology Validation | Design|
+| 1290 | Troubleshooting Decision Tree | Formation|
+| 1291 | 2D Animation Cutout & Frame-by-Frame | Design|
+| 1292 | TypeScript Advanced Types | Développement|
+| 1293 | UI Tone-of-Voice Specification | Produit|
+| 1294 | UI Transitions Library (Transitions.dev) | Développement|
+| 1295 | Urgent Care Navigation | Design|
+| 1296 | User Guide Task Design | Design|
+| 1297 | User Stories & Acceptance Criteria | Produit|
+| 1298 | Utility Execution Evidence | Recherche|
+| 1299 | UX Microcopy Accessibility | Design|
+| 1300 | UX Researcher (Discovery) | Produit|
+| 1301 | Vector Illustration Construction | Créativité|
+| 1302 | Verification Post-Execution | Design|
+| 1303 | Visual Identity Asset Specification | Gestion|
+| 1304 | VPN Configuration | Gestion|
+| 1305 | Vue Component State Contract | Développement|
+| 1306 | Vulnerability Evidence Triage | Recherche|
+| 1307 | WBS and Dependency Planning | Gestion|
+| 1308 | Web Accessibility Audit (Audit Accessibilité Web) | Développement|
+| 1309 | Web Data Extraction & Structuring | Développement|
+| 1310 | Windows Server Hardening | Développement|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–999 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1310 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

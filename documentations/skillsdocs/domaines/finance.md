@@ -1,4 +1,4 @@
-# Domaine : Finance (50 skills)
+# Domaine : Finance (51 skills)
 
 ## 59. 📈 Analyse de documents financiers
 
@@ -249,4 +249,9 @@
 
 - **Fichier** : `skills/992-acheter-un-bien-a-l-etranger-residence-secondaire-2027.md` · **Mot-clé** : « acheter à l'étranger 2027 » · **Nom court** : Achat étranger
 - **Signal** : Acheter un bien immobilier à l'étranger en 2027 (Portugal, Espagne, Italie), notaire local, financement, fiscalité non-résident, gestion à distance · **Synonymes** : « résidence secondaire 2027 » · **Cross-refs** : 676, 958
+
+## 1046. 💰 Belgian Accounting & Bookkeeping Basics
+
+- **Fichier** : `skills/1046-belgian-accounting-bookkeeping-basics.md` · **Mot-clé** : « belgian-accounting-bookkeeping-basics » · **Nom court** : Belgian Accounting & Bookkeepi
+- **Signal** : Aider à comprendre les notions et workflows comptables courants en Belgique et à organiser des informations comptables, sans certifier les comptes ni remplacer un professionnel agréé. · **Synonymes** : « utilisateur », « comprendre », « notion » · **Cross-refs** : 172
 

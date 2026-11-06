@@ -1,4 +1,4 @@
-# Domaine : Créativité (37 skills)
+# Domaine : Créativité (44 skills)
 
 ## 6. 💡 Brainstorming structuré
 
@@ -184,4 +184,39 @@
 
 - **Fichier** : `skills/930-contenu-audio-ia-suno-udio-musique-voix.md` · **Mot-clé** : « musique ia 2027 » · **Nom court** : Musique IA
 - **Signal** : Générer une chanson avec l'IA (Suno, Udio) en 2027, voix clonée légale, droits d'auteur musique IA 2027, jingle, podcast · **Synonymes** : « suno udio » · **Cross-refs** : 154, 561
+
+## 1003. 🎨 Accountant Meeting & Document Preparation
+
+- **Fichier** : `skills/1003-accountant-meeting-document-preparation.md` · **Mot-clé** : « accountant-meeting-document-preparation » · **Nom court** : Accountant Meeting & Document
+- **Signal** : Aider particuliers, indépendants et PME à préparer un échange avec leur comptable en organisant les questions et documents utiles, sans valider une déclaration ou un traitement professionnel. · **Synonymes** : « utilisateur », « prepare », « rendez-vous » · **Cross-refs** : 155
+
+## 1010. 🎨 Adaptive Interactive Music & Stems
+
+- **Fichier** : `skills/1010-adaptive-interactive-music-stems.md` · **Mot-clé** : « adaptive-interactive-music-stems » · **Nom court** : Adaptive Interactive Music & S
+- **Signal** : Produire un livrable maîtrisé : plan de musique adaptative (couches verticales, transitions horizontales) avec stems alignés et table d'états musicaux prête pour l'intégration. · **Synonymes** : « demande », « portant », « adaptive » · **Cross-refs** : 567
+
+## 1047. 🎨 Belgian VAT & Tax Orientation
+
+- **Fichier** : `skills/1047-belgian-vat-tax-orientation.md` · **Mot-clé** : « belgian-vat-tax-orientation » · **Nom court** : Belgian VAT & Tax Orientation
+- **Signal** : Orienter vers des informations officielles belges sur la TVA et les obligations fiscales courantes, et aider à formuler les questions à poser à un professionnel qualifié sans trancher un dossier fisca · **Synonymes** : « utilisateur », « demande », « explication » · **Cross-refs** : 571
+
+## 1082. 🎨 Medical Consultation Preparation
+
+- **Fichier** : `skills/1082-medical-consultation-preparation.md` · **Mot-clé** : « medical-consultation-preparation » · **Nom court** : Medical Consultation Preparati
+- **Signal** : Aider l'utilisateur à organiser les informations qu'il souhaite partager et préparer des questions pour un professionnel de santé, sans orienter le diagnostic ni le traitement. · **Synonymes** : « utilisateur », « prepare », « rendez-vous » · **Cross-refs** : 728
+
+## 1171. 🎨 Interactive Narrative & Branching Design
+
+- **Fichier** : `skills/1171-interactive-narrative-branching-design.md` · **Mot-clé** : « interactive-narrative-branching-design » · **Nom court** : Interactive Narrative & Branch
+- **Signal** : Produire un livrable maîtrisé : structure narrative interactive d'un jeu (arcs, nœuds de choix, branches, convergences, variables d'état du monde) sous forme de carte de narration vérifiable. · **Synonymes** : « demande », « portant », « interactive » · **Cross-refs** : 804
+
+## 1205. 🎨 Notarial Appointment Preparation
+
+- **Fichier** : `skills/1205-notarial-appointment-preparation.md` · **Mot-clé** : « notarial-appointment-preparation » · **Nom court** : Notarial Appointment Preparati
+- **Signal** : Aider l'utilisateur à préparer un rendez-vous avec un notaire en clarifiant son objectif, en organisant ses questions et en résumant les points à confirmer, sans donner d'avis juridique individualisé. · **Synonymes** : « utilisateur », « prepare », « rendez-vous » · **Cross-refs** : 228
+
+## 1301. 🎨 Vector Illustration Construction
+
+- **Fichier** : `skills/1301-vector-illustration-construction.md` · **Mot-clé** : « vector-illustration-construction » · **Nom court** : Vector Illustration Constructi
+- **Signal** : Concevoir une illustration SVG maintenable à partir d'un brief visuel explicite. · **Synonymes** : « demande », « portant », « vector » · **Cross-refs** : 141
 

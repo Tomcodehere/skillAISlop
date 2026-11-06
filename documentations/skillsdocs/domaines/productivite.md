@@ -1,4 +1,4 @@
-# Domaine : Productivité (35 skills)
+# Domaine : Productivité (37 skills)
 
 ## 5. 📄 Synthèse & résumé de documents
 
@@ -174,4 +174,14 @@
 
 - **Fichier** : `skills/763-gestion-du-temps-priorites-matrice-d-eisenhower.md` · **Mot-clé** : « prioriser mes tâches » · **Nom court** : Priorisation
 - **Signal** : Gérer mon temps, prioriser mes tâches, matrice d'Eisenhower, urgent vs important, dire non, délégation de tâches · **Synonymes** : « matrice eisenhower » · **Cross-refs** : 26, 72
+
+## 1256. ⚡ RHEL Package Lifecycle Plan
+
+- **Fichier** : `skills/1256-rhel-package-lifecycle-plan.md` · **Mot-clé** : « rhel-package-lifecycle-plan » · **Nom court** : RHEL Package Lifecycle Plan
+- **Signal** : Planifier une maintenance de paquets RHEL compatible avec les dépôts et le support de la distribution. · **Synonymes** : « demande », « portant », « package » · **Cross-refs** : 466
+
+## 1266. ⚡ Security Engineering (AppSec Automation)
+
+- **Fichier** : `skills/1266-security-engineering-appsec-automation.md` · **Mot-clé** : « security-engineering-appsec-automation » · **Nom court** : Security Engineering (AppSec A
+- **Signal** : Industrialiser les controles securite dans le cycle de delivery. · **Synonymes** : « vulnerabilites », « repetitives », « secrets » · **Cross-refs** : 27
 

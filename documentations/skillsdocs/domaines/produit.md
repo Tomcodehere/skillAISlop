@@ -1,4 +1,4 @@
-# Domaine : Produit (26 skills)
+# Domaine : Produit (39 skills)
 
 ## 63. 📌 Rédacteur de PRD & user stories
 
@@ -129,4 +129,69 @@
 
 - **Fichier** : `skills/926-intelligent-ui-interfaces-generees-par-l-ia.md` · **Mot-clé** : « interface générée par ia » · **Nom court** : Intelligent UI
 - **Signal** : Intelligent UI, interface générée par l'IA à la volée, UI adaptative générative 2027, OpenAI Intelligent UI · **Synonymes** : « ui générative » · **Cross-refs** : 823, 805
+
+## 1016. 📦 AI Adoption Feedback Decision
+
+- **Fichier** : `skills/1016-ai-adoption-feedback-decision.md` · **Mot-clé** : « ai-adoption-feedback-decision » · **Nom court** : AI Adoption Feedback Decision
+- **Signal** : Transformer les retours d'usage d'une fonctionnalité IA en décision produit traçable. · **Synonymes** : « demande », « portant », « adoption » · **Cross-refs** : 644
+
+## 1023. 📦 AI Product Discovery & Adoption
+
+- **Fichier** : `skills/1023-ai-product-discovery-adoption.md` · **Mot-clé** : « ai-product-discovery-adoption » · **Nom court** : AI Product Discovery & Adoptio
+- **Signal** : Valider les hypothèses produit IA (product-market fit), piloter l'adoption des features IA et itérer selon le feedback utilisateur. **Agents utilisateurs** : l'agent de stratégie produit IA (principa · **Synonymes** : « valider », « opportunite », « product-market » · **Cross-refs** : 1016
+
+## 1079. 📦 Competitive Landscape & Positioning Analysis
+
+- **Fichier** : `skills/1079-competitive-landscape-positioning-analysis.md` · **Mot-clé** : « competitive-landscape-positioning-analysis » · **Nom court** : Competitive Landscape & Positi
+- **Signal** : Structurer la comparaison d'acteurs et d'offres sur un marché défini afin d'identifier les points de différenciation, les zones de parité et les questions de positionnement à approfondir par les respo · **Synonymes** : « comparer », « offres », « concurrents » · **Cross-refs** : 457
+
+## 1087. 📦 Contract Drafting & Negotiation
+
+- **Fichier** : `skills/1087-contract-drafting-negotiation.md` · **Mot-clé** : « contract-drafting-negotiation » · **Nom court** : Contract Drafting & Negotiatio
+- **Signal** : Rédiger, réviser et négocier des contrats commerciaux et documents contractuels (SaaS, licences logicielles, prestation, partenariats, T&C/CGV/CGU, NDA) conformes au droit belge et européen, en équili · **Synonymes** : « nouveau », « contrat », « client » · **Cross-refs** : 176
+
+## 1090. 📦 Cookie Consent Evidence Review
+
+- **Fichier** : `skills/1090-cookie-consent-evidence-review.md` · **Mot-clé** : « cookie-consent-evidence-review » · **Nom court** : Cookie Consent Evidence Review
+- **Signal** : Examiner si les choix et preuves de consentement reflètent le comportement réel d'un produit. · **Synonymes** : « demande », « portant », « cookie » · **Cross-refs** : 184
+
+## 1131. 📦 FinTech Product & Market Strategy
+
+- **Fichier** : `skills/1131-fintech-product-market-strategy.md` · **Mot-clé** : « fintech-product-market-strategy » · **Nom court** : FinTech Product & Market Strat
+- **Signal** : Structurer une stratégie produit et une analyse de marché pour un service FinTech d'entreprise à partir de données vérifiables, en guidant le choix des segments, la différenciation et les étapes de va · **Synonymes** : « entreprise », « evalue », « opportunite » · **Cross-refs** : 179
+
+## 1217. 📦 Organic Social Media Strategy
+
+- **Fichier** : `skills/1217-organic-social-media-strategy.md` · **Mot-clé** : « organic-social-media-strategy » · **Nom court** : Organic Social Media Strategy
+- **Signal** : Structurer une présence organique sur les réseaux sociaux en reliant objectifs, audiences, plateformes, piliers éditoriaux, rythme et mesure. Le skill produit une stratégie et un calendrier de sujets; · **Synonymes** : « definir », « strategie », « organique » · **Cross-refs** : 605
+
+## 1221. 📦 Paid Advertising Campaign Planning
+
+- **Fichier** : `skills/1221-paid-advertising-campaign-planning.md` · **Mot-clé** : « paid-advertising-campaign-planning » · **Nom court** : Paid Advertising Campaign Plan
+- **Signal** : Concevoir le plan stratégique d'une campagne publicitaire payante : objectif, audience, canaux, calendrier, hypothèses créatives, allocation budgétaire et règles de pilotage. Le skill produit un plan · **Synonymes** : « elaborer », « media », « campagne » · **Cross-refs** : 1236
+
+## 1236. 📦 Product Outcome Roadmap
+
+- **Fichier** : `skills/1236-product-outcome-roadmap.md` · **Mot-clé** : « product-outcome-roadmap » · **Nom court** : Product Outcome Roadmap
+- **Signal** : Relier les initiatives produit à des résultats mesurables sans transformer la roadmap en planning détaillé. · **Synonymes** : « demande », « portant », « product » · **Cross-refs** : 176
+
+## 1237. 📦 Product Prioritization Decision
+
+- **Fichier** : `skills/1237-product-prioritization-decision.md` · **Mot-clé** : « product-prioritization-decision » · **Nom court** : Product Prioritization Decisio
+- **Signal** : Arbitrer un backlog produit selon une méthode de valeur explicite et les contraintes disponibles. · **Synonymes** : « demande », « portant », « product » · **Cross-refs** : 1300
+
+## 1293. 📦 UI Tone-of-Voice Specification
+
+- **Fichier** : `skills/1293-ui-tone-of-voice-specification.md` · **Mot-clé** : « ui-tone-of-voice-specification » · **Nom court** : UI Tone-of-Voice Specification
+- **Signal** : Définir des règles de ton produit applicables aux états d'interface sans sacrifier la clarté. · **Synonymes** : « demande », « portant », « tone-of-voice » · **Cross-refs** : 1131
+
+## 1297. 📦 User Stories & Acceptance Criteria
+
+- **Fichier** : `skills/1297-user-stories-acceptance-criteria.md` · **Mot-clé** : « user-stories-acceptance-criteria » · **Nom court** : User Stories & Acceptance Crit
+- **Signal** : Formuler des user stories centrées sur un résultat utilisateur et des critères d'acceptation observables afin de rendre le périmètre compréhensible et vérifiable. · **Synonymes** : « story », « criteres », « acceptation » · **Cross-refs** : 460
+
+## 1300. 📦 UX Researcher (Discovery)
+
+- **Fichier** : `skills/1300-ux-researcher-discovery.md` · **Mot-clé** : « ux-researcher-discovery » · **Nom court** : UX Researcher (Discovery)
+- **Signal** : Fonder les decisions produit sur des insights utilisateurs verifies. · **Synonymes** : « hypotheses », « produit », « validees » · **Cross-refs** : 1079
 

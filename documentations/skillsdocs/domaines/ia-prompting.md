@@ -1,4 +1,4 @@
-# Domaine : IA / Prompting (56 skills)
+# Domaine : IA / Prompting (102 skills)
 
 ## 17. 🎯 Coach de prompts (meta-prompting)
 
@@ -279,4 +279,234 @@
 
 - **Fichier** : `skills/947-agent-ephemere-jetable-one-shot-tasks.md` · **Mot-clé** : « agent jetable one-shot » · **Nom court** : Agent jetable
 - **Signal** : Lancer un agent jetable pour une tâche ponctuelle 2027 (one-shot), ne pas garder d'agent permanent inutile, coût par tâche · **Synonymes** : « tâche ponctuelle agent » · **Cross-refs** : 927, 820
+
+## 1002. 🧠 Accessible Alternative Text Review
+
+- **Fichier** : `skills/1002-accessible-alternative-text-review.md` · **Mot-clé** : « accessible-alternative-text-review » · **Nom court** : Accessible Alternative Text Re
+- **Signal** : Évaluer l'équivalence informationnelle des alternatives d'images selon leur fonction dans le parcours. · **Synonymes** : « demande », « portant », « accessible » · **Cross-refs** : 98
+
+## 1008. 🧠 AD Security & Tiering
+
+- **Fichier** : `skills/1008-ad-security-tiering.md` · **Mot-clé** : « ad-security-tiering » · **Nom court** : AD Security & Tiering
+- **Signal** : Sécuriser l'infrastructure Active Directory via un modèle de tiering (séparation des niveaux d'administration), le durcissement Kerberos/LDAP, et la réduction de la surface d'attaque des comptes à pri · **Synonymes** : « securite », « tiering », « model » · **Cross-refs** : 1055
+
+## 1012. 🧠 Advertising Measurement & Experimentation
+
+- **Fichier** : `skills/1012-advertising-measurement-experimentation.md` · **Mot-clé** : « advertising-measurement-experimentation » · **Nom court** : Advertising Measurement & Expe
+- **Signal** : Définir un cadre de mesure et d'expérimentation pour évaluer les campagnes de marque et de publicité payante. Établir des KPI, des événements, des hypothèses et des règles d'interprétation; l'analyse · **Synonymes** : « definir », « evenements », « conventions » · **Cross-refs** : 733
+
+## 1014. 🧠 Agent State Boundary Design
+
+- **Fichier** : `skills/1014-agent-state-boundary-design.md` · **Mot-clé** : « agent-state-boundary-design » · **Nom court** : Agent State Boundary Design
+- **Signal** : Définir quelles données d'état un agent peut lire, modifier et transmettre dans un système multi-agents. · **Synonymes** : « demande », « portant », « state » · **Cross-refs** : 338
+
+## 1018. 🧠 AI Ethical Impact Decision Record
+
+- **Fichier** : `skills/1018-ai-ethical-impact-decision-record.md` · **Mot-clé** : « ai-ethical-impact-decision-record » · **Nom court** : AI Ethical Impact Decision Rec
+- **Signal** : Formaliser un arbitrage éthique sur un usage IA et les responsabilités humaines associées. · **Synonymes** : « demande », « portant », « ethical » · **Cross-refs** : 98
+
+## 1021. 🧠 AI Feature Success Contract
+
+- **Fichier** : `skills/1021-ai-feature-success-contract.md` · **Mot-clé** : « ai-feature-success-contract » · **Nom court** : AI Feature Success Contract
+- **Signal** : Formaliser les conditions d'acceptation d'une fonctionnalité IA entre responsables produit, modèle et exploitation. · **Synonymes** : « demande », « portant », « feature » · **Cross-refs** : 1151
+
+## 1024. 🧠 AI Product Strategy & Roadmap
+
+- **Fichier** : `skills/1024-ai-product-strategy-roadmap.md` · **Mot-clé** : « ai-product-strategy-roadmap » · **Nom court** : AI Product Strategy & Roadmap
+- **Signal** : Définir la vision et la stratégie long terme de produits IA/ML, construire des roadmaps modèles ML alignées sur les objectifs métier. **Agents utilisateurs** : l'agent de stratégie produit IA (princi · **Synonymes** : « definir », « vision », « produit » · **Cross-refs** : 176
+
+## 1027. 🧠 AI System Failure Recovery Design
+
+- **Fichier** : `skills/1027-ai-system-failure-recovery-design.md` · **Mot-clé** : « ai-system-failure-recovery-design » · **Nom court** : AI System Failure Recovery Des
+- **Signal** : Concevoir les chemins d'échec et de reprise d'un système IA orchestré. · **Synonymes** : « demande », « portant », « failure » · **Cross-refs** : 719
+
+## 1055. 🧠 BPMN Process Modeling
+
+- **Fichier** : `skills/1055-bpmn-process-modeling.md` · **Mot-clé** : « bpmn-process-modeling » · **Nom court** : BPMN Process Modeling
+- **Signal** : Modéliser processus métier en BPMN 2.0 (Business Process Model and Notation) pour analyse, optimisation et communication stakeholders. · **Synonymes** : « modelise », « processus », « cartographie » · **Cross-refs** : 738
+
+## 1060. 🧠 Calibration Confiance Décisionnelle
+
+- **Fichier** : `skills/1060-calibration-confiance-decisionnelle.md` · **Mot-clé** : « calibration-confiance-decisionnelle » · **Nom court** : Calibration Confiance Décision
+- **Signal** : Fournir un second avis chiffré sur les décisions ambiguës de l'agent de coordination : clarifier vs inférer, routage direct vs coordination multi-agents par l'agent de coordination, urgence critique v · **Synonymes** : « limite », « clarifier », « inferer » · **Cross-refs** : 1258
+
+## 1074. 🧠 Cloud Storage Strategies
+
+- **Fichier** : `skills/1074-cloud-storage-strategies.md` · **Mot-clé** : « cloud-storage-strategies » · **Nom court** : Cloud Storage Strategies
+- **Signal** : Concevoir stratégies stockage cloud hybride (S3, Azure Blob, GCS) : tiers, lifecycle, versioning, replication, coûts optimisés. · **Synonymes** : « azure », « cloud », « storage » · **Cross-refs** : 903
+
+## 1103. 🧠 Data Visualization & ML Insights
+
+- **Fichier** : `skills/1103-data-visualization-ml-insights.md` · **Mot-clé** : « data-visualization-ml-insights » · **Nom court** : Data Visualization & ML Insigh
+- **Signal** : Visualiser et interpréter les données et résultats de modèles ML, créer des dashboards analytiques et communiquer les constats avec leur contexte et leurs limites. **Agents utilisateurs** : l'agent d · **Synonymes** : « exploration », « visuelle », « datasets » · **Cross-refs** : 598
+
+## 1114. 🧠 EDA & Statistical Analysis for ML
+
+- **Fichier** : `skills/1114-eda-statistical-analysis-for-ml.md` · **Mot-clé** : « eda-statistical-analysis-for-ml » · **Nom court** : EDA & Statistical Analysis for
+- **Signal** : Réaliser une analyse exploratoire et statistique des données pour caractériser un dataset, repérer ses limites et éclairer une décision de modélisation ou d'investigation. **Agents utilisateurs** : l · **Synonymes** : « phase », « initiale », « projet » · **Cross-refs** : 1196
+
+## 1119. 🧠 Skill: Ethical Impact Assessment
+
+- **Fichier** : `skills/1119-skill-ethical-impact-assessment.md` · **Mot-clé** : « skill-ethical-impact-assessment » · **Nom court** : Skill: Ethical Impact Assessme
+- **Signal** : Évaluer l'impact éthique et sociétal des systèmes d'intelligence artificielle : conséquences sur les individus, groupes et société, risques discriminatoires, questions AI Act et recommandations d'ethi · **Synonymes** : « evaluer », « impacts », « ethiques » · **Cross-refs** : 335
+
+## 1123. 🧠 Excel Advanced Functions
+
+- **Fichier** : `skills/1123-excel-advanced-functions.md` · **Mot-clé** : « excel-advanced-functions » · **Nom court** : Excel Advanced Functions
+- **Signal** : Permettre aux utilisateurs d'exploiter pleinement Excel pour : - Créer des formules maintenables et performantes - Transformer et nettoyer des données de manière reproductible - Construire des modèles · **Synonymes** : « creer », « formules », « complexes » · **Cross-refs** : 615
+
+## 1126. 🧠 Exploration Coverage Boundary
+
+- **Fichier** : `skills/1126-exploration-coverage-boundary.md` · **Mot-clé** : « exploration-coverage-boundary » · **Nom court** : Exploration Coverage Boundary
+- **Signal** : Rendre visible ce qui a été et n'a pas été examiné lors d'une cartographie. · **Synonymes** : « demande », « portant », « exploration » · **Cross-refs** : 601
+
+## 1129. 🧠 FinTech Business Model Strategy
+
+- **Fichier** : `skills/1129-fintech-business-model-strategy.md` · **Mot-clé** : « fintech-business-model-strategy » · **Nom court** : FinTech Business Model Strateg
+- **Signal** : Aider une entreprise à structurer et comparer des modèles économiques pour des produits ou services FinTech, en rendant explicites les segments, propositions de valeur, revenus, coûts, dépendances et · **Synonymes** : « entreprise », « explore », « nouveau » · **Cross-refs** : 1177
+
+## 1130. 🧠 FinTech Partnership & Ecosystem Strategy
+
+- **Fichier** : `skills/1130-fintech-partnership-ecosystem-strategy.md` · **Mot-clé** : « fintech-partnership-ecosystem-strategy » · **Nom court** : FinTech Partnership & Ecosyste
+- **Signal** : Aider les entreprises FinTech à cartographier leur écosystème de partenaires et à évaluer des options de collaboration selon la valeur, les dépendances, les risques opérationnels et les questions à vé · **Synonymes** : « entreprise », « envisage », « partenariat » · **Cross-refs** : 1103
+
+## 1133. 🧠 Foundation Model Support Watch
+
+- **Fichier** : `skills/1133-foundation-model-support-watch.md` · **Mot-clé** : « foundation-model-support-watch » · **Nom court** : Foundation Model Support Watch
+- **Signal** : Suivre le support et les retraits de modèles à partir d'annonces officielles datées. · **Synonymes** : « demande », « portant », « foundation » · **Cross-refs** : 334
+
+## 1138. 🧠 Game Economy Sources & Sinks Modeling
+
+- **Fichier** : `skills/1138-game-economy-sources-sinks-modeling.md` · **Mot-clé** : « game-economy-sources-sinks-modeling » · **Nom court** : Game Economy Sources & Sinks M
+- **Signal** : Produire un livrable maîtrisé : modèle de l'économie interne d'un jeu (monnaies, ressources, sources, sinks, flux, prix) avec simulation reproductible et télémétrie économique à suivre. · **Synonymes** : « demande », « portant », « economy » · **Cross-refs** : 337
+
+## 1141. 🧠 Game Music Composition & Themes
+
+- **Fichier** : `skills/1141-game-music-composition-themes.md` · **Mot-clé** : « game-music-composition-themes » · **Nom court** : Game Music Composition & Theme
+- **Signal** : Produire un livrable maîtrisé : dossier de composition thématique (thèmes, leitmotivs, harmonie, orchestration) avec partition ou maquette audio originale et fiche tempo/tonalité. · **Synonymes** : « demande », « portant », « music » · **Cross-refs** : 1147
+
+## 1143. 🧠 Generative Model Selection & Evaluation
+
+- **Fichier** : `skills/1143-generative-model-selection-evaluation.md` · **Mot-clé** : « generative-model-selection-evaluation » · **Nom court** : Generative Model Selection & E
+- **Signal** : Cadrer la comparaison et la sélection motivée d'un modèle génératif (LLM, diffusion, embeddings) selon capacités, coût, licence, contexte, statut de support, avec recommandation finale chiffrée et jus · **Synonymes** : « demarrage », « projet », « genai » · **Cross-refs** : 328
+
+## 1145. 🧠 Generative Capability Benchmark Design
+
+- **Fichier** : `skills/1145-generative-capability-benchmark-design.md` · **Mot-clé** : « generative-capability-benchmark-design » · **Nom court** : Generative Capability Benchmar
+- **Signal** : Comparer des capacités de modèles génératifs sur des tâches représentatives du besoin. · **Synonymes** : « demande », « portant », « generative » · **Cross-refs** : 1021
+
+## 1147. 🧠 Gestion Echecs & Rollback
+
+- **Fichier** : `skills/1147-gestion-echecs-rollback.md` · **Mot-clé** : « gestion-echecs-rollback » · **Nom court** : Gestion Echecs & Rollback
+- **Signal** : Gerer systematiquement les echecs d'execution avec documentation precise, evaluation de rollback et proposition claire a l'agent de coordination, sans execution autonome de remediation. · **Synonymes** : « echec », « execution », « retour » · **Cross-refs** : 567
+
+## 1151. 🧠 GPO Advanced Design & Troubleshooting
+
+- **Fichier** : `skills/1151-gpo-advanced-design-troubleshooting.md` · **Mot-clé** : « gpo-advanced-design-troubleshooting » · **Nom court** : GPO Advanced Design & Troubles
+- **Signal** : Concevoir des stratégies de groupe (GPO) avancées — héritage, filtrage de sécurité, filtrage WMI, préférences — et diagnostiquer les problèmes d'application de GPO (héritage bloqué, conflits, lenteurs · **Synonymes** : « complexe », « filtrage », « heritage » · **Cross-refs** : 1055
+
+## 1155. 🧠 Hallucination Evidence Evaluation
+
+- **Fichier** : `skills/1155-hallucination-evidence-evaluation.md` · **Mot-clé** : « hallucination-evidence-evaluation » · **Nom court** : Hallucination Evidence Evaluat
+- **Signal** : Mesurer l'appui factuel des réponses d'un agent sur un jeu de référence vérifiable. · **Synonymes** : « demande », « portant », « hallucination » · **Cross-refs** : 339
+
+## 1164. 🧠 Inference Cache Benefit Assessment
+
+- **Fichier** : `skills/1164-inference-cache-benefit-assessment.md` · **Mot-clé** : « inference-cache-benefit-assessment » · **Nom court** : Inference Cache Benefit Assess
+- **Signal** : Évaluer si un cache d'inférence apporte un gain sans réutiliser des réponses inadéquates. · **Synonymes** : « demande », « portant », « inference » · **Cross-refs** : 96
+
+## 1173. 🧠 Knowledge Curator (RAG / Docs Ops)
+
+- **Fichier** : `skills/1173-knowledge-curator-rag-docs-ops.md` · **Mot-clé** : « knowledge-curator-rag-docs-ops » · **Nom court** : Knowledge Curator (RAG / Docs
+- **Signal** : Assurer une base de connaissance fiable, a jour et exploitable par les agents. · **Synonymes** : « reponses », « obsoletes », « hallucinees » · **Cross-refs** : 1055
+
+## 1177. 🧠 Libre Software Advocacy & Licensing
+
+- **Fichier** : `skills/1177-libre-software-advocacy-licensing.md` · **Mot-clé** : « libre-software-advocacy-licensing » · **Nom court** : Libre Software Advocacy & Lice
+- **Signal** : Identifier des alternatives libres/open source pertinentes à un outil propriétaire envisagé, évaluer la compatibilité de licence (GPL/AGPL/MIT/Apache/BSD/MPL) et rendre un avis explicite et argumenté · **Synonymes** : « alternative », « libre », « source » · **Cross-refs** : 262
+
+## 1179. 🧠 LLM Latency Bottleneck Measurement
+
+- **Fichier** : `skills/1179-llm-latency-bottleneck-measurement.md` · **Mot-clé** : « llm-latency-bottleneck-measurement » · **Nom court** : LLM Latency Bottleneck Measure
+- **Signal** : Localiser les causes d'une latence IA excessive avant de recommander une optimisation. · **Synonymes** : « demande », « portant », « latency » · **Cross-refs** : 737
+
+## 1180. 🧠 LLM Token Cost Attribution
+
+- **Fichier** : `skills/1180-llm-token-cost-attribution.md` · **Mot-clé** : « llm-token-cost-attribution » · **Nom court** : LLM Token Cost Attribution
+- **Signal** : Ventiler les coûts LLM par usage pour identifier les économies mesurables. · **Synonymes** : « demande », « portant », « token » · **Cross-refs** : 737
+
+## 1191. 🧠 ML Error Cohort Analysis
+
+- **Fichier** : `skills/1191-ml-error-cohort-analysis.md` · **Mot-clé** : « ml-error-cohort-analysis » · **Nom court** : ML Error Cohort Analysis
+- **Signal** : Expliquer où un modèle prédictif échoue en comparant des cohortes et exemples d'erreur. · **Synonymes** : « demande », « portant », « error » · **Cross-refs** : 1138
+
+## 1192. 🧠 ML Experimentation & Validation
+
+- **Fichier** : `skills/1192-ml-experimentation-validation.md` · **Mot-clé** : « ml-experimentation-validation » · **Nom court** : ML Experimentation & Validatio
+- **Signal** : Concevoir des expériences ML rigoureuses, comparer des modèles et interpréter les résultats avec une validation statistique adaptée. **Agents utilisateurs** : l'agent data science (principal), l'agen · **Synonymes** : « comparaison », « performance », « plusieurs » · **Cross-refs** : 733
+
+## 1193. 🧠 MLOps & Model Lifecycle Management
+
+- **Fichier** : `skills/1193-mlops-model-lifecycle-management.md` · **Mot-clé** : « mlops-model-lifecycle-management » · **Nom court** : MLOps & Model Lifecycle Manage
+- **Signal** : Cadrer la mise en production, le versioning, le monitoring et le réentraînement des modèles de machine learning classiques/prédictifs, afin de garantir un cycle de vie fiable, traçable et détectant la · **Synonymes** : « production », « premier », « modele » · **Cross-refs** : 1119
+
+## 1195. 🧠 Model Drift Retraining Gate
+
+- **Fichier** : `skills/1195-model-drift-retraining-gate.md` · **Mot-clé** : « model-drift-retraining-gate » · **Nom court** : Model Drift Retraining Gate
+- **Signal** : Définir quand une dérive observée justifie une investigation ou un réentraînement. · **Synonymes** : « demande », « portant », « model » · **Cross-refs** : 820
+
+## 1196. 🧠 Multi-Agent Orchestration Patterns
+
+- **Fichier** : `skills/1196-multi-agent-orchestration-patterns.md` · **Mot-clé** : « multi-agent-orchestration-patterns » · **Nom court** : Multi-Agent Orchestration Patt
+- **Signal** :  · **Synonymes** : — · **Cross-refs** : 1123
+
+## 1213. 🧠 Operational Runbook Acceptance
+
+- **Fichier** : `skills/1213-operational-runbook-acceptance.md` · **Mot-clé** : « operational-runbook-acceptance » · **Nom court** : Operational Runbook Acceptance
+- **Signal** : Évaluer si un runbook permet un diagnostic et une reprise sûrs par une personne habilitée. · **Synonymes** : « demande », « portant », « operational » · **Cross-refs** : 1018
+
+## 1214. 🧠 Operations Strategy & Operating Model Design
+
+- **Fichier** : `skills/1214-operations-strategy-operating-model-design.md` · **Mot-clé** : « operations-strategy-operating-model-design » · **Nom court** : Operations Strategy & Operatin
+- **Signal** : Clarifier la stratégie opérationnelle d'une organisation et traduire ses objectifs en capacités, responsabilités, modes de fonctionnement et principes de gouvernance cohérents. Le livrable éclaire les · **Synonymes** : « definir », « strategie », « operations » · **Cross-refs** : 1018
+
+## 1232. 🧠 Predictive Temporal Validation
+
+- **Fichier** : `skills/1232-predictive-temporal-validation.md` · **Mot-clé** : « predictive-temporal-validation » · **Nom court** : Predictive Temporal Validation
+- **Signal** : Prévenir la fuite temporelle dans l'évaluation d'un modèle prédictif. · **Synonymes** : « demande », « portant », « predictive » · **Cross-refs** : 251
+
+## 1241. 🧠 Prompt Engineer & Guardrails
+
+- **Fichier** : `skills/1241-prompt-engineer-guardrails.md` · **Mot-clé** : « prompt-engineer-guardrails » · **Nom court** : Prompt Engineer & Guardrails
+- **Signal** : Ameliorer robustesse, qualite, cout et latence des prompts agents. · **Synonymes** : « reponses », « perimetre », « frequentes » · **Cross-refs** : 17
+
+## 1242. 🧠 Prompt Injection Boundary Evaluation
+
+- **Fichier** : `skills/1242-prompt-injection-boundary-evaluation.md` · **Mot-clé** : « prompt-injection-boundary-evaluation » · **Nom court** : Prompt Injection Boundary Eval
+- **Signal** : Évaluer défensivement les frontières de confiance d'un agent IA autorisé. · **Synonymes** : « demande », « portant », « prompt » · **Cross-refs** : 17
+
+## 1243. 🧠 Prompt Structure Optimization
+
+- **Fichier** : `skills/1243-prompt-structure-optimization.md` · **Mot-clé** : « prompt-structure-optimization » · **Nom court** : Prompt Structure Optimization
+- **Signal** : Structurer ou restructurer les prompts IA pour maximiser clarté, cohérence et efficacité (réduction ambiguïté, meilleur respect du périmètre, format de sortie stable). · **Synonymes** : « reponses », « frequemment », « perimetre » · **Cross-refs** : 17
+
+## 1245. 🧠 Protected-Group Evaluation Protocol
+
+- **Fichier** : `skills/1245-protected-group-evaluation-protocol.md` · **Mot-clé** : « protected-group-evaluation-protocol » · **Nom court** : Protected-Group Evaluation Pro
+- **Signal** : Concevoir une évaluation de disparités respectueuse des personnes et des limites des données. · **Synonymes** : « demande », « portant », « protected-group » · **Cross-refs** : 224
+
+## 1258. 🧠 Risk Exposure Aggregation
+
+- **Fichier** : `skills/1258-risk-exposure-aggregation.md` · **Mot-clé** : « risk-exposure-aggregation » · **Nom court** : Risk Exposure Aggregation
+- **Signal** : Évaluer l'exposition consolidée d'un projet sans additionner abusivement des risques corrélés. · **Synonymes** : « demande », « portant », « exposure » · **Cross-refs** : 338
+
+## 1260. 🧠 Roast My Idea (Feedback Tough Love)
+
+- **Fichier** : `skills/1260-roast-my-idea-feedback-tough-love.md` · **Mot-clé** : « roast-my-idea-feedback-tough-love » · **Nom court** : Roast My Idea (Feedback Tough
+- **Signal** : Fournir une critique franche, directe et sans complaisance sur une idée, un brief ou un projet, façon investisseur/VC qui évalue un pitch, en exposant sans filtre ses faiblesses, ses angles morts et s · **Synonymes** : « roast-my-idea », « roast », « projet » · **Cross-refs** : 644
+
+## 1269. 🧠 SEO Audit & Keyword Strategy
+
+- **Fichier** : `skills/1269-seo-audit-keyword-strategy.md` · **Mot-clé** : « seo-audit-keyword-strategy » · **Nom court** : SEO Audit & Keyword Strategy
+- **Signal** : Évaluer les fondations d'une présence organique dans les moteurs de recherche et structurer une stratégie de mots-clés et de pages à prioriser. Le skill produit des diagnostics et briefs à valider; il · **Synonymes** : « realiser », « audit », « editorial » · **Cross-refs** : 1008
 

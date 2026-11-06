@@ -1,4 +1,4 @@
-# Domaine : Communication (28 skills)
+# Domaine : Communication (30 skills)
 
 ## 4. 📧 Assistant Email professionnel
 
@@ -139,4 +139,14 @@
 
 - **Fichier** : `skills/972-organiser-un-pot-de-depart-evenement-d-equipe.md` · **Mot-clé** : « organiser un pot de départ » · **Nom court** : Pot de départ
 - **Signal** : Organiser un pot de départ, événement d'équipe 2027, budget, lieu, invitations, discours de départ, photo de groupe · **Synonymes** : « événement équipe 2027 » · **Cross-refs** : 863, 657
+
+## 1188. 💬 Meeting Decision Extraction
+
+- **Fichier** : `skills/1188-meeting-decision-extraction.md` · **Mot-clé** : « meeting-decision-extraction » · **Nom court** : Meeting Decision Extraction
+- **Signal** : Extraire d'un compte rendu les décisions réellement prises et les actions explicitement attribuées. · **Synonymes** : « demande », « portant », « meeting » · **Cross-refs** : 879
+
+## 1219. 💬 Outlook Productivity Automation
+
+- **Fichier** : `skills/1219-outlook-productivity-automation.md` · **Mot-clé** : « outlook-productivity-automation » · **Nom court** : Outlook Productivity Automatio
+- **Signal** : Maximiser productivité Outlook via : - Automatisation tri emails (règles, Quick Steps) - Optimisation gestion agenda (délégations, salles) - Communication professionnelle (signatures, templates) - Ret · **Synonymes** : « automatiser », « emails », « regles » · **Cross-refs** : 766
 

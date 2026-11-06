@@ -1,4 +1,4 @@
-# Domaine : RH & formation (51 skills)
+# Domaine : RH & formation (52 skills)
 
 ## 202. 🧑‍💼 Rédacteur de fiches de poste
 
@@ -254,4 +254,9 @@
 
 - **Fichier** : `skills/951-accord-d-interessement-participation-2027.md` · **Mot-clé** : « intéressement 2027 » · **Nom court** : Intéressement
 - **Signal** : Mettre en place un accord d'intéressement ou de participation 2027, prime liée aux résultats, exonérations fiscales et sociales · **Synonymes** : « prime résultats salariés » · **Cross-refs** : 912, 410
+
+## 1007. 🧑‍🏫 AD Replication & Sites Management
+
+- **Fichier** : `skills/1007-ad-replication-sites-management.md` · **Mot-clé** : « ad-replication-sites-management » · **Nom court** : AD Replication & Sites Managem
+- **Signal** : Diagnostiquer et résoudre les problèmes de réplication Active Directory entre contrôleurs de domaine, et concevoir une topologie de sites/liens de sites optimisée pour la bande passante et la latence · **Synonymes** : « replication », « cassee », « troubleshooting » · **Cross-refs** : 902
 

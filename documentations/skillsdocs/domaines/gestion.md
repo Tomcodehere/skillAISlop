@@ -1,4 +1,4 @@
-# Domaine : Gestion (62 skills)
+# Domaine : Gestion (98 skills)
 
 ## 15. 🗂️ Planificateur de projet
 
@@ -309,4 +309,184 @@
 
 - **Fichier** : `skills/999-bilan-objectifs-2027-tous-domaines-edition-annuelle.md` · **Mot-clé** : « bilan objectifs 2027 annuel » · **Nom court** : Bilan 2027
 - **Signal** : Bilan 2026 et objectifs 2027 : 3 objectifs max SMART, revue mensuelle, célébrer les réussites de 2026 · **Synonymes** : « nouvelle année 2027 résolutions » · **Cross-refs** : 949, 899
+
+## 1000. 📋 Acceptance Scenario Derivation
+
+- **Fichier** : `skills/1000-acceptance-scenario-derivation.md` · **Mot-clé** : « acceptance-scenario-derivation » · **Nom court** : Acceptance Scenario Derivation
+- **Signal** : Transformer des critères d'acceptation validés en contrôles Given/When/Then reproductibles. · **Synonymes** : « demande », « portant », « acceptance » · **Cross-refs** : 847
+
+## 1006. 📋 AD Migration & Consolidation
+
+- **Fichier** : `skills/1006-ad-migration-consolidation.md` · **Mot-clé** : « ad-migration-consolidation » · **Nom court** : AD Migration & Consolidation
+- **Signal** : Planifier et sécuriser les migrations et consolidations de domaines/forêts Active Directory (montée de niveau fonctionnel, fusion de domaines, migration d'objets inter-forêts). · **Synonymes** : « migration », « domaines », « consolidation » · **Cross-refs** : 1093
+
+## 1013. 📋 Agent Role Regression Campaign
+
+- **Fichier** : `skills/1013-agent-role-regression-campaign.md` · **Mot-clé** : « agent-role-regression-campaign » · **Nom court** : Agent Role Regression Campaign
+- **Signal** : Vérifier qu'une modification de configuration préserve rôle, escalade et format d'un agent. · **Synonymes** : « demande », « portant », « regression » · **Cross-refs** : 1054
+
+## 1019. 📋 Skill: AI Explainability & Transparency
+
+- **Fichier** : `skills/1019-skill-ai-explainability-transparency.md` · **Mot-clé** : « skill-ai-explainability-transparency » · **Nom court** : Skill: AI Explainability & Tra
+- **Signal** : Rendre les systèmes d'intelligence artificielle transparents et explicables au moyen d'audits d'opacité, de techniques XAI, de documentation des décisions algorithmiques et de communication adaptée au · **Synonymes** : « evaluer », « opacite », « explicabilite » · **Cross-refs** : 1054
+
+## 1025. 📋 AI-SI Integration Strategy
+
+- **Fichier** : `skills/1025-ai-si-integration-strategy.md` · **Mot-clé** : « ai-si-integration-strategy » · **Nom court** : AI-SI Integration Strategy
+- **Signal** :  · **Synonymes** : — · **Cross-refs** : 760
+
+## 1034. 📋 Application Synchronization Conflict Policy
+
+- **Fichier** : `skills/1034-application-synchronization-conflict-policy.md` · **Mot-clé** : « application-synchronization-conflict-policy » · **Nom court** : Application Synchronization Co
+- **Signal** : Arbitrer les modifications concurrentes lors d'une synchronisation inter-applications. · **Synonymes** : « demande », « portant », « application » · **Cross-refs** : 1273
+
+## 1036. 📋 APT and Pacman Recovery Planning
+
+- **Fichier** : `skills/1036-apt-and-pacman-recovery-planning.md` · **Mot-clé** : « apt-and-pacman-recovery-planning » · **Nom court** : APT and Pacman Recovery Planni
+- **Signal** : Préparer une récupération cohérente après une transaction de paquets Debian ou Arch interrompue. · **Synonymes** : « demande », « portant », « pacman » · **Cross-refs** : 1124
+
+## 1038. 📋 Artifact Dependency Inventory
+
+- **Fichier** : `skills/1038-artifact-dependency-inventory.md` · **Mot-clé** : « artifact-dependency-inventory » · **Nom court** : Artifact Dependency Inventory
+- **Signal** : Inventorier les références explicites entre artefacts dans une exploration généraliste. · **Synonymes** : « demande », « portant », « artifact » · **Cross-refs** : 429
+
+## 1040. 📋 Audit Cohérence Logique Brief
+
+- **Fichier** : `skills/1040-audit-coherence-logique-brief.md` · **Mot-clé** : « audit-coherence-logique-brief » · **Nom court** : Audit Cohérence Logique Brief
+- **Signal** : Vérifier la cohérence logique d'un brief de délégation avant envoi : détecter contradictions internes, critères flous, DoD incomplet, owner ambigu, inférences non fondées. · **Synonymes** : « brief », « incomplet », « ambigu » · **Cross-refs** : 1273
+
+## 1054. 📋 Bounded Utility Specification
+
+- **Fichier** : `skills/1054-bounded-utility-specification.md` · **Mot-clé** : « bounded-utility-specification » · **Nom court** : Bounded Utility Specification
+- **Signal** : Définir une petite tâche technique généraliste assez précisément pour une exécution sûre par l'agent de coordination. · **Synonymes** : « demande », « portant », « bounded » · **Cross-refs** : 1013
+
+## 1062. 📋 Capacity Planning & Sizing
+
+- **Fichier** : `skills/1062-capacity-planning-sizing.md` · **Mot-clé** : « capacity-planning-sizing » · **Nom court** : Capacity Planning & Sizing
+- **Signal** : Dimensionner l'infrastructure on-prem et hybride (compute, RAM, stockage, réseau) en fonction de la charge actuelle, des prévisions de croissance et des contraintes budgétaires : sizing détaillé, prév · **Synonymes** : « capacity », « planning », « dimensionnement » · **Cross-refs** : 710
+
+## 1069. 📋 Cloud Failure-Domain Placement
+
+- **Fichier** : `skills/1069-cloud-failure-domain-placement.md` · **Mot-clé** : « cloud-failure-domain-placement » · **Nom court** : Cloud Failure-Domain Placement
+- **Signal** : Répartir les composants cloud selon les pannes qu'ils doivent tolérer. · **Synonymes** : « demande », « portant », « cloud » · **Cross-refs** : 1158
+
+## 1071. 📋 Cloud Migration Strategy
+
+- **Fichier** : `skills/1071-cloud-migration-strategy.md` · **Mot-clé** : « cloud-migration-strategy » · **Nom court** : Cloud Migration Strategy
+- **Signal** : Définir une stratégie de migration cloud (6R), son séquencement, la gestion des dépendances et les critères de bascule/rollback. · **Synonymes** : « migration », « migre », « cloud » · **Cross-refs** : 1013
+
+## 1072. 📋 Cloud Migration Wave Acceptance
+
+- **Fichier** : `skills/1072-cloud-migration-wave-acceptance.md` · **Mot-clé** : « cloud-migration-wave-acceptance » · **Nom court** : Cloud Migration Wave Acceptanc
+- **Signal** : Définir les critères de réception et de retour arrière d'une vague de migration cloud. · **Synonymes** : « demande », « portant », « cloud » · **Cross-refs** : 882
+
+## 1088. 📋 Controlled Vocabulary Lifecycle
+
+- **Fichier** : `skills/1088-controlled-vocabulary-lifecycle.md` · **Mot-clé** : « controlled-vocabulary-lifecycle » · **Nom court** : Controlled Vocabulary Lifecycl
+- **Signal** : Gérer les statuts et évolutions d'un vocabulaire de référence sans perdre l'historique des termes. · **Synonymes** : « demande », « portant », « controlled » · **Cross-refs** : 891
+
+## 1093. 📋 Cross-Artifact Consistency Review
+
+- **Fichier** : `skills/1093-cross-artifact-consistency-review.md` · **Mot-clé** : « cross-artifact-consistency-review » · **Nom court** : Cross-Artifact Consistency Rev
+- **Signal** : Comparer plusieurs livrables généralistes contre une même référence sans arbitrer le fond spécialisé. · **Synonymes** : « demande », « portant », « cross-artifact » · **Cross-refs** : 847
+
+## 1105. 📋 Deliverable Completeness Review
+
+- **Fichier** : `skills/1105-deliverable-completeness-review.md` · **Mot-clé** : « deliverable-completeness-review » · **Nom court** : Deliverable Completeness Revie
+- **Signal** : Vérifier la complétude d'un livrable généraliste par rapport au brief explicite. · **Synonymes** : « demande », « portant », « deliverable » · **Cross-refs** : 760
+
+## 1106. 📋 Détection Boucles Délégation
+
+- **Fichier** : `skills/1106-detection-boucles-delegation.md` · **Mot-clé** : « detection-boucles-delegation » · **Nom court** : Détection Boucles Délégation
+- **Signal** : Détecter et signaler les boucles de délégation (A → B → A) : tâches revenues 2+ fois au même agent sans avancement, patterns récurrents d'échec, chaînes circulaires de routage. · **Synonymes** : « tache », « revenue », « pattern » · **Cross-refs** : 1197
+
+## 1124. 📋 Execution Commande Shell
+
+- **Fichier** : `skills/1124-execution-commande-shell.md` · **Mot-clé** : « execution-commande-shell » · **Nom court** : Execution Commande Shell
+- **Signal** : Executer des commandes shell en production de maniere robuste, tracee et reversible, avec verification systematique de l'environnement et capture complete des resultats. · **Synonymes** : « execution », « commandes », « shell » · **Cross-refs** : 527
+
+## 1139. 📋 Game Engine Performance & Profiling
+
+- **Fichier** : `skills/1139-game-engine-performance-profiling.md` · **Mot-clé** : « game-engine-performance-profiling » · **Nom court** : Game Engine Performance & Prof
+- **Signal** : Optimiser les performances runtime d'un projet jeu (CPU, GPU, memoire, frame pacing) via profiling structure. · **Synonymes** : « chutes », « stutters », « freeze » · **Cross-refs** : 426
+
+## 1144. 📋 General Purpose Delegation Fallback
+
+- **Fichier** : `skills/1144-general-purpose-delegation-fallback.md` · **Mot-clé** : « general-purpose-delegation-fallback » · **Nom court** : General Purpose Delegation Fal
+- **Signal** : Fournir une capacité d'exécution généraliste, fiable et tracée pour les tâches que l'agent de coordination ne peut confier à aucun agent spécialisé existant (aucune correspondance de périmètre dans la · **Synonymes** : « toute », « demande », « domaine » · **Cross-refs** : 527
+
+## 1158. 📋 I Have ADHD (Output Mode Neurodivergent)
+
+- **Fichier** : `skills/1158-i-have-adhd-output-mode-neurodivergent.md` · **Mot-clé** : « i-have-adhd-output-mode-neurodivergent » · **Nom court** : I Have ADHD (Output Mode Neuro
+- **Signal** : Reformater les réponses pour un lecteur TDAH : action immédiate en premier, étapes numérotées et bornées, estimations de temps précises, progrès visibles, pas de tangentes. Reste actif **toute la sess · **Synonymes** : « i-have-adhd », « ultra », « clair » · **Cross-refs** : 287
+
+## 1169. 📋 Integration Reliability Patterns
+
+- **Fichier** : `skills/1169-integration-reliability-patterns.md` · **Mot-clé** : « integration-reliability-patterns » · **Nom court** : Integration Reliability Patter
+- **Signal** : Concevoir des integrations robustes avec idempotence, retry/backoff, DLQ, timeouts et observabilite minimale. · **Synonymes** : « workflows », « multi-systemes », « critiques » · **Cross-refs** : 999
+
+## 1184. 📋 MariaDB Performance & Reliability
+
+- **Fichier** : `skills/1184-mariadb-performance-reliability.md` · **Mot-clé** : « mariadb-performance-reliability » · **Nom court** : MariaDB Performance & Reliabil
+- **Signal** : Optimiser les performances MariaDB et renforcer la fiabilite en production. · **Synonymes** : « requetes », « lentes », « mariadb » · **Cross-refs** : 532
+
+## 1187. 📋 Meaning-Preserving Reformulation
+
+- **Fichier** : `skills/1187-meaning-preserving-reformulation.md` · **Mot-clé** : « meaning-preserving-reformulation » · **Nom court** : Meaning-Preserving Reformulati
+- **Signal** : Reformuler un texte généraliste sans changer son intention ni son degré de certitude. · **Synonymes** : « demande », « portant », « meaning-preserving » · **Cross-refs** : 1307
+
+## 1197. 📋 Multi-Cloud Tradeoff Analysis
+
+- **Fichier** : `skills/1197-multi-cloud-tradeoff-analysis.md` · **Mot-clé** : « multi-cloud-tradeoff-analysis » · **Nom court** : Multi-Cloud Tradeoff Analysis
+- **Signal** : Fournir une analyse comparative objective entre providers (AWS vs Azure vs GCP) ou stratégies (mono vs multi-cloud) sur des critères explicites. · **Synonymes** : « compare », « azure », « faut-il » · **Cross-refs** : 668
+
+## 1206. 📋 Notarial Document Preparation
+
+- **Fichier** : `skills/1206-notarial-document-preparation.md` · **Mot-clé** : « notarial-document-preparation » · **Nom court** : Notarial Document Preparation
+- **Signal** : Aider à organiser et anonymiser les documents avant un échange avec une étude notariale, sans prétendre établir une liste exhaustive de pièces obligatoires. · **Synonymes** : « utilisateur », « preparer », « pieces » · **Cross-refs** : 192
+
+## 1211. 📋 Open Image License Traceability
+
+- **Fichier** : `skills/1211-open-image-license-traceability.md` · **Mot-clé** : « open-image-license-traceability » · **Nom court** : Open Image License Traceabilit
+- **Signal** : Préparer la traçabilité des images ouvertes retenues pour un livrable visuel. · **Synonymes** : « demande », « portant », « image » · **Cross-refs** : 1206
+
+## 1239. 📋 Project Baseline Change Assessment
+
+- **Fichier** : `skills/1239-project-baseline-change-assessment.md` · **Mot-clé** : « project-baseline-change-assessment » · **Nom court** : Project Baseline Change Assess
+- **Signal** : Mesurer l'effet d'une demande de changement sur une référence projet approuvée. · **Synonymes** : « demande », « portant », « project » · **Cross-refs** : 931
+
+## 1250. 📋 Regression Risk Selection
+
+- **Fichier** : `skills/1250-regression-risk-selection.md` · **Mot-clé** : « regression-risk-selection » · **Nom court** : Regression Risk Selection
+- **Signal** : Choisir la couverture de non-régression selon les comportements affectés par un changement. · **Synonymes** : « demande », « portant », « regression » · **Cross-refs** : 562
+
+## 1253. 📋 Repository Entry-Point Survey
+
+- **Fichier** : `skills/1253-repository-entry-point-survey.md` · **Mot-clé** : « repository-entry-point-survey » · **Nom court** : Repository Entry-Point Survey
+- **Signal** : Cartographier les points d'entrée documentaires et techniques d'un dépôt sans audit spécialisé. · **Synonymes** : « demande », « portant », « repository » · **Cross-refs** : 1211
+
+## 1267. 📋 Security Remediation Verification
+
+- **Fichier** : `skills/1267-security-remediation-verification.md` · **Mot-clé** : « security-remediation-verification » · **Nom court** : Security Remediation Verificat
+- **Signal** : Vérifier qu'un correctif ferme la cause d'une faiblesse sans masquer l'erreur. · **Synonymes** : « demande », « portant », « security » · **Cross-refs** : 928
+
+## 1273. 📋 Software Boundary ADR
+
+- **Fichier** : `skills/1273-software-boundary-adr.md` · **Mot-clé** : « software-boundary-adr » · **Nom court** : Software Boundary ADR
+- **Signal** : Documenter une décision de frontière logicielle entre modules ou services. · **Synonymes** : « demande », « portant », « software » · **Cross-refs** : 210
+
+## 1303. 📋 Visual Identity Asset Specification
+
+- **Fichier** : `skills/1303-visual-identity-asset-specification.md` · **Mot-clé** : « visual-identity-asset-specification » · **Nom court** : Visual Identity Asset Specific
+- **Signal** : Définir des déclinaisons d'assets cohérentes avec une identité visuelle validée. · **Synonymes** : « demande », « portant », « visual » · **Cross-refs** : 1025
+
+## 1304. 📋 VPN Configuration
+
+- **Fichier** : `skills/1304-vpn-configuration.md` · **Mot-clé** : « vpn-configuration » · **Nom court** : VPN Configuration
+- **Signal** : Configurer VPN site-to-site et client-to-site (IPsec, WireGuard, OpenVPN) sécurisés et performants. · **Synonymes** : « ipsec », « wireguard », « openvpn » · **Cross-refs** : 426
+
+## 1307. 📋 WBS and Dependency Planning
+
+- **Fichier** : `skills/1307-wbs-and-dependency-planning.md` · **Mot-clé** : « wbs-and-dependency-planning » · **Nom court** : WBS and Dependency Planning
+- **Signal** : Décomposer un livrable projet en lots vérifiables et ordonner leurs dépendances réelles. · **Synonymes** : « demande », « portant », « dependency » · **Cross-refs** : 1062
 

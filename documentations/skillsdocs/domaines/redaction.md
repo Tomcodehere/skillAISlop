@@ -1,4 +1,4 @@
-# Domaine : Rédaction (38 skills)
+# Domaine : Rédaction (44 skills)
 
 ## 1. ✍️ Rédacteur d'articles SEO
 
@@ -189,4 +189,34 @@
 
 - **Fichier** : `skills/749-redaction-seo-optimisation-de-contenu.md` · **Mot-clé** : « optimisation seo » · **Nom court** : SEO contenu
 - **Signal** : Optimiser un texte pour le SEO, mot-clé principal, balises Hn, maillage interne, lisibilité, intention de recherche · **Synonymes** : « référencement naturel » · **Cross-refs** : 1, 377
+
+## 1085. ✍️ Content Regression Checkpointing
+
+- **Fichier** : `skills/1085-content-regression-checkpointing.md` · **Mot-clé** : « content-regression-checkpointing » · **Nom court** : Content Regression Checkpointi
+- **Signal** : Détecter automatiquement les fichiers texte nouveaux ou modifiés depuis le dernier audit de grammaire/orthographe, pour éviter de revoir systématiquement tout le contenu à chaque passage et concentrer · **Synonymes** : « audit », « mensuel », « grammaire » · **Cross-refs** : 382
+
+## 1115. ✍️ Editorial Change Impact
+
+- **Fichier** : `skills/1115-editorial-change-impact.md` · **Mot-clé** : « editorial-change-impact » · **Nom court** : Editorial Change Impact
+- **Signal** : Identifier les contenus affectés par une modification terminologique ou éditoriale approuvée. · **Synonymes** : « demande », « portant », « editorial » · **Cross-refs** : 384
+
+## 1152. ✍️ Grammar & Orthography Compliance Audit
+
+- **Fichier** : `skills/1152-grammar-orthography-compliance-audit.md` · **Mot-clé** : « grammar-orthography-compliance-audit » · **Nom court** : Grammar & Orthography Complian
+- **Signal** : Auditer et corriger la grammaire, l'orthographe, la syntaxe et la ponctuation en français, anglais et néerlandais, sur du contenu textuel déjà rédigé, sans en modifier le ton ni le fond. · **Synonymes** : « relecture », « documentation », « utilisateur » · **Cross-refs** : 120
+
+## 1199. ✍️ Multilingual Quality & Localization
+
+- **Fichier** : `skills/1199-multilingual-quality-localization.md` · **Mot-clé** : « multilingual-quality-localization » · **Nom court** : Multilingual Quality & Localiz
+- **Signal** : Garantir une qualite linguistique multilingue elevee: traduction contextuelle, coherence terminologique, adaptation culturelle et respect du ton. · **Synonymes** : « traduction », « contenus », « metier » · **Cross-refs** : 1
+
+## 1218. ✍️ Orthotypographic Consistency Review
+
+- **Fichier** : `skills/1218-orthotypographic-consistency-review.md` · **Mot-clé** : « orthotypographic-consistency-review » · **Nom court** : Orthotypographic Consistency R
+- **Signal** : Uniformiser ponctuation, espaces et conventions typographiques selon la langue et le support. · **Synonymes** : « demande », « portant », « orthotypographic » · **Cross-refs** : 1115
+
+## 1286. ✍️ Terminology Management & Glossary Governance
+
+- **Fichier** : `skills/1286-terminology-management-glossary-governance.md` · **Mot-clé** : « terminology-management-glossary-governance » · **Nom court** : Terminology Management & Gloss
+- **Signal** : Gérer un glossaire terminologique multilingue centralisé, assurer la gouvernance des termes validés (ajout, révision, dépréciation) et la cohérence terminologique cross-langue dans tous les contenus t · **Synonymes** : « glossaire », « gestion », « terminologique » · **Cross-refs** : 395
 

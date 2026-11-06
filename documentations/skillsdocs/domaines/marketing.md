@@ -1,4 +1,4 @@
-# Domaine : Marketing (53 skills)
+# Domaine : Marketing (56 skills)
 
 ## 3. 📣 Copywriting publicitaire
 
@@ -264,4 +264,19 @@
 
 - **Fichier** : `skills/938-geo-aeo-etre-cite-par-les-moteurs-ia.md` · **Mot-clé** : « être cité par chatgpt » · **Nom court** : GEO AEO
 - **Signal** : Être cité par ChatGPT/Perplexity/Gemini (GEO AEO 2027), optimiser son contenu pour les moteurs génératifs, structured data, brand mentions · **Synonymes** : « geo moteurs ia » · **Cross-refs** : 735, 647
+
+## 1056. 📣 Brand Positioning Strategy
+
+- **Fichier** : `skills/1056-brand-positioning-strategy.md` · **Mot-clé** : « brand-positioning-strategy » · **Nom court** : Brand Positioning Strategy
+- **Signal** : Clarifier la plateforme de marque, le positionnement et les principes de cohérence qui guideront les décisions marketing. Relier la promesse aux preuves disponibles, aux publics prioritaires et à la d · **Synonymes** : « definir », « revoir », « positionnement » · **Cross-refs** : 360
+
+## 1175. 📣 Landing Page Argument Design
+
+- **Fichier** : `skills/1175-landing-page-argument-design.md` · **Mot-clé** : « landing-page-argument-design » · **Nom court** : Landing Page Argument Design
+- **Signal** : Structurer une page marketing autour d'une promesse démontrable et d'objections réelles. · **Synonymes** : « demande », « portant », « landing » · **Cross-refs** : 358
+
+## 1186. 📣 Marketing Email Sequence Drafting
+
+- **Fichier** : `skills/1186-marketing-email-sequence-drafting.md` · **Mot-clé** : « marketing-email-sequence-drafting » · **Nom court** : Marketing Email Sequence Draft
+- **Signal** : Rédiger une séquence marketing cohérente sans envoyer de messages ni décider de la base de prospection. · **Synonymes** : « demande », « portant », « marketing » · **Cross-refs** : 612
 

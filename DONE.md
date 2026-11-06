@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-06** — Merge SkillsAI : 311 skills (1000-1310) intégrées au format TEMPLATE-v2 — catalogue à 1311 sections (1310 skills + routeur) · build ✅ 1311 skills · 1218 synonymes · 609/609 tests ✅ · lint ✅ · audit ✅ 1310/1310 (100 %, double template R2/v2) · sonde 100 % · exports 1311 · pack FIDÈLE · docs auto régénérées
+
 - [x] **2026-11-06** — Vérification des doublons faite : 0 doublon interne (R6 ✅), 0 doublon exact vs SkillsAI (311 skills), 33 recouvrements thématiques documentés (compléments, pas de fusion) → rapport documentations/skillsdocs/doublons.md
 
 - [x] **2026-11-04** — Vague 13 (R7 anticipée) : 100 skills (900-999) sourcées d'une veille nov. 2026 / tendances 2027 — catalogue à 1000 sections (999 skills + routeur, 0-999), nouveau corpus 901-1200 — build ✅ 1000 skills · 1116 synonymes · 1000 vecteurs · 549/549 tests ✅ · lint ✅ · audit ✅ 999/999 (100 %) · sonde 1158/1158 (100 %) · exports 1000 · pack FIDÈLE

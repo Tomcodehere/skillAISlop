@@ -1,4 +1,4 @@
-# Domaine : Formation (4 skills)
+# Domaine : Formation (7 skills)
 
 ## 11. 🎓 Expliqueur pédagogique
 
@@ -19,4 +19,19 @@
 
 - **Fichier** : `skills/295-producteur-de-capsules-microlearning.md` · **Mot-clé** : « capsules microlearning » · **Nom court** : Microlearning
 - **Signal** : Capsule microlearning, unité pédagogique de 5 minutes · **Synonymes** : — · **Cross-refs** : 201, 299
+
+## 1076. 🎓 Cognitive Journey Barrier Review
+
+- **Fichier** : `skills/1076-cognitive-journey-barrier-review.md` · **Mot-clé** : « cognitive-journey-barrier-review » · **Nom court** : Cognitive Journey Barrier Revi
+- **Signal** : Repérer dans un parcours les obstacles de compréhension et de mémoire de travail observables. · **Synonymes** : « demande », « portant », « cognitive » · **Cross-refs** : 11
+
+## 1272. 🎓 Small File-Format Transformation
+
+- **Fichier** : `skills/1272-small-file-format-transformation.md` · **Mot-clé** : « small-file-format-transformation » · **Nom court** : Small File-Format Transformati
+- **Signal** : Préparer une transformation ponctuelle entre formats simples sans altérer les données non visées. · **Synonymes** : « demande », « portant », « small » · **Cross-refs** : 11
+
+## 1290. 🎓 Troubleshooting Decision Tree
+
+- **Fichier** : `skills/1290-troubleshooting-decision-tree.md` · **Mot-clé** : « troubleshooting-decision-tree » · **Nom court** : Troubleshooting Decision Tree
+- **Signal** : Transformer des symptômes documentés en parcours de dépannage utilisateur prudent. · **Synonymes** : « demande », « portant », « troubleshooting » · **Cross-refs** : 200
 

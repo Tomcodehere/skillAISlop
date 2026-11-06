@@ -1,4 +1,4 @@
-# Domaine : Vente (33 skills)
+# Domaine : Vente (34 skills)
 
 ## 54. 📞 Prospection à froid (cold outreach)
 
@@ -164,4 +164,9 @@
 
 - **Fichier** : `skills/880-gestion-d-un-client-difficile-negociation.md` · **Mot-clé** : « client difficile » · **Nom court** : Client difficile
 - **Signal** : Client difficile, client toxique, gérer un conflit client, dire non au client, préserver la relation · **Synonymes** : « client toxique » · **Cross-refs** : 796, 46
+
+## 1041. 💼 B2B Prospecting & Lead Qualification
+
+- **Fichier** : `skills/1041-b2b-prospecting-lead-qualification.md` · **Mot-clé** : « b2b-prospecting-lead-qualification » · **Nom court** : B2B Prospecting & Lead Qualifi
+- **Signal** : Transformer un marché cible et des signaux disponibles en une démarche de prospection B2B priorisée, transparente et prête à être exécutée par une personne habilitée. Qualifier les leads avec des crit · **Synonymes** : « construire », « liste », « comptes » · **Cross-refs** : 167
 
