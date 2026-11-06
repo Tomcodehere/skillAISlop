@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-06** — Vérification des doublons faite : 0 doublon interne (R6 ✅), 0 doublon exact vs SkillsAI (311 skills), 33 recouvrements thématiques documentés (compléments, pas de fusion) → rapport documentations/skillsdocs/doublons.md
+
 - [x] **2026-11-04** — Vague 13 (R7 anticipée) : 100 skills (900-999) sourcées d'une veille nov. 2026 / tendances 2027 — catalogue à 1000 sections (999 skills + routeur, 0-999), nouveau corpus 901-1200 — build ✅ 1000 skills · 1116 synonymes · 1000 vecteurs · 549/549 tests ✅ · lint ✅ · audit ✅ 999/999 (100 %) · sonde 1158/1158 (100 %) · exports 1000 · pack FIDÈLE
 
 - [x] **2026-11-04** — WAL checkpoint PASSIVE après chaque écriture de session (skills.db-wal ne grossit plus en longue session)
