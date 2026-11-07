@@ -44,4 +44,4 @@ type: "text/markdown"
 
 - [ ] Multilingue EN : champ lang dans le frontmatter (fr/en), table lang(num,lang), filtre route --lang en, vague EN (traduction ou rédaction) — catalogue actuellement 100 % FR (1351 skills, 4,09 Mo)
 
-- [ ] HNSW (index vectoriel approché) : NON supporté par sqlite-vec 0.1.9 (testé) — à activer si upgrade sqlite-vec ≥ version avec hnsw ET catalogue > 5 000 skills ; à 1 351 skills la recherche vec linéaire suffit (~1 ms). Pack : deflate retenu (1,93 Mo), LZMA testé moins bon sur markdown (2,2 Mo)
+- [x] ~~HNSW~~ → veille 2026-11-07 : sqlite-vec 0.1.9 (dernier PyPI) = KNN exact, pas d'ANN dans vec0 ; releases officielles annoncent ivf/diskann en WIP ; fork tiers brianmacy/sqlite-vec-hnsw (use_hnsw=1) non officiel. À 1 351 skills le brute-force suffit (~1 ms/voie vec). À activer > 5 000 skills via upgrade officiel ou le fork (à valider) — pack : deflate retenu (1,93 Mo, meilleur que LZMA 2,2 Mo sur markdown), skills.db exclu (régénéré par build --from-skills)
