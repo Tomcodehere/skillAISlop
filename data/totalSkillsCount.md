@@ -39,4 +39,4 @@
 
 ## Génération
 
-Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-06. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — skillAISlop ».
+Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-07. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — skillAISlop ».

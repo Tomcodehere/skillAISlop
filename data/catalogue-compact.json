@@ -1,6 +1,6 @@
 {
   "catalogue": "skillAISlop",
-  "genere_le": "2026-11-06",
+  "genere_le": "2026-11-07",
   "mode": "compact",
   "stats": {
     "sections": 1311,
@@ -455,7 +455,7 @@
     {
       "num": 19,
       "emoji": "🔥",
-      "nom": "Grill Me (validation de plan par interview)",
+      "nom": "Grill Me (validation de plan)",
       "domaine": "Développement",
       "signal_routage": "Stress-tester un plan avant de coder, « grill me »",
       "mot_cle_index": "grill me (validation de plan)",
@@ -506,7 +506,7 @@
     {
       "num": 22,
       "emoji": "🏗️",
-      "nom": "Générateur de diagrammes d'architecture",
+      "nom": "Diagrammes d'architecture",
       "domaine": "Développement",
       "signal_routage": "Schéma d'architecture, diagramme de système",
       "mot_cle_index": "diagrammes d'architecture",
@@ -521,7 +521,7 @@
     {
       "num": 23,
       "emoji": "📚",
-      "nom": "Rédacteur de documentation technique",
+      "nom": "Documentation technique",
       "domaine": "Développement",
       "signal_routage": "README, documentation, guide technique",
       "mot_cle_index": "documentation technique",
@@ -554,7 +554,7 @@
     {
       "num": 25,
       "emoji": "📥",
-      "nom": "Tri & priorisation d'emails (inbox)",
+      "nom": "Tri & priorisation d'emails",
       "domaine": "Productivité",
       "signal_routage": "Boîte mail débordante, prioriser des emails",
       "mot_cle_index": "tri & priorisation d'emails",
@@ -569,7 +569,7 @@
     {
       "num": 26,
       "emoji": "🪓",
-      "nom": "Décomposition de tâches (anti-procrastination)",
+      "nom": "Décomposition de tâches",
       "domaine": "Productivité",
       "signal_routage": "Tâche trop grosse, procrastination, où commencer",
       "mot_cle_index": "décomposition de tâches",
@@ -605,7 +605,7 @@
     {
       "num": 28,
       "emoji": "📋",
-      "nom": "Planification par fichiers (suivi documenté)",
+      "nom": "Planification par fichiers",
       "domaine": "Productivité",
       "signal_routage": "Suivi de mission multi-sessions documenté",
       "mot_cle_index": "planification par fichiers",
@@ -620,7 +620,7 @@
     {
       "num": 29,
       "emoji": "🎥",
-      "nom": "Script vidéo UGC & publicité",
+      "nom": "Script vidéo UGC & pub",
       "domaine": "Marketing",
       "signal_routage": "Script vidéo courte, UGC, TikTok, pub vidéo",
       "mot_cle_index": "script vidéo ugc & pub",
@@ -635,7 +635,7 @@
     {
       "num": 30,
       "emoji": "📱",
-      "nom": "Optimiseur de posts réseaux sociaux",
+      "nom": "Optimiseur de posts sociaux",
       "domaine": "Marketing",
       "signal_routage": "Post social à optimiser, portée, engagement",
       "mot_cle_index": "posts sociaux",
@@ -654,7 +654,7 @@
     {
       "num": 31,
       "emoji": "📘",
-      "nom": "Ghostwriter LinkedIn & personal branding",
+      "nom": "Ghostwriter LinkedIn",
       "domaine": "Marketing",
       "signal_routage": "Post LinkedIn, personal branding, autorité",
       "mot_cle_index": "ghostwriter linkedin",
@@ -671,7 +671,7 @@
     {
       "num": 32,
       "emoji": "🥊",
-      "nom": "Analyseur concurrentiel (benchmark)",
+      "nom": "Analyseur concurrentiel",
       "domaine": "Marketing",
       "signal_routage": "Benchmark, concurrents, positionnement",
       "mot_cle_index": "analyseur concurrentiel",
@@ -687,7 +687,7 @@
     {
       "num": 33,
       "emoji": "👤",
-      "nom": "Générateur de personas utilisateurs",
+      "nom": "Générateur de personas",
       "domaine": "Marketing",
       "signal_routage": "Persona, profil cible utilisateur",
       "mot_cle_index": "personas",
@@ -716,7 +716,7 @@
     {
       "num": 35,
       "emoji": "🔗",
-      "nom": "Pipeline de recommandation & ranking",
+      "nom": "Pipeline de recommandation",
       "domaine": "Data & IA",
       "signal_routage": "Recommandation, ranking, feed, top-K",
       "mot_cle_index": "pipeline de recommandation",
@@ -746,7 +746,7 @@
     {
       "num": 37,
       "emoji": "🛡️",
-      "nom": "Red-team de prompts & systèmes IA",
+      "nom": "Red-team de prompts",
       "domaine": "Data & IA",
       "signal_routage": "Red-team, faille d'un prompt, détournement",
       "mot_cle_index": "red-team de prompts",
@@ -759,7 +759,7 @@
     {
       "num": 38,
       "emoji": "🧩",
-      "nom": "Skill Creator (packages SKILL.md)",
+      "nom": "Skill Creator (SKILL.md)",
       "domaine": "Data & IA",
       "signal_routage": "Créer un package de skill SKILL.md",
       "mot_cle_index": "skill creator (skill.md)",
@@ -825,7 +825,7 @@
     {
       "num": 42,
       "emoji": "🧳",
-      "nom": "Planificateur de voyage sur mesure",
+      "nom": "Planificateur de voyage",
       "domaine": "Personnel",
       "signal_routage": "Voyage, itinéraire, séjour sur mesure",
       "mot_cle_index": "voyage",
@@ -845,7 +845,7 @@
     {
       "num": 43,
       "emoji": "💸",
-      "nom": "Coach budget & finances personnelles",
+      "nom": "Coach budget perso",
       "domaine": "Personnel",
       "signal_routage": "Budget, dépenses, finances personnelles",
       "mot_cle_index": "coach budget perso",
@@ -858,7 +858,7 @@
     {
       "num": 44,
       "emoji": "📃",
-      "nom": "Analyseur CV & lettre de motivation",
+      "nom": "Analyseur CV & lettre",
       "domaine": "Carrière",
       "signal_routage": "CV, lettre de motivation, candidature",
       "mot_cle_index": "analyseur cv & lettre",
@@ -891,7 +891,7 @@
     {
       "num": 46,
       "emoji": "🎙️",
-      "nom": "Préparation de conversations difficiles",
+      "nom": "Conversations difficiles",
       "domaine": "Carrière",
       "signal_routage": "Conversation difficile, conflit, feedback dur",
       "mot_cle_index": "conversations difficiles",
@@ -906,7 +906,7 @@
     {
       "num": 47,
       "emoji": "🏷️",
-      "nom": "Générateur de noms (naming)",
+      "nom": "Générateur de noms",
       "domaine": "Créativité",
       "signal_routage": "Nommer une marque, un produit, un projet",
       "mot_cle_index": "générateur de noms",
@@ -921,7 +921,7 @@
     {
       "num": 48,
       "emoji": "🖼️",
-      "nom": "Infographie animée & visuels de données",
+      "nom": "Infographie animée",
       "domaine": "Data & IA",
       "signal_routage": "Infographie animée, visuel de données",
       "mot_cle_index": "infographie animée",
@@ -934,7 +934,7 @@
     {
       "num": 49,
       "emoji": "🎭",
-      "nom": "Simulateur de rôle (client, ventes, support)",
+      "nom": "Simulateur de rôle",
       "domaine": "Carrière",
       "signal_routage": "Simuler un client / prospect / utilisateur",
       "mot_cle_index": "simulateur de rôle",
@@ -1155,7 +1155,7 @@
     {
       "num": 62,
       "emoji": "📬",
-      "nom": "Rédacteur de propositions freelance (devis)",
+      "nom": "Rédacteur de propositions freelance",
       "domaine": "Carrière",
       "signal_routage": "Proposition, devis, réponse à un besoin client freelance",
       "mot_cle_index": "propositions freelance",

@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Migration TEMPLATE-v2 lancée et terminée : les 1310 skills ont désormais les 12 sections v2 (0 manquante) — contenu uniforme — audit 1310/1310 (100 %) · 609/609 tests · sonde 100 % · pack FIDÈLE
+
 - [x] **2026-11-07** — Remplissage auto des sections vides des skills mergées (SkillsAI) : 156 sections remplies, 0 vide restante hors routeur — audit 1310/1310 (100 %)
 
 - [x] **2026-11-06** — Merge SkillsAI : 311 skills (1000-1310) intégrées au format TEMPLATE-v2 — catalogue à 1311 sections (1310 skills + routeur) · build ✅ 1311 skills · 1218 synonymes · 609/609 tests ✅ · lint ✅ · audit ✅ 1310/1310 (100 %, double template R2/v2) · sonde 100 % · exports 1311 · pack FIDÈLE · docs auto régénérées

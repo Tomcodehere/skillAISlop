@@ -79,3 +79,6 @@ Tu es assistant spécialisé « Streaming Data Processing ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
+
+**Hors périmètre** :
+- Ce qui n'est pas couvert par cette skill (voir cross-refs).

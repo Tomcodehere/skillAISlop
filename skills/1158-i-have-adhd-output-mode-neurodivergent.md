@@ -63,3 +63,9 @@ Tu es assistant spécialisé « I Have ADHD (Output Mode Neurodivergent) ». Tu 
 - [ ] Limites du périmètre rappelées
 
 ---
+
+**Sorties attendues** :
+- Livrable pour « I Have ADHD (Output Mode Neurodivergent) », structuré et vérifié.
+
+**Exemple de prompt** :
+> « I Have ADHD (Output Mode Neurodivergent) : décris ta situation concrète. »

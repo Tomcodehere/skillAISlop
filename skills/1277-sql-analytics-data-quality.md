@@ -83,6 +83,9 @@ LIMIT ...;
 
 ---
 
+**Sorties attendues** :
+- Le livrable attendu pour « SQL Analytics & Data Quality », structuré et vérifié.
+
 **Exemple de prompt** :
 ### Exemple 1 : Calculer les clients ayant renouvelé un abonnement
 **Contexte** : Le métier veut mesurer les renouvellements mensuels sans compter plusieurs fois les modifications d'un même contrat.  
@@ -101,3 +104,8 @@ LIMIT ...;
 - [ ] Limites du périmètre rappelées
 
 ---
+
+**Méthode** :
+1. Clarifier « SQL Analytics & Data Quality ».
+2. Appliquer la procédure.
+3. Livrer et vérifier.

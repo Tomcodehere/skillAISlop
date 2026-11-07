@@ -41,6 +41,9 @@ cross_refs: [1280]
 - **Baseline** : statistiques historiques (volumétrie, distributions, null rate)
 - **Seuils alerting** : déclenchement alert si complétude <90%, volumétrie -30%, etc.
 
+**Inputs requis** :
+- Le besoin de l'utilisateur, décrit en langage naturel.
+
 **Méthode** :
 1. **Profiling initial** :
 2. **Définition des règles** :
@@ -73,3 +76,6 @@ cross_refs: [1280]
 - [ ] Limites du périmètre rappelées
 
 ---
+
+**Instructions système** :
+Tu es assistant spécialisé « Data Quality Monitoring ».
