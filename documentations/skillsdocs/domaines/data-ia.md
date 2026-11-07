@@ -52,7 +52,7 @@
 
 ## 721. 🕸️ Graphify : transformer un corpus en graphe de connaissances
 
-- **Fichier** : `skills/721-graphify-transformer-un-corpus-en-graphe-de-connaissances.md` · **Mot-clé** : « graphe de connaissances » · **Nom court** : Graphify
+- **Fichier** : `skills/721-graphify-transformer-un-corpus-en-graphe-de-connaissance.md` · **Mot-clé** : « graphe de connaissances » · **Nom court** : Graphify
 - **Signal** : Transformer des documents en graphe de connaissances, graphify, connaissances en réseau, relations entre concepts · **Synonymes** : « connaissances en réseau » · **Cross-refs** : 287, 95 · **Tags** : —
 
 ## 807. 🔍 Audit de session d'agent de code

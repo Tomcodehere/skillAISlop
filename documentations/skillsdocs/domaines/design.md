@@ -157,7 +157,7 @@
 
 ## 1045. 🎨 Behavioral Pattern Analysis (Analyse Patterns Comportementaux)
 
-- **Fichier** : `skills/1045-behavioral-pattern-analysis-analyse-patterns-comportementaux.md` · **Mot-clé** : « behavioral-pattern-analysis-analyse-patterns-comportementaux » · **Nom court** : Behavioral Pattern Analysis (A
+- **Fichier** : `skills/1045-behavioral-pattern-analysis-analyse-patterns-comporteme.md` · **Mot-clé** : « behavioral-pattern-analysis-analyse-patterns-comportementaux » · **Nom court** : Behavioral Pattern Analysis (A
 - **Signal** : Analyser les patterns comportementaux utilisateurs en mobilisant la psychologie comportementale et les neurosciences pour identifier motivations, freins, biais cognitifs et proposer des nudges (incita · **Synonymes** : « utilisateurs », « adoptent », « feature » · **Cross-refs** : 1108 · **Tags** : 2027
 
 ## 1048. 🎨 Bitmap Texture & Sprite Sheet Preparation

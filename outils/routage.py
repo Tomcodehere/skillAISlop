@@ -2143,7 +2143,7 @@ def _json_dumps(x) -> str:
 
 VEC_DIM = 64  # dimension des embeddings locaux (hash bag-of-words normalisé) — 64 suffit à 1350 skills, 2x plus rapide
 CATALOGUE_VERSION = "12.0.0"  # version sémantique du catalogue (vague 12 = 900 sections)
-VEC_SEUIL = 0.80  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
+VEC_SEUIL = 0.88  # candidat vec (exit 0) : seuil strict, le contextual enrichment monte les cosinus  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
 VEC_PISTE = 0.80  # au-dessus, la meilleure candidate vec devient piste (exit 1) — même seuil que les candidats
 
 
@@ -2316,8 +2316,10 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         db.execute("INSERT INTO skills VALUES (?,?,?,?,?,?,?)",
                    (num, nom, dom, sig, mc, br, nc))
         if vec_ok:
+            # contextual enrichment : préfixer par domaine + branche avant l'embedding
+            ctx = f"[{dom} | {br}] " if (dom or br) else ""
             db.execute("INSERT INTO skills_vec(num, embedding) VALUES (?,?)",
-                       (num, embed_hash(" ".join(x for x in (nom, sig, mc, nc, dom) if x))))
+                       (num, embed_hash(ctx + " ".join(x for x in (nom, sig, mc, nc) if x))))
     connus = {n for (n,) in db.execute("SELECT num FROM skills")}
     if 0 not in connus:  # pack autonome : recréer la skill 0 (routeur)
         db.execute("INSERT INTO skills VALUES (0, '🧭 Routeur de skills', 'Routage', '', '', '', '')")
@@ -2683,6 +2685,18 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
         res["domaines"] = sorted(res["domaines"],
                                  key=lambda x: -len(x["mots"]))[:3]
 
+    # 4a) bonus freshness : si la requête contient une année (ex. 2027) et la skill a ce tag
+    try:
+        annees = set(re.findall(r"\b(20\d\d)\b", q))
+        if annees:
+            for c in (res["exact"] + res["fts"] + res["vec"] + res["flou"] + res["pistes"]):
+                tags_c = {r["tag"] for r in db.execute("SELECT tag FROM tags WHERE num=?", (c["num"],))}
+                if annees & tags_c and "score" in c:
+                    c["score"] = round(c["score"] + 0.03, 3)
+                    c["bonus_fresh"] = 0.03
+    except sqlite3.OperationalError:
+        pass
+
     # 4b) bonus popularité : les skills du top-N (les plus utilisées) gagnent un léger bonus
     try:
         top_pop = {r["num"] for r in db.execute(
@@ -2720,6 +2734,20 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
         # re-trier les listes principales par score décroissant
         for k in ("exact", "fts", "vec", "flou"):
             res[k] = sorted(res[k], key=lambda c: -(c.get("score") or 0))[:top]
+
+    # 6) fusion RRF (k=60) des voies en un classement hybride : rang plutôt que score brut
+    K_RRF = 60
+    fusion = {}
+    for voie, liste in (("exact", res["exact"]), ("fts", res["fts"]),
+                        ("vec", res["vec"]), ("flou", res["flou"])):
+        for rang, c in enumerate(liste):
+            fusion.setdefault(c["num"], {"c": c, "rrf": 0.0, "voies": []})
+            fusion[c["num"]]["rrf"] += 1.0 / (K_RRF + rang)
+            fusion[c["num"]]["voies"].append(voie)
+    for v in fusion.values():
+        v["c"]["rrf"] = round(v["rrf"], 4)
+        v["c"]["voies"] = v["voies"]
+    res["fusion"] = [v["c"] for v in sorted(fusion.values(), key=lambda v: -v["rrf"])][:top]
     return res
 
 
@@ -2752,8 +2780,8 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
                 res[k] = [c for c in res[k] if c["num"] in tag_nums]
         except sqlite3.OperationalError:
             pass
-    candidats = ([res["direct"]] if res["direct"] else []) + res["exact"] \
-        + res["fts"] + res["vec"] + res["flou"]
+    candidats = ([res["direct"]] if res["direct"] else []) + res.get("fusion") \
+        or ([res["direct"]] if res["direct"] else []) + res["exact"] + res["fts"] + res["vec"] + res["flou"]
     pistes_vec = any(p["voie"] == "piste-vec" for p in res["pistes"])
     code = 0 if candidats else (1 if (res["domaines"] or pistes_vec) else 2)
     if code == 2:

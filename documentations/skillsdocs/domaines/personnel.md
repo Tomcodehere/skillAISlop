@@ -622,7 +622,7 @@
 
 ## 987. 🎊 Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027
 
-- **Fichier** : `skills/987-organiser-un-enterrement-de-vie-de-celibataire-evjf-evg-2027.md` · **Mot-clé** : « organiser un evjf 2027 » · **Nom court** : EVJF 2027
+- **Fichier** : `skills/987-organiser-un-enterrement-de-vie-de-celibataire-evjf-evg.md` · **Mot-clé** : « organiser un evjf 2027 » · **Nom court** : EVJF 2027
 - **Signal** : Organiser un EVJF/EVG 2027, budget, activités, week-end, invitations, surprise, déguisements, sécurité (alcool responsable) · **Synonymes** : « evg 2027 » · **Cross-refs** : 972, 863 · **Tags** : 2027
 
 ## 988. 🚴 Préparer une expédition vélo (cyclotourisme) 2027
@@ -637,7 +637,7 @@
 
 ## 991. 📦 Préparer un déménagement à l'étranger (douane, conteneur) 2027
 
-- **Fichier** : `skills/991-preparer-un-demenagement-a-l-etranger-douane-conteneur-2027.md` · **Mot-clé** : « déménagement étranger 2027 » · **Nom court** : Déménagement inter.
+- **Fichier** : `skills/991-preparer-un-demenagement-a-l-etranger-douane-conteneur-2.md` · **Mot-clé** : « déménagement étranger 2027 » · **Nom court** : Déménagement inter.
 - **Signal** : Déménagement à l'étranger 2027, conteneur maritime, douane (certificat de changement de résidence), inventaire, assurance, prix · **Synonymes** : « déménagement international 2027 » · **Cross-refs** : 958, 954 · **Tags** : 2027
 
 ## 994. 🛡️ Souscrire une assurance voyage/rapatriement 2027

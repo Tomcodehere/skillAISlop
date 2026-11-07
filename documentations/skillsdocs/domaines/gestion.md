@@ -242,7 +242,7 @@
 
 ## 877. 🌐 Gestion d'un projet en mode hybride (présentiel/distanciel)
 
-- **Fichier** : `skills/877-gestion-d-un-projet-en-mode-hybride-presentiel-distanciel.md` · **Mot-clé** : « projet hybride » · **Nom court** : Projet hybride
+- **Fichier** : `skills/877-gestion-d-un-projet-en-mode-hybride-presentiel-distancie.md` · **Mot-clé** : « projet hybride » · **Nom court** : Projet hybride
 - **Signal** : Projet hybride, équipe mixte présentiel/distanciel, règles de fonctionnement, outils, équité des deux mondes · **Synonymes** : « équipe hybride » · **Cross-refs** : 760, 788 · **Tags** : 2027
 
 ## 882. 🤝 Préparation d'une négociation fournisseurs

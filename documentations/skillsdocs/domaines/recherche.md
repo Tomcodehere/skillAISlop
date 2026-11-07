@@ -72,7 +72,7 @@
 
 ## 967. 🔍 Vérifier une entreprise avant embauche/achat (due diligence légère)
 
-- **Fichier** : `skills/967-verifier-une-entreprise-avant-embauche-achat-due-diligence-l.md` · **Mot-clé** : « vérifier une entreprise 2027 » · **Nom court** : Due diligence légère
+- **Fichier** : `skills/967-verifier-une-entreprise-avant-embauche-achat-due-diligen.md` · **Mot-clé** : « vérifier une entreprise 2027 » · **Nom court** : Due diligence légère
 - **Signal** : Vérifier une entreprise avant embauche ou achat en 2027 : SIRET, bilans (Pappers, Societe.com), avis salariés (Glassdoor, Indeed), contentieux, santé financière · **Synonymes** : « vérifier employeur » · **Cross-refs** : 874, 647 · **Tags** : 2027
 
 ## 1001. 🔬 Accessibility Evidence Register

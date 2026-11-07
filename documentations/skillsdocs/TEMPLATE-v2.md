@@ -6,7 +6,7 @@
 
 ## Règles de conformité (lint spec 2026)
 
-- fichier `NNN-slug.md` en **kebab-case ≤ 64 caractères** (déjà conforme)
+- fichier `NNN-slug.md` en **kebab-case ≤ 64 caractères** (conforme, slugs tronqués à 60)
 - `signal` : **≤ 1024 caractères, 3ᵉ personne, « Utilise quand… / N'utilise pas pour… »**
 - **pas de `<` ni `>` dans le frontmatter** (injection system prompt)
 - corps **< 500 lignes**, références à **1 niveau max** de profondeur
@@ -77,3 +77,7 @@ Contraintes/triggers/garde-fous **en tête** (primacy), workflow au milieu, exem
 ## Bonus de classement (routeur)
 
 Deux bonus s'appliquent au score des candidats : **+0,10 cross-ref** (candidat lié à un top candidat) et **+0,05 popularité** (skill dans le top-20 des plus utilisées, table `popularite` calculée au build depuis `routes`). Le champ `tags` reste optionnel et sert uniquement au pré-filtre `route --tag`.
+
+## Classement hybride (2026-11-07)
+
+Le routeur fusionne ses voies par **RRF (Reciprocal Rank Fusion, k=60)** en une liste `fusion` (champ `rrf`, `voies`) : rang plutôt que score brut. Bonus cumulés : **+0,10 cross-ref**, **+0,05 popularité** (top-20), **+0,03 freshness** (tag = année de la requête). Les embeddings sont **contextualisés** au build (`[domaine | branche]` préfixé). Seuil vec candidat durci à 0,88 (anti-faux-positifs).

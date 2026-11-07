@@ -322,7 +322,7 @@
 
 ## 948. 📋 Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027)
 
-- **Fichier** : `skills/948-preparer-un-audit-rgpd-cnil-renforce-1-5-m-controles-2027.md` · **Mot-clé** : « audit cnil 2027 » · **Nom court** : Audit CNIL
+- **Fichier** : `skills/948-preparer-un-audit-rgpd-cnil-renforce-1-5-m-controles-202.md` · **Mot-clé** : « audit cnil 2027 » · **Nom court** : Audit CNIL
 - **Signal** : Audit CNIL renforcé 2027 (1,5 million de contrôles prévus), registre des traitements, DPO, DPIA, sous-traitants, logs de conformité · **Synonymes** : « contrôle cnil 2027 » · **Cross-refs** : 695, 843 · **Tags** : 2027
 
 ## 950. 📉 Négocier un PSE (plan de sauvegarde de l'emploi)
@@ -332,7 +332,7 @@
 
 ## 963. 📜 Rédiger un testament (formes, légataires, réserve héréditaire)
 
-- **Fichier** : `skills/963-rediger-un-testament-formes-legataires-reserve-hereditaire.md` · **Mot-clé** : « rédiger un testament » · **Nom court** : Testament
+- **Fichier** : `skills/963-rediger-un-testament-formes-legataires-reserve-hereditai.md` · **Mot-clé** : « rédiger un testament » · **Nom court** : Testament
 - **Signal** : Rédiger un testament en 2027, testament olographe vs authentique, légataires, réserve héréditaire, notaire, validité · **Synonymes** : « faire son testament » · **Cross-refs** : 837, 651 · **Tags** : 2027
 
 ## 969. 🤝 Négocier une rupture conventionnelle individuelle

@@ -142,7 +142,7 @@
 
 ## 968. 🎯 Préparer un entretien d'embauche côté candidat (STAR + questions)
 
-- **Fichier** : `skills/968-preparer-un-entretien-d-embauche-cote-candidat-star-question.md` · **Mot-clé** : « préparer entretien embauche 2027 » · **Nom court** : Entretien STAR
+- **Fichier** : `skills/968-preparer-un-entretien-d-embauche-cote-candidat-star-ques.md` · **Mot-clé** : « préparer entretien embauche 2027 » · **Nom court** : Entretien STAR
 - **Signal** : Préparer un entretien d'embauche en 2027 : méthode STAR, recherche entreprise, questions à poser, test technique, négociation offre · **Synonymes** : « méthode star entretien » · **Cross-refs** : 872, 875 · **Tags** : 2027
 
 ## 990. 🌍 Faire du volontariat international (VSI, PVT) 2027
