@@ -1,7 +1,7 @@
 ---
 num: 1752
 date_ajout: "2026-11"
-nom: "Cout de l'observabilite : cardinalite, echantillonnage, stockage (2027)"
+nom: "Cout de l'observabilite : cardinalite, echantillonnage, stockage"
 emoji: "💰"
 domaine: "Data"
 signal: "Maîtriser le coût de l'observabilité en 2027 (ça explose avec le volume x5-10 prévu) : cardinalité des métriques (jamais d'user_id en label Prometheus — 1440), logs structurés + rétention différenciée (7 j chaud, 90 j froid S3 1469), traces échantillonnées (head sampling 10 % + tail sampling sur erreurs), stockage objet pas cher (OpenObserve 0,50 $/Go 1699), gouvernance (budget par équipe 1092). N'utilise pas sans mesurer la facture d'abord."

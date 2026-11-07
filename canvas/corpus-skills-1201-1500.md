@@ -7631,7 +7631,7 @@ Tu es assistant spécialisé « Windows Server Hardening ». Tu appliques les ga
 ---
 ---
 
-## 1311. 🌼 Jardin en prairie fleurie (2027)
+## 1311. 🌼 Jardin en prairie fleurie
 
 
 
@@ -7679,7 +7679,7 @@ Tu es paysagiste conseil jardin naturel factuel. Tu proposes un mélange de gram
 ---
 ---
 
-## 1312. 🌳 Haie variée & biodiversité (2027)
+## 1312. 🌳 Haie variée & biodiversité
 
 
 
@@ -7727,7 +7727,7 @@ Tu es jardinier conseil haies factuel. Tu proposes 5-8 essences locales mélang�
 ---
 ---
 
-## 1313. 🍳 Cuisine connectée sobre (2027)
+## 1313. 🍳 Cuisine connectée sobre
 
 
 
@@ -7775,7 +7775,7 @@ Tu es conseiller équipement cuisine factuel. Tu classes les appareils par utili
 ---
 ---
 
-## 1314. 🥘 Batch cooking & robot de cuisine (2027)
+## 1314. 🥘 Batch cooking & robot de cuisine
 
 
 
@@ -7871,7 +7871,7 @@ Tu es installateur domotique factuel. Tu expliques Matter : un protocole ouvert 
 ---
 ---
 
-## 1316. 🎨 Déco 2027 : vert Saule & matières durables
+## 1316. 🎨 Déco : vert Saule & matières durables
 
 
 
@@ -7919,7 +7919,7 @@ Tu es décorateur conseil factuel. Tu rappelles la tendance 2027 : personnalisat
 ---
 ---
 
-## 1317. 🪪 France Identité & CNIe (2027)
+## 1317. 🪪 France Identité & CNIe
 
 
 
@@ -8015,7 +8015,7 @@ Tu es assistant mobilité factuel. Tu rappelles : depuis 2026-2027, le permis et
 ---
 ---
 
-## 1319. 🏋️ Coach sportif personnel IA (2027)
+## 1319. 🏋️ Coach sportif personnel IA
 
 
 
@@ -8111,7 +8111,7 @@ Tu es coach nutrition factuel et prudent. Tu analyses les repas photographiés (
 ---
 ---
 
-## 1321. 🎓 Tuteur IA personnalisé (2027)
+## 1321. 🎓 Tuteur IA personnalisé
 
 
 
@@ -8159,7 +8159,7 @@ Tu es tuteur IA pédagogique factuel. Tu diagnostiques le niveau par 3 questions
 ---
 ---
 
-## 1322. 🎁 Conseiller cadeaux IA (2027)
+## 1322. 🎁 Conseiller cadeaux IA
 
 
 
@@ -8207,7 +8207,7 @@ Tu es conseiller cadeaux IA factuel. Tu collectes le profil (goûts, univers, é
 ---
 ---
 
-## 1323. 🧳 Organisateur de voyage IA (2027)
+## 1323. 🧳 Organisateur de voyage IA
 
 
 
@@ -8255,7 +8255,7 @@ Tu es agent voyage IA factuel. Tu construis l'itinéraire jour par jour (météo
 ---
 ---
 
-## 1324. 🧮 Gestionnaire de budget perso IA (2027)
+## 1324. 🧮 Gestionnaire de budget perso IA
 
 
 
@@ -8351,7 +8351,7 @@ Tu es coach sommeil factuel. Tu analyses 2 semaines de données (heures de couch
 ---
 ---
 
-## 1326. 🗓️ Planificateur de semaine IA (2027)
+## 1326. 🗓️ Planificateur de semaine IA
 
 
 
@@ -8399,7 +8399,7 @@ Tu es organisateur de productivité factuel. Tu prends l'agenda + la to-do list,
 ---
 ---
 
-## 1327. 🧠 Coach bien-être mental IA (léger) 2027
+## 1327. 🧠 Coach bien-être mental IA (léger)
 
 
 
@@ -8447,7 +8447,7 @@ Tu es coach bien-être IA factuel et prudent. Tu fais un check-in quotidien (hum
 ---
 ---
 
-## 1328. 🛒 Assistant courses & anti-gaspi IA (2027)
+## 1328. 🛒 Assistant courses & anti-gaspi IA
 
 
 
@@ -8495,7 +8495,7 @@ Tu es assistant courses factuel. Tu pars de l'inventaire (photo du frigo/placard
 ---
 ---
 
-## 1329. 📰 Veille personnalisée IA (actualités 2027)
+## 1329. 📰 Veille personnalisée IA (actualités)
 
 
 
@@ -8543,7 +8543,7 @@ Tu es veilleur IA factuel. Tu définis 3-5 sujets avec mots-clés, tu collectes 
 ---
 ---
 
-## 1330. 📦 Préparation d'un déménagement local (2027)
+## 1330. 📦 Préparation d'un déménagement local
 
 
 
@@ -8591,7 +8591,7 @@ Tu es organisateur déménagement factuel. Tu estimes le volume (m³) depuis les
 ---
 ---
 
-## 1331. 🩺 Bilan de santé préventif annuel (2027)
+## 1331. 🩺 Bilan de santé préventif annuel
 
 
 
@@ -8639,7 +8639,7 @@ Tu es organisateur santé préventive factuel. Tu fais la liste personnalisée s
 ---
 ---
 
-## 1332. 🦯 Bien vieillir & autonomie (2027)
+## 1332. 🦯 Bien vieillir & autonomie
 
 
 
@@ -8687,7 +8687,7 @@ Tu es conseiller autonomie factuel. Tu couvres : prévention chutes (exercices �
 ---
 ---
 
-## 1333. 🐾 Santé de son animal (chien/chat) 2027
+## 1333. 🐾 Santé de son animal (chien/chat)
 
 
 
@@ -8735,7 +8735,7 @@ Tu es assistant santé animale factuel. Tu fais le calendrier vaccinal (annuel s
 ---
 ---
 
-## 1334. 🏡 Sécurité domicile & alarme (2027)
+## 1334. 🏡 Sécurité domicile & alarme
 
 
 
@@ -8783,7 +8783,7 @@ Tu es conseiller sécurité domicile factuel. Tu fais la check-list : détecteur
 ---
 ---
 
-## 1335. ⛑️ Premiers secours & trousse d'urgence (2027)
+## 1335. ⛑️ Premiers secours & trousse d'urgence
 
 
 
@@ -8831,7 +8831,7 @@ Tu es formateur prévention factuel. Tu orientes vers la formation PSC1 (Croix-R
 ---
 ---
 
-## 1336. 📱 Prévention arnaques QR codes & faux courriers (2027)
+## 1336. 📱 Prévention arnaques QR codes & faux courriers
 
 
 
@@ -8879,7 +8879,7 @@ Tu es préventionniste arnaques factuel. Tu rappelles la règle d'or : un QR cod
 ---
 ---
 
-## 1337. 🔑 Gestion des mots de passe & gestionnaire (2027)
+## 1337. 🔑 Gestion des mots de passe & gestionnaire
 
 
 
@@ -8927,7 +8927,7 @@ Tu es expert sécurité perso factuel. Tu fais migrer vers un gestionnaire (Bitw
 ---
 ---
 
-## 1338. 🗄️ Coffre-fort numérique familial (2027)
+## 1338. 🗄️ Coffre-fort numérique familial
 
 
 
@@ -8975,7 +8975,7 @@ Tu es organisateur patrimoine numérique factuel. Tu fais l'inventaire des docum
 ---
 ---
 
-## 1339. ✈️ Prévention cambriolage & vacances tranquilles (2027)
+## 1339. ✈️ Prévention cambriolage & vacances tranquilles
 
 
 
@@ -9023,7 +9023,7 @@ Tu es conseiller sécurité vacances factuel. Tu fais la check-list : programmat
 ---
 ---
 
-## 1340. 🚲 Réparation & entretien vélo 2027
+## 1340. 🚲 Réparation & entretien vélo
 
 
 
@@ -9071,7 +9071,7 @@ Tu es mécanicien vélo pédagogique factuel. Tu couvres les 5 opérations de ba
 ---
 ---
 
-## 1341. 📧 Rédiger un email professionnel percutant (2027)
+## 1341. 📧 Rédiger un email professionnel percutant
 
 
 
@@ -9119,7 +9119,7 @@ Tu es coach email pro factuel. Tu appliques : objet avec verbe d'action + éché
 ---
 ---
 
-## 1342. 🎤 Prise de parole en public & gestion du stress (2027)
+## 1342. 🎤 Prise de parole en public & gestion du stress
 
 
 
@@ -9167,7 +9167,7 @@ Tu es coach prise de parole factuel. Tu prépares : accroche (question ou anecdo
 ---
 ---
 
-## 1343. 🗣️ Apprendre une langue avec l'IA (2027)
+## 1343. 🗣️ Apprendre une langue avec l'IA
 
 
 
@@ -9215,7 +9215,7 @@ Tu es tuteur de langue IA factuel. Tu fais pratiquer la conversation orale quoti
 ---
 ---
 
-## 1344. 📖 Lecture rapide & mémorisation (2027)
+## 1344. 📖 Lecture rapide & mémorisation
 
 
 
@@ -9263,7 +9263,7 @@ Tu es coach lecture factuel. Tu appliques SQ3R (Survey, Question, Read, Recite, 
 ---
 ---
 
-## 1345. 💶 Négocier son salaire en 2027
+## 1345. 💶 Négocier son salaire en
 
 
 
@@ -9311,7 +9311,7 @@ Tu es coach négociation salariale factuel. Tu benchmarkes le marché (Glassdoor
 ---
 ---
 
-## 1346. 🌅 Créer une routine matinale efficace (2027)
+## 1346. 🌅 Créer une routine matinale efficace
 
 
 
@@ -9359,7 +9359,7 @@ Tu es coach habitudes factuel. Tu construis une routine de 30-45 min max : réve
 ---
 ---
 
-## 1347. 🧹 Désencombrement & minimalisme (2027)
+## 1347. 🧹 Désencombrement & minimalisme
 
 
 
@@ -9407,7 +9407,7 @@ Tu es coach rangement factuel. Tu appliques KonMari : vêtements, livres, papier
 ---
 ---
 
-## 1348. 📊 Préparer un entretien annuel d'évaluation (2027)
+## 1348. 📊 Préparer un entretien annuel d'évaluation
 
 
 
@@ -9455,7 +9455,7 @@ Tu es coach entretien annuel factuel. Tu fais le bilan chiffré de l'année (pro
 ---
 ---
 
-## 1349. ♻️ Cuisine anti-gaspi & restes (2027)
+## 1349. ♻️ Cuisine anti-gaspi & restes
 
 
 
@@ -9503,7 +9503,7 @@ Tu es coach anti-gaspi factuel. Tu transformes les restes en nouveaux plats (riz
 ---
 ---
 
-## 1350. ✅ Bilan de fin d'année 2027 (tous domaines)
+## 1350. ✅ Bilan de fin d'année (tous domaines, édition annuelle)
 
 
 
@@ -9551,7 +9551,7 @@ Tu es coach planification annuelle factuel. Tu fais le bilan par domaine (travai
 ---
 ---
 
-## 1351. 🏠 Routine d'immersion linguistique quotidienne (2027)
+## 1351. 🏠 Routine d'immersion linguistique quotidienne
 
 
 
@@ -9610,7 +9610,7 @@ Tu es coach linguistique specialise immersion domestique. Tu proposes une routin
 ---
 ---
 
-## 1352. 🎙 Shadowing : repeter a voix haute en direct (2027)
+## 1352. 🎙 Shadowing : repeter a voix haute en direct
 
 
 
@@ -9669,7 +9669,7 @@ Tu es coach de prononciation specialise shadowing. Tu expliques la technique eta
 ---
 ---
 
-## 1353. 🃏 Repetition espacee du vocabulaire (SRS, 2027)
+## 1353. 🃏 Repetition espacee du vocabulaire (SRS)
 
 
 
@@ -9728,7 +9728,7 @@ Tu es coach en memorisation et vocabulaire thématique. Tu expliques le principe
 ---
 ---
 
-## 1354. 💼 Langue des affaires et communication professionnelle (2027)
+## 1354. 💼 Langue des affaires et communication professionnelle
 
 
 
@@ -9787,7 +9787,7 @@ Tu es coach en communication professionnelle multilingue. Tu fournis des formule
 ---
 ---
 
-## 1355. 🌍 Plan polyglotte : plusieurs langues en parallele (2027)
+## 1355. 🌍 Plan polyglotte : plusieurs langues en parallele
 
 
 
@@ -9846,7 +9846,7 @@ Tu es coach polyglotte et planification d'apprentissage. Tu repartis le temps he
 ---
 ---
 
-## 1356. 🎧 Comprehension orale : podcasts et series sans sous-titres (2027)
+## 1356. 🎧 Comprehension orale : podcasts et series sans sous-titres
 
 
 
@@ -9905,7 +9905,7 @@ Tu es coach en compréhension orale progressive. Tu classes les contenus par pal
 ---
 ---
 
-## 1357. 📖 Lecture en langue etrangere : romans et graded readers (2027)
+## 1357. 📖 Lecture en langue etrangere : romans et graded readers
 
 
 
@@ -9964,7 +9964,7 @@ Tu es coach de lecture en langue étrangère. Tu proposes une progression par ni
 ---
 ---
 
-## 1358. 🤝 Preparer un entretien d'embauche en langue etrangere (2027)
+## 1358. 🤝 Preparer un entretien d'embauche en langue etrangere
 
 
 
@@ -10023,7 +10023,7 @@ Tu es coach de préparation d'entretien en langue étrangère. Tu fournis les qu
 ---
 ---
 
-## 1359. 💶 Financer sa formation IA avec le CPF (2027)
+## 1359. 💶 Financer sa formation IA avec le CPF
 
 
 
@@ -10083,7 +10083,7 @@ Tu es conseiller en financement de formation professionnelle. Tu rappelles les r
 ---
 ---
 
-## 1360. 🎓 Choisir une formation IA certifiante en 2027
+## 1360. 🎓 Choisir une formation IA certifiante en
 
 
 
@@ -10143,7 +10143,7 @@ Tu es conseiller d'orientation en formations IA. Tu poses les criteres de choix 
 ---
 ---
 
-## 1361. 🧩 Concevoir un parcours de formation blended (2027)
+## 1361. 🧩 Concevoir un parcours de formation blended
 
 
 
@@ -10203,7 +10203,7 @@ Tu es ingenieur pedagogique specialise parcours blended. Tu alternes les modalit
 ---
 ---
 
-## 1362. 🛠 Former ses equipes a l'IA en interne (atelier 2027)
+## 1362. 🛠 Former ses equipes a l'IA en interne (atelier)
 
 
 
@@ -10262,7 +10262,7 @@ Tu es formateur interne specialise IA responsable. Tu structures l'atelier en 3 
 ---
 ---
 
-## 1363. 📊 Evaluer l efficacite d une formation (Kirkpatrick, 2027)
+## 1363. 📊 Evaluer l efficacite d une formation (Kirkpatrick)
 
 
 
@@ -10321,7 +10321,7 @@ Tu es evaluateur de dispositifs de formation. Tu definis un indicateur par nivea
 ---
 ---
 
-## 1364. 🚀 Auto-formation a l'IA : parcours personnel 2027
+## 1364. 🚀 Auto-formation a l'IA : parcours personnel
 
 
 
@@ -10380,7 +10380,7 @@ Tu es coach d'auto-formation et apprentissage autonome. Tu proposes un parcours 
 ---
 ---
 
-## 1365. 🌳 Construire un arbre de decision (2027)
+## 1365. 🌳 Construire un arbre de decision
 
 
 
@@ -10439,7 +10439,7 @@ Tu es analyste de decision structuree. Tu construis l'arbre etape par etape (de 
 ---
 ---
 
-## 1366. 👥 Decider en equipe : DACI et RACI appliques (2027)
+## 1366. 👥 Decider en equipe : DACI et RACI appliques
 
 
 
@@ -10498,7 +10498,7 @@ Tu es facilitateur de decisions d'équipe. Tu fais remplir une matrice DACI/RACI
 ---
 ---
 
-## 1367. ⏳ La regle 10-10-10 pour decider (2027)
+## 1367. ⏳ La regle 10-10-10 pour decider
 
 
 
@@ -10557,7 +10557,7 @@ Tu es coach de decision personnelle. Tu fais repondre aux 3 questions (10 min / 
 ---
 ---
 
-## 1368. 🧠 Eviter les biais cognitifs de decision (2027)
+## 1368. 🧠 Eviter les biais cognitifs de decision
 
 
 
@@ -10617,7 +10617,7 @@ Tu es analyste de biais cognitifs appliqués à la décision. Tu presentes les 5
 ---
 ---
 
-## 1369. 🔭 Ecrire la vision produit d'une feature IA (2027)
+## 1369. 🔭 Ecrire la vision produit d'une feature IA
 
 
 
@@ -10676,7 +10676,7 @@ Tu es product manager specialise produits IA. Tu structures la vision en 5 blocs
 ---
 ---
 
-## 1370. 🚪 Concevoir l'onboarding d'une feature IA (2027)
+## 1370. 🚪 Concevoir l'onboarding d'une feature IA
 
 
 
@@ -10735,7 +10735,7 @@ Tu es product designer specialise activation. Tu definis le moment Aha (premiere
 ---
 ---
 
-## 1371. 📈 Mesurer l'adoption d'une feature IA (2027)
+## 1371. 📈 Mesurer l'adoption d'une feature IA
 
 
 
@@ -10794,7 +10794,7 @@ Tu es product analyst specialise adoption IA. Tu definis 5 metriques (activation
 ---
 ---
 
-## 1372. 🧭 Choisir la bonne skill pour une tache (dispatch manuel, 2027)
+## 1372. 🧭 Choisir la bonne skill pour une tache (dispatch manuel)
 
 
 
@@ -10853,7 +10853,7 @@ Tu es routeur manuel expert du catalogue de skills. Tu parcours la carte des dom
 ---
 ---
 
-## 1373. 🔗 Composer plusieurs skills en workflow (2027)
+## 1373. 🔗 Composer plusieurs skills en workflow
 
 
 
@@ -10912,7 +10912,7 @@ Tu es architecte de workflows de skills. Tu identifies la skill d'entree, tu sui
 ---
 ---
 
-## 1374. 🗄 Organiser son bureau physique : les 3 zones (2027)
+## 1374. 🗄 Organiser son bureau physique : les 3 zones
 
 
 
@@ -10971,7 +10971,7 @@ Tu es organisateur d'espace de travail physique. Tu appliques les 3 zones avec d
 ---
 ---
 
-## 1375. ⏱ La regle des 5 minutes pour le courrier (2027)
+## 1375. ⏱ La regle des 5 minutes pour le courrier
 
 
 
@@ -11030,7 +11030,7 @@ Tu es coach en gestion du courrier et du temps administratif. Tu appliques la re
 ---
 ---
 
-## 1376. 📥 Dematérialiser ses documents (scan, coffre-fort, 2027)
+## 1376. 📥 Dematérialiser ses documents (scan, coffre-fort)
 
 
 
@@ -11089,7 +11089,7 @@ Tu es archiviste numerique personnel. Tu donnes la methode scan + nommage + stoc
 ---
 ---
 
-## 1377. 🗂 Session hebdomadaire de classement papier (15 min, 2027)
+## 1377. 🗂 Session hebdomadaire de classement papier (15 min)
 
 
 
@@ -11148,7 +11148,7 @@ Tu es coach en routines administratives hebdomadaires. Tu fixes le rituel (jour 
 ---
 ---
 
-## 1378. 🎥 Preparer une visioconference hybride bien equipee (2027)
+## 1378. 🎥 Preparer une visioconference hybride bien equipee
 
 
 
@@ -11207,7 +11207,7 @@ Tu es facilitateur de réunions hybrides. Tu fournis la checklist materiel (micr
 ---
 ---
 
-## 1379. ✍ Gerer une procuration en ligne (2027)
+## 1379. ✍ Gerer une procuration en ligne
 
 
 
@@ -11266,7 +11266,7 @@ Tu es guide de demarches administratives par mandataire. Tu rappelles le princip
 ---
 ---
 
-## 1380. 🏛 Choisir son modele economique (SaaS, licence, usage, 2027)
+## 1380. 🏛 Choisir son modele economique (SaaS, licence, usage)
 
 
 
@@ -11326,7 +11326,7 @@ Tu es consultant en business model. Tu compares SaaS, licence, usage-based et fr
 ---
 ---
 
-## 1381. ⚖ Strategie de croissance : acquisition vs retention (2027)
+## 1381. ⚖ Strategie de croissance : acquisition vs retention
 
 
 
@@ -11386,7 +11386,7 @@ Tu es consultant en croissance et métriques SaaS. Tu calcules CAC, LTV et le ra
 ---
 ---
 
-## 1382. 🗺 Rediger un plan strategique a 3 ans (2027-2029)
+## 1382. 🗺 Rediger un plan strategique a 3 ans
 
 
 
@@ -11445,7 +11445,7 @@ Tu es consultant en stratégie d'entreprise. Tu structures le plan en vision / o
 ---
 ---
 
-## 1383. ✈ Preparer une strategie d'export a l'international (2027)
+## 1383. ✈ Preparer une strategie d'export a l'international
 
 
 
@@ -11505,7 +11505,7 @@ Tu es consultant en développement international. Tu fais scorer les pays (march
 ---
 ---
 
-## 1384. 🤝 Evaluer une cible pour une acquisition (M&A, 2027)
+## 1384. 🤝 Evaluer une cible pour une acquisition (M&A)
 
 
 
@@ -11564,7 +11564,7 @@ Tu es analyste en fusion-acquisition (M&A). Tu appliques 2-3 methodes de valoris
 ---
 ---
 
-## 1385. 🌱 Integrer l'ESG et la RSE au business model (2027)
+## 1385. 🌱 Integrer l'ESG et la RSE au business model
 
 
 
@@ -11623,7 +11623,7 @@ Tu es consultant en stratégie RSE et conformité CSRD. Tu relies chaque levier 
 ---
 ---
 
-## 1386. 📚 Construire une bibliographie académique (Zotero, 2027)
+## 1386. 📚 Construire une bibliographie académique (Zotero)
 
 
 
@@ -11682,7 +11682,7 @@ Tu es documentaliste académique specialise Zotero. Tu decris le flux complet (c
 ---
 ---
 
-## 1387. 🔬 Lire et critiquer une etude scientifique (2027)
+## 1387. 🔬 Lire et critiquer une etude scientifique
 
 
 
@@ -11741,7 +11741,7 @@ Tu es lecteur critique d'études scientifiques. Tu appliques une grille de lectu
 ---
 ---
 
-## 1388. 🧾 Faire une revue de litterature systematique (PRISMA, 2027)
+## 1388. 🧾 Faire une revue de litterature systematique (PRISMA)
 
 
 
@@ -11800,7 +11800,7 @@ Tu es méthodologue en revue systématique PRISMA. Tu déroules les étapes PRIS
 ---
 ---
 
-## 1389. 🪞 Eviter les biais de confirmation dans sa recherche d'info (2027)
+## 1389. 🪞 Eviter les biais de confirmation dans sa recherche d'info
 
 
 
@@ -11859,7 +11859,7 @@ Tu es chercheur méthodique anti-biais. Tu appliques le protocole : reformuler l
 ---
 ---
 
-## 1390. ⚖ Rechercher dans les textes officiels (Legifrance, JO, 2027)
+## 1390. ⚖ Rechercher dans les textes officiels (Legifrance, JO)
 
 
 
@@ -11918,7 +11918,7 @@ Tu es juriste documentaire specialise Légifrance. Tu montres le chemin de reche
 ---
 ---
 
-## 1391. ⭐ Modeliser un schema en etoile (dimensions et faits, 2027)
+## 1391. ⭐ Modeliser un schema en etoile (dimensions et faits)
 
 
 
@@ -11977,7 +11977,7 @@ Tu es architecte de données specialise modélisation dimensionnelle. Tu identif
 ---
 ---
 
-## 1392. 📉 Choisir le bon graphique pour ses donnees (2027)
+## 1392. 📉 Choisir le bon graphique pour ses donnees
 
 
 
@@ -12036,7 +12036,7 @@ Tu es data designer specialise visualisation. Tu fais le diagnostic : quel type 
 ---
 ---
 
-## 1393. 🏷 Documenter un dataset (data card, 2027)
+## 1393. 🏷 Documenter un dataset (data card)
 
 
 
@@ -12096,7 +12096,7 @@ Tu es data steward specialise documentation de datasets. Tu remplis les 7 blocs 
 ---
 ---
 
-## 1394. 🏁 Benchmarker des datasets publics pour son cas d'usage (2027)
+## 1394. 🏁 Benchmarker des datasets publics pour son cas d'usage
 
 
 
@@ -12155,7 +12155,7 @@ Tu es chasseur de données publiques. Tu listes les sources par type (officielle
 ---
 ---
 
-## 1395. 🥇 Construire un golden set d'evaluations pour un agent IA (2027)
+## 1395. 🥇 Construire un golden set d'evaluations pour un agent IA
 
 
 
@@ -12214,7 +12214,7 @@ Tu es evaluateur d'agents IA (evals engineer). Tu construis le golden set par fa
 ---
 ---
 
-## 1396. 🧹 Preparer un dataset propre pour le fine-tuning (2027)
+## 1396. 🧹 Preparer un dataset propre pour le fine-tuning
 
 
 
@@ -12273,7 +12273,7 @@ Tu es data engineer specialise préparation LLM. Tu appliques le pipeline : coll
 ---
 ---
 
-## 1397. 📏 Mesurer la qualite d'un RAG (fidelite, pertinence, 2027)
+## 1397. 📏 Mesurer la qualite d'un RAG (fidelite, pertinence)
 
 
 
@@ -12332,7 +12332,7 @@ Tu es evaluateur de systèmes RAG. Tu définis les 4 métriques avec leur formul
 ---
 ---
 
-## 1398. 🎤 Gerer une question piege en interview ou en media (2027)
+## 1398. 🎤 Gerer une question piege en interview ou en media
 
 
 
@@ -12391,7 +12391,7 @@ Tu es media trainer specialise interviews difficiles. Tu prepares 3 messages cle
 ---
 ---
 
-## 1399. 📣 Annoncer un changement sensible avec humanite (2027)
+## 1399. 📣 Annoncer un changement sensible avec humanite
 
 
 
@@ -12451,7 +12451,7 @@ Tu es communicant interne specialise changements difficiles. Tu structures le me
 ---
 ---
 
-## 1400. 🔀 Git rebase interactif et historique propre (2027)
+## 1400. 🔀 Git rebase interactif et historique propre
 
 
 
@@ -12509,7 +12509,7 @@ Tu es expert Git et hygiène de dépôt. Tu donnes les commandes exactes (git re
 ---
 ---
 
-## 1401. 🔍 Revue de code constructive (2027)
+## 1401. 🔍 Revue de code constructive
 
 
 
@@ -12568,7 +12568,7 @@ Tu es relecteur de code senior bienveillant. Tu proposes une méthode en 3 passe
 ---
 ---
 
-## 1402. ⚔️ Gerer les conflits de merge (2027)
+## 1402. ⚔️ Gerer les conflits de merge
 
 
 
@@ -12627,7 +12627,7 @@ Tu es médiateur de conflits Git. Tu expliques les 3 options (garder HEAD, garde
 ---
 ---
 
-## 1403. 🪝 Hooks Git et pre-commit (2027)
+## 1403. 🪝 Hooks Git et pre-commit
 
 
 
@@ -12686,7 +12686,7 @@ Tu es outilleur de dépôt Git. Tu donnes la config .pre-commit-config.yaml type
 ---
 ---
 
-## 1404. 🌳 Strategie de branching : GitFlow vs trunk-based (2027)
+## 1404. 🌳 Strategie de branching : GitFlow vs trunk-based
 
 
 
@@ -12745,7 +12745,7 @@ Tu es architecte de workflow Git. Tu compares les 3 modèles sur 5 critères (fr
 ---
 ---
 
-## 1405. 🧰 Refactoring en securite : petits pas et tests (2027)
+## 1405. 🧰 Refactoring en securite : petits pas et tests
 
 
 
@@ -12803,7 +12803,7 @@ Tu es chirurgien de code legacy. Tu appliques la méthode de Feathers : tests de
 ---
 ---
 
-## 1406. 📖 Documentation vivante (docs-as-code, 2027)
+## 1406. 📖 Documentation vivante (docs-as-code)
 
 
 
@@ -12862,7 +12862,7 @@ Tu es rédacteur technique docs-as-code. Tu proposes l'architecture (doc dans /d
 ---
 ---
 
-## 1407. 💬 Commentaires utiles dans le code (2027)
+## 1407. 💬 Commentaires utiles dans le code
 
 
 
@@ -12921,7 +12921,7 @@ Tu es coach de lisibilité de code. Tu appliques la règle 'le code dit quoi, le
 ---
 ---
 
-## 1408. ⚠️ Gestion propre des erreurs et exceptions (2027)
+## 1408. ⚠️ Gestion propre des erreurs et exceptions
 
 
 
@@ -12980,7 +12980,7 @@ Tu es architecte de robustesse applicative. Tu montres la règle 'attraper au ni
 ---
 ---
 
-## 1409. 📝 Logging structure et niveaux de log (2027)
+## 1409. 📝 Logging structure et niveaux de log
 
 
 
@@ -13039,7 +13039,7 @@ Tu es ingénieur observabilité (logs). Tu proposes le format JSON (level, msg, 
 ---
 ---
 
-## 1410. ⚙️ Configuration par environnement (12-factor, 2027)
+## 1410. ⚙️ Configuration par environnement (12-factor)
 
 
 
@@ -13098,7 +13098,7 @@ Tu es architecte 12-factor. Tu donnes la structure (.env.example versionné, .en
 ---
 ---
 
-## 1411. 📦 Docker multi-stage et images legeres (2027)
+## 1411. 📦 Docker multi-stage et images legeres
 
 
 
@@ -13157,7 +13157,7 @@ Tu es dockeriseur d'applications. Tu fournis le Dockerfile multi-stage type (FRO
 ---
 ---
 
-## 1412. ☸️ Kubernetes : ConfigMaps, secrets et deploiement (2027)
+## 1412. ☸️ Kubernetes : ConfigMaps, secrets et deploiement
 
 
 
@@ -13217,7 +13217,7 @@ Tu es opérateur Kubernetes. Tu fournis les manifestes types (Deployment + sonde
 ---
 ---
 
-## 1413. ⏩ Pipeline CI rapide : cache et parallelisation (2027)
+## 1413. ⏩ Pipeline CI rapide : cache et parallelisation
 
 
 
@@ -13276,7 +13276,7 @@ Tu es optimiseur de CI/CD. Tu donnes les recettes (actions/cache key=hash(lockfi
 ---
 ---
 
-## 1414. 🤝 Tests de contrat consommateur (Pact, 2027)
+## 1414. 🤝 Tests de contrat consommateur (Pact)
 
 
 
@@ -13335,7 +13335,7 @@ Tu es architecte de contrats d'API. Tu décris le flow Pact (consumer écrit le 
 ---
 ---
 
-## 1415. 🚀 Tests de performance avec k6 ou Locust (2027)
+## 1415. 🚀 Tests de performance avec k6 ou Locust
 
 
 
@@ -13394,7 +13394,7 @@ Tu es ingénieur performance. Tu fournis un script k6 type (scénario, ramp-up, 
 ---
 ---
 
-## 1416. 📈 Monitoring applicatif Prometheus et Grafana (2027)
+## 1416. 📈 Monitoring applicatif Prometheus et Grafana
 
 
 
@@ -13453,7 +13453,7 @@ Tu es SRE monitoring. Tu donnes les 4 golden signals (latence, trafic, erreurs, 
 ---
 ---
 
-## 1417. 🔔 Alerting sans bruit : alert fatigue (2027)
+## 1417. 🔔 Alerting sans bruit : alert fatigue
 
 
 
@@ -13512,7 +13512,7 @@ Tu es SRE alerting. Tu appliques le principe 'alerte = action requise maintenant
 ---
 ---
 
-## 1418. 🚩 Rollout progressif et deploiement canary (2027)
+## 1418. 🚩 Rollout progressif et deploiement canary
 
 
 
@@ -13571,7 +13571,7 @@ Tu es release manager canary. Tu décris les paliers (5→25→50→100 %) avec 
 ---
 ---
 
-## 1419. 🗃️ Indexation avancee des bases de donnees (2027)
+## 1419. 🗃️ Indexation avancee des bases de donnees
 
 
 
@@ -13630,7 +13630,7 @@ Tu es DBA performance. Tu exiges EXPLAIN ANALYZE avant tout index, tu expliques 
 ---
 ---
 
-## 1420. 🪟 SQL avance : fonctions fenetres (window functions, 2027)
+## 1420. 🪟 SQL avance : fonctions fenetres (window functions)
 
 
 
@@ -13689,7 +13689,7 @@ Tu es analyste SQL avancé. Tu expliques OVER (PARTITION BY + ORDER BY + frame),
 ---
 ---
 
-## 1421. 🔒 Transactions, verrouillage et deadlocks (2027)
+## 1421. 🔒 Transactions, verrouillage et deadlocks
 
 
 
@@ -13748,7 +13748,7 @@ Tu es DBA concurrence. Tu expliques ACID, les niveaux d'isolation et leurs anoma
 ---
 ---
 
-## 1422. 🗄️ Choisir sa base NoSQL : MongoDB, Redis, Cassandra (2027)
+## 1422. 🗄️ Choisir sa base NoSQL : MongoDB, Redis, Cassandra
 
 
 
@@ -13807,7 +13807,7 @@ Tu es architecte de données NoSQL. Tu fais une matrice de décision (modèle, v
 ---
 ---
 
-## 1423. ⏱️ Cache applicatif et invalidation (2027)
+## 1423. ⏱️ Cache applicatif et invalidation
 
 
 
@@ -13866,7 +13866,7 @@ Tu es architecte de cache. Tu expliques cache-aside, le choix du TTL selon la fr
 ---
 ---
 
-## 1424. 🛡 Validation des donnees et contraintes BDD (2027)
+## 1424. 🛡 Validation des donnees et contraintes BDD
 
 
 
@@ -13925,7 +13925,7 @@ Tu es gardien de l'intégrité des données. Tu montres la défense en profondeu
 ---
 ---
 
-## 1425. 🧩 Systeme de prompts modulaire (bibliotheque, 2027)
+## 1425. 🧩 Systeme de prompts modulaire (bibliotheque)
 
 
 
@@ -13984,7 +13984,7 @@ Tu es architecte de prompts. Tu proposes une structure (dossier /prompts avec co
 ---
 ---
 
-## 1426. 📝 Few-shot : exemples dans les prompts (2027)
+## 1426. 📝 Few-shot : exemples dans les prompts
 
 
 
@@ -14043,7 +14043,7 @@ Tu es prompt engineer few-shot. Tu expliques la règle 3-5 exemples variés (cas
 ---
 ---
 
-## 1427. 🧱 Sortie JSON fiable et validee (2027)
+## 1427. 🧱 Sortie JSON fiable et validee
 
 
 
@@ -14102,7 +14102,7 @@ Tu es ingénieur sortie structurée. Tu donnes la recette : schéma JSON dans le
 ---
 ---
 
-## 1428. 🔁 Agents en boucle ReAct et planification (2027)
+## 1428. 🔁 Agents en boucle ReAct et planification
 
 
 
@@ -14161,7 +14161,7 @@ Tu es architecte d'agents ReAct. Tu décris la boucle (prompt système avec form
 ---
 ---
 
-## 1429. 🛠️ Concevoir les outils (tools) d'un agent (2027)
+## 1429. 🛠️ Concevoir les outils (tools) d'un agent
 
 
 
@@ -14220,7 +14220,7 @@ Tu es concepteur d'outils d'agent. Tu donnes les règles : nom en verbe_snake_ca
 ---
 ---
 
-## 1430. 🧠 Gerer le contexte long (200k tokens, 2027)
+## 1430. 🧠 Gerer le contexte long (200k tokens)
 
 
 
@@ -14279,7 +14279,7 @@ Tu es architecte de contexte LLM. Tu expliques l'effet lost-in-the-middle (perte
 ---
 ---
 
-## 1431. 🗜️ Compaction et resume de conversation (2027)
+## 1431. 🗜️ Compaction et resume de conversation
 
 
 
@@ -14338,7 +14338,7 @@ Tu es architecte de compaction. Tu définis le seuil (80 % fenêtre), le prompt 
 ---
 ---
 
-## 1432. 👥 Equipe d'agents specialises par domaine (2027)
+## 1432. 👥 Equipe d'agents specialises par domaine
 
 
 
@@ -14397,7 +14397,7 @@ Tu es architecte multi-agents. Tu définis les rôles (orchestrateur + experts a
 ---
 ---
 
-## 1433. 🧑‍💻 Human-in-the-loop multi-niveaux (2027)
+## 1433. 🧑‍💻 Human-in-the-loop multi-niveaux
 
 
 
@@ -14456,7 +14456,7 @@ Tu es concepteur de points de contrôle humains. Tu classes les actions en 3 niv
 ---
 ---
 
-## 1434. 🧠 Memoire d'agent : episodique vs semantique (2027)
+## 1434. 🧠 Memoire d'agent : episodique vs semantique
 
 
 
@@ -14515,7 +14515,7 @@ Tu es architecte de mémoire d'agent. Tu distingue les 3 types de mémoire (sém
 ---
 ---
 
-## 1435. ⚖️ A/B testing de prompts en production (2027)
+## 1435. ⚖️ A/B testing de prompts en production
 
 
 
@@ -14574,7 +14574,7 @@ Tu es experimentateur de prompts. Tu définis le design : split 50/50 aléatoire
 ---
 ---
 
-## 1436. 📎 Grounding : ancrer les reponses sur des sources (2027)
+## 1436. 📎 Grounding : ancrer les reponses sur des sources
 
 
 
@@ -14633,7 +14633,7 @@ Tu es expert anti-hallucination. Tu écris le system prompt de grounding (citer 
 ---
 ---
 
-## 1437. ✅ Auto-verification multi-passes (self-check, 2027)
+## 1437. ✅ Auto-verification multi-passes (self-check)
 
 
 
@@ -14692,7 +14692,7 @@ Tu es réviseur IA interne. Tu donnes le pattern 2 passes (génération puis cri
 ---
 ---
 
-## 1438. 📱 Deployer un SLM on-device (mobile/edge, 2027)
+## 1438. 📱 Deployer un SLM on-device (mobile/edge)
 
 
 
@@ -14751,7 +14751,7 @@ Tu es ingénieur IA embarquée. Tu compares les runtimes (llama.cpp Android/iOS,
 ---
 ---
 
-## 1439. ⏩️ UX du streaming des reponses LLM (2027)
+## 1439. ⏩️ UX du streaming des reponses LLM
 
 
 
@@ -14810,7 +14810,7 @@ Tu es designer d'interaction LLM. Tu proposes : stream SSE/WebSocket, premier to
 ---
 ---
 
-## 1440. 🙈 Detecter PII et donnees sensibles dans les prompts (2027)
+## 1440. 🙈 Detecter PII et donnees sensibles dans les prompts
 
 
 
@@ -14869,7 +14869,7 @@ Tu es responsable protection des données (DP) technique. Tu proposes le pipelin
 ---
 ---
 
-## 1441. 🔀 Cascade de modeles : router chaque tache au bon LLM (2027)
+## 1441. 🔀 Cascade de modeles : router chaque tache au bon LLM
 
 
 
@@ -14928,7 +14928,7 @@ Tu es architecte d'inférence économique. Tu donnes le pattern (classificateur 
 ---
 ---
 
-## 1442. 💾 Cache semantique des reponses LLM (2027)
+## 1442. 💾 Cache semantique des reponses LLM
 
 
 
@@ -14987,7 +14987,7 @@ Tu es architecte de cache LLM. Tu expliques le flow (embed requête → recherch
 ---
 ---
 
-## 1443. 🔢 Choisir son modele d'embeddings (2027)
+## 1443. 🔢 Choisir son modele d'embeddings
 
 
 
@@ -15046,7 +15046,7 @@ Tu es architecte retrieval. Tu cites les familles (multilingual-e5, BGE, OpenAI 
 ---
 ---
 
-## 1444. ✂️ Chunking avance pour le RAG (2027)
+## 1444. ✂️ Chunking avance pour le RAG
 
 
 
@@ -15105,7 +15105,7 @@ Tu es architecte RAG (chunking). Tu compares fixe vs sémantique vs hiérarchiqu
 ---
 ---
 
-## 1445. 🔄 Mise a jour automatique des dependances (2027)
+## 1445. 🔄 Mise a jour automatique des dependances
 
 
 
@@ -15164,7 +15164,7 @@ Tu es responsable supply chain code. Tu configures Dependabot/Renovate (fréquen
 ---
 ---
 
-## 1446. 🔑 Rotation automatique des secrets et cles API (2027)
+## 1446. 🔑 Rotation automatique des secrets et cles API
 
 
 
@@ -15223,7 +15223,7 @@ Tu es responsable gestion des secrets. Tu décris le vault (stockage chiffré, A
 ---
 ---
 
-## 1447. 🚡 IAM cloud : auditer et reduire les permissions (2027)
+## 1447. 🚡 IAM cloud : auditer et reduire les permissions
 
 
 
@@ -15282,7 +15282,7 @@ Tu es auditeur IAM cloud. Tu utilises les outils (AWS IAM Access Analyzer, GCP R
 ---
 ---
 
-## 1448. 🔒 Messagerie chiffree de bout en bout (E2EE, 2027)
+## 1448. 🔒 Messagerie chiffree de bout en bout (E2EE)
 
 
 
@@ -15340,7 +15340,7 @@ Tu es conseiller confidentialité des communications. Tu compares Signal (simple
 ---
 ---
 
-## 1449. 🔑 Deployer les passkeys (FIDO2) en entreprise (2027)
+## 1449. 🔑 Deployer les passkeys (FIDO2) en entreprise
 
 
 
@@ -15399,7 +15399,7 @@ Tu es architecte authentification forte. Tu expliques FIDO2/WebAuthn (clé priv�
 ---
 ---
 
-## 1450. 🔐 OAuth2 et OIDC : flows et securite PKCE (2027)
+## 1450. 🔐 OAuth2 et OIDC : flows et securite PKCE
 
 
 
@@ -15458,7 +15458,7 @@ Tu es architecte identité OAuth2. Tu rappelles les règles 2027 : PKCE obligato
 ---
 ---
 
-## 1451. 🛡 Protection DDoS applicative (WAF, 2027)
+## 1451. 🛡 Protection DDoS applicative (WAF)
 
 
 
@@ -15517,7 +15517,7 @@ Tu es architecte WAF. Tu configures : règles managées (OWASP ModSecurity), rat
 ---
 ---
 
-## 1452. 🧵 CSP stricte contre les attaques XSS (2027)
+## 1452. 🧵 CSP stricte contre les attaques XSS
 
 
 
@@ -15576,7 +15576,7 @@ Tu es durcisseur de front web. Tu donnes la démarche : CSP en report-only 1 sem
 ---
 ---
 
-## 1453. 🔎 SIEM open source : centraliser les logs de securite (2027)
+## 1453. 🔎 SIEM open source : centraliser les logs de securite
 
 
 
@@ -15635,7 +15635,7 @@ Tu es analyste SOC. Tu compares Wazuh (agents légers, règles prêtes, HIDS) vs
 ---
 ---
 
-## 1454. 🎯 Exercice de crise cyber : tabletop (2027)
+## 1454. 🎯 Exercice de crise cyber : tabletop
 
 
 
@@ -15694,7 +15694,7 @@ Tu es facilitateur de crise cyber. Tu prépares le scénario (ransomware le vend
 ---
 ---
 
-## 1455. ⚖️ Privacy by design : RGPD dans le code (2027)
+## 1455. ⚖️ Privacy by design : RGPD dans le code
 
 
 
@@ -15753,7 +15753,7 @@ Tu es DPO technique. Tu appliques la checklist RGPD art. 25 par feature : donné
 ---
 ---
 
-## 1456. 📱 Securiser une app mobile (pinning, stockage, 2027)
+## 1456. 📱 Securiser une app mobile (pinning, stockage)
 
 
 
@@ -15812,7 +15812,7 @@ Tu es pentester mobile. Tu liste les 5 mesures : pinning (TrustKit/Network Secur
 ---
 ---
 
-## 1457. ✅ Integrite des paquets : signatures et SLSA (2027)
+## 1457. ✅ Integrite des paquets : signatures et SLSA
 
 
 
@@ -15871,7 +15871,7 @@ Tu es responsable supply chain. Tu donnes la chaîne de confiance : lockfile + h
 ---
 ---
 
-## 1458. 🍯️ Honeypot pour detecter les scans et attaques (2027)
+## 1458. 🍯️ Honeypot pour detecter les scans et attaques
 
 
 
@@ -15930,7 +15930,7 @@ Tu es analyste de menaces (CTI). Tu choisis le type (bas interaction Cowrie pour
 ---
 ---
 
-## 1459. 🏆 Se preparer a la certification ISO 27001 (2027)
+## 1459. 🏆 Se preparer a la certification ISO 27001
 
 
 
@@ -15990,7 +15990,7 @@ Tu es responsable SMSI. Tu déroules : périmètre, gap analysis (annexe A), tra
 ---
 ---
 
-## 1460. 🎠 Orchestrer des pipelines avec Airflow, Prefect ou Dagster (2027)
+## 1460. 🎠 Orchestrer des pipelines avec Airflow, Prefect ou Dagster
 
 
 
@@ -16049,7 +16049,7 @@ Tu es architecte de pipelines data. Tu compares les 3 orchestrateurs (Airflow ma
 ---
 ---
 
-## 1461. 💥 Detecter le schema drift (rupture de schema, 2027)
+## 1461. 💥 Detecter le schema drift (rupture de schema)
 
 
 
@@ -16108,7 +16108,7 @@ Tu es data steward contrats. Tu définis le data contract (schéma JSON : colonn
 ---
 ---
 
-## 1462. ⏱️ TSDB et series temporelles : InfluxDB, TimescaleDB (2027)
+## 1462. ⏱️ TSDB et series temporelles : InfluxDB, TimescaleDB
 
 
 
@@ -16167,7 +16167,7 @@ Tu es architecte de données temporelles. Tu compares TimescaleDB (SQL, hypertab
 ---
 ---
 
-## 1463. 🏔️ Warehouse vs data lake vs lakehouse (2027)
+## 1463. 🏔️ Warehouse vs data lake vs lakehouse
 
 
 
@@ -16226,7 +16226,7 @@ Tu es architecte de plateforme data. Tu compares les 3 architectures (coût, gou
 ---
 ---
 
-## 1464. 🂬 Kafka : topics, partitions et consumer groups (2027)
+## 1464. 🂬 Kafka : topics, partitions et consumer groups
 
 
 
@@ -16285,7 +16285,7 @@ Tu es architecte streaming. Tu expliques : partition = unité de parallélisme, 
 ---
 ---
 
-## 1465. 🎭 Anonymisation et pseudonymisation des donnees (RGPD, 2027)
+## 1465. 🎭 Anonymisation et pseudonymisation des donnees (RGPD)
 
 
 
@@ -16344,7 +16344,7 @@ Tu es DPO data. Tu distingues pseudonymisation (réversible, reste des données 
 ---
 ---
 
-## 1466. 🧬 Provenance et lineage des donnees (2027)
+## 1466. 🧬 Provenance et lineage des donnees
 
 
 
@@ -16403,7 +16403,7 @@ Tu es data steward lineage. Tu mets en place la collecte de lineage (OpenLineage
 ---
 ---
 
-## 1467. 💸 Reduire sa facture cloud data (BigQuery, Snowflake, 2027)
+## 1467. 💸 Reduire sa facture cloud data (BigQuery, Snowflake)
 
 
 
@@ -16462,7 +16462,7 @@ Tu es FinOps data. Tu analyses la facture (query log : quelles requêtes scannen
 ---
 ---
 
-## 1468. 🏪 Feature store pour le ML en production (2027)
+## 1468. 🏪 Feature store pour le ML en production
 
 
 
@@ -16521,7 +16521,7 @@ Tu es ML engineer feature store. Tu expliques le problème (features différente
 ---
 ---
 
-## 1469. 📚 Centraliser et requeter ses logs applicatifs (ELK, Loki, 2027)
+## 1469. 📚 Centraliser et requeter ses logs applicatifs (ELK, Loki)
 
 
 
@@ -16580,7 +16580,7 @@ Tu es architecte observabilité logs. Tu compares Loki (labels, pas d'index full
 ---
 ---
 
-## 1470. 📂 Versionner modeles et donnees avec DVC et MLflow (2027)
+## 1470. 📂 Versionner modeles et donnees avec DVC et MLflow
 
 
 
@@ -16639,7 +16639,7 @@ Tu es MLOps engineer. Tu montres le workflow : DVC pour data+modèles (dvc add, 
 ---
 ---
 
-## 1471. ⚡ Servir un LLM en API interne avec vLLM (2027)
+## 1471. ⚡ Servir un LLM en API interne avec vLLM
 
 
 
@@ -16698,7 +16698,7 @@ Tu es ML infra engineer. Tu donnes la commande de lancement vLLM (model, quantiz
 ---
 ---
 
-## 1472. 🏠 Servir un modele local quantize (Ollama, llama.cpp, 2027)
+## 1472. 🏠 Servir un modele local quantize (Ollama, llama.cpp)
 
 
 
@@ -16757,7 +16757,7 @@ Tu es ingénieur LLM local. Tu compares Ollama (facile, API REST, catalogue) vs 
 ---
 ---
 
-## 1473. 🧪 Distillation : entrainer un petit modele a partir d'un grand (2027)
+## 1473. 🧪 Distillation : entrainer un petit modele a partir d'un grand
 
 
 
@@ -16816,7 +16816,7 @@ Tu es chercheur distillation. Tu décris le pipeline : sélection de tâches, g�
 ---
 ---
 
-## 1474. 🧭 Alignement leger d'un modele : DPO et RLHF (2027)
+## 1474. 🧭 Alignement leger d'un modele : DPO et RLHF
 
 
 
@@ -16875,7 +16875,7 @@ Tu es chercheur alignement. Tu expliques DPO (fonction de perte sur paires préf
 ---
 ---
 
-## 1475. 🏖️ Sandboxing des agents IA (execution isolee, 2027)
+## 1475. 🏖️ Sandboxing des agents IA (execution isolee)
 
 
 
@@ -16934,7 +16934,7 @@ Tu es architecte sécurité agents. Tu donnes la recette : microVM Firecracker o
 ---
 ---
 
-## 1476. 🔍 Tracer et deboguer un agent IA (traces, 2027)
+## 1476. 🔍 Tracer et deboguer un agent IA (traces)
 
 
 
@@ -16993,7 +16993,7 @@ Tu es observabilité agent. Tu définis le schéma de trace (span par étape : L
 ---
 ---
 
-## 1477. 🔍 Recherche hybride BM25 + embeddings (2027)
+## 1477. 🔍 Recherche hybride BM25 + embeddings
 
 
 
@@ -17052,7 +17052,7 @@ Tu es architecte retrieval hybride. Tu expliques pourquoi chaque voie échoue se
 ---
 ---
 
-## 1478. 🕸️ GraphRAG : interroger un graphe de connaissances (2027)
+## 1478. 🕸️ GraphRAG : interroger un graphe de connaissances
 
 
 
@@ -17111,7 +17111,7 @@ Tu es architecte GraphRAG. Tu décris le pipeline (chunking → LLM extrait enti
 ---
 ---
 
-## 1479. 💰 LoRA et QLoRA : fine-tuner pour peu cher (2027)
+## 1479. 💰 LoRA et QLoRA : fine-tuner pour peu cher
 
 
 
@@ -17170,7 +17170,7 @@ Tu es ML engineer efficacité. Tu expliques LoRA (W = W0 + B·A, rang r, alpha),
 ---
 ---
 
-## 1480. 📄 Rediger une spec produit legere d'une feature (2027)
+## 1480. 📄 Rediger une spec produit legere d'une feature
 
 
 
@@ -17229,7 +17229,7 @@ Tu es product manager pragmatique. Tu fournis le template one-pager (problème +
 ---
 ---
 
-## 1481. ⭐ North Star et arbre de metriques produit (2027)
+## 1481. ⭐ North Star et arbre de metriques produit
 
 
 
@@ -17288,7 +17288,7 @@ Tu es product analyst. Tu appliques la méthode : 1 north star (valeur perçue, 
 ---
 ---
 
-## 1482. 📏 Mesurer l'impact metier d'une feature (2027)
+## 1482. 📏 Mesurer l'impact metier d'une feature
 
 
 
@@ -17347,7 +17347,7 @@ Tu es product analyst experimentation. Tu définis le design : 50/50 via flag, m
 ---
 ---
 
-## 1483. 🧪 Tests utilisateurs a distance (Maze, Useberry, 2027)
+## 1483. 🧪 Tests utilisateurs a distance (Maze, Useberry)
 
 
 
@@ -17406,7 +17406,7 @@ Tu es UX researcher remote. Tu rappelles la règle de Nielsen (5 users détecten
 ---
 ---
 
-## 1484. ♿ Concevoir accessible des le depart (a11y by design, 2027)
+## 1484. ♿ Concevoir accessible des le depart (a11y by design)
 
 
 
@@ -17465,7 +17465,7 @@ Tu es designer accessibilité. Tu fournis la checklist design WCAG 2.2 AA (contr
 ---
 ---
 
-## 1485. 🌐 Preparer son produit au multilingue (i18n/l10n, 2027)
+## 1485. 🌐 Preparer son produit au multilingue (i18n/l10n)
 
 
 
@@ -17524,7 +17524,7 @@ Tu es product manager international. Tu décris l'i18n technique (librairie i18n
 ---
 ---
 
-## 1486. 🔁 Fermer la boucle des feedbacks utilisateurs (2027)
+## 1486. 🔁 Fermer la boucle des feedbacks utilisateurs
 
 
 
@@ -17583,7 +17583,7 @@ Tu es product manager communauté. Tu proposes le rituel hebdo (tri feedback, r�
 ---
 ---
 
-## 1487. 🌅 Deprecier une feature sans perdre ses utilisateurs (sunsetting, 2027)
+## 1487. 🌅 Deprecier une feature sans perdre ses utilisateurs (sunsetting)
 
 
 
@@ -17642,7 +17642,7 @@ Tu es product manager lifecycle. Tu rappelles : mesurer l'usage réel (analytics
 ---
 ---
 
-## 1488. 🤖 Integrer un copilote IA dans son produit (in-app, 2027)
+## 1488. 🤖 Integrer un copilote IA dans son produit (in-app)
 
 
 
@@ -17701,7 +17701,7 @@ Tu es product manager IA in-app. Tu définis le pattern : contexte de l'écran e
 ---
 ---
 
-## 1489. ❓ UX de l'incertitude : afficher la confiance de l'IA (2027)
+## 1489. ❓ UX de l'incertitude : afficher la confiance de l'IA
 
 
 
@@ -17761,7 +17761,7 @@ Tu es UX designer confiance IA. Tu proposes : badge de confiance (vert/orange/ro
 ---
 ---
 
-## 1490. 🛡 Moderation hybride des sorties IA (humain + LLM, 2027)
+## 1490. 🛡 Moderation hybride des sorties IA (humain + LLM)
 
 
 
@@ -17820,7 +17820,7 @@ Tu es responsable modération IA. Tu définis le pipeline : LLM classifie (caté
 ---
 ---
 
-## 1491. 💰 Budgeter une feature IA : cout par requete et par utilisateur (2027)
+## 1491. 💰 Budgeter une feature IA : cout par requete et par utilisateur
 
 
 
@@ -17880,7 +17880,7 @@ Tu es product manager FinOps IA. Tu donnes la formule (coût/requête = (tokens_
 ---
 ---
 
-## 1492. 🔴 Kill switch d'une feature IA (desactivation propre, 2027)
+## 1492. 🔴 Kill switch d'une feature IA (desactivation propre)
 
 
 
@@ -17939,7 +17939,7 @@ Tu es SRE feature IA. Tu mets un flag global (désactivation instantanée, test�
 ---
 ---
 
-## 1493. 🔍 Audit de coherence visuelle d'un produit (2027)
+## 1493. 🔍 Audit de coherence visuelle d'un produit
 
 
 
@@ -17998,7 +17998,7 @@ Tu es design system auditor. Tu décris la méthode : screenshot de 20 écrans c
 ---
 ---
 
-## 1494. ⚡ Prototype cliquable en 1 jour avec l'IA (2027)
+## 1494. ⚡ Prototype cliquable en 1 jour avec l'IA
 
 
 
@@ -18057,7 +18057,7 @@ Tu es product designer IA-first. Tu compares les outils (v0 = composants shadcn,
 ---
 ---
 
-## 1495. 🎬 Accessibilite des animations (prefers-reduced-motion, 2027)
+## 1495. 🎬 Accessibilite des animations (prefers-reduced-motion)
 
 
 
@@ -18116,7 +18116,7 @@ Tu es designer motion accessible. Tu donnes les règles WCAG : 2.3.1 (pas plus d
 ---
 ---
 
-## 1496. 🌓 Thematisation produit : light, dark, high-contrast (2027)
+## 1496. 🌓 Thematisation produit : light, dark, high-contrast
 
 
 
@@ -18175,7 +18175,7 @@ Tu es design system engineer. Tu expliques les tokens sémantiques (--surface, -
 ---
 ---
 
-## 1497. 📊 Analyser les demandes non routees (misses) et boucler (2027)
+## 1497. 📊 Analyser les demandes non routees (misses) et boucler
 
 
 
@@ -18234,7 +18234,7 @@ Tu es analyste du routeur de skills. Tu déroules le cycle : routage.py misses �
 ---
 ---
 
-## 1498. 🔗 Automatisations souveraines avec n8n auto-heberge (2027)
+## 1498. 🔗 Automatisations souveraines avec n8n auto-heberge
 
 
 
@@ -18293,7 +18293,7 @@ Tu es automatisateur souverain. Tu donnes le déploiement (docker-compose, volum
 ---
 ---
 
-## 1499. 🎤 Resumer automatiquement une reunion avec actions (2027)
+## 1499. 🎤 Resumer automatiquement une reunion avec actions
 
 
 
@@ -18352,7 +18352,7 @@ Tu es assistant de réunion IA. Tu compares les outils (Fireflies, Otter, tl;dv,
 ---
 ---
 
-## 1500. 🎮 Choisir son moteur de jeu : Unity, Godot ou Unreal (2027)
+## 1500. 🎮 Choisir son moteur de jeu : Unity, Godot ou Unreal
 
 
 

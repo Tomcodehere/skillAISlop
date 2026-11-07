@@ -1,7 +1,7 @@
 ---
 num: 1790
 date_ajout: "2026-11"
-nom: "Inventaire cryptographique (CBOM) et plan de migration PQC (2027)"
+nom: "Inventaire cryptographique (CBOM) et plan de migration PQC"
 emoji: "🧾"
 domaine: "Sécurité"
 signal: "Préparer la migration post-quantique en 2027 : dresser l'inventaire de toute la cryptographie asymétrique utilisée (CBOM cryptographique : PKI, certificats X.509, TLS, VPN, SSH, signatures de code, HSM) et classer par risque. Contexte : l'ANSSI n'acceptera plus en qualification de produits SANS PQC a partir de 2027, échéance 2030 pour les systèmes a haut risque (roadmap UE). Menace 'Harvest Now, Decrypt Later' : les données chiffrées aujourd'hui peuvent être déchiffrées plus tard par un ordinateur quantique."

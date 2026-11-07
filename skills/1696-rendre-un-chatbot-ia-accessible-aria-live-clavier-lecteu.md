@@ -1,7 +1,7 @@
 ---
 num: 1696
 date_ajout: "2026-11"
-nom: "Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran, 2027)"
+nom: "Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran)"
 emoji: "♿"
 domaine: "Produit & IA"
 signal: "Rendre un chatbot IA accessible en 2027 (WCAG 2.2 AA + EAA 1599) : région aria-live=polite pour les réponses (annoncées au lecteur d'écran 1619), navigation clavier complète (1571), focus géré à l'envoi, contraste 4,5:1 (1484), option 'réduire le mouvement' (1495), alternative humaine proposée (handoff 251), pas de piège clavier. Utilise pour tout chatbot面向 public. N'utilise pas pour un chatbot interne (employés formés)."

@@ -1,6 +1,6 @@
 # Documentation skillAISlop — générée automatiquement (gen_docs.py)
 
-**1800 skills** + 1 routeur (skill 0, non compté) · **29 domaines** · **2607 synonymes** · **1801 FTS** · **1801 vecteurs**
+**1800 skills** + 1 routeur (skill 0, non compté) · **29 domaines** · **2608 synonymes** · **1801 FTS** · **1801 vecteurs**
 
 > Auto-générée par `python3 outils/gen_docs.py` depuis `skills/*.md` + `catalogue/sources.md`. Ne pas éditer à la main.
 

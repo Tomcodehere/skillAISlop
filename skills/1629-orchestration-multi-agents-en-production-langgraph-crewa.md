@@ -1,7 +1,7 @@
 ---
 num: 1629
 date_ajout: "2026-11"
-nom: "Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework, 2027)"
+nom: "Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework)"
 emoji: "🏗️"
 domaine: "IA / Prompting"
 signal: "Orchestrer plusieurs agents en production en 2027 avec un framework (LangGraph, CrewAI, Microsoft Agent Framework, OpenAI Agents SDK, Claude Agent SDK) : graphe de tâches, rôles, mémoire partagée, reprise sur erreur, monitoring (1476). Utilise quand une tâche dépasse un agent seul. N'utilise pas si un agent suffit (1627)."

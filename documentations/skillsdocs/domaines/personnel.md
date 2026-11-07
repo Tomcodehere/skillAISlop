@@ -450,9 +450,9 @@
 - **Fichier** : `skills/800-delegation-a-un-agent-personnel-muse-dots.md` · **Mot-clé** : « agent personnel » · **Nom court** : Agent personnel
 - **Signal** : Déléguer une tâche à un agent IA personnel (Muse, Dots, Duet), courses, réservations, formulaires, achats en ligne · **Synonymes** : « déléguer à un agent ia » · **Cross-refs** : 701, 704, 810 · **Tags** : 2027
 
-## 810. 🧭 Choisir son agent personnel 2026 (Muse, Dots, Duet)
+## 810. 🧭 Choisir son agent personnel (Muse, Dots, Duet)
 
-- **Fichier** : `skills/810-choisir-son-agent-personnel-2026-muse-dots-duet.md` · **Mot-clé** : « choisir son agent personnel » · **Nom court** : Choisir agent perso
+- **Fichier** : `skills/810-choisir-son-agent-personnel-muse-dots-duet.md` · **Mot-clé** : « choisir son agent personnel » · **Nom court** : Choisir agent perso
 - **Signal** : Quel agent IA personnel choisir en 2026, Muse vs Dots vs Duet vs Manus, comparatif agents personnels · **Synonymes** : « muse vs dots » · **Cross-refs** : 800, 688, 335 · **Tags** : 2027
 
 ## 813. 🌙 Digital detox & sommeil-écrans
@@ -515,24 +515,24 @@
 - **Fichier** : `skills/878-reduction-du-bruit-dans-un-open-space.md` · **Mot-clé** : « open space bruyant » · **Nom court** : Open space
 - **Signal** : Open space trop bruyant, concentration au bureau, casque anti-bruit, règles de l'open space, espaces calmes · **Synonymes** : « concentration bureau » · **Cross-refs** : 465, 813, 553 · **Tags** : 2027
 
-## 913. ✈️ ETIAS 2027 : autorisation voyage Europe
+## 913. ✈️ ETIAS : autorisation voyage Europe
 
-- **Fichier** : `skills/913-etias-2027-autorisation-voyage-europe.md` · **Mot-clé** : « etias 2027 » · **Nom court** : ETIAS
+- **Fichier** : `skills/913-etias-autorisation-voyage-europe.md` · **Mot-clé** : « etias 2027 » · **Nom court** : ETIAS
 - **Signal** : ETIAS 2027, autorisation de voyage Schengen 20 €,voyageurs dispensés de visa, lancement prévu 2027, EES déjà en vigueur avril 2026 · **Synonymes** : « autorisation voyage europe » · **Cross-refs** : 865, 656, 42 · **Tags** : 2027
 
-## 914. 🚆 Nouveaux trains Europe 2027 (Munich-Rome, trains de luxe)
+## 914. 🚆 Nouveaux trains Europe (Munich-Rome, trains de luxe)
 
-- **Fichier** : `skills/914-nouveaux-trains-europe-2027-munich-rome-trains-de-luxe.md` · **Mot-clé** : « nouveau train europe 2027 » · **Nom court** : Train Europe 2027
+- **Fichier** : `skills/914-nouveaux-trains-europe-munich-rome-trains-de-luxe.md` · **Mot-clé** : « nouveau train europe 2027 » · **Nom court** : Train Europe
 - **Signal** : Nouvelles lignes de train Europe 2027, Munich-Rome, trains de luxe Espagne, Paris-Cappadoce, réservation anticipée 2027 · **Synonymes** : « ligne munich rome » · **Cross-refs** : 865, 913, 924 · **Tags** : 2027
 
-## 915. 🌡️ Canicule & été 2027 : se préparer
+## 915. 🌡️ Canicule & été : se préparer
 
-- **Fichier** : `skills/915-canicule-ete-2027-se-preparer.md` · **Mot-clé** : « canicule 2027 » · **Nom court** : Canicule 2027
+- **Fichier** : `skills/915-canicule-ete-se-preparer.md` · **Mot-clé** : « canicule 2027 » · **Nom court** : Canicule
 - **Signal** : Canicule été 2027, canicule record, se préparer à l'été 2027, climatisation, hydratation, plan canicule, personnes vulnérables · **Synonymes** : « vague de chaleur 2027 » · **Cross-refs** : 859, 814, 1335 · **Tags** : 2027
 
-## 916. 🧘 Régulation nerveuse & micro-rituels 2027
+## 916. 🧘 Régulation nerveuse & micro-rituels
 
-- **Fichier** : `skills/916-regulation-nerveuse-micro-rituels-2027.md` · **Mot-clé** : « régulation nerveuse » · **Nom court** : Régulation nerveuse
+- **Fichier** : `skills/916-regulation-nerveuse-micro-rituels.md` · **Mot-clé** : « régulation nerveuse » · **Nom court** : Régulation nerveuse
 - **Signal** : Régulation du système nerveux 2027, micro-rituels anti-stress, respiration, pauses, gestion de l'attention, tendance bien-être 2027 · **Synonymes** : « micro-rituels anti stress » · **Cross-refs** : 813, 617, 765 · **Tags** : 2027
 
 ## 917. 🩸 Métabolisme & biomarqueurs personnels (CGM, tests sanguins)
@@ -555,44 +555,44 @@
 - **Fichier** : `skills/932-ees-controle-biometrique-aux-frontieres-schengen.md` · **Mot-clé** : « ees frontière schengen » · **Nom court** : EES
 - **Signal** : EES Entry Exit System, contrôle biométrique frontières Schengen depuis avril 2026, empreintes, facial, délais aéroport 2027 · **Synonymes** : « contrôle biométrique aéroport » · **Cross-refs** : 913, 656, 597 · **Tags** : 2027
 
-## 934. 🧳 Règles bagages cabine & powerbanks 2027
+## 934. 🧳 Règles bagages cabine & powerbanks
 
-- **Fichier** : `skills/934-regles-bagages-cabine-powerbanks-2027.md` · **Mot-clé** : « powerbank cabine avion 2027 » · **Nom court** : Powerbank avion
+- **Fichier** : `skills/934-regles-bagages-cabine-powerbanks.md` · **Mot-clé** : « powerbank cabine avion 2027 » · **Nom court** : Powerbank avion
 - **Signal** : Règles bagages cabine 2027, powerbanks interdits/limités soute, nouvelles règles marchandises dangereuses avions 2027 UE · **Synonymes** : « batterie avion 2027 » · **Cross-refs** : 865, 914, 469 · **Tags** : 2027
 
-## 941. ❤️ Nutrition fonctionnelle & santé cardiovasculaire 2027
+## 941. ❤️ Nutrition fonctionnelle & santé cardiovasculaire
 
-- **Fichier** : `skills/941-nutrition-fonctionnelle-sante-cardiovasculaire-2027.md` · **Mot-clé** : « santé cœur 2027 nutrition » · **Nom court** : Nutrition 2027
+- **Fichier** : `skills/941-nutrition-fonctionnelle-sante-cardiovasculaire.md` · **Mot-clé** : « santé cœur 2027 nutrition » · **Nom court** : Nutrition
 - **Signal** : Santé cardiovasculaire 2027, bêta-glucanes avoine, nitrates betterave, polyphénols, créatine, muscle & longévité 2027, preuves scientifiques · **Synonymes** : « créatine 2027 » · **Cross-refs** : 917, 483, 593 · **Tags** : 2027
 
-## 942. 🛏️ Sommeil & voyages (sleep tourism) 2027
+## 942. 🛏️ Sommeil & voyages (sleep tourism)
 
-- **Fichier** : `skills/942-sommeil-voyages-sleep-tourism-2027.md` · **Mot-clé** : « hôtel sommeil 2027 » · **Nom court** : Sleep tourism
+- **Fichier** : `skills/942-sommeil-voyages-sleep-tourism.md` · **Mot-clé** : « hôtel sommeil 2027 » · **Nom court** : Sleep tourism
 - **Signal** : Sleep tourism 2027, hôtels optimisés sommeil (lumière circadienne, blackout), séjours « sommeil », 8 h de sommeil comme objectif voyage · **Synonymes** : « voyage sommeil » · **Cross-refs** : 814, 915, 1325 · **Tags** : 2027
 
-## 952. 🎰 Prévention des addictions (écrans, jeux, paris) 2027
+## 952. 🎰 Prévention des addictions (écrans, jeux, paris)
 
-- **Fichier** : `skills/952-prevention-des-addictions-ecrans-jeux-paris-2027.md` · **Mot-clé** : « addiction écrans jeux 2027 » · **Nom court** : Prévention addiction
+- **Fichier** : `skills/952-prevention-des-addictions-ecrans-jeux-paris.md` · **Mot-clé** : « addiction écrans jeux 2027 » · **Nom court** : Prévention addiction
 - **Signal** : Prévention addiction aux jeux d'argent/paris en ligne 2027, écrans, réseaux sociaux, jeux vidéo, signaux d'alerte, aide (Joueurs Info Service) · **Synonymes** : « addiction paris en ligne » · **Cross-refs** : 923, 813, 567 · **Tags** : 2027
 
-## 954. 🛂 Vol ou perte de passeport à l'étranger (2027)
+## 954. 🛂 Vol ou perte de passeport à l'étranger
 
-- **Fichier** : `skills/954-vol-ou-perte-de-passeport-a-l-etranger-2027.md` · **Mot-clé** : « passeport volé étranger » · **Nom court** : Passeport volé
+- **Fichier** : `skills/954-vol-ou-perte-de-passeport-a-l-etranger.md` · **Mot-clé** : « passeport volé étranger » · **Nom court** : Passeport volé
 - **Signal** : Passeport volé ou perdu à l'étranger en 2027, déclaration commissariat local, laissez-passer consulat, ETIAS/EES impact, assurance voyage · **Synonymes** : « perdu passeport voyage » · **Cross-refs** : 913, 932, 991 · **Tags** : 2027
 
-## 958. 🌍 Préparation d'une expatriation (visa, banque, santé) 2027
+## 958. 🌍 Préparation d'une expatriation (visa, banque, santé)
 
-- **Fichier** : `skills/958-preparation-d-une-expatriation-visa-banque-sante-2027.md` · **Mot-clé** : « s'expatrier 2027 » · **Nom court** : Expatriation
+- **Fichier** : `skills/958-preparation-d-une-expatriation-visa-banque-sante.md` · **Mot-clé** : « s'expatrier 2027 » · **Nom court** : Expatriation
 - **Signal** : S'expatrier en 2027 : visa long séjour, compte bancaire à l'étranger, assurance santé internationale, impôts (non-résident), ETIAS/ETA selon destination · **Synonymes** : « vivre à l'étranger 2027 » · **Cross-refs** : 933, 656, 684 · **Tags** : 2027
 
-## 959. 🚗 Achat d'une voiture électrique d'occasion (2027)
+## 959. 🚗 Achat d'une voiture électrique d'occasion
 
-- **Fichier** : `skills/959-achat-d-une-voiture-electrique-d-occasion-2027.md` · **Mot-clé** : « voiture électrique occasion 2027 » · **Nom court** : VE occasion
+- **Fichier** : `skills/959-achat-d-une-voiture-electrique-d-occasion.md` · **Mot-clé** : « voiture électrique occasion 2027 » · **Nom court** : VE occasion
 - **Signal** : Acheter une voiture électrique d'occasion en 2027, batterie (SOH), autonomie réelle, bonus écologique, borne de recharge, leasing social · **Synonymes** : « acheter tesla occasion » · **Cross-refs** : 541, 298, 960 · **Tags** : 2027
 
-## 960. 🔌 Installation d'une borne de recharge à domicile (2027)
+## 960. 🔌 Installation d'une borne de recharge à domicile
 
-- **Fichier** : `skills/960-installation-d-une-borne-de-recharge-a-domicile-2027.md` · **Mot-clé** : « borne de recharge domicile » · **Nom court** : Borne recharge
+- **Fichier** : `skills/960-installation-d-une-borne-de-recharge-a-domicile.md` · **Mot-clé** : « borne de recharge domicile » · **Nom court** : Borne recharge
 - **Signal** : Installer une borne de recharge électrique à domicile en 2027, aide CEE/MaPrimeRénov', puissance 7 kW, délestage, copropriété (droit à la prise) · **Synonymes** : « installer wallbox » · **Cross-refs** : 959, 935, 630 · **Tags** : 2027
 
 ## 970. 🩺 Prévenir l'usure professionnelle (santé au travail)
@@ -600,84 +600,84 @@
 - **Fichier** : `skills/970-prevenir-l-usure-professionnelle-sante-au-travail.md` · **Mot-clé** : « usure professionnelle » · **Nom court** : Usure pro
 - **Signal** : Usure professionnelle, TMS, troubles musculo-squelettiques, ergonomie bureau 2027, médecin du travail, aménagement de poste · **Synonymes** : « tms bureau 2027 » · **Cross-refs** : 484, 937, 921 · **Tags** : 2027
 
-## 983. ♻️ Acheter un produit reconditionné en sécurité (2027)
+## 983. ♻️ Acheter un produit reconditionné en sécurité
 
-- **Fichier** : `skills/983-acheter-un-produit-reconditionne-en-securite-2027.md` · **Mot-clé** : « acheter reconditionné 2027 » · **Nom court** : Reconditionné
+- **Fichier** : `skills/983-acheter-un-produit-reconditionne-en-securite.md` · **Mot-clé** : « acheter reconditionné 2027 » · **Nom court** : Reconditionné
 - **Signal** : Acheter reconditionné en 2027 (téléphone, ordinateur), garantie légale 2 ans, Back Market, garantie constructeur, test à réception · **Synonymes** : « back market 2027 » · **Cross-refs** : 851, 842, 976 · **Tags** : 2027
 
-## 984. 🚐 Préparer un road-trip en van aménagé 2027
+## 984. 🚐 Préparer un road-trip en van aménagé
 
-- **Fichier** : `skills/984-preparer-un-road-trip-en-van-amenage-2027.md` · **Mot-clé** : « road trip van 2027 » · **Nom court** : Van 2027
+- **Fichier** : `skills/984-preparer-un-road-trip-en-van-amenage.md` · **Mot-clé** : « road trip van 2027 » · **Nom court** : Van
 - **Signal** : Road-trip van aménagé 2027, louer ou acheter un van, itinéraire, aires de camping-car, budget, assurance, appli Park4Night · **Synonymes** : « van aménagé 2027 » · **Cross-refs** : 865, 914, 995 · **Tags** : 2027
 
-## 985. 💍 Préparer un mariage écolo & petit budget 2027
+## 985. 💍 Préparer un mariage écolo & petit budget
 
-- **Fichier** : `skills/985-preparer-un-mariage-ecolo-petit-budget-2027.md` · **Mot-clé** : « mariage écolo 2027 » · **Nom court** : Mariage écolo
+- **Fichier** : `skills/985-preparer-un-mariage-ecolo-petit-budget.md` · **Mot-clé** : « mariage écolo 2027 » · **Nom court** : Mariage écolo
 - **Signal** : Mariage écolo petit budget 2027, salle champêtre, traiteur local, faire-part numérique, liste de mariage responsable, témoin, mairie · **Synonymes** : « mariage pas cher 2027 » · **Cross-refs** : 863, 541, 658 · **Tags** : 2027
 
-## 986. 🥾 Préparer un trek / randonnée plusieurs jours 2027
+## 986. 🥾 Préparer un trek / randonnée plusieurs jours
 
-- **Fichier** : `skills/986-preparer-un-trek-randonnee-plusieurs-jours-2027.md` · **Mot-clé** : « préparer un trek 2027 » · **Nom court** : Trek 2027
+- **Fichier** : `skills/986-preparer-un-trek-randonnee-plusieurs-jours.md` · **Mot-clé** : « préparer un trek 2027 » · **Nom court** : Trek
 - **Signal** : Préparer un trek plusieurs jours 2027, GR, équipement, refuge, ravitaillement, météo, assurance, appli Visorando, poids du sac · **Synonymes** : « randonnée gr 2027 » · **Cross-refs** : 914, 915, 988 · **Tags** : 2027
 
-## 987. 🎊 Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027
+## 987. 🎊 Organiser un enterrement de vie de célibataire (EVJF/EVG)
 
-- **Fichier** : `skills/987-organiser-un-enterrement-de-vie-de-celibataire-evjf-evg.md` · **Mot-clé** : « organiser un evjf 2027 » · **Nom court** : EVJF 2027
+- **Fichier** : `skills/987-organiser-un-enterrement-de-vie-de-celibataire-evjf-evg.md` · **Mot-clé** : « organiser un evjf 2027 » · **Nom court** : EVJF
 - **Signal** : Organiser un EVJF/EVG 2027, budget, activités, week-end, invitations, surprise, déguisements, sécurité (alcool responsable) · **Synonymes** : « evg 2027 » · **Cross-refs** : 972, 863, 1323 · **Tags** : 2027
 
-## 988. 🚴 Préparer une expédition vélo (cyclotourisme) 2027
+## 988. 🚴 Préparer une expédition vélo (cyclotourisme)
 
-- **Fichier** : `skills/988-preparer-une-expedition-velo-cyclotourisme-2027.md` · **Mot-clé** : « expédition vélo 2027 » · **Nom court** : Cyclotourisme
+- **Fichier** : `skills/988-preparer-une-expedition-velo-cyclotourisme.md` · **Mot-clé** : « expédition vélo 2027 » · **Nom court** : Cyclotourisme
 - **Signal** : Préparer une expédition vélo plusieurs jours 2027, vélo de voyage, sacoches, itinéraire EuroVélo, bagages, mécanique de base, assurance · **Synonymes** : « eurovélo 2027 » · **Cross-refs** : 986, 914, 656 · **Tags** : 2027
 
-## 989. 🛶 Préparer une expédition en kayak/canoë 2027
+## 989. 🛶 Préparer une expédition en kayak/canoë
 
-- **Fichier** : `skills/989-preparer-une-expedition-en-kayak-canoe-2027.md` · **Mot-clé** : « expédition kayak 2027 » · **Nom court** : Kayak 2027
+- **Fichier** : `skills/989-preparer-une-expedition-en-kayak-canoe.md` · **Mot-clé** : « expédition kayak 2027 » · **Nom court** : Kayak
 - **Signal** : Expédition kayak canoë 2027, itinéraire rivière, équipement (gilet, pagaie, casque), niveau, assurance, appli (canoe-kayak) · **Synonymes** : « canoë 2027 » · **Cross-refs** : 986, 988, 995 · **Tags** : 2027
 
-## 991. 📦 Préparer un déménagement à l'étranger (douane, conteneur) 2027
+## 991. 📦 Préparer un déménagement à l'étranger (douane, conteneur)
 
-- **Fichier** : `skills/991-preparer-un-demenagement-a-l-etranger-douane-conteneur-2.md` · **Mot-clé** : « déménagement étranger 2027 » · **Nom court** : Déménagement inter.
+- **Fichier** : `skills/991-preparer-un-demenagement-a-l-etranger-douane-conteneur.md` · **Mot-clé** : « déménagement étranger 2027 » · **Nom court** : Déménagement inter.
 - **Signal** : Déménagement à l'étranger 2027, conteneur maritime, douane (certificat de changement de résidence), inventaire, assurance, prix · **Synonymes** : « déménagement international 2027 » · **Cross-refs** : 958, 954, 699 · **Tags** : 2027
 
-## 994. 🛡️ Souscrire une assurance voyage/rapatriement 2027
+## 994. 🛡️ Souscrire une assurance voyage/rapatriement
 
-- **Fichier** : `skills/994-souscrire-une-assurance-voyage-rapatriement-2027.md` · **Mot-clé** : « assurance voyage 2027 » · **Nom court** : Assurance voyage
+- **Fichier** : `skills/994-souscrire-une-assurance-voyage-rapatriement.md` · **Mot-clé** : « assurance voyage 2027 » · **Nom court** : Assurance voyage
 - **Signal** : Assurance voyage rapatriement sanitaire 2027, carte bancaire vs spécialisée, franchises, exclusions (sports, alcool), plafond · **Synonymes** : « rapatriement sanitaire » · **Cross-refs** : 683, 954, 42 · **Tags** : 2027
 
-## 995. 🏍️ Préparer un road-trip moto 2027
+## 995. 🏍️ Préparer un road-trip moto
 
-- **Fichier** : `skills/995-preparer-un-road-trip-moto-2027.md` · **Mot-clé** : « road trip moto 2027 » · **Nom court** : Moto 2027
+- **Fichier** : `skills/995-preparer-un-road-trip-moto.md` · **Mot-clé** : « road trip moto 2027 » · **Nom court** : Moto
 - **Signal** : Road-trip moto 2027, permis A, équipement de sécurité (casque, airbag, gants), itinéraire sinueux, entretien, assurance, bagages · **Synonymes** : « voyage moto 2027 » · **Cross-refs** : 866, 984, 989 · **Tags** : 2027
 
-## 1311. 🌼 Jardin en prairie fleurie (2027)
+## 1311. 🌼 Jardin en prairie fleurie
 
-- **Fichier** : `skills/1311-jardin-en-prairie-fleurie-2027.md` · **Mot-clé** : « prairie fleurie jardin » · **Nom court** : Prairie fleurie
+- **Fichier** : `skills/1311-jardin-en-prairie-fleurie.md` · **Mot-clé** : « prairie fleurie jardin » · **Nom court** : Prairie fleurie
 - **Signal** : Transformer sa pelouse en prairie fleurie, moins d'arrosage, plus de biodiversité, entretien simplifié 2027 · **Synonymes** : « pelouse alternative » · **Cross-refs** : 915, 958, 661 · **Tags** : 2027
 
-## 1312. 🌳 Haie variée & biodiversité (2027)
+## 1312. 🌳 Haie variée & biodiversité
 
-- **Fichier** : `skills/1312-haie-variee-biodiversite-2027.md` · **Mot-clé** : « haie variée biodiversité » · **Nom court** : Haie variée
+- **Fichier** : `skills/1312-haie-variee-biodiversite.md` · **Mot-clé** : « haie variée biodiversité » · **Nom court** : Haie variée
 - **Signal** : Remplacer une haie de thuyas monospécifique par une haie variée, accueillir oiseaux et insectes, entretien haie 2027 · **Synonymes** : « haie fleurie » · **Cross-refs** : 1311, 661, 292 · **Tags** : 2027
 
-## 1313. 🍳 Cuisine connectée sobre (2027)
+## 1313. 🍳 Cuisine connectée sobre
 
-- **Fichier** : `skills/1313-cuisine-connectee-sobre-2027.md` · **Mot-clé** : « cuisine connectée 2027 » · **Nom court** : Cuisine connectée
+- **Fichier** : `skills/1313-cuisine-connectee-sobre.md` · **Mot-clé** : « cuisine connectée 2027 » · **Nom court** : Cuisine connectée
 - **Signal** : Équiper sa cuisine d'appareils connectés sobres en énergie 2027, économies jusqu'à 35 %, thermomètre connecté, robot cuisine programmable · **Synonymes** : « smart cooking » · **Cross-refs** : 960, 903, 1314 · **Tags** : 2027
 
-## 1314. 🥘 Batch cooking & robot de cuisine (2027)
+## 1314. 🥘 Batch cooking & robot de cuisine
 
-- **Fichier** : `skills/1314-batch-cooking-robot-de-cuisine-2027.md` · **Mot-clé** : « batch cooking 2027 » · **Nom court** : Batch cooking
+- **Fichier** : `skills/1314-batch-cooking-robot-de-cuisine.md` · **Mot-clé** : « batch cooking 2027 » · **Nom court** : Batch cooking
 - **Signal** : Batch cooking, kits repas, robot de cuisine connecté pour préparer ses repas de la semaine en 2027, gagner du temps sans mal manger · **Synonymes** : « preparation repas semaine » · **Cross-refs** : 1313, 216, 486 · **Tags** : 2027
 
-## 1316. 🎨 Déco 2027 : vert Saule & matières durables
+## 1316. 🎨 Déco : vert Saule & matières durables
 
-- **Fichier** : `skills/1316-deco-2027-vert-saule-matieres-durables.md` · **Mot-clé** : « déco 2027 vert saule » · **Nom court** : Déco 2027
+- **Fichier** : `skills/1316-deco-vert-saule-matieres-durables.md` · **Mot-clé** : « déco 2027 vert saule » · **Nom court** : Déco
 - **Signal** : Décoration 2027 : vert Saule couleur de l'année Dulux, matériaux durables (bambou, liège, rotin), pièces à histoire, fin des intérieurs tout blancs · **Synonymes** : « tendance déco 2027 » · **Cross-refs** : 926, 141, 490 · **Tags** : 2027
 
-## 1319. 🏋️ Coach sportif personnel IA (2027)
+## 1319. 🏋️ Coach sportif personnel IA
 
-- **Fichier** : `skills/1319-coach-sportif-personnel-ia-2027.md` · **Mot-clé** : « coach sportif ia » · **Nom court** : Coach IA sport
+- **Fichier** : `skills/1319-coach-sportif-personnel-ia.md` · **Mot-clé** : « coach sportif ia » · **Nom court** : Coach IA sport
 - **Signal** : Coach sportif IA personnalisé 2027, programme d'entraînement adapté, suivi récupération, wearable, sans remplacer le coach humain · **Synonymes** : « programme sport ia » · **Cross-refs** : 917, 916, 214 · **Tags** : 2027
 
 ## 1320. 🥗 Diététicien IA & journal alimentaire
@@ -685,14 +685,14 @@
 - **Fichier** : `skills/1320-dieteticien-ia-journal-alimentaire.md` · **Mot-clé** : « diététicien ia 2027 » · **Nom court** : Diété IA
 - **Signal** : Diététicien IA 2027, journal alimentaire photo, équilibrage des repas, alertes excès, sans régime restrictif, médecin si trouble · **Synonymes** : « nutrition ia » · **Cross-refs** : 941, 917, 622 · **Tags** : 2027
 
-## 1322. 🎁 Conseiller cadeaux IA (2027)
+## 1322. 🎁 Conseiller cadeaux IA
 
-- **Fichier** : `skills/1322-conseiller-cadeaux-ia-2027.md` · **Mot-clé** : « trouver un cadeau ia » · **Nom court** : Cadeau IA
+- **Fichier** : `skills/1322-conseiller-cadeaux-ia.md` · **Mot-clé** : « trouver un cadeau ia » · **Nom court** : Cadeau IA
 - **Signal** : Trouver un cadeau pertinent avec un agent IA 2027 : profil du destinataire, budget, occasion, explication du raisonnement · **Synonymes** : « idée cadeau ia » · **Cross-refs** : 644, 541, 658 · **Tags** : 2027
 
-## 1323. 🧳 Organisateur de voyage IA (2027)
+## 1323. 🧳 Organisateur de voyage IA
 
-- **Fichier** : `skills/1323-organisateur-de-voyage-ia-2027.md` · **Mot-clé** : « organiser voyage ia 2027 » · **Nom court** : Voyage IA
+- **Fichier** : `skills/1323-organisateur-de-voyage-ia.md` · **Mot-clé** : « organiser voyage ia 2027 » · **Nom court** : Voyage IA
 - **Signal** : Organiser un voyage avec un agent IA 2027 : itinéraire personnalisé selon météo/budget, réservations, annulation multi-agents (vol+hôtel+activités) · **Synonymes** : « agent voyage ia » · **Cross-refs** : 656, 993, 42 · **Tags** : 2027
 
 ## 1325. 😴 Coach sommeil IA & hygiène de sommeil
@@ -700,53 +700,53 @@
 - **Fichier** : `skills/1325-coach-sommeil-ia-hygiene-de-sommeil.md` · **Mot-clé** : « coach sommeil ia » · **Nom court** : Sommeil IA
 - **Signal** : Améliorer son sommeil avec un coach IA 2027 : analyse wearable, routine du soir, lumière, caféine, lever fixe, objectif 8 h · **Synonymes** : « mieux dormir ia » · **Cross-refs** : 483, 814, 942 · **Tags** : 2027
 
-## 1327. 🧠 Coach bien-être mental IA (léger) 2027
+## 1327. 🧠 Coach bien-être mental IA (léger)
 
-- **Fichier** : `skills/1327-coach-bien-etre-mental-ia-leger-2027.md` · **Mot-clé** : « bien-être mental ia 2027 » · **Nom court** : Bien-être IA
+- **Fichier** : `skills/1327-coach-bien-etre-mental-ia-leger.md` · **Mot-clé** : « bien-être mental ia 2027 » · **Nom court** : Bien-être IA
 - **Signal** : Coach bien-être mental IA léger 2027 : check-in quotidien, exercices respiration, détection signaux, orientation psy si besoin — pas un thérapeute · **Synonymes** : « santé mentale ia » · **Cross-refs** : 921, 617, 214 · **Tags** : 2027
 
-## 1328. 🛒 Assistant courses & anti-gaspi IA (2027)
+## 1328. 🛒 Assistant courses & anti-gaspi IA
 
-- **Fichier** : `skills/1328-assistant-courses-anti-gaspi-ia-2027.md` · **Mot-clé** : « courses ia 2027 » · **Nom court** : Courses IA
+- **Fichier** : `skills/1328-assistant-courses-anti-gaspi-ia.md` · **Mot-clé** : « courses ia 2027 » · **Nom court** : Courses IA
 - **Signal** : Faire ses courses avec un agent IA 2027 : liste selon le frigo/placards, anti-gaspi, comparaison prix, drive optimisé · **Synonymes** : « liste de courses ia » · **Cross-refs** : 1314, 216, 860 · **Tags** : 2027
 
-## 1330. 📦 Préparation d'un déménagement local (2027)
+## 1330. 📦 Préparation d'un déménagement local
 
-- **Fichier** : `skills/1330-preparation-d-un-demenagement-local-2027.md` · **Mot-clé** : « déménagement local 2027 » · **Nom court** : Déménagement
+- **Fichier** : `skills/1330-preparation-d-un-demenagement-local.md` · **Mot-clé** : « déménagement local 2027 » · **Nom court** : Déménagement
 - **Signal** : Déménager localement en 2027 : camion, volume, cartons, démarches changement d'adresse, faire le tri avant, budget déménagement · **Synonymes** : « changer d'appartement » · **Cross-refs** : 991, 955, 869 · **Tags** : 2027
 
-## 1331. 🩺 Bilan de santé préventif annuel (2027)
+## 1331. 🩺 Bilan de santé préventif annuel
 
-- **Fichier** : `skills/1331-bilan-de-sante-preventif-annuel-2027.md` · **Mot-clé** : « bilan santé préventif » · **Nom court** : Bilan santé
+- **Fichier** : `skills/1331-bilan-de-sante-preventif-annuel.md` · **Mot-clé** : « bilan santé préventif » · **Nom court** : Bilan santé
 - **Signal** : Préparer son bilan de santé préventif 2027 : examen annuel, dépistages selon âge, vaccins, dossier médical, questions pour le médecin · **Synonymes** : « check-up annuel » · **Cross-refs** : 975, 917, 485 · **Tags** : 2027
 
-## 1332. 🦯 Bien vieillir & autonomie (2027)
+## 1332. 🦯 Bien vieillir & autonomie
 
-- **Fichier** : `skills/1332-bien-vieillir-autonomie-2027.md` · **Mot-clé** : « bien vieillir 2027 » · **Nom court** : Bien vieillir
+- **Fichier** : `skills/1332-bien-vieillir-autonomie.md` · **Mot-clé** : « bien vieillir 2027 » · **Nom court** : Bien vieillir
 - **Signal** : Préparer le bien vieillir 2027 : prévention chutes, aménagement logement, aide à domicile, aidant familial,APA, téléassistance · **Synonymes** : « autonomie senior » · **Cross-refs** : 915, 859, 630 · **Tags** : 2027
 
-## 1333. 🐾 Santé de son animal (chien/chat) 2027
+## 1333. 🐾 Santé de son animal (chien/chat)
 
-- **Fichier** : `skills/1333-sante-de-son-animal-chien-chat-2027.md` · **Mot-clé** : « santé animale 2027 » · **Nom court** : Santé animale
+- **Fichier** : `skills/1333-sante-de-son-animal-chien-chat.md` · **Mot-clé** : « santé animale 2027 » · **Nom court** : Santé animale
 - **Signal** : Suivi santé de son chien/chat en 2027 : vaccins, vermifuge, alimentation, signes d'alerte, veto, assurance animale · **Synonymes** : « vaccins chien chat » · **Cross-refs** : 1331, 683, 660 · **Tags** : 2027
 
-## 1335. ⛑️ Premiers secours & trousse d'urgence (2027)
+## 1335. ⛑️ Premiers secours & trousse d'urgence
 
-- **Fichier** : `skills/1335-premiers-secours-trousse-d-urgence-2027.md` · **Mot-clé** : « premiers secours 2027 » · **Nom court** : PSC1
+- **Fichier** : `skills/1335-premiers-secours-trousse-d-urgence.md` · **Mot-clé** : « premiers secours 2027 » · **Nom court** : PSC1
 - **Signal** : Se former aux premiers secours 2027 (PSC1), trousse d'urgence, numéros d'urgence, appli Sauv'Vie, plan canicule/inondation · **Synonymes** : « trousse secours » · **Cross-refs** : 859, 915, 477 · **Tags** : 2027
 
-## 1340. 🚲 Réparation & entretien vélo 2027
+## 1340. 🚲 Réparation & entretien vélo
 
-- **Fichier** : `skills/1340-reparation-entretien-velo-2027.md` · **Mot-clé** : « réparer son vélo » · **Nom court** : Vélo entretien
+- **Fichier** : `skills/1340-reparation-entretien-velo.md` · **Mot-clé** : « réparer son vélo » · **Nom court** : Vélo entretien
 - **Signal** : Entretenir et réparer son vélo en 2027 : crevaison, chaîne, freins, réglage dérailleur, révisions saisonnières, atelier associatif · **Synonymes** : « entretien vélo 2027 » · **Cross-refs** : 988, 959, 655 · **Tags** : 2027
 
-## 1347. 🧹 Désencombrement & minimalisme (2027)
+## 1347. 🧹 Désencombrement & minimalisme
 
-- **Fichier** : `skills/1347-desencombrement-minimalisme-2027.md` · **Mot-clé** : « désencombrer 2027 » · **Nom court** : Désencombrement
+- **Fichier** : `skills/1347-desencombrement-minimalisme.md` · **Mot-clé** : « désencombrer 2027 » · **Nom court** : Désencombrement
 - **Signal** : Désencombrer sa maison en 2027 : méthode KonMari, règle 1 entré = 1 sorti, vente/don, rangement par catégorie, garde-robe capsule · **Synonymes** : « faire le tri » · **Cross-refs** : 1330, 1316, 579 · **Tags** : 2027
 
-## 1349. ♻️ Cuisine anti-gaspi & restes (2027)
+## 1349. ♻️ Cuisine anti-gaspi & restes
 
-- **Fichier** : `skills/1349-cuisine-anti-gaspi-restes-2027.md` · **Mot-clé** : « anti-gaspi cuisine » · **Nom court** : Anti-gaspi
+- **Fichier** : `skills/1349-cuisine-anti-gaspi-restes.md` · **Mot-clé** : « anti-gaspi cuisine » · **Nom court** : Anti-gaspi
 - **Signal** : Cuisiner les restes et éviter le gaspillage en 2027 : recettes anti-gaspi, conservation, congélation, appli Too Good To Go, compost · **Synonymes** : « cuisiner les restes » · **Cross-refs** : 1328, 1314, 566 · **Tags** : 2027
 

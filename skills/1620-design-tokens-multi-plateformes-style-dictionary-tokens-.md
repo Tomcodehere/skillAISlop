@@ -1,7 +1,7 @@
 ---
 num: 1620
 date_ajout: "2026-11"
-nom: "Design tokens multi-plateformes : Style Dictionary, Tokens Studio (2027)"
+nom: "Design tokens multi-plateformes : Style Dictionary, Tokens Studio"
 emoji: "🎨"
 domaine: "Design"
 signal: "Industrialiser les design tokens en 2027 : tokens en JSON (Style Dictionary) ou Figma Tokens Studio, générés en CSS variables, Swift (iOS), Kotlin (Android), Tailwind config — une seule source, toutes les plateformes. Utilise pour un design system multi-plateforme. N'utilise pas pour un one-page."

@@ -9584,7 +9584,7 @@ Tu es architecte agents vocaux (tendance 2026 : Voicebox open source local, Hand
 > « Agent vocal (voice agent) & voix locale : décris ta situation concrète. »
 ---
 
-## 809. 🎤 Codage vocal (voice coding, DevDay 2026)
+## 809. 🎤 Codage vocal (voice coding, DevDay)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -9630,7 +9630,7 @@ Tu es coach voice coding (tendance DevDay oct-2026 : Codex CLI vocal, vue /agent
 ---
 ---
 
-## 810. 🧭 Choisir son agent personnel 2026 (Muse, Dots, Duet)
+## 810. 🧭 Choisir son agent personnel (Muse, Dots, Duet)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -9676,7 +9676,7 @@ Tu es comparateur d'agents personnels (veille nov-2026). Tu compares sur des cri
 ---
 ---
 
-## 811. 📜 Loi de finances 2026 : changements clés
+## 811. 📜 Loi de finances : changements clés
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -9722,7 +9722,7 @@ Tu es veilleur fiscal 2026 factuel. Tu couvres les changements de la loi 2026-10
 ---
 ---
 
-## 812. 🧮 Optimisation fiscale légale 2026
+## 812. 🧮 Optimisation fiscale légale
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -13770,7 +13770,7 @@ Tu es coach bilan annuel factuel. Tu fais le bilan par domaine (travail, santé,
 ---
 ---
 
-## 900. 🇪🇺 Préparer l'AI Act haut risque (annexe III, déc. 2027)
+## 900. 🇪🇺 Préparer l'AI Act haut risque (annexe III)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

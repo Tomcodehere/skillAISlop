@@ -1,7 +1,7 @@
 ---
 num: 1782
 date_ajout: "2026-11"
-nom: "uuidv7() dans PostgreSQL 18 : UUID monotones et localité d'index"
+nom: "uuidv7 dans PostgreSQL 18 : UUID monotones et localité d'index"
 emoji: "🔑"
 domaine: "Data"
 signal: "PG18 ajoute la fonction uuidv7() : UUID v7 = timestamp (48 bits, ms) + aleatoire. Consequence : monotones dans le temps, donc les insertions se font en fin d'index B-tree au lieu de pages aléatoires = localite d'index, moins de page splits, index plus compacts et plus rapides. Remplace uuidv4() pour les nouvelles tables. N'utilise pas si la confidentialité du timestamp d'insert pose probleme (utiliser alors v4)."

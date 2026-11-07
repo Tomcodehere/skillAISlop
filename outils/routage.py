@@ -2679,6 +2679,7 @@ SYNONYMES = [
     ("mettre une gateway LLM devant mes appels IA (LiteLLM Bifrost Portkey Kong Cloudflare)", 1800),
     ("plafonner la conso tokens IA par équipe : budget spend limit clés virtuelles", 1800),
     ("cache sémantique gateway LLM : moins 20 à 40 % de dépenses sur requêtes répétées", 1800),
+    ("quel est le meilleur VPN", 1304),
 
 ]
 
@@ -5937,6 +5938,11 @@ def cmd_lint() -> int:
                 problemes.append(f"{f.name} : date_ajout absente ou invalide (YYYY-MM)")
             else:
                 n_da += 1
+            # R13 : aucune année (20xx) dans le titre (nom / nom_court)
+            for k in ("nom", "nom_court"):
+                mv = re.search(rf'^{k}: "(.*)"$', fm, re.M)
+                if mv and re.search(r"\b20\d{2}\b", mv.group(1)):
+                    problemes.append(f"{f.name} : année 20xx dans le titre ({k} = « {mv.group(1)} »)")
         print(f"  date_ajout : {n_da} skills conformes (YYYY-MM) dans {sk_dir}")
     # skills perso (mesSkillsPerso/) : date_ajout + pas de < > + au moins un mot_cle
     for pd in dossiers_perso():

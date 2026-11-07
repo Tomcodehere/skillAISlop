@@ -1,7 +1,7 @@
 # Corpus — skills 1501-1800
 
 
-## 1501. ⏱️ Boucle de jeu fixe : fixed timestep et interpolation (2027)
+## 1501. ⏱️ Boucle de jeu fixe : fixed timestep et interpolation
 
 
 
@@ -60,7 +60,7 @@ Tu es programmeur gameplay. Tu donnes le pattern de l'accumulateur (accumulator 
 ---
 ---
 
-## 1502. 🎬 Gestion des scenes et transitions (2027)
+## 1502. 🎬 Gestion des scenes et transitions
 
 
 
@@ -119,7 +119,7 @@ Tu es programmeur architecture jeu. Tu donnes l'architecture (scène bootstrap l
 ---
 ---
 
-## 1503. 💾 Sauvegarde et chargement de partie (2027)
+## 1503. 💾 Sauvegarde et chargement de partie
 
 
 
@@ -178,7 +178,7 @@ Tu es programmeur systèmes de jeu. Tu définis le schéma de save (version, dat
 ---
 ---
 
-## 1504. 🎮 Systeme d'input moderne : actions, gamepad, remappable (2027)
+## 1504. 🎮 Systeme d'input moderne : actions, gamepad, remappable
 
 
 
@@ -237,7 +237,7 @@ Tu es programmeur input. Tu maps par action (Jump, Fire...) et non par touche, t
 ---
 ---
 
-## 1505. 📷 Camera 2D : follow, deadzone et lookahead (2027)
+## 1505. 📷 Camera 2D : follow, deadzone et lookahead
 
 
 
@@ -296,7 +296,7 @@ Tu es programmeur caméra. Tu donnes le calcul : target = player + velocity*look
 ---
 ---
 
-## 1506. 🎥 Camera 3D third-person : collision et lock-on (2027)
+## 1506. 🎥 Camera 3D third-person : collision et lock-on
 
 
 
@@ -355,7 +355,7 @@ Tu es programmeur caméra 3D. Tu expliques l'orbite (yaw/pitch autour du pivot j
 ---
 ---
 
-## 1507. 💥 Detection de collision 2D : AABB, cercles, SAT (2027)
+## 1507. 💥 Detection de collision 2D : AABB, cercles, SAT
 
 
 
@@ -414,7 +414,7 @@ Tu es programmeur physique 2D. Tu donnes les 3 tests (AABB par intervalles, cerc
 ---
 ---
 
-## 1508. ⚔️ Hitbox, hurtbox et i-frames (2027)
+## 1508. ⚔️ Hitbox, hurtbox et i-frames
 
 
 
@@ -473,7 +473,7 @@ Tu es programmeur combat. Tu sépares hitbox (dégâts, active via animation eve
 ---
 ---
 
-## 1509. 🏃 Physique 2D custom : gravité et saut variable (2027)
+## 1509. 🏃 Physique 2D custom : gravité et saut variable
 
 
 
@@ -532,7 +532,7 @@ Tu es programmeur physique plateformer. Tu donnes les constantes (gravité, jump
 ---
 ---
 
-## 1510. 🎯 Plateformer : coyote time et jump buffering (2027)
+## 1510. 🎯 Plateformer : coyote time et jump buffering
 
 
 
@@ -590,7 +590,7 @@ Tu es programmeur game feel. Tu implémentes 2 timers : coyoteTimer (reset à 0,
 ---
 ---
 
-## 1511. 💨 Mouvement 8 directions et dash (2027)
+## 1511. 💨 Mouvement 8 directions et dash
 
 
 
@@ -649,7 +649,7 @@ Tu es programmeur déplacement. Tu normalises l'input (input.normalized), tu sé
 ---
 ---
 
-## 1512. 🧱 Tilemap et autotiling par regles de bits (2027)
+## 1512. 🧱 Tilemap et autotiling par regles de bits
 
 
 
@@ -708,7 +708,7 @@ Tu es level designer technique. Tu expliques les règles de bits (4 bits cardina
 ---
 ---
 
-## 1513. 🏰 Generation procédurale de donjons : rooms et corridors (2027)
+## 1513. 🏰 Generation procédurale de donjons : rooms et corridors
 
 
 
@@ -767,7 +767,7 @@ Tu es programmeur procgen. Tu décris l'algo : placer salles (retry 100x si chev
 ---
 ---
 
-## 1514. 🏔️ Cavernes par cellular automata (2027)
+## 1514. 🏔️ Cavernes par cellular automata
 
 
 
@@ -826,7 +826,7 @@ Tu es programmeur procgen. Tu donnes l'algo : init 45 % aléatoire (bordures = m
 ---
 ---
 
-## 1515. 🌊 Bruit de Perlin pour terrain et heightmap (2027)
+## 1515. 🌊 Bruit de Perlin pour terrain et heightmap
 
 
 
@@ -885,7 +885,7 @@ Tu es programmeur procgen terrain. Tu expliques Perlin (gradient noise, valeurs 
 ---
 ---
 
-## 1516. 🧩 Wave Function Collapse (WFC) simplifié (2027)
+## 1516. 🧩 Wave Function Collapse (WFC) simplifié
 
 
 
@@ -945,7 +945,7 @@ Tu es programmeur procgen avancé. Tu expliques WFC : chaque cellule = superposi
 ---
 ---
 
-## 1517. 🧭 Pathfinding A* avec poids et flow field (2027)
+## 1517. 🧭 Pathfinding A* avec poids et flow field
 
 
 
@@ -1004,7 +1004,7 @@ Tu es programmeur IA déplacement. Tu donnes A* (g = coût depuis départ, h = h
 ---
 ---
 
-## 1518. 🧭 Navmesh 3D : baking et navigation (2027)
+## 1518. 🧭 Navmesh 3D : baking et navigation
 
 
 
@@ -1063,7 +1063,7 @@ Tu es programmeur navigation 3D. Tu expliques le bake (paramètres : rayon/heigh
 ---
 ---
 
-## 1519. 🧠 IA ennemie : state machine (FSM) simple (2027)
+## 1519. 🧠 IA ennemie : state machine (FSM) simple
 
 
 
@@ -1121,7 +1121,7 @@ Tu es programmeur IA. Tu définis la classe State (enter/update/exit), le FSM (�
 ---
 ---
 
-## 1520. 👁️ Perception ennemie : vue, ouïe et memoire (2027)
+## 1520. 👁️ Perception ennemie : vue, ouïe et memoire
 
 
 
@@ -1179,7 +1179,7 @@ Tu es programmeur IA perception. Tu fais : vision = angle entre forward et dir(j
 ---
 ---
 
-## 1521. ⚖️ Utility AI : choisir l'action par score (2027)
+## 1521. ⚖️ Utility AI : choisir l'action par score
 
 
 
@@ -1238,7 +1238,7 @@ Tu es programmeur IA utility. Tu définis les besoins (hunger, energy, health, t
 ---
 ---
 
-## 1522. 🎯 GOAP : planification d'actions par objectif (2027)
+## 1522. 🎯 GOAP : planification d'actions par objectif
 
 
 
@@ -1296,7 +1296,7 @@ Tu es programmeur IA planification. Tu définis le monde comme un dict de faits 
 ---
 ---
 
-## 1523. 🕶️ Stealth : ligne de vue et cone de vision avances (2027)
+## 1523. 🕶️ Stealth : ligne de vue et cone de vision avances
 
 
 
@@ -1355,7 +1355,7 @@ Tu es programmeur stealth. Tu fais : cône = mesh généré (angle/portée), vis
 ---
 ---
 
-## 1524. 💡 Raycast et ligne de vue (LOS) en 2D/3D (2027)
+## 1524. 💡 Raycast et ligne de vue (LOS) en 2D/3D
 
 
 
@@ -1414,7 +1414,7 @@ Tu es programmeur outils. Tu montres les appels (Unity Physics.Raycast, Godot in
 ---
 ---
 
-## 1525. 👥 Coordination d'ennemis : flanquement et focus (2027)
+## 1525. 👥 Coordination d'ennemis : flanquement et focus
 
 
 
@@ -1473,7 +1473,7 @@ Tu es programmeur IA de groupe. Tu assignes les rôles à l'entrée en combat, l
 ---
 ---
 
-## 1526. 🐉 Boss : phases et patterns telegraphes (2027)
+## 1526. 🐉 Boss : phases et patterns telegraphes
 
 
 
@@ -1532,7 +1532,7 @@ Tu es game designer combat. Tu structures : phases (seuils PV, transition 2 s in
 ---
 ---
 
-## 1527. 🌊 Spawner de vagues a difficulté progressive (2027)
+## 1527. 🌊 Spawner de vagues a difficulté progressive
 
 
 
@@ -1591,7 +1591,7 @@ Tu es game designer systèmes. Tu définis le coût par ennemi, le budget par va
 ---
 ---
 
-## 1528. 🎰 Loot table ponderee et pity timer (2027)
+## 1528. 🎰 Loot table ponderee et pity timer
 
 
 
@@ -1650,7 +1650,7 @@ Tu es game designer économie. Tu définis la table (objet, poids, rareté, stat
 ---
 ---
 
-## 1529. ⚖️ Equilibrage d'economie interne : inflation et sinks (2027)
+## 1529. ⚖️ Equilibrage d'economie interne : inflation et sinks
 
 
 
@@ -1709,7 +1709,7 @@ Tu es game designer économie. Tu fais le bilan sources/sinks (tableau), la cour
 ---
 ---
 
-## 1530. 📈 Progression joueur : XP, courbes de niveau et paliers (2027)
+## 1530. 📈 Progression joueur : XP, courbes de niveau et paliers
 
 
 
@@ -1768,7 +1768,7 @@ Tu es game designer progression. Tu donnes la formule XP, le temps estimé par n
 ---
 ---
 
-## 1531. 📜 Systeme de quetes : journal, objectifs, recompenses (2027)
+## 1531. 📜 Systeme de quetes : journal, objectifs, recompenses
 
 
 
@@ -1826,7 +1826,7 @@ Tu es game designer quêtes. Tu définis la structure Quest {id, titre, descript
 ---
 ---
 
-## 1532. 💬 Arbre de dialogue avec conditions et consequences (2027)
+## 1532. 💬 Arbre de dialogue avec conditions et consequences
 
 
 
@@ -1885,7 +1885,7 @@ Tu es game designer narratif. Tu définis le graphe de dialogue (nœud = texte P
 ---
 ---
 
-## 1533. 🌐 Localisation in-game des textes (i18n des dialogues, 2027)
+## 1533. 🌐 Localisation in-game des textes (i18n des dialogues)
 
 
 
@@ -1944,7 +1944,7 @@ Tu es localization engineer. Tu structures : clés stables (jamais le texte FR c
 ---
 ---
 
-## 1534. 🎁 Inventaire : grille, drag and drop, stacking (2027)
+## 1534. 🎁 Inventaire : grille, drag and drop, stacking
 
 
 
@@ -2003,7 +2003,7 @@ Tu es programmeur UI inventaire. Tu modélises l'inventaire comme une grille 2D 
 ---
 ---
 
-## 1535. ⚔️ Equipement et stats : armes, armures, rarete (2027)
+## 1535. ⚔️ Equipement et stats : armes, armures, rarete
 
 
 
@@ -2062,7 +2062,7 @@ Tu es game designer équipement. Tu définis les slots, les stats par type d'obj
 ---
 ---
 
-## 1536. 🔨 Crafting : recettes, materiaux et forge (2027)
+## 1536. 🔨 Crafting : recettes, materiaux et forge
 
 
 
@@ -2121,7 +2121,7 @@ Tu es game designer craft. Tu définis les recettes (matériaux requis, station,
 ---
 ---
 
-## 1537. 🌳 Arbre de competences (skill tree) et respec (2027)
+## 1537. 🌳 Arbre de competences (skill tree) et respec
 
 
 
@@ -2180,7 +2180,7 @@ Tu es game designer progression. Tu définis les nœuds {id, branche, coût, pr�
 ---
 ---
 
-## 1538. 🏆 Succes (achievements) et deblocages (2027)
+## 1538. 🏆 Succes (achievements) et deblocages
 
 
 
@@ -2239,7 +2239,7 @@ Tu es game designer rétention. Tu définis Achievement {id, nom, desc (visible 
 ---
 ---
 
-## 1539. ☁️ Sauvegarde cloud et sync multi-appareils (2027)
+## 1539. ☁️ Sauvegarde cloud et sync multi-appareils
 
 
 
@@ -2298,7 +2298,7 @@ Tu es programmeur backend save. Tu choisis le backend (Steam Cloud si Steam 1581
 ---
 ---
 
-## 1540. 📊 Analytics de jeu : funnels, rétention D1/D7, telemetry (2027)
+## 1540. 📊 Analytics de jeu : funnels, rétention D1/D7, telemetry
 
 
 
@@ -2357,7 +2357,7 @@ Tu es game analyst. Tu définis les événements nommés (snake_case, params max
 ---
 ---
 
-## 1541. ⚖️ A/B testing in-game : evenements saisonniers (2027)
+## 1541. ⚖️ A/B testing in-game : evenements saisonniers
 
 
 
@@ -2416,7 +2416,7 @@ Tu es game analyst live ops. Tu utilises le remote config (Firebase Remote Confi
 ---
 ---
 
-## 1542. 🌟 Live ops : evenements saisonniers et battle pass simple (2027)
+## 1542. 🌟 Live ops : evenements saisonniers et battle pass simple
 
 
 
@@ -2475,7 +2475,7 @@ Tu es game designer live ops. Tu active l'event par remote config (sans mise à 
 ---
 ---
 
-## 1543. 🛡 Anti-triche : validation cote serveur (2027)
+## 1543. 🛡 Anti-triche : validation cote serveur
 
 
 
@@ -2534,7 +2534,7 @@ Tu es programmeur sécurité multiplayer. Tu appliques : client = input only (to
 ---
 ---
 
-## 1544. 🖧️ Architecture multijoueur : client-serveur vs P2P (2027)
+## 1544. 🖧️ Architecture multijoueur : client-serveur vs P2P
 
 
 
@@ -2593,7 +2593,7 @@ Tu es architecte réseau jeu. Tu compares : dédié (40 €/mois/VPS, autorité 
 ---
 ---
 
-## 1545. ⏳ Lag compensation : rewind et reconciliation (2027)
+## 1545. ⏳ Lag compensation : rewind et reconciliation
 
 
 
@@ -2652,7 +2652,7 @@ Tu es programmeur réseau tir. Tu stockes un ring buffer d'états (positions de 
 ---
 ---
 
-## 1546. 🔁 Lockstep vs snapshot interpolation (2027)
+## 1546. 🔁 Lockstep vs snapshot interpolation
 
 
 
@@ -2711,7 +2711,7 @@ Tu es programmeur réseau synchro. Tu expliques lockstep (inputs datés par tick
 ---
 ---
 
-## 1547. 🔮 Prediction client et reconciliation serveur (2027)
+## 1547. 🔮 Prediction client et reconciliation serveur
 
 
 
@@ -2770,7 +2770,7 @@ Tu es programmeur réseau client. Tu numérotés les inputs (seq++), tu les stoc
 ---
 ---
 
-## 1548. 💬 Chat in-game et moderation automatique (2027)
+## 1548. 💬 Chat in-game et moderation automatique
 
 
 
@@ -2829,7 +2829,7 @@ Tu es programmeur chat modéré. Tu fais : canaux + messages horodatés, filtre 
 ---
 ---
 
-## 1549. 🎯 Matchmaking : ELO/MMR simple et files d'attente (2027)
+## 1549. 🎯 Matchmaking : ELO/MMR simple et files d'attente
 
 
 
@@ -2888,7 +2888,7 @@ Tu es programmeur matchmaking. Tu stockes le MMR par joueur (save cloud 1539), l
 ---
 ---
 
-## 1550. 🧩 ECS : composition vs heritage pour le gameplay (2027)
+## 1550. 🧩 ECS : composition vs heritage pour le gameplay
 
 
 
@@ -2947,7 +2947,7 @@ Tu es programmeur architecture ECS. Tu expliques : Entity = id; Component = stru
 ---
 ---
 
-## 1551. ♻️ Object pooling : reutiliser les objets (2027)
+## 1551. ♻️ Object pooling : reutiliser les objets
 
 
 
@@ -3006,7 +3006,7 @@ Tu es programmeur optimisation. Tu fournis la classe Pool<T> (stack d'inactifs, 
 ---
 ---
 
-## 1552. 📊 Profilage memoire et CPU du jeu (2027)
+## 1552. 📊 Profilage memoire et CPU du jeu
 
 
 
@@ -3064,7 +3064,7 @@ Tu es programmeur performance. Tu fais : capture baseline (Memory + CPU + Render
 ---
 ---
 
-## 1553. 🖼️ Draw calls : batching, atlas et occlusion culling (2027)
+## 1553. 🖼️ Draw calls : batching, atlas et occlusion culling
 
 
 
@@ -3123,7 +3123,7 @@ Tu es programmeur rendu. Tu expliques draw call = appel CPU→GPU par objet/mate
 ---
 ---
 
-## 1554. 🖼️ Sprite atlas : packer les sprites en 1 texture (2027)
+## 1554. 🖼️ Sprite atlas : packer les sprites en 1 texture
 
 
 
@@ -3182,7 +3182,7 @@ Tu es technical artist 2D. Tu expliques le packing (algorithme de bin packing ma
 ---
 ---
 
-## 1555. 🌟 Post-processing : vignette, grain, bloom legers (2027)
+## 1555. 🌟 Post-processing : vignette, grain, bloom legers
 
 
 
@@ -3240,7 +3240,7 @@ Tu es technical artist rendu. Tu fais un seul shader de post-FX (1 passe) qui co
 ---
 ---
 
-## 1556. 💡 Eclairage 2D : lights, ombres et normal maps (2027)
+## 1556. 💡 Eclairage 2D : lights, ombres et normal maps
 
 
 
@@ -3299,7 +3299,7 @@ Tu es technical artist 2D lumière. Tu configures : PointLight2D (Unity URP 2D /
 ---
 ---
 
-## 1557. ✨ Particules GPU : instancing pour milliers de particules (2027)
+## 1557. ✨ Particules GPU : instancing pour milliers de particules
 
 
 
@@ -3358,7 +3358,7 @@ Tu es technical artist VFX. Tu utilises VFX Graph (Unity) ou un shader de partic
 ---
 ---
 
-## 1558. 💥 Screen shake et hit feedback visuel (2027)
+## 1558. 💥 Screen shake et hit feedback visuel
 
 
 
@@ -3417,7 +3417,7 @@ Tu es programmeur caméra feedback. Tu ajoutes un offset aléatoire à la camér
 ---
 ---
 
-## 1559. 🧃 Juice : game feel (squash & stretch, hitstop, particules) (2027)
+## 1559. 🧃 Juice : game feel (squash & stretch, hitstop, particules)
 
 
 
@@ -3476,7 +3476,7 @@ Tu es game feel designer. Tu liste les 6 effets de juice : squash&stretch (scale
 ---
 ---
 
-## 1560. 🎭 State machine d'animation (Animator, 2027)
+## 1560. 🎭 State machine d'animation (Animator)
 
 
 
@@ -3535,7 +3535,7 @@ Tu es technical artist animation. Tu définis les paramètres (float Speed, bool
 ---
 ---
 
-## 1561. 🌿 Blend trees : mouvement multidirectionnel fluide (2027)
+## 1561. 🌿 Blend trees : mouvement multidirectionnel fluide
 
 
 
@@ -3594,7 +3594,7 @@ Tu es technical artist animation. Tu crées un Blend Tree 2D 'Freeform Direction
 ---
 ---
 
-## 1562. 🦴 Rigging procédural et IK deux os (2027)
+## 1562. 🦴 Rigging procédural et IK deux os
 
 
 
@@ -3653,7 +3653,7 @@ Tu es technical artist rigging. Tu configures l'IK 2 os : chaîne (hanche→geno
 ---
 ---
 
-## 1563. 👀 IK avancé : full body et look-at (2027)
+## 1563. 👀 IK avancé : full body et look-at
 
 
 
@@ -3712,7 +3712,7 @@ Tu es technical artist IK avancé. Tu utilises OnAnimatorIK : SetLookAtPosition(
 ---
 ---
 
-## 1564. 🧸 Ragdoll physique sur un personnage (2027)
+## 1564. 🧸 Ragdoll physique sur un personnage
 
 
 
@@ -3771,7 +3771,7 @@ Tu es programmeur physique personnage. Tu prépares le rig avec rigidbody+Charac
 ---
 ---
 
-## 1565. 💥 Destruction procédurale simple (fracture de mesh, 2027)
+## 1565. 💥 Destruction procédurale simple (fracture de mesh)
 
 
 
@@ -3831,7 +3831,7 @@ Tu es programmeur destruction. Tu fais la fracture Voronoi au chargement (ou à 
 ---
 ---
 
-## 1566. 🔊 Middleware audio : intégrer FMOD ou Wwise (2027)
+## 1566. 🔊 Middleware audio : intégrer FMOD ou Wwise
 
 
 
@@ -3891,7 +3891,7 @@ Tu es sound designer intégration. Tu structures dans FMOD/Wwise : banques par c
 ---
 ---
 
-## 1567. 🎵 Musique adaptative : layers selon l'intensite (2027)
+## 1567. 🎵 Musique adaptative : layers selon l'intensite
 
 
 
@@ -3950,7 +3950,7 @@ Tu es sound designer musique adaptative. Tu composes 4 stems synchronisés (mêm
 ---
 ---
 
-## 1568. 📢 SFX réactifs : variation de pitch/volume et pooling (2027)
+## 1568. 📢 SFX réactifs : variation de pitch/volume et pooling
 
 
 
@@ -4009,7 +4009,7 @@ Tu es sound designer SFX. Tu configures dans FMOD/Wwise : sur chaque event, pitc
 ---
 ---
 
-## 1569. 🎤 Voix off (VO) : pipeline de doublage (2027)
+## 1569. 🎤 Voix off (VO) : pipeline de doublage
 
 
 
@@ -4068,7 +4068,7 @@ Tu es sound designer VO. Tu structures : script CSV (id, perso, texte FR, contex
 ---
 ---
 
-## 1570. 🎯 HUD et minimap : barre de vie, jauge, objectifs (2027)
+## 1570. 🎯 HUD et minimap : barre de vie, jauge, objectifs
 
 
 
@@ -4127,7 +4127,7 @@ Tu es UI designer jeu. Tu places : PV haut gauche (barre + chiffre), jauge dash 
 ---
 ---
 
-## 1571. 🎛️ Menus accessibles : navigation clavier et manette (2027)
+## 1571. 🎛️ Menus accessibles : navigation clavier et manette
 
 
 
@@ -4186,7 +4186,7 @@ Tu es UI designer accessibilité menus. Tu utilises le système d'UI (EventSyste
 ---
 ---
 
-## 1572. 📖 Tutoriel in-game contextuel et skippable (2027)
+## 1572. 📖 Tutoriel in-game contextuel et skippable
 
 
 
@@ -4245,7 +4245,7 @@ Tu es game designer onboarding. Tu définis les triggers d Events (premier saut,
 ---
 ---
 
-## 1573. ⏳ Ecran de chargement et streaming de niveaux (2027)
+## 1573. ⏳ Ecran de chargement et streaming de niveaux
 
 
 
@@ -4304,7 +4304,7 @@ Tu es programmeur chargement. Tu découpes le monde en zones (grille), au dépla
 ---
 ---
 
-## 1574. ⚙️ Ecran des reglages : qualité graphique, audio, contrôles (2027)
+## 1574. ⚙️ Ecran des reglages : qualité graphique, audio, contrôles
 
 
 
@@ -4363,7 +4363,7 @@ Tu es UI designer settings. Tu organises 4 onglets (Graphismes/Audio/Contrôles/
 ---
 ---
 
-## 1575. ♿ Accessibilite d'un jeu : daltonisme, tailles, secousses, sous-titres (2027)
+## 1575. ♿ Accessibilite d'un jeu : daltonisme, tailles, secousses, sous-titres
 
 
 
@@ -4422,7 +4422,7 @@ Tu es accessibility designer jeu. Tu appliques : filtres daltonisme (shader de c
 ---
 ---
 
-## 1576. 🦩 Support des mods : architecture modable (JSON, scripts, 2027)
+## 1576. 🦩 Support des mods : architecture modable (JSON, scripts)
 
 
 
@@ -4481,7 +4481,7 @@ Tu es programmeur plateforme mods. Tu externalises les données en JSON (data/it
 ---
 ---
 
-## 1577. 💻 Console de commandes et cheats de dev (2027)
+## 1577. 💻 Console de commandes et cheats de dev
 
 
 
@@ -4539,7 +4539,7 @@ Tu es programmeur outils dev. Tu enregistres les commandes (nom, args, fonction,
 ---
 ---
 
-## 1578. 📅 Versioning des builds et changelog joueur (2027)
+## 1578. 📅 Versioning des builds et changelog joueur
 
 
 
@@ -4598,7 +4598,7 @@ Tu es release manager jeu. Tu appliques SemVer + build number CI, tu rédiges le
 ---
 ---
 
-## 1579. 🎮 Publication sur Steam : builds, depots et mise en ligne (2027)
+## 1579. 🎮 Publication sur Steam : builds, depots et mise en ligne
 
 
 
@@ -4658,7 +4658,7 @@ Tu es release manager Steam. Tu configures SteamPipe (appbuild.vdf : dépôts pa
 ---
 ---
 
-## 1580. 🏆 Steamworks : succes, leaderboards, cloud saves, lobby (2027)
+## 1580. 🏆 Steamworks : succes, leaderboards, cloud saves, lobby
 
 
 
@@ -4718,7 +4718,7 @@ Tu es programmeur intégration Steam. Tu branches le SDK : SteamUserStats (succ�
 ---
 ---
 
-## 1581. 🎪 Page store et marketing d'un jeu (Steam, itch, 2027)
+## 1581. 🎪 Page store et marketing d'un jeu (Steam, itch)
 
 
 
@@ -4778,7 +4778,7 @@ Tu es marketing manager jeu. Tu donnes la structure : accroche (1 phrase, verbe 
 ---
 ---
 
-## 1582. 📱 Monetisation mobile éthique : pub rewarded et IAP (2027)
+## 1582. 📱 Monetisation mobile éthique : pub rewarded et IAP
 
 
 
@@ -4837,7 +4837,7 @@ Tu es game designer monétisation. Tu appliques la règle UE 2027 : rewarded = o
 ---
 ---
 
-## 1583. 📦 Gacha et loot boxes : conformite legale en 2027 (2027)
+## 1583. 📦 Gacha et loot boxes : conformite legale en
 
 
 
@@ -4897,7 +4897,7 @@ Tu es juriste game économie. Tu rappelles la loi 2027 : proba exactes affichée
 ---
 ---
 
-## 1584. ⚖️ RGPD et protection des mineurs dans un jeu video (2027)
+## 1584. ⚖️ RGPD et protection des mineurs dans un jeu video
 
 
 
@@ -4956,7 +4956,7 @@ Tu es DPO jeu vidéo. Tu appliques : vérification d'âge à la création de com
 ---
 ---
 
-## 1585. 🔋 Performance mobile : 60 fps, batterie et thermique (2027)
+## 1585. 🔋 Performance mobile : 60 fps, batterie et thermique
 
 
 
@@ -5015,7 +5015,7 @@ Tu es programmeur optimisation mobile. Tu fais un passe perf mobile : QualitySet
 ---
 ---
 
-## 1586. 📦 Build mobile : IL2CPP, Addressables, taille de l'app (2027)
+## 1586. 📦 Build mobile : IL2CPP, Addressables, taille de l'app
 
 
 
@@ -5074,7 +5074,7 @@ Tu es programmeur build mobile. Tu configures : Player Settings (IL2CPP, ARM64, 
 ---
 ---
 
-## 1587. 🎮 Portage console : Switch, PS5, Xbox et certification (2027)
+## 1587. 🎮 Portage console : Switch, PS5, Xbox et certification
 
 
 
@@ -5133,7 +5133,7 @@ Tu es programmeur portage console. Tu planifies : devkit demandé tôt (1594 pit
 ---
 ---
 
-## 1588. 💷 Soldes Steam et prix regionaux (2027)
+## 1588. 💷 Soldes Steam et prix regionaux
 
 
 
@@ -5192,7 +5192,7 @@ Tu es responsable revenus PC. Tu expliques les 4 soldes annuels Steam, les règl
 ---
 ---
 
-## 1589. 💬 Gerer les avis negatifs et une crise post-lancement (2027)
+## 1589. 💬 Gerer les avis negatifs et une crise post-lancement
 
 
 
@@ -5251,7 +5251,7 @@ Tu es community manager crise. Tu appliques : réponse publique à chaque avis t
 ---
 ---
 
-## 1590. 📥 Addressables et DLC : contenu telechargeable et patchs (2027)
+## 1590. 📥 Addressables et DLC : contenu telechargeable et patchs
 
 
 
@@ -5310,7 +5310,7 @@ Tu es programmeur contenu distant. Tu organises les groupes Addressables (Local:
 ---
 ---
 
-## 1591. 🧪 Tests automatises de gameplay (playmode tests, 2027)
+## 1591. 🧪 Tests automatises de gameplay (playmode tests)
 
 
 
@@ -5369,7 +5369,7 @@ Tu es QA engineer jeu. Tu sépare : tests unitaires (logique pure, rapides, 1000
 ---
 ---
 
-## 1592. 🔄 CI/CD pour un jeu : builds auto multi-plateformes (2027)
+## 1592. 🔄 CI/CD pour un jeu : builds auto multi-plateformes
 
 
 
@@ -5428,7 +5428,7 @@ Tu es DevOps jeu. Tu écris le workflow CI : matrix OS (windows/macos/ubuntu + a
 ---
 ---
 
-## 1593. 🥧 Vertical slice : la tranche verticale de démonstration (2027)
+## 1593. 🥧 Vertical slice : la tranche verticale de démonstration
 
 
 
@@ -5487,7 +5487,7 @@ Tu es game director. Tu définis le périmètre : 1 zone jouable de 10-15 min, q
 ---
 ---
 
-## 1594. 📊 Pitch deck pour un editeur de jeux video (2027)
+## 1594. 📊 Pitch deck pour un editeur de jeux video
 
 
 
@@ -5547,7 +5547,7 @@ Tu es fondateur studio. Tu structures le deck : 1 accroche (1 phrase + image for
 ---
 ---
 
-## 1595. 💰 Budget et planning d'un jeu independant (2027)
+## 1595. 💰 Budget et planning d'un jeu independant
 
 
 
@@ -5606,7 +5606,7 @@ Tu es producteur indé. Tu fais le tableur : postes (salaires chargés × mois),
 ---
 ---
 
-## 1596. 📣 Communaute et devlog : Discord, reseaux, transparence (2027)
+## 1596. 📣 Communaute et devlog : Discord, reseaux, transparence
 
 
 
@@ -5665,7 +5665,7 @@ Tu es community manager jeu. Tu structures : Discord (annonces, devlog, feedback
 ---
 ---
 
-## 1597. 🎪 Demo Steam Next Fest et salons de jeu (2027)
+## 1597. 🎪 Demo Steam Next Fest et salons de jeu
 
 
 
@@ -5724,7 +5724,7 @@ Tu es marketing manager. Tu prépares : démo Next Fest (build dédié, 30 min, 
 ---
 ---
 
-## 1598. 🧪 Playtest organise : recruter, questionnaire, synthèse (2027)
+## 1598. 🧪 Playtest organise : recruter, questionnaire, synthèse
 
 
 
@@ -5783,7 +5783,7 @@ Tu es UX researcher playtest. Tu prépares : recrutement (Discord 1596, panel), 
 ---
 ---
 
-## 1599. ⚖️ Accessibilite legale des jeux video en Europe (2027)
+## 1599. ⚖️ Accessibilite legale des jeux video en Europe
 
 
 
@@ -5842,7 +5842,7 @@ Tu es responsable conformité accessibilité. Tu appliques l'EAA (en vigueur 28 
 ---
 ---
 
-## 1600. ⚡ Vite 8 et Rolldown (Rust) : accélérer ses builds (2027)
+## 1600. ⚡ Vite 8 et Rolldown (Rust) : accélérer ses builds
 
 
 
@@ -5901,7 +5901,7 @@ Tu es devOps front. Tu donnes les étapes : installer vite@8, activer rolldown (
 ---
 ---
 
-## 1601. 🧩 HTMX + backend : UI dynamique sans JavaScript lourd (2027)
+## 1601. 🧩 HTMX + backend : UI dynamique sans JavaScript lourd
 
 
 
@@ -5960,7 +5960,7 @@ Tu es dev full-stack léger. Tu montres le pattern : bouton/lien avec hx-post, e
 ---
 ---
 
-## 1602. ☁️ Retour au serveur : React Server Components et edge (2027)
+## 1602. ☁️ Retour au serveur : React Server Components et edge
 
 
 
@@ -6019,7 +6019,7 @@ Tu es dev front architecture. Tu expliques la frontière serveur/client ('use cl
 ---
 ---
 
-## 1603. 🚀 Astro + View Transitions API : site content-first rapide (2027)
+## 1603. 🚀 Astro + View Transitions API : site content-first rapide
 
 
 
@@ -6078,7 +6078,7 @@ Tu es dev site statique. Tu montres : page .astro (HTML pur + composants), île 
 ---
 ---
 
-## 1604. 🔐 TanStack Start + tRPC : full-stack type-safe (2027)
+## 1604. 🔐 TanStack Start + tRPC : full-stack type-safe
 
 
 
@@ -6137,7 +6137,7 @@ Tu es dev full-stack. Tu montres : router tRPC (procédures avec input zod), cli
 ---
 ---
 
-## 1605. ⏩ Qwik : reprise instantanée et first-load à l'échelle (2027)
+## 1605. ⏩ Qwik : reprise instantanée et first-load à l'échelle
 
 
 
@@ -6196,7 +6196,7 @@ Tu es dev front performance. Tu expliques la resumability (sérialisation de l'�
 ---
 ---
 
-## 1606. 🎨 WebGPU cross-browser : 3D et calcul GPU côté client (2027)
+## 1606. 🎨 WebGPU cross-browser : 3D et calcul GPU côté client
 
 
 
@@ -6255,7 +6255,7 @@ Tu es dev GPU web. Tu montres : détection navigator.gpu, fallback WebGL, un com
 ---
 ---
 
-## 1607. 🧠 Inference ML côté client : ONNX Runtime Web + WebGPU (2027)
+## 1607. 🧠 Inference ML côté client : ONNX Runtime Web + WebGPU
 
 
 
@@ -6314,7 +6314,7 @@ Tu es ML engineer front. Tu montres : export du modèle en ONNX (torch.onnx.expo
 ---
 ---
 
-## 1608. 🧱 WebAssembly hors navigateur : WASI 2.0 et composants (2027)
+## 1608. 🧱 WebAssembly hors navigateur : WASI 2.0 et composants
 
 
 
@@ -6372,7 +6372,7 @@ Tu es dev Wasm. Tu montres : compiler Rust/C en .wasm (wasm32-wasip2), exécuter
 ---
 ---
 
-## 1609. 🖥️ Tauri vs PWA : app desktop légère depuis le web (2027)
+## 1609. 🖥️ Tauri vs PWA : app desktop légère depuis le web
 
 
 
@@ -6430,7 +6430,7 @@ Tu es dev desktop léger. Tu compares : Tauri (Rust + webview OS, accès fichier
 ---
 ---
 
-## 1610. 🎨 CSS 2027 : :has(), container queries, view transitions natifs
+## 1610. 🎨 CSS : :has, container queries, view transitions natifs
 
 
 
@@ -6489,7 +6489,7 @@ Tu es dev front CSS. Tu donnes 4 exemples concrets : .card:has(img) {…}, @cont
 ---
 ---
 
-## 1611. 💾 Local-first web : CRDT et synchro offline (2027)
+## 1611. 💾 Local-first web : CRDT et synchro offline
 
 
 
@@ -6548,7 +6548,7 @@ Tu es dev local-first. Tu expliques le modèle : état local réactif (UI instan
 ---
 ---
 
-## 1612. 🌍 Edge computing : Cloudflare Workers et Vercel Edge (2027)
+## 1612. 🌍 Edge computing : Cloudflare Workers et Vercel Edge
 
 
 
@@ -6607,7 +6607,7 @@ Tu es dev edge. Tu compares edge (Workers/Vercel/Deno, 300+ PoP, WASM, KV/DO sto
 ---
 ---
 
-## 1613. ⏩ Rolldown en CI : build parallélisé et cache (2027)
+## 1613. ⏩ Rolldown en CI : build parallélisé et cache
 
 
 
@@ -6666,7 +6666,7 @@ Tu es devOps CI front. Tu actives Rolldown (1600), Turbo (turborepo) avec remote
 ---
 ---
 
-## 1614. 🔄 Migration Webpack vers Vite : guide pratique (2027)
+## 1614. 🔄 Migration Webpack vers Vite : guide pratique
 
 
 
@@ -6725,7 +6725,7 @@ Tu es dev migration. Tu fais le mapping : babel-loader→@vitejs/plugin-react (o
 ---
 ---
 
-## 1615. 🎬 View Transitions API multi-pages (MPA, 2027)
+## 1615. 🎬 View Transitions API multi-pages (MPA)
 
 
 
@@ -6784,7 +6784,7 @@ Tu es dev front UX. Tu donnes : <meta name="view-transition" content="same-origi
 ---
 ---
 
-## 1616. 🏝️ Architecture islands : hydratation partielle (2027)
+## 1616. 🏝️ Architecture islands : hydratation partielle
 
 
 
@@ -6843,7 +6843,7 @@ Tu es dev front architecture. Tu expliques : le HTML statique est servi tel quel
 ---
 ---
 
-## 1617. ⚖️ Meta-frameworks 2027 : Next.js vs Nuxt vs SvelteKit vs React Router (2027)
+## 1617. ⚖️ Meta-frameworks : Next.js vs Nuxt vs SvelteKit vs React Router
 
 
 
@@ -6902,7 +6902,7 @@ Tu es architecte front. Tu fais la matrice : stack équipe (React→Next/RR7, Vu
 ---
 ---
 
-## 1618. 📊 Core Web Vitals 2027 : INP, LCP, CLS et RUM (2027)
+## 1618. 📊 Core Web Vitals : INP, LCP, CLS et RUM
 
 
 
@@ -6961,7 +6961,7 @@ Tu es dev performance web. Tu définis : LCP (optimiser l'image héros : preload
 ---
 ---
 
-## 1619. ♿ Accessibilite front 2027 : ARIA 1.3, focus-visible, contraste auto (2027)
+## 1619. ♿ Accessibilite front : ARIA 1.3, focus-visible, contraste auto
 
 
 
@@ -7020,7 +7020,7 @@ Tu es dev front a11y. Tu appliques : :focus-visible pour l'anneau de focus (pas 
 ---
 ---
 
-## 1620. 🎨 Design tokens multi-plateformes : Style Dictionary, Tokens Studio (2027)
+## 1620. 🎨 Design tokens multi-plateformes : Style Dictionary, Tokens Studio
 
 
 
@@ -7079,7 +7079,7 @@ Tu es design system engineer. Tu définis la pyramide : tokens primitifs (couleu
 ---
 ---
 
-## 1621. 🔌 MCP en production 2027 : registry officiel et gouvernance (2027)
+## 1621. 🔌 MCP en production : registry officiel et gouvernance
 
 
 
@@ -7138,7 +7138,7 @@ Tu es architecte MCP entreprise. Tu appliques : inventaire des serveurs MCP util
 ---
 ---
 
-## 1622. 🤝 A2A (Agent2Agent) : agents cross-organisation en 2027
+## 1622. 🤝 A2A (Agent2Agent) : agents cross-organisation en
 
 
 
@@ -7197,7 +7197,7 @@ Tu es architecte interop agents. Tu expliques la différence MCP (tools) vs A2A 
 ---
 ---
 
-## 1623. ⚖️ Choisir son protocole agent : MCP vs A2A vs ACP (fusionné) (2027)
+## 1623. ⚖️ Choisir son protocole agent : MCP vs A2A vs ACP (fusionné)
 
 
 
@@ -7256,7 +7256,7 @@ Tu es architecte protocoles. Tu fais la matrice : besoin = outil interne → MCP
 ---
 ---
 
-## 1624. 🌐 WebMCP : navigateur agentique (Chrome origin trial, 2027)
+## 1624. 🌐 WebMCP : navigateur agentique (Chrome origin trial)
 
 
 
@@ -7315,7 +7315,7 @@ Tu es dev web agentique. Tu montres : navigator.modelContext.registerTool({name,
 ---
 ---
 
-## 1625. 🔐 Identite verifiable des agents : Agent Cards signes et Web Bot Auth (2027)
+## 1625. 🔐 Identite verifiable des agents : Agent Cards signes et Web Bot Auth
 
 
 
@@ -7374,7 +7374,7 @@ Tu es architecte identité agent. Tu mets : paire de clés (agent), Agent Card a
 ---
 ---
 
-## 1626. 🏛 AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A (2027)
+## 1626. 🏛 AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A
 
 
 
@@ -7433,7 +7433,7 @@ Tu es architecte standards. Tu expliques l'AAIF (déc. 2025, membres platinum AW
 ---
 ---
 
-## 1627. 💰 Business case d'un agent IA : eviter l'annulation (Gartner 2027) (2027)
+## 1627. 💰 Business case d'un agent IA : eviter l'annulation (Gartner)
 
 
 
@@ -7492,7 +7492,7 @@ Tu es product manager IA. Tu structures : problème précis (1 tâche, ex. 'clas
 ---
 ---
 
-## 1628. 💳 Paiement agentique : UCP et mandates signes (2027)
+## 1628. 💳 Paiement agentique : UCP et mandates signes
 
 
 
@@ -7551,7 +7551,7 @@ Tu es architecte commerce agentique. Tu décris le mandat signé (JSON + signatu
 ---
 ---
 
-## 1629. 🏗️ Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework, 2027)
+## 1629. 🏗️ Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework)
 
 
 
@@ -7610,7 +7610,7 @@ Tu es architecte multi-agents. Tu compares les frameworks (LangGraph = graphe/é
 ---
 ---
 
-## 1630. 📏 Evaluer un agent en production : trajectoires, pas que le prompt (2027)
+## 1630. 📏 Evaluer un agent en production : trajectoires, pas que le prompt
 
 
 
@@ -7669,7 +7669,7 @@ Tu es evals engineer agent. Tu rejoues les trajectoires (pas que le prompt final
 ---
 ---
 
-## 1631. 🛡 Gateway MCP entreprise : audit, scopes, rate limit (2027)
+## 1631. 🛡 Gateway MCP entreprise : audit, scopes, rate limit
 
 
 
@@ -7728,7 +7728,7 @@ Tu es RSSI agents. Tu mets un proxy MCP devant tous les serveurs : authentificat
 ---
 ---
 
-## 1632. 🧠 Contexte 1M tokens : retrieval cible dans la masse (2027)
+## 1632. 🧠 Contexte 1M tokens : retrieval cible dans la masse
 
 
 
@@ -7787,7 +7787,7 @@ Tu es architecte RAG massif. Tu fais : indexer le corpus (chunking 1444 + embedd
 ---
 ---
 
-## 1633. 𝼞a🇺 Modeles souverains europeens : Mistral et alternatives UE (2027)
+## 1633. 𝼞a🇺 Modeles souverains europeens : Mistral et alternatives UE
 
 
 
@@ -7846,7 +7846,7 @@ Tu es architecte souveraineté IA. Tu listes les offres souveraines (Mistral API
 ---
 ---
 
-## 1634. 🎯 Agents verticaux specialises vs generalistes (2027)
+## 1634. 🎯 Agents verticaux specialises vs generalistes
 
 
 
@@ -7905,7 +7905,7 @@ Tu es product manager IA sectorielle. Tu compares : généraliste (rapide, pas c
 ---
 ---
 
-## 1635. 💸 Controle des couts d'agents : budget par tache et kill switch entreprise (2027)
+## 1635. 💸 Controle des couts d'agents : budget par tache et kill switch entreprise
 
 
 
@@ -7964,7 +7964,7 @@ Tu es FinOps agents. Tu mets : plafond de tokens/jour par agent, monitoring coû
 ---
 ---
 
-## 1636. 🧑‍💻 HITL a l'echelle : files d'approbation et routage (2027)
+## 1636. 🧑‍💻 HITL a l'echelle : files d'approbation et routage
 
 
 
@@ -8023,7 +8023,7 @@ Tu es ops agents. Tu mets : file d'attente (DB + UI/Slack bot), chaque demande =
 ---
 ---
 
-## 1637. 🕸️ Memoire graphe d'agent : Zep, Graphiti (2027)
+## 1637. 🕸️ Memoire graphe d'agent : Zep, Graphiti
 
 
 
@@ -8082,7 +8082,7 @@ Tu es architecte mémoire. Tu expliques la différence : vector store (similarit
 ---
 ---
 
-## 1638. 🤖 Agents de data engineering : pipelines auto (Cortex Code, Databricks, BigQuery, 2027)
+## 1638. 🤖 Agents de data engineering : pipelines auto (Cortex Code, Databricks, BigQuery)
 
 
 
@@ -8141,7 +8141,7 @@ Tu es data engineer augmenté. Tu montres le workflow : décrire le besoin (sour
 ---
 ---
 
-## 1639. 🚀 Prompt-to-prod : de l'idee au deploiement surveille d'un agent (2027)
+## 1639. 🚀 Prompt-to-prod : de l'idee au deploiement surveille d'un agent
 
 
 
@@ -8200,7 +8200,7 @@ Tu es MLOps agent. Tu définis le pipeline CI/CD agent : code prompt+tools versi
 ---
 ---
 
-## 1640. 🛡 Securite des agents IA en production : menaces 2027 (injection, exfiltration)
+## 1640. 🛡 Securite des agents IA en production : menaces (injection, exfiltration)
 
 
 
@@ -8259,7 +8259,7 @@ Tu es pentester agents. Tu appliques : sandbox d'exécution (1475), tools en rea
 ---
 ---
 
-## 1641. 🔐 Post-quantum (PQC) : inventaire crypto et ML-KEM (2027)
+## 1641. 🔐 Post-quantum (PQC) : inventaire crypto et ML-KEM
 
 
 
@@ -8318,7 +8318,7 @@ Tu es responsable crypto. Tu fais l'inventaire (CBOM via outils : cryptography i
 ---
 ---
 
-## 1642. ⏳ Harvest now, decrypt later : proteger les donnees long terme (2027)
+## 1642. ⏳ Harvest now, decrypt later : proteger les donnees long terme
 
 
 
@@ -8377,7 +8377,7 @@ Tu es DPO + RSSI. Tu classes les données par durée de vie : 10-30 ans (santé,
 ---
 ---
 
-## 1643. 🔑 Passkeys a grande echelle : migration massive post-2026 (2027)
+## 1643. 🔑 Passkeys a grande echelle : migration massive post
 
 
 
@@ -8436,7 +8436,7 @@ Tu es architecte identité. Tu planifies : inventaire des comptes (sensibles d'a
 ---
 ---
 
-## 1644. 📱 Zero trust device-level : IoT et edge en 2027
+## 1644. 📱 Zero trust device-level : IoT et edge en
 
 
 
@@ -8495,7 +8495,7 @@ Tu es architecte sécurité IoT. Tu appliques : à la fabrication, chaque objet 
 ---
 ---
 
-## 1645. ⛓️ Supply chain 2027 : SBOM + SLSA niveau 3 en CI (2027)
+## 1645. ⛓️ Supply chain : SBOM + SLSA niveau 3 en CI
 
 
 
@@ -8554,7 +8554,7 @@ Tu es responsable supply chain. Tu mets en CI : génération SBOM (Syft), build 
 ---
 ---
 
-## 1646. 📜 OWASP Top 10 2026 : nouveautés et code genere par IA (2027)
+## 1646. 📜 OWASP Top 10 : nouveautés et code genere par IA
 
 
 
@@ -8614,7 +8614,7 @@ Tu es AppSec engineer. Tu parcours le Top 10 2026 : A01 broken access control (v
 ---
 ---
 
-## 1647. 🔍 Securite des modeles IA open source : revue avant deploiement (2027)
+## 1647. 🔍 Securite des modeles IA open source : revue avant deploiement
 
 
 
@@ -8673,7 +8673,7 @@ Tu es ML security engineer. Tu appliques : provenance (compte vérifié, hash du
 ---
 ---
 
-## 1648. 🎥 Detecter le contenu genere par IA : deepfakes video, voix clonee (2027)
+## 1648. 🎥 Detecter le contenu genere par IA : deepfakes video, voix clonee
 
 
 
@@ -8732,7 +8732,7 @@ Tu es analyste anti-deepfake. Tu appliques la défense en profondeur : (1) C2PA/
 ---
 ---
 
-## 1649. ⚖️ NIS2, DORA et CMMC actifs en 2026-2027 : obligations (2027)
+## 1649. ⚖️ NIS2, DORA et CMMC actifs : obligations
 
 
 
@@ -8791,7 +8791,7 @@ Tu es RSSI conformité. Tu fais le gap analysis : NIS2 (mesures de sécurité, i
 ---
 ---
 
-## 1650. 🔄 Crypto agilite : rotation d'algorithmes sans casser (2027)
+## 1650. 🔄 Crypto agilite : rotation d'algorithmes sans casser
 
 
 
@@ -8850,7 +8850,7 @@ Tu es architecte crypto. Tu poses les règles : jamais d'appel direct à un algo
 ---
 ---
 
-## 1651. 🤖 SOAR et SOC automation en 2026-2027 (2027)
+## 1651. 🤖 SOAR et SOC automation en
 
 
 
@@ -8909,7 +8909,7 @@ Tu es SOC manager. Tu branches le SIEM (1453) au SOAR, tu écris les playbooks p
 ---
 ---
 
-## 1652. 🧠 Detection comportementale : UEBA et IA cote defense (2027)
+## 1652. 🧠 Detection comportementale : UEBA et IA cote defense
 
 
 
@@ -8968,7 +8968,7 @@ Tu es analyste détection. Tu ingères les logs (auth, proxy, EDR 1453) dans l'U
 ---
 ---
 
-## 1653. 💣 Ransomware 2027 : playbook double extorsion et reprise (2027)
+## 1653. 💣 Ransomware : playbook double extorsion et reprise
 
 
 
@@ -9027,7 +9027,7 @@ Tu es RSSI crise. Tu rédiges le playbook : détection (canaris, UEBA 1652) → 
 ---
 ---
 
-## 1654. 🖥️ Identite machine : SPIFFE/SPIRE pour workloads (2027)
+## 1654. 🖥️ Identite machine : SPIFFE/SPIRE pour workloads
 
 
 
@@ -9086,7 +9086,7 @@ Tu es architecte identité infra. Tu déploies SPIRE (serveur + agents), chaque 
 ---
 ---
 
-## 1655. 🌐 Securite DNS : DoH/DoT, DNSSEC et blocage malware (2027)
+## 1655. 🌐 Securite DNS : DoH/DoT, DNSSEC et blocage malware
 
 
 
@@ -9145,7 +9145,7 @@ Tu es architecte réseau sécurité. Tu déploies : DoH/DoT (navigateur + OS + r
 ---
 ---
 
-## 1656. 🔑 Secrets dynamiques : Vault transit et DB (2027)
+## 1656. 🔑 Secrets dynamiques : Vault transit et DB
 
 
 
@@ -9204,7 +9204,7 @@ Tu es architecte secrets. Tu actives les moteurs Vault : database (creds dynamiq
 ---
 ---
 
-## 1657. 📧 Securite email 2027 : DMARC strict, BIMI, anti-spoofing (2027)
+## 1657. 📧 Securite email : DMARC strict, BIMI, anti-spoofing
 
 
 
@@ -9264,7 +9264,7 @@ Tu es admin messagerie. Tu publies : SPF (IPs autorisés), DKIM (signature), DMA
 ---
 ---
 
-## 1658. 🔒 DevSecOps 2027 : SAST, DAST, SCA et secrets en CI (2027)
+## 1658. 🔒 DevSecOps : SAST, DAST, SCA et secrets en CI
 
 
 
@@ -9323,7 +9323,7 @@ Tu es DevSecOps engineer. Tu ajoutes à la CI (1592) : job SAST (semgrep, règle
 ---
 ---
 
-## 1659. 🐛 Bug bounty et divulgation responsable (VDP) (2027)
+## 1659. 🐛 Bug bounty et divulgation responsable (VDP)
 
 
 
@@ -9382,7 +9382,7 @@ Tu es RSSI relation chercheurs. Tu définis : policy.md (périmètre, règles du
 ---
 ---
 
-## 1660. 🦆 DuckDB : le SQLite de l'analytics, requêter Parquet/S3 directement (2027)
+## 1660. 🦆 DuckDB : le SQLite de l'analytics, requêter Parquet/S3 directement
 
 
 
@@ -9441,7 +9441,7 @@ Tu es data analyst embarqué. Tu montres : install (pip/brew/extension navigateu
 ---
 ---
 
-## 1661. ☁️ MotherDuck : DuckDB dans le cloud hybride (2027)
+## 1661. ☁️ MotherDuck : DuckDB dans le cloud hybride
 
 
 
@@ -9500,7 +9500,7 @@ Tu es data analyst équipe. Tu connectes DuckDB à MotherDuck (token), crées de
 ---
 ---
 
-## 1662. 🧊 Apache Iceberg v3 : deletion vectors et row lineage (2027)
+## 1662. 🧊 Apache Iceberg v3 : deletion vectors et row lineage
 
 
 
@@ -9559,7 +9559,7 @@ Tu es architecte lakehouse. Tu expliques v3 : deletion vectors (fichiers de supp
 ---
 ---
 
-## 1663. ⚖️ Delta Lake vs Iceberg vs Hudi : choisir son open table format (2027)
+## 1663. ⚖️ Delta Lake vs Iceberg vs Hudi : choisir son open table format
 
 
 
@@ -9618,7 +9618,7 @@ Tu es architecte data platform. Tu compares : Delta (Databricks, mature, VACUUM,
 ---
 ---
 
-## 1664. 📥 dlt (data load tool) : ingestion as code (2027)
+## 1664. 📥 dlt (data load tool) : ingestion as code
 
 
 
@@ -9677,7 +9677,7 @@ Tu es data engineer. Tu écris : @dlt.source avec resource (endpoint paginé), d
 ---
 ---
 
-## 1665. 🦅 Polars vs pandas en 2027 : DataFrame rapide en Rust (2027)
+## 1665. 🦅 Polars vs pandas : DataFrame rapide en Rust
 
 
 
@@ -9736,7 +9736,7 @@ Tu es data scientist. Tu compares : Polars (Rust, multi-cœurs, lazy, streaming,
 ---
 ---
 
-## 1666. 🧱 Modern data stack 2026-27 : dlt + DuckDB + dbt + Superset (2027)
+## 1666. 🧱 Modern data stack -27 : dlt + DuckDB + dbt + Superset
 
 
 
@@ -9795,7 +9795,7 @@ Tu es data platform engineer. Tu assembles : dlt ingère (API/SaaS/BDD) → Duck
 ---
 ---
 
-## 1667. 🤝 Consolidation du marché data 2026 : Fivetran+dbt, IBM+Confluent, SAP+Dremio (2027)
+## 1667. 🤝 Consolidation du marché data : Fivetran+dbt, IBM+Confluent, SAP+Dremio
 
 
 
@@ -9853,7 +9853,7 @@ Tu es architecte achats data. Tu suis les fusions 2026 (Fivetran+dbt, IBM+Conflu
 ---
 ---
 
-## 1668. ⚖️ Data Act septembre 2026 : acces aux donnees des produits connectes (2027)
+## 1668. ⚖️ Data Act septembre : acces aux donnees des produits connectes
 
 
 
@@ -9913,7 +9913,7 @@ Tu es responsable conformité produit. Tu listes les obligations fabricant : API
 ---
 ---
 
-## 1669. ⚖️ Data Act janvier 2027 : fin des frais de switching cloud (2027)
+## 1669. ⚖️ Data Act janvier : fin des frais de switching cloud
 
 
 
@@ -9972,7 +9972,7 @@ Tu es responsable achats cloud. Tu rappelles les échéances : sept 2025 Data Ac
 ---
 ---
 
-## 1670. 🚪 Exit strategy cloud et DORA : plans de sortie testes (2027)
+## 1670. 🚪 Exit strategy cloud et DORA : plans de sortie testes
 
 
 
@@ -10032,7 +10032,7 @@ Tu es architecte résilience cloud. Tu fais : inventaire des services cloud et l
 ---
 ---
 
-## 1671. 🖼️ Multimodal lakehouse : images, embeddings et textes (LanceDB, 2027)
+## 1671. 🖼️ Multimodal lakehouse : images, embeddings et textes (LanceDB)
 
 
 
@@ -10091,7 +10091,7 @@ Tu es architecte multimodal. Tu choisis : LanceDB (standalone, vectoriel natif, 
 ---
 ---
 
-## 1672. ⏩ Streaming 2026-27 : Flink vs RisingWave vs Bytewax (2027)
+## 1672. ⏩ Streaming -27 : Flink vs RisingWave vs Bytewax
 
 
 
@@ -10150,7 +10150,7 @@ Tu es architecte streaming. Tu compares : Flink (Java/Scala, stateful, exactly-o
 ---
 ---
 
-## 1673. 🧪 Kestra : orchestration YAML declarative (2027)
+## 1673. 🧪 Kestra : orchestration YAML declarative
 
 
 
@@ -10209,7 +10209,7 @@ Tu es data platform engineer. Tu écris un flow Kestra en YAML (id, triggers, ta
 ---
 ---
 
-## 1674. 📊 Rill : BI as code sur DuckDB (2027)
+## 1674. 📊 Rill : BI as code sur DuckDB
 
 
 
@@ -10268,7 +10268,7 @@ Tu es analytics engineer. Tu définis : models SQL (DuckDB 1660), metrics YAML (
 ---
 ---
 
-## 1675. 🧪 Data quality 2026-27 : Great Expectations, Monte Carlo, alertes auto (2027)
+## 1675. 🧪 Data quality -27 : Great Expectations, Monte Carlo, alertes auto
 
 
 
@@ -10327,7 +10327,7 @@ Tu es data reliability engineer. Tu mets GX (expectations sur colonnes: not_null
 ---
 ---
 
-## 1676. 📐 Semantic layer 2027 : une metrique, un calcul (dbt Semantic Layer, Cube) (2027)
+## 1676. 📐 Semantic layer : une metrique, un calcul (dbt Semantic Layer, Cube)
 
 
 
@@ -10386,7 +10386,7 @@ Tu es analytics engineer. Tu définis les métriques dans le semantic layer (dim
 ---
 ---
 
-## 1677. 🔄 Reverse ETL : pousser les données warehouse vers les SaaS (Hightouch, Census, 2027)
+## 1677. 🔄 Reverse ETL : pousser les données warehouse vers les SaaS (Hightouch, Census)
 
 
 
@@ -10445,7 +10445,7 @@ Tu es data activation engineer. Tu définis les 'audiences' (modèles dbt 350 : 
 ---
 ---
 
-## 1678. 📜 Data contracts en prod : enforcement auto en CI (2027)
+## 1678. 📜 Data contracts en prod : enforcement auto en CI
 
 
 
@@ -10504,7 +10504,7 @@ Tu es data platform governance. Tu définis le contrat en YAML (schéma JSON 142
 ---
 ---
 
-## 1679. 🧮 Choisir sa vector DB en 2027 : pgvector, Qdrant, Milvus, Weaviate, LanceDB (2027)
+## 1679. 🧮 Choisir sa vector DB : pgvector, Qdrant, Milvus, Weaviate, LanceDB
 
 
 
@@ -10564,7 +10564,7 @@ Tu es architecte RAG infra. Tu fais la matrice : volume (100k → pgvector OK ; 
 ---
 ---
 
-## 1680. 📈 OpenTelemetry pour la data : tracer les pipelines (2027)
+## 1680. 📈 OpenTelemetry pour la data : tracer les pipelines
 
 
 
@@ -10623,7 +10623,7 @@ Tu es data observability engineer. Tu instrumentes chaque étape du pipeline (dl
 ---
 ---
 
-## 1681. ⚖️ AI Act : calendrier 2026-2028 post-Omnibus (2027)
+## 1681. ⚖️ AI Act : calendrier post-Omnibus
 
 
 
@@ -10681,7 +10681,7 @@ Tu es juriste conformité IA. Tu fais la frise : 02/02/2025 interdictions + AI l
 ---
 ---
 
-## 1682. 📋 GPAI : Code of Practice et obligations fournisseurs (2027)
+## 1682. 📋 GPAI : Code of Practice et obligations fournisseurs
 
 
 
@@ -10739,7 +10739,7 @@ Tu es juriste IA modèles. Tu appliques le Chapter V : art 53 (doc technique + r
 ---
 ---
 
-## 1683. 💰 Amendes AI Act : 35 M€ ou 7 % du CA (2027)
+## 1683. 💰 Amendes AI Act : 35 M€ ou 7 % du CA
 
 
 
@@ -10798,7 +10798,7 @@ Tu es juriste conformité. Tu donnes le barème (art 99) : art 5 (pratiques inte
 ---
 ---
 
-## 1684. ⏳ Préparer l'Annexe III haut risque : deadline 2 décembre 2027 (2027)
+## 1684. ⏳ Préparer l'Annexe III haut risque : deadline 2 décembre
 
 
 
@@ -10858,7 +10858,7 @@ Tu es juriste + RSSI conformité IA. Tu déroules les obligations Annexe III (ar
 ---
 ---
 
-## 1685. 🏛 CADA 2027 : niveaux de souveraineté cloud UE (2027)
+## 1685. 🏛 CADA : niveaux de souveraineté cloud UE
 
 
 
@@ -10917,7 +10917,7 @@ Tu es juriste achats cloud. Tu expliques le CADA (proposé 12/06/2026, en négoc
 ---
 ---
 
-## 1686. 🇪🇺 Gaia-X niveau 3 : souveraineté pleine vs CLOUD Act (2027)
+## 1686. 🇪🇺 Gaia-X niveau 3 : souveraineté pleine vs CLOUD Act
 
 
 
@@ -10976,7 +10976,7 @@ Tu es juriste souveraineté. Tu expliques les 3 niveaux Gaia-X (1: adhésion, 2:
 ---
 ---
 
-## 1687. ☁️ AWS European Sovereign Cloud : évaluer l'offre souveraine US (2027)
+## 1687. ☁️ AWS European Sovereign Cloud : évaluer l'offre souveraine US
 
 
 
@@ -11035,7 +11035,7 @@ Tu es juriste + architecte cloud. Tu analyses : AWS European Sovereign Cloud (Gm
 ---
 ---
 
-## 1688. 🧠 Souveraineté GPU et calcul IA en Europe (2027)
+## 1688. 🧠 Souveraineté GPU et calcul IA en Europe
 
 
 
@@ -11094,7 +11094,7 @@ Tu es DSI stratégie. Tu expliques la chaîne de souveraineté IA : puces (NVIDI
 ---
 ---
 
-## 1689. 🏆 EUCS : certification cloud européenne (2027)
+## 1689. 🏆 EUCS : certification cloud européenne
 
 
 
@@ -11153,7 +11153,7 @@ Tu es juriste conformité cloud. Tu expliques l'EUCS (adopté par la Commission,
 ---
 ---
 
-## 1690. 📢 Produit IA conforme : transparence art. 50 des août 2026 (2027)
+## 1690. 📢 Produit IA conforme : transparence art. 50 des
 
 
 
@@ -11212,7 +11212,7 @@ Tu es product manager conformité. Tu appliques art 50 : (1) informer l'utilisat
 ---
 ---
 
-## 1691. 🎧 Watermarking du contenu IA : C2PA et Content Credentials (2027)
+## 1691. 🎧 Watermarking du contenu IA : C2PA et Content Credentials
 
 
 
@@ -11271,7 +11271,7 @@ Tu es ingénieur conformité contenu. Tu intègres la lib C2PA (Rust/SDK) dans l
 ---
 ---
 
-## 1692. 🔍 Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO 2027)
+## 1692. 🔍 Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO)
 
 
 
@@ -11330,7 +11330,7 @@ Tu es growth IA. Tu mets un panel de 50 requêtes métier, exécutées hebdo sur
 ---
 ---
 
-## 1693. 📝 AEO 2027 : structurer son contenu pour être cité par les LLM (2027)
+## 1693. 📝 AEO : structurer son contenu pour être cité par les LLM
 
 
 
@@ -11389,7 +11389,7 @@ Tu es content strategist IA. Tu appliques les leviers AEO 2027 : (1) réponse di
 ---
 ---
 
-## 1694. 🎨 Tendances design web 2027 : bento grids, verre sobre, dark auto (2027)
+## 1694. 🎨 Tendances design web : bento grids, verre sobre, dark auto
 
 
 
@@ -11448,7 +11448,7 @@ Tu es UI designer 2027. Tu appliques : bento grid (grille 12 col, cartes de tail
 ---
 ---
 
-## 1695. 🎬 Motion design 2027 : view transitions, micro-interactions, scroll (2027)
+## 1695. 🎬 Motion design : view transitions, micro-interactions, scroll
 
 
 
@@ -11507,7 +11507,7 @@ Tu es motion designer. Tu définis les règles : durées 150-300 ms, easing spri
 ---
 ---
 
-## 1696. ♿ Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran, 2027)
+## 1696. ♿ Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran)
 
 
 
@@ -11567,7 +11567,7 @@ Tu es dev front a11y chatbot. Tu appliques : conteneur de messages en role=log a
 ---
 ---
 
-## 1697. ✍️ Signature électronique qualifiée eIDAS 2.0 (2027)
+## 1697. ✍️ Signature électronique qualifiée eIDAS 2.0
 
 
 
@@ -11626,7 +11626,7 @@ Tu es juriste documentaire. Tu expliques les 3 niveaux eIDAS (simple, avancée, 
 ---
 ---
 
-## 1698. 📊 Dashboard d'usage du catalogue de skills (analytics, 2027)
+## 1698. 📊 Dashboard d'usage du catalogue de skills (analytics)
 
 
 
@@ -11685,7 +11685,7 @@ Tu es conservateur du catalogue. Tu branches analytics (SQL agrégé) + dashboar
 ---
 ---
 
-## 1699. 📈 Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda (2027)
+## 1699. 📈 Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda
 
 
 
@@ -11744,7 +11744,7 @@ Tu es data reliability engineer. Tu unifies : une seule plateforme de monitoring
 ---
 ---
 
-## 1700. 🏗️ Construire une Internal Developer Platform (IDP) en 2027
+## 1700. 🏗️ Construire une Internal Developer Platform (IDP) en
 
 
 
@@ -11803,7 +11803,7 @@ Tu es platform engineer. Tu poses l'IDP comme un produit interne : catalogue (Ba
 ---
 ---
 
-## 1701. 🛤️ Golden paths : routes par defaut opinionnees (2027)
+## 1701. 🛤️ Golden paths : routes par defaut opinionnees
 
 
 
@@ -11862,7 +11862,7 @@ Tu es platform engineer. Tu définis les golden paths à partir des demandes ré
 ---
 ---
 
-## 1702. 📂 Backstage (CNCF) : portail developpeur self-host (2027)
+## 1702. 📂 Backstage (CNCF) : portail developpeur self-host
 
 
 
@@ -11922,7 +11922,7 @@ Tu es platform engineer. Tu déploies Backstage (npm/yarn, app + backend), tu br
 ---
 ---
 
-## 1703. ⚙️ Crossplane : provisionner l'infra en claims Kubernetes (2027)
+## 1703. ⚙️ Crossplane : provisionner l'infra en claims Kubernetes
 
 
 
@@ -11981,7 +11981,7 @@ Tu es platform engineer infra. Tu installes Crossplane sur le cluster (609), les
 ---
 ---
 
-## 1704. 🔄 GitOps avec Argo CD ou Flux (2027)
+## 1704. 🔄 GitOps avec Argo CD ou Flux
 
 
 
@@ -12041,7 +12041,7 @@ Tu es platform engineer déploiement. Tu installes Argo CD (ou Flux) sur le clus
 ---
 ---
 
-## 1705. 🛡 Kyverno / OPA : policies as code sur Kubernetes (2027)
+## 1705. 🛡 Kyverno / OPA : policies as code sur Kubernetes
 
 
 
@@ -12100,7 +12100,7 @@ Tu es platform security engineer. Tu installes Kyverno (plus simple, YAML) ou OP
 ---
 ---
 
-## 1706. 📊 Métriques DORA : mesurer la performance de livraison (2027)
+## 1706. 📊 Métriques DORA : mesurer la performance de livraison
 
 
 
@@ -12160,7 +12160,7 @@ Tu es platform engineer metrics. Tu définis les 4 métriques DORA, tu les colle
 ---
 ---
 
-## 1707. 👥 Team Topologies : structurer les équipes plateforme (2027)
+## 1707. 👥 Team Topologies : structurer les équipes plateforme
 
 
 
@@ -12220,7 +12220,7 @@ Tu es engineering manager. Tu classes chaque équipe dans les 4 types, tu défin
 ---
 ---
 
-## 1708. 🤖 AI-assisted IDP : demander un service en langage naturel (2027)
+## 1708. 🤖 AI-assisted IDP : demander un service en langage naturel
 
 
 
@@ -12279,7 +12279,7 @@ Tu es platform engineer IA. Tu connectes un LLM au portail (Backstage plugin ou 
 ---
 ---
 
-## 1709. 💰 Cout de l'IDP : TCO et justification metier (2027)
+## 1709. 💰 Cout de l'IDP : TCO et justification metier
 
 
 
@@ -12338,7 +12338,7 @@ Tu es platform manager. Tu fais le tableur TCO (coûts directs : équipe/licence
 ---
 ---
 
-## 1710. ⚖️ Port, Cortex, Humanitec : IDP managé vs Backstage (2027)
+## 1710. ⚖️ Port, Cortex, Humanitec : IDP managé vs Backstage
 
 
 
@@ -12397,7 +12397,7 @@ Tu es platform architect. Tu compares : Backstage (gratuit, custom, coûteux en 
 ---
 ---
 
-## 1711. 🎯 Scorecards : niveaux de maturité des services (2027)
+## 1711. 🎯 Scorecards : niveaux de maturité des services
 
 
 
@@ -12456,7 +12456,7 @@ Tu es platform engineer gouvernance. Tu définis les critères par niveau (bronz
 ---
 ---
 
-## 1712. 📏 Framework SPACE : mesurer la productivité dev (2027)
+## 1712. 📏 Framework SPACE : mesurer la productivité dev
 
 
 
@@ -12516,7 +12516,7 @@ Tu es engineering manager. Tu appliques SPACE : S = enquête satisfaction 2x/an 
 ---
 ---
 
-## 1713. 🚀 Onboarding developpeur : premier commit en jour 1 (2027)
+## 1713. 🚀 Onboarding developpeur : premier commit en jour 1
 
 
 
@@ -12575,7 +12575,7 @@ Tu es engineering manager onboarding. Tu prépares le parcours J1 : devcontainer
 ---
 ---
 
-## 1714. 📦 Devcontainers : environnement de dev en 1 commande (2027)
+## 1714. 📦 Devcontainers : environnement de dev en 1 commande
 
 
 
@@ -12634,7 +12634,7 @@ Tu es devOps dev experience. Tu écris le devcontainer.json (image officielle du
 ---
 ---
 
-## 1715. 📖 Documentation développeur interne : TechDocs et docs-as-code (2027)
+## 1715. 📖 Documentation développeur interne : TechDocs et docs-as-code
 
 
 
@@ -12693,7 +12693,7 @@ Tu es tech writer / platform. Tu mets docs/ dans chaque repo (architecture ADR 8
 ---
 ---
 
-## 1716. 🧩 Kratix : promises et orchestration multi-cluster (2027)
+## 1716. 🧩 Kratix : promises et orchestration multi-cluster
 
 
 
@@ -12753,7 +12753,7 @@ Tu es platform engineer multi-cluster. Tu installes Kratix sur un cluster 'hub',
 ---
 ---
 
-## 1717. 🗺️ Roadmap plateforme 2027 : de la v1 au produit interne (2027)
+## 1717. 🗺️ Roadmap plateforme : de la v1 au produit interne
 
 
 
@@ -12812,7 +12812,7 @@ Tu es platform product manager. Tu définis la roadmap produit interne : v1 (cat
 ---
 ---
 
-## 1718. 🔒 Securite de la plateforme : zero trust interne (2027)
+## 1718. 🔒 Securite de la plateforme : zero trust interne
 
 
 
@@ -12872,7 +12872,7 @@ Tu es platform security engineer. Tu appliques le zero trust interne : SSO (Entr
 ---
 ---
 
-## 1719. 📣 Communication plateforme : changelog et demos internes (2027)
+## 1719. 📣 Communication plateforme : changelog et demos internes
 
 
 
@@ -12932,7 +12932,7 @@ Tu es platform product manager. Tu mets en place la comm interne produit : chang
 ---
 ---
 
-## 1720. ⚡ eBPF : programmer le noyau Linux sans le modifier (2027)
+## 1720. ⚡ eBPF : programmer le noyau Linux sans le modifier
 
 
 
@@ -12991,7 +12991,7 @@ Tu es ingénieur système cloud-native. Tu expliques le principe (verifier → e
 ---
 ---
 
-## 1721. 🌐 Cilium : networking, sécurité et observabilité eBPF sur k8s (2027)
+## 1721. 🌐 Cilium : networking, sécurité et observabilité eBPF sur k8s
 
 
 
@@ -13052,7 +13052,7 @@ Tu es ingénieur réseau k8s. Tu installes Cilium (cilium CLI / helm) en rempla�
 ---
 ---
 
-## 1722. 🔍 Hubble : observabilité réseau des flux k8s (2027)
+## 1722. 🔍 Hubble : observabilité réseau des flux k8s
 
 
 
@@ -13112,7 +13112,7 @@ Tu es SRE réseau. Tu actives Hubble (cilium hubble enable), tu ouvres l'UI ou l
 ---
 ---
 
-## 1723. 🛡 Falco : détection d'intrusion runtime (2027)
+## 1723. 🛡 Falco : détection d'intrusion runtime
 
 
 
@@ -13172,7 +13172,7 @@ Tu es SOC / sécurité runtime. Tu installes Falco (DaemonSet, mode eBPF si kern
 ---
 ---
 
-## 1724. 🧮 Pixie / Beyla : observabilité zero-instrumentation (2027)
+## 1724. 🧮 Pixie / Beyla : observabilité zero-instrumentation
 
 
 
@@ -13231,7 +13231,7 @@ Tu es SRE observabilité. Tu déploies Beyla (DaemonSet eBPF, un binaire, génè
 ---
 ---
 
-## 1725. 🛡 Tetragon : sécurité runtime avec enforcement (2027)
+## 1725. 🛡 Tetragon : sécurité runtime avec enforcement
 
 
 
@@ -13291,7 +13291,7 @@ Tu es sécurité runtime k8s. Tu installes Tetragon (avec Cilium 1721), tu écri
 ---
 ---
 
-## 1726. 🔎 bpftrace : debug ad-hoc du noyau Linux (2027)
+## 1726. 🔎 bpftrace : debug ad-hoc du noyau Linux
 
 
 
@@ -13350,7 +13350,7 @@ Tu es SRE / admin système. Tu installes bpftrace, tu écris des one-liners sûr
 ---
 ---
 
-## 1727. 🕸️ Cilium service mesh sans sidecar (2027)
+## 1727. 🕸️ Cilium service mesh sans sidecar
 
 
 
@@ -13409,7 +13409,7 @@ Tu es architecte réseau k8s. Tu actives Cilium Service Mesh (1721) : mTLS auto 
 ---
 ---
 
-## 1728. 🏆 Certification Cilium CCAE : valider ses compétences eBPF (2027)
+## 1728. 🏆 Certification Cilium CCAE : valider ses compétences eBPF
 
 
 
@@ -13468,7 +13468,7 @@ Tu es ingénieur réseau k8s. Tu suis le syllabus CCAE (Cilium 1721, Hubble 1722
 ---
 ---
 
-## 1729. 💰 eBPF en entreprise : gouvernance et coûts (2027)
+## 1729. 💰 eBPF en entreprise : gouvernance et coûts
 
 
 
@@ -13528,7 +13528,7 @@ Tu es architecte plateforme. Tu définis la stack eBPF standard de l'entreprise 
 ---
 ---
 
-## 1730. ⚖️ Katran : load balancer L4 eBPF de Meta (2027)
+## 1730. ⚖️ Katran : load balancer L4 eBPF de Meta
 
 
 
@@ -13588,7 +13588,7 @@ Tu es ingénieur réseau perf. Tu déploies Katran (binaire C++ eBPF, config IPV
 ---
 ---
 
-## 1731. 💾 eBPF pour le stockage : monitoring I/O disque (2027)
+## 1731. 💾 eBPF pour le stockage : monitoring I/O disque
 
 
 
@@ -13648,7 +13648,7 @@ Tu es SRE stockage. Tu traces la couche block (kprobes sur blk_account_io ou les
 ---
 ---
 
-## 1732. 📦 eBPF et conteneurs : isolation réseau fine (2027)
+## 1732. 📦 eBPF et conteneurs : isolation réseau fine
 
 
 
@@ -13707,7 +13707,7 @@ Tu es sécurité réseau conteneurs. Tu écris des CiliumNetworkPolicy : ingress
 ---
 ---
 
-## 1733. 🛡 eBPF et sécurité applicative : WAF dans le noyau (2027)
+## 1733. 🛡 eBPF et sécurité applicative : WAF dans le noyau
 
 
 
@@ -13766,7 +13766,7 @@ Tu es sécurité réseau. Tu programmes XDP (drop/redirect/pass) ou TC (classifi
 ---
 ---
 
-## 1734. ⚖️ eBPF vs modules kernel : choisir en 2027 (2027)
+## 1734. ⚖️ eBPF vs modules kernel : choisir en
 
 
 
@@ -13825,7 +13825,7 @@ Tu es architecte système. Tu compares : eBPF (verifier = sécurité, chargement
 ---
 ---
 
-## 1735. ⚖️ Choisir son assistant de codage IA en 2027 (Cursor, Claude Code, Copilot, Devin...) (2027)
+## 1735. ⚖️ Choisir son assistant de codage IA en (Cursor, Claude Code, Copilot, Devin...)
 
 
 
@@ -13884,7 +13884,7 @@ Tu es tech lead. Tu fais la matrice par profil (débutant, dev confirmé, équip
 ---
 ---
 
-## 1736. 🛡 Securite du code genere par IA : revue, licences, fuite de donnees (2027)
+## 1736. 🛡 Securite du code genere par IA : revue, licences, fuite de donnees
 
 
 
@@ -13943,7 +13943,7 @@ Tu es RSSI / tech lead. Tu écris la politique : outil autorisé par classe de c
 ---
 ---
 
-## 1737. 💻 Claude Code en CLI : missions longues et refacto (2027)
+## 1737. 💻 Claude Code en CLI : missions longues et refacto
 
 
 
@@ -14003,7 +14003,7 @@ Tu es dev senior. Tu lances claude dans le terminal, tu décris la mission (le p
 ---
 ---
 
-## 1738. 🤖 Agents de codage autonomes cloud : Devin, Codex (2027)
+## 1738. 🤖 Agents de codage autonomes cloud : Devin, Codex
 
 
 
@@ -14063,7 +14063,7 @@ Tu es tech lead délégation. Tu prépares des issues bien cadrées (contexte, c
 ---
 ---
 
-## 1739. 📊 Mesurer le gain de productivite des outils IA (2027)
+## 1739. 📊 Mesurer le gain de productivite des outils IA
 
 
 
@@ -14123,7 +14123,7 @@ Tu es engineering manager. Tu combines : usage (Analytics API 1737, crédits Cop
 ---
 ---
 
-## 1740. 🖊️ Cursor : IDE agentique au quotidien (2027)
+## 1740. 🖊️ Cursor : IDE agentique au quotidien
 
 
 
@@ -14183,7 +14183,7 @@ Tu es dev quotidien. Tu ouvres le projet dans Cursor, l'indexation se fait autom
 ---
 ---
 
-## 1741. 💡 GitHub Copilot en entreprise : Business, crédits et revue de PR (2027)
+## 1741. 💡 GitHub Copilot en entreprise : Business, crédits et revue de PR
 
 
 
@@ -14243,7 +14243,7 @@ Tu es tech lead / admin GitHub. Tu active Copilot Business (sièges + crédits),
 ---
 ---
 
-## 1742. 🆓 OpenCode et Jules : agents de codage gratuits/open source (2027)
+## 1742. 🆓 OpenCode et Jules : agents de codage gratuits/open source
 
 
 
@@ -14302,7 +14302,7 @@ Tu es dev perso/indé. Tu installes OpenCode (open source, config avec le provid
 ---
 ---
 
-## 1743. 💻 Aider et Cline : agents CLI open source dans le terminal (2027)
+## 1743. 💻 Aider et Cline : agents CLI open source dans le terminal
 
 
 
@@ -14361,7 +14361,7 @@ Tu es dev terminal. Tu installes aider (pip) ou l'extension Cline, tu configures
 ---
 ---
 
-## 1744. 🔎 Sourcegraph Cody : chercher dans une grosse codebase (2027)
+## 1744. 🔎 Sourcegraph Cody : chercher dans une grosse codebase
 
 
 
@@ -14421,7 +14421,7 @@ Tu es dev monorepo. Tu déploies Sourcegraph (cloud ou self-host 1633), tu index
 ---
 ---
 
-## 1745. ⚡ Lovable, Bolt, v0 : prototyper une appli web avec l'IA (2027)
+## 1745. ⚡ Lovable, Bolt, v0 : prototyper une appli web avec l'IA
 
 
 
@@ -14480,7 +14480,7 @@ Tu es product builder. Tu décris l'app en langage naturel, l'outil génère + d
 ---
 ---
 
-## 1746. 📖 Documentation auto du code par IA : docstrings, README, ADR (2027)
+## 1746. 📖 Documentation auto du code par IA : docstrings, README, ADR
 
 
 
@@ -14540,7 +14540,7 @@ Tu es dev / tech writer. Tu fais générer par l'agent (Cursor 1740 / Copilot 17
 ---
 ---
 
-## 1747. 🧪 Tests auto generes par l'IA depuis le code (2027)
+## 1747. 🧪 Tests auto generes par l'IA depuis le code
 
 
 
@@ -14600,7 +14600,7 @@ Tu es dev / QA. Tu fais générer les tests par l'agent (Cursor 1740 / Copilot 1
 ---
 ---
 
-## 1748. 🧹 Refactoring massif assisté par IA : dette technique (2027)
+## 1748. 🧹 Refactoring massif assisté par IA : dette technique
 
 
 
@@ -14659,7 +14659,7 @@ Tu es tech lead dette. Tu fais un plan de dette (top 10 modules par criticité �
 ---
 ---
 
-## 1749. ⚖️ Vibe coding responsable : quand l'IA code, quand l'humain code (2027)
+## 1749. ⚖️ Vibe coding responsable : quand l'IA code, quand l'humain code
 
 
 
@@ -14719,7 +14719,7 @@ Tu es tech lead. Tu écris la charte : ce que l'IA fait (boilerplate, tests 1747
 ---
 ---
 
-## 1750. 🧭 OpenTelemetry GenAI : sémantique standard pour les LLM (2027)
+## 1750. 🧭 OpenTelemetry GenAI : sémantique standard pour les LLM
 
 
 
@@ -14779,7 +14779,7 @@ Tu es observability engineer LLM. Tu instrumentes avec le SDK OTel (+ instrument
 ---
 ---
 
-## 1751. 🎯 SLO pour les features LLM : latence, qualité, coût (2027)
+## 1751. 🎯 SLO pour les features LLM : latence, qualité, coût
 
 
 
@@ -14840,7 +14840,7 @@ Tu es SRE feature IA. Tu définis les SLI (latence TTFT/p99 1439, erreurs, quali
 ---
 ---
 
-## 1752. 💰 Cout de l'observabilite : cardinalite, echantillonnage, stockage (2027)
+## 1752. 💰 Cout de l'observabilite : cardinalite, echantillonnage, stockage
 
 
 
@@ -14900,7 +14900,7 @@ Tu es SRE FinOps observabilité. Tu audites la cardinalité (nb de séries par m
 ---
 ---
 
-## 1753. 📊 Golden signals + RED + USE : quels signaux mesurer (2027)
+## 1753. 📊 Golden signals + RED + USE : quels signaux mesurer
 
 
 
@@ -14959,7 +14959,7 @@ Tu es SRE. Tu appliques : Golden Signals sur chaque service (dashboard 1416), RE
 ---
 ---
 
-## 1754. 📂 Observability as code : dashboards et alertes en Git (2027)
+## 1754. 📂 Observability as code : dashboards et alertes en Git
 
 
 
@@ -15019,7 +15019,7 @@ Tu es SRE platform. Tu exportes la config Grafana/Prometheus en code (JSON/YAML/
 ---
 ---
 
-## 1755. 🤖 AIOps : RCA automatique et réduction du MTTR (2027)
+## 1755. 🤖 AIOps : RCA automatique et réduction du MTTR
 
 
 
@@ -15079,7 +15079,7 @@ Tu es SRE incident. Tu unifies les signaux (1680/1416/1469/609) dans une platefo
 ---
 ---
 
-## 1756. 📱 RUM : performance réelle des utilisateurs (2027)
+## 1756. 📱 RUM : performance réelle des utilisateurs
 
 
 
@@ -15138,7 +15138,7 @@ Tu es dev front perf. Tu injectes web-vitals (npm) dans l'app, tu envoies les m�
 ---
 ---
 
-## 1757. ⏱️ SLO burn rate : alertes intelligentes sur le budget d'erreur (2027)
+## 1757. ⏱️ SLO burn rate : alertes intelligentes sur le budget d'erreur
 
 
 
@@ -15198,7 +15198,7 @@ Tu es SRE alerting. Tu définis le SLO (99,9 % = 43 min/mois de budget 351), tu 
 ---
 ---
 
-## 1758. 🚨 Incident management 2027 : sévérité, rôles, post-mortem blameless (2027)
+## 1758. 🚨 Incident management : sévérité, rôles, post-mortem blameless
 
 
 
@@ -15258,7 +15258,7 @@ Tu es incident manager. Tu définis les SEV + SLA (SEV1 = réponse 15 min, war r
 ---
 ---
 
-## 1759. 🌪️ Chaos engineering : tester la résilience en 2027 (2027)
+## 1759. 🌪️ Chaos engineering : tester la résilience en
 
 
 
@@ -15318,7 +15318,7 @@ Tu es SRE résilience. Tu définis l'hypothèse (ex. 'avec 1 pod down sur 10, p9
 ---
 ---
 
-## 1760. 🎯 SLO multi-niveaux et politique de budget d'erreur (2027)
+## 1760. 🎯 SLO multi-niveaux et politique de budget d'erreur
 
 
 
@@ -15376,7 +15376,7 @@ Tu es SRE / responsable fiabilité. Tu hierarchises les parcours (paiement, logi
 ---
 ---
 
-## 1761. 🔔 Alerting intelligent : debruitage et routage des alertes (2027)
+## 1761. 🔔 Alerting intelligent : debruitage et routage des alertes
 
 
 
@@ -15434,7 +15434,7 @@ Tu es SRE / ingénieur plateforme. Tu construis les alertes sur les signaux qui 
 ---
 ---
 
-## 1762. 🧵 Tracing distribué de bout en bout (2027)
+## 1762. 🧵 Tracing distribué de bout en bout
 
 
 
@@ -15492,7 +15492,7 @@ Tu es ingénieur observabilité. Tu propages le contexte W3C (traceparent) a cha
 ---
 ---
 
-## 1763. ⚠️ Cardinalité des métriques : pièges et limites (2027)
+## 1763. ⚠️ Cardinalité des métriques : pièges et limites
 
 
 
@@ -15550,7 +15550,7 @@ Tu es ingénieur observabilité / FinOps. Tu audites les labels existants, tu su
 ---
 ---
 
-## 1764. 📖 Runbooks et auto-remédiation des incidents (2027)
+## 1764. 📖 Runbooks et auto-remédiation des incidents
 
 
 
@@ -15608,7 +15608,7 @@ Tu es SRE / ingénieur plateforme. Tu ecris chaque runbook en 5 sections (sympt�
 ---
 ---
 
-## 1765. 🔌 Observabilité de la couche MCP et des appels d'outils des agents (2027)
+## 1765. 🔌 Observabilité de la couche MCP et des appels d'outils des agents
 
 
 
@@ -15666,7 +15666,7 @@ Tu es ingénieur IA / observabilité. Tu instrumentes les tool calls (MCP, shell
 ---
 ---
 
-## 1766. 📊 Dashboards orientés décision et storytelling (2027)
+## 1766. 📊 Dashboards orientés décision et storytelling
 
 
 
@@ -15724,7 +15724,7 @@ Tu es ingénieur observabilité / data analyst. Tu définis une audience par das
 ---
 ---
 
-## 1767. 💸 Tracing LLM : tokens, appels d'outils et coût par requête (2027)
+## 1767. 💸 Tracing LLM : tokens, appels d'outils et coût par requête
 
 
 
@@ -15782,7 +15782,7 @@ Tu es ingénieur IA / FinOps. Tu lis les attributs gen_ai.usage.* (input/output 
 ---
 ---
 
-## 1768. 🧪 Post-incident : postmortem blameless et actions tracées (2027)
+## 1768. 🧪 Post-incident : postmortem blameless et actions tracées
 
 
 
@@ -15840,7 +15840,7 @@ Tu es responsable incident / engineering manager. Tu anime la revue blameless so
 ---
 ---
 
-## 1769. 🎮 Game days et exercices d'incident réguliers (2027)
+## 1769. 🎮 Game days et exercices d'incident réguliers
 
 
 
@@ -15898,7 +15898,7 @@ Tu es responsable fiabilité / SRE lead. Tu choisis un scénario réaliste (pann
 ---
 ---
 
-## 1770. 🧀 Rust dans le noyau Linux en 2027 : bilan et trajectorie
+## 1770. 🧀 Rust dans le noyau Linux : bilan et trajectorie
 
 
 
@@ -16304,7 +16304,7 @@ Tu es architecte noyau / lead technique. Tu cadres toute initiative Rust kernel 
 ---
 ---
 
-## 1777. 🏛️ Gouvernance du tree rust-for-linux et contribution (2027)
+## 1777. 🏛️ Gouvernance du tree rust-for-linux et contribution
 
 
 
@@ -16362,7 +16362,7 @@ Tu es contributeur noyau Linux. Tu suis le processus rust-for-linux : branche pa
 ---
 ---
 
-## 1778. 🛡️ Pourquoi Rust réduit les CVE mémoire du noyau (2027)
+## 1778. 🛡️ Pourquoi Rust réduit les CVE mémoire du noyau
 
 
 
@@ -16420,7 +16420,7 @@ Tu es responsable sécurité noyau. Tu quantifies : ~70 % des CVE noyau = bugs m
 ---
 ---
 
-## 1779. 🗺️ Feuille de route Rust kernel 2027-2030 : nettoyage API puis nouveaux drivers
+## 1779. 🗺️ Feuille de route Rust kernel : nettoyage API puis nouveaux drivers
 
 
 
@@ -16478,7 +16478,7 @@ Tu es architecte noyau / DSI tech. Tu planifies en 2 phases : nettoyage/abstract
 ---
 ---
 
-## 1780. 🐘 PostgreSQL 18 en 2027 : vue d'ensemble des nouveautés
+## 1780. 🐘 PostgreSQL 18 : vue d'ensemble des nouveautés
 
 
 
@@ -16594,7 +16594,7 @@ Tu es DBA performance. Tu configures io_method=io_uring (avec fallback sync/work
 ---
 ---
 
-## 1782. 🔑 uuidv7() dans PostgreSQL 18 : UUID monotones et localité d'index
+## 1782. 🔑 uuidv7 dans PostgreSQL 18 : UUID monotones et localité d'index
 
 
 
@@ -16942,7 +16942,7 @@ Tu es DBA. Tu prepares les deux binaires (ancien/nouveau), tu lances pg_upgrade 
 ---
 ---
 
-## 1788. 🔒 Durcissement sécurité de PostgreSQL 18 (2027)
+## 1788. 🔒 Durcissement sécurité de PostgreSQL 18
 
 
 
@@ -17000,7 +17000,7 @@ Tu es DBA sécurité. Tu appliques la checklist : password_encryption=scram-sha-
 ---
 ---
 
-## 1789. 🛠️ Plan de migration vers PostgreSQL 18/19 (2027) : tests, pgbench, rollback
+## 1789. 🛠️ Plan de migration vers PostgreSQL 18/19 : tests, pgbench, rollback
 
 
 
@@ -17058,7 +17058,7 @@ Tu es DBA / chef de projet technique. Tu suis le plan en 4 etapes : check, recet
 ---
 ---
 
-## 1790. 🧾 Inventaire cryptographique (CBOM) et plan de migration PQC (2027)
+## 1790. 🧾 Inventaire cryptographique (CBOM) et plan de migration PQC
 
 
 
@@ -17117,7 +17117,7 @@ Tu es RSSI / responsable crypto. Tu produis le CBOM (outil : scan TLS externe, i
 ---
 ---
 
-## 1791. 🔒 TLS 1.3 hybride X25519MLKEM768 (PQC ready, 2027)
+## 1791. 🔒 TLS 1.3 hybride X25519MLKEM768 (PQC ready)
 
 
 
@@ -17175,7 +17175,7 @@ Tu es admin système / sécurité réseau. Tu configures le groupe X25519MLKEM76
 ---
 ---
 
-## 1792. ✍️ Signatures post-quantiques ML-DSA et certificats X.509 hybrides (2027)
+## 1792. ✍️ Signatures post-quantiques ML-DSA et certificats X.509 hybrides
 
 
 
@@ -17234,7 +17234,7 @@ Tu es responsable PKI / sécurité. Tu génères les clés ML-DSA-65 (OpenSSL 3.
 ---
 ---
 
-## 1793. 🧩 WASI 0.3 et Component Model : WebAssembly hors navigateur (2027)
+## 1793. 🧩 WASI 0.3 et Component Model : WebAssembly hors navigateur
 
 
 
@@ -17292,7 +17292,7 @@ Tu es développeur plateforme / cloud. Tu cibles wasm32-wasip2, tu choisis le ru
 ---
 ---
 
-## 1794. 🧷 Plugins et sandbox en WebAssembly : sécurité par capacités (2027)
+## 1794. 🧷 Plugins et sandbox en WebAssembly : sécurité par capacités
 
 
 
@@ -17350,7 +17350,7 @@ Tu es développeur plateforme / sécurité applicative. Tu configures les capaci
 ---
 ---
 
-## 1795. 🌱 Éco-conception logicielle : référentiel RGESN (2027)
+## 1795. 🌱 Éco-conception logicielle : référentiel RGESN
 
 
 
@@ -17408,7 +17408,7 @@ Tu es responsable éco-conception / chef de projet. Tu appliques les 79 critère
 ---
 ---
 
-## 1796. 🌍 Mesurer l'empreinte carbone du SI (2027) : Scaphandre, Boavizta, EcoIndex, CSRD
+## 1796. 🌍 Mesurer l'empreinte carbone du SI : Scaphandre, Boavizta, EcoIndex, CSRD
 
 
 
@@ -17467,7 +17467,7 @@ Tu es responsable Green IT / reporting RSE. Tu deploies Scaphandre sur les serve
 ---
 ---
 
-## 1797. 🌎 Edge computing 2027 : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale
+## 1797. 🌎 Edge computing : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale
 
 
 
@@ -17525,7 +17525,7 @@ Tu es développeur full-stack / architecte edge. Tu choisis Workers pour le cold
 ---
 ---
 
-## 1798. 🚀 DevEx 2027 : métriques SPACE + DORA et harness engineering
+## 1798. 🚀 DevEx : métriques SPACE + DORA et harness engineering
 
 
 
@@ -17583,7 +17583,7 @@ Tu es engineering manager / platform lead. Tu choisis 2-3 métriques par dimensi
 ---
 ---
 
-## 1799. 📡 Tech radar interne 2027 : quoi adopter, tester, évaluer, abandonner
+## 1799. 📡 Tech radar interne : quoi adopter, tester, évaluer, abandonner
 
 
 
@@ -17641,7 +17641,7 @@ Tu es CTO / lead architecte. Tu maintiens le radar interne (outil : thoughtworks
 ---
 ---
 
-## 1800. 🚪 AI Gateway 2027 : router et plafonner les appels LLM multi-fournisseurs
+## 1800. 🚪 AI Gateway : router et plafonner les appels LLM multi-fournisseurs
 
 
 

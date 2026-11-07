@@ -1,7 +1,7 @@
 ---
 num: 1741
 date_ajout: "2026-11"
-nom: "GitHub Copilot en entreprise : Business, crédits et revue de PR (2027)"
+nom: "GitHub Copilot en entreprise : Business, crédits et revue de PR"
 emoji: "💡"
 domaine: "Développement"
 signal: "Déployer GitHub Copilot en entreprise en 2027 (le plus déployé, Business 19 $/siège, crédits d'usage depuis juin 2026) : complétion dans l'IDE, chat, mode agent, revue de PR automatique (821), filtres de sécurité (pas de code correspondant à du code public protégé), DPA/contrat entreprise, pas de rétention du code (opt-out). Utilise pour toute l'équipe GitHub. N'utilise pas la version gratuite pour du code interne (1736)."

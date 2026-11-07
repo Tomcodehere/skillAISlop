@@ -1,12 +1,12 @@
 ---
 num: 987
 date_ajout: "2026-11"
-nom: "Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027"
+nom: "Organiser un enterrement de vie de célibataire (EVJF/EVG)"
 emoji: "🎊"
 domaine: "Personnel"
 signal: "Organiser un EVJF/EVG 2027, budget, activités, week-end, invitations, surprise, déguisements, sécurité (alcool responsable)"
 mot_cle: "organiser un evjf 2027"
-nom_court: "EVJF 2027"
+nom_court: "EVJF"
 branche: "D26"
 synonymes: ["evg 2027"]
 cross_refs: [972, 863, 1323]

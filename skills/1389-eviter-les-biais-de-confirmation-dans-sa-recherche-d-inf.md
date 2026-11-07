@@ -1,7 +1,7 @@
 ---
 num: 1389
 date_ajout: "2026-11"
-nom: "Eviter les biais de confirmation dans sa recherche d'info (2027)"
+nom: "Eviter les biais de confirmation dans sa recherche d'info"
 emoji: "🪞"
 domaine: "Recherche"
 signal: "Structurer sa recherche d'information pour eviter le biais de confirmation en 2027 : chercher d'abord les sources CONTRAIRES a son hypothese, varier les sources (academia/presse, FR/EN), noter ce qui infirme, utiliser la méthode du contradicteur. Utilise quand on doit prendre une decision importante sur un sujet debattu. N'utilise pas pour la simple curiosite."

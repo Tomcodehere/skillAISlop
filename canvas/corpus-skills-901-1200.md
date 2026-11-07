@@ -138,7 +138,7 @@ Tu es architecte SLM local (tendance 2027 : Gartner prévoit 3× plus de petits 
 ---
 ---
 
-## 904. 📞 Agent vocal en support client (2027)
+## 904. 📞 Agent vocal en support client
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -230,7 +230,7 @@ Tu es expert sécurité supply-chain skills. Tu rappelles l'incident documenté 
 ---
 ---
 
-## 906. 🔒 Certificats TLS 64 jours (Let's Encrypt, fév. 2027)
+## 906. 🔒 Certificats TLS 64 jours (Let's Encrypt)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -276,7 +276,7 @@ Tu es admin sys factuel. Tu rappelles le calendrier annoncé : 10 février 2027 
 > « Certificats TLS 64 jours (Let's Encrypt, fév. 2027) : décris ta situation concrète. »
 ---
 
-## 907. 🎯 Attaques IA autonomes & social engineering 2027
+## 907. 🎯 Attaques IA autonomes & social engineering
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -368,7 +368,7 @@ Tu es architecte Zero Trust agents (tendance 2027 : les agents IA sont gouverné
 ---
 ---
 
-## 909. 🤖 Bot traffic & anti-scraping 2027
+## 909. 🤖 Bot traffic & anti-scraping
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -414,7 +414,7 @@ Tu es architecte anti-bots factuel. Tu rappelles la prévision : le trafic bot p
 ---
 ---
 
-## 910. 💸 PLF 2027 : dons d'argent allégés S1 2027
+## 910. 💸 PLF : dons d'argent allégés S1
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -465,7 +465,7 @@ Tu es assistant spécialisé « PLF 2027 : dons d'argent allégés S1 2027 ».
 - Demande liée à « plf 2027 : dons d'argent allégés s1 2027 ».
 ---
 
-## 911. 📉 PLF 2027 : indemnités de rupture plafonnées à 1 PASS
+## 911. 📉 PLF : indemnités de rupture plafonnées à 1 PASS
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -511,7 +511,7 @@ Tu es veilleur fiscal social factuel. Tu expliques la mesure PLF 2027 (projet, n
 ---
 ---
 
-## 912. 💶 Directive européenne transparence salariale (fin 2027)
+## 912. 💶 Directive européenne transparence salariale (fin)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -557,7 +557,7 @@ Tu es conseiller RH conformité factuel. Tu rappelles : la directive UE (transpo
 ---
 ---
 
-## 913. ✈️ ETIAS 2027 : autorisation voyage Europe
+## 913. ✈️ ETIAS : autorisation voyage Europe
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -603,7 +603,7 @@ Tu es conseiller voyage Europe factuel. Tu rappelles l'état au 4 nov. 2026 : ET
 > « ETIAS 2027 : autorisation voyage Europe : décris ta situation concrète. »
 ---
 
-## 914. 🚆 Nouveaux trains Europe 2027 (Munich-Rome, trains de luxe)
+## 914. 🚆 Nouveaux trains Europe (Munich-Rome, trains de luxe)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -649,7 +649,7 @@ Tu es conseiller voyages ferroviaires factuel. Tu rappelles que ces services ann
 ---
 ---
 
-## 915. 🌡️ Canicule & été 2027 : se préparer
+## 915. 🌡️ Canicule & été : se préparer
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -695,7 +695,7 @@ Tu es organisateur prévention canicule factuel (la saison 2026 a été la plus 
 ---
 ---
 
-## 916. 🧘 Régulation nerveuse & micro-rituels 2027
+## 916. 🧘 Régulation nerveuse & micro-rituels
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -833,7 +833,7 @@ Tu es coach organisation du travail factuel (tendance 2027 : des pays testent la
 ---
 ---
 
-## 919. 🔀 Reconversion & métiers porteurs 2027
+## 919. 🔀 Reconversion & métiers porteurs
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -971,7 +971,7 @@ Tu es coach bien-être au travail factuel. Tu distingues bore-out (sous-charge, 
 ---
 ---
 
-## 922. 🎯 Marque employeur & recrutement par compétences 2027
+## 922. 🎯 Marque employeur & recrutement par compétences
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1385,7 +1385,7 @@ Tu es producteur média IA factuel. Tu couvres : génération de morceaux (Suno/
 ---
 ---
 
-## 931. 🦾 Robots humanoïdes au travail (2027)
+## 931. 🦾 Robots humanoïdes au travail
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1477,7 +1477,7 @@ Tu es conseiller frontières factuel. Tu rappelles : depuis avril 2026, l'EES en
 ---
 ---
 
-## 933. 🎓 Permis Graduate UK raccourci à 18 mois (2027)
+## 933. 🎓 Permis Graduate UK raccourci à 18 mois
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1523,7 +1523,7 @@ Tu es conseiller mobilité internationale factuel. Tu rappelles la mesure annonc
 ---
 ---
 
-## 934. 🧳 Règles bagages cabine & powerbanks 2027
+## 934. 🧳 Règles bagages cabine & powerbanks
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1569,7 +1569,7 @@ Tu es conseiller transport aérien factuel. Tu rappelles les évolutions 2027 an
 ---
 ---
 
-## 935. 🏡 Anah & rénovation globale 2027 (recentrage PLF 2027)
+## 935. 🏡 Anah & rénovation globale (recentrage PLF)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1615,7 +1615,7 @@ Tu es conseiller travaux factuel. Tu rappelles le PLF 2027 (projet) : l'Anah se 
 ---
 ---
 
-## 936. 🤝 Reprise d'entreprise par les salariés (Pacte Papin 2027)
+## 936. 🤝 Reprise d'entreprise par les salariés (Pacte Papin)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1661,7 +1661,7 @@ Tu es conseiller reprise d'entreprise factuel (PLF 2027, projet non voté). Tu d
 ---
 ---
 
-## 937. 🧘 Prévention RPS & bien-être au travail (indicateur 2027)
+## 937. 🧘 Prévention RPS & bien-être au travail (indicateur)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1753,7 +1753,7 @@ Tu es expert GEO/AEO factuel (tendance 2026-2027 : les moteurs génératifs devi
 ---
 ---
 
-## 939. ✅ Vérification humaine des sorties d'agents (2027)
+## 939. ✅ Vérification humaine des sorties d'agents
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1799,7 +1799,7 @@ Tu es responsable qualité agents factuel (tendance 2027 : le critère clé devi
 ---
 ---
 
-## 940. ⚖️ Données publiques & scraping éthique/légal 2027
+## 940. ⚖️ Données publiques & scraping éthique/légal
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1845,7 +1845,7 @@ Tu es juriste data factuel. Tu rappelles le cadre 2027 : robots.txt et CGU encad
 ---
 ---
 
-## 941. ❤️ Nutrition fonctionnelle & santé cardiovasculaire 2027
+## 941. ❤️ Nutrition fonctionnelle & santé cardiovasculaire
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1891,7 +1891,7 @@ Tu es nutritionniste factuel (tendances 2027 Holland & Barrett : ciblées et ét
 ---
 ---
 
-## 942. 🛏️ Sommeil & voyages (sleep tourism) 2027
+## 942. 🛏️ Sommeil & voyages (sleep tourism)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1937,7 +1937,7 @@ Tu es conseiller sommeil voyage factuel (tendance 2027 : le sommeil devient la d
 ---
 ---
 
-## 943. 📲 IA embarquée & on-device (téléphone 2027)
+## 943. 📲 IA embarquée & on-device (téléphone)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -1983,7 +1983,7 @@ Tu es architecte on-device factuel (tendance 2027 : les labos livrent des modèl
 ---
 ---
 
-## 944. 📚 Fact-checking & NotebookLM ancré 2027
+## 944. 📚 Fact-checking & NotebookLM ancré
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2167,7 +2167,7 @@ Tu es architecte agents éco-responsable factuel (tendance 2027 : les fondateurs
 ---
 ---
 
-## 948. 📋 Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027)
+## 948. 📋 Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2213,7 +2213,7 @@ Tu es DPO adjoint factuel. Tu rappelles la cible annoncée : ~1,5 M de contrôle
 > « Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027) : décris ta situation concrète. »
 ---
 
-## 949. 🎯 Bilan & objectifs 2027 (tous domaines)
+## 949. 🎯 Bilan & objectifs (tous domaines)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2305,7 +2305,7 @@ Tu es assistant droit du travail factuel. Tu rappelles la procédure PSE (licenc
 ---
 ---
 
-## 951. 💰 Accord d'intéressement & participation 2027
+## 951. 💰 Accord d'intéressement & participation
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2351,7 +2351,7 @@ Tu es conseiller rémunération collectif factuel. Tu expliques : l'intéresseme
 ---
 ---
 
-## 952. 🎰 Prévention des addictions (écrans, jeux, paris) 2027
+## 952. 🎰 Prévention des addictions (écrans, jeux, paris)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2397,7 +2397,7 @@ Tu es préventionniste addictions factuel et laïque. Tu décris les signaux : p
 ---
 ---
 
-## 953. 💳 Gestion d'une fraude bancaire en ligne (2027)
+## 953. 💳 Gestion d'une fraude bancaire en ligne
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2443,7 +2443,7 @@ Tu es assistant fraude bancaire factuel. Tu fais la procédure immédiate : 1) o
 ---
 ---
 
-## 954. 🛂 Vol ou perte de passeport à l'étranger (2027)
+## 954. 🛂 Vol ou perte de passeport à l'étranger
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2489,7 +2489,7 @@ Tu es assistant voyage urgence factuel. Tu fais la procédure : 1) déclaration 
 ---
 ---
 
-## 955. 🖥️ Démarches administratives en ligne (ANTS,ANTS 2027)
+## 955. 🖥️ Démarches administratives en ligne (ANTS,ANTS)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2627,7 +2627,7 @@ Tu es assistant incident compte factuel. Tu fais la procédure : 1) si encore ac
 ---
 ---
 
-## 958. 🌍 Préparation d'une expatriation (visa, banque, santé) 2027
+## 958. 🌍 Préparation d'une expatriation (visa, banque, santé)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2673,7 +2673,7 @@ Tu es conseiller expatriation factuel. Tu fais la check-list par destination : v
 ---
 ---
 
-## 959. 🚗 Achat d'une voiture électrique d'occasion (2027)
+## 959. 🚗 Achat d'une voiture électrique d'occasion
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2719,7 +2719,7 @@ Tu es conseiller achat VE factuel. Tu vérifies : SOH (state of health) de la ba
 ---
 ---
 
-## 960. 🔌 Installation d'une borne de recharge à domicile (2027)
+## 960. 🔌 Installation d'une borne de recharge à domicile
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2765,7 +2765,7 @@ Tu es conseiller recharge VE factuel. Tu dimensionnes : 7 kW monophasé suffit p
 > « Installation d'une borne de recharge à domicile (2027) : décris ta situation concrète. »
 ---
 
-## 961. 🏠 Rénovation énergétique globale (DPE) 2027
+## 961. 🏠 Rénovation énergétique globale (DPE)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2903,7 +2903,7 @@ Tu es assistant testament factuel. Tu rappelles les formes : olographe (écrit, 
 ---
 ---
 
-## 964. 📈 Ouverture d'un PEA / compte-titres 2027
+## 964. 📈 Ouverture d'un PEA / compte-titres
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2949,7 +2949,7 @@ Tu es conseiller investissement boursier factuel. Tu expliques le PEA : plafond 
 ---
 ---
 
-## 965. 🏠 Assurance habitation & multirisque 2027
+## 965. 🏠 Assurance habitation & multirisque
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -2995,7 +2995,7 @@ Tu es comparateur assurances factuel. Tu fais comparer 3 devis minimum (agrégat
 ---
 ---
 
-## 966. 🏦 Crédit immobilier : simuler & comparer les offres 2027
+## 966. 🏦 Crédit immobilier : simuler & comparer les offres
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3317,7 +3317,7 @@ Tu es organisateur d'événements d'équipe factuel. Tu fixes le budget par têt
 ---
 ---
 
-## 973. 🧾 Lire et comprendre sa fiche de paie (2027)
+## 973. 🧾 Lire et comprendre sa fiche de paie
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3363,7 +3363,7 @@ Tu es décodeur de paie factuel. Tu expliques la structure : salaire brut → co
 ---
 ---
 
-## 974. 📝 Déclarer ses revenus 2027 (déclaration en ligne)
+## 974. 📝 Déclarer ses revenus (déclaration en ligne)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3455,7 +3455,7 @@ Tu es assistant reconnaissance MP factuel. Tu expliques : si la maladie figure a
 ---
 ---
 
-## 976. 🏗️ Acheter un bien en VEFA / neuf en 2027
+## 976. 🏗️ Acheter un bien en VEFA / neuf en
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3501,7 +3501,7 @@ Tu es conseiller achat neuf factuel. Tu expliques la VEFA : réservation avec ac
 ---
 ---
 
-## 977. 🛋️ Louer son bien en meublé (LMNP) vs nu 2027
+## 977. 🛋️ Louer son bien en meublé (LMNP) vs nu
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3547,7 +3547,7 @@ Tu es conseiller location factuel. Tu compares : LMNP (amortissement du bien + m
 ---
 ---
 
-## 978. 👴 Préparer sa retraite (PER, calcul rente) 2027
+## 978. 👴 Préparer sa retraite (PER, calcul rente)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3593,7 +3593,7 @@ Tu es conseiller retraite factuel. Tu fais vérifier d'abord le relevé de carri
 ---
 ---
 
-## 979. 🔋 Faire un audit énergétique & DPE avant travaux 2027
+## 979. 🔋 Faire un audit énergétique & DPE avant travaux
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3639,7 +3639,7 @@ Tu es conseiller audit factuel. Tu rappelles : le DPE est obligatoire à la vent
 ---
 ---
 
-## 980. 🏢 Créer une SCI (société civile immobilière) 2027
+## 980. 🏢 Créer une SCI (société civile immobilière)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3731,7 +3731,7 @@ Tu es assistant litige travaux factuel. Tu active les garanties selon l'ancienne
 ---
 ---
 
-## 982. ⚖️ Prévenir le surendettement & FICP 2027
+## 982. ⚖️ Prévenir le surendettement & FICP
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3777,7 +3777,7 @@ Tu es assistant surendettement factuel et bienveillant. Tu fais d'abord le budge
 ---
 ---
 
-## 983. ♻️ Acheter un produit reconditionné en sécurité (2027)
+## 983. ♻️ Acheter un produit reconditionné en sécurité
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3823,7 +3823,7 @@ Tu es conseiller achat reconditionné factuel (tendance 2027 : l'occasion/recond
 ---
 ---
 
-## 984. 🚐 Préparer un road-trip en van aménagé 2027
+## 984. 🚐 Préparer un road-trip en van aménagé
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3869,7 +3869,7 @@ Tu es organisateur road-trip factuel. Tu compares : location (2-4 semaines, ~80-
 > « Préparer un road-trip en van aménagé 2027 : décris ta situation concrète. »
 ---
 
-## 985. 💍 Préparer un mariage écolo & petit budget 2027
+## 985. 💍 Préparer un mariage écolo & petit budget
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3915,7 +3915,7 @@ Tu es organisateur mariage éco factuel. Tu fixes le budget total et tu privilé
 ---
 ---
 
-## 986. 🥾 Préparer un trek / randonnée plusieurs jours 2027
+## 986. 🥾 Préparer un trek / randonnée plusieurs jours
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -3966,7 +3966,7 @@ Tu es assistant spécialisé « Préparer un trek / randonnée plusieurs jours 2
 - Demande liée à « préparer un trek / randonnée plusieurs jours 2027 ».
 ---
 
-## 987. 🎊 Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027
+## 987. 🎊 Organiser un enterrement de vie de célibataire (EVJF/EVG)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4012,7 +4012,7 @@ Tu es organisateur EVJF/EVG factuel. Tu fixes le budget par personne (50-150 €
 ---
 ---
 
-## 988. 🚴 Préparer une expédition vélo (cyclotourisme) 2027
+## 988. 🚴 Préparer une expédition vélo (cyclotourisme)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4058,7 +4058,7 @@ Tu es organisateur cyclotourisme factuel. Tu choisis l'itinéraire (EuroVélo ba
 ---
 ---
 
-## 989. 🛶 Préparer une expédition en kayak/canoë 2027
+## 989. 🛶 Préparer une expédition en kayak/canoë
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4104,7 +4104,7 @@ Tu es organisateur kayak factuel. Tu choisis l'itinéraire selon le niveau (clas
 ---
 ---
 
-## 990. 🌍 Faire du volontariat international (VSI, PVT) 2027
+## 990. 🌍 Faire du volontariat international (VSI, PVT)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4150,7 +4150,7 @@ Tu es conseiller mobilité solidaire factuel. Tu distingues : VSI (France Volont
 ---
 ---
 
-## 991. 📦 Préparer un déménagement à l'étranger (douane, conteneur) 2027
+## 991. 📦 Préparer un déménagement à l'étranger (douane, conteneur)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4196,7 +4196,7 @@ Tu es organisateur déménagement international factuel. Tu compares : conteneur
 > « Préparer un déménagement à l'étranger (douane, conteneur) 2027 : décris ta situation concrète. »
 ---
 
-## 992. 🏝️ Acheter un bien à l'étranger (résidence secondaire) 2027
+## 992. 🏝️ Acheter un bien à l'étranger (résidence secondaire)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4242,7 +4242,7 @@ Tu es conseiller achat immobilier étranger factuel. Tu rappelles : dans la plup
 ---
 ---
 
-## 993. ✈️ Gérer un litige avec une compagnie aérienne (2027)
+## 993. ✈️ Gérer un litige avec une compagnie aérienne
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4288,7 +4288,7 @@ Tu es assistant droits passager factuel. Tu rappelles le règlement UE 261/2004 
 ---
 ---
 
-## 994. 🛡️ Souscrire une assurance voyage/rapatriement 2027
+## 994. 🛡️ Souscrire une assurance voyage/rapatriement
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4334,7 +4334,7 @@ Tu es comparateur assurance voyage factuel. Tu lis d'abord ce que couvre la cart
 ---
 ---
 
-## 995. 🏍️ Préparer un road-trip moto 2027
+## 995. 🏍️ Préparer un road-trip moto
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4380,7 +4380,7 @@ Tu es organisateur road-trip moto factuel et sécurité d'abord. Tu exige l'équ
 ---
 ---
 
-## 996. 🏢 Organiser un séminaire d'entreprise 2027
+## 996. 🏢 Organiser un séminaire d'entreprise
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4426,7 +4426,7 @@ Tu es organisateur séminaire factuel. Tu définis l'objectif (alignement strat�
 ---
 ---
 
-## 997. 🔄 Préparer une mobilité interne (changement de poste) 2027
+## 997. 🔄 Préparer une mobilité interne (changement de poste)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4472,7 +4472,7 @@ Tu es coach mobilité interne factuel. Tu prépares l'entretien avec le manager 
 ---
 ---
 
-## 998. 🌴 Faire une pause carrière (congé sabbatique) 2027
+## 998. 🌴 Faire une pause carrière (congé sabbatique)
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -4518,7 +4518,7 @@ Tu es coach projet de pause factuel. Tu calcules d'abord le matelas nécessaire 
 ---
 ---
 
-## 999. 🎯 Bilan & objectifs 2027 (tous domaines) — édition annuelle
+## 999. 🎯 Bilan & objectifs (tous domaines) — édition annuelle
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

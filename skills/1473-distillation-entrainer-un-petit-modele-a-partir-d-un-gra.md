@@ -1,7 +1,7 @@
 ---
 num: 1473
 date_ajout: "2026-11"
-nom: "Distillation : entrainer un petit modele a partir d'un grand (2027)"
+nom: "Distillation : entrainer un petit modele a partir d'un grand"
 emoji: "🧪"
 domaine: "Data & IA"
 signal: "Distiller un grand LLM en un petit en 2027 : le grand génère des données d'entraînement de qualité (chain-of-thought incluses), le petit apprend à les imiter (SFT), puis on évalue vs le grand. Utilise quand on veut un SLM maison spécialisé. N'utilise pas pour remplacer le fine-tuning sur données métier (1479)."

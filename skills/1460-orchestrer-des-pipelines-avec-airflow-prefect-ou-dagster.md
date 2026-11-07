@@ -1,7 +1,7 @@
 ---
 num: 1460
 date_ajout: "2026-11"
-nom: "Orchestrer des pipelines avec Airflow, Prefect ou Dagster (2027)"
+nom: "Orchestrer des pipelines avec Airflow, Prefect ou Dagster"
 emoji: "🎠"
 domaine: "Data"
 signal: "Choisir et déployer un orchestrateur de pipelines data en 2027 : Apache Airflow (mature, scheduler central), Prefect (Python moderne, flows), Dagster (assets, data-aware, tests). Critères : taille équipe, complexité, monitoring, coûts. Utilise quand des pipelines ETL grandissent. N'utilise pas pour un simple cron."

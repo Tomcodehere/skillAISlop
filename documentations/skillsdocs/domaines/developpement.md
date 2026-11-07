@@ -395,9 +395,9 @@
 - **Fichier** : `skills/803-navigateur-agentique-webmcp-lightpanda.md` · **Mot-clé** : « navigateur agentique » · **Nom court** : Navigateur agentique
 - **Signal** : Navigateur pour agent IA, WebMCP, lightpanda, agent-browser, automation web headless par agent · **Synonymes** : « webmcp », « lightpanda » · **Cross-refs** : 252, 544, 821 · **Tags** : 2027
 
-## 809. 🎤 Codage vocal (voice coding, DevDay 2026)
+## 809. 🎤 Codage vocal (voice coding, DevDay)
 
-- **Fichier** : `skills/809-codage-vocal-voice-coding-devday-2026.md` · **Mot-clé** : « codage vocal » · **Nom court** : Voice coding
+- **Fichier** : `skills/809-codage-vocal-voice-coding-devday.md` · **Mot-clé** : « codage vocal » · **Nom court** : Voice coding
 - **Signal** : Coder à la voix, voice coding, piloter Codex/agent en parlant, dictée de code, /agents vocal · **Synonymes** : « coder à la voix » · **Cross-refs** : 76, 471, 540 · **Tags** : 2027
 
 ## 821. 👀 Revue de PR automatisée par agent
@@ -410,14 +410,14 @@
 - **Fichier** : `skills/822-generation-de-tests-depuis-la-doc-doc-to-test.md` · **Mot-clé** : « tests depuis la doc » · **Nom court** : Doc-to-test
 - **Signal** : Générer des tests depuis la documentation API, doc-to-test, tests auto depuis un PDF de spec · **Synonymes** : « doc to test » · **Cross-refs** : 302, 543, 67 · **Tags** : 2027, aihero:implement-spec
 
-## 906. 🔒 Certificats TLS 64 jours (Let's Encrypt, fév. 2027)
+## 906. 🔒 Certificats TLS 64 jours (Let's Encrypt)
 
-- **Fichier** : `skills/906-certificats-tls-64-jours-let-s-encrypt-fev-2027.md` · **Mot-clé** : « certificat tls 64 jours » · **Nom court** : TLS 64j
+- **Fichier** : `skills/906-certificats-tls-64-jours-let-s-encrypt.md` · **Mot-clé** : « certificat tls 64 jours » · **Nom court** : TLS 64j
 - **Signal** : Renouvellement automatique certificats TLS, Let's Encrypt passe à 64 jours le 10 février 2027, ACME, Certbot, test staging · **Synonymes** : « lets encrypt 2027 » · **Cross-refs** : 507, 512, 918 · **Tags** : 2027
 
-## 909. 🤖 Bot traffic & anti-scraping 2027
+## 909. 🤖 Bot traffic & anti-scraping
 
-- **Fichier** : `skills/909-bot-traffic-anti-scraping-2027.md` · **Mot-clé** : « protéger son site des bots » · **Nom court** : Anti-bots
+- **Fichier** : `skills/909-bot-traffic-anti-scraping.md` · **Mot-clé** : « protéger son site des bots » · **Nom court** : Anti-bots
 - **Signal** : Trafic de bots 2027, scraping agressif, protéger son site des bots IA, Cloudflare, rate limiting, fingerprinting 2027 · **Synonymes** : « scraping ia 2027 » · **Cross-refs** : 544, 907, 1029 · **Tags** : 2027
 
 ## 924. 🇪🇺 Souveraineté numérique & hébergement européen
@@ -430,9 +430,9 @@
 - **Fichier** : `skills/925-agent-client-protocol-acp-byo-agent.md` · **Mot-clé** : « agent client protocol acp » · **Nom court** : ACP
 - **Signal** : Agent Client Protocol ACP 2027, bring your own agent Android Studio, installer plusieurs agents de code, interop agents 2027 · **Synonymes** : « byo agent » · **Cross-refs** : 76, 803, 712 · **Tags** : 2027
 
-## 943. 📲 IA embarquée & on-device (téléphone 2027)
+## 943. 📲 IA embarquée & on-device (téléphone)
 
-- **Fichier** : `skills/943-ia-embarquee-on-device-telephone-2027.md` · **Mot-clé** : « ia sur téléphone 2027 » · **Nom court** : IA on-device
+- **Fichier** : `skills/943-ia-embarquee-on-device-telephone.md` · **Mot-clé** : « ia sur téléphone 2027 » · **Nom court** : IA on-device
 - **Signal** : IA embarquée on-device 2027, modèles qui tournent sur téléphone, confidentialité maximale, Siri nouvelle génération, Apple Intelligence · **Synonymes** : « apple intelligence 2027 » · **Cross-refs** : 903, 841, 331 · **Tags** : 2027
 
 ## 1004. 💻 Active Directory Architecture Design
@@ -980,404 +980,404 @@
 - **Fichier** : `skills/1315-domotique-matter-objets-connectes-sobres.md` · **Mot-clé** : « domotique matter 2027 » · **Nom court** : Matter domotique
 - **Signal** : Domotique 2027 avec le protocole Matter, objets connectés interopérables, économies d'énergie, installation simple sans cloud obligatoire · **Synonymes** : « maison connectée sobre » · **Cross-refs** : 903, 841, 222 · **Tags** : 2027
 
-## 1400. 🔀 Git rebase interactif et historique propre (2027)
+## 1400. 🔀 Git rebase interactif et historique propre
 
-- **Fichier** : `skills/1400-git-rebase-interactif-et-historique-propre-2027.md` · **Mot-clé** : « git rebase interactif squash commits » · **Nom court** : Rebase interactif
+- **Fichier** : `skills/1400-git-rebase-interactif-et-historique-propre.md` · **Mot-clé** : « git rebase interactif squash commits » · **Nom court** : Rebase interactif
 - **Signal** : Reorganiser son historique Git proprement en 2027 : rebase interactif (squash, reword, reorder) avant de pousser. Utilise quand une branche a 15 commits brouillons. N'utilise pas sur une branche deja partagee sans accord. · **Synonymes** : « squash mes commits », « historique git propre », « rebase avant push » · **Cross-refs** : 301, 316, 68 · **Tags** : 2027
 
-## 1401. 🔍 Revue de code constructive (2027)
+## 1401. 🔍 Revue de code constructive
 
-- **Fichier** : `skills/1401-revue-de-code-constructive-2027.md` · **Mot-clé** : « revue de code code review PR constructive » · **Nom court** : Code review
+- **Fichier** : `skills/1401-revue-de-code-constructive.md` · **Mot-clé** : « revue de code code review PR constructive » · **Nom court** : Code review
 - **Signal** : Faire une revue de code (code review) utile en 2027 : quoi regarder en priorité (bugs, sécurité, lisibilité), comment formuler ses commentaires, approuver vs demander des changements. Utilise quand tu reviewes une PR. N'utilise pas pour relire ton propre code. · **Synonymes** : « review une PR », « donner du feedback code », « approuver une pull request » · **Cross-refs** : 10, 821, 68 · **Tags** : 2027
 
-## 1402. ⚔️ Gerer les conflits de merge (2027)
+## 1402. ⚔️ Gerer les conflits de merge
 
-- **Fichier** : `skills/1402-gerer-les-conflits-de-merge-2027.md` · **Mot-clé** : « résoudre conflit de merge git » · **Nom court** : Conflit merge
+- **Fichier** : `skills/1402-gerer-les-conflits-de-merge.md` · **Mot-clé** : « résoudre conflit de merge git » · **Nom court** : Conflit merge
 - **Signal** : Résoudre un conflit de merge en 2027 : comprendre le conflit, choisir quoi garder ligne par ligne (ours/theirs), valider avec les tests, ne jamais résoudre à l'aveugle. Utilise quand git signale un conflit. N'utilise pas pour du rebase complexe. · **Synonymes** : « git conflict », « merge conflict », « résoudre un conflit git » · **Cross-refs** : 301, 316, 10 · **Tags** : 2027
 
-## 1403. 🪝 Hooks Git et pre-commit (2027)
+## 1403. 🪝 Hooks Git et pre-commit
 
-- **Fichier** : `skills/1403-hooks-git-et-pre-commit-2027.md` · **Mot-clé** : « hooks git pre-commit framework lint auto » · **Nom court** : Pre-commit
+- **Fichier** : `skills/1403-hooks-git-et-pre-commit.md` · **Mot-clé** : « hooks git pre-commit framework lint auto » · **Nom court** : Pre-commit
 - **Signal** : Automatiser les vérifications avant chaque commit en 2027 avec les hooks Git et pre-commit (lint, tests rapides, détection de secrets) : pre-commit framework ou husky côté front. Utilise quand on veut un filet de sécurité local. N'utilise pas pour remplacer la CI. · **Synonymes** : « pre-commit automatique », « hook git avant commit », « husky precommit » · **Cross-refs** : 311, 308, 67 · **Tags** : 2027
 
-## 1404. 🌳 Strategie de branching : GitFlow vs trunk-based (2027)
+## 1404. 🌳 Strategie de branching : GitFlow vs trunk-based
 
-- **Fichier** : `skills/1404-strategie-de-branching-gitflow-vs-trunk-based-2027.md` · **Mot-clé** : « stratégie de branching gitflow trunk-based github flow » · **Nom court** : Branching
+- **Fichier** : `skills/1404-strategie-de-branching-gitflow-vs-trunk-based.md` · **Mot-clé** : « stratégie de branching gitflow trunk-based github flow » · **Nom court** : Branching
 - **Signal** : Choisir et appliquer une stratégie de branching en 2027 : GitFlow (feature/release/hotfix), trunk-based (commits sur main avec feature flags), GitHub Flow (PR courtes). Utilise quand l'équipe débat du workflow Git. N'utilise pas pour un dépôt perso. · **Synonymes** : « gitflow ou trunk based », « workflow git équipe », « github flow vs gitflow » · **Cross-refs** : 301, 304, 316 · **Tags** : 2027
 
-## 1405. 🧰 Refactoring en securite : petits pas et tests (2027)
+## 1405. 🧰 Refactoring en securite : petits pas et tests
 
-- **Fichier** : `skills/1405-refactoring-en-securite-petits-pas-et-tests-2027.md` · **Mot-clé** : « refactoring sécurisé petits pas tests legacy » · **Nom court** : Refactoring sûr
+- **Fichier** : `skills/1405-refactoring-en-securite-petits-pas-et-tests.md` · **Mot-clé** : « refactoring sécurisé petits pas tests legacy » · **Nom court** : Refactoring sûr
 - **Signal** : Refactorer du code legacy en sécurité en 2027 : petites étapes testées (characterization tests), un changement à la fois, sans casser le comportement. Utilise quand on touche du code ancien sans tests. N'utilise pas pour une réécriture complète. · **Synonymes** : « refactorer code legacy », « petits pas refactoring », « characterization tests » · **Cross-refs** : 80, 67, 302 · **Tags** : 2027
 
-## 1406. 📖 Documentation vivante (docs-as-code, 2027)
+## 1406. 📖 Documentation vivante (docs-as-code)
 
-- **Fichier** : `skills/1406-documentation-vivante-docs-as-code-2027.md` · **Mot-clé** : « documentation vivante docs-as-code markdown docusaurus » · **Nom court** : Docs-as-code
+- **Fichier** : `skills/1406-documentation-vivante-docs-as-code.md` · **Mot-clé** : « documentation vivante docs-as-code markdown docusaurus » · **Nom court** : Docs-as-code
 - **Signal** : Maintenir une documentation technique vivante en 2027 (docs-as-code) : doc dans le dépôt (Markdown, MkDocs/Docusaurus), générée depuis le code (docstrings, OpenAPI), testée en CI (liens morts). Utilise quand la doc dérive du code. N'utilise pas pour la doc marketing. · **Synonymes** : « doc qui colle au code », « documentation dans le repo », « mkdocs docusaurus 2027 » · **Cross-refs** : 23, 312, 1030 · **Tags** : 2027
 
-## 1407. 💬 Commentaires utiles dans le code (2027)
+## 1407. 💬 Commentaires utiles dans le code
 
-- **Fichier** : `skills/1407-commentaires-utiles-dans-le-code-2027.md` · **Mot-clé** : « commentaires code utiles pourquoi pas quoi » · **Nom court** : Bons commentaires
+- **Fichier** : `skills/1407-commentaires-utiles-dans-le-code.md` · **Mot-clé** : « commentaires code utiles pourquoi pas quoi » · **Nom court** : Bons commentaires
 - **Signal** : Écrire des commentaires de code utiles en 2027 : expliquer le POURQUOI (décision, contrainte, piège), pas le QUOI (évident), supprimer les commentaires morts. Utilise quand on relit du code commenté. N'utilise pas pour remplacer un bon nommage. · **Synonymes** : « quand commenter le code », « pourquoi pas quoi commentaire », « commentaires morts » · **Cross-refs** : 9, 311, 10 · **Tags** : 2027
 
-## 1408. ⚠️ Gestion propre des erreurs et exceptions (2027)
+## 1408. ⚠️ Gestion propre des erreurs et exceptions
 
-- **Fichier** : `skills/1408-gestion-propre-des-erreurs-et-exceptions-2027.md` · **Mot-clé** : « gestion des erreurs exceptions try catch proprement » · **Nom court** : Gestion erreurs
+- **Fichier** : `skills/1408-gestion-propre-des-erreurs-et-exceptions.md` · **Mot-clé** : « gestion des erreurs exceptions try catch proprement » · **Nom court** : Gestion erreurs
 - **Signal** : Gérer les erreurs proprement en 2027 : try/catch ciblés, exceptions métier nommées, messages actionnables pour l'utilisateur, log avec contexte côté serveur (jamais de stack trace exposée en prod). Utilise quand on écrit du code qui peut échouer. N'utilise pas pour le monitoring. · **Synonymes** : « try catch ciblé », « exceptions métier », « message erreur actionnable » · **Cross-refs** : 20, 1409, 89 · **Tags** : 2027
 
-## 1409. 📝 Logging structure et niveaux de log (2027)
+## 1409. 📝 Logging structure et niveaux de log
 
-- **Fichier** : `skills/1409-logging-structure-et-niveaux-de-log-2027.md` · **Mot-clé** : « logging structuré JSON niveaux request_id » · **Nom court** : Logging structuré
+- **Fichier** : `skills/1409-logging-structure-et-niveaux-de-log.md` · **Mot-clé** : « logging structuré JSON niveaux request_id » · **Nom court** : Logging structuré
 - **Signal** : Mettre en place un logging structuré en 2027 : niveaux (DEBUG/INFO/WARN/ERROR), logs JSON avec contexte (request_id), jamais de données perso en clair, corrélation de bout en bout. Utilise quand on instrumente une app. N'utilise pas pour les métriques. · **Synonymes** : « logs en JSON structurés », « niveaux de log debug info warn error », « correlation id log » · **Cross-refs** : 191, 1282, 1469 · **Tags** : 2027
 
-## 1410. ⚙️ Configuration par environnement (12-factor, 2027)
+## 1410. ⚙️ Configuration par environnement (12-factor)
 
-- **Fichier** : `skills/1410-configuration-par-environnement-12-factor-2027.md` · **Mot-clé** : « configuration 12-factor variables environnement » · **Nom court** : Config 12-factor
+- **Fichier** : `skills/1410-configuration-par-environnement-12-factor.md` · **Mot-clé** : « configuration 12-factor variables environnement » · **Nom court** : Config 12-factor
 - **Signal** : Gérer la configuration d'une app selon la méthode 12-factor en 2027 : jamais de config dans le code, variables d'environnement, .env par environnement, secrets hors du dépôt. Utilise quand on déploie sur plusieurs environnements. N'utilise pas pour les secrets eux-mêmes. · **Synonymes** : « variables d'environnement app », « config par environnement dev prod », « 12 factor app » · **Cross-refs** : 305, 306, 82 · **Tags** : 2027
 
-## 1411. 📦 Docker multi-stage et images legeres (2027)
+## 1411. 📦 Docker multi-stage et images legeres
 
-- **Fichier** : `skills/1411-docker-multi-stage-et-images-legeres-2027.md` · **Mot-clé** : « docker multi-stage image légère distroless » · **Nom court** : Docker léger
+- **Fichier** : `skills/1411-docker-multi-stage-et-images-legeres.md` · **Mot-clé** : « docker multi-stage image légère distroless » · **Nom court** : Docker léger
 - **Signal** : Construire des images Docker légères en 2027 avec les builds multi-stage : étape de build séparée de l'image finale, base distroless ou alpine, utilisateur non-root, .dockerignore. Utilise quand on dockerise une app. N'utilise pas pour Kubernetes (voir déploiement). · **Synonymes** : « image docker petite taille », « multi-stage build docker », « dockerfile optimisé 2027 » · **Cross-refs** : 314, 1110, 1109 · **Tags** : 2027
 
-## 1412. ☸️ Kubernetes : ConfigMaps, secrets et deploiement (2027)
+## 1412. ☸️ Kubernetes : ConfigMaps, secrets et deploiement
 
-- **Fichier** : `skills/1412-kubernetes-configmaps-secrets-et-deploiement-2027.md` · **Mot-clé** : « kubernetes deployment configmap secret manifests » · **Nom court** : K8s deploy
+- **Fichier** : `skills/1412-kubernetes-configmaps-secrets-et-deploiement.md` · **Mot-clé** : « kubernetes deployment configmap secret manifests » · **Nom court** : K8s deploy
 - **Signal** : Déployer sur Kubernetes en 2027 : manifestes YAML (Deployment, Service, Ingress), ConfigMaps pour la config, Secrets pour les credentials, sondes liveness/readiness, limites de ressources. Utilise quand on met une app sur un cluster K8s. N'utilise pas en local (voir Docker). · **Synonymes** : « déployer sur kubernetes », « manifests yaml k8s », « configmap secret k8s 2027 » · **Cross-refs** : 609, 614, 85 · **Tags** : 2027
 
-## 1413. ⏩ Pipeline CI rapide : cache et parallelisation (2027)
+## 1413. ⏩ Pipeline CI rapide : cache et parallelisation
 
-- **Fichier** : `skills/1413-pipeline-ci-rapide-cache-et-parallelisation-2027.md` · **Mot-clé** : « pipeline CI rapide cache parallèle matrix » · **Nom court** : CI rapide
+- **Fichier** : `skills/1413-pipeline-ci-rapide-cache-et-parallelisation.md` · **Mot-clé** : « pipeline CI rapide cache parallèle matrix » · **Nom court** : CI rapide
 - **Signal** : Accélérer une pipeline CI lente en 2027 : cache des dépendances (actions/cache, Docker layers), parallélisation (matrix), tests shardés, early-exit sur échec. Utilise quand la CI met 25 min. N'utilise pas pour réduire la couverture de tests. · **Synonymes** : « accélérer github actions », « cache dépendances CI », « jobs parallèles matrix » · **Cross-refs** : 508, 323, 317 · **Tags** : 2027
 
-## 1414. 🤝 Tests de contrat consommateur (Pact, 2027)
+## 1414. 🤝 Tests de contrat consommateur (Pact)
 
-- **Fichier** : `skills/1414-tests-de-contrat-consommateur-pact-2027.md` · **Mot-clé** : « tests de contrat pact consumer driven API » · **Nom court** : Tests Pact
+- **Fichier** : `skills/1414-tests-de-contrat-consommateur-pact.md` · **Mot-clé** : « tests de contrat pact consumer driven API » · **Nom court** : Tests Pact
 - **Signal** : Écrire des tests de contrat (consumer-driven contracts) avec Pact en 2027 : le consommateur décrit ses attentes, le provider les valide en CI, évitant les ruptures d'API entre microservices. Utilise quand plusieurs services communiquent par API. N'utilise pas pour les tests internes. · **Synonymes** : « consumer contract testing », « pact tests API microservices », « éviter rupture API entre services » · **Cross-refs** : 604, 526, 87 · **Tags** : 2027
 
-## 1415. 🚀 Tests de performance avec k6 ou Locust (2027)
+## 1415. 🚀 Tests de performance avec k6 ou Locust
 
-- **Fichier** : `skills/1415-tests-de-performance-avec-k6-ou-locust-2027.md` · **Mot-clé** : « test de charge k6 locust p95 seuils » · **Nom court** : Test de charge
+- **Fichier** : `skills/1415-tests-de-performance-avec-k6-ou-locust.md` · **Mot-clé** : « test de charge k6 locust p95 seuils » · **Nom court** : Test de charge
 - **Signal** : Écrire un test de charge en 2027 avec k6 (script JS, seuils) ou Locust (Python) : scénario réaliste, montée en charge progressive, métriques (p95, taux d'erreur), seuils de réussite en CI. Utilise quand on prépare un pic de trafic. N'utilise pas pour du profiling local. · **Synonymes** : « k6 test de performance », « locust charge test », « p95 latence seuil CI » · **Cross-refs** : 255, 309, 253 · **Tags** : 2027
 
-## 1416. 📈 Monitoring applicatif Prometheus et Grafana (2027)
+## 1416. 📈 Monitoring applicatif Prometheus et Grafana
 
-- **Fichier** : `skills/1416-monitoring-applicatif-prometheus-et-grafana-2027.md` · **Mot-clé** : « prometheus grafana monitoring métriques promql » · **Nom court** : Prom+Grafana
+- **Fichier** : `skills/1416-monitoring-applicatif-prometheus-et-grafana.md` · **Mot-clé** : « prometheus grafana monitoring métriques promql » · **Nom court** : Prom+Grafana
 - **Signal** : Mettre en place le monitoring applicatif en 2027 avec Prometheus (métriques, PromQL) et Grafana (dashboards, alertes) : instrumenter l'app (compteurs, histogrammes), scraping, alertes sur SLO. Utilise quand une app part en prod. N'utilise pas pour les logs. · **Synonymes** : « monitoring app prometheus », « dashboards grafana alertes », « métriques custom promql 2027 » · **Cross-refs** : 1282, 1209, 351 · **Tags** : 2027
 
-## 1417. 🔔 Alerting sans bruit : alert fatigue (2027)
+## 1417. 🔔 Alerting sans bruit : alert fatigue
 
-- **Fichier** : `skills/1417-alerting-sans-bruit-alert-fatigue-2027.md` · **Mot-clé** : « alerting sans bruit alert fatigue SLO runbook » · **Nom court** : Alerting sain
+- **Fichier** : `skills/1417-alerting-sans-bruit-alert-fatigue.md` · **Mot-clé** : « alerting sans bruit alert fatigue SLO runbook » · **Nom court** : Alerting sain
 - **Signal** : Concevoir des alertes qui ne créent pas de fatigue (alert fatigue) en 2027 : alertes actionnables uniquement, seuils sur erreurs utilisateur/SLO (pas CPU), regroupement, runbook attaché à chaque alerte. Utilise quand on met en place l'alerting. N'utilise pas pour le monitoring lui-même. · **Synonymes** : « alertes qui ne spamment pas », « réduire le bruit des alertes », « alert fatigue 2027 » · **Cross-refs** : 1416, 256, 89 · **Tags** : 2027
 
-## 1418. 🚩 Rollout progressif et deploiement canary (2027)
+## 1418. 🚩 Rollout progressif et deploiement canary
 
-- **Fichier** : `skills/1418-rollout-progressif-et-deploiement-canary-2027.md` · **Mot-clé** : « déploiement canary rollout progressif 5% » · **Nom court** : Canary
+- **Fichier** : `skills/1418-rollout-progressif-et-deploiement-canary.md` · **Mot-clé** : « déploiement canary rollout progressif 5% » · **Nom court** : Canary
 - **Signal** : Déployer en canary en 2027 : 5 % du trafic sur la nouvelle version, surveiller erreurs/latence, puis monter (25, 50, 100 %) ou rollback auto. Utilise quand on déploie un changement risqué. N'utilise pas pour un hotfix urgent. · **Synonymes** : « canary deployment », « rollout 5 25 50 100% », « flagger nouvelle version » · **Cross-refs** : 304, 614, 1147 · **Tags** : 2027
 
-## 1419. 🗃️ Indexation avancee des bases de donnees (2027)
+## 1419. 🗃️ Indexation avancee des bases de donnees
 
-- **Fichier** : `skills/1419-indexation-avancee-des-bases-de-donnees-2027.md` · **Mot-clé** : « index base de données composite covering explain analyze » · **Nom court** : Indexation
+- **Fichier** : `skills/1419-indexation-avancee-des-bases-de-donnees.md` · **Mot-clé** : « index base de données composite covering explain analyze » · **Nom court** : Indexation
 - **Signal** : Concevoir des index efficaces en 2027 : B-tree vs composite vs partiel, covering index, éviter la sur-indexation (coût en écriture), EXPLAIN ANALYZE pour vérifier. Utilise quand une requête est lente. N'utilise pas pour le tuning global du SGBD. · **Synonymes** : « créer un index composite », « covering index », « explain analyze requête lente », « créer index composite explain analyze » · **Cross-refs** : 318, 1201, 1229 · **Tags** : 2027
 
-## 1420. 🪟 SQL avance : fonctions fenetres (window functions, 2027)
+## 1420. 🪟 SQL avance : fonctions fenetres (window functions)
 
-- **Fichier** : `skills/1420-sql-avance-fonctions-fenetres-window-functions-2027.md` · **Mot-clé** : « sql window functions partition by row_number lag » · **Nom court** : Window functions
+- **Fichier** : `skills/1420-sql-avance-fonctions-fenetres-window-functions.md` · **Mot-clé** : « sql window functions partition by row_number lag » · **Nom court** : Window functions
 - **Signal** : Utiliser les fonctions fenêtres SQL en 2027 (ROW_NUMBER, RANK, LAG, SUM OVER, PARTITION BY) pour des analytics directement en SQL, sans exporter les données. Utilise pour cumuls, classements, deltas ligne à ligne. N'utilise pas pour un simple GROUP BY. · **Synonymes** : « partition by sql », « row_number rank sql », « lag lead sql » · **Cross-refs** : 318, 69, 1277 · **Tags** : 2027
 
-## 1421. 🔒 Transactions, verrouillage et deadlocks (2027)
+## 1421. 🔒 Transactions, verrouillage et deadlocks
 
-- **Fichier** : `skills/1421-transactions-verrouillage-et-deadlocks-2027.md` · **Mot-clé** : « transactions ACID isolation deadlock verrouillage » · **Nom court** : Transactions
+- **Fichier** : `skills/1421-transactions-verrouillage-et-deadlocks.md` · **Mot-clé** : « transactions ACID isolation deadlock verrouillage » · **Nom court** : Transactions
 - **Signal** : Comprendre et gérer les transactions en 2027 : propriétés ACID, niveaux d'isolation (READ COMMITTED vs SERIALIZABLE), verrouillage, détecter et éviter les deadlocks. Utilise quand des données sont modifiées concurremment. N'utilise pas pour la modélisation. · **Synonymes** : « niveau isolation read committed serializable », « deadlock base de données », « éviter les deadlocks » · **Cross-refs** : 321, 542, 1042 · **Tags** : 2027
 
-## 1422. 🗄️ Choisir sa base NoSQL : MongoDB, Redis, Cassandra (2027)
+## 1422. 🗄️ Choisir sa base NoSQL : MongoDB, Redis, Cassandra
 
-- **Fichier** : `skills/1422-choisir-sa-base-nosql-mongodb-redis-cassandra-2027.md` · **Mot-clé** : « choisir base nosql mongodb redis cassandra » · **Nom court** : Choisir NoSQL
+- **Fichier** : `skills/1422-choisir-sa-base-nosql-mongodb-redis-cassandra.md` · **Mot-clé** : « choisir base nosql mongodb redis cassandra » · **Nom court** : Choisir NoSQL
 - **Signal** : Choisir la bonne base NoSQL en 2027 : MongoDB (documents flexibles, requêtes riches), Redis (cache, temps réel, files), Cassandra/Scylla (écritures massives distribuées). Utilise quand le besoin n'est pas relationnel. N'utilise pas par défaut (le SQL suffit souvent). · **Synonymes** : « mongodb ou redis », « cassandra scylla écriture massive », « base NoSQL choisir 2027 » · **Cross-refs** : 321, 542, 94 · **Tags** : 2027
 
-## 1423. ⏱️ Cache applicatif et invalidation (2027)
+## 1423. ⏱️ Cache applicatif et invalidation
 
-- **Fichier** : `skills/1423-cache-applicatif-et-invalidation-2027.md` · **Mot-clé** : « cache redis TTL invalidation cache-aside » · **Nom court** : Cache app
+- **Fichier** : `skills/1423-cache-applicatif-et-invalidation.md` · **Mot-clé** : « cache redis TTL invalidation cache-aside » · **Nom court** : Cache app
 - **Signal** : Mettre en place un cache applicatif en 2027 (Redis/Memcached) : cache-aside, TTL, invalidation à l'écriture, éviter le cache stale. Utilise quand une donnée est lue souvent et change peu. N'utilise pas pour du temps réel strict. · **Synonymes** : « mettre en cache avec redis », « TTL invalidation cache », « cache-aside lazy loading » · **Cross-refs** : 542, 1422, 318 · **Tags** : 2027
 
-## 1424. 🛡 Validation des donnees et contraintes BDD (2027)
+## 1424. 🛡 Validation des donnees et contraintes BDD
 
-- **Fichier** : `skills/1424-validation-des-donnees-et-contraintes-bdd-2027.md` · **Mot-clé** : « validation données pydantic zod contraintes BDD » · **Nom court** : Validation données
+- **Fichier** : `skills/1424-validation-des-donnees-et-contraintes-bdd.md` · **Mot-clé** : « validation données pydantic zod contraintes BDD » · **Nom court** : Validation données
 - **Signal** : Sécuriser le modèle de données en 2027 : validation côté app (Pydantic/Zod) + contraintes BDD (NOT NULL, CHECK, FK), requêtes paramétrées uniquement, pas de confiance dans les entrées. Utilise quand on conçoit ou audite un schéma. N'utilise pas pour l'authentification. · **Synonymes** : « valider entrées pydantic zod », « contraintes BDD check fk », « requêtes paramétrées » · **Cross-refs** : 321, 542, 1227 · **Tags** : 2027
 
-## 1600. ⚡ Vite 8 et Rolldown (Rust) : accélérer ses builds (2027)
+## 1600. ⚡ Vite 8 et Rolldown (Rust) : accélérer ses builds
 
-- **Fichier** : `skills/1600-vite-8-et-rolldown-rust-accelerer-ses-builds-2027.md` · **Mot-clé** : « vite 8 rolldown rust build rapide migration » · **Nom court** : Vite+Rolldown
+- **Fichier** : `skills/1600-vite-8-et-rolldown-rust-accelerer-ses-builds.md` · **Mot-clé** : « vite 8 rolldown rust build rapide migration » · **Nom court** : Vite+Rolldown
 - **Signal** : Migrer un projet sur Vite 8 + Rolldown (bundler Rust) en 2027 : builds de production de 2,5 min à ~40 s constatés, Environment API (Vite 6+) pour gérer client/serveur/SSR/workers. Utilise quand les builds CI sont lents. N'utilise pas si le projet est déjà sur Vite récent sans douleur. · **Synonymes** : « accélérer mon build vite rolldown rust », « build 2 », « 5 min à 40 s », « vite 8 environment api 2027 » · **Cross-refs** : 323, 1413, 309 · **Tags** : 2027
 
-## 1601. 🧩 HTMX + backend : UI dynamique sans JavaScript lourd (2027)
+## 1601. 🧩 HTMX + backend : UI dynamique sans JavaScript lourd
 
-- **Fichier** : `skills/1601-htmx-backend-ui-dynamique-sans-javascript-lourd-2027.md` · **Mot-clé** : « htmx UI dynamique sans javascript django-htmx fragments » · **Nom court** : HTMX
+- **Fichier** : `skills/1601-htmx-backend-ui-dynamique-sans-javascript-lourd.md` · **Mot-clé** : « htmx UI dynamique sans javascript django-htmx fragments » · **Nom court** : HTMX
 - **Signal** : Construire des interfaces dynamiques en 2027 avec HTMX côté HTML (requêtes AJAX depuis les attributs HTML, mise à jour de fragments de page) + un backend classique (Django django-htmx, Rails, Laravel) : zéro/minimal JS. Utilise pour des apps CRUD/contente-first. N'utilise pas pour des apps très interactives (éditeur riche, jeu). · **Synonymes** : « interface dynamique sans écrire de JS (htmx) », « django-htmx tokens CSRF auto », « remplacer une SPA par du serveur + htmx » · **Cross-refs** : 545, 78, 1268 · **Tags** : 2027
 
-## 1602. ☁️ Retour au serveur : React Server Components et edge (2027)
+## 1602. ☁️ Retour au serveur : React Server Components et edge
 
-- **Fichier** : `skills/1602-retour-au-serveur-react-server-components-et-edge-2027.md` · **Mot-clé** : « react server components RSC edge functions streaming SSR 2027 » · **Nom court** : RSC + edge
+- **Fichier** : `skills/1602-retour-au-serveur-react-server-components-et-edge.md` · **Mot-clé** : « react server components RSC edge functions streaming SSR 2027 » · **Nom court** : RSC + edge
 - **Signal** : Appliquer le « retour au serveur » en 2027 : React Server Components (RSC) dans Next.js/App Router pour moins de JS envoyé au client, edge functions (Vercel/Cloudflare) pour la latence, streaming SSR. Utilise pour les apps web modernes. N'utilise pas pour du 100 % client (éditeur offline). · **Synonymes** : « moins de JavaScript envoyé au client (RSC) », « edge functions latence 50 ms », « streaming SSR Suspense 2027 » · **Cross-refs** : 1249, 1612, 253 · **Tags** : 2027
 
-## 1603. 🚀 Astro + View Transitions API : site content-first rapide (2027)
+## 1603. 🚀 Astro + View Transitions API : site content-first rapide
 
-- **Fichier** : `skills/1603-astro-view-transitions-api-site-content-first-rapide-202.md` · **Mot-clé** : « astro view transitions API site content-first rapide MPA » · **Nom court** : Astro+VT
+- **Fichier** : `skills/1603-astro-view-transitions-api-site-content-first-rapide.md` · **Mot-clé** : « astro view transitions API site content-first rapide MPA » · **Nom court** : Astro+VT
 - **Signal** : Construire un site content-first rapide en 2027 avec Astro (îles d'hydratation partielle, 0 JS par défaut) + View Transitions API (transitions animées entre pages MPA, natif Chrome). Utilise pour blogs, docs, marketing. N'utilise pas pour une app web complexe (dashboard). · **Synonymes** : « site rapide sans framework lourd (astro) », « transitions animées entre pages nativement », « astro islands hydratation partielle » · **Cross-refs** : 545, 1615, 1616 · **Tags** : 2027
 
-## 1604. 🔐 TanStack Start + tRPC : full-stack type-safe (2027)
+## 1604. 🔐 TanStack Start + tRPC : full-stack type-safe
 
-- **Fichier** : `skills/1604-tanstack-start-trpc-full-stack-type-safe-2027.md` · **Mot-clé** : « tanstack start trpc full-stack type-safe zod 2027 » · **Nom court** : TanStack+tRPC
+- **Fichier** : `skills/1604-tanstack-start-trpc-full-stack-type-safe.md` · **Mot-clé** : « tanstack start trpc full-stack type-safe zod 2027 » · **Nom court** : TanStack+tRPC
 - **Signal** : Construire une app full-stack type-safe en 2027 avec TanStack Start (React, routing serveur) + tRPC (API typée de bout en bout, sans schéma OpenAPI à maintenir) : types partagés client/serveur, validation zod. Alternative à Next.js + REST. Utilise pour une app métier interne moderne. N'utilise pas pour un site content-first (voir 1603). · **Synonymes** : « API type-safe de bout en bout (tRPC) », « tanstack start react full-stack 2027 », « trpc vs REST vs GraphQL choisir » · **Cross-refs** : 526, 87, 1249 · **Tags** : 2027
 
-## 1605. ⏩ Qwik : reprise instantanée et first-load à l'échelle (2027)
+## 1605. ⏩ Qwik : reprise instantanée et first-load à l'échelle
 
-- **Fichier** : `skills/1605-qwik-reprise-instantanee-et-first-load-a-l-echelle-2027.md` · **Mot-clé** : « qwik resumability lazy loading first-load instantané 2027 » · **Nom court** : Qwik
+- **Fichier** : `skills/1605-qwik-reprise-instantanee-et-first-load-a-l-echelle.md` · **Mot-clé** : « qwik resumability lazy loading first-load instantané 2027 » · **Nom court** : Qwik
 - **Signal** : Utiliser Qwik en 2027 pour un first-load quasi instantané à grande échelle : resumability (le JS s'exécute là où il s'est arrêté, pas de réhydratation), lazy-loading automatique du code par interaction, optimizer. Utilise pour des apps très lourdes (e-commerce, dashboard). N'utilise pas pour un site simple (Astro 1603 suffit). · **Synonymes** : « app qui charge instantanément (qwik resumability) », « pas de réhydratation (resumability) », « qwik optimizer lazy loading auto » · **Cross-refs** : 1616, 253, 1603 · **Tags** : 2027
 
-## 1606. 🎨 WebGPU cross-browser : 3D et calcul GPU côté client (2027)
+## 1606. 🎨 WebGPU cross-browser : 3D et calcul GPU côté client
 
-- **Fichier** : `skills/1606-webgpu-cross-browser-3d-et-calcul-gpu-cote-client-2027.md` · **Mot-clé** : « webgpu cross-browser 2027 3D calcul GPU compute shaders client » · **Nom court** : WebGPU
+- **Fichier** : `skills/1606-webgpu-cross-browser-3d-et-calcul-gpu-cote-client.md` · **Mot-clé** : « webgpu cross-browser 2027 3D calcul GPU compute shaders client » · **Nom court** : WebGPU
 - **Signal** : Exploiter WebGPU en 2027 (déployé cross-browser fin 2025 / WebKit+Firefox début 2026) : accès direct au GPU du navigateur pour du 3D (Three.js/WebGPU, Babylon) ET du calcul général (compute shaders : ML, physique, data viz lourde). Utilise quand WebGL ne suffit plus. N'utilise pas pour du simple 2D (canvas suffit). · **Synonymes** : « webgpu dans tous les navigateurs fin 2025 », « calcul GPU côté client compute shaders », « webgpu vs webgl choisir 2027 » · **Cross-refs** : 1270, 142, 1557 · **Tags** : 2027
 
-## 1607. 🧠 Inference ML côté client : ONNX Runtime Web + WebGPU (2027)
+## 1607. 🧠 Inference ML côté client : ONNX Runtime Web + WebGPU
 
-- **Fichier** : `skills/1607-inference-ml-cote-client-onnx-runtime-web-webgpu-2027.md` · **Mot-clé** : « onnx runtime web inference ML navigateur webgpu wasm 2027 » · **Nom court** : ML client
+- **Fichier** : `skills/1607-inference-ml-cote-client-onnx-runtime-web-webgpu.md` · **Mot-clé** : « onnx runtime web inference ML navigateur webgpu wasm 2027 » · **Nom court** : ML client
 - **Signal** : Faire tourner un modèle ML directement dans le navigateur en 2027 (inférence client, zéro serveur) : ONNX Runtime Web avec backend WebGPU (1606) ou WASM, modèle converti en ONNX (PyTorch/TF → ONNX), privacy totale + latence nulle. Utilise pour classification d'images, NLP léger, vision. N'utilise pas pour un gros LLM (voir 1438/903). · **Synonymes** : « faire tourner un modèle ML dans le navigateur », « onnx runtime web backend webgpu », « classification image côté client zéro serveur » · **Cross-refs** : 1606, 1608, 943 · **Tags** : 2027
 
-## 1608. 🧱 WebAssembly hors navigateur : WASI 2.0 et composants (2027)
+## 1608. 🧱 WebAssembly hors navigateur : WASI 2.0 et composants
 
-- **Fichier** : `skills/1608-webassembly-hors-navigateur-wasi-2-0-et-composants-2027.md` · **Mot-clé** : « webassembly WASI 2.0 component model hors navigateur CLI plugins edge 2027 » · **Nom court** : Wasm/WASI
+- **Fichier** : `skills/1608-webassembly-hors-navigateur-wasi-2-0-et-composants.md` · **Mot-clé** : « webassembly WASI 2.0 component model hors navigateur CLI plugins edge 2027 » · **Nom court** : Wasm/WASI
 - **Signal** : Faire tourner du code compilé (Rust/C/C++/Go) hors navigateur en 2027 avec WebAssembly + WASI 2.0 (accès fichiers, réseau, horloge standardisés) et le modèle de composants (Component Model : échange de valeurs typées entre langages). Utilise pour CLI, plugins, edge, embarqué. N'utilise pas pour du front (1606/1607). · **Synonymes** : « faire tourner du Rust compilé en wasm partout (WASI) », « component model wasm échange typé entre langages », « wasm sur serveur edge CLI 2027 » · **Cross-refs** : 1607, 1606, 84 · **Tags** : 2027
 
-## 1609. 🖥️ Tauri vs PWA : app desktop légère depuis le web (2027)
+## 1609. 🖥️ Tauri vs PWA : app desktop légère depuis le web
 
-- **Fichier** : `skills/1609-tauri-vs-pwa-app-desktop-legere-depuis-le-web-2027.md` · **Mot-clé** : « tauri vs PWA vs electron app desktop légère 2027 » · **Nom court** : Tauri/PWA
+- **Fichier** : `skills/1609-tauri-vs-pwa-app-desktop-legere-depuis-le-web.md` · **Mot-clé** : « tauri vs PWA vs electron app desktop légère 2027 » · **Nom court** : Tauri/PWA
 - **Signal** : Choisir en 2027 entre Tauri (app desktop native légère embarquant le webview système + backend Rust, ~600 kB contre 100+ Mo pour Electron) et PWA (installable depuis le navigateur, offline, notifications). Utilise selon le besoin (accès système fort → Tauri, distribution web → PWA). N'utilise pas Electron si la taille compte. · **Synonymes** : « app desktop 600 kB avec tauri (pas electron) », « PWA installable offline notifications push », « tauri backend rust webview système » · **Cross-refs** : 1608, 607, 545 · **Tags** : 2027
 
-## 1610. 🎨 CSS 2027 : :has(), container queries, view transitions natifs
+## 1610. 🎨 CSS : :has, container queries, view transitions natifs
 
-- **Fichier** : `skills/1610-css-2027-has-container-queries-view-transitions-natifs.md` · **Mot-clé** : « css 2027 :has() container queries @container scroll-driven animations » · **Nom court** : CSS 2027
+- **Fichier** : `skills/1610-css-has-container-queries-view-transitions-natifs.md` · **Mot-clé** : « css 2027 :has() container queries @container scroll-driven animations » · **Nom court** : CSS
 - **Signal** : Utiliser les nouveautés CSS 2027 : sélecteur :has() (parent selon enfant, cross-browser), container queries (@container, style des composants selon leur conteneur), View Transitions natifs entre pages, scroll-driven animations (@scroll-timeline). Utilise pour du CSS moderne sans JS. N'utilise pas pour de la logique métier. · **Synonymes** : « sélecteur CSS :has() parent selon enfant », « container queries style selon conteneur », « animations pilotées par le scroll @scroll-timeline » · **Cross-refs** : 1268, 1615, 1495 · **Tags** : 2027
 
-## 1611. 💾 Local-first web : CRDT et synchro offline (2027)
+## 1611. 💾 Local-first web : CRDT et synchro offline
 
-- **Fichier** : `skills/1611-local-first-web-crdt-et-synchro-offline-2027.md` · **Mot-clé** : « local-first CRDT replicache livestore yjs synchro offline multi-device » · **Nom court** : Local-first
+- **Fichier** : `skills/1611-local-first-web-crdt-et-synchro-offline.md` · **Mot-clé** : « local-first CRDT replicache livestore yjs synchro offline multi-device » · **Nom court** : Local-first
 - **Signal** : Construire une app local-first en 2027 : données d'abord en local (IndexedDB/SQLite via WASM 1608), synchro en arrière-plan avec CRDT (Replicache, LiveStore, Yjs) pour le multi-device sans conflit, offline total. Utilise pour des apps collaboratives (notes, tableurs, CRM). N'utilise pas pour du temps réel compétitif (serveur autorité 1543). · **Synonymes** : « app qui marche offline puis se synchro (CRDT) », « replicache ou yjs synchro sans conflit », « données en local d'abord IndexedDB » · **Cross-refs** : 1608, 1503, 1539 · **Tags** : 2027
 
-## 1612. 🌍 Edge computing : Cloudflare Workers et Vercel Edge (2027)
+## 1612. 🌍 Edge computing : Cloudflare Workers et Vercel Edge
 
-- **Fichier** : `skills/1612-edge-computing-cloudflare-workers-et-vercel-edge-2027.md` · **Mot-clé** : « edge computing cloudflare workers vercel edge functions latence 50 ms 2027 » · **Nom court** : Edge
+- **Fichier** : `skills/1612-edge-computing-cloudflare-workers-et-vercel-edge.md` · **Mot-clé** : « edge computing cloudflare workers vercel edge functions latence 50 ms 2027 » · **Nom court** : Edge
 - **Signal** : Déployer sur l'edge en 2027 (Cloudflare Workers, Vercel Edge Functions, Deno Deploy) : code exécuté dans 300+ datacenters, latence sous 50 ms pour l'utilisateur, pas de serveur à gérer, WASM supporté (1608). Utilise pour API, auth, personnalisation, A/B (1541). N'utilise pas pour du calcul lourd (GPU, batch). · **Synonymes** : « latence sous 50 ms avec cloudflare workers », « vercel edge functions 2027 », « edge vs serveur régional classique » · **Cross-refs** : 1602, 82, 1608 · **Tags** : 2027
 
-## 1613. ⏩ Rolldown en CI : build parallélisé et cache (2027)
+## 1613. ⏩ Rolldown en CI : build parallélisé et cache
 
-- **Fichier** : `skills/1613-rolldown-en-ci-build-parallelise-et-cache-2027.md` · **Mot-clé** : « rolldown CI build parallèle cache turbo remote 2027 » · **Nom court** : CI Rolldown
+- **Fichier** : `skills/1613-rolldown-en-ci-build-parallelise-et-cache.md` · **Mot-clé** : « rolldown CI build parallèle cache turbo remote 2027 » · **Nom court** : CI Rolldown
 - **Signal** : Optimiser la CI front en 2027 avec Rolldown (Rust, multi-cœurs) + cache agressif (node_modules, cache Rolldown, turbo cache distant) : build + tests en parallèle, objectif CI front inf. à  3 min. Utilise quand la CI front bloque les PRs (1413). N'utilise pas sans mesurer le goulot d'abord. · **Synonymes** : « CI front sous 3 min (rolldown + turbo cache) », « build parallèle multi-cœurs rust », « cache distant turbo remote caching » · **Cross-refs** : 1413, 1600, 323 · **Tags** : 2027
 
-## 1614. 🔄 Migration Webpack vers Vite : guide pratique (2027)
+## 1614. 🔄 Migration Webpack vers Vite : guide pratique
 
-- **Fichier** : `skills/1614-migration-webpack-vers-vite-guide-pratique-2027.md` · **Mot-clé** : « migrer webpack vers vite guide loaders plugins alias env proxy » · **Nom court** : Webpack→Vite
+- **Fichier** : `skills/1614-migration-webpack-vers-vite-guide-pratique.md` · **Mot-clé** : « migrer webpack vers vite guide loaders plugins alias env proxy » · **Nom court** : Webpack→Vite
 - **Signal** : Migrer un projet Webpack legacy vers Vite en 2027 : mapping des loaders → plugins Vite, config vite.config (alias, define/env, proxy dev), gestion des assets (public/), polyfills, et vérification que le build prod est identique (taille, perfs). Utilise quand Webpack ralentit le dev/CI. N'utilise pas si le projet marche bien (ne pas toucher). · **Synonymes** : « migrer mon projet webpack legacy vers vite », « loaders webpack vers plugins vite équivalent », « vite proxy dev server remplace webpack-dev-server » · **Cross-refs** : 1600, 1413, 545 · **Tags** : 2027
 
-## 1615. 🎬 View Transitions API multi-pages (MPA, 2027)
+## 1615. 🎬 View Transitions API multi-pages (MPA)
 
-- **Fichier** : `skills/1615-view-transitions-api-multi-pages-mpa-2027.md` · **Mot-clé** : « view transitions API MPA multi-pages document.startViewTransition ::view-transition » · **Nom court** : View Transitions
+- **Fichier** : `skills/1615-view-transitions-api-multi-pages-mpa.md` · **Mot-clé** : « view transitions API MPA multi-pages document.startViewTransition ::view-transition » · **Nom court** : View Transitions
 - **Signal** : Ajouter des transitions fluides entre pages d'un site multi-pages (MPA, pas SPA) en 2027 avec la View Transitions API (même origine) : document.startViewTransition() autour du fetch/navigation, animations ::view-transition-old/new, cross-document via meta. Utilise pour des sites sans framework lourd (Astro 1603). N'utilise pas entre origines différentes sans header. · **Synonymes** : « transitions animées entre pages sans SPA (View Transitions) », « document.startViewTransition navigation fluide », « ::view-transition-old new group animation » · **Cross-refs** : 1603, 1610, 1268 · **Tags** : 2027
 
-## 1616. 🏝️ Architecture islands : hydratation partielle (2027)
+## 1616. 🏝️ Architecture islands : hydratation partielle
 
-- **Fichier** : `skills/1616-architecture-islands-hydratation-partielle-2027.md` · **Mot-clé** : « architecture islands hydratation partielle astro client:load idle visible 2027 » · **Nom court** : Islands
+- **Fichier** : `skills/1616-architecture-islands-hydratation-partielle.md` · **Mot-clé** : « architecture islands hydratation partielle astro client:load idle visible 2027 » · **Nom court** : Islands
 - **Signal** : Concevoir une architecture « islands » en 2027 (Astro 1603, ou islands dans Next.js) : la page est du HTML statique, seules les « îles » interactives sont hydratées (client:load, client:idle, client:visible) avec chacune son framework si besoin. Utilise pour des sites mostly-statiques avec quelques composants dynamiques. N'utilise pas pour une app 100 % interactive (SPA). · **Synonymes** : « page statique + îles interactives hydratées (astro) », « client:load client:idle client:visible choisir », « plusieurs mini-frameworks sur une page (îles) » · **Cross-refs** : 1603, 1605, 545 · **Tags** : 2027
 
-## 1617. ⚖️ Meta-frameworks 2027 : Next.js vs Nuxt vs SvelteKit vs React Router (2027)
+## 1617. ⚖️ Meta-frameworks : Next.js vs Nuxt vs SvelteKit vs React Router
 
-- **Fichier** : `skills/1617-meta-frameworks-2027-next-js-vs-nuxt-vs-sveltekit-vs-rea.md` · **Mot-clé** : « choisir meta-framework 2027 next.js nuxt sveltekit react router 7 comparatif » · **Nom court** : Meta-framework
+- **Fichier** : `skills/1617-meta-frameworks-next-js-vs-nuxt-vs-sveltekit-vs-react-ro.md` · **Mot-clé** : « choisir meta-framework 2027 next.js nuxt sveltekit react router 7 comparatif » · **Nom court** : Meta-framework
 - **Signal** : Choisir son meta-framework React/Vue en 2027 : Next.js (App Router, RSC 1602, écosystème Vercel), Nuxt 4 (Vue, Nitro), SvelteKit (Svelte, rapide, simple), React Router 7 (framework mode, ex-Remix). Critères : équipe, hébergement (edge 1612), ecosysteme, vitesse de dev. Utilise quand on démarre un projet app. N'utilise pas pour un site statique (Astro 1603). · **Synonymes** : « next.js vs nuxt vs sveltekit choisir 2027 », « react router 7 framework mode ex-remix », « quel framework pour une app métier interne » · **Cross-refs** : 1602, 1604, 1603 · **Tags** : 2027
 
-## 1618. 📊 Core Web Vitals 2027 : INP, LCP, CLS et RUM (2027)
+## 1618. 📊 Core Web Vitals : INP, LCP, CLS et RUM
 
-- **Fichier** : `skills/1618-core-web-vitals-2027-inp-lcp-cls-et-rum-2027.md` · **Mot-clé** : « core web vitals 2027 LCP INP CLS RUM real user monitoring CrUX » · **Nom court** : CWV 2027
+- **Fichier** : `skills/1618-core-web-vitals-inp-lcp-cls-et-rum.md` · **Mot-clé** : « core web vitals 2027 LCP INP CLS RUM real user monitoring CrUX » · **Nom court** : CWV
 - **Signal** : Optimiser les Core Web Vitals en 2027 avec du RUM (Real User Monitoring, données réelles des utilisateurs, pas que labo) : LCP (chargement, objectif sous 2,5 s), INP (interactivité, remplace FID depuis 2024, objectif sous 200 ms), CLS (stabilité, sous 0,1). Utilise quand le SEO/conversion dépend de la vitesse. N'utilise pas sans mesurer le RUM d'abord. · **Synonymes** : « INP interaction to next paint sous 200 ms », « LCP sous 2 », « 5 s chargement plus grand élément », « RUM données réelles utilisateurs vs labo Lighthouse » · **Cross-refs** : 253, 1552, 1603 · **Tags** : 2027
 
-## 1700. 🏗️ Construire une Internal Developer Platform (IDP) en 2027
+## 1700. 🏗️ Construire une Internal Developer Platform (IDP) en
 
-- **Fichier** : `skills/1700-construire-une-internal-developer-platform-idp-en-2027.md` · **Mot-clé** : « construire IDP internal developer platform 2027 Backstage golden paths DORA » · **Nom court** : IDP 2027
+- **Fichier** : `skills/1700-construire-une-internal-developer-platform-idp-en.md` · **Mot-clé** : « construire IDP internal developer platform 2027 Backstage golden paths DORA » · **Nom court** : IDP
 - **Signal** : Concevoir une IDP (Internal Developer Platform) en 2027 : un portail développeur (Backstage CNCF, 3 400+ orgs, ou Port/Cortex) + des golden paths (templates de services préconfigurés) + de l'infrastructure self-service (Crossplane), le tout mesuré en métriques DORA. Utilise quand 10+ équipes dev demandent la même chose. N'utilise pas pour 2 équipes (overkill). · **Synonymes** : « monter une plateforme interne développeurs (IDP) 2027 », « Backstage CNCF portail développeur 3400 orgs », « golden paths : nouveau service en minutes pas en jours » · **Cross-refs** : 609, 82, 85 · **Tags** : 2027
 
-## 1701. 🛤️ Golden paths : routes par defaut opinionnees (2027)
+## 1701. 🛤️ Golden paths : routes par defaut opinionnees
 
-- **Fichier** : `skills/1701-golden-paths-routes-par-defaut-opinionnees-2027.md` · **Mot-clé** : « golden paths routes par défaut opinionnées IDP 2027 80% des cas dérogation documentée » · **Nom court** : Golden paths
+- **Fichier** : `skills/1701-golden-paths-routes-par-defaut-opinionnees.md` · **Mot-clé** : « golden paths routes par défaut opinionnées IDP 2027 80% des cas dérogation documentée » · **Nom court** : Golden paths
 - **Signal** : Concevoir des golden paths en 2027 : chemins par défaut, opinionnés et supportés (ex. 'nouveau service Node+Postgres', 'nouvelle BDD managée') couvrant 80 % des cas, avec dérogation documentée pour le reste. Le but : réduire la charge cognitive, pas interdire. Utilise dans une IDP (1700). N'utilise pas comme seule option (laisser la sortie de secours). · **Synonymes** : « golden path : nouveau service en 1 clic dans l'IDP », « couvrir 80 % des cas en golden paths », « le reste en dérogation documentée », « réduire la charge cognitive des devs (Team Topologies) » · **Cross-refs** : 1700, 311, 50 · **Tags** : 2027
 
-## 1702. 📂 Backstage (CNCF) : portail developpeur self-host (2027)
+## 1702. 📂 Backstage (CNCF) : portail developpeur self-host
 
-- **Fichier** : `skills/1702-backstage-cncf-portail-developpeur-self-host-2027.md` · **Mot-clé** : « backstage CNCF portail développeur self-host 2027 catalogue Scaffolder TechDocs plugins 3400 orgs » · **Nom court** : Backstage
+- **Fichier** : `skills/1702-backstage-cncf-portail-developpeur-self-host.md` · **Mot-clé** : « backstage CNCF portail développeur self-host 2027 catalogue Scaffolder TechDocs plugins 3400 orgs » · **Nom court** : Backstage
 - **Signal** : Déployer Backstage en 2027 (CNCF incubating, 3 400+ orgs en production, 1 200+ plugins, 89 % de pénétration des IDP) : catalogue de services (owners, dépendances, doc TechDocs), Scaffolder (templates), plugins (CI, k8s, PagerDuty, coût). Self-host = produit interne, budget 3-6 ingénieurs/an minimum. Alternative managée : Port, Cortex, Humanitec. N'utilise pas sans équipe dédiée (portail vide = pire que rien). · **Synonymes** : « déployer Backstage (CNCF) self-host : catalogue + Scaffolder + TechDocs », « Backstage 3400 orgs 1200 plugins 89% pénétration IDP 2027 », « Port/Cortex/Humanitec : IDP managé sans équipe dédiée » · **Cross-refs** : 1700, 1701, 114 · **Tags** : 2027
 
-## 1703. ⚙️ Crossplane : provisionner l'infra en claims Kubernetes (2027)
+## 1703. ⚙️ Crossplane : provisionner l'infra en claims Kubernetes
 
-- **Fichier** : `skills/1703-crossplane-provisionner-l-infra-en-claims-kubernetes-202.md` · **Mot-clé** : « crossplane claims kubernetes provisionner infra BDD S3 queues CRD 2027 XRD CompositeResource » · **Nom court** : Crossplane
+- **Fichier** : `skills/1703-crossplane-provisionner-l-infra-en-claims-kubernetes.md` · **Mot-clé** : « crossplane claims kubernetes provisionner infra BDD S3 queues CRD 2027 XRD CompositeResource » · **Nom court** : Crossplane
 - **Signal** : Utiliser Crossplane en 2027 pour provisionner l'infra (BDD managée, buckets S3, queues, certificats) via des claims Kubernetes (CRD) : les devs déclarent 'je veux une Postgres 16 en prod' (un YAML), Crossplane la crée chez AWS/GCP/Azure et la gère (backups, rotation). Alternative : Terraform (85) en CLI. N'utilise pas sans IDP/golden path derrière (1700). · **Synonymes** : « je veux une Postgres managée : un claim YAML (Crossplane) », « Crossplane vs Terraform : l'infra en CRD k8s (GitOps) », « XRD/CompositeResource : composer les ressources (BDD + bucket + user) » · **Cross-refs** : 609, 85, 1700 · **Tags** : 2027
 
-## 1704. 🔄 GitOps avec Argo CD ou Flux (2027)
+## 1704. 🔄 GitOps avec Argo CD ou Flux
 
-- **Fichier** : `skills/1704-gitops-avec-argo-cd-ou-flux-2027.md` · **Mot-clé** : « gitops argo cd flux 2027 réconciliation cluster état désiré git PR rollback git revert » · **Nom court** : GitOps
+- **Fichier** : `skills/1704-gitops-avec-argo-cd-ou-flux.md` · **Mot-clé** : « gitops argo cd flux 2027 réconciliation cluster état désiré git PR rollback git revert » · **Nom court** : GitOps
 - **Signal** : Appliquer le GitOps en 2027 avec Argo CD (le plus répandu) ou Flux (CNCF graduated) : l'état désiré (manifests k8s, config) vit dans Git, l'opérateur (Argo/Flux) réconcilie le cluster en continu — tout changement passe par une PR reviewée, rollback = git revert. Utilise pour tout déploiement k8s. N'utilise pas sans gestion des secrets (Sealed Secrets/ESO 1656). · **Synonymes** : « déployer sur k8s via PR Git (Argo CD) pas de kubectl apply manuel », « Argo CD vs Flux choisir 2027 (CNCF graduated) », « rollback = git revert (l'état revient à la version Git) » · **Cross-refs** : 609, 316, 1656 · **Tags** : 2027
 
-## 1706. 📊 Métriques DORA : mesurer la performance de livraison (2027)
+## 1706. 📊 Métriques DORA : mesurer la performance de livraison
 
-- **Fichier** : `skills/1706-metriques-dora-mesurer-la-performance-de-livraison-2027.md` · **Mot-clé** : « métriques DORA 2027 lead time deploy frequency MTTR change failure rate mesurer livraison » · **Nom court** : DORA
+- **Fichier** : `skills/1706-metriques-dora-mesurer-la-performance-de-livraison.md` · **Mot-clé** : « métriques DORA 2027 lead time deploy frequency MTTR change failure rate mesurer livraison » · **Nom court** : DORA
 - **Signal** : Mesurer la performance de livraison avec les 4 métriques DORA en 2027 : lead time for changes (commit→prod), deploy frequency, MTTR (mean time to recovery), change failure rate (% de déploiements avec incident). Les IDP matures atteignent : lead time sous 4 h, déploiements quotidiens, MTTR sous 1 h, failure rate sous 5 %. Utilise pour justifier/piloter la plateforme (1700). N'utilise pas pour évaluer des individus (jamais). · **Synonymes** : « lead time commit→prod sous 4 h en 2027 (DORA) », « change failure rate sous 5 % mesuré », « DORA jamais pour évaluer des individus (équipe uniquement) » · **Cross-refs** : 1700, 36, 344 · **Tags** : 2027
 
-## 1710. ⚖️ Port, Cortex, Humanitec : IDP managé vs Backstage (2027)
+## 1710. ⚖️ Port, Cortex, Humanitec : IDP managé vs Backstage
 
-- **Fichier** : `skills/1710-port-cortex-humanitec-idp-manage-vs-backstage-2027.md` · **Mot-clé** : « choisir IDP 2027 Port Cortex Humanitec managé vs Backstage self-host 3-6 ingénieurs/an » · **Nom court** : Port/Cortex
+- **Fichier** : `skills/1710-port-cortex-humanitec-idp-manage-vs-backstage.md` · **Mot-clé** : « choisir IDP 2027 Port Cortex Humanitec managé vs Backstage self-host 3-6 ingénieurs/an » · **Nom court** : Port/Cortex
 - **Signal** : Choisir entre Backstage self-host (CNCF, 3 400+ orgs, 1 200+ plugins, mais 3-6 ingénieurs/an de maintenance et upgrades douloureux) et un IDP managé en 2027 : Port (scorecards, gouvernance, rapide à déployer), Cortex (scorecards + catalogues auto), Humanitec (orchestration multi-cluster, Platform Orchestrator). Règle : petite équipe sans capacité platform → managé ; grosse org avec équipe dédiée → Backstage custom. N'utilise pas Backstage sans équipe (portail vide = pire que rien). · **Synonymes** : « Port ou Cortex managé : scorecards et catalogue auto en semaines », « Humanitec : orchestrateur multi-cluster (Kratix promises) », « Backstage sans équipe dédiée = portail vide », « choisir managé » · **Cross-refs** : 1702, 1700, 1709 · **Tags** : 2027
 
-## 1711. 🎯 Scorecards : niveaux de maturité des services (2027)
+## 1711. 🎯 Scorecards : niveaux de maturité des services
 
-- **Fichier** : `skills/1711-scorecards-niveaux-de-maturite-des-services-2027.md` · **Mot-clé** : « scorecards services 2027 bronze argent or maturité observabilité sécurité SLO CI owner doc Port Cortex » · **Nom court** : Scorecards
+- **Fichier** : `skills/1711-scorecards-niveaux-de-maturite-des-services.md` · **Mot-clé** : « scorecards services 2027 bronze argent or maturité observabilité sécurité SLO CI owner doc Port Cortex » · **Nom court** : Scorecards
 - **Signal** : Mettre des scorecards en 2027 (Port/Cortex natifs, ou Backstage plugin) : chaque service noté bronze/argent/or sur des critères (observabilité OTel 1680, sécurité 1646, SLO 351, CI 1413, owner renseigné, doc 1406), avec plan d'amélioration. Sert à piloter la dette et la conformité sans revue manuelle de chaque service. N'utilise pas pour noter des personnes (jamais). · **Synonymes** : « scorecard par service : bronze/argent/or (observabilité », « sécurité », « SLO) », « Port/Cortex scorecards automatiques 2027 », « jamais de scorecard sur des personnes », « uniquement des services » · **Cross-refs** : 1710, 1702, 351 · **Tags** : 2027
 
-## 1714. 📦 Devcontainers : environnement de dev en 1 commande (2027)
+## 1714. 📦 Devcontainers : environnement de dev en 1 commande
 
-- **Fichier** : `skills/1714-devcontainers-environnement-de-dev-en-1-commande-2027.md` · **Mot-clé** : « devcontainer 2027 environnement dev 1 commande VS Code Codespaces devcontainer.json postCreateCommand » · **Nom court** : Devcontainer
+- **Fichier** : `skills/1714-devcontainers-environnement-de-dev-en-1-commande.md` · **Mot-clé** : « devcontainer 2027 environnement dev 1 commande VS Code Codespaces devcontainer.json postCreateCommand » · **Nom court** : Devcontainer
 - **Signal** : Standardiser l'environnement de dev en 2027 avec les devcontainers (VS Code / GitHub Codespaces) : un fichier .devcontainer/devcontainer.json (image docker 1411, extensions VS Code, postCreateCommand pour seed la BDD, ports exposés) → 'Reopen in Container' et tout marche (dépendances, BDD locale, outils). Alternative : docker compose (1109) ou nix. Utilise pour tout repo avec setup non trivial. N'utilise pas si le projet tient en 1 script. · **Synonymes** : « l'environnement de dev marche en 1 clic (devcontainer) », « .devcontainer/devcontainer.json : image + extensions + postCreateCommand seed BDD », « GitHub Codespaces : le devcontainer dans le cloud » · **Cross-refs** : 1109, 1411, 305 · **Tags** : 2027
 
-## 1715. 📖 Documentation développeur interne : TechDocs et docs-as-code (2027)
+## 1715. 📖 Documentation développeur interne : TechDocs et docs-as-code
 
 - **Fichier** : `skills/1715-documentation-developpeur-interne-techdocs-et-docs-as-co.md` · **Mot-clé** : « TechDocs Backstage doc développeur dans le repo docs/*.md doc-as-code 1406 même PR recherche globale » · **Nom court** : TechDocs
 - **Signal** : Centraliser la doc développeur en 2027 : docs dans chaque repo (docs/*.md, doc-as-code 1406) rendues dans le portail (Backstage TechDocs 1702) ou un site statique (MkDocs/Docusaurus 1406), avec owner par doc (scorecard 1711), revue à chaque PR, recherche globale. Règle : la doc vit avec le code (même repo, même PR), jamais dans un wiki séparé qui pourrit. N'utilise pas pour la doc utilisateur externe (marketing). · **Synonymes** : « la doc développeur vit dans le repo (docs/) », « rendue dans Backstage TechDocs », « même PR pour code et doc (jamais de wiki qui pourrit) », « recherche globale dans toute la doc interne (TechDocs) » · **Cross-refs** : 1702, 1406, 312 · **Tags** : 2027
 
-## 1716. 🧩 Kratix : promises et orchestration multi-cluster (2027)
+## 1716. 🧩 Kratix : promises et orchestration multi-cluster
 
-- **Fichier** : `skills/1716-kratix-promises-et-orchestration-multi-cluster-2027.md` · **Mot-clé** : « kratix promises orchestration multi-cluster 2027 CNCF promise state store workflow gitops 1704 » · **Nom court** : Kratix
+- **Fichier** : `skills/1716-kratix-promises-et-orchestration-multi-cluster.md` · **Mot-clé** : « kratix promises orchestration multi-cluster 2027 CNCF promise state store workflow gitops 1704 » · **Nom court** : Kratix
 - **Signal** : Orchestrer l'infra sur plusieurs clusters/environnements en 2027 avec Kratix (open source, CNCF sandbox) : des 'Promises' (ex. 'redis managé', 'environment prod') sont des contrats d'infra ; Kratix les réalise sur chaque cluster cible (state stores S3/Git), avec workflow de livraison (GitOps 1704). Alternative : Crossplane (1703) + Argo. Utilise quand plus de 3 clusters/env à gérer. N'utilise pas pour un seul cluster (Crossplane suffit). · **Synonymes** : « une 'promise' Kratix = contrat d'infra (redis », « env prod) réalisé sur chaque cluster », « Kratix + state store S3 : la promise se propage sur 10 clusters », « Kratix vs Crossplane : multi-cluster (Kratix) vs single (Crossplane 1703) » · **Cross-refs** : 1703, 1704, 609 · **Tags** : 2027
 
-## 1720. ⚡ eBPF : programmer le noyau Linux sans le modifier (2027)
+## 1720. ⚡ eBPF : programmer le noyau Linux sans le modifier
 
-- **Fichier** : `skills/1720-ebpf-programmer-le-noyau-linux-sans-le-modifier-2027.md` · **Mot-clé** : « eBPF 2027 programmer noyau linux sandboxé sans modifier kernel Cilium Falco bpftrace Pixie Beyla kernel 5.8+ » · **Nom court** : eBPF 2027
+- **Fichier** : `skills/1720-ebpf-programmer-le-noyau-linux-sans-le-modifier.md` · **Mot-clé** : « eBPF 2027 programmer noyau linux sandboxé sans modifier kernel Cilium Falco bpftrace Pixie Beyla kernel 5.8+ » · **Nom court** : eBPF
 - **Signal** : Comprendre et utiliser eBPF en 2027 (devenu standard en 2026, utilisé par Meta/Google/Netflix/Cloudflare/Microsoft/Apple) : exécuter des programmes sandboxés dans le noyau Linux (networking, observabilité, sécurité) sans modifier le kernel ni charger de modules. Outils haut niveau : Cilium (1721), Falco (1723), bpftrace, Pixie/Beyla (1724). Prérequis : kernel 5.8+ (idéal 5.15+). N'utilise pas pour de la logique applicative (reste en userspace). · **Synonymes** : « exécuter du code dans le noyau Linux sans le recompiler (eBPF) », « eBPF standard en 2026 : Meta Google Netflix Cloudflare l'utilisent », « kernel 5.8 minimum 5.15+ idéal pour eBPF (uname -r) » · **Cross-refs** : 1178, 1104, 1721 · **Tags** : 2027
 
-## 1721. 🌐 Cilium : networking, sécurité et observabilité eBPF sur k8s (2027)
+## 1721. 🌐 Cilium : networking, sécurité et observabilité eBPF sur k8s
 
 - **Fichier** : `skills/1721-cilium-networking-securite-et-observabilite-ebpf-sur-k8s.md` · **Mot-clé** : « cilium CNI eBPF kubernetes 2027 +30-40% débit vs iptables NetworkPolicy L7 Hubble service mesh sans sidecar CCAE » · **Nom court** : Cilium
 - **Signal** : Remplacer kube-proxy/iptables par Cilium en 2027 (CNI eBPF, 64 % des clusters k8s en 2026) : dataplane eBPF (+30-40 % de débit vs iptables), NetworkPolicy L3-L7 (HTTP method/path, Kafka topic, gRPC), mTLS automatique, Hubble (observabilité flux avec identités), Cilium Service Mesh sans sidecar (-50 % de ressources). Certification CCAE dispo. N'utilise pas si le kernel est trop vieux (1720). · **Synonymes** : « remplacer kube-proxy/iptables par Cilium (eBPF) en 2027 », « Cilium NetworkPolicy L7 : filtrer sur méthode HTTP path header », « Hubble : carte des flux réseau en temps réel + Cilium service mesh sans sidecar -50% » · **Cross-refs** : 609, 1720, 1132 · **Tags** : 2027
 
-## 1722. 🔍 Hubble : observabilité réseau des flux k8s (2027)
+## 1722. 🔍 Hubble : observabilité réseau des flux k8s
 
-- **Fichier** : `skills/1722-hubble-observabilite-reseau-des-flux-k8s-2027.md` · **Mot-clé** : « hubble observabilité réseau k8s 2027 service map flux L3 L7 filtres identité protocole DNS HTTP Kafka export prometheus grafana » · **Nom court** : Hubble
+- **Fichier** : `skills/1722-hubble-observabilite-reseau-des-flux-k8s.md` · **Mot-clé** : « hubble observabilité réseau k8s 2027 service map flux L3 L7 filtres identité protocole DNS HTTP Kafka export prometheus grafana » · **Nom court** : Hubble
 - **Signal** : Observer le réseau k8s en temps réel en 2027 avec Hubble (intégré à Cilium 1721) : service map (qui parle à qui, L3-L7), filtres par identité de workload, protocole (HTTP méthode/path, DNS, Kafka topic), métriques de flux (bytes, drops, retransmits), export vers Prometheus/Grafana (1416) et logs. Utilise pour déboguer 'pourquoi ce service ne répond plus'. N'utilise pas sans Cilium (1721). · **Synonymes** : « service map temps réel : quel pod parle à quel pod (Hubble) », « filtrer les flux par méthode HTTP path ou topic Kafka (Hubble) », « métriques de flux (bytes drops retransmits) exportées vers Grafana 1416 » · **Cross-refs** : 1721, 1416, 1282 · **Tags** : 2027
 
-## 1726. 🔎 bpftrace : debug ad-hoc du noyau Linux (2027)
+## 1726. 🔎 bpftrace : debug ad-hoc du noyau Linux
 
-- **Fichier** : `skills/1726-bpftrace-debug-ad-hoc-du-noyau-linux-2027.md` · **Mot-clé** : « bpftrace debug noyau linux live 2027 one-liner syscalls latence disque fichiers eBPF awk lecture seule » · **Nom court** : bpftrace
+- **Fichier** : `skills/1726-bpftrace-debug-ad-hoc-du-noyau-linux.md` · **Mot-clé** : « bpftrace debug noyau linux live 2027 one-liner syscalls latence disque fichiers eBPF awk lecture seule » · **Nom court** : bpftrace
 - **Signal** : Déboguer le noyau Linux en live en 2027 avec bpftrace (langage de tracing haut niveau, style awk, sur eBPF 1720) : one-liners pour compter les syscalls, mesurer la latence des lectures disque, voir qui ouvre quels fichiers, les desched — sans redémarrer ni instrumenter. Utilise pour le debug ponctuel sur un serveur en prod (lecture seule). N'utilise pas pour du monitoring permanent (utiliser Pixie/Beyla 1724 ou Prometheus 1416). · **Synonymes** : « compter les syscalls par process en 1 ligne (bpftrace) », « mesurer la latence des reads disque en live (bpftrace) », « qui ouvre /etc/passwd en ce moment ? (bpftrace) » · **Cross-refs** : 1720, 308, 1104 · **Tags** : 2027
 
-## 1727. 🕸️ Cilium service mesh sans sidecar (2027)
+## 1727. 🕸️ Cilium service mesh sans sidecar
 
-- **Fichier** : `skills/1727-cilium-service-mesh-sans-sidecar-2027.md` · **Mot-clé** : « cilium service mesh sans sidecar 2027 eBPF mTLS L7 routing retries -50% ressources vs istio linkerd envoy » · **Nom court** : Mesh eBPF
+- **Fichier** : `skills/1727-cilium-service-mesh-sans-sidecar.md` · **Mot-clé** : « cilium service mesh sans sidecar 2027 eBPF mTLS L7 routing retries -50% ressources vs istio linkerd envoy » · **Nom court** : Mesh eBPF
 - **Signal** : Remplacer le sidecar Envoy (Istio/Linkerd) par Cilium Service Mesh en 2027 : mTLS, L7 routing, retries, circuit breaker, observabilité — tout en eBPF dans le noyau (pas de proxy dans chaque pod, -50 % de ressources, latence en moins ~30 %). Utilise quand le coût des sidecars pèse (gros cluster). N'utilise pas si le kernel est trop vieux (1720) ou si vous avez déjà un mesh qui marche. · **Synonymes** : « supprimer les sidecars Envoy (Istio) : Cilium Service Mesh eBPF (-50 % ressources) », « mTLS automatique entre pods sans rien configurer (Cilium) », « L7 routing (retries », « circuit breaker) dans le noyau », « pas dans un proxy » · **Cross-refs** : 1721, 609, 1655 · **Tags** : 2027
 
-## 1728. 🏆 Certification Cilium CCAE : valider ses compétences eBPF (2027)
+## 1728. 🏆 Certification Cilium CCAE : valider ses compétences eBPF
 
-- **Fichier** : `skills/1728-certification-cilium-ccae-valider-ses-competences-ebpf-2.md` · **Mot-clé** : « certification CCAE Cilium 2027 eBPF CKA CKS roadmap cilium bpf policy list service list hubble dépannage » · **Nom court** : CCAE
+- **Fichier** : `skills/1728-certification-cilium-ccae-valider-ses-competences-ebpf.md` · **Mot-clé** : « certification CCAE Cilium 2027 eBPF CKA CKS roadmap cilium bpf policy list service list hubble dépannage » · **Nom court** : CCAE
 - **Signal** : Se certifier Cilium CCAE (Cilium Certified Associate Engineer) en 2027 pour valider ses compétences eBPF/Cilium : CNI eBPF, NetworkPolicy L3-L7, Hubble, service mesh, dépannage (cilium bpf policy list, cilium service list). Dans la roadmap CKA/CKS (609). Utilise pour monter en compétence reconnue ou recruter. N'utilise pas comme seule preuve (expérience de prod requise). · **Synonymes** : « passer la certification Cilium CCAE en 2027 (eBPF », « Cilium) », « CKA/CKS (609) puis CCAE : la roadmap réseau k8s 2027 », « cilium bpf policy list / cilium service list : les commandes de l'exam » · **Cross-refs** : 1721, 609, 205 · **Tags** : 2027
 
-## 1730. ⚖️ Katran : load balancer L4 eBPF de Meta (2027)
+## 1730. ⚖️ Katran : load balancer L4 eBPF de Meta
 
-- **Fichier** : `skills/1730-katran-load-balancer-l4-ebpf-de-meta-2027.md` · **Mot-clé** : « katran load balancer L4 eBPF XDP Meta 2027 maglev consistent hashing DSR milliards requêtes jour » · **Nom court** : Katran
+- **Fichier** : `skills/1730-katran-load-balancer-l4-ebpf-de-meta.md` · **Mot-clé** : « katran load balancer L4 eBPF XDP Meta 2027 maglev consistent hashing DSR milliards requêtes jour » · **Nom court** : Katran
 - **Signal** : Utiliser Katran en 2027 (load balancer L4 open source basé sur eBPF/XDP, développé par Meta, gère des milliards de requêtes/jour chez eux) pour un load balancing ultra-performant (kernel bypass, pas de proxy userspace) : maglev consistent hashing, health checks actifs, DSR. Alternative cloud : les LB managés (AWS ALB/NLB 1612 edge). N'utilise pas pour du L7 (prendre un reverse proxy L7). · **Synonymes** : « load balancer kernel bypass (XDP eBPF) : Katran (Meta) 2027 », « maglev consistent hashing : même backend pour le même client », « Katran vs ALB/NLB cloud : L4 pur ultra-perf vs managé L7 » · **Cross-refs** : 1720, 1612, 1203 · **Tags** : 2027
 
-## 1731. 💾 eBPF pour le stockage : monitoring I/O disque (2027)
+## 1731. 💾 eBPF pour le stockage : monitoring I/O disque
 
-- **Fichier** : `skills/1731-ebpf-pour-le-stockage-monitoring-i-o-disque-2027.md` · **Mot-clé** : « eBPF monitoring I/O disque 2027 latence par device par process top fichiers lus bpftrace block layer » · **Nom court** : eBPF I/O
+- **Fichier** : `skills/1731-ebpf-pour-le-stockage-monitoring-i-o-disque.md` · **Mot-clé** : « eBPF monitoring I/O disque 2027 latence par device par process top fichiers lus bpftrace block layer » · **Nom court** : eBPF I/O
 - **Signal** : Surveiller les I/O disque au niveau noyau en 2027 avec eBPF (1720) : latence par type d'I/O (read/write/sync), par device, par process (top consommateurs), files les plus lus — via bpftrace one-liners (1726) ou un agent eBPF dédié, sans instrumenter l'app. Utilise quand un serveur rame en I/O et que iostat ne suffit pas (qui, quel fichier, quelle latence). N'utilise pas pour le monitoring permanent (Prometheus 1416 + node_exporter). · **Synonymes** : « qui fait les I/O disque et avec quelle latence ? (eBPF) », « latence des reads par device (nvme0 vs sda) en live (eBPF) », « fichiers les plus lus sur le serveur (eBPF », « pas iostat) » · **Cross-refs** : 1720, 1726, 308 · **Tags** : 2027
 
-## 1734. ⚖️ eBPF vs modules kernel : choisir en 2027 (2027)
+## 1734. ⚖️ eBPF vs modules kernel : choisir en
 
-- **Fichier** : `skills/1734-ebpf-vs-modules-kernel-choisir-en-2027-2027.md` · **Mot-clé** : « eBPF vs module kernel choisir 2027 sandboxé vérifié dynamique vs accès total perf panic noyau LKML » · **Nom court** : eBPF vs module
+- **Fichier** : `skills/1734-ebpf-vs-modules-kernel-choisir-en.md` · **Mot-clé** : « eBPF vs module kernel choisir 2027 sandboxé vérifié dynamique vs accès total perf panic noyau LKML » · **Nom court** : eBPF vs module
 - **Signal** : Choisir en 2027 entre eBPF (1720) et les modules kernel traditionnels : eBPF = sandboxé, vérifié (pas de crash noyau), dynamique (charge/décharge à chaud), idéal pour observabilité/sécurité/réseau moderne ; module kernel = accès total, perf max, mais un bug = panic noyau, nécessite rebuild/reboot, review LKML difficile. Règle : eBPF par défaut ; module seulement pour ce qu'eBPF ne peut pas faire (nouveau driver, subsystem). N'utilise pas de module pour du monitoring. · **Synonymes** : « pourquoi eBPF plutôt qu'un module kernel en 2027 (pas de panic) », « module kernel = un bug = kernel panic (risque) », « eBPF par défaut », « module seulement pour les drivers/subsystems » · **Cross-refs** : 1720, 1178, 1770 · **Tags** : 2027
 
-## 1737. 💻 Claude Code en CLI : missions longues et refacto (2027)
+## 1737. 💻 Claude Code en CLI : missions longues et refacto
 
-- **Fichier** : `skills/1737-claude-code-en-cli-missions-longues-et-refacto-2027.md` · **Mot-clé** : « claude code CLI 2027 refacto multi-fichiers plan mode /loop cron Analytics API Pro 20$ mission longue » · **Nom court** : Claude Code
+- **Fichier** : `skills/1737-claude-code-en-cli-missions-longues-et-refacto.md` · **Mot-clé** : « claude code CLI 2027 refacto multi-fichiers plan mode /loop cron Analytics API Pro 20$ mission longue » · **Nom court** : Claude Code
 - **Signal** : Utiliser Claude Code (CLI terminal, inclus Claude Pro 20 $/mois) en 2027 pour les missions lourdes : refacto multi-fichiers, migration de framework (1614), audit de code (1401), génération de tests (822), avec planification (plan mode), /loop pour tâches récurrentes (cron), Analytics API pour les métriques d'usage org. Le dev garde le contrôle : chaque action est proposée, validée. N'utilise pas pour du code sensible sans la politique 1736. · **Synonymes** : « refacto de 50 fichiers avec Claude Code (plan mode) en CLI », « /loop : tâches récurrentes programmées dans Claude Code (cron 2026) », « Claude Code Analytics API : métriques d'usage par équipe (org) » · **Cross-refs** : 76, 1614, 821 · **Tags** : 2027
 
-## 1740. 🖊️ Cursor : IDE agentique au quotidien (2027)
+## 1740. 🖊️ Cursor : IDE agentique au quotidien
 
-- **Fichier** : `skills/1740-cursor-ide-agentique-au-quotidien-2027.md` · **Mot-clé** : « cursor IDE agentique 2027 Composer 2.5 multi-fichiers chat codebase indexée agents cloud modèles 20-60$ » · **Nom court** : Cursor
+- **Fichier** : `skills/1740-cursor-ide-agentique-au-quotidien.md` · **Mot-clé** : « cursor IDE agentique 2027 Composer 2.5 multi-fichiers chat codebase indexée agents cloud modèles 20-60$ » · **Nom court** : Cursor
 - **Signal** : Utiliser Cursor en 2027 (IDE fork de VS Code construit autour de l'agent, Composer 2.5) au quotidien : chat avec la codebase (indexation automatique), édition multi-fichiers (Cmd+K / Composer), agents cloud en arrière-plan, choix de modèle (Claude Sonnet, GPT-5, Composer). 20-60 $/mois. Le dev valide chaque diff (1401). N'utilise pas pour du code sensible sans la politique 1736. · **Synonymes** : « édition multi-fichiers avec Cursor Composer (Cmd+K) 2027 », « chat avec toute la codebase indexée (Cursor) », « agents cloud en arrière-plan (Cursor) + choix de modèle (Claude/GPT/Composer) » · **Cross-refs** : 1735, 1737, 9 · **Tags** : 2027
 
-## 1741. 💡 GitHub Copilot en entreprise : Business, crédits et revue de PR (2027)
+## 1741. 💡 GitHub Copilot en entreprise : Business, crédits et revue de PR
 
 - **Fichier** : `skills/1741-github-copilot-en-entreprise-business-credits-et-revue-d.md` · **Mot-clé** : « copilot entreprise 2027 Business 19$ siège crédits usage juin 2026 revue PR auto 821 DPA pas de rétention code filtres sécurité » · **Nom court** : Copilot entr.
 - **Signal** : Déployer GitHub Copilot en entreprise en 2027 (le plus déployé, Business 19 $/siège, crédits d'usage depuis juin 2026) : complétion dans l'IDE, chat, mode agent, revue de PR automatique (821), filtres de sécurité (pas de code correspondant à du code public protégé), DPA/contrat entreprise, pas de rétention du code (opt-out). Utilise pour toute l'équipe GitHub. N'utilise pas la version gratuite pour du code interne (1736). · **Synonymes** : « Copilot Business 19 $/siège + crédits d'usage depuis juin 2026 », « revue de PR automatique par Copilot (821) en entreprise », « DPA Copilot : pas de rétention du code », « opt-out », « filtres code public protégé » · **Cross-refs** : 821, 1735, 1736 · **Tags** : 2027
 
-## 1743. 💻 Aider et Cline : agents CLI open source dans le terminal (2027)
+## 1743. 💻 Aider et Cline : agents CLI open source dans le terminal
 
-- **Fichier** : `skills/1743-aider-et-cline-agents-cli-open-source-dans-le-terminal-2.md` · **Mot-clé** : « aider cline CLI extension VS Code open source 2027 édition multi-fichiers commit auto plan act mode modèles locaux » · **Nom court** : Aider/Cline
+- **Fichier** : `skills/1743-aider-et-cline-agents-cli-open-source-dans-le-terminal.md` · **Mot-clé** : « aider cline CLI extension VS Code open source 2027 édition multi-fichiers commit auto plan act mode modèles locaux » · **Nom court** : Aider/Cline
 - **Signal** : Utiliser Aider (CLI open source très populaire, édition multi-fichiers, commit auto, modèles au choix) ou Cline (extension VS Code open source, agent dans l'IDE, plan/act mode) en 2027 — alternatives open source à Cursor/Claude Code (1735/1737). Aider = terminal + git intégré ; Cline = dans VS Code. Utilise pour garder le contrôle total et le code en local (1736). N'utilise pas pour du code sensible sans self-host du modèle (1633). · **Synonymes** : « Aider : agent CLI open source qui commit tout seul (git intégré) 2027 », « Cline : l'agent dans VS Code (plan/act) », « open source », « modèle local dans Aider/Cline (1633) : le code reste chez moi » · **Cross-refs** : 1735, 1740, 68 · **Tags** : 2027
 
-## 1744. 🔎 Sourcegraph Cody : chercher dans une grosse codebase (2027)
+## 1744. 🔎 Sourcegraph Cody : chercher dans une grosse codebase
 
-- **Fichier** : `skills/1744-sourcegraph-cody-chercher-dans-une-grosse-codebase-2027.md` · **Mot-clé** : « sourcegraph cody grosse codebase monorepo 2027 recherche structurelle AST symboles cross-repo chat contextuel self-host » · **Nom court** : Sourcegraph
+- **Fichier** : `skills/1744-sourcegraph-cody-chercher-dans-une-grosse-codebase.md` · **Mot-clé** : « sourcegraph cody grosse codebase monorepo 2027 recherche structurelle AST symboles cross-repo chat contextuel self-host » · **Nom court** : Sourcegraph
 - **Signal** : Naviguer dans une grosse codebase (monorepo, 100k fichiers) en 2027 avec Sourcegraph Cody : recherche structurelle (regex + AST, ex. 'tous les appels à l'ancienne API auth'), navigation par symboles (définitions/références cross-repo), chat contextuel (@fichier), self-host possible (1633). Incontournable pour les grandes bases. N'utilise pas pour un petit repo (grep suffit). · **Synonymes** : « trouver tous les appels à l'ancienne API auth dans 100k fichiers (Cody AST) », « navigation par symboles cross-repo (définitions/références) 2027 », « Cody self-host (1633) pour du code interne qui ne sort pas » · **Cross-refs** : 257, 313, 1633 · **Tags** : 2027
 
-## 1746. 📖 Documentation auto du code par IA : docstrings, README, ADR (2027)
+## 1746. 📖 Documentation auto du code par IA : docstrings, README, ADR
 
-- **Fichier** : `skills/1746-documentation-auto-du-code-par-ia-docstrings-readme-adr-.md` · **Mot-clé** : « doc code auto IA 2027 docstrings README 312 ADR 88 changelog 1578 OpenAPI 180 générés revue humaine 1401 hallucination 1155 » · **Nom court** : Doc auto IA
+- **Fichier** : `skills/1746-documentation-auto-du-code-par-ia-docstrings-readme-adr.md` · **Mot-clé** : « doc code auto IA 2027 docstrings README 312 ADR 88 changelog 1578 OpenAPI 180 générés revue humaine 1401 hallucination 1155 » · **Nom court** : Doc auto IA
 - **Signal** : Générer et maintenir la doc du code avec l'IA en 2027 : docstrings auto (Copilot/Cursor 1735), README (312) et ADR (88) générés depuis le code + les PR, changelog (1578) auto depuis les commits (68), doc des API (180/87 OpenAPI) générée depuis les handlers. Revue humaine obligatoire (1401) — l'IA hallucine (1155). N'utilise pas sans revue. · **Synonymes** : « générer les docstrings de tout un module (IA) + revue (1401) », « README/ADR générés depuis le code et les PR (88) automatiquement », « changelog auto depuis les commits conventionnels (68) 2027 » · **Cross-refs** : 312, 88, 1578 · **Tags** : 2027
 
-## 1747. 🧪 Tests auto generes par l'IA depuis le code (2027)
+## 1747. 🧪 Tests auto generes par l'IA depuis le code
 
-- **Fichier** : `skills/1747-tests-auto-generes-par-l-ia-depuis-le-code-2027.md` · **Mot-clé** : « tests auto IA 2027 couverture 80% chemins critiques mock dépendances mutation testing mutmut stryker revue 1401 » · **Nom court** : Tests auto IA
+- **Fichier** : `skills/1747-tests-auto-generes-par-l-ia-depuis-le-code.md` · **Mot-clé** : « tests auto IA 2027 couverture 80% chemins critiques mock dépendances mutation testing mutmut stryker revue 1401 » · **Nom court** : Tests auto IA
 - **Signal** : Générer les tests unitaires/intégration en 2027 avec l'IA depuis le code (doc-to-test 822 existe — angle 2027 : couverture ciblée) : viser les chemins critiques (happy path + erreurs + limites 310), mocker les dépendances externes (BDD/API 254), atteindre 80 % de couverture sur le nouveau code, revue humaine (1401) + mutation testing (mutmut/stryker) pour vérifier que les tests testent vraiment. N'utilise pas sans revue (tests IA peuvent être creux). · **Synonymes** : « générer les tests d'un module (IA) puis mutation testing pour vérifier qu'ils testent vraiment », « couverture 80% sur le nouveau code (CI 1658 bloque sinon) », « mocker la BDD et l'API externe (254) dans les tests générés » · **Cross-refs** : 67, 822, 310 · **Tags** : 2027
 
-## 1748. 🧹 Refactoring massif assisté par IA : dette technique (2027)
+## 1748. 🧹 Refactoring massif assisté par IA : dette technique
 
-- **Fichier** : `skills/1748-refactoring-massif-assiste-par-ia-dette-technique-2027.md` · **Mot-clé** : « dette technique 2027 refactoring massif IA petits lots testés 1405 Claude Code plan Cursor Composer tests 1747 revue 1401 » · **Nom court** : Dette IA
+- **Fichier** : `skills/1748-refactoring-massif-assiste-par-ia-dette-technique.md` · **Mot-clé** : « dette technique 2027 refactoring massif IA petits lots testés 1405 Claude Code plan Cursor Composer tests 1747 revue 1401 » · **Nom court** : Dette IA
 - **Signal** : S'attaquer à la dette technique en 2027 avec l'IA : identifier la dette (duplications, god objects, TODO 606), puis refactorer par petits lots testés (1405) avec l'agent (Claude Code 1737 plan mode, Cursor 1740 Composer) : un module par semaine, tests auto (1747) avant/après, couverture maintenue, revue (1401). Ne pas tout réécrire d'un coup. N'utilise pas sans tests (1747) et sans plan (1405). · **Synonymes** : « refactorer un god object de 3000 lignes avec Claude Code (plan mode 1737) », « 1 module de dette par semaine », « tests auto (1747) avant/après », « jamais tout d'un coup », « détecter les duplications dans le code (IA) pour la dette (606) » · **Cross-refs** : 606, 1405, 1747 · **Tags** : 2027
 
-## 1749. ⚖️ Vibe coding responsable : quand l'IA code, quand l'humain code (2027)
+## 1749. ⚖️ Vibe coding responsable : quand l'IA code, quand l'humain code
 
 - **Fichier** : `skills/1749-vibe-coding-responsable-quand-l-ia-code-quand-l-humain-c.md` · **Mot-clé** : « vibe coding responsable 2027 frontière IA/humain archi 88 sécurité 1646 revue 1401 tests 1747 SAST 1658 responsabilité humaine » · **Nom court** : Vibe resp.
 - **Signal** : Définir en 2027 ce que l'IA code et ce que l'humain garde : l'IA gère le boilerplate, les tests (1747), la doc (1746), les migrations mécaniques (1737) ; l'humain garde l'archi (88), la sécurité critique (1646), la revue (1401), le choix des algos sensibles (84), et la responsabilité légale. Règle : tout code IA = code relu (1401) + testé (1747) + SAST (1658), responsabilité humaine inchangée. N'utilise pas l'IA pour du code critique sans ces garde-fous. · **Synonymes** : « qu'est-ce que l'IA peut coder en 2027 et qu'est-ce que je garde ? », « l'IA fait le boilerplate », « moi l'archi (88) et la sécurité (1646) », « tout code IA = relu (1401) + testé (1747) + SAST (1658) », « responsabilité humaine » · **Cross-refs** : 540, 88, 1401 · **Tags** : 2027
 
-## 1754. 📂 Observability as code : dashboards et alertes en Git (2027)
+## 1754. 📂 Observability as code : dashboards et alertes en Git
 
-- **Fichier** : `skills/1754-observability-as-code-dashboards-et-alertes-en-git-2027.md` · **Mot-clé** : « observability as code 2027 dashboards alertes SLO en Git JSON Terraform grafana CRD CI 1413 revue PR 1401 » · **Nom court** : Obs as code
+- **Fichier** : `skills/1754-observability-as-code-dashboards-et-alertes-en-git.md` · **Mot-clé** : « observability as code 2027 dashboards alertes SLO en Git JSON Terraform grafana CRD CI 1413 revue PR 1401 » · **Nom court** : Obs as code
 - **Signal** : Gérer l'observabilité as code en 2027 : dashboards Grafana, alertes Prometheus/Alertmanager, SLO (351) définis en code (JSON/Terraform provider Grafana, ou Grafana k8s CRD), versionnés dans Git, déployés par CI (1413) comme du code (revue PR 1401). Plus de clic-bouton dans l'UI qui pourrit. N'utilise pas pour une alerte one-off. · **Synonymes** : « mes dashboards Grafana sont en code (Terraform/JSON) », « plus de clic-bouton », « alertes Prometheus en YAML dans Git », « déployées par CI (1413) », « SLO (351) as code + revue de PR (1401) avant déploiement » · **Cross-refs** : 1416, 1592, 1401 · **Tags** : 2027
 
-## 1756. 📱 RUM : performance réelle des utilisateurs (2027)
+## 1756. 📱 RUM : performance réelle des utilisateurs
 
-- **Fichier** : `skills/1756-rum-performance-reelle-des-utilisateurs-2027.md` · **Mot-clé** : « RUM real user monitoring 2027 web-vitals LCP INP CLS réels utilisateurs p75 par page navigateur zone analytics 1540 anonymisé 1440 » · **Nom court** : RUM 2027
+- **Fichier** : `skills/1756-rum-performance-reelle-des-utilisateurs.md` · **Mot-clé** : « RUM real user monitoring 2027 web-vitals LCP INP CLS réels utilisateurs p75 par page navigateur zone analytics 1540 anonymisé 1440 » · **Nom court** : RUM
 - **Signal** : Mesurer la performance côté client en 2027 avec le RUM (Real User Monitoring) : la librairie web-vitals injectée dans l'app envoie LCP/INP/CLS réels (1618) des vrais utilisateurs vers l'analytics (1540), agrégés p75 par page/navigateur/zone. Complète le labo (Lighthouse). Utilise quand le SEO/conversion dépend de la vitesse réelle. N'utilise pas pour des données perso (1440, anonymiser). · **Synonymes** : « les métriques réelles des utilisateurs (RUM web-vitals) », « pas que Lighthouse (labo) », « INP réel p75 par page et par navigateur (Chrome vs Safari) », « anonymiser le RUM (pas d'ID user 1440) » · **Cross-refs** : 1618, 1540, 253 · **Tags** : 2027
 
-## 1759. 🌪️ Chaos engineering : tester la résilience en 2027 (2027)
+## 1759. 🌪️ Chaos engineering : tester la résilience en
 
-- **Fichier** : `skills/1759-chaos-engineering-tester-la-resilience-en-2027-2027.md` · **Mot-clé** : « chaos engineering 2027 Litmus Chaos Mesh Gremlin tuer pod latence réseau panne AZ hypothesis blast radius 5% abort auto SLO 1751 » · **Nom court** : Chaos eng.
+- **Fichier** : `skills/1759-chaos-engineering-tester-la-resilience-en.md` · **Mot-clé** : « chaos engineering 2027 Litmus Chaos Mesh Gremlin tuer pod latence réseau panne AZ hypothesis blast radius 5% abort auto SLO 1751 » · **Nom court** : Chaos eng.
 - **Signal** : Faire du chaos engineering en 2027 (principe Netflix) pour tester la résilience : expériences contrôlées en prod (tuer un pod, latence réseau 100 ms, panne AZ) avec hypothesis (le système résiste), blast radius limité (5 % du trafic, canary 1418), abort auto si SLO brûlé (1751/1757). Outils : Litmus, Chaos Mesh, Gremlin. N'utilise pas sans garde-fous (abort auto) ni sans SLO (1751). · **Synonymes** : « tuer un pod au hasard en prod et vérifier que ça tient (chaos 2027) », « latence réseau 100 ms entre 2 services (expérience chaos) », « blast radius 5 % + abort auto si le SLO brûle (1751/1757) » · **Cross-refs** : 1418, 1751, 1454 · **Tags** : 2027
 
-## 1761. 🔔 Alerting intelligent : debruitage et routage des alertes (2027)
+## 1761. 🔔 Alerting intelligent : debruitage et routage des alertes
 
-- **Fichier** : `skills/1761-alerting-intelligent-debruitage-et-routage-des-alertes-2.md` · **Mot-clé** : « alerting intelligent debruitage dedoublonnage routage PagerDuty Opsgenie SLO burn rate 2027 » · **Nom court** : Alerting intelligent
+- **Fichier** : `skills/1761-alerting-intelligent-debruitage-et-routage-des-alertes.md` · **Mot-clé** : « alerting intelligent debruitage dedoublonnage routage PagerDuty Opsgenie SLO burn rate 2027 » · **Nom court** : Alerting intelligent
 - **Signal** : Concevoir un alerting intelligent en 2027 : alertes basees sur les SLO et le burn rate (pas sur chaque pic CPU), dedoublonnage et groupement, routage vers la bonne equipe (PagerDuty/Opsgenie), escalade automatique. But : moins d'alertes, plus d'actions. N'utilise pas pour remplacer la supervision (gardez les metriques). · **Synonymes** : « alertes basees SLO burn rate au lieu de pics CPU », « dedoublonnage groupement des alertes avant notification », « routage alerte vers la bonne equipe avec escalade auto » · **Cross-refs** : 1757, 1758, 1754 · **Tags** : 2027
 
-## 1764. 📖 Runbooks et auto-remédiation des incidents (2027)
+## 1764. 📖 Runbooks et auto-remédiation des incidents
 
-- **Fichier** : `skills/1764-runbooks-et-auto-remediation-des-incidents-2027.md` · **Mot-clé** : « runbooks procedures incident auto-remediation automatiser redemarrage pod scaling 2027 » · **Nom court** : Runbooks & auto-remédiation
+- **Fichier** : `skills/1764-runbooks-et-auto-remediation-des-incidents.md` · **Mot-clé** : « runbooks procedures incident auto-remediation automatiser redemarrage pod scaling 2027 » · **Nom court** : Runbooks & auto-remédiation
 - **Signal** : Rediger des runbooks en 2027 : pour chaque alerte recurrente, une procédure pas a pas (diagnostic, commandes, remédiation, escalade) stockee avec le code (docs/runbooks) et versionnee. Aller vers l'auto-remédiation : actions sûres automatisees (redémarrer un pod, vider un cache, scaler +2 replicas) déclenchées automatiquement. N'utilise pas pour automatiser une action non réversible sans validation humaine. · **Synonymes** : « runbook pour l'alerte disque plein : etapes commandes escalade », « auto-remediation : redemarrer le pod tout seul sans reveil humain », « action automatique sure vs action destructive qui demande validation » · **Cross-refs** : 1758, 1761, 1754 · **Tags** : 2027
 
-## 1766. 📊 Dashboards orientés décision et storytelling (2027)
+## 1766. 📊 Dashboards orientés décision et storytelling
 
-- **Fichier** : `skills/1766-dashboards-orientes-decision-et-storytelling-2027.md` · **Mot-clé** : « dashboards Grafana orientes decision drill-down SLO comite equipe support storytelling 2027 » · **Nom court** : Dashboards décision
+- **Fichier** : `skills/1766-dashboards-orientes-decision-et-storytelling.md` · **Mot-clé** : « dashboards Grafana orientes decision drill-down SLO comite equipe support storytelling 2027 » · **Nom court** : Dashboards décision
 - **Signal** : Construire en 2027 des dashboards qui servent une décision (pas des murs de courbes) : un dashboard par audience (comité = SLO et budget d'erreur, équipe = latence p99 et erreurs, support = tickets et incidents), avec drill-down du global au détail. Outil : Grafana (1416). N'utilise pas pour remplacer les alertes (1761). · **Synonymes** : « dashboard comite : SLO et error budget en haut », « pas 40 courbes », « un dashboard par audience : comex », « equipe produit », « support », « drill-down du p99 global au span coupable en 3 clics » · **Cross-refs** : 1416, 1760, 1753 · **Tags** : 2027
 
-## 1770. 🧀 Rust dans le noyau Linux en 2027 : bilan et trajectorie
+## 1770. 🧀 Rust dans le noyau Linux : bilan et trajectorie
 
-- **Fichier** : `skills/1770-rust-dans-le-noyau-linux-en-2027-bilan-et-trajectorie.md` · **Mot-clé** : « Rust for Linux noyau 2027 bilan plus experimental 496 fichiers 120 000 SLOC kernel 7.3 » · **Nom court** : Rust in Linux 2027
+- **Fichier** : `skills/1770-rust-dans-le-noyau-linux-bilan-et-trajectorie.md` · **Mot-clé** : « Rust for Linux noyau 2027 bilan plus experimental 496 fichiers 120 000 SLOC kernel 7.3 » · **Nom court** : Rust in Linux
 - **Signal** : Faire le bilan en 2027 de Rust for Linux : le flag 'plus experimental' a ete retire en decembre 2025 (kernel 6.8+), la branche rust-for-linux (Ojeda) a livre ses premiers drivers. Au kernel 7.3 : 496 fichiers Rust, 120 019 SLOC, soit 24,6x le volume du 6.1. Utilise pour decider si un nouveau driver se ecrit en Rust. N'utilise pas pour réécrire tout le noyau en Rust (ajout, pas remplacement). · **Synonymes** : « Rust n'est plus experimental dans le noyau depuis decembre 2025 », « 496 fichiers 120 019 SLOC de Rust dans le kernel 7.3 (24 », « 6x vs 6.1) », « premiers drivers Rust livres depuis 6.8 : Binder », « NVMe », « Asahi », « Nova » · **Cross-refs** : 1776, 1777, 1778 · **Tags** : 2027
 
 ## 1771. 📌 pinned-init : initialisation épinglée en mémoire (Rust kernel)
@@ -1410,18 +1410,18 @@
 - **Fichier** : `skills/1776-doctrine-torvalds-rust-est-un-ajout-pas-un-remplacement.md` · **Mot-clé** : « Torvalds Rust ajout pas remplacement 20 millions lignes C stagnation mainteneurs doctrine 2027 » · **Nom court** : Doctrine ajout
 - **Signal** : La doctrine de Linus Torvalds en 2027 : Rust dans le noyau est un AJOUT de nouveaux drivers, pas un remplacement du code C existant (20+ millions de lignes). Il a aussi argumente que Rust evite la stagnation du noyau face au vieillissement des mainteneurs. Utilise pour cadrer toute initiative Rust kernel. N'utilise pas pour justifier une réécriture massive du C. · **Synonymes** : « Rust dans le noyau : ajout de nouveaux drivers », « jamais remplacement du C », « Torvalds : Rust evite la stagnation du noyau (mainteneurs vieillissants) », « pas de réécriture massive du code C existant en Rust » · **Cross-refs** : 1770, 1778, 1779 · **Tags** : 2027
 
-## 1793. 🧩 WASI 0.3 et Component Model : WebAssembly hors navigateur (2027)
+## 1793. 🧩 WASI 0.3 et Component Model : WebAssembly hors navigateur
 
-- **Fichier** : `skills/1793-wasi-0-3-et-component-model-webassembly-hors-navigateur-.md` · **Mot-clé** : « WASI 0.3 WASI 1.0 Component Model WIT wasm32-wasip2 Wasmtime WasmEdge wazero hors navigateur 2027 » · **Nom court** : WASI & Wasm serveur
+- **Fichier** : `skills/1793-wasi-0-3-et-component-model-webassembly-hors-navigateur.md` · **Mot-clé** : « WASI 0.3 WASI 1.0 Component Model WIT wasm32-wasip2 Wasmtime WasmEdge wazero hors navigateur 2027 » · **Nom court** : WASI & Wasm serveur
 - **Signal** : En 2027, WebAssembly sort définitivement du navigateur : WASI 0.2 stable, WASI 0.3 (fév. 2026) ajoute l'async natif (futures/streams), WASI 1.0 (fin 2026/début 2027) fige l'ABI long terme. Le Component Model (WIT) permet de composer des modules écrits en plusieurs langages (Rust, Go, C, Python) avec des appels de fonctions, pas du réseau. Cible : wasm32-wasip2 (cargo build --target wasm32-wasip2). Runtimes : Wasmtime (référence, Bytecode Alliance), WasmEdge (edge/IoT), wazero (Go, no CGO), Wasmer. Utilise pour edge, serverless, plugins, IoT. · **Synonymes** : « cargo build --target wasm32-wasip2 pour compiler en WASI 0.3 », « Component Model WIT : composer des modules Rust+Go+Python en un binaire », « WASI 1.0 fige l'ABI long terme fin 2026 debut 2027 » · **Cross-refs** : 1794, 1797, 1770 · **Tags** : 2027
 
-## 1794. 🧷 Plugins et sandbox en WebAssembly : sécurité par capacités (2027)
+## 1794. 🧷 Plugins et sandbox en WebAssembly : sécurité par capacités
 
 - **Fichier** : `skills/1794-plugins-et-sandbox-en-webassembly-securite-par-capacites.md` · **Mot-clé** : « sandbox WebAssembly wasmtime --dir capabilites deny-by-default cold start 1 ms vs 500 ms conteneur plugin 2027 » · **Nom court** : Sandbox Wasm
 - **Signal** : Héberger du code non fiable en 2027 = WebAssembly + modèle de sécurité par capacités (capability-based) : le module n'a accès qu'à ce qu'on lui accorde explicitement (wasmtime run --dir=. app.wasm : seul le dossier courant est visible, le reste est refusé par défaut — pas de /etc/passwd, pas de réseau, pas d'env). Cold start ~1 ms (vs ~500 ms un conteneur Docker), empreinte quelques Mo. Cas : plugins, extensions, exécution de code client, fonctions serverless. N'utilise pas pour remplacer un conteneur quand il faut un OS complet. · **Synonymes** : « wasmtime run --dir=. ./app.wasm : seul le dossier courant est accessible », « deny-by-default : pas d'acces reseau/dossiers/env sans --tcplisten/--env explicites », « cold start 1 ms Wasm vs 500 ms Docker pour les fonctions serverless/edge » · **Cross-refs** : 1793, 1797, 1721 · **Tags** : 2027
 
-## 1797. 🌎 Edge computing 2027 : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale
+## 1797. 🌎 Edge computing : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale
 
-- **Fichier** : `skills/1797-edge-computing-2027-cloudflare-workers-vercel-edge-d1-r2.md` · **Mot-clé** : « edge computing 2027 Cloudflare Workers 330 PoP cold start 5 ms D1 R2 Durable Objects Workers AI Vercel Edge Lambda@Edge latence 5-15 ms » · **Nom court** : Edge computing 2027
+- **Fichier** : `skills/1797-edge-computing-cloudflare-workers-vercel-edge-d1-r2-infe.md` · **Mot-clé** : « edge computing 2027 Cloudflare Workers 330 PoP cold start 5 ms D1 R2 Durable Objects Workers AI Vercel Edge Lambda@Edge latence 5-15 ms » · **Nom court** : Edge computing
 - **Signal** : Déployer à l'edge en 2027 : Cloudflare Workers (330+ PoP, cold start sous 5 ms, V8 isolates, primitives D1 (SQLite edge), R2 (S3 sans egress), Durable Objects, Workers AI pour l'inférence LLM locale — 80 % de l'inférence IA se fait à l'edge), Vercel Edge Functions (Next.js middleware), Lambda@Edge, Deno Deploy. Latence : 5-15 ms à l'edge vs 50-200 ms à l'origine. Pricing : Workers 100k req/j gratuit puis 5 $/mois/10M. Règle : si l'appel edge appelle l'origine mono-région, on perd le gain. · **Synonymes** : « Cloudflare Workers : cold start sous 5 ms sur 330+ PoP », « D1 base SQLite a l'edge + R2 stockage sans frais d'egress », « 80 % de l'inference IA se fait a l'edge en 2027 (Workers AI) » · **Cross-refs** : 1793, 1794, 1756 · **Tags** : 2027
 

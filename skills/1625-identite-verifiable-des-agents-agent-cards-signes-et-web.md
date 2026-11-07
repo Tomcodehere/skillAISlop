@@ -1,7 +1,7 @@
 ---
 num: 1625
 date_ajout: "2026-11"
-nom: "Identite verifiable des agents : Agent Cards signes et Web Bot Auth (2027)"
+nom: "Identite verifiable des agents : Agent Cards signes et Web Bot Auth"
 emoji: "🔐"
 domaine: "Sécurité"
 signal: "Sécuriser l'identité des agents en 2027 : Agent Cards signés (A2A 1622, clés publiques vérifiables), Web Bot Auth (signer les requêtes des bots/agents web, distinct des scrapers), audit de qui appelle quoi. Utilise quand des agents externes appellent votre API. N'utilise pas pour l'auth utilisateur classique (501)."

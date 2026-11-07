@@ -1,7 +1,7 @@
 ---
 num: 1765
 date_ajout: "2026-11"
-nom: "Observabilité de la couche MCP et des appels d'outils des agents (2027)"
+nom: "Observabilité de la couche MCP et des appels d'outils des agents"
 emoji: "🔌"
 domaine: "Data & IA"
 signal: "Observer en 2027 ce que font réellement les agents IA : chaque appel d'outil (tool call), lecture de fichier, commande shell, appel MCP (Model Context Protocol) trace via les spans gen_ai.* d'OpenTelemetry, sur 7 types de plateformes (self-host, managé, proxy : Langfuse, Helicone, Datadog, Arize). Utilise pour debugger un agent qui boucle ou coute cher."

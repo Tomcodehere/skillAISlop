@@ -150,28 +150,28 @@
 - **Fichier** : `skills/1219-outlook-productivity-automation.md` · **Mot-clé** : « outlook-productivity-automation » · **Nom court** : Outlook Productivity Automatio
 - **Signal** : Maximiser productivité Outlook via : - Automatisation tri emails (règles, Quick Steps) - Optimisation gestion agenda (délégations, salles) - Communication professionnelle (signatures, templates) - Ret · **Synonymes** : « automatiser », « emails », « regles » · **Cross-refs** : 766, 696, 357 · **Tags** : 2027
 
-## 1341. 📧 Rédiger un email professionnel percutant (2027)
+## 1341. 📧 Rédiger un email professionnel percutant
 
-- **Fichier** : `skills/1341-rediger-un-email-professionnel-percutant-2027.md` · **Mot-clé** : « email pro percutant » · **Nom court** : Email pro
+- **Fichier** : `skills/1341-rediger-un-email-professionnel-percutant.md` · **Mot-clé** : « email pro percutant » · **Nom court** : Email pro
 - **Signal** : Rédiger un email professionnel clair et percutant en 2027 : objet parlant, accroche, 1 demande, CTA, relances efficaces · **Synonymes** : « rédiger un mail pro » · **Cross-refs** : 2, 399, 4 · **Tags** : 2027
 
-## 1342. 🎤 Prise de parole en public & gestion du stress (2027)
+## 1342. 🎤 Prise de parole en public & gestion du stress
 
-- **Fichier** : `skills/1342-prise-de-parole-en-public-gestion-du-stress-2027.md` · **Mot-clé** : « prise de parole public » · **Nom court** : Oral
+- **Fichier** : `skills/1342-prise-de-parole-en-public-gestion-du-stress.md` · **Mot-clé** : « prise de parole public » · **Nom court** : Oral
 - **Signal** : Prendre la parole en public en 2027 sans paniquer : préparation, respiration, voix, gestion du trac, Q&R, support visuel sobre · **Synonymes** : « parler en public » · **Cross-refs** : 916, 617, 879 · **Tags** : 2027
 
-## 1398. 🎤 Gerer une question piege en interview ou en media (2027)
+## 1398. 🎤 Gerer une question piege en interview ou en media
 
-- **Fichier** : `skills/1398-gerer-une-question-piege-en-interview-ou-en-media-2027.md` · **Mot-clé** : « question piège interview média répondre » · **Nom court** : Question piège
+- **Fichier** : `skills/1398-gerer-une-question-piege-en-interview-ou-en-media.md` · **Mot-clé** : « question piège interview média répondre » · **Nom court** : Question piège
 - **Signal** : Repondre a une question piege en interview, conference ou face aux medias en 2027 : pont (revenir a son message), reformulation de la question hostile, « je ne sais pas mais je reviens vers vous », ne jamais repeter l'accusation. Utilise quand on est interviewe sur un sujet sensible. N'utilise pas pour une crise de communication geree (voir skill 235). · **Synonymes** : « question hostile journaliste technique du pont », « ne pas répondre à une accusation en interview », « interview difficile 2027 » · **Cross-refs** : 1342, 235, 397 · **Tags** : 2027
 
-## 1399. 📣 Annoncer un changement sensible avec humanite (2027)
+## 1399. 📣 Annoncer un changement sensible avec humanite
 
-- **Fichier** : `skills/1399-annoncer-un-changement-sensible-avec-humanite-2027.md` · **Mot-clé** : « annoncer un changement sensible fusion licenciement humanité » · **Nom court** : Annonce sensible
+- **Fichier** : `skills/1399-annoncer-un-changement-sensible-avec-humanite.md` · **Mot-clé** : « annoncer un changement sensible fusion licenciement humanité » · **Nom court** : Annonce sensible
 - **Signal** : Annoncer un changement difficile (fusion, demenagement, licenciement, arret d'un produit) avec humanite en 2027 : dire les faits rapidement, nommer l'impact sur les personnes, expliquer le pourquoi, dire ce qui est prévu pour accompagner, laisser du temps pour les questions. Utilise quand une annonce touche des personnes. N'utilise pas pour une annonce marketing positive (voir Marketing). · **Synonymes** : « annoncer un licenciement avec humanité », « communiquer une fusion difficile 2027 », « message de changement douloureux » · **Cross-refs** : 404, 235, 696 · **Tags** : 2027
 
-## 1719. 📣 Communication plateforme : changelog et demos internes (2027)
+## 1719. 📣 Communication plateforme : changelog et demos internes
 
-- **Fichier** : `skills/1719-communication-plateforme-changelog-et-demos-internes-202.md` · **Mot-clé** : « communication plateforme interne 2027 changelog mensuel démo trimestrielle canal #platform FAQ roadmap NPS » · **Nom court** : Com' platforme
+- **Fichier** : `skills/1719-communication-plateforme-changelog-et-demos-internes.md` · **Mot-clé** : « communication plateforme interne 2027 changelog mensuel démo trimestrielle canal #platform FAQ roadmap NPS » · **Nom court** : Com' platforme
 - **Signal** : Communiquer sur la plateforme interne en 2027 comme un produit : changelog mensuel (1578) des nouveautés (golden paths 1701, scorecards 1711), démo trimestrielle aux devs (canary 1418), canal dédié (#platform sur Slack/Teams), FAQ vivante (119), roadmap publique (1717), NPS interne 2x/an (1712). Objectif : adoption, pas annonce. N'utilise pas pour les annonces externes (marketing). · **Synonymes** : « changelog mensuel de l'IDP (1578) + démo trimestrielle aux devs », « canal #platform dédié + FAQ vivante (119) », « roadmap publique (1717) + NPS interne 2x/an (1712) » · **Cross-refs** : 1700, 1717, 1712 · **Tags** : 2027
 

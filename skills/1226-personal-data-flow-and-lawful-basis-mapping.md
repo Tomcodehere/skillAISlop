@@ -6,7 +6,7 @@ emoji: "🤖"
 domaine: "Data & IA"
 signal: "Préparer l'analyse d'un traitement de données personnelles sans présumer de base légale."
 mot_cle: "personal-data-flow-and-lawful-basis-mapping"
-nom_court: "Personal Data Flow and Lawful-"
+nom_court: "Personal Data Flow and Lawful"
 branche: "D14"
 synonymes: ["demande", "portant", "personal"]
 cross_refs: [1020, 1097, 1234]

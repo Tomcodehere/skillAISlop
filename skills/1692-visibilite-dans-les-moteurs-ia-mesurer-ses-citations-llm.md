@@ -1,12 +1,12 @@
 ---
 num: 1692
 date_ajout: "2026-11"
-nom: "Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO 2027)"
+nom: "Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO)"
 emoji: "🔍"
 domaine: "Produit & IA"
 signal: "Mesurer en 2027 sa visibilité dans les réponses des moteurs IA (ChatGPT, Perplexity, Gemini, Copilot) : suivi des citations de sa marque/site dans les réponses (GEO = Generative Engine Optimization, évolution du SEO 161) — requêtes test régulières, taux de citation, sources citées, sentiment. Utilise quand la visibilité IA devient un canal d'acquisition. N'utilise pas pour le SEO classique (161/748)."
 mot_cle: "GEO 2027 visibilité marque citations réponses LLM Perplexity ChatGPT Gemini mesurer taux de citation"
-nom_court: "GEO 2027"
+nom_court: "GEO"
 branche: "D14"
 synonymes: ["ma marque est-elle citée dans les réponses de Perplexity/ChatGPT ? (GEO)", "taux de citation de mon site dans les moteurs IA (suivi hebdo)", "GEO vs SEO 2027 : visibilité dans les réponses générées (161)"]
 cross_refs: [612, 938, 161]

@@ -1,7 +1,7 @@
 ---
 num: 1648
 date_ajout: "2026-11"
-nom: "Detecter le contenu genere par IA : deepfakes video, voix clonee (2027)"
+nom: "Detecter le contenu genere par IA : deepfakes video, voix clonee"
 emoji: "🎥"
 domaine: "Sécurité"
 signal: "Détecter en 2027 les contenus générés par IA (deepfakes vidéo 561/840, voix clonée 808, texte 538) : outils de détection (Microsoft Video Authenticator, Intel FakeCatcher, detectors open source), Content Credentials C2PA (1691) quand présents, heuristiques (lèvres, reflet yeux, artefacts), et procédure de vérification hors bande (rappelez la personne sur un canal connu). Utilise pour vérifier un contenu suspect reçu. N'utilise pas pour accuser sans preuve."

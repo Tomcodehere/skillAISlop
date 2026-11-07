@@ -1,7 +1,7 @@
 ---
 num: 1757
 date_ajout: "2026-11"
-nom: "SLO burn rate : alertes intelligentes sur le budget d'erreur (2027)"
+nom: "SLO burn rate : alertes intelligentes sur le budget d'erreur"
 emoji: "⏱️"
 domaine: "Data"
 signal: "Alerter intelligemment en 2027 avec le burn rate (Google SRE) : au lieu d'alerter sur chaque pic, calculer le taux de consommation du budget d'erreur (SLO 351/1751) — burn rate 14x sur 1 h = alerte page urgente (budget brûlé en 2 j), 6x sur 6 h = alerte ticket, 1x sur 3 j = info. Évite la fatigue (1417). N'utilise pas pour remplacer les alertes de panne totale."

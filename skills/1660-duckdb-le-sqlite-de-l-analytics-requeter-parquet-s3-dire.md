@@ -1,7 +1,7 @@
 ---
 num: 1660
 date_ajout: "2026-11"
-nom: "DuckDB : le SQLite de l'analytics, requêter Parquet/S3 directement (2027)"
+nom: "DuckDB : le SQLite de l'analytics, requêter Parquet/S3 directement"
 emoji: "🦆"
 domaine: "Data"
 signal: "Utiliser DuckDB en 2027 (« le SQLite de l'analytics ») : moteur analytique embarqué (pas de serveur), requêtes SQL directes sur Parquet/CSV/JSON locaux OU distants (S3, HTTP), jointures entre fichiers et BDD (Postgres 1229), extension spatial/iceberg. Utilise pour l'EDA, les data pipelines locaux, l'analytics embarquée (1607). N'utilise pas pour un entrepôt multi-users à grande échelle (warehouse 1463)."

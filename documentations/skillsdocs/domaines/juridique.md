@@ -290,9 +290,9 @@
 - **Fichier** : `skills/896-droit-du-bail-commercial.md` · **Mot-clé** : « bail commercial » · **Nom court** : Bail 3/6/9
 - **Signal** : Bail commercial 3/6/9, révision du loyer, renouvellement, indemnité d'éviction, fonds de commerce · **Synonymes** : « révision loyer commercial » · **Cross-refs** : 676, 853, 372 · **Tags** : 2027
 
-## 900. 🇪🇺 Préparer l'AI Act haut risque (annexe III, déc. 2027)
+## 900. 🇪🇺 Préparer l'AI Act haut risque (annexe III)
 
-- **Fichier** : `skills/900-preparer-l-ai-act-haut-risque-annexe-iii-dec-2027.md` · **Mot-clé** : « ai act haut risque 2027 » · **Nom court** : AI Act HR
+- **Fichier** : `skills/900-preparer-l-ai-act-haut-risque-annexe-iii.md` · **Mot-clé** : « ai act haut risque 2027 » · **Nom court** : AI Act HR
 - **Signal** : Préparer son entreprise à l'AI Act : systèmes à haut risque annexe III (recrutement, crédit), échéance 2 décembre 2027, registre, contrôle humain · **Synonymes** : « conformité ai act » · **Cross-refs** : 698, 883, 753 · **Tags** : 2027
 
 ## 901. 🏷️ Transparence IA obligatoire (contenu généré, chatbots)
@@ -300,9 +300,9 @@
 - **Fichier** : `skills/901-transparence-ia-obligatoire-contenu-genere-chatbots.md` · **Mot-clé** : « étiquetage contenu ia » · **Nom court** : Étiquetage IA
 - **Signal** : Signaler qu'on parle à une IA (chatbot), étiqueter le contenu généré par IA, transparence AI Act art. 50 en vigueur depuis août 2026 · **Synonymes** : « contenu généré par ia obligatoire » · **Cross-refs** : 900, 561, 389 · **Tags** : 2027
 
-## 911. 📉 PLF 2027 : indemnités de rupture plafonnées à 1 PASS
+## 911. 📉 PLF : indemnités de rupture plafonnées à 1 PASS
 
-- **Fichier** : `skills/911-plf-2027-indemnites-de-rupture-plafonnees-a-1-pass.md` · **Mot-clé** : « indemnité rupture 2027 » · **Nom court** : Indemnité rupture
+- **Fichier** : `skills/911-plf-indemnites-de-rupture-plafonnees-a-1-pass.md` · **Mot-clé** : « indemnité rupture 2027 » · **Nom court** : Indemnité rupture
 - **Signal** : PLF 2027, indemnités de rupture contrat de travail plafonnées à 1 PASS (48 060 €), fin de l'exonération partielle, top 5 % des salariés concernés · **Synonymes** : « plf 2027 licenciement » · **Cross-refs** : 634, 830, 969 · **Tags** : 2027
 
 ## 920. 🔌 Droit à la déconnexion renforcé
@@ -310,9 +310,9 @@
 - **Fichier** : `skills/920-droit-a-la-deconnexion-renforce.md` · **Mot-clé** : « droit à la déconnexion » · **Nom court** : Déconnexion
 - **Signal** : Droit à la déconnexion, ne pas répondre aux mails le soir, charte de déconnexion 2027, harcèlement numérique, limites au travail · **Synonymes** : « ne pas répondre le soir » · **Cross-refs** : 884, 638, 555 · **Tags** : 2027
 
-## 940. ⚖️ Données publiques & scraping éthique/légal 2027
+## 940. ⚖️ Données publiques & scraping éthique/légal
 
-- **Fichier** : `skills/940-donnees-publiques-scraping-ethique-legal-2027.md` · **Mot-clé** : « scraper données publiques légal » · **Nom court** : Scraping légal
+- **Fichier** : `skills/940-donnees-publiques-scraping-ethique-legal.md` · **Mot-clé** : « scraper données publiques légal » · **Nom court** : Scraping légal
 - **Signal** : Scraper des données publiques en 2027 légalement, robots.txt, CGU, RGPD, opt-out robots IA (llms.txt, balises), bornes du scraping · **Synonymes** : « llms.txt 2027 » · **Cross-refs** : 695, 909, 189 · **Tags** : 2027
 
 ## 946. 🚫 Gestion des données d'entraînement & opt-out (créateur)
@@ -320,9 +320,9 @@
 - **Fichier** : `skills/946-gestion-des-donnees-d-entrainement-opt-out-createur.md` · **Mot-clé** : « opt-out entraînement ia » · **Nom court** : Opt-out IA
 - **Signal** : Empêcher son contenu d'entraîner les IA (opt-out 2027), llms.txt, meta noai, Google-Extended, droits d'auteur contenu IA · **Synonymes** : « ne pas entraîner ia sur mon contenu » · **Cross-refs** : 940, 901, 280 · **Tags** : 2027
 
-## 948. 📋 Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027)
+## 948. 📋 Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles)
 
-- **Fichier** : `skills/948-preparer-un-audit-rgpd-cnil-renforce-1-5-m-controles-202.md` · **Mot-clé** : « audit cnil 2027 » · **Nom court** : Audit CNIL
+- **Fichier** : `skills/948-preparer-un-audit-rgpd-cnil-renforce-1-5-m-controles.md` · **Mot-clé** : « audit cnil 2027 » · **Nom court** : Audit CNIL
 - **Signal** : Audit CNIL renforcé 2027 (1,5 million de contrôles prévus), registre des traitements, DPO, DPIA, sous-traitants, logs de conformité · **Synonymes** : « contrôle cnil 2027 » · **Cross-refs** : 695, 843, 751 · **Tags** : 2027
 
 ## 950. 📉 Négocier un PSE (plan de sauvegarde de l'emploi)
@@ -340,14 +340,14 @@
 - **Fichier** : `skills/969-negocier-une-rupture-conventionnelle-individuelle.md` · **Mot-clé** : « rupture conventionnelle individuelle » · **Nom court** : RC individuelle
 - **Signal** : Négocier une rupture conventionnelle individuelle en 2027, indemnité supra-légale, congé de reclassement, délai de rétractation 15 jours, homologation · **Synonymes** : « négocier sa rupture » · **Cross-refs** : 888, 830, 911 · **Tags** : 2027
 
-## 973. 🧾 Lire et comprendre sa fiche de paie (2027)
+## 973. 🧾 Lire et comprendre sa fiche de paie
 
-- **Fichier** : `skills/973-lire-et-comprendre-sa-fiche-de-paie-2027.md` · **Mot-clé** : « lire sa fiche de paie » · **Nom court** : Fiche de paie
+- **Fichier** : `skills/973-lire-et-comprendre-sa-fiche-de-paie.md` · **Mot-clé** : « lire sa fiche de paie » · **Nom court** : Fiche de paie
 - **Signal** : Lire sa fiche de paie 2027, comprendre les lignes (brut, net, cotisations, CSG CRDS, PAS prélèvement à la source), erreurs fréquentes · **Synonymes** : « comprendre bulletin salaire » · **Cross-refs** : 297, 639, 641 · **Tags** : 2027
 
-## 974. 📝 Déclarer ses revenus 2027 (déclaration en ligne)
+## 974. 📝 Déclarer ses revenus (déclaration en ligne)
 
-- **Fichier** : `skills/974-declarer-ses-revenus-2027-declaration-en-ligne.md` · **Mot-clé** : « déclaration revenus 2027 » · **Nom court** : Déclaration 2027
+- **Fichier** : `skills/974-declarer-ses-revenus-declaration-en-ligne.md` · **Mot-clé** : « déclaration revenus 2027 » · **Nom court** : Déclaration
 - **Signal** : Déclarer ses revenus 2027 en ligne (impots.gouv.fr), déclaration automatique, revenus à déclarer (foncier, capitaux, pro), délais mai-juin 2027 · **Synonymes** : « impots.gouv.fr 2027 » · **Cross-refs** : 811, 973, 664 · **Tags** : 2027
 
 ## 975. 🏥 Faire reconnaître une maladie professionnelle (MP)
@@ -360,9 +360,9 @@
 - **Fichier** : `skills/981-gerer-un-litige-avec-un-artisan-travaux-bacles.md` · **Mot-clé** : « litige artisan travaux » · **Nom court** : Litige travaux
 - **Signal** : Litige artisan travaux bâclés 2027, mise en demeure, garantie décennale/biennale/parfait achèvement, expertise judiciaire, médiation, assurance DO · **Synonymes** : « travaux bâclés 2027 » · **Cross-refs** : 895, 855, 993 · **Tags** : 2027
 
-## 993. ✈️ Gérer un litige avec une compagnie aérienne (2027)
+## 993. ✈️ Gérer un litige avec une compagnie aérienne
 
-- **Fichier** : `skills/993-gerer-un-litige-avec-une-compagnie-aerienne-2027.md` · **Mot-clé** : « indemnisation vol retardé 2027 » · **Nom court** : Litige avion
+- **Fichier** : `skills/993-gerer-un-litige-avec-une-compagnie-aerienne.md` · **Mot-clé** : « indemnisation vol retardé 2027 » · **Nom court** : Litige avion
 - **Signal** : Litige compagnie aérienne 2027 (retard, annulation, bagage perdu), règlement UE 261/2004, indemnisation 250-600 €, médiation, tribunal · **Synonymes** : « vol annulé remboursement » · **Cross-refs** : 865, 855, 981 · **Tags** : 2027
 
 ## 1318. 🚔 Contrôle routier numérique (permis/carte grise)
@@ -370,48 +370,48 @@
 - **Fichier** : `skills/1318-controle-routier-numerique-permis-carte-grise.md` · **Mot-clé** : « contrôle routier numérique » · **Nom court** : Contrôle numérique
 - **Signal** : Présenter son permis de conduire et sa carte grise numériques lors d'un contrôle routier en 2027, QR code dynamique France Identité · **Synonymes** : « permis numérique contrôle » · **Cross-refs** : 1317, 866, 955 · **Tags** : 2027
 
-## 1681. ⚖️ AI Act : calendrier 2026-2028 post-Omnibus (2027)
+## 1681. ⚖️ AI Act : calendrier post-Omnibus
 
-- **Fichier** : `skills/1681-ai-act-calendrier-2026-2028-post-omnibus-2027.md` · **Mot-clé** : « AI Act calendrier 2026 2028 post-Omnibus 2026/1744 2 août 2026 2 déc 2026 2 déc 2027 2 août 2028 annexe III » · **Nom court** : AI Act calendrier
+- **Fichier** : `skills/1681-ai-act-calendrier-post-omnibus.md` · **Mot-clé** : « AI Act calendrier 2026 2028 post-Omnibus 2026/1744 2 août 2026 2 déc 2026 2 déc 2027 2 août 2028 annexe III » · **Nom court** : AI Act calendrier
 - **Signal** : Connaître le calendrier de l'AI Act européen en 2027 (post-Omnibus, Règlement (UE) 2026/1744 en vigueur depuis le 27 juillet 2026) : 2 août 2026 = pouvoirs d'exécution AI Office + transparence (art. 50) ; 2 décembre 2026 = interdictions contenu intime non consenti (CSAM) + watermarking ; 2 août 2027 = GPAI mis sur le marché avant août 2025 ; 2 décembre 2027 = haut risque Annexe III (stand-alone) ; 2 août 2028 = haut risque produits réglementés (Annexe I). Utilise pour planifier la conformité. N'utilise pas pour un conseil juridique (avocat). · **Synonymes** : « quand s'applique l'AI Act en 2027 (post-Omnibus) », « 2 août 2026 : transparence art 50 + enforcement AI Office », « 2 déc 2027 haut risque annexe III », « 2 août 2028 annexe I produits » · **Cross-refs** : 900, 271, 1682 · **Tags** : 2027
 
-## 1682. 📋 GPAI : Code of Practice et obligations fournisseurs (2027)
+## 1682. 📋 GPAI : Code of Practice et obligations fournisseurs
 
-- **Fichier** : `skills/1682-gpai-code-of-practice-et-obligations-fournisseurs-2027.md` · **Mot-clé** : « GPAI 2027 Code of Practice documentation résumé entraînement copyright risque systémique déclaration incidents 24h » · **Nom court** : GPAI 2027
+- **Fichier** : `skills/1682-gpai-code-of-practice-et-obligations-fournisseurs.md` · **Mot-clé** : « GPAI 2027 Code of Practice documentation résumé entraînement copyright risque systémique déclaration incidents 24h » · **Nom court** : GPAI
 - **Signal** : Se conformer en 2027 aux obligations GPAI (modèles d'IA à usage général, en vigueur depuis 2 août 2025, enforcement + amendes depuis 2 août 2026) : documentation technique, résumé public du contenu d'entraînement (droit d'auteur Directive 2026), Code of Practice (20+ signataires août 2026) pour les fournisseurs, évaluations + déclaration d'incidents graves pour les modèles à risque systémique. Utilise si vous développez/fournissez un modèle GPAI. N'utilise pas si vous êtes simple utilisateur (déployer). · **Synonymes** : « nous fournissons un modèle GPAI : obligations 2027 (Code of Practice) », « résumé public du dataset d'entraînement (droit d'auteur 2026) », « modèle à risque systémique : évaluation + incident grave déclaré sous 24 h » · **Cross-refs** : 1681, 1683, 1018 · **Tags** : 2027
 
-## 1683. 💰 Amendes AI Act : 35 M€ ou 7 % du CA (2027)
+## 1683. 💰 Amendes AI Act : 35 M€ ou 7 % du CA
 
-- **Fichier** : `skills/1683-amendes-ai-act-35-m-ou-7-du-ca-2027.md` · **Mot-clé** : « amendes AI Act 2027 35 M€ 7% CA pratiques interdites 15 M€ 3% GPAI 7,5 M€ 1,5% haut risque » · **Nom court** : Amendes AI Act
+- **Fichier** : `skills/1683-amendes-ai-act-35-m-ou-7-du-ca.md` · **Mot-clé** : « amendes AI Act 2027 35 M€ 7% CA pratiques interdites 15 M€ 3% GPAI 7,5 M€ 1,5% haut risque » · **Nom court** : Amendes AI Act
 - **Signal** : Connaître les sanctions de l'AI Act en 2027 (applicables depuis 2 août 2025, renforcées 2 août 2026) : pratiques interdites (art 5) : jusqu'à 35 M€ ou 7 % du CA mondial ; GPAI non conforme : 15 M€ ou 3 % ; autres obligations (haut risque) : 7,5 M€ ou 1,5 %. Non-déclaration d'incident grave GPAI systémique : sanctionnée. Utilise pour chiffrer le risque conformité. N'utilise pas pour un conseil juridique. · **Synonymes** : « sanction AI Act : 35 M€ ou 7 % du CA pour pratiques interdites », « GPAI non conforme : 15 M€ ou 3 % du CA mondial », « haut risque non conforme : 7 », « 5 M€ ou 1 », « 5 % » · **Cross-refs** : 1681, 1682, 189 · **Tags** : 2027
 
-## 1684. ⏳ Préparer l'Annexe III haut risque : deadline 2 décembre 2027 (2027)
+## 1684. ⏳ Préparer l'Annexe III haut risque : deadline 2 décembre
 
-- **Fichier** : `skills/1684-preparer-l-annexe-iii-haut-risque-deadline-2-decembre-20.md` · **Mot-clé** : « Annexe III haut risque 2 décembre 2027 emploi crédit éducation obligations gestion risques supervision humaine déclaration UE » · **Nom court** : Annexe III 2027
+- **Fichier** : `skills/1684-preparer-l-annexe-iii-haut-risque-deadline-2-decembre.md` · **Mot-clé** : « Annexe III haut risque 2 décembre 2027 emploi crédit éducation obligations gestion risques supervision humaine déclaration UE » · **Nom court** : Annexe III
 - **Signal** : Se préparer d'ici le 2 décembre 2027 (Annexe III haut risque stand-alone, date fixée par l'Omnibus 2026/1744) pour les systèmes IA utilisés en : emploi/recrutement ( tri CV, entretiens 697), éducation (notation, proctoring 41), crédit/scoring, accès à des services essentiels, biométrie, justice. Obligations : gestion des risques, qualité des données (336), doc technique, logs (713), transparence, supervision humaine (329), précision/robustesse, cybersécurité, déclaration UE, marquage. Systèmes déjà en service avant août 2026 : transition jusqu'au 2 août 2027. N'utilise pas pour l'Annexe I (produits réglementés, 2028). · **Synonymes** : « notre IA de tri de CV est haut risque Annexe III : deadline 2 déc 2027 », « obligations haut risque : gestion risques », « logs », « supervision humaine (329) », « cybersécurité », « système en service avant août 2026 : transition jusqu'au 2 août 2027 » · **Cross-refs** : 900, 1681, 329 · **Tags** : 2027
 
-## 1685. 🏛 CADA 2027 : niveaux de souveraineté cloud UE (2027)
+## 1685. 🏛 CADA : niveaux de souveraineté cloud UE
 
-- **Fichier** : `skills/1685-cada-2027-niveaux-de-souverainete-cloud-ue-2027.md` · **Mot-clé** : « CADA 2027 EU Cloud AI Development Act niveaux assurance souveraineté marché public évaluation risque contrat » · **Nom court** : CADA 2027
+- **Fichier** : `skills/1685-cada-niveaux-de-souverainete-cloud-ue.md` · **Mot-clé** : « CADA 2027 EU Cloud AI Development Act niveaux assurance souveraineté marché public évaluation risque contrat » · **Nom court** : CADA
 - **Signal** : Comprendre le CADA (EU Cloud and AI Development Act, proposé par la Commission le 12 juin 2026) en 2027 : cadre de souveraineté cloud avec niveaux d'assurance (comme Gaia-X 1686) que les fournisseurs devront satisfaire selon la sensibilité des données ; marchés publics : évaluation obligatoire du risque de souveraineté avant contrat (banque, énergie, santé). Utilise pour choisir un cloud pour des données sensibles en UE. N'utilise pas pour du cloud perso. · **Synonymes** : « CADA : quels niveaux de souveraineté cloud exigés en 2027 ? », « marché public banque/énergie : évaluation risque souveraineté obligatoire avant contrat », « Gaia-X niveaux 3-4 comme base du CADA (1686) » · **Cross-refs** : 1686, 1687, 924 · **Tags** : 2027
 
-## 1686. 🇪🇺 Gaia-X niveau 3 : souveraineté pleine vs CLOUD Act (2027)
+## 1686. 🇪🇺 Gaia-X niveau 3 : souveraineté pleine vs CLOUD Act
 
-- **Fichier** : `skills/1686-gaia-x-niveau-3-souverainete-pleine-vs-cloud-act-2027.md` · **Mot-clé** : « Gaia-X niveau 3 souveraineté pleine siège UE droit européen CLOUD Act 2027 certification GXDCH » · **Nom court** : Gaia-X N3
+- **Fichier** : `skills/1686-gaia-x-niveau-3-souverainete-pleine-vs-cloud-act.md` · **Mot-clé** : « Gaia-X niveau 3 souveraineté pleine siège UE droit européen CLOUD Act 2027 certification GXDCH » · **Nom court** : Gaia-X N3
 - **Signal** : Choisir un fournisseur Gaia-X niveau 3 en 2027 pour la souveraineté pleine : siège dans l'UE, opéré sous droit européen, à l'abri des prétentions extraterritoriales (CLOUD Act US) — niveaux 1-3 (3 = pleine souveraineté), 180+ espaces de données sectoriels en 2026, certification via le Digital Clearing House (GXDCH). Utilise pour les données sensibles (santé, industrie, admin) en UE. N'utilise pas pour des données publiques. · **Synonymes** : « fournisseur Gaia-X niveau 3 = siège UE », « droit UE », « hors CLOUD Act », « 180 espaces de données sectoriels Gaia-X en 2026 (santé », « auto », « énergie) », « certification via le Digital Clearing House (GXDCH) 2027 » · **Cross-refs** : 1685, 924, 722 · **Tags** : 2027
 
-## 1687. ☁️ AWS European Sovereign Cloud : évaluer l'offre souveraine US (2027)
+## 1687. ☁️ AWS European Sovereign Cloud : évaluer l'offre souveraine US
 
 - **Fichier** : `skills/1687-aws-european-sovereign-cloud-evaluer-l-offre-souveraine-.md` · **Mot-clé** : « AWS European Sovereign Cloud janvier 2026 7,8 Md€ Brandebourg GmbH UE évaluation CLOUD Act 2027 » · **Nom court** : AWS Souverain
 - **Signal** : Évaluer en 2027 l'AWS European Sovereign Cloud (lancé en janvier 2026 en Brandebourg, 7,8 Md€ d'investissement, GmbH allemande) : données et métadonnées en UE, clés gérées par une entité UE, mais opérateur US (CLOUD Act théoriquement exclu du périmètre souverain si bien architecturé — à vérifier juridiquement). Alternative aux fournisseurs purement UE (OVH, Gaia-X niveau 3 1686). Utilise pour des données sensibles sur AWS. N'utilise pas sans analyse juridique (DPO/avocat). · **Synonymes** : « AWS European Sovereign Cloud lancé janv 2026 (7 », « 8 Md€ », « Allemagne) », « est-ce hors CLOUD Act ? (analyse juridique requise) », « AWS souverain vs OVH/Gaia-X niveau 3 (1686) comparatif » · **Cross-refs** : 1685, 1686, 924 · **Tags** : 2027
 
-## 1688. 🧠 Souveraineté GPU et calcul IA en Europe (2027)
+## 1688. 🧠 Souveraineté GPU et calcul IA en Europe
 
-- **Fichier** : `skills/1688-souverainete-gpu-et-calcul-ia-en-europe-2027.md` · **Mot-clé** : « souveraineté GPU calcul IA Europe 2027 EU Cloud AI Development Act datacenters UE dépendance NVIDIA » · **Nom court** : GPU UE 2027
+- **Fichier** : `skills/1688-souverainete-gpu-et-calcul-ia-en-europe.md` · **Mot-clé** : « souveraineté GPU calcul IA Europe 2027 EU Cloud AI Development Act datacenters UE dépendance NVIDIA » · **Nom court** : GPU UE
 - **Signal** : Évaluer la dépendance GPU américaine en 2027 : la quasi-totalité des puces IA (NVIDIA) est produite/US, la souveraineté du calcul est le vrai enjeu 2027-2030 (EU Cloud and AI Development Act du 12 juin 2026 vise à tripler les capacités datacenters UE et harmoniser via l'EUCS). Pour l'IA souveraine : modèles UE (1633) + hébergement UE (1686/1687) + si possible calcul UE. Utilise pour les stratégies long terme. N'utilise pas pour un projet ponctuel. · **Synonymes** : « tous les GPU viennent des US (NVIDIA) », « souveraineté calcul 2027 », « EU Cloud and AI Development Act 12 juin 2026 : tripler les datacenters UE », « modèle UE (1633) + hébergement UE (1686) + calcul UE quand possible » · **Cross-refs** : 1685, 1633, 1687 · **Tags** : 2027
 
-## 1689. 🏆 EUCS : certification cloud européenne (2027)
+## 1689. 🏆 EUCS : certification cloud européenne
 
-- **Fichier** : `skills/1689-eucs-certification-cloud-europeenne-2027.md` · **Mot-clé** : « EUCS 2027 certification cloud européenne ENISA niveaux basic substantial high Gaia-X CADA » · **Nom court** : EUCS 2027
+- **Fichier** : `skills/1689-eucs-certification-cloud-europeenne.md` · **Mot-clé** : « EUCS 2027 certification cloud européenne ENISA niveaux basic substantial high Gaia-X CADA » · **Nom court** : EUCS
 - **Signal** : Viser la certification EUCS (EU Cybersecurity Certification Scheme for Cloud Services) en 2027 : schéma européen de certification cloud (niveaux basic/substantial/high, basé sur les exigences ENISA), qui s'articule avec Gaia-X (1686) et le CADA (1685). Utilise pour choisir un cloud conforme pour le secteur public/santé/finance UE. N'utilise pas pour du cloud perso. · **Synonymes** : « certification EUCS du cloud en 2027 (niveaux basic/substantial/high) », « EUCS vs Gaia-X vs CADA : quel label viser ? », « cloud santé/finance UE : exiger EUCS high + Gaia-X N3 (1686) » · **Cross-refs** : 1685, 1686, 1459 · **Tags** : 2027
 

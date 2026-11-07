@@ -1,7 +1,7 @@
 ---
 num: 1794
 date_ajout: "2026-11"
-nom: "Plugins et sandbox en WebAssembly : sécurité par capacités (2027)"
+nom: "Plugins et sandbox en WebAssembly : sécurité par capacités"
 emoji: "🧷"
 domaine: "Développement"
 signal: "Héberger du code non fiable en 2027 = WebAssembly + modèle de sécurité par capacités (capability-based) : le module n'a accès qu'à ce qu'on lui accorde explicitement (wasmtime run --dir=. app.wasm : seul le dossier courant est visible, le reste est refusé par défaut — pas de /etc/passwd, pas de réseau, pas d'env). Cold start ~1 ms (vs ~500 ms un conteneur Docker), empreinte quelques Mo. Cas : plugins, extensions, exécution de code client, fonctions serverless. N'utilise pas pour remplacer un conteneur quand il faut un OS complet."

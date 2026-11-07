@@ -140,14 +140,14 @@
 - **Fichier** : `skills/778-tresorerie-bfr-de-la-pme.md` · **Mot-clé** : « trésorerie pme » · **Nom court** : Trésorerie PME
 - **Signal** : Gérer la trésorerie d'une PME, BFR, délais clients, affacturage, découvert, prévisionnel de trésorerie mensuel · **Synonymes** : « bfr » · **Cross-refs** : 638, 230, 170 · **Tags** : —
 
-## 811. 📜 Loi de finances 2026 : changements clés
+## 811. 📜 Loi de finances : changements clés
 
-- **Fichier** : `skills/811-loi-de-finances-2026-changements-cles.md` · **Mot-clé** : « loi de finances 2026 » · **Nom court** : LF 2026
+- **Fichier** : `skills/811-loi-de-finances-changements-cles.md` · **Mot-clé** : « loi de finances 2026 » · **Nom court** : LF
 - **Signal** : Loi de finances 2026, changements fiscaux 2026, loi 2026-103, CDHR, PER, prélèvements sociaux 18,6 % · **Synonymes** : « loi 2026-103 » · **Cross-refs** : 297, 639, 563 · **Tags** : 2027
 
-## 812. 🧮 Optimisation fiscale légale 2026
+## 812. 🧮 Optimisation fiscale légale
 
-- **Fichier** : `skills/812-optimisation-fiscale-legale-2026.md` · **Mot-clé** : « optimisation fiscale » · **Nom court** : Optimisation fiscale
+- **Fichier** : `skills/812-optimisation-fiscale-legale.md` · **Mot-clé** : « optimisation fiscale » · **Nom court** : Optimisation fiscale
 - **Signal** : Optimiser ses impôts légalement en 2026, niches fiscales, PER, LMNP, donations 100 000 €, PEA, assurance-vie · **Synonymes** : « défiscalisation 2026 » · **Cross-refs** : 811, 681, 835 · **Tags** : 2027
 
 ## 826. 🏠 Vente d'un bien immobilier
@@ -190,64 +190,64 @@
 - **Fichier** : `skills/897-protection-du-dirigeant-assurance-homme-cle.md` · **Mot-clé** : « assurance homme clé » · **Nom court** : Homme clé
 - **Signal** : Assurance homme clé dirigeant, perte d'exploitation, responsabilité civile dirigeant (RCMS), garantie décennale dirigeant · **Synonymes** : « rc dirigeant » · **Cross-refs** : 786, 891, 965 · **Tags** : 2027
 
-## 910. 💸 PLF 2027 : dons d'argent allégés S1 2027
+## 910. 💸 PLF : dons d'argent allégés S1
 
-- **Fichier** : `skills/910-plf-2027-dons-d-argent-alleges-s1-2027.md` · **Mot-clé** : « don argent 2027 6% » · **Nom court** : Don 2027
+- **Fichier** : `skills/910-plf-dons-d-argent-alleges-s1.md` · **Mot-clé** : « don argent 2027 6% » · **Nom court** : Don
 - **Signal** : PLF 2027, don d'argent 50 000 € exonéré taux 6 % du 1er janvier au 30 juin 2027, fenêtre fiscale transmission jeunes générations · **Synonymes** : « plf 2027 » · **Cross-refs** : 811, 837, 638 · **Tags** : 2027
 
-## 935. 🏡 Anah & rénovation globale 2027 (recentrage PLF 2027)
+## 935. 🏡 Anah & rénovation globale (recentrage PLF)
 
-- **Fichier** : `skills/935-anah-renovation-globale-2027-recentrage-plf-2027.md` · **Mot-clé** : « aide rénovation 2027 anah » · **Nom court** : Anah 2027
+- **Fichier** : `skills/935-anah-renovation-globale-recentrage-plf.md` · **Mot-clé** : « aide rénovation 2027 anah » · **Nom court** : Anah
 - **Signal** : Anah 2027, aides rénovation recentrées sur rénovation globale et copropriétés dégradées (PLF 2027), MaPrimeRénov' 2027, CEE solaires supprimés nov 2026 · **Synonymes** : « maprimerenov 2027 » · **Cross-refs** : 894, 811, 961 · **Tags** : 2027
 
-## 961. 🏠 Rénovation énergétique globale (DPE) 2027
+## 961. 🏠 Rénovation énergétique globale (DPE)
 
-- **Fichier** : `skills/961-renovation-energetique-globale-dpe-2027.md` · **Mot-clé** : « rénovation énergétique globale » · **Nom court** : Rénovation globale
+- **Fichier** : `skills/961-renovation-energetique-globale-dpe.md` · **Mot-clé** : « rénovation énergétique globale » · **Nom court** : Rénovation globale
 - **Signal** : Rénovation énergétique globale 2027, DPE, interdiction location passoires thermiques, audit énergétique, MaPrimeRénov' parcours accompagné · **Synonymes** : « dpe 2027 interdiction location » · **Cross-refs** : 935, 894, 979 · **Tags** : 2027
 
-## 964. 📈 Ouverture d'un PEA / compte-titres 2027
+## 964. 📈 Ouverture d'un PEA / compte-titres
 
-- **Fichier** : `skills/964-ouverture-d-un-pea-compte-titres-2027.md` · **Mot-clé** : « ouvrir un pea 2027 » · **Nom court** : PEA 2027
+- **Fichier** : `skills/964-ouverture-d-un-pea-compte-titres.md` · **Mot-clé** : « ouvrir un pea 2027 » · **Nom court** : PEA
 - **Signal** : Ouvrir un PEA ou compte-titres en 2027, banque en ligne vs banque traditionnelle, ETF monde, fiscalité après 5 ans, plafond 150 000 € · **Synonymes** : « compte-titres 2027 » · **Cross-refs** : 835, 519, 680 · **Tags** : 2027
 
-## 965. 🏠 Assurance habitation & multirisque 2027
+## 965. 🏠 Assurance habitation & multirisque
 
-- **Fichier** : `skills/965-assurance-habitation-multirisque-2027.md` · **Mot-clé** : « assurance habitation 2027 » · **Nom court** : Assurance habitation
+- **Fichier** : `skills/965-assurance-habitation-multirisque.md` · **Mot-clé** : « assurance habitation 2027 » · **Nom court** : Assurance habitation
 - **Signal** : Choisir une assurance habitation multirisque en 2027, comparer les garanties (dégâts des eaux, vol, responsabilité civile), franchise, tarifs 2027 · **Synonymes** : « multirisque habitation » · **Cross-refs** : 683, 895, 833 · **Tags** : 2027
 
-## 966. 🏦 Crédit immobilier : simuler & comparer les offres 2027
+## 966. 🏦 Crédit immobilier : simuler & comparer les offres
 
-- **Fichier** : `skills/966-credit-immobilier-simuler-comparer-les-offres-2027.md` · **Mot-clé** : « simuler crédit immobilier 2027 » · **Nom court** : Simulateur crédit
+- **Fichier** : `skills/966-credit-immobilier-simuler-comparer-les-offres.md` · **Mot-clé** : « simuler crédit immobilier 2027 » · **Nom court** : Simulateur crédit
 - **Signal** : Simuler un crédit immobilier en 2027, comparer TAEG entre banques, délégation d'assurance, apport, durée, capacité d'emprunt · **Synonymes** : « taux crédit 2027 » · **Cross-refs** : 298, 833, 675 · **Tags** : 2027
 
-## 976. 🏗️ Acheter un bien en VEFA / neuf en 2027
+## 976. 🏗️ Acheter un bien en VEFA / neuf en
 
-- **Fichier** : `skills/976-acheter-un-bien-en-vefa-neuf-en-2027.md` · **Mot-clé** : « acheter en vefa 2027 » · **Nom court** : VEFA 2027
+- **Fichier** : `skills/976-acheter-un-bien-en-vefa-neuf-en.md` · **Mot-clé** : « acheter en vefa 2027 » · **Nom court** : VEFA
 - **Signal** : Acheter en VEFA neuf en 2027, contrat de réservation, VEFA, garanties décennale/biennale, échelonnement des paiements, PTZ 2027 · **Synonymes** : « acheter neuf 2027 » · **Cross-refs** : 675, 966, 992 · **Tags** : 2027
 
-## 977. 🛋️ Louer son bien en meublé (LMNP) vs nu 2027
+## 977. 🛋️ Louer son bien en meublé (LMNP) vs nu
 
-- **Fichier** : `skills/977-louer-son-bien-en-meuble-lmnp-vs-nu-2027.md` · **Mot-clé** : « lmnp vs location nue 2027 » · **Nom court** : LMNP vs nue
+- **Fichier** : `skills/977-louer-son-bien-en-meuble-lmnp-vs-nu.md` · **Mot-clé** : « lmnp vs location nue 2027 » · **Nom court** : LMNP vs nue
 - **Signal** : Louer en meublé (LMNP) ou nu en 2027, comparaison fiscale, amortissement LMNP, Jeanbrun location nue 2027, charges, bail meublé · **Synonymes** : « meublé ou nu 2027 » · **Cross-refs** : 894, 935, 812 · **Tags** : 2027
 
-## 978. 👴 Préparer sa retraite (PER, calcul rente) 2027
+## 978. 👴 Préparer sa retraite (PER, calcul rente)
 
-- **Fichier** : `skills/978-preparer-sa-retraite-per-calcul-rente-2027.md` · **Mot-clé** : « préparer sa retraite 2027 » · **Nom court** : Retraite 2027
+- **Fichier** : `skills/978-preparer-sa-retraite-per-calcul-rente.md` · **Mot-clé** : « préparer sa retraite 2027 » · **Nom court** : Retraite
 - **Signal** : Préparer sa retraite en 2027, PER, calcul de la rente, âge légal 64 ans, trimestres, cumul emploi-retraite, décote/surcote · **Synonymes** : « calcul retraite 2027 » · **Cross-refs** : 811, 964, 682 · **Tags** : 2027
 
-## 979. 🔋 Faire un audit énergétique & DPE avant travaux 2027
+## 979. 🔋 Faire un audit énergétique & DPE avant travaux
 
-- **Fichier** : `skills/979-faire-un-audit-energetique-dpe-avant-travaux-2027.md` · **Mot-clé** : « audit énergétique 2027 » · **Nom court** : Audit éner.
+- **Fichier** : `skills/979-faire-un-audit-energetique-dpe-avant-travaux.md` · **Mot-clé** : « audit énergétique 2027 » · **Nom court** : Audit éner.
 - **Signal** : Audit énergétique obligatoire 2027 avant vente/location, DPE, travaux prioritaires, aides France Rénov', diagnostiqueur certifié · **Synonymes** : « dpe 2027 avant travaux » · **Cross-refs** : 961, 935, 678 · **Tags** : 2027
 
-## 982. ⚖️ Prévenir le surendettement & FICP 2027
+## 982. ⚖️ Prévenir le surendettement & FICP
 
-- **Fichier** : `skills/982-prevenir-le-surendettement-ficp-2027.md` · **Mot-clé** : « surendettement 2027 » · **Nom court** : Surendettement
+- **Fichier** : `skills/982-prevenir-le-surendettement-ficp.md` · **Mot-clé** : « surendettement 2027 » · **Nom court** : Surendettement
 - **Signal** : Surendettement, dossier Banque de France 2027, FICP, négociation avec les créanciers, commission de surendettement, plan de redressement · **Synonymes** : « ficp inscription » · **Cross-refs** : 371, 832, 650 · **Tags** : 2027
 
-## 992. 🏝️ Acheter un bien à l'étranger (résidence secondaire) 2027
+## 992. 🏝️ Acheter un bien à l'étranger (résidence secondaire)
 
-- **Fichier** : `skills/992-acheter-un-bien-a-l-etranger-residence-secondaire-2027.md` · **Mot-clé** : « acheter à l'étranger 2027 » · **Nom court** : Achat étranger
+- **Fichier** : `skills/992-acheter-un-bien-a-l-etranger-residence-secondaire.md` · **Mot-clé** : « acheter à l'étranger 2027 » · **Nom court** : Achat étranger
 - **Signal** : Acheter un bien immobilier à l'étranger en 2027 (Portugal, Espagne, Italie), notaire local, financement, fiscalité non-résident, gestion à distance · **Synonymes** : « résidence secondaire 2027 » · **Cross-refs** : 676, 958, 976 · **Tags** : 2027
 
 ## 1046. 💰 Belgian Accounting & Bookkeeping Basics
@@ -255,8 +255,8 @@
 - **Fichier** : `skills/1046-belgian-accounting-bookkeeping-basics.md` · **Mot-clé** : « belgian-accounting-bookkeeping-basics » · **Nom court** : Belgian Accounting & Bookkeepi
 - **Signal** : Aider à comprendre les notions et workflows comptables courants en Belgique et à organiser des informations comptables, sans certifier les comptes ni remplacer un professionnel agréé. · **Synonymes** : « utilisateur », « comprendre », « notion » · **Cross-refs** : 172, 1082, 1047 · **Tags** : 2027
 
-## 1324. 🧮 Gestionnaire de budget perso IA (2027)
+## 1324. 🧮 Gestionnaire de budget perso IA
 
-- **Fichier** : `skills/1324-gestionnaire-de-budget-perso-ia-2027.md` · **Mot-clé** : « budget perso ia 2027 » · **Nom court** : Budget IA
+- **Fichier** : `skills/1324-gestionnaire-de-budget-perso-ia.md` · **Mot-clé** : « budget perso ia 2027 » · **Nom court** : Budget IA
 - **Signal** : Faire son budget avec un agent IA 2027 : catégorisation auto des dépenses, alertes dépassement, enveloppes, objectif d'épargne · **Synonymes** : « gestionnaire dépenses ia » · **Cross-refs** : 541, 297, 43 · **Tags** : 2027
 

@@ -1,7 +1,7 @@
 ---
 num: 1715
 date_ajout: "2026-11"
-nom: "Documentation développeur interne : TechDocs et docs-as-code (2027)"
+nom: "Documentation développeur interne : TechDocs et docs-as-code"
 emoji: "📖"
 domaine: "Développement"
 signal: "Centraliser la doc développeur en 2027 : docs dans chaque repo (docs/*.md, doc-as-code 1406) rendues dans le portail (Backstage TechDocs 1702) ou un site statique (MkDocs/Docusaurus 1406), avec owner par doc (scorecard 1711), revue à chaque PR, recherche globale. Règle : la doc vit avec le code (même repo, même PR), jamais dans un wiki séparé qui pourrit. N'utilise pas pour la doc utilisateur externe (marketing)."

@@ -1,7 +1,7 @@
 ---
 num: 1792
 date_ajout: "2026-11"
-nom: "Signatures post-quantiques ML-DSA et certificats X.509 hybrides (2027)"
+nom: "Signatures post-quantiques ML-DSA et certificats X.509 hybrides"
 emoji: "✍️"
 domaine: "Sécurité"
 signal: "En 2027, signer avec des algorithmes post-quantiques : ML-DSA-65 (FIPS 204, ex-Dilithium) ou FN-DSA (FALCON, clés plus petites) pour les signatures, SLH-DSA (FIPS 205) comme secours base sur les fonctions de hachage. Mode hybride ANSSI : ECDSA + ML-DSA dans le meme certificat X.509 (double signature), supporté par OpenSSL 3.5 (openssl genpkey -algorithm ML-DSA-65). Utilise pour le code signé, les documents, les certificats internes. N'utilise pas le PQC seul en attendant la maturité des audits."

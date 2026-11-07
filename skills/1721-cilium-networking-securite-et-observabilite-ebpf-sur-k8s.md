@@ -1,7 +1,7 @@
 ---
 num: 1721
 date_ajout: "2026-11"
-nom: "Cilium : networking, sécurité et observabilité eBPF sur k8s (2027)"
+nom: "Cilium : networking, sécurité et observabilité eBPF sur k8s"
 emoji: "🌐"
 domaine: "Développement"
 signal: "Remplacer kube-proxy/iptables par Cilium en 2027 (CNI eBPF, 64 % des clusters k8s en 2026) : dataplane eBPF (+30-40 % de débit vs iptables), NetworkPolicy L3-L7 (HTTP method/path, Kafka topic, gRPC), mTLS automatique, Hubble (observabilité flux avec identités), Cilium Service Mesh sans sidecar (-50 % de ressources). Certification CCAE dispo. N'utilise pas si le kernel est trop vieux (1720)."

@@ -130,14 +130,14 @@
 - **Fichier** : `skills/918-semaine-de-4-jours-negocier-tester.md` · **Mot-clé** : « semaine 4 jours » · **Nom court** : Semaine 4j
 - **Signal** : Semaine de 4 jours, négocier la semaine à 4 jours en 2027, test pilote, productivité, droit du travail · **Synonymes** : « 4 jours par semaine » · **Cross-refs** : 884, 877, 906 · **Tags** : 2027
 
-## 919. 🔀 Reconversion & métiers porteurs 2027
+## 919. 🔀 Reconversion & métiers porteurs
 
-- **Fichier** : `skills/919-reconversion-metiers-porteurs-2027.md` · **Mot-clé** : « reconversion 2027 » · **Nom court** : Reconversion
+- **Fichier** : `skills/919-reconversion-metiers-porteurs.md` · **Mot-clé** : « reconversion 2027 » · **Nom court** : Reconversion
 - **Signal** : Reconversion professionnelle 2027, métiers qui recrutent 2027 (IA, cybersécurité, data, rénovation énergétique, soins), formation gratuite MOOC France Numérique · **Synonymes** : « changer de métier 2027 » · **Cross-refs** : 790, 867, 231 · **Tags** : 2027
 
-## 933. 🎓 Permis Graduate UK raccourci à 18 mois (2027)
+## 933. 🎓 Permis Graduate UK raccourci à 18 mois
 
-- **Fichier** : `skills/933-permis-graduate-uk-raccourci-a-18-mois-2027.md` · **Mot-clé** : « visa graduate uk 2027 » · **Nom court** : Graduate UK
+- **Fichier** : `skills/933-permis-graduate-uk-raccourci-a-18-mois.md` · **Mot-clé** : « visa graduate uk 2027 » · **Nom court** : Graduate UK
 - **Signal** : Visa Graduate Royaume-Uni 18 mois à partir du 1er janvier 2027, études UK, travail post-études 2027 · **Synonymes** : « étudier travailler royaume-uni 2027 » · **Cross-refs** : 656, 830, 684 · **Tags** : 2027
 
 ## 968. 🎯 Préparer un entretien d'embauche côté candidat (STAR + questions)
@@ -145,28 +145,28 @@
 - **Fichier** : `skills/968-preparer-un-entretien-d-embauche-cote-candidat-star-ques.md` · **Mot-clé** : « préparer entretien embauche 2027 » · **Nom court** : Entretien STAR
 - **Signal** : Préparer un entretien d'embauche en 2027 : méthode STAR, recherche entreprise, questions à poser, test technique, négociation offre · **Synonymes** : « méthode star entretien » · **Cross-refs** : 872, 875, 697 · **Tags** : 2027
 
-## 990. 🌍 Faire du volontariat international (VSI, PVT) 2027
+## 990. 🌍 Faire du volontariat international (VSI, PVT)
 
-- **Fichier** : `skills/990-faire-du-volontariat-international-vsi-pvt-2027.md` · **Mot-clé** : « volontariat international 2027 » · **Nom court** : VSI 2027
+- **Fichier** : `skills/990-faire-du-volontariat-international-vsi-pvt.md` · **Mot-clé** : « volontariat international 2027 » · **Nom court** : VSI
 - **Signal** : Volontariat international VSI 2027, PVT (programme vacances travail), visas, assurances, organismes (France Volontaires, Workaway), budget · **Synonymes** : « pvt 2027 » · **Cross-refs** : 958, 919, 699 · **Tags** : 2027
 
-## 997. 🔄 Préparer une mobilité interne (changement de poste) 2027
+## 997. 🔄 Préparer une mobilité interne (changement de poste)
 
-- **Fichier** : `skills/997-preparer-une-mobilite-interne-changement-de-poste-2027.md` · **Mot-clé** : « changer de poste interne 2027 » · **Nom court** : Mobilité interne
+- **Fichier** : `skills/997-preparer-une-mobilite-interne-changement-de-poste.md` · **Mot-clé** : « changer de poste interne 2027 » · **Nom court** : Mobilité interne
 - **Signal** : Changement de poste interne en 2027, mobilité interne, entretien avec le manager, fiche de poste, période d'essai interne, GPEC · **Synonymes** : « évolution interne 2027 » · **Cross-refs** : 919, 876, 635 · **Tags** : 2027
 
-## 998. 🌴 Faire une pause carrière (congé sabbatique) 2027
+## 998. 🌴 Faire une pause carrière (congé sabbatique)
 
-- **Fichier** : `skills/998-faire-une-pause-carriere-conge-sabbatique-2027.md` · **Mot-clé** : « congé sabbatique 2027 » · **Nom court** : Sabbatique
+- **Fichier** : `skills/998-faire-une-pause-carriere-conge-sabbatique.md` · **Mot-clé** : « congé sabbatique 2027 » · **Nom court** : Sabbatique
 - **Signal** : Congé sabbatique 2027, demander un congé sans solde ou sabbatique, économies nécessaires, projet personnel, retour garanti selon entreprise · **Synonymes** : « pause carrière 2027 » · **Cross-refs** : 918, 997, 600 · **Tags** : 2027
 
-## 1345. 💶 Négocier son salaire en 2027
+## 1345. 💶 Négocier son salaire en
 
-- **Fichier** : `skills/1345-negocier-son-salaire-en-2027.md` · **Mot-clé** : « négocier salaire 2027 » · **Nom court** : Négocier salaire
+- **Fichier** : `skills/1345-negocier-son-salaire-en.md` · **Mot-clé** : « négocier salaire 2027 » · **Nom court** : Négocier salaire
 - **Signal** : Négocier son salaire en 2027 : benchmark marché, arguments chiffrés, timing (entretien annuel, offre), contre-offre, package complet · **Synonymes** : « augmentation 2027 » · **Cross-refs** : 875, 912, 773 · **Tags** : 2027
 
-## 1348. 📊 Préparer un entretien annuel d'évaluation (2027)
+## 1348. 📊 Préparer un entretien annuel d'évaluation
 
-- **Fichier** : `skills/1348-preparer-un-entretien-annuel-d-evaluation-2027.md` · **Mot-clé** : « entretien annuel 2027 » · **Nom court** : Entretien annuel
+- **Fichier** : `skills/1348-preparer-un-entretien-annuel-d-evaluation.md` · **Mot-clé** : « entretien annuel 2027 » · **Nom court** : Entretien annuel
 - **Signal** : Préparer son entretien annuel 2027 : bilan chiffré de l'année, 3 réussites, axes de progrès, demande de formation, objectifs SMART année suivante · **Synonymes** : « revue annuelle évaluation » · **Cross-refs** : 876, 1345, 632 · **Tags** : 2027
 

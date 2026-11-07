@@ -1,7 +1,7 @@
 ---
 num: 1630
 date_ajout: "2026-11"
-nom: "Evaluer un agent en production : trajectoires, pas que le prompt (2027)"
+nom: "Evaluer un agent en production : trajectoires, pas que le prompt"
 emoji: "📏"
 domaine: "Data & IA"
 signal: "Évaluer un agent en production en 2027 au-delà du score de prompt : rejouer les trajectoires réelles (1476) sur un golden set (1395), mesurer taux de réussite de la tâche, nombre d'étapes, coût (1491), taux d'escalade HITL, hallucinations (1155). Utilise en continu, pas qu'avant le déploiement. N'utilise pas pour un chatbot simple (693)."

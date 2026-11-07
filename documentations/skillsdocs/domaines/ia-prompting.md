@@ -510,173 +510,173 @@
 - **Fichier** : `skills/1269-seo-audit-keyword-strategy.md` · **Mot-clé** : « seo-audit-keyword-strategy » · **Nom court** : SEO Audit & Keyword Strategy
 - **Signal** : Évaluer les fondations d'une présence organique dans les moteurs de recherche et structurer une stratégie de mots-clés et de pages à prioriser. Le skill produit des diagnostics et briefs à valider; il · **Synonymes** : « realiser », « audit », « editorial » · **Cross-refs** : 1008, 1217, 1024 · **Tags** : 2027
 
-## 1425. 🧩 Systeme de prompts modulaire (bibliotheque, 2027)
+## 1425. 🧩 Systeme de prompts modulaire (bibliotheque)
 
-- **Fichier** : `skills/1425-systeme-de-prompts-modulaire-bibliotheque-2027.md` · **Mot-clé** : « bibliothèque prompts modulaires composants réutilisables » · **Nom court** : Prompts modulaires
+- **Fichier** : `skills/1425-systeme-de-prompts-modulaire-bibliotheque.md` · **Mot-clé** : « bibliothèque prompts modulaires composants réutilisables » · **Nom court** : Prompts modulaires
 - **Signal** : Organiser ses prompts en bibliothèque modulaire en 2027 : composants réutilisables (rôle, format de sortie, exemples), assemblés par tâche, versionnés comme du code (Git, tags), testés. Utilise quand on maintient plusieurs prompts en prod. N'utilise pas pour un prompt one-shot. · **Synonymes** : « organiser ses prompts », « composants de prompt réutilisables », « prompts versionnés git » · **Cross-refs** : 1244, 737, 17 · **Tags** : 2027
 
-## 1426. 📝 Few-shot : exemples dans les prompts (2027)
+## 1426. 📝 Few-shot : exemples dans les prompts
 
-- **Fichier** : `skills/1426-few-shot-exemples-dans-les-prompts-2027.md` · **Mot-clé** : « few-shot exemples dans le prompt 3-5 exemples » · **Nom court** : Few-shot
+- **Fichier** : `skills/1426-few-shot-exemples-dans-les-prompts.md` · **Mot-clé** : « few-shot exemples dans le prompt 3-5 exemples » · **Nom court** : Few-shot
 - **Signal** : Utiliser le few-shot (3-5 exemples entrée/sortie dans le prompt) en 2027 pour guider le format et le style d'un LLM, avec des exemples représentatifs et des cas limites. Utilise quand le zero-shot ne suffit pas. N'utilise pas avec trop d'exemples (coût en tokens). · **Synonymes** : « exemples dans le prompt LLM », « few shot prompting », « guider le format avec des exemples » · **Cross-refs** : 737, 738, 1244 · **Tags** : 2027
 
-## 1427. 🧱 Sortie JSON fiable et validee (2027)
+## 1427. 🧱 Sortie JSON fiable et validee
 
-- **Fichier** : `skills/1427-sortie-json-fiable-et-validee-2027.md` · **Mot-clé** : « sortie JSON LLM fiable validation schema pydantic » · **Nom court** : JSON fiable
+- **Fichier** : `skills/1427-sortie-json-fiable-et-validee.md` · **Mot-clé** : « sortie JSON LLM fiable validation schema pydantic » · **Nom court** : JSON fiable
 - **Signal** : Forcer une sortie JSON fiable d'un LLM en 2027 : schéma JSON dans le prompt, exemples few-shot du JSON attendu, parsing défensif + validation (Pydantic/JSON Schema) côté code, retry si invalide. Utilise quand on parse la sortie d'un LLM. N'utilise pas pour du texte libre. · **Synonymes** : « forcer le JSON en sortie LLM », « valider la sortie JSON du modèle », « json schema prompt » · **Cross-refs** : 332, 1243, 326 · **Tags** : 2027
 
-## 1428. 🔁 Agents en boucle ReAct et planification (2027)
+## 1428. 🔁 Agents en boucle ReAct et planification
 
-- **Fichier** : `skills/1428-agents-en-boucle-react-et-planification-2027.md` · **Mot-clé** : « agent react boucle thought action observation planification » · **Nom court** : Agent ReAct
+- **Fichier** : `skills/1428-agents-en-boucle-react-et-planification.md` · **Mot-clé** : « agent react boucle thought action observation planification » · **Nom court** : Agent ReAct
 - **Signal** : Construire un agent en boucle ReAct en 2027 : le modèle raisonne (Thought), agit (Action avec un outil), observe (Observation), jusqu'à la réponse finale — avec une limite d'itérations. Utilise pour les tâches multi-étapes nécessitant des outils. N'utilise pas pour une réponse directe. · **Synonymes** : « boucle react agent », « thought action observation », « agent qui planifie ses étapes » · **Cross-refs** : 259, 99, 712 · **Tags** : 2027
 
-## 1429. 🛠️ Concevoir les outils (tools) d'un agent (2027)
+## 1429. 🛠️ Concevoir les outils (tools) d'un agent
 
-- **Fichier** : `skills/1429-concevoir-les-outils-tools-d-un-agent-2027.md` · **Mot-clé** : « concevoir outils agent function calling noms descriptions » · **Nom court** : Outils d'agent
+- **Fichier** : `skills/1429-concevoir-les-outils-tools-d-un-agent.md` · **Mot-clé** : « concevoir outils agent function calling noms descriptions » · **Nom court** : Outils d'agent
 - **Signal** : Concevoir des outils (function calling) efficaces pour un agent en 2027 : noms explicites, description qui dit quand NE PAS utiliser, paramètres typés avec contraintes, sorties JSON petites, idempotence. Utilise quand on équipe un agent d'outils. N'utilise pas pour l'agent lui-même (voir ReAct). · **Synonymes** : « function calling bien nommé », « décrire un outil pour LLM », « outils idempotents agent » · **Cross-refs** : 99, 1428, 332 · **Tags** : 2027
 
-## 1430. 🧠 Gerer le contexte long (200k tokens, 2027)
+## 1430. 🧠 Gerer le contexte long (200k tokens)
 
-- **Fichier** : `skills/1430-gerer-le-contexte-long-200k-tokens-2027.md` · **Mot-clé** : « contexte long LLM 200k tokens quoi garder perdre milieu » · **Nom court** : Contexte long
+- **Fichier** : `skills/1430-gerer-le-contexte-long-200k-tokens.md` · **Mot-clé** : « contexte long LLM 200k tokens quoi garder perdre milieu » · **Nom court** : Contexte long
 - **Signal** : Exploiter les contextes longs (100k-1M tokens) des LLM en 2027 : quoi y mettre (docs entiers, codebase), quoi en retirer, position perdue au milieu (lost in the middle), résumé des parties anciennes. Utilise quand on travaille sur un gros corpus. N'utilise pas pour une conversation courte. · **Synonymes** : « gros contexte LLM 1M tokens », « lost in the middle », « résumer les vieilles parties » · **Cross-refs** : 236, 326, 260 · **Tags** : 2027
 
-## 1431. 🗜️ Compaction et resume de conversation (2027)
+## 1431. 🗜️ Compaction et resume de conversation
 
-- **Fichier** : `skills/1431-compaction-et-resume-de-conversation-2027.md` · **Mot-clé** : « compaction conversation résumé seuil tokens » · **Nom court** : Compaction
+- **Fichier** : `skills/1431-compaction-et-resume-de-conversation.md` · **Mot-clé** : « compaction conversation résumé seuil tokens » · **Nom court** : Compaction
 - **Signal** : Compacter une longue conversation en 2027 : quand déclencher le résumé (seuil de tokens), quoi garder (décisions, code, préférences, tâches en cours), format du résumé, réinjection dans le contexte. Utilise quand une session dépasse la fenêtre. N'utilise pas pour archiver (voir mémoire persistante). · **Synonymes** : « résumer une longue conversation LLM », « quand compacter le contexte », « garder décisions et code en cours » · **Cross-refs** : 236, 326, 714 · **Tags** : 2027
 
-## 1432. 👥 Equipe d'agents specialises par domaine (2027)
+## 1432. 👥 Equipe d'agents specialises par domaine
 
-- **Fichier** : `skills/1432-equipe-d-agents-specialises-par-domaine-2027.md` · **Mot-clé** : « équipe agents spécialisés orchestrateur délégation » · **Nom court** : Équipe d'agents
+- **Fichier** : `skills/1432-equipe-d-agents-specialises-par-domaine.md` · **Mot-clé** : « équipe agents spécialisés orchestrateur délégation » · **Nom court** : Équipe d'agents
 - **Signal** : Organiser une équipe d'agents spécialisés en 2027 (agent-as-organization) : un orchestrateur délègue à des experts (recherche, code, rédaction, review), chacun avec son prompt système et ses outils. Utilise pour les tâches complexes multi-domaines. N'utilise pas pour une tâche simple. · **Synonymes** : « multi-agents par domaine », « orchestrateur délègue experts », « agent-as-organization 2027 » · **Cross-refs** : 259, 820, 1196 · **Tags** : 2027
 
-## 1433. 🧑‍💻 Human-in-the-loop multi-niveaux (2027)
+## 1433. 🧑‍💻 Human-in-the-loop multi-niveaux
 
-- **Fichier** : `skills/1433-human-in-the-loop-multi-niveaux-2027.md` · **Mot-clé** : « human in the loop approbation humaine multi-niveaux HITL » · **Nom court** : HITL
+- **Fichier** : `skills/1433-human-in-the-loop-multi-niveaux.md` · **Mot-clé** : « human in the loop approbation humaine multi-niveaux HITL » · **Nom court** : HITL
 - **Signal** : Mettre en place des points d'approbation humains multi-niveaux en 2027 : l'agent s'arrête avant les actions à risque (paiement, suppression, envoi externe), demande validation avec contexte, reprend après accord. Utilise quand un agent agit sur le monde réel. N'utilise pas pour du 100 % autonome approuvé. · **Synonymes** : « validation humaine agent avant action », « points d'approbation agent », « agent qui demande avant d'agir » · **Cross-refs** : 329, 194, 340 · **Tags** : 2027
 
-## 1434. 🧠 Memoire d'agent : episodique vs semantique (2027)
+## 1434. 🧠 Memoire d'agent : episodique vs semantique
 
-- **Fichier** : `skills/1434-memoire-d-agent-episodique-vs-semantique-2027.md` · **Mot-clé** : « mémoire agent sémantique épisodique procédurale vector store » · **Nom court** : Mémoire agent
+- **Fichier** : `skills/1434-memoire-d-agent-episodique-vs-semantique.md` · **Mot-clé** : « mémoire agent sémantique épisodique procédurale vector store » · **Nom court** : Mémoire agent
 - **Signal** : Concevoir la mémoire d'un agent en 2027 : mémoire sémantique (faits, préférences : vector store) vs épisodique (sessions passées : logs résumés) vs procédurale (outils et routines). Utilise quand un agent doit se souvenir sur le long terme. N'utilise pas pour le contexte immédiat (voir compaction). · **Synonymes** : « mémoire long terme agent », « vector store préférences utilisateur », « mémoire épisodique sessions » · **Cross-refs** : 260, 714, 802 · **Tags** : 2027
 
-## 1435. ⚖️ A/B testing de prompts en production (2027)
+## 1435. ⚖️ A/B testing de prompts en production
 
-- **Fichier** : `skills/1435-a-b-testing-de-prompts-en-production-2027.md` · **Mot-clé** : « A/B testing prompts production 50/50 métrique gagnant » · **Nom court** : A/B prompts
+- **Fichier** : `skills/1435-a-b-testing-de-prompts-en-production.md` · **Mot-clé** : « A/B testing prompts production 50/50 métrique gagnant » · **Nom court** : A/B prompts
 - **Signal** : Tester deux versions de prompt en production en 2027 (A/B) : répartir le trafic (50/50), mesurer un indicateur métier (taux de réussite, satisfaction, coût), durée statistique suffisante, choisir le gagnant. Utilise quand on hésite entre 2 formulations de prompt. N'utilise pas pour un changement trivial. · **Synonymes** : « tester 2 prompts en prod », « A/B test prompt LLM », « quelle version du prompt garder » · **Cross-refs** : 1244, 338, 110 · **Tags** : 2027
 
-## 1436. 📎 Grounding : ancrer les reponses sur des sources (2027)
+## 1436. 📎 Grounding : ancrer les reponses sur des sources
 
-- **Fichier** : `skills/1436-grounding-ancrer-les-reponses-sur-des-sources-2027.md` · **Mot-clé** : « grounding réponses LLM citer sources je ne sais pas » · **Nom court** : Grounding
+- **Fichier** : `skills/1436-grounding-ancrer-les-reponses-sur-des-sources.md` · **Mot-clé** : « grounding réponses LLM citer sources je ne sais pas » · **Nom court** : Grounding
 - **Signal** : Ancrer (grounding) les réponses d'un LLM sur des sources fournies en 2027 : le prompt exige de citer ses sources (document + ligne), de dire 'je ne sais pas' si absent, et de ne pas inventer. Utilise quand l'exactitude est critique. N'utilise pas pour de la création libre. · **Synonymes** : « citer les sources du LLM », « réduire hallucinations citations », « dire je ne sais pas si pas dans les docs » · **Cross-refs** : 690, 700, 1155 · **Tags** : 2027
 
-## 1437. ✅ Auto-verification multi-passes (self-check, 2027)
+## 1437. ✅ Auto-verification multi-passes (self-check)
 
-- **Fichier** : `skills/1437-auto-verification-multi-passes-self-check-2027.md` · **Mot-clé** : « self-check vérification multi-passes grille relecture LLM » · **Nom court** : Self-check
+- **Fichier** : `skills/1437-auto-verification-multi-passes-self-check.md` · **Mot-clé** : « self-check vérification multi-passes grille relecture LLM » · **Nom court** : Self-check
 - **Signal** : Faire vérifier sa réponse par le LLM lui-même en 2 passes en 2027 : passe 1 répond, passe 2 relit la réponse avec une grille de vérification (complétude, exactitude, format) et corrige. Utilise quand la qualité est critique. N'utilise pas si le coût/latence est prohibitif. · **Synonymes** : « le LLM se relit et corrige », « vérification en 2 passes », « grille de relecture réponse » · **Cross-refs** : 738, 1243, 337 · **Tags** : 2027
 
-## 1438. 📱 Deployer un SLM on-device (mobile/edge, 2027)
+## 1438. 📱 Deployer un SLM on-device (mobile/edge)
 
-- **Fichier** : `skills/1438-deployer-un-slm-on-device-mobile-edge-2027.md` · **Mot-clé** : « SLM on-device mobile edge quantizé GGUF llama.cpp offline » · **Nom court** : SLM on-device
+- **Fichier** : `skills/1438-deployer-un-slm-on-device-mobile-edge.md` · **Mot-clé** : « SLM on-device mobile edge quantizé GGUF llama.cpp offline » · **Nom court** : SLM on-device
 - **Signal** : Déployer un petit modèle (SLM) directement sur mobile/edge en 2027 : modèle quantizé (GGUF/Q4), runtime local (llama.cpp, MediaPipe, MLX sur Mac), offline total, latence mesurée, batterie. Utilise quand la privacy ou l'offline est critique. N'utilise pas pour les grosses tâches cloud. · **Synonymes** : « modèle local téléphone 2027 », « llama.cpp mobile offline », « quantization GGUF Q4 batterie » · **Cross-refs** : 903, 943, 331 · **Tags** : 2027
 
-## 1439. ⏩️ UX du streaming des reponses LLM (2027)
+## 1439. ⏩️ UX du streaming des reponses LLM
 
-- **Fichier** : `skills/1439-ux-du-streaming-des-reponses-llm-2027.md` · **Mot-clé** : « streaming réponses LLM UX tokens fur et à mesure thinking » · **Nom court** : UX streaming
+- **Fichier** : `skills/1439-ux-du-streaming-des-reponses-llm.md` · **Mot-clé** : « streaming réponses LLM UX tokens fur et à mesure thinking » · **Nom court** : UX streaming
 - **Signal** : Concevoir l'UX du streaming des réponses LLM en 2027 : afficher les tokens au fur et à mesure, état 'réflexion' (thinking) séparé, gestion des erreurs en cours de stream, annulation, squelette de chargement. Utilise quand on intègre un LLM dans une UI. N'utilise pas pour l'API seule. · **Synonymes** : « afficher la réponse LLM en streaming », « état thinking du modèle », « annuler une génération en cours » · **Cross-refs** : 719, 945, 327 · **Tags** : 2027
 
-## 1440. 🙈 Detecter PII et donnees sensibles dans les prompts (2027)
+## 1440. 🙈 Detecter PII et donnees sensibles dans les prompts
 
-- **Fichier** : `skills/1440-detecter-pii-et-donnees-sensibles-dans-les-prompts-2027.md` · **Mot-clé** : « détecter PII données personnelles prompt LLM masquage » · **Nom court** : PII guardrail
+- **Fichier** : `skills/1440-detecter-pii-et-donnees-sensibles-dans-les-prompts.md` · **Mot-clé** : « détecter PII données personnelles prompt LLM masquage » · **Nom court** : PII guardrail
 - **Signal** : Détecter et bloquer les données personnelles (PII) avant envoi à un LLM externe en 2027 : NER/regex (email, téléphone, IBAN, CNI), masquage automatique, avertissement, journal, politique d'entreprise. Utilise quand des utilisateurs collent des données sensibles dans un chatbot. N'utilise pas pour l'anonymisation de datasets (voir Data). · **Synonymes** : « bloquer données perso avant LLM », « masquer email IBAN CNI automatiquement », « guardrail PII entreprise 2027 » · **Cross-refs** : 195, 1226, 189 · **Tags** : 2027
 
-## 1441. 🔀 Cascade de modeles : router chaque tache au bon LLM (2027)
+## 1441. 🔀 Cascade de modeles : router chaque tache au bon LLM
 
-- **Fichier** : `skills/1441-cascade-de-modeles-router-chaque-tache-au-bon-llm-2027.md` · **Mot-clé** : « cascade modèles router requête petit grand LLM coût » · **Nom court** : Cascade LLM
+- **Fichier** : `skills/1441-cascade-de-modeles-router-chaque-tache-au-bon-llm.md` · **Mot-clé** : « cascade modèles router requête petit grand LLM coût » · **Nom court** : Cascade LLM
 - **Signal** : Router chaque requête vers le bon modèle en 2027 (cascade) : tâche simple → petit modèle rapide/peu cher (SLM), tâche complexe → grand modèle, classification en amont (règles ou petit LLM), mesure du taux de routage. Utilise quand le coût/latence compte. N'utilise pas si un seul modèle suffit. · **Synonymes** : « petit modèle puis grand modèle », « router tâche au bon LLM », « réduire coût inférence cascade » · **Cross-refs** : 265, 694, 689 · **Tags** : 2027
 
-## 1442. 💾 Cache semantique des reponses LLM (2027)
+## 1442. 💾 Cache semantique des reponses LLM
 
-- **Fichier** : `skills/1442-cache-semantique-des-reponses-llm-2027.md` · **Mot-clé** : « cache sémantique réponses LLM similarité embeddings seuil » · **Nom court** : Cache sémantique
+- **Fichier** : `skills/1442-cache-semantique-des-reponses-llm.md` · **Mot-clé** : « cache sémantique réponses LLM similarité embeddings seuil » · **Nom court** : Cache sémantique
 - **Signal** : Mettre en cache sémantique les réponses LLM en 2027 : si une requête est sémantiquement proche d'une précédente (similarité embeddings au-dessus du seuil, ex. 0,95), renvoyer la réponse cachée au lieu de réinférer. Utilise quand beaucoup de requêtes similaires. N'utilise pas si la fraîcheur est critique. · **Synonymes** : « réponses LLM en cache sémantique », « requêtes similaires même réponse », « éviter réinférer questions proches » · **Cross-refs** : 1164, 1443, 694 · **Tags** : 2027
 
-## 1443. 🔢 Choisir son modele d'embeddings (2027)
+## 1443. 🔢 Choisir son modele d'embeddings
 
-- **Fichier** : `skills/1443-choisir-son-modele-d-embeddings-2027.md` · **Mot-clé** : « choisir modèle embeddings MTEB dimension multilingue » · **Nom court** : Embeddings
+- **Fichier** : `skills/1443-choisir-son-modele-d-embeddings.md` · **Mot-clé** : « choisir modèle embeddings MTEB dimension multilingue » · **Nom court** : Embeddings
 - **Signal** : Choisir un modèle d'embeddings en 2027 selon le cas d'usage : multilingue (E5, multilingual-e5), code (codebert,voyage-code), juridique/médical spécialisé, dimension (384 vs 1024 vs 3072), coût, MTEB benchmark. Utilise quand on construit un RAG ou une recherche sémantique. N'utilise pas pour la génération. · **Synonymes** : « quel modèle embedding 2027 », « MTEB benchmark embeddings », « dimension 384 ou 3072 » · **Cross-refs** : 690, 1477, 1442 · **Tags** : 2027
 
-## 1444. ✂️ Chunking avance pour le RAG (2027)
+## 1444. ✂️ Chunking avance pour le RAG
 
-- **Fichier** : `skills/1444-chunking-avance-pour-le-rag-2027.md` · **Mot-clé** : « chunking RAG overlap sémantique hiérarchique 200-500 tokens » · **Nom court** : Chunking avancé
+- **Fichier** : `skills/1444-chunking-avance-pour-le-rag.md` · **Mot-clé** : « chunking RAG overlap sémantique hiérarchique 200-500 tokens » · **Nom court** : Chunking avancé
 - **Signal** : Choisir la stratégie de chunking d'un corpus pour un RAG en 2027 : taille (200-500 tokens), recouvrement (overlap 10-20 %), découpage sémantique (titres, paragraphes), chunking hiérarchique (résumé parent), métadonnées par chunk. Utilise quand la qualité du retrieval est insuffisante. N'utilise pas sans mesurer (eval retrieval). · **Synonymes** : « découper documents pour RAG », « overlap 20% chunking », « chunking hiérarchique résumé parent » · **Cross-refs** : 690, 1477, 1443 · **Tags** : 2027
 
-## 1621. 🔌 MCP en production 2027 : registry officiel et gouvernance (2027)
+## 1621. 🔌 MCP en production : registry officiel et gouvernance
 
-- **Fichier** : `skills/1621-mcp-en-production-2027-registry-officiel-et-gouvernance-.md` · **Mot-clé** : « MCP production 2027 registry officiel 40k serveurs gateway gouvernance audit » · **Nom court** : MCP prod
+- **Fichier** : `skills/1621-mcp-en-production-registry-officiel-et-gouvernance.md` · **Mot-clé** : « MCP production 2027 registry officiel 40k serveurs gateway gouvernance audit » · **Nom court** : MCP prod
 - **Signal** : Déployer MCP (Model Context Protocol, 97 M de téléchargements mensuels SDK, 40 965 serveurs dans le registry officiel 2026) en production en 2027 : choisir des serveurs du registry officiel (vérifiés), gateway MCP entreprise (audit, scopes, rate limit), ne pas exposer de secrets dans les tools. Utilise pour connecter des agents à des outils. N'utilise pas sans gouvernance (905/723). · **Synonymes** : « registry officiel MCP 40 965 serveurs vérifiés », « gateway MCP entreprise audit scopes rate limit », « MCP 97M téléchargements SDK 2026 » · **Cross-refs** : 77, 905, 723 · **Tags** : 2027
 
-## 1622. 🤝 A2A (Agent2Agent) : agents cross-organisation en 2027
+## 1622. 🤝 A2A (Agent2Agent) : agents cross-organisation en
 
-- **Fichier** : `skills/1622-a2a-agent2agent-agents-cross-organisation-en-2027.md` · **Mot-clé** : « A2A agent2agent protocole google linux foundation agent card .well-known/agent.json 2027 » · **Nom court** : A2A
+- **Fichier** : `skills/1622-a2a-agent2agent-agents-cross-organisation-en.md` · **Mot-clé** : « A2A agent2agent protocole google linux foundation agent card .well-known/agent.json 2027 » · **Nom court** : A2A
 - **Signal** : Utiliser le protocole A2A (Agent2Agent, Google avril 2025, 50+ partenaires, Linux Foundation/AAIF depuis 2026) en 2027 : des agents de vendeurs différents se découvrent (Agent Card .well-known/agent.json), délèguent des tâches, suivent leur statut. Complément de MCP (agent→outil, 1621) pour l'agent→agent. Utilise pour la coordination inter-entreprises. N'utilise pas en interne (MCP suffit). · **Synonymes** : « protocole A2A agents de fournisseurs différents », « agent card .well-known/agent.json découverte », « A2A vs MCP : agent-agent vs agent-outil » · **Cross-refs** : 711, 1621, 259 · **Tags** : 2027
 
-## 1623. ⚖️ Choisir son protocole agent : MCP vs A2A vs ACP (fusionné) (2027)
+## 1623. ⚖️ Choisir son protocole agent : MCP vs A2A vs ACP (fusionné)
 
-- **Fichier** : `skills/1623-choisir-son-protocole-agent-mcp-vs-a2a-vs-acp-fusionne-2.md` · **Mot-clé** : « choisir protocole agent 2027 MCP vs A2A vs ACP fusionné UCP paiement » · **Nom court** : Choisir protocole
+- **Fichier** : `skills/1623-choisir-son-protocole-agent-mcp-vs-a2a-vs-acp-fusionne.md` · **Mot-clé** : « choisir protocole agent 2027 MCP vs A2A vs ACP fusionné UCP paiement » · **Nom court** : Choisir protocole
 - **Signal** : Choisir le bon protocole d'agents en 2027 : MCP (agent→outil, 97 M téléchargements, standard de fait, 90 % des orgs d'ici 2027), A2A (agent→agent cross-org, 1622), ACP (IBM, fusionné dans A2A août 2025), UCP (paiement/commerce). Règle : MCP pour les outils internes, A2A pour les pairs externes, UCP pour le commerce agentique. N'utilise pas un protocole perso. · **Synonymes** : « MCP ou A2A pour mon agent ? », « ACP fusionné dans A2A août 2025 », « UCP protocole paiement agent 2027 » · **Cross-refs** : 1621, 1622, 711 · **Tags** : 2027
 
-## 1624. 🌐 WebMCP : navigateur agentique (Chrome origin trial, 2027)
+## 1624. 🌐 WebMCP : navigateur agentique (Chrome origin trial)
 
-- **Fichier** : `skills/1624-webmcp-navigateur-agentique-chrome-origin-trial-2027.md` · **Mot-clé** : « webmcp navigateur agentique origin trial chrome 2026 navigator.modelContext outils page » · **Nom court** : WebMCP
+- **Fichier** : `skills/1624-webmcp-navigateur-agentique-chrome-origin-trial.md` · **Mot-clé** : « webmcp navigateur agentique origin trial chrome 2026 navigator.modelContext outils page » · **Nom court** : WebMCP
 - **Signal** : Exposer sa page web aux agents en 2027 avec WebMCP (draft W3C, origin trial Chrome 2026) : déclarer des outils JS exécutables par un agent navigateur (navigator.modelContext), au lieu du scraping. Utilise pour rendre son site agent-friendly (réservation, achat). N'utilise pas comme seule interface (garder le HTML accessible 1619). · **Synonymes** : « exposer ma page aux agents IA (WebMCP) », « navigator.modelContext déclarer des outils JS », « site agent-friendly sans scraping » · **Cross-refs** : 803, 1621, 1619 · **Tags** : 2027
 
-## 1626. 🏛 AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A (2027)
+## 1626. 🏛 AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A
 
-- **Fichier** : `skills/1626-aaif-agentic-ai-foundation-gouvernance-ouverte-mcp-a2a-2.md` · **Mot-clé** : « AAIF agentic AI foundation linux foundation gouvernance MCP A2A 2026 2027 lock-in » · **Nom court** : AAIF
+- **Fichier** : `skills/1626-aaif-agentic-ai-foundation-gouvernance-ouverte-mcp-a2a.md` · **Mot-clé** : « AAIF agentic AI foundation linux foundation gouvernance MCP A2A 2026 2027 lock-in » · **Nom court** : AAIF
 - **Signal** : S'appuyer sur l'AAIF (Agentic AI Foundation, Linux Foundation, co-fondée déc. 2025 par Anthropic/Block/OpenAI, héberge MCP et A2A depuis 2026) en 2027 pour réduire le risque de lock-in : choisir des implémentations sous gouvernance ouverte, contribuer, suivre les specs. Utilise quand on standardise son stack agentique. N'utilise pas pour choisir un framework propriétaire. · **Synonymes** : « AAIF fondation linux héberge MCP et A2A depuis 2026 », « réduire le lock-in : standards ouverts gouvernance AAIF », « anthropic block openai co-fondateurs déc 2025 » · **Cross-refs** : 1621, 1622, 1623 · **Tags** : 2027
 
-## 1628. 💳 Paiement agentique : UCP et mandates signes (2027)
+## 1628. 💳 Paiement agentique : UCP et mandates signes
 
-- **Fichier** : `skills/1628-paiement-agentique-ucp-et-mandates-signes-2027.md` · **Mot-clé** : « UCP universal commerce protocol mandat signé paiement agent plafond audit 2027 » · **Nom court** : Paiement agent
+- **Fichier** : `skills/1628-paiement-agentique-ucp-et-mandates-signes.md` · **Mot-clé** : « UCP universal commerce protocol mandat signé paiement agent plafond audit 2027 » · **Nom court** : Paiement agent
 - **Signal** : Laisser un agent acheter pour vous en 2027 avec UCP (Universal Commerce Protocol) : l'agent reçoit un « mandat » signé cryptographiquement (montant max, marchand, durée), présente la preuve au marchand, le paiement est vérifié. Utilise pour le commerce agentique sécurisé. N'utilise pas sans plafond ni audit (1543). · **Synonymes** : « mon agent achète pour moi (UCP mandat signé) », « plafond de dépense par mandat agent », « vérification cryptographique du mandat marchand » · **Cross-refs** : 1622, 1625, 1543 · **Tags** : 2027
 
-## 1629. 🏗️ Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework, 2027)
+## 1629. 🏗️ Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework)
 
 - **Fichier** : `skills/1629-orchestration-multi-agents-en-production-langgraph-crewa.md` · **Mot-clé** : « orchestration multi-agents production 2027 langgraph crewai microsoft agent framework » · **Nom court** : Orchestration
 - **Signal** : Orchestrer plusieurs agents en production en 2027 avec un framework (LangGraph, CrewAI, Microsoft Agent Framework, OpenAI Agents SDK, Claude Agent SDK) : graphe de tâches, rôles, mémoire partagée, reprise sur erreur, monitoring (1476). Utilise quand une tâche dépasse un agent seul. N'utilise pas si un agent suffit (1627). · **Synonymes** : « plusieurs agents qui collaborent (langgraph crewai) », « graphe de tâches agents avec reprise sur erreur », « mémoire partagée entre agents (1434) » · **Cross-refs** : 259, 820, 1196 · **Tags** : 2027
 
-## 1632. 🧠 Contexte 1M tokens : retrieval cible dans la masse (2027)
+## 1632. 🧠 Contexte 1M tokens : retrieval cible dans la masse
 
-- **Fichier** : `skills/1632-contexte-1m-tokens-retrieval-cible-dans-la-masse-2027.md` · **Mot-clé** : « contexte 1M tokens retrieval ciblé k passages embeddings injecter 2027 » · **Nom court** : 1M retrieval
+- **Fichier** : `skills/1632-contexte-1m-tokens-retrieval-cible-dans-la-masse.md` · **Mot-clé** : « contexte 1M tokens retrieval ciblé k passages embeddings injecter 2027 » · **Nom court** : 1M retrieval
 - **Signal** : Exploiter les contextes 1M tokens des modèles 2027 sans les noyer : ne PAS tout mettre (lost in the middle 1430), mais indexer le corpus (embeddings 1443) et injecter seulement les k passages pertinents (retrieval) + la question en début/fin. Utilise pour codebases/contrats entiers. N'utilise pas pour une conversation courte. · **Synonymes** : « j'ai 1M de tokens de contexte », « quoi y mettre », « lost in the middle : ne pas tout charger », « retrieval : injecter seulement les k passages pertinents » · **Cross-refs** : 1430, 1443, 1444 · **Tags** : 2027
 
-## 1633. 𝼞a🇺 Modeles souverains europeens : Mistral et alternatives UE (2027)
+## 1633. 𝼞a🇺 Modeles souverains europeens : Mistral et alternatives UE
 
-- **Fichier** : `skills/1633-modeles-souverains-europeens-mistral-et-alternatives-ue-.md` · **Mot-clé** : « modèles souverains européens Mistral OVH Scaleway hébergement UE conformité 2027 » · **Nom court** : Modèles UE
+- **Fichier** : `skills/1633-modeles-souverains-europeens-mistral-et-alternatives-ue.md` · **Mot-clé** : « modèles souverains européens Mistral OVH Scaleway hébergement UE conformité 2027 » · **Nom court** : Modèles UE
 - **Signal** : Choisir un modèle souverain européen en 2027 (Mistral et autres acteurs UE) pour la conformité (données qui restent en UE, AI Act, Cloud Act évité) : comparer qualité/coût vs modèles US, hébergement UE (OVH, Scaleway), API ou self-host (1471). Utilise quand la souveraineté des données IA est requise. N'utilise pas si les données sont publiques. · **Synonymes** : « héberger mon LLM en Europe (Mistral », « OVH) », « données IA qui restent en UE (Cloud Act évité) », « Mistral vs GPT qualité coût 2027 » · **Cross-refs** : 722, 924, 1471 · **Tags** : 2027
 
-## 1636. 🧑‍💻 HITL a l'echelle : files d'approbation et routage (2027)
+## 1636. 🧑‍💻 HITL a l'echelle : files d'approbation et routage
 
-- **Fichier** : `skills/1636-hitl-a-l-echelle-files-d-approbation-et-routage-2027.md` · **Mot-clé** : « HITL échelle file approbation routage criticité SLA 1 clic audit 2027 » · **Nom court** : HITL échelle
+- **Fichier** : `skills/1636-hitl-a-l-echelle-files-d-approbation-et-routage.md` · **Mot-clé** : « HITL échelle file approbation routage criticité SLA 1 clic audit 2027 » · **Nom court** : HITL échelle
 - **Signal** : Mettre le human-in-the-loop à l'échelle en 2027 : file d'attente d'approbations (UI ou Slack), routage par criticité (montant, risque), SLA de réponse (ex. 15 min), approbation en 1 clic avec contexte, audit des décisions (1433), métriques (taux d'approbation, délai moyen). Utilise quand plusieurs agents agissent sur le monde réel. N'utilise pas pour du 100 % autonome approuvé. · **Synonymes** : « file d'attente des approbations agents (UI/Slack) », « routage par criticité : montant risque SLA 15 min », « approbation en 1 clic avec contexte audit » · **Cross-refs** : 1433, 329, 340 · **Tags** : 2027
 
-## 1637. 🕸️ Memoire graphe d'agent : Zep, Graphiti (2027)
+## 1637. 🕸️ Memoire graphe d'agent : Zep, Graphiti
 
-- **Fichier** : `skills/1637-memoire-graphe-d-agent-zep-graphiti-2027.md` · **Mot-clé** : « mémoire graphe agent Zep Graphiti entités relations épisodes temporels neo4j 2027 » · **Nom court** : Mémoire graphe
+- **Fichier** : `skills/1637-memoire-graphe-d-agent-zep-graphiti.md` · **Mot-clé** : « mémoire graphe agent Zep Graphiti entités relations épisodes temporels neo4j 2027 » · **Nom court** : Mémoire graphe
 - **Signal** : Donner une mémoire graphe à un agent en 2027 (au-delà du vector store 1434) : Zep ou Graphiti stockent entités + relations + épisodes dans un graphe temporel (Neo4j/Kuzu 1478), l'agent raisonne sur les liens ('qui a signé ce contrat lié à X'). Utilise pour des agents personnels/entreprise avec historique riche. N'utilise pas si le vector store suffit. · **Synonymes** : « mémoire graphe agent (Zep », « Graphiti) vs vector store », « entités + relations + épisodes dans un graphe temporel », « l'agent se souvient des liens entre faits (1478) » · **Cross-refs** : 1434, 1478, 1477 · **Tags** : 2027
 
-## 1735. ⚖️ Choisir son assistant de codage IA en 2027 (Cursor, Claude Code, Copilot, Devin...) (2027)
+## 1735. ⚖️ Choisir son assistant de codage IA en (Cursor, Claude Code, Copilot, Devin...)
 
-- **Fichier** : `skills/1735-choisir-son-assistant-de-codage-ia-en-2027-cursor-claude.md` · **Mot-clé** : « choisir assistant codage IA 2027 Cursor Claude Code Copilot Devin Desktop Codex OpenCode Jules comparatif SWE-bench » · **Nom court** : Choisir outil IA
+- **Fichier** : `skills/1735-choisir-son-assistant-de-codage-ia-en-cursor-claude-code.md` · **Mot-clé** : « choisir assistant codage IA 2027 Cursor Claude Code Copilot Devin Desktop Codex OpenCode Jules comparatif SWE-bench » · **Nom court** : Choisir outil IA
 - **Signal** : Choisir son outil de codage IA en 2027 selon le profil : Cursor (IDE agentique, Composer 2.5, multi-fichiers, 20-60 $/mois) ; Claude Code (CLI terminal, SWE-bench 88,6 %, Opus 4.7 = 64,3 % SWE-bench Pro avril 2026, inclus Pro 20 $) pour les grosses missions/refacto ; GitHub Copilot (le plus déployé en entreprise, crédits d'usage depuis juin 2026, Business 19 $/siège) pour la complétion quotidienne ; Devin Desktop (ex-Windsurf, Cognition, juin 2026, SWE-1.6, agent autonome cloud+local) ; Codex (OpenAI, cloud parallèle) ; gratuits : OpenCode (open source), Jules (Google, 15 tâches/j), Copilot free. Règle : Copilot/Cursor au quotidien + Claude Code pour les missions lourdes. N'utilise pas un outil sans politique de sécurité du code (1736). · **Synonymes** : « quel outil IA pour coder en 2027 (Cursor vs Claude Code vs Copilot vs Devin) », « Copilot Business 19 $/siège + crédits depuis juin 2026 », « Claude Code CLI : SWE-bench 88 », « 6 % », « Opus 4.7 64 », « 3 % SWE-bench Pro (avril 2026) » · **Cross-refs** : 540, 76, 9 · **Tags** : 2027
 
-## 1738. 🤖 Agents de codage autonomes cloud : Devin, Codex (2027)
+## 1738. 🤖 Agents de codage autonomes cloud : Devin, Codex
 
-- **Fichier** : `skills/1738-agents-de-codage-autonomes-cloud-devin-codex-2027.md` · **Mot-clé** : « agents codage autonomes cloud 2027 Devin Cognition Codex assigner issue PR sandbox revue 1401 SWE-1.6 » · **Nom court** : Agents auto
+- **Fichier** : `skills/1738-agents-de-codage-autonomes-cloud-devin-codex.md` · **Mot-clé** : « agents codage autonomes cloud 2027 Devin Cognition Codex assigner issue PR sandbox revue 1401 SWE-1.6 » · **Nom court** : Agents auto
 - **Signal** : Déléguer une tâche complète à un agent autonome cloud en 2027 : Devin (Cognition, ex-Windsurf renommé Devin Desktop juin 2026, SWE-1.6, agent cloud+local, fait une PR) ou OpenAI Codex (cloud, parallèle, écosystème ChatGPT Pro 200 $) : assigner une issue GitHub, l'agent planifie, code, teste en sandbox, ouvre une PR — le dev ne fait que la revue (1401). Utilise pour les tâches bien cadrées (bug fix, feature isolée). N'utilise pas pour l'architecture critique sans revue approfondie. · **Synonymes** : « assigner une issue GitHub à Devin : il ouvre une PR (agent autonome 2027) », « Codex cloud (OpenAI) en parallèle sur plusieurs tâches », « l'agent code en sandbox », « je ne fais que la revue de PR (1401) » · **Cross-refs** : 1735, 1627, 1401 · **Tags** : 2027
 
-## 1742. 🆓 OpenCode et Jules : agents de codage gratuits/open source (2027)
+## 1742. 🆓 OpenCode et Jules : agents de codage gratuits/open source
 
-- **Fichier** : `skills/1742-opencode-et-jules-agents-de-codage-gratuits-open-source-.md` · **Mot-clé** : « opencode open source gratuit Jules Google 15 tâches jour 2027 agent codage local modèles 1633 » · **Nom court** : OpenCode/Jules
+- **Fichier** : `skills/1742-opencode-et-jules-agents-de-codage-gratuits-open-source.md` · **Mot-clé** : « opencode open source gratuit Jules Google 15 tâches jour 2027 agent codage local modèles 1633 » · **Nom court** : OpenCode/Jules
 - **Signal** : Utiliser un agent de codage gratuit/open source en 2027 : OpenCode (agent CLI open source, modèles au choix dont locaux 1633, gratuit) ou Google Jules (15 tâches background/jour en free tier, intégré GitHub). Pour du code perso/open source ou sans budget. N'utilise pas pour du code interne sensible (résidence 1736) sauf self-host (1633). · **Synonymes** : « agent de codage 100 % gratuit et open source (OpenCode) 2027 », « Jules (Google) : 15 tâches background gratuites par jour », « OpenCode avec un modèle local (1633) : le code ne sort jamais » · **Cross-refs** : 1735, 1633, 1736 · **Tags** : 2027
 

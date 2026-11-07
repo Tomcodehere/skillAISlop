@@ -1,7 +1,7 @@
 ---
 num: 1699
 date_ajout: "2026-11"
-nom: "Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda (2027)"
+nom: "Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda"
 emoji: "📈"
 domaine: "Data & IA"
 signal: "Unifier l'observabilité des pipelines data en 2027 (complète 1675/1680) : une plateforme (Monte Carlo, Datafold, ou open source Soda Cloud + OpenTelemetry 1680) couvre fraîcheur, volume, schéma (drift 1461), distribution, lignage (1466), qualité (GX 349) — avec alertes (1417), SLA (1678), et corrélation incident (1096) ↔ trace OTel (1680). Utilise pour ne plus avoir 5 outils qui se contredisent. N'utilise pas pour un pipeline perso."

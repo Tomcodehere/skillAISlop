@@ -170,13 +170,13 @@
 - **Fichier** : `skills/867-apprentissage-d-un-instrument-de-musique-adulte.md` · **Mot-clé** : « apprendre la guitare adulte » · **Nom court** : Instrument
 - **Signal** : Apprendre la guitare/piano en adulte, cours en ligne, professeur particulier, progression réaliste, tablatures · **Synonymes** : « cours de guitare adulte » · **Cross-refs** : 518, 516, 671 · **Tags** : 2027
 
-## 1321. 🎓 Tuteur IA personnalisé (2027)
+## 1321. 🎓 Tuteur IA personnalisé
 
-- **Fichier** : `skills/1321-tuteur-ia-personnalise-2027.md` · **Mot-clé** : « tuteur ia personnalisé » · **Nom court** : Tuteur IA
+- **Fichier** : `skills/1321-tuteur-ia-personnalise.md` · **Mot-clé** : « tuteur ia personnalisé » · **Nom court** : Tuteur IA
 - **Signal** : Tuteur IA personnalisé 2027, apprendre une compétence avec un agent qui s'adapte, quiz, plan de révision espacée · **Synonymes** : « apprendre avec l'ia » · **Cross-refs** : 600, 819, 39 · **Tags** : 2027
 
-## 1344. 📖 Lecture rapide & mémorisation (2027)
+## 1344. 📖 Lecture rapide & mémorisation
 
-- **Fichier** : `skills/1344-lecture-rapide-memorisation-2027.md` · **Mot-clé** : « lecture rapide mémorisation » · **Nom court** : Lecture active
+- **Fichier** : `skills/1344-lecture-rapide-memorisation.md` · **Mot-clé** : « lecture rapide mémorisation » · **Nom court** : Lecture active
 - **Signal** : Lire plus vite et mémoriser en 2027 : lecture active, méthode SQ3R, fiches, révision espacée, prise de notes Cornell · **Synonymes** : « mémoriser un livre » · **Cross-refs** : 1321, 465, 494 · **Tags** : 2027
 

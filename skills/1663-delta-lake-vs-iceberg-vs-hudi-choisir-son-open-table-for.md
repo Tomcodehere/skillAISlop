@@ -1,7 +1,7 @@
 ---
 num: 1663
 date_ajout: "2026-11"
-nom: "Delta Lake vs Iceberg vs Hudi : choisir son open table format (2027)"
+nom: "Delta Lake vs Iceberg vs Hudi : choisir son open table format"
 emoji: "⚖️"
 domaine: "Data"
 signal: "Choisir son format de table ouvert (open table format) en 2027 pour un lakehouse (1463) : Delta Lake (Databricks, mature, VACUUM/OPTIMIZE), Apache Iceberg (v3 1662, multi-moteurs, hidden partitioning, row lineage), Apache Hudi (upserts fréquents, streaming). Critères : moteur principal, streaming vs batch, conformité. N'utilise pas pour un warehouse propriétaire (Snowflake/BigQuery gèrent en interne)."

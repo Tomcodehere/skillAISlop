@@ -1,7 +1,7 @@
 ---
 num: 1647
 date_ajout: "2026-11"
-nom: "Securite des modeles IA open source : revue avant deploiement (2027)"
+nom: "Securite des modeles IA open source : revue avant deploiement"
 emoji: "🔍"
 domaine: "Sécurité"
 signal: "Revoir un modèle IA open source avant déploiement en 2027 (risque de backdoors/weights empoisonnés, licences restrictives 1177) : vérifier la provenance (Hugging Face officiel vs miroir), la licence (Apache/Mistral permissif vs restrictif), scanner le repo (pickle malveillant, code exécuté au chargement), évaluer sur un golden set (1395) avant prod. Utilise pour tout modèle téléchargé. N'utilise pas pour les API managées (contrat fournisseur)."

@@ -1,7 +1,7 @@
 ---
 num: 1671
 date_ajout: "2026-11"
-nom: "Multimodal lakehouse : images, embeddings et textes (LanceDB, 2027)"
+nom: "Multimodal lakehouse : images, embeddings et textes (LanceDB)"
 emoji: "🖼️"
 domaine: "Data & IA"
 signal: "Stocker des données multimodales (images, embeddings, texte) dans un lakehouse en 2027 avec LanceDB (format Lance, columnnaire, vectoriel natif) ou Iceberg + colonnes vectorielles : recherche hybride sur images+texte (1477). Utilise pour la recherche sémantique sur catalogues, médias, documents scannés. N'utilise pas si texte seul suffit (pgvector 1443)."

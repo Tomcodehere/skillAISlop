@@ -1,7 +1,7 @@
 ---
 num: 1639
 date_ajout: "2026-11"
-nom: "Prompt-to-prod : de l'idee au deploiement surveille d'un agent (2027)"
+nom: "Prompt-to-prod : de l'idee au deploiement surveille d'un agent"
 emoji: "🚀"
 domaine: "Produit & IA"
 signal: "Passer d'une idée à un agent en production surveillée en 2027 : spec (1480) → POC agent (1627) → golden set (1395) → déploiement canary (1418) → monitoring trajectoires/coût (1476/1491) → kill switch (1635) → itérations. Utilise pour industrialiser les agents. N'utilise pas pour un one-shot."

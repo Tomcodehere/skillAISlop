@@ -1,7 +1,7 @@
 ---
 num: 1749
 date_ajout: "2026-11"
-nom: "Vibe coding responsable : quand l'IA code, quand l'humain code (2027)"
+nom: "Vibe coding responsable : quand l'IA code, quand l'humain code"
 emoji: "⚖️"
 domaine: "Développement"
 signal: "Définir en 2027 ce que l'IA code et ce que l'humain garde : l'IA gère le boilerplate, les tests (1747), la doc (1746), les migrations mécaniques (1737) ; l'humain garde l'archi (88), la sécurité critique (1646), la revue (1401), le choix des algos sensibles (84), et la responsabilité légale. Règle : tout code IA = code relu (1401) + testé (1747) + SAST (1658), responsabilité humaine inchangée. N'utilise pas l'IA pour du code critique sans ces garde-fous."

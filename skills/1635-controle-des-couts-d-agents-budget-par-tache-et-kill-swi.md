@@ -1,7 +1,7 @@
 ---
 num: 1635
 date_ajout: "2026-11"
-nom: "Controle des couts d'agents : budget par tache et kill switch entreprise (2027)"
+nom: "Controle des couts d'agents : budget par tache et kill switch entreprise"
 emoji: "💸"
 domaine: "Produit & IA"
 signal: "Contrôler les coûts des agents IA en entreprise en 2027 : budget de tokens par agent/tâche/utilisateur (1491), alertes à 80 %, kill switch automatique si dépassement (couper l'agent), cascade de modèles (1441), cache sémantique (1442). Utilise dès le premier agent en prod. N'utilise pas sans dashboard de coût (1476/1180)."

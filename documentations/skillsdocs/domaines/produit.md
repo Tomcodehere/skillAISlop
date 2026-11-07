@@ -195,42 +195,42 @@
 - **Fichier** : `skills/1300-ux-researcher-discovery.md` · **Mot-clé** : « ux-researcher-discovery » · **Nom court** : UX Researcher (Discovery)
 - **Signal** : Fonder les decisions produit sur des insights utilisateurs verifies. · **Synonymes** : « hypotheses », « produit », « validees » · **Cross-refs** : 1079, 1023, 176 · **Tags** : 2027
 
-## 1480. 📄 Rediger une spec produit legere d'une feature (2027)
+## 1480. 📄 Rediger une spec produit legere d'une feature
 
-- **Fichier** : `skills/1480-rediger-une-spec-produit-legere-d-une-feature-2027.md` · **Mot-clé** : « spec produit légère feature 1-2 pages problème solution métriques » · **Nom court** : Spec légère
+- **Fichier** : `skills/1480-rediger-une-spec-produit-legere-d-une-feature.md` · **Mot-clé** : « spec produit légère feature 1-2 pages problème solution métriques » · **Nom court** : Spec légère
 - **Signal** : Rédiger une spec produit légère en 2027 (1-2 pages, pas un PRD de 30 pages) : problème utilisateur, solution proposée, parcours, critères de succès (métriques), hors scope, risques. Utilise quand une feature démarre. N'utilise pas pour un projet complexe (voir PRD 63). · **Synonymes** : « écrire une spec de feature », « one-pager produit », « pas un PRD de 30 pages » · **Cross-refs** : 63, 845, 1297 · **Tags** : 2027
 
-## 1481. ⭐ North Star et arbre de metriques produit (2027)
+## 1481. ⭐ North Star et arbre de metriques produit
 
-- **Fichier** : `skills/1481-north-star-et-arbre-de-metriques-produit-2027.md` · **Mot-clé** : « north star metric arbre de métriques leviers produit » · **Nom court** : North Star
+- **Fichier** : `skills/1481-north-star-et-arbre-de-metriques-produit.md` · **Mot-clé** : « north star metric arbre de métriques leviers produit » · **Nom court** : North Star
 - **Signal** : Définir la North Star metric et l'arbre de métriques en 2027 : une métrique reine qui reflète la valeur perçue (ex. messages envoyés/semaine), décomposée en leviers (inscriptions × activation × rétention × fréquence), chaque levier avec métrique et owner. Utilise quand l'équipe manque de focus. N'utilise pas pour les métriques opérationnelles (CA, coûts). · **Synonymes** : « quelle métrique reine choisir », « décomposer la north star en leviers », « arbre de métriques 2027 » · **Cross-refs** : 36, 344, 107 · **Tags** : 2027
 
-## 1482. 📏 Mesurer l'impact metier d'une feature (2027)
+## 1482. 📏 Mesurer l'impact metier d'une feature
 
-- **Fichier** : `skills/1482-mesurer-l-impact-metier-d-une-feature-2027.md` · **Mot-clé** : « mesurer impact feature groupe témoin exposé significativité ship kill iterate » · **Nom court** : Impact feature
+- **Fichier** : `skills/1482-mesurer-l-impact-metier-d-une-feature.md` · **Mot-clé** : « mesurer impact feature groupe témoin exposé significativité ship kill iterate » · **Nom court** : Impact feature
 - **Signal** : Mesurer si une feature marche vraiment en 2027 : groupe témoin vs exposé (feature flag 304), métrique d'impact (pas juste d'usage), durée (2-4 semaines, effets de nouveauté), analyse statistique (significativité), décision ship/kill/iterate. Utilise quand on lance une feature. N'utilise pas pour le rollout technique (voir canary 1418). · **Synonymes** : « la feature a-t-elle marché ? A/B test feature », « groupe témoin vs exposé », « décider ship kill iterate » · **Cross-refs** : 733, 110, 304 · **Tags** : 2027
 
-## 1483. 🧪 Tests utilisateurs a distance (Maze, Useberry, 2027)
+## 1483. 🧪 Tests utilisateurs a distance (Maze, Useberry)
 
-- **Fichier** : `skills/1483-tests-utilisateurs-a-distance-maze-useberry-2027.md` · **Mot-clé** : « tests utilisateurs distance Maze Useberry panel 5-8 users » · **Nom court** : Tests distants
+- **Fichier** : `skills/1483-tests-utilisateurs-a-distance-maze-useberry.md` · **Mot-clé** : « tests utilisateurs distance Maze Useberry panel 5-8 users » · **Nom court** : Tests distants
 - **Signal** : Faire des tests utilisateurs à distance en 2027 sans recruteur : Maze/Useberry (tâches + questions, enregistrement écran/voix, heatmaps), recrutement via panel (UserTesting) ou sa propre base, 5-8 utilisateurs suffisent (Nielsen). Utilise quand on valide un parcours avant dev. N'utilise pas pour la recherche exploratoire profonde (voir interviews 734). · **Synonymes** : « tester un parcours avec Maze », « 5 utilisateurs ça suffit (Nielsen) », « recruter testeurs panel 2027 » · **Cross-refs** : 734, 187, 188 · **Tags** : 2027
 
-## 1484. ♿ Concevoir accessible des le depart (a11y by design, 2027)
+## 1484. ♿ Concevoir accessible des le depart (a11y by design)
 
-- **Fichier** : `skills/1484-concevoir-accessible-des-le-depart-a11y-by-design-2027.md` · **Mot-clé** : « accessibilité dès la conception WCAG 2.2 AA contraste clavier lecteur écran » · **Nom court** : A11y by design
+- **Fichier** : `skills/1484-concevoir-accessible-des-le-depart-a11y-by-design.md` · **Mot-clé** : « accessibilité dès la conception WCAG 2.2 AA contraste clavier lecteur écran » · **Nom court** : A11y by design
 - **Signal** : Intégrer l'accessibilité dès la conception en 2027 (a11y by design, WCAG 2.2 niveau AA) : contraste 4,5:1, cibles tactiles 44 px, navigation clavier complète, lecteurs d'écran (NVDA/VoiceOver), textes alternatifs, pas de couleur seule. Utilise quand on conçoit une interface. N'utilise pas pour l'audit d'un existant (voir 1308/686). · **Synonymes** : « WCAG 2.2 niveau AA dès le design », « contraste 4 », « 5:1 couleurs », « navigation clavier complète » · **Cross-refs** : 177, 686, 1308 · **Tags** : 2027
 
-## 1485. 🌐 Preparer son produit au multilingue (i18n/l10n, 2027)
+## 1485. 🌐 Preparer son produit au multilingue (i18n/l10n)
 
-- **Fichier** : `skills/1485-preparer-son-produit-au-multilingue-i18n-l10n-2027.md` · **Mot-clé** : « i18n l10n multilingue produit clés traduction pluriels RTL locale » · **Nom court** : i18n produit
+- **Fichier** : `skills/1485-preparer-son-produit-au-multilingue-i18n-l10n.md` · **Mot-clé** : « i18n l10n multilingue produit clés traduction pluriels RTL locale » · **Nom court** : i18n produit
 - **Signal** : Préparer un produit au multilingue en 2027 : i18n (internationalisation : clés de traduction, pluriels, dates/nombres/devise par locale, RTL pour arabe/hébreu) puis l10n (traductions humaines + contextuelles, pas mot à mot). Utilise quand on vise l'international (voir aussi export 1383). N'utilise pas pour la traduction de documents ponctuels (skill 7). · **Synonymes** : « préparer mon app au multilingue », « pluriels et dates par locale », « RTL arabe hébreu support » · **Cross-refs** : 280, 1094, 1383 · **Tags** : 2027
 
-## 1486. 🔁 Fermer la boucle des feedbacks utilisateurs (2027)
+## 1486. 🔁 Fermer la boucle des feedbacks utilisateurs
 
-- **Fichier** : `skills/1486-fermer-la-boucle-des-feedbacks-utilisateurs-2027.md` · **Mot-clé** : « fermer la boucle feedback utilisateurs réponse 'vous avez demandé on a livré' » · **Nom court** : Boucle feedback
+- **Fichier** : `skills/1486-fermer-la-boucle-des-feedbacks-utilisateurs.md` · **Mot-clé** : « fermer la boucle feedback utilisateurs réponse 'vous avez demandé on a livré' » · **Nom court** : Boucle feedback
 - **Signal** : Fermer la boucle avec les utilisateurs qui donnent du feedback en 2027 : accusé de réception rapide, tri (bug/feature/praise), réponse personnalisée aux contributeurs actifs, annonce 'vous avez demandé, on a livré' (changelog produit), mesure du taux de fermeture. Utilise quand on collecte du feedback (in-app, NPS 797). N'utilise pas pour le support client individuel (skill 56). · **Synonymes** : « répondre aux utilisateurs qui donnent un avis », « changelog 'vous avez demandé' », « taux de fermeture des feedbacks » · **Cross-refs** : 55, 797, 1016 · **Tags** : 2027
 
-## 1487. 🌅 Deprecier une feature sans perdre ses utilisateurs (sunsetting, 2027)
+## 1487. 🌅 Deprecier une feature sans perdre ses utilisateurs (sunsetting)
 
 - **Fichier** : `skills/1487-deprecier-une-feature-sans-perdre-ses-utilisateurs-sunse.md` · **Mot-clé** : « sunsetting déprécier feature prévenir 90 60 30 jours migration export données » · **Nom court** : Sunsetting
 - **Signal** : Arrêter proprement une feature peu utilisée en 2027 (sunsetting) : mesurer l'usage réel (pas la déclaration), prévenir 90/60/30 jours, proposer une alternative/migration (export des données), page de statut claire, support dédié pendant la transition. Utilise quand une feature coûte plus qu'elle ne rapporte. N'utilise pas pour un bug (hotfix) ni une panne (incident 256). · **Synonymes** : « arrêter une feature proprement », « prévenir 90 jours avant fermeture », « migrer les utilisateurs d'une feature supprimée » · **Cross-refs** : 183, 462, 404 · **Tags** : 2027

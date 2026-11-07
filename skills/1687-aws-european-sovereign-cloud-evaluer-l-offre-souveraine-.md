@@ -1,7 +1,7 @@
 ---
 num: 1687
 date_ajout: "2026-11"
-nom: "AWS European Sovereign Cloud : évaluer l'offre souveraine US (2027)"
+nom: "AWS European Sovereign Cloud : évaluer l'offre souveraine US"
 emoji: "☁️"
 domaine: "Juridique"
 signal: "Évaluer en 2027 l'AWS European Sovereign Cloud (lancé en janvier 2026 en Brandebourg, 7,8 Md€ d'investissement, GmbH allemande) : données et métadonnées en UE, clés gérées par une entité UE, mais opérateur US (CLOUD Act théoriquement exclu du périmètre souverain si bien architecturé — à vérifier juridiquement). Alternative aux fournisseurs purement UE (OVH, Gaia-X niveau 3 1686). Utilise pour des données sensibles sur AWS. N'utilise pas sans analyse juridique (DPO/avocat)."

@@ -1,7 +1,7 @@
 ---
 num: 1487
 date_ajout: "2026-11"
-nom: "Deprecier une feature sans perdre ses utilisateurs (sunsetting, 2027)"
+nom: "Deprecier une feature sans perdre ses utilisateurs (sunsetting)"
 emoji: "🌅"
 domaine: "Produit"
 signal: "Arrêter proprement une feature peu utilisée en 2027 (sunsetting) : mesurer l'usage réel (pas la déclaration), prévenir 90/60/30 jours, proposer une alternative/migration (export des données), page de statut claire, support dédié pendant la transition. Utilise quand une feature coûte plus qu'elle ne rapporte. N'utilise pas pour un bug (hotfix) ni une panne (incident 256)."

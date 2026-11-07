@@ -1,7 +1,7 @@
 ---
 num: 1736
 date_ajout: "2026-11"
-nom: "Securite du code genere par IA : revue, licences, fuite de donnees (2027)"
+nom: "Securite du code genere par IA : revue, licences, fuite de donnees"
 emoji: "🛡"
 domaine: "Sécurité"
 signal: "Sécuriser le code généré par IA en 2027 (92 % des devs utilisent un assistant, blindspot n°1 OWASP 2026 1646) : revue humaine systématique des PR IA (1401), SAST en CI (1658), jamais de secrets/données perso dans les prompts (1440), licence du code généré vérifiée (1177), outil choisi selon la résidence du code (Windsurf/Devin HIPAA-FedRAMP, DeepSeek self-host 1633, autres = serveurs tiers), pas d'upload de code propriétaire sur des outils gratuits. N'utilise pas l'IA pour du code critique sans revue."

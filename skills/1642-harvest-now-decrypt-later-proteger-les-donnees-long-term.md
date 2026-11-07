@@ -1,7 +1,7 @@
 ---
 num: 1642
 date_ajout: "2026-11"
-nom: "Harvest now, decrypt later : proteger les donnees long terme (2027)"
+nom: "Harvest now, decrypt later : proteger les donnees long terme"
 emoji: "⏳"
 domaine: "Sécurité"
 signal: "Se protéger en 2027 contre « harvest now, decrypt later » (des attaquants volent aujourd'hui des données chiffrées pour les déchiffrer plus tard avec un ordinateur quantique) : identifier les données à très long terme (santé, contrats, secrets industriels, clés racines), les chiffrer en PQC/hybride dès maintenant (1641), minimiser la rétention (189). Utilise pour les données sensibles à 10-30 ans. N'utilise pas pour les données à 1 an (le risque est faible)."

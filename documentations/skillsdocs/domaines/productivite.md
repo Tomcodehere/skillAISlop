@@ -185,23 +185,23 @@
 - **Fichier** : `skills/1266-security-engineering-appsec-automation.md` · **Mot-clé** : « security-engineering-appsec-automation » · **Nom court** : Security Engineering (AppSec A
 - **Signal** : Industrialiser les controles securite dans le cycle de delivery. · **Synonymes** : « vulnerabilites », « repetitives », « secrets » · **Cross-refs** : 27, 1035, 1073 · **Tags** : 2027
 
-## 1326. 🗓️ Planificateur de semaine IA (2027)
+## 1326. 🗓️ Planificateur de semaine IA
 
-- **Fichier** : `skills/1326-planificateur-de-semaine-ia-2027.md` · **Mot-clé** : « planifier semaine ia » · **Nom court** : Semaine IA
+- **Fichier** : `skills/1326-planificateur-de-semaine-ia.md` · **Mot-clé** : « planifier semaine ia » · **Nom court** : Semaine IA
 - **Signal** : Planifier sa semaine avec un agent IA 2027 : blocs de deep work, réunions regroupées, tâches selon énergie, rappels intelligents · **Synonymes** : « agenda intelligent 2027 » · **Cross-refs** : 465, 813, 72 · **Tags** : 2027
 
-## 1346. 🌅 Créer une routine matinale efficace (2027)
+## 1346. 🌅 Créer une routine matinale efficace
 
-- **Fichier** : `skills/1346-creer-une-routine-matinale-efficace-2027.md` · **Mot-clé** : « routine matinale 2027 » · **Nom court** : Routine matin
+- **Fichier** : `skills/1346-creer-une-routine-matinale-efficace.md` · **Mot-clé** : « routine matinale 2027 » · **Nom court** : Routine matin
 - **Signal** : Créer une routine matinale 2027 qui tient : réveil fixe, lumière, hydratation, mouvement 10 min, 1 priorité avant les écrans · **Synonymes** : « morning routine » · **Cross-refs** : 1325, 1326, 764 · **Tags** : 2027
 
-## 1498. 🔗 Automatisations souveraines avec n8n auto-heberge (2027)
+## 1498. 🔗 Automatisations souveraines avec n8n auto-heberge
 
-- **Fichier** : `skills/1498-automatisations-souveraines-avec-n8n-auto-heberge-2027.md` · **Mot-clé** : « n8n auto-hébergé automatisations souveraines workflows webhook » · **Nom court** : n8n souverain
+- **Fichier** : `skills/1498-automatisations-souveraines-avec-n8n-auto-heberge.md` · **Mot-clé** : « n8n auto-hébergé automatisations souveraines workflows webhook » · **Nom court** : n8n souverain
 - **Signal** : Monter ses automatisations sur n8n auto-hébergé en 2027 (souveraineté : données chez soi, pas de SaaS US) : workflows visuels (triggers webhook/cron, nœuds 400+), credentials chiffrés, exécutions rejouables, communauté de templates. Utilise quand on veut automatiser sans dépendre d'un SaaS. N'utilise pas pour du code lourd (voir dev). · **Synonymes** : « automatiser sans SaaS US n8n », « n8n sur mon serveur 2027 », « workflows n8n templates communauté » · **Cross-refs** : 78, 669, 269 · **Tags** : 2027
 
-## 1499. 🎤 Resumer automatiquement une reunion avec actions (2027)
+## 1499. 🎤 Resumer automatiquement une reunion avec actions
 
-- **Fichier** : `skills/1499-resumer-automatiquement-une-reunion-avec-actions-2027.md` · **Mot-clé** : « résumé automatique réunion transcription actions responsables Fireflies Otter 2027 » · **Nom court** : Résumé réunion IA
+- **Fichier** : `skills/1499-resumer-automatiquement-une-reunion-avec-actions.md` · **Mot-clé** : « résumé automatique réunion transcription actions responsables Fireflies Otter 2027 » · **Nom court** : Résumé réunion IA
 - **Signal** : Enregistrer et résumer une réunion automatiquement en 2027 avec un outil IA (Fireflies, Otter, tl;dv, ou bot Microsoft Teams/Google Meet intégré) : transcription, résumé structuré (décisions, actions avec responsables et échéances), partage aux absents, recherche dans les transcriptions. Utilise pour les réunions récurrentes. N'utilise pas pour un entretien confidentiel sans consentement (RGPD). · **Synonymes** : « transcrire une réunion automatiquement », « Fireflies ou Otter 2027 », « extraire décisions et actions d'une réunion » · **Cross-refs** : 705, 285, 378 · **Tags** : 2027
 

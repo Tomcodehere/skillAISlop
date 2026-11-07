@@ -8,7 +8,7 @@ signal: "Configurer VPN site-to-site et client-to-site (IPsec, WireGuard, OpenVP
 mot_cle: "vpn-configuration"
 nom_court: "VPN Configuration"
 branche: "D25"
-synonymes: ["ipsec", "wireguard", "openvpn"]
+synonymes: ["ipsec", "wireguard", "openvpn", "quel est le meilleur VPN"]
 cross_refs: [426, 1013, 1229]
 tags: ["2027"]
 ---

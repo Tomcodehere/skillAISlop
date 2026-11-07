@@ -1,7 +1,7 @@
 ---
 num: 1677
 date_ajout: "2026-11"
-nom: "Reverse ETL : pousser les données warehouse vers les SaaS (Hightouch, Census, 2027)"
+nom: "Reverse ETL : pousser les données warehouse vers les SaaS (Hightouch, Census)"
 emoji: "🔄"
 domaine: "Data"
 signal: "Faire du reverse ETL en 2027 (Hightouch, Census, ou natif dbt 350) : les données du warehouse (segments clients, scores propension 353) sont poussées automatiquement vers les outils métier (Salesforce CRM 270, HubSpot, ads 747, email 357, Intercom support 56) — plus de CSV exportés à la main (264). Utilise quand le warehouse est la source de vérité mais les équipes travaillent dans les SaaS. N'utilise pas pour de l'analytics pure (BI 107)."

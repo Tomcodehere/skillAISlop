@@ -55,43 +55,43 @@
 - **Fichier** : `skills/898-preparation-d-une-levee-de-fonds-amorcage.md` · **Mot-clé** : « lever des fonds » · **Nom court** : Levée de fonds
 - **Signal** : Préparer une levée de fonds amorçage 2026, business angels, fonds VC, valorisation pre-money, term sheet, due diligence · **Synonymes** : « levée amorçage 2026 » · **Cross-refs** : 775, 776, 171 · **Tags** : 2027, aihero:writing-beats
 
-## 1380. 🏛 Choisir son modele economique (SaaS, licence, usage, 2027)
+## 1380. 🏛 Choisir son modele economique (SaaS, licence, usage)
 
-- **Fichier** : `skills/1380-choisir-son-modele-economique-saas-licence-usage-2027.md` · **Mot-clé** : « choisir modèle économique saas licence usage » · **Nom court** : Modèle économique
+- **Fichier** : `skills/1380-choisir-son-modele-economique-saas-licence-usage.md` · **Mot-clé** : « choisir modèle économique saas licence usage » · **Nom court** : Modèle économique
 - **Signal** : Choisir le modele economique adapte a son produit en 2027 : SaaS par abonnement, licence perpetuelle, paiement a l'usage (usage-based), freemium, ou hybride. Criteres : cout pour le client, recurrence du revenu, cout d'acquisition. Utilise quand on lance ou on fait evoluer un produit. N'utilise pas pour le prix ponctuel (voir stratégie de prix). · **Synonymes** : « business model saas », « revenus récurrents modèle », « usage-based pricing » · **Cross-refs** : 57, 58, 775 · **Tags** : 2027
 
-## 1381. ⚖ Strategie de croissance : acquisition vs retention (2027)
+## 1381. ⚖ Strategie de croissance : acquisition vs retention
 
-- **Fichier** : `skills/1381-strategie-de-croissance-acquisition-vs-retention-2027.md` · **Mot-clé** : « acquisition vs rétention stratégie croissance » · **Nom court** : Acquisition vs rétention
+- **Fichier** : `skills/1381-strategie-de-croissance-acquisition-vs-retention.md` · **Mot-clé** : « acquisition vs rétention stratégie croissance » · **Nom court** : Acquisition vs rétention
 - **Signal** : Arbitrer entre acquisition de nouveaux clients et retention/fidelisation des clients existants en 2027 : cout d'acquisition (CAC) vs valeur vie client (LTV), taux de churn, levier le plus rentable selon la maturite du marche. Utilise quand le budget marketing est limite. N'utilise pas pour la prospection tactique (voir Vente). · **Synonymes** : « cac vs ltv », « fidélité client plutôt que nouveaux clients », « réduire le churn » · **Cross-refs** : 106, 173, 373 · **Tags** : 2027
 
-## 1382. 🗺 Rediger un plan strategique a 3 ans (2027-2029)
+## 1382. 🗺 Rediger un plan strategique a 3 ans
 
-- **Fichier** : `skills/1382-rediger-un-plan-strategique-a-3-ans-2027-2029.md` · **Mot-clé** : « plan stratégique 3 ans 2027 2029 » · **Nom court** : Plan stratégique 3 ans
+- **Fichier** : `skills/1382-rediger-un-plan-strategique-a-3-ans.md` · **Mot-clé** : « plan stratégique 3 ans 2027 2029 » · **Nom court** : Plan stratégique 3 ans
 - **Signal** : Rediger un plan strategique a 3 ans (2027-2029) : vision, 3 objectifs strategiques prioritaires, initiatives par annee, indicateurs (KPI), risques et hypotheses. Utilise quand on prepare la feuille de route de l'entreprise. N'utilise pas pour le plan operationnel mensuel (voir Gestion de projet). · **Synonymes** : « feuille de route entreprise 2027-2029 », « objectifs stratégiques 3 ans », « stratégie 2029 » · **Cross-refs** : 775, 551, 60 · **Tags** : 2027
 
-## 1383. ✈ Preparer une strategie d'export a l'international (2027)
+## 1383. ✈ Preparer une strategie d'export a l'international
 
-- **Fichier** : `skills/1383-preparer-une-strategie-d-export-a-l-international-2027.md` · **Mot-clé** : « stratégie export international 2027 » · **Nom court** : Export international
+- **Fichier** : `skills/1383-preparer-une-strategie-d-export-a-l-international.md` · **Mot-clé** : « stratégie export international 2027 » · **Nom court** : Export international
 - **Signal** : Preparer l'export de son entreprise a l'international en 2027 : choix des pays cibles (proximite, taille du marche, barrieres), mode d'entree (direct, distributeur, filiale), aides publiques (Team France Export, Bpifrance), conformite locale. Utilise quand le marche domestique sature. N'utilise pas pour la logistique operationnelle (voir Operations). · **Synonymes** : « se développer à l'international », « pays cibles export », « team france export aides » · **Cross-refs** : 103, 933, 781 · **Tags** : 2027
 
-## 1384. 🤝 Evaluer une cible pour une acquisition (M&A, 2027)
+## 1384. 🤝 Evaluer une cible pour une acquisition (M&A)
 
-- **Fichier** : `skills/1384-evaluer-une-cible-pour-une-acquisition-m-a-2027.md` · **Mot-clé** : « évaluer cible acquisition m&a due diligence » · **Nom court** : Due diligence M&A
+- **Fichier** : `skills/1384-evaluer-une-cible-pour-une-acquisition-m-a.md` · **Mot-clé** : « évaluer cible acquisition m&a due diligence » · **Nom court** : Due diligence M&A
 - **Signal** : Evaluer une entreprise cible pour un rachat (M&A) en 2027 : valorisation (multiples de CA/EBITDA), due diligence financiere, juridique et technique, synergies attendues, risques (dette, contentieux, dependance clients). Utilise quand une acquisition est envisagee. N'utilise pas pour un investissement minoritaire (voir Finance). · **Synonymes** : « racheter une entreprise valorisation », « multiples ebitda valorisation », « audit avant rachat » · **Cross-refs** : 967, 775, 103 · **Tags** : 2027
 
-## 1385. 🌱 Integrer l'ESG et la RSE au business model (2027)
+## 1385. 🌱 Integrer l'ESG et la RSE au business model
 
-- **Fichier** : `skills/1385-integrer-l-esg-et-la-rse-au-business-model-2027.md` · **Mot-clé** : « stratégie esg rse business model csrd » · **Nom court** : ESG au business model
+- **Fichier** : `skills/1385-integrer-l-esg-et-la-rse-au-business-model.md` · **Mot-clé** : « stratégie esg rse business model csrd » · **Nom court** : ESG au business model
 - **Signal** : Integrer la RSE/ESG au coeur du business model en 2027, pas seulement dans un rapport annexe : empreinte carbone, economie circulaire, achats responsables, gouvernance. Aligne avec la directive CSRD (transposition 2027) pour les grandes entreprises. Utilise quand on veut un modele durable et conforme. N'utilise pas pour le rapport RSE annuel seul. · **Synonymes** : « développement durable entreprise », « conformité csrd 2027 », « empreinte carbone entreprise » · **Cross-refs** : 57, 687, 1092 · **Tags** : 2027
 
-## 1779. 🗺️ Feuille de route Rust kernel 2027-2030 : nettoyage API puis nouveaux drivers
+## 1779. 🗺️ Feuille de route Rust kernel : nettoyage API puis nouveaux drivers
 
-- **Fichier** : `skills/1779-feuille-de-route-rust-kernel-2027-2030-nettoyage-api-pui.md` · **Mot-clé** : « feuille de route Rust kernel 2027 2030 nettoyage API C 1-2 ans nouveaux drivers defaut anti-stagnation » · **Nom court** : Roadmap Rust kernel
+- **Fichier** : `skills/1779-feuille-de-route-rust-kernel-nettoyage-api-puis-nouveaux.md` · **Mot-clé** : « feuille de route Rust kernel 2027 2030 nettoyage API C 1-2 ans nouveaux drivers defaut anti-stagnation » · **Nom court** : Roadmap Rust kernel
 - **Signal** : La feuille de route 2027-2030 du Rust kernel (Torvalds/Ojeda) : 1-2 ans de nettoyage des API C internes avant d'exposer plus de Rust, puis nouveaux drivers (stockage, réseau, GPU) en Rust par defaut quand pertinent. Objectif : eviter la stagnation du noyau (mainteneurs vieillissants) en attirant de nouveaux contributeurs Rust. Utilise pour planifier l'adoption Rust sur 3 ans. · **Synonymes** : « 2027-2030 : nettoyer les API C 1-2 ans avant d'exposer plus de Rust », « nouveaux drivers en Rust par defaut quand pertinent d'ici 2030 », « eviter la stagnation du noyau : attirer les jeunes contributeurs Rust » · **Cross-refs** : 1770, 1776, 1778 · **Tags** : 2027
 
-## 1799. 📡 Tech radar interne 2027 : quoi adopter, tester, évaluer, abandonner
+## 1799. 📡 Tech radar interne : quoi adopter, tester, évaluer, abandonner
 
-- **Fichier** : `skills/1799-tech-radar-interne-2027-quoi-adopter-tester-evaluer-aban.md` · **Mot-clé** : « tech radar interne 2027 ThoughtWorks Adopt Trial Assess Hold blips quadrants revue semestrielle 2027 » · **Nom court** : Tech radar interne
+- **Fichier** : `skills/1799-tech-radar-interne-quoi-adopter-tester-evaluer-abandonne.md` · **Mot-clé** : « tech radar interne 2027 ThoughtWorks Adopt Trial Assess Hold blips quadrants revue semestrielle 2027 » · **Nom court** : Tech radar interne
 - **Signal** : Maintenir un tech radar interne en 2027 inspiré du ThoughtWorks Technology Radar (vol. 34+, avril 2026) : chaque technologie/technique est un 'blip' placé dans 4 anneaux — Adopt (l'utiliser), Trial (l'essayer en projet pilote), Assess (l'évaluer), Hold (ne plus investir) — et 4 quadrants (langages, outils, plateformes, techniques). Revue semestrielle avec les leads. Utilise pour éviter le 'shiny object syndrome' et tracer les décisions. N'utilise pas comme dogme : le radar reflète l'expérience de l'équipe, pas une analyse de marché exhaustive. · **Synonymes** : « mon radar interne : anneaux Adopt/Trial/Assess/Hold comme ThoughtWorks », « blip 'edge computing' passe de Trial a Adopt en 2027 », « revue semestrielle du radar avec les leads tech », « decisions tracees » · **Cross-refs** : 1798, 1700, 1770 · **Tags** : 2027
 

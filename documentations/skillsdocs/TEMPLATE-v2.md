@@ -12,6 +12,7 @@
 - corps **< 500 lignes**, références à **1 niveau max** de profondeur
 - `metadata.version` par skill ; statut déprécié possible dans `signal`
 - **`date_ajout` obligatoire** : `Date d'ajout : 2026-11` au format **YYYY-MM**, ajoutée **automatiquement** à la création de la skill (ex. `date_ajout: "2026-11"`)
+- **pas d'année (20xx) dans le titre** (`nom` / `nom_court`) : ex. « Bilan de fin d'année (tous domaines) », jamais « … (2027) » — l'année va dans `signal`/corps, pas dans le titre (vérifié par `lint`, R13)
 - champs optionnels : `allowed-tools`, `disable-model-invocation`, `evals`
 
 ## Squelette (11 sections obligatoires, ordre primacy/recency)

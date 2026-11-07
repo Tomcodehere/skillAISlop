@@ -240,19 +240,19 @@
 - **Fichier** : `skills/902-gestion-algorithmique-du-travail-ai-act-emploi.md` · **Mot-clé** : « management algorithmique » · **Nom court** : Management algo
 - **Signal** : Management algorithmique, IA qui assigne et évalue le travail, AI Act annexe III emploi, transparence pour les salariés, 2 décembre 2027 · **Synonymes** : « ia qui évalue mon travail » · **Cross-refs** : 900, 876, 642 · **Tags** : 2027
 
-## 912. 💶 Directive européenne transparence salariale (fin 2027)
+## 912. 💶 Directive européenne transparence salariale (fin)
 
-- **Fichier** : `skills/912-directive-europeenne-transparence-salariale-fin-2027.md` · **Mot-clé** : « transparence salariale 2027 » · **Nom court** : Transparence salariale
+- **Fichier** : `skills/912-directive-europeenne-transparence-salariale-fin.md` · **Mot-clé** : « transparence salariale 2027 » · **Nom court** : Transparence salariale
 - **Signal** : Directive UE transparence salariale 2027, afficher les fourchettes de salaire dès l'offre, interdiction de demander l'historique salarial, rapport écart H/F · **Synonymes** : « directive salaire 2027 » · **Cross-refs** : 875, 410, 294 · **Tags** : 2027
 
-## 937. 🧘 Prévention RPS & bien-être au travail (indicateur 2027)
+## 937. 🧘 Prévention RPS & bien-être au travail (indicateur)
 
-- **Fichier** : `skills/937-prevention-rps-bien-etre-au-travail-indicateur-2027.md` · **Mot-clé** : « prévention rps 2027 » · **Nom court** : Prévention RPS
+- **Fichier** : `skills/937-prevention-rps-bien-etre-au-travail-indicateur.md` · **Mot-clé** : « prévention rps 2027 » · **Nom court** : Prévention RPS
 - **Signal** : Prévention des risques psychosociaux 2027, RPS indicateur business, bien-être au travail, management bienveillant, charge mentale équipe · **Synonymes** : « bien-être au travail 2027 » · **Cross-refs** : 787, 921, 421 · **Tags** : 2027
 
-## 951. 💰 Accord d'intéressement & participation 2027
+## 951. 💰 Accord d'intéressement & participation
 
-- **Fichier** : `skills/951-accord-d-interessement-participation-2027.md` · **Mot-clé** : « intéressement 2027 » · **Nom court** : Intéressement
+- **Fichier** : `skills/951-accord-d-interessement-participation.md` · **Mot-clé** : « intéressement 2027 » · **Nom court** : Intéressement
 - **Signal** : Mettre en place un accord d'intéressement ou de participation 2027, prime liée aux résultats, exonérations fiscales et sociales · **Synonymes** : « prime résultats salariés » · **Cross-refs** : 912, 410, 884 · **Tags** : 2027
 
 ## 1007. 🧑‍🏫 AD Replication & Sites Management
@@ -260,8 +260,8 @@
 - **Fichier** : `skills/1007-ad-replication-sites-management.md` · **Mot-clé** : « ad-replication-sites-management » · **Nom court** : AD Replication & Sites Managem
 - **Signal** : Diagnostiquer et résoudre les problèmes de réplication Active Directory entre contrôleurs de domaine, et concevoir une topologie de sites/liens de sites optimisée pour la bande passante et la latence · **Synonymes** : « replication », « cassee », « troubleshooting » · **Cross-refs** : 902, 1004, 1005 · **Tags** : 2027
 
-## 1713. 🚀 Onboarding developpeur : premier commit en jour 1 (2027)
+## 1713. 🚀 Onboarding developpeur : premier commit en jour 1
 
-- **Fichier** : `skills/1713-onboarding-developpeur-premier-commit-en-jour-1-2027.md` · **Mot-clé** : « onboarding développeur 2027 premier commit jour 1 devcontainer golden path buddy accès progressifs » · **Nom court** : Onboarding J1
+- **Fichier** : `skills/1713-onboarding-developpeur-premier-commit-en-jour-1.md` · **Mot-clé** : « onboarding développeur 2027 premier commit jour 1 devcontainer golden path buddy accès progressifs » · **Nom court** : Onboarding J1
 - **Signal** : Réduire l'onboarding d'un nouveau développeur à 'premier commit en prod le jour 1' en 2027 : doc de démarrage (README 312 + doc 1406), environnement en 1 commande (devcontainer / nix / docker compose 1109), golden path pour la première PR (1701), buddy (234), accès en lecture seule d'abord puis droits progressifs. Mesurer : temps jusqu'au 1er commit (objectif J1) et jusqu'au 1er déploiement solo (objectif semaine 2). N'utilise pas sans le golden path (1701). · **Synonymes** : « nouveau dev : premier commit en prod le jour 1 », « environnement en 1 commande (devcontainer/docker compose 1109) », « accès lecture seule d'abord », « droits progressifs », « buddy 234 » · **Cross-refs** : 203, 1701, 312 · **Tags** : 2027
 

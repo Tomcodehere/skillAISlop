@@ -1,7 +1,7 @@
 ---
 num: 1575
 date_ajout: "2026-11"
-nom: "Accessibilite d'un jeu : daltonisme, tailles, secousses, sous-titres (2027)"
+nom: "Accessibilite d'un jeu : daltonisme, tailles, secousses, sous-titres"
 emoji: "♿"
 domaine: "Game Dev"
 signal: "Rendre un jeu accessible en 2027 (WCAG + bonnes pratiques jeu, complément 1484/1495) : filtres daltonisme (protanopie/deutéranopie/tritanopie sur les couleurs critiques PV/ennemis), taille des textes/UI (100-200 %), réduction des secousses (1558) et flashs (1495), sous-titres VO + effets sonores (1533/1569), remap total (1504), pas d'info par couleur seule (formes aussi). Utilise pour tout jeu publiable. N'utilise pas pour un prototype."

@@ -1,7 +1,7 @@
 ---
 num: 1491
 date_ajout: "2026-11"
-nom: "Budgeter une feature IA : cout par requete et par utilisateur (2027)"
+nom: "Budgeter une feature IA : cout par requete et par utilisateur"
 emoji: "💰"
 domaine: "Produit & IA"
 signal: "Budgéter une feature IA en 2027 : coût par requête (tokens in/out × prix du modèle, skill 694), coût par utilisateur actif (fréquence × coût), projection à N utilisateurs, leviers (cascade 1441, cache 1442, SLM), seuil de rentabilité (revenu supérieur au coût). Utilise quand on lance une feature IA. N'utilise pas pour le FinOps infra global (1092)."
