@@ -3386,7 +3386,7 @@ def _json_dumps(x) -> str:
 VEC_DIM = 32  # 32 suffit à 1 351 skills (hash bag-of-words) — 2x moins de calcul vec
 CATALOGUE_VERSION = "16.0.0"  # version sémantique du catalogue (vague 17 = 1600 sections)
 VEC_SEUIL = 0.95  # seuil très strict : hash 32 dims monte les cosinus sur requêtes courtes
-VEC_PISTE = 0.80  # au-dessus, la meilleure candidate vec devient piste (exit 1) — même seuil que les candidats
+VEC_PISTE = 0.86  # P0-2 : relevé de 0.80 (faux positifs à 0.803) + au moins un token commun avec la requête requis ci-dessous
 
 
 def charger_vec(db: sqlite3.Connection) -> bool:
@@ -3482,7 +3482,8 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         CREATE TABLE synonymes (
             synonyme      TEXT PRIMARY KEY,
             synonyme_norm TEXT NOT NULL DEFAULT '',
-            num           INTEGER NOT NULL
+            num           INTEGER NOT NULL,
+            poids         REAL NOT NULL DEFAULT 1.0  -- P0-1 : poids IDF, synonyme générique = poids faible
         );
         CREATE INDEX IF NOT EXISTS idx_synonymes_norm ON synonymes(synonyme_norm);
         CREATE TABLE non_routees (
@@ -3587,10 +3588,18 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         db.execute("INSERT INTO skills_fts VALUES (0, 'Routeur de skills', '', '', 'Routeur', 'Routage')")
         db.commit()
         connus = {n for (n,) in db.execute("SELECT num FROM skills")}
+    # P0-1 : poids IDF des synonymes — un synonyme présent partout dans le catalogue
+    # (ex. « optimise » dans 200 signaux) ne doit pas battre un mot-clé exact spécifique
+    import math as _math
+    _big = " ".join(norm(str(x)) for num in sommaire
+                    for x in (sommaire[num][0], signaux.get(num, ""), mot_cles.get(num, ""), noms_courts.get(num, "")))
+    def _poids_syn(syn):
+        occ = _big.count(norm(syn))
+        return 1.0 / (1.0 + _math.log1p(occ))
     for num, syns in SYN_A_UTILISER.items():
         for syn in syns:
             assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
-            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?)", (syn, norm(syn), num))
+            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?,?)", (syn, norm(syn), num, _poids_syn(syn)))
     # popularité : top-N des skills les plus routées (table routes), sert de bonus de classement
     # et de cache chaud. Recalculée à chaque build si la table routes existe.
     try:
@@ -3847,7 +3856,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     #    affinage Python uniquement sur les candidats SQL (évite de scanner 1258 lignes en Python)
     if qn:
         rows_syn = db.execute(
-            "SELECT s.synonyme, k.num, k.nom, k.domaine, k.signal FROM synonymes s "
+            "SELECT s.synonyme, s.poids, k.num, k.nom, k.domaine, k.signal FROM synonymes s "
             "JOIN skills k ON k.num = s.num "
             "WHERE instr(?, s.synonyme_norm) > 0 OR instr(s.synonyme_norm, ?) > 0",
             (qn, qn)).fetchall()
@@ -3859,10 +3868,14 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             continue
         touche = sn in qn or (len(sn) >= 6 and any(len(t) >= 7 and t[:7] == sn[:7] for t in qt))
         if touche:
-            res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
-                                     r["signal"], "synonyme", r["synonyme"]))
+            poids = r["poids"] if "poids" in r.keys() else 1.0
+            c = cand(r["num"], r["nom"], r["domaine"], r["signal"],
+                     "synonyme" if poids >= 0.5 else "synonyme-faible", r["synonyme"])
+            # P0-1 : synonyme générique (poids IDF faible) reste dans exact (exit 0)
+            # mais classé APRÈS les synonymes spécifiques → perd le rang RRF face au mot-clé/FTS
+            (res["exact"] if poids >= 0.5 else res.setdefault("exact_faible", [])).append(c)
             vus.add(r["num"])
-    res["exact"] = res["exact"][:top]
+    res["exact"] = (res["exact"] + res.pop("exact_faible", []))[:top]
 
     # 3) FTS5 : préfixes, ET puis OU, bm25 pondéré
     if qt_forts:
@@ -3927,9 +3940,11 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                     "WHERE v.embedding MATCH ? AND k = 1 ORDER BY distance",
                     (qvec,)).fetchone()
                 if r0 and r0["cos"] >= VEC_PISTE and r0["num"] not in vus:
-                    res["pistes"].append(cand(r0["num"], r0["nom"], r0["domaine"],
-                                              r0["signal"], "piste-vec", None,
-                                              round(r0["cos"], 3)))
+                    # P0-2 : une piste vec doit partager au moins un token avec la requête
+                    if set(qt) & set(tokens(r0["nom"] + " " + r0["signal"])):
+                        res["pistes"].append(cand(r0["num"], r0["nom"], r0["domaine"],
+                                                  r0["signal"], "piste-vec", None,
+                                                  round(r0["cos"], 3)))
             except sqlite3.OperationalError:
                 pass
 
@@ -4027,7 +4042,9 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 if len(fusion) >= top * 3:  # top-K précoce : on garde 3x top candidats max
                     continue
                 e = fusion[c["num"]] = {"c": c, "rrf": 0.0, "voies": []}
-            e["rrf"] += 1.0 / (K_RRF + rang)
+            # P0-1 : un synonyme générique (poids IDF faible) contribue moitié moins au RRF
+            w = 0.5 if c.get("voie") == "synonyme-faible" else 1.0
+            e["rrf"] += w / (K_RRF + rang)
             e["voies"].append(voie)
     res["fusion"] = [e["c"] for e in sorted(fusion.values(), key=lambda v: -v["rrf"])[:top]
                      for e in [dict(e, c=dict(e["c"], rrf=round(e["rrf"], 4)))]]
@@ -4272,6 +4289,70 @@ def cmd_generate(canvas_path: Path, check: bool) -> int:
 # ---------------------------------------------------------------------------
 # test : non-régression · misses : journal des exit 2
 # ---------------------------------------------------------------------------
+
+GOLDEN_Q = RACINE / "outils/golden_queries.txt"
+GOLDEN_B = RACINE / "data/golden-routage.json"
+
+def _gagnant(res):
+    """Même logique que cmd_route : direct, sinon tête de la fusion RRF, sinon 1er candidat."""
+    if res["direct"]:
+        return res["direct"]["num"]
+    if res.get("fusion"):
+        return res["fusion"][0]["num"]
+    for k in ("exact", "fts", "vec", "flou"):
+        if res.get(k):
+            return res[k][0]["num"]
+    return None
+
+def cmd_golden(update: bool) -> int:
+    """P0-3 — golden set de régression du routage : rejoue des requêtes fixes et
+    compare le gagnant courant au baseline data/golden-routage.json.
+    --update régénère le baseline (à faire après une vague, tests au vert)."""
+    import json
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    if not GOLDEN_Q.exists():
+        raise SystemExit(f"{GOLDEN_Q} introuvable")
+    queries = [l.strip() for l in GOLDEN_Q.read_text(encoding="utf-8").splitlines()
+               if l.strip() and not l.startswith("#")]
+    db = sqlite3.connect(DB_PATH)
+    db.row_factory = sqlite3.Row
+    charger_vec(db)
+    if update:
+        base = {q: _gagnant(chercher(db, q, 5)) for q in queries}
+        GOLDEN_B.parent.mkdir(parents=True, exist_ok=True)
+        GOLDEN_B.write_text(json.dumps(base, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        db.close()
+        n = sum(1 for v in base.values() if v is not None)
+        print(f"✅ golden baseline écrit : {len(base)} requêtes ({n} routées) -> {GOLDEN_B}")
+        return 0
+    if not GOLDEN_B.exists():
+        db.close()
+        raise SystemExit("baseline absent — lance : routage.py golden --update")
+    base = json.loads(GOLDEN_B.read_text(encoding="utf-8"))
+    ok, reg, errs = 0, [], 0
+    for q in queries:
+        if q not in base:
+            continue
+        num = _gagnant(chercher(db, q, 5))
+        if num == base[q]:
+            ok += 1
+        elif num is None:
+            errs += 1
+            reg.append((q, base[q], "RIEN (exit 2)"))
+        else:
+            reg.append((q, base[q], num))
+    db.close()
+    total = ok + len(reg)
+    if reg:
+        print(f"❌ golden : {len(reg)}/{total} régressions de routage (gagnant attendu → obtenu) :")
+        for q, attendu, obtenu in reg[:20]:
+            print(f"  - « {q} » : attendu {attendu} → obtenu {obtenu}")
+        print("→ si le changement est voulu (nouvelle skill légitime), régénère : routage.py golden --update")
+        return 1
+    print(f"✅ golden : {ok}/{total} requêtes stables (aucune régression)")
+    return 0
+
 
 def cmd_test() -> int:
     if not DB_PATH.exists():
@@ -5016,6 +5097,9 @@ def main():
 
     sub.add_parser("test", help="non-régression du routage")
 
+    p_gold = sub.add_parser("golden", help="golden set de régression (P0-3) : rejoue outils/golden_queries.txt vs data/golden-routage.json")
+    p_gold.add_argument("--update", action="store_true", help="réécrit le baseline avec les gagnants actuels")
+
     p_miss = sub.add_parser("misses", help="journal des demandes non routées")
     p_miss.add_argument("--clear", action="store_true")
     p_miss.add_argument("--suggest", action="store_true",
@@ -5073,6 +5157,8 @@ def main():
         raise SystemExit(cmd_generate(args.canvas, args.check))
     elif args.cmd == "test":
         raise SystemExit(cmd_test())
+    elif args.cmd == "golden":
+        raise SystemExit(cmd_golden(args.update))
     elif args.cmd == "misses":
         raise SystemExit(cmd_misses(args.clear, args.suggest))
     elif args.cmd == "stats":

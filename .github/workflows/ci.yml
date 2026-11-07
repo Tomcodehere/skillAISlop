@@ -30,6 +30,9 @@ jobs:
       - name: Tests de non-régression du routage
         run: python3 outils/routage.py test
 
+      - name: Golden set de régression du routage (P0-3)
+        run: python3 outils/routage.py golden
+
       - name: Audit de conformité R1-R8 (R5)
         run: >
           python3 outils/audit_conformite.py

@@ -1,0 +1,200 @@
+# Golden set de régression du routage (P0-3) — une requête par ligne
+# Régénérer le baseline après une vague (tests au vert) : python3 outils/routage.py golden --update
+montre-moi la skill 447
+résumer un document
+budget personnel et dépenses
+assurance habitation
+mon chat vomit
+sprint de dette technique
+je bloque à cause du perfectionnisme
+comment organiser l'allaitement et la diversification
+convocation à un entretien préalable
+expliquer ma fiche de paie
+exercer mon droit de rétractation
+vidange et contrôle technique de ma voiture
+menus végétariens pour toute la famille
+automatiser mon formulaire typeform vers mon crm
+appel de fonds de ma copropriété
+on s'expatrie 2 ans à singapour
+fine-tuner un modèle sur notre ton de marque
+onboarder notre nouveau développeur lundi
+rédige le compte rendu de cette réunion avec les action items
+comment structurer le harness de mon agent
+donne-moi la version courte caveman de cette réponse
+que dit-on de ma marque sur reddit cette semaine
+comment mener ce test a/b proprement
+cible-moi 20 profils linkedin et écris la séquence
+fais l'audit seo technique de mon site
+mets en place la sauvegarde 3-2-1
+deux collègues se disputent, je médie
+prépare mon grand oral de 5 minutes
+prépare mon deck de levée de 300k
+automatise mon rapport vendredi qui consolide 5 excel
+déroule le recrutement de notre commercial
+analyse notre nps de 32 et agis
+lightpanda
+muse vs dots
+affiner un prompt
+agentic ui
+are pôle emploi
+donation partage
+pondérer des critères
+arnaque leboncoin
+mécénat
+trouver un vol low cost pas cher
+préparer mon entretien d'embauche en visio
+préparer un pitch
+déclaration accident travail
+syndic défaillant
+déléguer des tâches à mon agent personnel
+auditer ma dernière session avec l'agent de code
+régulariser mon sommeil
+automatiser la revue de mes pr
+rédiger un règlement de colocation
+arbitrer mon assurance vie
+vérifier cet influenceur avant d'acheter
+préparer ma visio avec le comité
+m'engager comme bénévole dans une asso
+organiser le baptême de ma fille
+donner un smartphone à mon ado de 12 ans en sécurité
+préparer ma présentation au comité
+recruter notre premier alternant
+acheter en lmnp en 2026
+un salarié s'est blessé sur une machine
+préparer cession entreprise
+panne pc disque dur
+panne informatique
+préparer l'ai act haut risque avant décembre 2027
+se défendre des attaques ia autonomes
+nouvelle ligne de train munich rome en 2027
+je m'ennuie au travail, c'est le bore-out
+mes collègues utilisent chatgpt perso au bureau
+aides anah recentrées en 2027
+choisir un hôtel optimisé pour le sommeil
+faire mon bilan 2026 et mes objectifs 2027
+arnaque sur un site de rencontre
+rédiger mon testament
+j'ai mal au poignet au bureau depuis 6 mois
+louer mon bien en meublé ou en nu en 2027
+road-trip en van aménagé cet été 2027
+déménager au canada en 2027
+prendre un congé sabbatique d'un an
+active-directory-management
+advertising-measurement-experimentation
+skill-ai-explainability-transparency
+ai-system-architecture-design
+application-migration-data-transfer
+audit-coherence-logique-brief
+belgian-vat-tax-orientation
+bounded-utility-specification
+haie variée biodiversité
+coach sportif ia
+planifier semaine ia
+santé animale 2027
+réparer son vélo
+désencombrer 2027
+shadowing audio pour l'anglais
+améliorer ma compréhension orale podcasts sans sous-titres
+mon compte formation plafond 2027
+évaluer l'efficacité d'une formation kirkpatrick
+qui décide : mettre en place les rôles clairs
+concevoir l'onboarding d'une feature ia en 3 étapes
+enchaîner recherche puis rédaction avec les skills
+session hebdomadaire classement papier 15 min vendredi
+passer en usage-based pricing en 2027
+évaluer une cible acquisition m&a multiples ebitda 2027
+cette étude observationnelle prouve-t-elle quelque chose ?
+modéliser un schéma en étoile table de faits dimensions
+data.gouv kaggle hugging face licence données
+gérer une question piège en interview média 2027
+comment formuler mes commentaires de review
+refactorer du code legacy en sécurité
+exceptions métier nommées message actionnable
+déployer sur kubernetes manifests yaml deployment
+k6 ou locust test de performance 2027
+créer index composite explain analyze
+choisir base nosql mongodb redis cassandra selon le cas
+few-shot exemples dans le prompt LLM
+concevoir outils agent function calling noms et descriptions
+human in the loop approbation multi-niveaux
+grounding réponses LLM citer les sources je ne sais pas si absent
+détecter PII données perso dans prompt LLM
+benchmark embeddings sur 50 requêtes réelles
+audit IAM cloud moindre privilège AWS
+flow implicit interdit PKCE obligatoire
+organiser tabletop exercice crise cyber ransomware
+SLSA provenance build niveau 3
+détecter schema drift colonne supprimée
+partitions clé user_id ordre garanti
+feature store Feast train serve skew
+endpoint OpenAI compatible self-host
+sandbox agent conteneur jetable gVisor
+requête multi-sauts graphe vs RAG classique
+mesurer impact feature A/B témoin exposé
+dates devises par locale Intl API
+afficher confiance réponse IA badge je ne sais pas
+désactiver proprement IA message utilisateurs
+dark mode prefers-color-scheme tokens sémantiques
+transcription recherchable qui a dit quoi
+sauvegarder partie en JSON 3 slots auto-save
+FOV sprint lerp 70 85 degrés
+coyote time 0,1 s après le sol
+12 salles sans chevauchement corridors en L
+A* grille heap f=g+h 8 directions poids terrain
+ouïe course 8 m tir 20 m mémoire last_seen
+raycast LOS entre garde et joueur layer murs
+délai 10 s entre vagues boss vague 10
+journal quêtes compteur 3/5 temps réel
+stack potions x99 tri auto tooltip
+toast succès débloqué 100 kills en jeu
+mesurer ARPU rétention D7 p-value ship kill
+lag compensation rewind t-RTT/2 raycast état ancien
+signalement 3 = mute 24h 10 = ban 7j
+mon site rame beaucoup le soir
+combien coûte un développement d'appli mobile
+rédige un mail de démission poli
+prépare mon entretien d'embauche technique
+je veux apprendre le japonais en 6 mois
+optimise ma facture EDF 2027
+mon wifi coupe toutes les 10 minutes
+crée un logo pour ma boulangerie
+explique la différence entre SAS et SARL
+je cherche un comptable en ligne pas cher
+mon disque dur fait du bruit
+organise un week-end à Lisbonne pas cher
+écris une lettre de motivation pour un stage dev
+mes plantes jaunissent que faire
+compare les assurances habitation 2027
+je veux investir 5000 euros en bourse
+mon voisin fait du bruit la nuit
+prépare un discours de mariage
+trouve moi un emploi de data analyst à Paris
+mon chauffe-eau fuit
+comment deklarer mes impots en ligne 2027
+je veux faire du covoiturage régulier
+mon imprimante n'imprime plus
+résilie mon abonnement salle de sport
+trouve un fuite dans ma toiture
+prépare une présentation client de 10 slides
+mon ordinateur est très lent au démarrage
+je veux poser des congés en août
+aide moi à trier mes photos de vacances
+quel est le meilleur VPN 2027
+mon email pro ne reçoit plus rien
+je veux faire un régime sans gluten
+trouve un cours de guitare près de chez moi
+mon assurance auto augmente pourquoi
+écris un poème pour l'anniversaire de ma mère
+je veux créer une SCI
+mon chauffage consomme trop
+prépare un entretien annuel d'évaluation
+trouve une nounou pour 2 enfants
+mon iPhone ne charge plus
+compare les forfaits mobiles 2027
+je veux apprendre à coder en Python
+mon frigo fait un bruit bizarre
+rédige un règlement intérieur de colocation
+je cherche un traiteur pour 50 personnes
+mon site WordPress a été piraté
+aide moi à faire mon CV en anglais
+quel tableau choisir pour mon salon
