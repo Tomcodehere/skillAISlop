@@ -2442,13 +2442,18 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
 # route : base -> candidates
 # ---------------------------------------------------------------------------
 
+@lru_cache(maxsize=50_000)
+def trigrammes_de(mot: str) -> frozenset:
+    """Trigrammes d'un mot (>= 5 lettres), mis en cache LRU — la requête revient souvent."""
+    return frozenset(mot[i:i + 3] for i in range(len(mot) - 2))
+
+
 def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
                            vus=None):
     """Passe floue par trigrammes en SQL (table `trigrammes` indexée).
     Même contrat que proches_trigrammes : liste triée (ratio, nb, mot, row).
     Repli sur la version Python si la table est absente (base ancienne)."""
-    req_tri = {t: {t[i:i + 3] for i in range(len(t) - 2)}
-               for t in qt if len(t) >= 5}
+    req_tri = {t: trigrammes_de(t) for t in qt if len(t) >= 5}
     if not req_tri:
         return []
     if not db.execute("SELECT 1 FROM sqlite_master WHERE name='trigrammes'").fetchone():
