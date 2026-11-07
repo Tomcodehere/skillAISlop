@@ -5812,7 +5812,7 @@ Tu es analyste social listening. Tu définis les mots-clés et hashtags à surve
 ---
 ---
 
-## 727.  🗓️ Planification de contenu & calendrier éditorial IA
+## 727. 🗓️ Planification de contenu & calendrier éditorial IA
 
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
