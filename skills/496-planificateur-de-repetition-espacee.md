@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [493, 495]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : installer la répétition espacée : contenu découpé en cartes, calendrier de révisions automatisé et routine quotidienne tenable.

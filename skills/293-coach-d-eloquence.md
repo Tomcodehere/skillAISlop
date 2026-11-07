@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [75, 154]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : faire progresser la prise de parole orale : diagnostic des tics, structure du discours et feedback précis sur des passages enregistrés.

@@ -11,7 +11,6 @@ synonymes: ["sécurité cloud"]
 cross_refs: [85, 197]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer une infrastructure cloud : exposition des ressources, identités et IAM, réseau et journalisation.

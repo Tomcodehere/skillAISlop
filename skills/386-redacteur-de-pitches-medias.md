@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [387, 393]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : pitcher un journaliste : angle neuf, pertinence pour son audience, preuves et éléments concrets, en 150 mots.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [16]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : trouver des noms de marque, produit ou projet : mémorisables, prononçables, distinctifs.

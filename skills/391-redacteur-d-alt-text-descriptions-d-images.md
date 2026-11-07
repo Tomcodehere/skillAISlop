@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [377, 454]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des textes alternatifs utiles : ce que l'image apporte au contenu, pour les lecteurs d'écran et les images non chargées.

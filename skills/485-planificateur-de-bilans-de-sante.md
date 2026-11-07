@@ -11,7 +11,6 @@ synonymes: ["bilan de sante", "check-up", "checkup"]
 cross_refs: [468, 487]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier les bilans de santé personnels : dépistages recommandés par âge et situation, calendrier tenu et suivi des résultats.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [94, 349]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer la couche de transformation de l'entrepôt : modèle en couches (staging, intermédiaire, métier), conventions et tests branchés.

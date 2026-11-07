@@ -11,7 +11,6 @@ synonymes: ["discours", "prise de parole"]
 cross_refs: [12]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des discours qui sonnent juste à l'oral : mariage, keynote, départ, cérémonie.

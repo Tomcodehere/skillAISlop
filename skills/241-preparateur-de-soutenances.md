@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [14, 41]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer une soutenance ou une défense orale (mémoire, thèse, projet de fin d'études) : discours, slides, questions du jury.

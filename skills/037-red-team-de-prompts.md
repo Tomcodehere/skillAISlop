@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: []
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : chercher activement les failles d'un prompt ou d'un système IA avant la mise en production : détournements, fuites, comportements indésirables.

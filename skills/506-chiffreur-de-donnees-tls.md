@@ -11,7 +11,6 @@ synonymes: ["chiffrement", "tls"]
 cross_refs: [189, 306]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : choisir et mettre en œuvre le chiffrement d'un système : TLS, certificats, chiffrement au repos et gestion des clés.

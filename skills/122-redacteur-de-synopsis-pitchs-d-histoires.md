@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [14, 121]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer une idée d'histoire en synopsis solide et en pitch de 2 minutes qui donne envie d'en savoir plus.

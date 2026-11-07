@@ -11,7 +11,6 @@ synonymes: ["devoirs"]
 cross_refs: [39, 520]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : accompagner les devoirs à la maison sans cris : cadre, méthode et le juste niveau d'aide parentale.

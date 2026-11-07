@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [107, 144]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : coder des vidéos génératives (Remotion, moviepy) à partir de données, pour produire des vidéos reproductibles en série.

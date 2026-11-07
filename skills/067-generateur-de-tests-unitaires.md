@@ -11,7 +11,6 @@ synonymes: ["couverture de tests", "test unitaire"]
 cross_refs: [21, 63]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des tests unitaires qui vérifient le comportement attendu, pas la couverture pour la couverture.

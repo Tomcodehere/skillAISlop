@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [13]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir les bons indicateurs et concevoir un dashboard qui sert la décision, pas la décoration.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [99, 338]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : obtenir d'un LLM des sorties strictement conformes : JSON validé par schéma, champs obligatoires, types contraints et valeurs énumérées.

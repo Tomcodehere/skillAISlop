@@ -11,7 +11,6 @@ synonymes: ["statuts"]
 cross_refs: [240, 532]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tenir la vie administrative d'une association : statuts, assemblée générale, convocations, comptes-rendus et obligations en règle.

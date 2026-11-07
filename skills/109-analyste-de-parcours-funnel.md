@@ -11,7 +11,6 @@ synonymes: ["funnel", "tunnel de conversion"]
 cross_refs: [110, 162]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : localiser les étapes d'un parcours (inscription, achat, onboarding) qui perdent le plus d'utilisateurs, et proposer des corrections.

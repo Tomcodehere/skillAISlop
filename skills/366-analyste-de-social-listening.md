@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [235, 290]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : surveiller ce qui se dit d'une marque sur les réseaux : volume, sentiment, sujets émergents et alertes configurées.

@@ -11,7 +11,6 @@ synonymes: ["entretien auto", "vehicule", "voiture"]
 cross_refs: [43, 219]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tenir le suivi d'entretien d'un ou plusieurs véhicules : échéancier constructeur, historique des interventions et budget de maintenance prévisionnel.

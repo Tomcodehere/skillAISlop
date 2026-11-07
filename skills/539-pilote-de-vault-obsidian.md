@@ -11,7 +11,6 @@ synonymes: ["obsidian", "vault"]
 cross_refs: [114, 287]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : organiser et automatiser un coffre de notes Obsidian : structure, liens, plugins utiles et routines de maintenance.

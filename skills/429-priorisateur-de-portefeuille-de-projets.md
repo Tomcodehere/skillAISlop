@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [426, 427]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : prioriser un portefeuille trop chargé : critères explicites, arbitrages assumés, projets arrêtés et capacité protégée.

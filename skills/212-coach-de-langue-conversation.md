@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [7, 40]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : progresser en langue étrangère par la pratique orale : conversation adaptée au niveau, corrections ciblées, progression mesurée.

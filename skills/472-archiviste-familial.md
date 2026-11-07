@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [480, 490]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préserver les souvenirs familiaux : tri des photos et documents, organisation durable, sauvegarde multiple et transmission pensée.

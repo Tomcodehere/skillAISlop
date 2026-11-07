@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [388, 426]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : recueillir l'expertise d'un expert interne avant qu'elle ne parte : interview structurée, savoir documenté, transfert organisé.

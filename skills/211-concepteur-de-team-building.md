@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [208, 211]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des moments de cohésion d'équipe utiles, pas des jeux subis : intention, activité, débrief.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [88, 323]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer ou débloquer un monorepo : découpage en packages, frontières, build incrémental et conventions de chemins.

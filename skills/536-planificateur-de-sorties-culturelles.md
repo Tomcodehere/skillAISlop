@@ -11,7 +11,6 @@ synonymes: ["concert", "exposition"]
 cross_refs: [42, 569]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un programme de sorties culturelles qui tient : choix réalistes, billets, logistique et variété sur le mois.

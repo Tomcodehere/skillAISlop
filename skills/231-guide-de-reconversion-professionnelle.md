@@ -11,7 +11,6 @@ synonymes: ["changer de metier", "reconversion"]
 cross_refs: [44, 204]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer un projet de reconversion : motivations réelles, options concrètes, plan de transition et plan de repli.

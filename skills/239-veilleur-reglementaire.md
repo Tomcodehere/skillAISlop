@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [105, 196]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : surveiller les évolutions réglementaires d'un secteur, évaluer leur impact réel et préparer la mise en conformité.

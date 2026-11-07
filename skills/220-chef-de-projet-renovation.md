@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [15, 219]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier des travaux de rénovation : phases, artisans, budget, timing et suivi de chantier.

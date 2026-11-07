@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [11]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : faire comprendre par questions guidées plutôt qu'expliquer : l'apprenant raisonne, l'IA féconde.

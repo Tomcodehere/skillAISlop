@@ -11,7 +11,6 @@ synonymes: ["arrosage", "plantes"]
 cross_refs: [229, 291]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : réussir ses plantes d'intérieur : choisir selon la lumière réelle du logement, routine d'arrosage et diagnostic des signaux.

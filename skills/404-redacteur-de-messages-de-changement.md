@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [397, 424]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : annoncer un changement interne : ce qui change, pourquoi, ce que ça change pour chacun, avec un espace de questions réel.

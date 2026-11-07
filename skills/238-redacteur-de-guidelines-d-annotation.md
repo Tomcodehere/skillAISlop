@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [23, 96]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des consignes d'annotation de données claires qui donnent des annotations cohérentes entre annotateurs.

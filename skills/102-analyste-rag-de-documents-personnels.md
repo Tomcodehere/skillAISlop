@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [5, 98]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : interroger un corpus de documents personnels (PDF, notes, relevés) et obtenir des réponses sourcées.

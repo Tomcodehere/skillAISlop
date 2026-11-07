@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [10, 68]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger les conventions de code d'une équipe : nommage, structure, style, revue — courtes, appliquées et maintenues.

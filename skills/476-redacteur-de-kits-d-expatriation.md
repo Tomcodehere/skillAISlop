@@ -11,7 +11,6 @@ synonymes: ["expatriation", "expatrie", "vivre a l'etranger"]
 cross_refs: [477, 480]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer un kit d'expatriation complet : démarches avant le départ, installation sur place, budget prévisionnel et premiers contacts.

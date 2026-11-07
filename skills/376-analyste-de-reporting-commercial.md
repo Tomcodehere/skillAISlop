@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [36, 372]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire un reporting commercial utile : chiffres fiables, tendances commentées, alertes et actions, sans noyer le lecteur.

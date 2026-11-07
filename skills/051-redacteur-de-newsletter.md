@@ -11,7 +11,6 @@ synonymes: ["infolettre", "newsletter"]
 cross_refs: [30, 34]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des éditions de newsletter qui fidélisent : ouverture, lecture complète, clics.

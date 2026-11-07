@@ -11,7 +11,6 @@ synonymes: ["footing", "marathon"]
 cross_refs: [214, 483]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un plan d'entraînement de course à pied réaliste : objectif daté, progressivité mesurée et prévention des blessures.

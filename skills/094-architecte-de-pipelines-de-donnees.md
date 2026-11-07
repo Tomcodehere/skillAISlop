@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [71, 107]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un flux de données automatisé (extraction, transformation, chargement) fiable et surveillé.

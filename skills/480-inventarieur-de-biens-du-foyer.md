@@ -11,7 +11,6 @@ synonymes: ["assurance habitation"]
 cross_refs: [472, 474]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : dresser l'inventaire des biens du foyer : pièces et valeurs estimées, preuves d'achat conservées, dossier prêt pour l'assurance.

@@ -11,7 +11,6 @@ synonymes: ["correctifs", "cve"]
 cross_refs: [267, 507]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer le flux de vulnérabilités (CVE) en plan de remédiation : triage, priorités, fenêtres de mise à jour et vérification.

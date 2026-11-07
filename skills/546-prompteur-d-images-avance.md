@@ -11,7 +11,6 @@ synonymes: ["midjourney"]
 cross_refs: [139, 150]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : maîtriser le prompting d'images (Midjourney, SD) : vocabulaire visuel, paramètres et itération pour obtenir le rendu visé.

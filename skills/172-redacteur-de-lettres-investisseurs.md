@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [5, 170]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire les communications périodiques aux investisseurs (lettres trimestrielles, updates) qui informent honnêtement et renforcent la confiance.

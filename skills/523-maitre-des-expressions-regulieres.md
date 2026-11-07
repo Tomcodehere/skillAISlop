@@ -11,7 +11,6 @@ synonymes: ["regex"]
 cross_refs: [67, 91]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire, déchiffrer et déboguer des expressions régulières robustes, avec des tests et la bonne quantité de complexité.

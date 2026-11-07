@@ -11,7 +11,6 @@ synonymes: ["divorce", "séparation"]
 cross_refs: [16, 589]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : traverser une séparation ou un divorce : étapes réalistes, points de vigilance (logement, enfants, finances) et coûts des options.

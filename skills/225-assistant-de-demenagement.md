@@ -11,7 +11,6 @@ synonymes: ["demenagement", "demenager"]
 cross_refs: [72, 217]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier un déménagement complet : chronologie, tri, logistique, transferts administratifs et journée J.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [1, 14]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des documents Word, Excel ou PowerPoint complets et bien structurés à partir d'une demande.

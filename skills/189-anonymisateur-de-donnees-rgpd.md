@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [92, 196]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : anonymiser ou pseudonymiser un jeu de données pour analyse ou partage en respectant le RGPD.

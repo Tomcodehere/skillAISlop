@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [38, 250]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer des fichiers de skills (SKILL.md) selon les critères de qualité : description-règle de routage, un seul job par skill, corps maigre et exemples concrets.

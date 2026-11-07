@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [189, 443]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger une politique de rétention : durées de conservation par type de données, justification légale, mode de suppression et responsabilités.

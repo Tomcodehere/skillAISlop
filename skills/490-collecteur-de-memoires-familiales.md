@@ -11,7 +11,6 @@ synonymes: ["histoire de famille", "souvenirs de famille"]
 cross_refs: [388, 472]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : recueillir et préserver les mémoires familiales : interviews des aînés, questions qui font raconter, enregistrements organisés et mise en forme transmissible.

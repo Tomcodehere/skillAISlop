@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [407, 418]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un dispositif de feedback 360 utile : répondants pertinents, questions comportementales, synthèse honnête et plan de progression.

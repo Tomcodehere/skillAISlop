@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [273, 409]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier la continuité d'une équipe face aux absences : congés, arrêts, départs couverts par binômes, docs et croissement des compétences.

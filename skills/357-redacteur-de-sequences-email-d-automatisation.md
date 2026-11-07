@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [138, 179]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir une séquence d'emails automatisée : déclencheurs, étapes, objectifs de conversion et messages cohérents d'une étape à l'autre.

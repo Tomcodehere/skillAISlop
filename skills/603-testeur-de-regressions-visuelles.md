@@ -11,7 +11,6 @@ synonymes: ["captures"]
 cross_refs: [252, 456]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : détecter les régressions visuelles d'une interface en comparant des captures de référence à l'état actuel.

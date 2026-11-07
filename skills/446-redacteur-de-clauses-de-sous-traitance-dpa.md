@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [442, 444]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger les clauses de sous-traitance des données : encadrement du sous-traitant, obligations documentées, contrôles et responsabilité en cas de manquement.

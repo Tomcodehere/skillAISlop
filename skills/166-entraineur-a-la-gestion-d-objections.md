@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [49, 58]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : s'entraîner en role-play à traiter les objections commerciales (prix, temps, concurrent) jusqu'à fluidité.

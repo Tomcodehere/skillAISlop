@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [90, 97]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : réduire la facture LLM en ajustant modèles, contextes et caches, sans dégrader la qualité perçue.

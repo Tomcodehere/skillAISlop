@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [56, 130]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un guide, un contrat ou une documentation en foire aux questions claire et hiérarchisée.

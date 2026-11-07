@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [17, 37]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mesurer objectivement la qualité des sorties d'un modèle ou d'un prompt avant et après chaque changement.

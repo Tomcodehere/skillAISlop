@@ -11,7 +11,6 @@ synonymes: ["arreter de fumer", "grignoter", "mauvaise habitude"]
 cross_refs: [468, 489]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : arrêter une habitude tenace : déclencheurs cartographiés, remplaçants concrets, plan des premiers jours et gestion des rechutes.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [407, 493]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : monter un dossier de financement de formation : dispositif adapté, pièces exigées, argumentaire et calendrier de dépôt.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [73, 209]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : installer des rituels d'équipe utiles et durables (standups, revues hebdo, démos) qui ne deviennent pas des réunions de plus.

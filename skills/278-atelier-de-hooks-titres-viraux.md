@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [3, 147]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des accroches qui arrêtent le scroll : hooks, titres et trois premières secondes de vidéo pensés pour la plateforme cible.

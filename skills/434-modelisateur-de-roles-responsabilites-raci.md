@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [424, 426]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : clarifier qui fait quoi : matrice de rôles lisible, une personne accountable par décision, zones grises traitées et validation par les concernés.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [5, 104]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un livre lu (ou écouté) en fiche de lecture utile : idées clés, citations, applications concrètes.

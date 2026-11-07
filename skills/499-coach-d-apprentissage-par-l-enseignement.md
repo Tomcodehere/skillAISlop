@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [295, 432]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : apprendre en enseignant : sujet maîtrisé à hauteur de transmission, support pédagogique construit et session réelle avec retours.

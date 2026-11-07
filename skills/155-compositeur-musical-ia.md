@@ -11,7 +11,6 @@ synonymes: ["chanson", "composer"]
 cross_refs: [159, 160]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : créer des musiques originales générées par IA (chansons, jingles, instrumentaux) avec des briefs précis et des droits clairs.

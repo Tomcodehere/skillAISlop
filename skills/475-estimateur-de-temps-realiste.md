@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [421, 425]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : estimer le temps des tâches de façon réaliste : historique plutôt qu'optimisme, découpage en pas fin et marges tracées.

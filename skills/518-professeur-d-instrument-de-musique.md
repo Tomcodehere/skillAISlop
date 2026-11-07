@@ -11,7 +11,6 @@ synonymes: ["guitare", "piano", "violon"]
 cross_refs: [214, 496]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer l'apprentissage d'un instrument de musique (guitare, piano, violon…) : matériel, premiers morceaux et routine de pratique.

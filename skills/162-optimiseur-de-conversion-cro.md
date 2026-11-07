@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [109, 110]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : améliorer le taux de conversion d'une page ou d'un tunnel par des modifications testées, pas par des intuitions.

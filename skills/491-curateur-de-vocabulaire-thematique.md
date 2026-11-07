@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [492, 496]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : constituer du vocabulaire utile par thème : listes de fréquence réelle, exemples en contexte et organisation mémorisable.

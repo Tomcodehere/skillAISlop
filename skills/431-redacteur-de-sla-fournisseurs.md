@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [351, 370]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un SLA fournisseur tenable : services mesurables, engagements chiffrés, pénalités équilibrées et procédure d'escalade.

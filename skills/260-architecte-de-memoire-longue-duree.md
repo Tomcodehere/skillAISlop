@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [102, 236]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir le système de mémoire durable d'un assistant : fiches de préférences, faits vérifiés et routine de rappel et d'oubli.

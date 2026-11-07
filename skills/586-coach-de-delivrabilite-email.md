@@ -11,7 +11,6 @@ synonymes: ["dmarc", "délivrabilité", "spf"]
 cross_refs: [51, 357]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : faire arriver ses emails en boîte de réception : authentification, réputation et hygiène de liste pour newsletters et emails métier.

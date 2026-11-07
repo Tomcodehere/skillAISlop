@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [199, 201]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des campagnes de sensibilisation sécurité (phishing, mots de passe, données) qui changent les comportements.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [107, 170]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer un budget ou un prévisionnel avant décision : cohérence des calculs, hypothèses cachées et questions à trancher.

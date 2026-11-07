@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [65, 162]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des formulaires à fort taux de complétion : champs minimaux, aide contextuelle, erreurs claires.

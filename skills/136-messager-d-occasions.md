@@ -11,7 +11,6 @@ synonymes: ["carte de vœux", "occasions spéciales", "vœux"]
 cross_refs: [2, 75]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des messages d'occasion (vœux, remerciements, faire-part) personnels et justes en ton.

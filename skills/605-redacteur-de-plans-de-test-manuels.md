@@ -11,7 +11,6 @@ synonymes: ["critères d'acceptation"]
 cross_refs: [67, 178]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des plans de test manuels exécutables : scénarios pas à pas avec critères d'acceptation vérifiables.

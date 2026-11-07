@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [194, 197]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : placer les points de contrôle humains d'un agent : où l'approbation est requise, avec quel niveau d'urgence et quel délai acceptable.

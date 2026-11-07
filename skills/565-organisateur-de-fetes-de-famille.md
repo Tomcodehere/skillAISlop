@@ -11,7 +11,6 @@ synonymes: ["réception"]
 cross_refs: [221, 564]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : organiser une fête de famille (mariage, anniversaire, départ) : budget, prestataires, logistique et diplomatie, sans y perdre sa santé.

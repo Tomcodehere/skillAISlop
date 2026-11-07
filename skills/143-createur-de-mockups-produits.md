@@ -11,7 +11,6 @@ synonymes: ["mockup", "prototype"]
 cross_refs: [118, 139]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : incruster virtuellement un logo ou un design sur des supports réels (packaging, textile, signalétique) avec des instructions réalistes.

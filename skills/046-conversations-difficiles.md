@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [45]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer un entretien délicat (feedback dur, conflit, annonce) pour qu'il reste constructif et aboutisse.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [92, 349]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer la qualité d'un jeu de données : complétude, exactitude, unicité, fraîcheur et cohérence, avec un rapport d'écarts priorisés.

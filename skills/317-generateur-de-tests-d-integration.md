@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [67, 252]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : générer les tests d'intégration qui comptent : les contrats entre services, les parcours de bout en bout internes, sans doublonner les tests unitaires.

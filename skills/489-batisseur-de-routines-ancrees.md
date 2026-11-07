@@ -11,7 +11,6 @@ synonymes: ["rituel du matin", "routine"]
 cross_refs: [468, 488]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : installer des routines qui tiennent : déclencheurs existants, progression par petites marches et résistance aux jours manqués.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [466, 468]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : orchestrer la logistique familiale : planning partagé, responsabilités réparties, transports optimisés et solution de repli.

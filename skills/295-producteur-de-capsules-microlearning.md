@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [201, 299]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des capsules d'apprentissage courtes et scénarisées : une compétence par capsule, un format vidéo de moins de 5 minutes avec exercice d'application.

@@ -11,7 +11,6 @@ synonymes: ["agenda", "calendrier", "planifier ma semaine"]
 cross_refs: [424, 465]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : opérer un calendrier de réunions obèse : suppression justifiée, remplacement par écrit, durée raccourcie et temps protégé.

@@ -11,7 +11,6 @@ synonymes: ["gpl", "licence", "mit"]
 cross_refs: [88, 267]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : choisir une licence open source pour son projet et vérifier la conformité des dépendances utilisées.

@@ -11,7 +11,6 @@ synonymes: ["transcription", "transcrire"]
 cross_refs: [134, 355]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer une transcription brute en texte exploitable : ponctuation, hésitations nettoyées, locuteurs identifiés, sans déformer les propos.

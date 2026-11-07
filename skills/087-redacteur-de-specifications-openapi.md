@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [79, 180]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un contrat d'API complet et lisible (OpenAPI/Swagger) qui fait foi entre équipes.

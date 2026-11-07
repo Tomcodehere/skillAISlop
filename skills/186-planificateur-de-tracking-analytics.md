@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [107, 109]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir le plan de mesure d'un produit (événements, propriétés, moments) avant d'implémenter l'analytique.

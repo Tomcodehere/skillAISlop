@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [32, 103]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : détecter les signaux faibles d'un marché avant qu'ils ne deviennent des tendances majeures, et en évaluer la pertinence pour sa stratégie.

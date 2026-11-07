@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [24, 378]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : adopter la dictée vocale comme flux de travail : usages adaptés, méthodes de formulation et correction efficace.

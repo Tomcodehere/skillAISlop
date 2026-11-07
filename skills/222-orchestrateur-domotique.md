@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [71, 72]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des automatisations de maison connectée qui simplifient vraiment la vie quotidienne.

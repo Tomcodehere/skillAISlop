@@ -11,7 +11,6 @@ synonymes: ["contes", "enfants", "vulgariser"]
 cross_refs: [11, 40]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : expliquer un sujet complexe à un enfant de 6 à 12 ans, avec justesse et sans condescendance.

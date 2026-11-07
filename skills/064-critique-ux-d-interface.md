@@ -11,7 +11,6 @@ synonymes: ["audit ux", "critique ux"]
 cross_refs: [55, 65]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer une interface ou un parcours et produire un audit priorisé, actionnable, adossé aux règles reconnues.

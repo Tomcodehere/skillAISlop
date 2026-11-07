@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [66, 154]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir le parcours d'un agent vocal ou serveur IVR : arbres de décision, scripts de dialogues, gestion des silences et transfert vers l'humain.

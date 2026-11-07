@@ -11,7 +11,6 @@ synonymes: ["accent", "prononcer"]
 cross_refs: [491, 496]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : améliorer sa prononciation : sons prioritaires par langue, exercices ciblés et feedback d'auto-écoute.

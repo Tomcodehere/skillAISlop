@@ -11,7 +11,6 @@ synonymes: ["examen"]
 cross_refs: [5]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : simuler un examen complet dans les conditions réelles, puis débriefyer pour progresser.

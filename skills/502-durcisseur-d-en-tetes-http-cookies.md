@@ -11,7 +11,6 @@ synonymes: ["csp", "en-têtes http", "hsts"]
 cross_refs: [70, 501]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : durcir la configuration HTTP d'un site : en-têtes de sécurité, cookies et CORS, sans casser les fonctionnalités.

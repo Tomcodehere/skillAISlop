@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [71, 99]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un serveur MCP qui connecte un assistant IA à un outil ou une source de données métier.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [37, 194]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Cas d'usage
 
 **Objectif** : protéger un système à base de LLM contre les attaques par injection de prompt et les détournements d'instructions.

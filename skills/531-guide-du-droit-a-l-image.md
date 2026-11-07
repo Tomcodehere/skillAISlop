@@ -11,7 +11,6 @@ synonymes: ["photographier"]
 cross_refs: [137, 189]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : savoir qui peut photographier qui et publier quoi : autorisations, exceptions, retraits et recours en pratique.

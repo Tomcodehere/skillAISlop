@@ -11,7 +11,6 @@ synonymes: ["scraper", "scraping"]
 cross_refs: [69, 92]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer des pages web non structurées en données propres et exploitables (CSV, JSON).

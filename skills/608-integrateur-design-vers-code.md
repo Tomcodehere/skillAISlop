@@ -11,7 +11,6 @@ synonymes: ["figma", "handoff"]
 cross_refs: [143, 181]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : traduire des maquettes Figma en composants de code fidèles, accessibles et cohérents avec le design system.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [93, 111]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un score de propension : probabilité qu'un client réalise l'action visée, variables utiles, seuils d'action et validation honnête.

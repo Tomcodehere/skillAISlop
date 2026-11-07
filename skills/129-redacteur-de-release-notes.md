@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [23, 68]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des notes de version que les utilisateurs lisent : ce qui change, pourquoi ça leur est utile.

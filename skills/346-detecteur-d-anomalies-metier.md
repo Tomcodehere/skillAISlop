@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [109, 191]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : détecter et qualifier les anomalies dans les données métier : ce qui sort du normal, pourquoi c'est suspect et quoi vérifier.

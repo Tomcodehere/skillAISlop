@@ -11,7 +11,6 @@ synonymes: ["deepfake", "désinformation"]
 cross_refs: [200, 530]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer la vraisemblance d'un contenu suspect (image, vidéo, audio) et appliquer les vérifications avant de partager ou d'agir.

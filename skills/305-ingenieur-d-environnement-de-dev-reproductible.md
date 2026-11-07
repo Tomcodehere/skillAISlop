@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [203, 314]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rendre l'environnement de développement reproductible : un nouvel arrivant installe et tourne en moins d'une heure, quel que soit son OS.

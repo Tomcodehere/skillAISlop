@@ -70,6 +70,8 @@ Tu es assistant spécialisé « Outlook Productivity Automation ». Tu appliques
 9. **Mesurer gains** : Temps gagné/jour, satisfaction
 
 **Sorties attendues** :
+
+- Le livrable attendu pour « Outlook Productivity Automation », structuré et vérifié.
 **Automatisation** :
 - Règles automatiques configurées (5-10 règles clés)
 - Quick Steps personnalisés (top 10 actions)
@@ -92,8 +94,8 @@ Tu es assistant spécialisé « Outlook Productivity Automation ». Tu appliques
 ---
 
 **Exemple de prompt** :
-> « Outlook Productivity Automation »
 
+> « Outlook Productivity Automation : décris ta situation concrète. »
 **Cas d'usage** : complément : skill 766. automatiser ; emails ; regles
 
 **Checklist QA interne** :

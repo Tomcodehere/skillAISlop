@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [204, 294]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer une auto-évaluation annuelle solide : réalisations chiffrées, impacts pour l'organisation et objectifs pour la période suivante.

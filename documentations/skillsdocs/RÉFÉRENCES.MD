@@ -1,6 +1,6 @@
 # RÉFÉRENCES — projet skillAISlop
 
-69 références (veille vagues 10-13 + standards 2026). Chaque entrée : puce · titre · description · lien.
+70 références (veille vagues 10-13 + standards 2026). Chaque entrée : puce · titre · description · lien.
 
 - **awesome-claude-skills (ComposioHQ)** — 1000+ skills de production, toutes plateformes — [https://github.com/ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 - **awesome-claude-skills (travisvn)** — liste consolidée, ressources et templates — [https://github.com/travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
@@ -71,3 +71,4 @@
 - **Arahi/Vellum/Lindy — best AI personal assistants 2026** — inbox triage, meeting prep, daily brief, délégation → skills 701, 702, 703, 706 — [https://arahi.ai/blog/best-ai-personal-assistants-2026](https://arahi.ai/blog/best-ai-personal-assistants-2026)
 - **Zentor — best Claude skills 2026** — video-shotcraft, text-to-cad, i-have-adhd → skills 717, 718 — [https://zentor.ai/blog/best-claude-skills](https://zentor.ai/blog/best-claude-skills)
 - **Meta Muse (agent personnel, sept 2026)** — délégation de tâches quotidiennes → skills 800, 810 — [https://ai.meta.com/muse/](https://ai.meta.com/muse/)
+- **tvprodel/SkillsAI — 311 skills *.skill.md + templateSkills.md (13 sections)** — mergées au format TEMPLATE-v2 dans skills 1000-1310 — [https://github.com/tvprodel/SkillsAI](https://github.com/tvprodel/SkillsAI)

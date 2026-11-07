@@ -11,7 +11,6 @@ synonymes: ["couture", "céramique", "tricot"]
 cross_refs: [218, 473]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : démarrer un loisir créatif manuel (tricot, couture, céramique, bois) avec le bon premier projet et une progression satisfaisante.

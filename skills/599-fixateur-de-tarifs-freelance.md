@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [45, 563]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : fixer et défendre ses tarifs de freelance : prix de journée calculé, devis clairs et hausses négociées sans perdre ses clients.

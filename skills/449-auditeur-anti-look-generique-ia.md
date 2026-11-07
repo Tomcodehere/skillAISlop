@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [362, 399]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : traquer le rendu « générique IA » dans un contenu ou un design : tics visuels et textuels, uniformité, absence de point de vue — et le corriger.

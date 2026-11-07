@@ -11,7 +11,6 @@ synonymes: ["crash", "incident production", "panne prod"]
 cross_refs: [89, 199]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : diagnostiquer un incident de production à partir des logs, métriques et traces pour identifier la cause première sous pression temporelle.

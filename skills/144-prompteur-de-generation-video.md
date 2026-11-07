@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [52, 146]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des prompts de génération vidéo (clips animés, plans d'illustration) cohérents d'un plan à l'autre.

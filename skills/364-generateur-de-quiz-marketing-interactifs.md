@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [111, 174]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : créer un quiz marketing qui qualifie et convertit : questions de qualification, résultats personnalisés, capture naturelle de contact.

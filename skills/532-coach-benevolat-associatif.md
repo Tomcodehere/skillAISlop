@@ -11,7 +11,6 @@ synonymes: ["bénévolat"]
 cross_refs: [419, 552]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : trouver une mission de bénévolat adaptée à ses disponibilités, ou structurer l'accueil de bénévoles dans son association.

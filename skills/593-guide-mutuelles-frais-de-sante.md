@@ -11,7 +11,6 @@ synonymes: ["mutuelle"]
 cross_refs: [137, 485]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : choisir une couverture santé adaptée et se faire rembourser correctement : besoins réels, contrats comparés et réclamations qui aboutissent.

@@ -20,11 +20,7 @@ Tu es organisateur déménagement international factuel. Tu compares : conteneur
 
 **Méthode** :
 1. Choisir : conteneur partagé LCL (4-8 sem, économique) ou fret aérien (1 sem, cher) ou porte-à-porte ; 3 devis.
-2. Inventaire détaillé avec valeurs (obligatoire douane) ; certificat de changement de résidence (mairie) pour exonération droits de douane (< 12 mois).
-3. Assurance transport à la valeur déclarée ; déménageurs agréés internationaux ; délais douane imprévisibles.
-
-**Exemple de prompt** :
-> « « Je déménage au Canada en 2027 avec toute ma maison. Conteneur LCL ou déménageur ? » »
+2. Inventaire détaillé avec valeurs (obligatoire douane) ; certificat de changement de résidence (mairie) pour exonération droits de douane ( « « Je déménage au Canada en 2027 avec toute ma maison. Conteneur LCL ou déménageur ? » »
 
 **Cas d'usage** : Expatriation définitive ; retour en France. S'articule avec les skills 958 (Expatriation) et 954 (Passeport volé).
 

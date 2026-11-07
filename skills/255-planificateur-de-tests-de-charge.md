@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [82, 253]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un plan de tests de charge (scénarios, rampes, seuils) et interpréter les résultats pour valider la tenue d'un service.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [4, 16]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un courrier formel efficace (réclamation, contestation, demande administrative) qui obtient une réponse.

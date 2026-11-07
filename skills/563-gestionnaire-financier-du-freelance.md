@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [297, 371]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : gérer les finances d'un freelance : prix de journée, provisionnement des charges, trésorerie irrégulière et rythme de facturation.

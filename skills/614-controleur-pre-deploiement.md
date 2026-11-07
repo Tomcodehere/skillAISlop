@@ -11,7 +11,6 @@ synonymes: ["not ready", "preflight"]
 cross_refs: [467, 508]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : donner un verdict READY / NOT READY avant chaque mise en production, à partir d'une checklist de vérifications.

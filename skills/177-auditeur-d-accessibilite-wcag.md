@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [64, 65]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer l'accessibilité d'un produit numérique (écran, parcours) et livrer un plan de mise en conformité priorisé.

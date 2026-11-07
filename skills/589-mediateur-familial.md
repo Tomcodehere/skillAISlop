@@ -11,7 +11,6 @@ synonymes: ["fratrie"]
 cross_refs: [46, 246]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : désamorcer les conflits familiaux (succession, aide aux parents, fratrie) par la médiation structurée avant la rupture.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [37, 190]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger la charte d'usage de l'IA d'une organisation : usages permis, interdits, règles de confidentialité et de transparence.

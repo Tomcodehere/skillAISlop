@@ -11,7 +11,6 @@ synonymes: ["integration nouvelle equipe", "onboarding"]
 cross_refs: [50, 207]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir le parcours d'accueil d'un nouveau collaborateur, du jour 1 au jour 90, qui rend autonome rapidement.

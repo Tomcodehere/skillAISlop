@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [77, 100]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir les fonctions qu'un agent IA peut appeler (schémas, descriptions, gestion d'erreurs) pour agir de façon fiable.

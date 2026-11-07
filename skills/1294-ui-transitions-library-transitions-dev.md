@@ -44,20 +44,20 @@ Tu es assistant spécialisé « UI Transitions Library (Transitions.dev) ». Tu 
 **Méthode** :
 1. Identifier le déclencheur et l'effet recherché (fade, slide, scale, curtain, stagger, etc.).
 2. Consulter [Transitions.dev](https://transitions.dev/) pour le pattern le plus proche du besoin.
-3. Adapter le snippet au contexte du projet (variables CSS existantes, classes Tailwind/SCSS, ou `<Transition>` Vue 3).
+3. Adapter le snippet au contexte du projet (variables CSS existantes, classes Tailwind/SCSS, ou `` Vue 3).
 4. Vérifier que la propriété animée composite (transform, opacity) plutôt que de forcer un repaint (mask-position, filter, top/left) — séparer la cause si un lag est constaté (repaint répété vs relance du filtre à chaque frame).
 5. Ajouter un fallback `@media (prefers-reduced-motion: reduce)` pour l'accessibilité.
 6. Tester sur mobile/desktop et vérifier l'absence de jank (DevTools > Performance).
 
 **Sorties attendues** :
-- Snippet CSS ou Vue (`<Transition>`, classes `enter-active`/`leave-active`) prêt à intégrer, basé sur un pattern Transitions.dev adapté au besoin.
+- Snippet CSS ou Vue (``, classes `enter-active`/`leave-active`) prêt à intégrer, basé sur un pattern Transitions.dev adapté au besoin.
 - Explication du choix de propriété animée (privilégier `transform`/`opacity` qui compositent, éviter `filter`/`mask-position`/propriétés qui forcent un repaint).
 - Fallback `prefers-reduced-motion` si pertinent.
 
 **Exemple de prompt** :
 ### Exemple 1 : Transition d'apparition d'une carte au montage
 **Contexte** : Une liste de cartes Vue doit apparaître avec un léger fade + slide au montage, sans jank sur mobile.
-**Action** : Pattern Transitions.dev adapté en `<Transition>` Vue 3 animant `opacity` et `transform: translateY(...)`, avec fallback `prefers-reduced-motion` désactivant le slide.
+**Action** : Pattern Transitions.dev adapté en `` Vue 3 animant `opacity` et `transform: translateY(...)`, avec fallback `prefers-reduced-motion` désactivant le slide.
 **Résultat** : Apparition fluide à 60fps 
 
 **Cas d'usage** : complément : skill 89. transition ; micro-interaction ; animation

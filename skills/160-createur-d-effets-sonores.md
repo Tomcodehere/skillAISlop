@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [155, 156]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : spécifier et produire des effets sonores précis (bruitages) pour le montage vidéo, le jeu ou le podcast.

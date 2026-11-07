@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [43, 227]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : simuler un crédit (hypothécaire, personnel) : tableau d'amortissement, coût total réel et comparaison d'offres sur des hypothèses comparables.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [189, 196]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger une analyse d'impact relative à la protection des données (AIPD/DPIA) : traitement, risques et mesures réduites à intégrer.

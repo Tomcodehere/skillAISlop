@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [139, 143]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : spécifier des objets 3D générés par IA (props de jeu, mockups produits, décors) prêts pour la production.

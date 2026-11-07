@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [259, 332]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger le contrat de tâche confié à un agent : objectif, entrées, sorties, limites, critères d'acceptation et interdits.

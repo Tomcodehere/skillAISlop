@@ -19,7 +19,7 @@ cross_refs: []
 Tu es le routeur de la bibliothèque de skills. Pour chaque message utilisateur, tu suis ce protocole en 4 étapes, sans jamais sauter l'étape 1 :
 
 1. **Classifier** — Résous l'intention dominante en cascade, du plus rapide au plus exhaustif :
-   a. **Base SQLite (si l'environnement exécute des scripts)** — extrais le script du canvas « routage-sql-skills » puis : `routage.py build` (une fois) · `routage.py route "<demande>"`. La candidate renvoyée (2-3 lignes + ancre `## N.` de sa section) évite toute lecture de table. Exit 0 : candidate trouvée, passe à l'étape 2 · exit 1 : domaine plausible renvoyé, saute en c avec ce domaine · exit 2 : aucune piste, continue en b.
+   a. **Base SQLite (si l'environnement exécute des scripts)** — extrais le script du canvas « routage-sql-skills » puis : `routage.py build` (une fois) · `routage.py route ""`. La candidate renvoyée (2-3 lignes + ancre `## N.` de sa section) évite toute lecture de table. Exit 0 : candidate trouvée, passe à l'étape 2 · exit 1 : domaine plausible renvoyé, saute en c avec ce domaine · exit 2 : aucune piste, continue en b.
    b. **Index inversé** — si la demande contient un mot-clé canonique de l'index ci-dessous (« TDD », « RACI », « README », « dbt »…), la skill est résolue directement : passe à l'étape 2.
    c. **Carte des domaines** — sinon, identifie le domaine dominant dans la carte des domaines, puis lis uniquement son bloc dans la table de routage (regroupée par domaine).
    d. **Arbre de décision** — en cas d'hésitation entre plusieurs domaines, arbitre avec l'arbre ci-dessous.
@@ -806,7 +806,7 @@ flowchart TD
     Q6 -->|Créativité & apprentissage (vague 8)| D28[515 Théâtre · 516 Chant · 517 Danse · 518 Instrument · 521 Montage vidéo · 522 Photo · 546 Prompt images · 557 Créatifs manuels · 559 Maths · 560 Thèse · 567 Stratégie jeux · 569 Musées · 570 Devoirs · 571 Orientation · 573 Chansons · 574 Retouche · 576 Streamer · 580 Code · 591 Bourses]
     Q6 -->|Pro, business & droit (vague 8)| D29[512 Crypto · 513 Web3 · 519 Bourse · 527 Franchise · 528 Surendettement · 529 Voisinage · 531 Droit image · 532 Bénévolat · 534 Poésie · 535 Journal intime · 537 Récits de vie · 538 Humaniseur IA · 539 Obsidian · 541 Audit budget · 548 Marque perso · 549 Interculturel · 550 Neurodiversité · 551 Vision · 552 Association · 553 Licences OSS · 554 Location · 555 Droit travail · 562 Micro-entreprise · 563 Finances freelance · 572 Portfolio · 586 Délivrabilité · 587 Logistique e-com · 588 Compta TPE · 590 Séparation · 594 Petites créances · 595 Copropriété · 599 Tarifs freelance · 600 Bilan]
     Q6 -->|Dev, data, IA & produit (vague 8)| D30[514 Robotique · 523 Regex · 524 Game dev · 525 Dev mobile · 526 API design · 540 Vibe coding · 542 Admin BDD · 543 Extraction OCR · 544 Bots · 545 Site statique · 547 Stats · 561 Deepfakes · 575 Gameplay · 577 Supervision IA · 598 Boucle prompts]
-    Q6 -->|Aucun| F[Réponse directe<br/>+ suggestion de créer une skill]
+    Q6 -->|Aucun| F[Réponse directe+ suggestion de créer une skill]
 ```
 
 **Variante « routage léger »** (pour petits modèles, à copier comme instruction système à la place du protocole complet) :
@@ -878,7 +878,6 @@ Les skills 19-50 s'inspirent des skills, prompts et workflows les plus populaire
 - [Snyk — Top Claude Skills cybersécurité](https://snyk.io/fr/articles/top-claude-skills-cybersecurity-hacking-vulnerability-scanning/) — audit de vulnérabilités, scans OWASP → skill 70
 - [TimOnWeb — 5 security skills pour Claude Code](https://timonweb.com/ai/i-checked-5-security-skills-for-claude-code-only-one-is-worth-installing/) — audit contextuel vs checklist aveugle → skill 70
 - [bestclaudecodeskills — Testing & Security](https://bestclaudecodeskills.com/categories/testing-security) — skills de tests, approche test-first → skill 67
-
 
 **Vague 4 (skills 76-250) — le grand élargissement, inspiré des « 100 compétences IA 2026 »** :
 

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [240, 571]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : trouver et décrocher les aides au financement des études : bourses, dispositifs locaux, dossiers complets et délais tenus.

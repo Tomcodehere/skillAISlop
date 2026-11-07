@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [27, 50]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : créer des modèles de documents réutilisables (comptes rendus, devis, rapports) qui standardisent la production d'équipe.

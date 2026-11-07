@@ -11,7 +11,6 @@ synonymes: ["organiser une réunion", "préparer une réunion", "réunion"]
 cross_refs: [24, 72]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer une réunion qui vaut le temps de ses participants : objectif, ordre du jour, pré-lecture, décisions attendues.

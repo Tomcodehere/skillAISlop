@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [75, 136]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier un événement de bout en bout : budget, logistique, programme, invitations, plan de repli.

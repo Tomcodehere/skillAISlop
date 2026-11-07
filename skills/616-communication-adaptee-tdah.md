@@ -11,7 +11,6 @@ synonymes: ["préambule", "tdah"]
 cross_refs: [26, 550]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : adapter les réponses de l'assistant pour des lecteurs TDAH : action d'abord, étapes numérotées courtes, aucun préambule.

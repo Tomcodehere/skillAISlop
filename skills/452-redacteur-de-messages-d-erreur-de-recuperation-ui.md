@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [390, 453]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir les écrans d'échec qui récupèrent : erreurs humaines, techniques et de flux, avec le chemin de reprise conçu pour chacune.

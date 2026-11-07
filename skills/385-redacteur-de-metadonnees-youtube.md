@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [147, 278]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : optimiser les métadonnées d'une vidéo YouTube : titre cliquable sans putaclic, description qui informe, chapitres et balises utiles.

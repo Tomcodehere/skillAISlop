@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 202]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rendre une entreprise attirante pour les candidats avec des contenus honnêtes : pages carrières, posts, témoignages d'équipe.

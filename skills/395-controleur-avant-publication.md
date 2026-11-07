@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [134, 235]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : contrôler un contenu sensible avant publication : faits vérifiés, sources datées, ton calibré, risques identifiés et décision assumée.

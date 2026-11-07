@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 51]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire un communiqué de presse que les journalistes lisent jusqu'au bout et qu'ils peuvent reprendre tel quel.

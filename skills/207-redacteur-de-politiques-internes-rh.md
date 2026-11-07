@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [190, 203]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger les politiques internes (télétravail, congés, matériel, usage des outils) claires, applicables et défendables.

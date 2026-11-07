@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [434, 447]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir les rôles et permissions d'un produit : rôle par besoin réel, principe du minimum nécessaire et auditabilité des accès.

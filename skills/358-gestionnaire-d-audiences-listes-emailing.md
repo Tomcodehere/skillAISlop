@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [189, 357]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : assainir et structurer une liste emailing : consentements, segmentation, hygiène (bounces, inactifs) et conformité.

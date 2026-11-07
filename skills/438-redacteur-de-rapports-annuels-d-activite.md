@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [376, 400]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un rapport annuel d'activité lu : faits et chiffres hiérarchisés, difficultés assumées, récits porteurs et annexes pour les curieux.

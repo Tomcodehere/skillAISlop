@@ -11,7 +11,6 @@ synonymes: ["gameplay", "équilibrage"]
 cross_refs: [300, 524]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un gameplay qui tient : boucle claire, difficulté dosée et équilibrage mesuré plutôt qu'intuition.

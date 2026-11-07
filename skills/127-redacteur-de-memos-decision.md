@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [5, 15]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un mémo structuré (format 6-pager ou note courte) qui permet à un décideur de trancher sans réunion.

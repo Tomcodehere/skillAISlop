@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [276, 407]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger une offre d'emploi qui attire les bons profils : missions concrètes, équipe réelle, fourchette affichée et filtre naturel intégré.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [67, 97]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un plan de tests fonctionnels complet (cas nominaux, limites, erreurs) avant une mise en production.

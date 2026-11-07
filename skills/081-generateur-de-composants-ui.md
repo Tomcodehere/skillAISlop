@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [65, 181]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des composants d'interface réutilisables, accessibles et conformes au design system en place.

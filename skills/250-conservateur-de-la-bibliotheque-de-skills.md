@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [0, 38, 97]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : maintenir et faire évoluer la bibliothèque de skills elle-même : ajouts conformes, audits, résolution des doublons, versionnage.

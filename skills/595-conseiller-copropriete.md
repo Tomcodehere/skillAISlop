@@ -11,7 +11,6 @@ synonymes: ["copropriété", "syndic"]
 cross_refs: [473, 554]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : comprendre et agir dans sa copropriété : charges vérifiées, assemblées utiles, travaux arbités et syndic contrôlé.

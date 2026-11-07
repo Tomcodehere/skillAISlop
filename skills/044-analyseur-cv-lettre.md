@@ -11,7 +11,6 @@ synonymes: ["curriculum", "resume"]
 cross_refs: [12]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : améliorer CV et lettre pour une offre précise, en maximisant la correspondance et l'impact.

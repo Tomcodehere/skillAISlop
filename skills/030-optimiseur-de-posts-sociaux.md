@@ -11,7 +11,6 @@ synonymes: ["post instagram", "réseaux sociaux", "social media"]
 cross_refs: [31]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : maximiser la portée et l'engagement d'un post existant ou à venir sur une plateforme donnée.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [6, 15, 21]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : imaginer l'échec du projet avant de le lancer, pour débusquer les risques que personne n'ose nommer.

@@ -11,7 +11,6 @@ synonymes: ["impro", "théâtre"]
 cross_refs: [208, 293]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : progresser en théâtre et improvisation : présence, écoute, personnages et lâcher-prise, seul ou en troupe.

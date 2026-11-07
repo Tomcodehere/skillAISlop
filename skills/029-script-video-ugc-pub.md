@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [3]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des scripts vidéo courte (UGC, TikTok, Reels, pub) qui accrochent en 3 secondes et convertissent.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [55, 124]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : obtenir des témoignages clients crédibles et utilisables : interview guidée, rédaction, validation.

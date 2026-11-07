@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [36, 107, 343]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : établir une seule définition par métrique d'entreprise : formule exacte, source, périmètre, exclusions et propriétaire.

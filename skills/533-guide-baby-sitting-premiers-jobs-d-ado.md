@@ -11,7 +11,6 @@ synonymes: ["baby", "sitter"]
 cross_refs: [43, 132]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : démarrer le baby-sitting et les premiers jobs d'adolescent en confiance : se rendre employable, tarifs, sécurité et cadre parental.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [19, 60]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : challenger une décision ou un plan en défendant systématiquement le point de vue opposé, pour la blinder.

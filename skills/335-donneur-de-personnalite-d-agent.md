@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [33, 34]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir la personnalité d'un agent : traits, registre, limites du personnage et cohérence across conversations.

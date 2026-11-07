@@ -11,7 +11,6 @@ synonymes: ["landing page", "page d'atterrissage"]
 cross_refs: [3, 110]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire une page de vente complète qui convertit : promesse, preuve, objections levées, appel à l'action.

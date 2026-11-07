@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [440, 444]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mener une investigation forensique : préservation des preuves, chronologie reconstruite, périmètre de compromission et constats factuels.

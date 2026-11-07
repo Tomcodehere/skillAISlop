@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [28, 245]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : nettoyer et réorganiser une arborescence de fichiers : renommage cohérent, classement par convention, suppression des doublons et des orphelins.

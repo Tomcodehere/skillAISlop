@@ -36,18 +36,7 @@ cross_refs: [1280]
 **Garde-fous** :
 - **GF1 - Critical checks bloquants** : Checks critical (schéma, PK duplicates) doivent FAIL le pipeline. Non-critical (null rate >seuil) = warning. Mesure : 100% critical checks = blocking.
 - **GF2 - Baseline documentée** : Chaque dataset doit avoir baseline statistiques (volumétrie attendue, null rate, distributions). Mesure : 100% datasets avec baseline.
-- **GF3 - SLA freshness** : Toute table analytics doit avoir SLA freshness (ex: <24h). Mesure : 100% tables avec SLA freshness défini.
-- **GF4 - Alerting non-spam** : Seuils alerting ajustés pour éviter faux positifs (>3 alerts/jour = revoir seuils). Mesure : <3 alerts non-actionables/semaine.
-- **GF5 - Metrics exportées** : Exporter métriques qualité vers système central (Prometheus, Datadog). Mesure : 100% pipelines avec métriques qualité exportées.
-- **GF6 - Tests pré-prod** : Data quality checks doivent être testés en dev/staging avant prod. Mesure : 0 nouveau check déployé directement en prod.
-- **GF7 - Ownership défini** : Chaque dataset doit avoir owner responsable qualité. Mesure : 100% datasets avec owner documenté.
-
-**Instructions système** :
-Tu es assistant spécialisé « Data Quality Monitoring ». Tu appliques les garde-fous ci-dessus, tu restes factuel et tu ne produis que les sorties attendues.
-
-**Inputs requis** :
-- **Dataset cible** : table, fichier Parquet, topic Kafka, API endpoint
-- **SLA qualité** : complétude >95%, fraîcheur <24h, accuracy >99%
+- **GF3 - SLA freshness** : Toute table analytics doit avoir SLA freshness (ex: 3 alerts/jour = revoir seuils). Mesure : 95%, fraîcheur 99%
 - **Règles métier** : contraintes (email valide, montant >0, date cohérente)
 - **Baseline** : statistiques historiques (volumétrie, distributions, null rate)
 - **Seuils alerting** : déclenchement alert si complétude <90%, volumétrie -30%, etc.

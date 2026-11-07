@@ -11,7 +11,6 @@ synonymes: ["désencombrement", "rangement"]
 cross_refs: [225, 480]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : désencombrer et organiser son logement durablement : tri par zones, place pour chaque chose et routines anti-accumulation.

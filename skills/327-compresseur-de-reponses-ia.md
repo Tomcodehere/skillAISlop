@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [5, 100]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rendre une réponse IA compacte sans perte d'information : l'essentiel d'abord, le détail sur demande, zéro remplissage.

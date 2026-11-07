@@ -11,7 +11,6 @@ synonymes: ["anxiété", "respiration", "stress"]
 cross_refs: [72, 483]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : outiller la gestion du stress et de l'anxiété au quotidien par des techniques éprouvées et mesurables.

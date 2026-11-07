@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [277, 415]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un plan de développement individuel réaliste : objectif de progression, écarts mesurés, actions concrètes et jalons datés.

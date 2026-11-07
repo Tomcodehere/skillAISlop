@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [420, 421]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire des horaires tournants soutenables : couverture complète, équité entre équipes et repos réglementaire respecté.

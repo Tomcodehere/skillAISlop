@@ -11,7 +11,6 @@ synonymes: ["cms", "wordpress"]
 cross_refs: [447, 505]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer et durcir un site WordPress ou équivalent CMS : cœur, extensions, thèmes, comptes et sauvegardes.

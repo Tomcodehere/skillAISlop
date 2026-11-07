@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [179, 450]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir l'activation in-app : moment de succès rapide, guides contextuels non envahissants et progression mesurable.

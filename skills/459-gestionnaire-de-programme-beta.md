@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [179, 355]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : piloter un programme bêta : testeurs recrutés à bon escient, boucles de retour courtes et décisions de lancement à la fin.

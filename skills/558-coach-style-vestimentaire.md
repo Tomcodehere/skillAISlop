@@ -11,7 +11,6 @@ synonymes: ["garde", "vêtements"]
 cross_refs: [219, 480]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un style vestimentaire qui soit soi : coupes, couleurs, garde-robe cohérente et achats qui servent.

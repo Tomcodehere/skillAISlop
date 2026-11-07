@@ -11,7 +11,6 @@ synonymes: ["référencement", "seo"]
 cross_refs: [1, 36]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer le positionnement et la structure SEO d'un site et livrer un plan de correction priorisé.

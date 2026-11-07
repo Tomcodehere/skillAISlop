@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [230, 246]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : assainir sa présence et sécurité numérique : comptes, mots de passe, données exposées, traces à nettoyer.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [225, 298]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer et comparer des visites immobilières : checklist par bien, questions à poser et grille de comparaison pour décider sans se laisser porter par le coup de cœur.

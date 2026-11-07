@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [443, 446]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un NDA adapté : ce qu'il protège vraiment, durée réaliste, exclusions légitimes et sanctions proportionnées.

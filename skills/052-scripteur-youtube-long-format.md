@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [29, 53]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des scripts vidéo long format (6-15 min) structurés pour la rétention, adaptés au format.

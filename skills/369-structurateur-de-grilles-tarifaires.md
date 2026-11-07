@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [58, 457]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer une grille tarifaire lisible : paliers, inclusions nettes, options et logique de montée en gamme.

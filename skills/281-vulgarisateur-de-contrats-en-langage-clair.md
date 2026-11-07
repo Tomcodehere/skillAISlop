@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [16, 190]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : réécrire un contrat ou un document juridique en langage clair : chaque clause résumée en ce qu'elle oblige, interdit ou risque, sans dénaturer le texte.

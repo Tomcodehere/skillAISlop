@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [407, 415]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : accompagner un nouveau manager sur ses 90 premiers jours : posture, rituels, conversations difficiles et légitimité.

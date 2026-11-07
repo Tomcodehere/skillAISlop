@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [403, 424]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger les règles de modération d'une communauté : comportements attendus et interdits, échelle de sanctions, procédure d'appel.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [440, 445]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier un test d'intrusion utile : périmètre et règles définis, scénarios prioritaires, fenêtre encadrée et remédiation prête à suivre.

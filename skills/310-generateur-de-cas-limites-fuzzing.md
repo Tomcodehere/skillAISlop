@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [67, 317]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : casser une fonction avant la production : inventaire des cas limites et entrées hostiles, puis fuzzing ciblé.

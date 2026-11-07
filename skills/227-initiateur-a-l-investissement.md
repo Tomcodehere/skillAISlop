@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [43, 249]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : expliquer les bases de l'investissement personnel (risque, diversification, horizon) pour démarrer sans se faire piéger.

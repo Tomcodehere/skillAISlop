@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [84, 308]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mesurer honnêtement la performance d'un morceau de code : protocole de benchmark reproductible, variance contrôlée et rapport avant/après.

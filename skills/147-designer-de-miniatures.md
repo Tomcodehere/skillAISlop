@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [52, 139]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des miniatures (YouTube, podcasts, articles) qui donnent envie de cliquer sans tromper sur le contenu.

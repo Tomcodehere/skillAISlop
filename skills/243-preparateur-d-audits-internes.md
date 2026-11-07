@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [50, 199]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer une organisation à un audit (interne, client ou certificateur) : périmètre, preuves, écarts, plan de remédiation.

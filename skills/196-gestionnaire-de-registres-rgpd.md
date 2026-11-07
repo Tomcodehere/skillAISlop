@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [189, 190]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : constituer et tenir le registre des traitements de données personnelles d'une organisation.

@@ -11,7 +11,6 @@ synonymes: ["portfolio"]
 cross_refs: [44, 128]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un portfolio qui vend : sélection impitoyable, récits de projet et présentation adaptée aux clients visés.

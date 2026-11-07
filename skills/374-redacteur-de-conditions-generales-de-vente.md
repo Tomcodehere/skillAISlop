@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [190, 370]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des CGV utilisables : obligations claires, prix et taxes, livraison, garanties, limites de responsabilité et droit applicable.

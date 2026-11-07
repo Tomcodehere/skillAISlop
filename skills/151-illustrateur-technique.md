@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [22, 130]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des schémas et planches techniques explicatifs, exacts et légendés.

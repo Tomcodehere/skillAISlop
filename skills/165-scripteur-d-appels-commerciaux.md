@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [49, 54]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des trames d'appel (prospection, relance, qualification) qui sonnent humain et obtiennent un engagement suivant.

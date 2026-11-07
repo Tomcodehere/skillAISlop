@@ -11,7 +11,6 @@ synonymes: ["mentor", "mentorat"]
 cross_refs: [204, 205]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer un programme de mentorat d'entreprise : appariement, cadre, jalons, évaluation.

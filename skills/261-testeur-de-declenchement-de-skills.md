@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [97, 262]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mesurer si un ensemble de skills se déclenchent correctement : chaque description route-t-elle la bonne skill au bon moment, sans faux positif ni silence.

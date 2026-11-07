@@ -23,20 +23,14 @@ cross_refs: [576]
 - Transformation streaming (filtrage, agrégation fenêtrée, enrichissement)
 - Détection d'anomalies temps réel (fraude, intrusion, défaillances)
 - ML inference en temps réel (scoring, recommandations, prédictions)
-- Réplication CDC (Change Data Capture) avec latence <1 minute
-- Dashboards temps réel et metrics streaming
-
-**Hors périmètre** :
-- ❌ Batch processing (>1h latency) → etlPipelineDesignOrchestration.skill.md
+- Réplication CDC (Change Data Capture) avec latence 1h latency) → etlPipelineDesignOrchestration.skill.md
 - ❌ Architecture data lake → dataLakeArchitectureStorage.skill.md
 - ❌ Infrastructure Kafka/Kinesis (broker setup, scaling) → l'agent d'architecture cloud
 - ❌ ML model training → l'agent de machine learning
 - ❌ Requêtes SQL analytics → l'agent bases de données
 
 **Garde-fous** :
-- **GF1 - Checkpointing obligatoire** : Tout pipeline Flink/Spark doit avoir checkpointing activé (fault-tolerance). Mesure : 100% des jobs avec checkpoint interval <5min.
-- **GF2 - Watermarks pour event-time** : Utiliser event-time (timestamp événement) et non processing-time. Configurer watermarks pour gérer late events. Mesure : 0 job en processing-time sur données métier.
-- **GF3 - Back-pressure monitoring** : Monitorer consumer lag Kafka (<1min acceptable, >5min critique). Alerter si lag croissant. Mesure : alerte si lag >seuil.
+- **GF1 - Checkpointing obligatoire** : Tout pipeline Flink/Spark doit avoir checkpointing activé (fault-tolerance). Mesure : 100% des jobs avec checkpoint interval 5min critique). Alerter si lag croissant. Mesure : alerte si lag >seuil.
 - **GF4 - Idempotence sink** : Sink (écriture destination) doit être idempotent (upsert, deduplication). Mesure : 0 duplicate en cas de replay.
 - **GF5 - Schema registry** : Utiliser Avro/Protobuf + schema registry pour évolution schéma. Interdire JSON sans schéma. Mesure : 100% topics avec schéma.
 - **GF6 - Parallelism adaptatif** : Ajuster parallelism selon throughput (auto-scaling si cloud). Mesure : utilisation CPU 60-80% (ni sous-utilisé, ni saturé).

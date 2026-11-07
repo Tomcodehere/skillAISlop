@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [138, 390]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des macros de réponse support : gabarits réutilisables, personnalisables en 2 variables, ton constant et réponse réellement utile.

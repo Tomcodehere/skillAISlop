@@ -11,7 +11,6 @@ synonymes: ["proces verbal", "proces-verbal", "pv"]
 cross_refs: [24, 190]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des procès-verbaux irréprochables : décisions nettes, votes consignés, délégations tracées, language neutre et valeur légale.

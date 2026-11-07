@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [13, 103]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : trouver, évaluer et exploiter des jeux de données publics (open data) pour une question concrète.

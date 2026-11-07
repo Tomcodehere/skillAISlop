@@ -11,7 +11,6 @@ synonymes: ["compte rendu", "cr de reunion"]
 cross_refs: [4]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer des notes ou une transcription de réunion en compte rendu exploitable : décisions, actions, propriétaires.

@@ -11,7 +11,6 @@ synonymes: ["cold email", "demarchage"]
 cross_refs: [33, 49]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des séquences de prospection à froid qui obtiennent des réponses : email, LinkedIn, appel.

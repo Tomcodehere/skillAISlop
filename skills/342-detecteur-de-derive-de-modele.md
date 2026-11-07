@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [93, 338, 342]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : surveiller la dérive d'un modèle en production : distribution des entrées qui change, qualité qui s'érode, alerte avant la casse métier.

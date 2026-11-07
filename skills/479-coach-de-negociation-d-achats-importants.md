@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [473, 474]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : négocier un achat important (voiture, travaux, équipement) : prix de référence, leviers réels, échanges et sortie propre.

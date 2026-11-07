@@ -11,7 +11,6 @@ synonymes: ["screening cv", "trier les cv"]
 cross_refs: [202, 276]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : trier un vivier de candidatures avec une grille structurée : critères issus de la fiche de poste, notation motivée etshort-list traçable.

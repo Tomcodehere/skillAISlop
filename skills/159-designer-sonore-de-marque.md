@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 155]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir une identité sonore de marque (son logo, transitions, musique d'attente) cohérente et utilisable partout.

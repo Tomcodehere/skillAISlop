@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [304, 338]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tester un nouvel agent en shadow : il tourne en parallèle de l'existant sans agir, on compare décisions et sorties avant bascule.

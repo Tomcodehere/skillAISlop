@@ -11,7 +11,6 @@ synonymes: ["lightroom", "retouche"]
 cross_refs: [140, 522]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : maîtriser la retouche photo : développement RAW mesuré, workflow Lightroom et styles cohérents sans excès.

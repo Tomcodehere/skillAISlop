@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [32, 164]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : comprendre pourquoi des affaires sont gagnées ou perdues, et en tirer des changements concrets d'offre et de discours.

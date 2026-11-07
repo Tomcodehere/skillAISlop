@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [4, 65]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire les emails automatiques d'un service (confirmation, réinitialisation, livraison) pour qu'ils soient clairs et rassurants.

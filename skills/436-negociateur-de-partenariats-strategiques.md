@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [370, 427]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : négocier un partenariat stratégique : valeur créée pour chaque partie, périmètre clair, gouvernance et conditions de sortie.

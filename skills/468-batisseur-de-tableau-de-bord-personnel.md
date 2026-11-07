@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [489, 494]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : bâtir un tableau de bord personnel : 5-8 indicateurs qui comptent vraiment, suivi léger et revue hebdomadaire utile.

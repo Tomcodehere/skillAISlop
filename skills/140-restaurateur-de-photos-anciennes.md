@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [28, 139]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier la restauration numérique de photos anciennes (rayures, déchirures, colorisation) avec des instructions précises.

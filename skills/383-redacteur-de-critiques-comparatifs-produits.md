@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [123, 367]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des critiques et comparatifs produits crédibles : méthode d'évaluation annoncée, tests réels, verdict tranché et limites assumées.

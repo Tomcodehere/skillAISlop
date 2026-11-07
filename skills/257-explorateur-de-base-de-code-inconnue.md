@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [80, 130]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire un guide d'onboarding sur une base de code inconnue : carte du dépôt, flux principaux et premier changement réaliste.

@@ -11,7 +11,6 @@ synonymes: ["android", "flutter"]
 cross_refs: [79, 178]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : accompagner le développement d'une application mobile : stack adaptée, prototype et chemin vers les stores.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [1, 3]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : générer en série des fiches produits uniques, vendeuses et cohérentes pour une boutique en ligne.

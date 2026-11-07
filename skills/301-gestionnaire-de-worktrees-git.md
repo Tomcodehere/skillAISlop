@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [68, 316]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : isoler les travaux parallèles avec les worktrees Git : une branche par arborescence de travail, sans s'y retrouver perdu entre stash et commits cassés.

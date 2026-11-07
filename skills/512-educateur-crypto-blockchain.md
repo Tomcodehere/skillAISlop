@@ -11,7 +11,6 @@ synonymes: ["blockchain", "crypto"]
 cross_refs: [297, 530]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : expliquer clairement la crypto et la blockchain (fonctionnement, risques, vocabulaire) sans jamais donner de conseil d'investissement.

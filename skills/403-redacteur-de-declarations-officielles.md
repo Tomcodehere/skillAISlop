@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [190, 235]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger une déclaration officielle : position nette, faits vérifiés, cadre juridique respecté et porte de sortie pour la suite.

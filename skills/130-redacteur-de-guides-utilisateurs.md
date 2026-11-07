@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [23, 119]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire un guide utilisateur pas à pas qui permet de réussir une tâche sans aide humaine.

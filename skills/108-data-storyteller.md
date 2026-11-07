@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [13, 48]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer une analyse chiffrée en narration claire qui porte une décision, sans déformer les données.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [70, 87]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer un contrat d'API (cohérence, sécurité, versionnage) et livrer un rapport d'amélioration priorisé.

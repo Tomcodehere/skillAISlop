@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [64, 362]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : constituer un système de design tokens : couleurs, typographies, espacements et rayons nommés, structurés pour durer.

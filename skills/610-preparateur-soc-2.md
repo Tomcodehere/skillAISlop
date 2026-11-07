@@ -11,7 +11,6 @@ synonymes: ["soc 2", "tsc"]
 cross_refs: [190, 271]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer un audit SOC 2 en traduisant chaque critère TSC en contrôles internes et preuves concrètes.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [111, 167]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tenir un CRM à jour automatiquement : fiches contacts enrichies, activités loggées, étapes de pipeline mises à jour après chaque interaction.

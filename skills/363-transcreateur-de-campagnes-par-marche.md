@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 280]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : adapter une campagne à un autre marché : traduction des intentions, réécriture culturelle des accroches et révision des visuels et usages.

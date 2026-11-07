@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [377, 391]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier la remédiation d'accessibilité : audit des écarts priorisés, correctifs par gabarit et vérification par utilisateurs réels.

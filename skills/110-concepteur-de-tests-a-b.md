@@ -11,7 +11,6 @@ synonymes: ["a/b test", "split test", "testing"]
 cross_refs: [109, 162]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un test A/B solide : une hypothèse, une variable, une durée et un critère de décision définis à l'avance.

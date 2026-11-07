@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [407, 420]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : bâtir le plan de succession des postes clés : candidats internes identifiés, écarts connus, plans de préparation et risque de vacance chiffré.

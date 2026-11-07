@@ -11,7 +11,6 @@ synonymes: ["orientation"]
 cross_refs: [231, 497]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un choix d'orientation (filières, écoles, alternance) à partir des intérêts réels, des débouchés et d'un plan d'essais.

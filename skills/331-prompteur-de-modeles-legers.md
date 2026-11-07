@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [100, 265]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des prompts efficaces pour petits modèles locaux : consignes courtes, exemples fermes, formats contraints et attentes réalistes.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [55, 113]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : analyser des centaines de réponses ouvertes : codage en thèmes, fréquences, citations illustratives et synthèse actionnable.

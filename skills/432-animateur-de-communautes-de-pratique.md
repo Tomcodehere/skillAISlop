@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [405, 424]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : animer une communauté de pratique qui vit : rythme de rencontres, formats utiles, contributions reconnues et patrimoine documenté.

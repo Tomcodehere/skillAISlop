@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [61, 382]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des dialogues vivants : voix distinctes par personnage, sous-texte, rythme naturel et répliques au service de la scène.

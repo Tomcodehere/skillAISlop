@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [21, 67]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un document d'exigences produit (PRD) et des user stories directement exploitables par une équipe de développement.

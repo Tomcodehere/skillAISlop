@@ -11,7 +11,6 @@ synonymes: ["memorisation", "memoriser", "retenir par coeur"]
 cross_refs: [496, 498]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mémoriser durablement : techniques adaptées au type de contenu, palais de mémoire et images frappantes, vérification par rappel.

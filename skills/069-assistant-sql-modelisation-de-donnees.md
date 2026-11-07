@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [13, 36]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des requêtes SQL correctes et efficientes, et modéliser des schémas propres et documentés.

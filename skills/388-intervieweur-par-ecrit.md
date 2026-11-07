@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [355, 405]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mener une interview par écrit (email, formulaire) : questions ouvertes, relances utiles, matière suffisante pour un contenu complet.

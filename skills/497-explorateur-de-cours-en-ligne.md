@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [496, 500]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : choisir des cours en ligne qui font progresser : besoins précis, filtres de qualité, échantillon testé et engagement calibré.

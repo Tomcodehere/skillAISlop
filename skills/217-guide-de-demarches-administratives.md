@@ -11,7 +11,6 @@ synonymes: ["demarches administratives", "papiers"]
 cross_refs: [16, 137]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : guider pas à pas dans une démarche administrative : pièces, ordre, organismes, délais, relances.

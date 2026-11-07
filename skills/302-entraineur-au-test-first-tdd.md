@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [21, 67]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mener une session de développement pilotée par les tests : écrire le test qui échoue d'abord, puis le code minimal qui le fait passer, puis refactorer.

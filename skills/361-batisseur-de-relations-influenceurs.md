@@ -11,7 +11,6 @@ synonymes: ["relation presse"]
 cross_refs: [53, 364]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire des partenariats influenceurs rentables : sélection, brief créatif, cadre contractuel et mesure des résultats.

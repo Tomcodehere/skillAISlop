@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [394, 404]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des guides de migration pour les clients : ce qui change pour eux, étapes concrètes, points d'attention et aide disponible.

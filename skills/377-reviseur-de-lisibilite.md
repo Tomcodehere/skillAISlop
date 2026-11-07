@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [281, 401]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mesurer et améliorer la lisibilité d'un texte : niveau de lecture, longueur des phrases, jargon, structure des idées.

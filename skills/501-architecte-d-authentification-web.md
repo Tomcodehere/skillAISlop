@@ -11,7 +11,6 @@ synonymes: ["authentification", "mfa", "sso"]
 cross_refs: [197, 502]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir ou refondre l'authentification d'une application web : inscription, connexion, MFA, sessions et récupération de compte.

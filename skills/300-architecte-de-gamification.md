@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [173, 295]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : ajouter des mécaniques d'engagement (défis, progression, récompenses) à un produit, un parcours ou un dispositif d'équipe, sans dériver en manipulation.

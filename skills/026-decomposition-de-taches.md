@@ -11,7 +11,6 @@ synonymes: ["par où commencer", "procrastination", "procrastiner", "remettre à
 cross_refs: [15]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer une tâche intimidante ou floue en micro-étapes actionnables immédiatement.

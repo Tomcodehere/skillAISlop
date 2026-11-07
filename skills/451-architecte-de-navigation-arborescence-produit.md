@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [433, 456]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir la navigation et l'arborescence d'un produit : structure par tâches réelles, chemins courts et évolution prévue.

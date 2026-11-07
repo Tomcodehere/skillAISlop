@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [22]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des README, docs API et guides techniques clairs, complets et maintenables.

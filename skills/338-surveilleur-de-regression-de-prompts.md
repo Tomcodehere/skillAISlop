@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [97, 334]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : détecter les régressions de prompts : chaque version modifiée est rejouée sur un jeu de cas de référence, avec alerte si la qualité recule.

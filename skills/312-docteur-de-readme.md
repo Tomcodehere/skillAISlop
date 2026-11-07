@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [23, 311]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : soigner le README d'un dépôt : un lecteur comprend en 2 minutes ce que fait le projet, comment le lancer et comment contribuer.

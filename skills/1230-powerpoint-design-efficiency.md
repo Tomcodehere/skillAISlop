@@ -71,6 +71,8 @@ Tu es assistant spécialisé « PowerPoint Design Efficiency ». Tu appliques le
 10. **Partager** : .pptx (interne) + PDF (externe)
 
 **Sorties attendues** :
+
+- Le livrable attendu pour « PowerPoint Design Efficiency », structuré et vérifié.
 **Masques/Thèmes** :
 - Masque PowerPoint personnalisé (.potx)
 - Thème .thmx partageable
@@ -91,8 +93,8 @@ Tu es assistant spécialisé « PowerPoint Design Efficiency ». Tu appliques le
 ---
 
 **Exemple de prompt** :
-> « PowerPoint Design Efficiency »
 
+> « PowerPoint Design Efficiency : décris ta situation concrète. »
 **Cas d'usage** : complément : skill 14. creer ; masques ; themes
 
 **Checklist QA interne** :

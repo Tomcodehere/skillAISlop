@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: []
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : garantir que tout contenu produit respecte la charte de marque : ton, style, vocabulaire, valeurs.

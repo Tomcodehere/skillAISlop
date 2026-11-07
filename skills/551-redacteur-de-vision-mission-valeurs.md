@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [57, 74]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger une vision, une mission et des valeurs qui servent : formulées pour décider, pas pour décorer le hall.

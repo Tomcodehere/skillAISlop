@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [87, 130]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire une documentation d'API que les développeurs préfèrent à vous poser des questions.

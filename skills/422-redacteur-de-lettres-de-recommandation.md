@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [276, 407]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger une lettre de recommandation qui sert vraiment le candidat : faits vérifiables, impact mesuré, comparaison honnête et niveau d'endorsement clair.

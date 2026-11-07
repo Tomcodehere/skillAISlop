@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [17, 97]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : diagnostiquer pourquoi un prompt échoue ou donne des résultats médiocres, et le corriger méthodiquement.

@@ -11,7 +11,6 @@ synonymes: ["modélisation de menaces"]
 cross_refs: [435, 439]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : cartographier les menaces d'un système : composants, points d'entrée, scénarios d'attaque et parades prioritaires.

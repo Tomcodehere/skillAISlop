@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [319, 320]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir une intégration par webhooks : réception fiable, vérification de signature, retries, idempotence et supervision.

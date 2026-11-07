@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [55, 73]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir et analyser une enquête interne (baromètre social, satisfaction équipe) qui donne des résultats actionnables.

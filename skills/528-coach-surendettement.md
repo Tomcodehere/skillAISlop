@@ -11,7 +11,6 @@ synonymes: ["dettes", "surendettement"]
 cross_refs: [43, 298]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : établir un plan de rétablissement face à des crédits qui s'accumulent : état des lieux, priorités et démarches, sans jugement.

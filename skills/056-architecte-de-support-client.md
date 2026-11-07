@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [24, 49]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire une base de réponses types (macros), une FAQ et des règles d'escalade cohérentes pour une équipe support.

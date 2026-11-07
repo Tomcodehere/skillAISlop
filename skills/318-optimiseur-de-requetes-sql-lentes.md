@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [69, 321]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : diagnostiquer et accélérer une requête SQL lente : lecture du plan d'exécution, index pertinents et réécriture mesurée.

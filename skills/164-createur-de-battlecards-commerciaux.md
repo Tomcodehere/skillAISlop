@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [32, 112]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : armer les commerciaux contre chaque concurrent : forces à contrer, angles à jouer, questions pièges et réponses.

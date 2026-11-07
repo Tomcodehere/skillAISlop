@@ -11,7 +11,6 @@ synonymes: ["anniversaire", "cadeau", "idee cadeau"]
 cross_refs: [136, 219]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : trouver des idées de cadeaux qui collent à la personne : relations, budget, occasion, avec des options vérifiables.

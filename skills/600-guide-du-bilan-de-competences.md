@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [204, 231]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : conduire un bilan de compétences structuré : inventaire des réalisations, motivations réelles et projet professionnel actionnable.

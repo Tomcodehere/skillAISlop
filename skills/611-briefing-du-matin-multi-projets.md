@@ -11,7 +11,6 @@ synonymes: ["briefing", "standup"]
 cross_refs: [209, 463]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire un briefing matinal d'une page qui donne l'état de tous vos projets en moins de deux minutes de lecture.

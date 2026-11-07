@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [110, 139]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : décliner un visuel ou une idée publicitaire en variantes A/B : accroches, visuels et appels à l'action différenciés pour tester ce qui convertit.

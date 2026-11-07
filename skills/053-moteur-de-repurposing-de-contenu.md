@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: []
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un contenu source (transcription, vidéo, article) en une semaine de contenus multi-plateformes, dans une voix cohérente.

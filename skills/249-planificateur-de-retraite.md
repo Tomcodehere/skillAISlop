@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [43, 227]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer sa retraite concrètement : projection, ressources, projet de vie, transition progressive.

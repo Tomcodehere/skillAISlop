@@ -11,7 +11,6 @@ synonymes: ["retro", "retrospective"]
 cross_refs: [24, 74]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer et animer une rétrospective d'équipe qui produit des actions tenues, pas des résolutions oubliées.

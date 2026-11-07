@@ -11,7 +11,6 @@ synonymes: ["courses", "provisions", "supermarche"]
 cross_refs: [468, 486]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : organiser les courses et le garde-manger du foyer : inventaire tenu, listes par magasin, rotations anti-gaspillage et budget suivi.

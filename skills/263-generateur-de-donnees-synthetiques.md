@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [96, 191]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : générer des jeux de données synthétiques réalistes (profils clients, transactions, événements) pour tester, démontrer ou entraîner sans données réelles.

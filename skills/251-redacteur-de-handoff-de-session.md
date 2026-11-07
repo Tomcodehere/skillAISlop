@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [209, 236]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire un document de passation qui permet de reprendre une session de travail IA interrompue dans un contexte neuf, sans perte d'information.

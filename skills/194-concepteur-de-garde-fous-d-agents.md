@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [100, 195]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir les garde-fous d'un agent IA autonome : limites d'action, validations humaines, modes de repli.

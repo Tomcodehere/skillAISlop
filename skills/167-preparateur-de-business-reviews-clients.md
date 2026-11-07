@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [14, 55]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Cas d'usage
 
 **Objectif** : préparer une revue périodique avec un client (QBR) qui démontre la valeur livrée et ouvre les suites.

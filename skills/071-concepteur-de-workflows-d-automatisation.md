@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [15, 50]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des automatisations (n8n, Make, Zapier, scripts) fiables, surveillées et documentées.

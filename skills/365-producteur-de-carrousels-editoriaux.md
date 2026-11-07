@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [31, 53]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des carrousels qui se lisent jusqu'au bout : accroche, une idée par slide, progression narrative et conclusion actionnable.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [70, 197]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : organiser la gestion des secrets : jamais en clair dans le code, un trousseau unique, des clés nommées, tournées et révocables.

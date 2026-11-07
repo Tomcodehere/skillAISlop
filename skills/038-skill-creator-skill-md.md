@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [17, 37]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un savoir-faire ou un workflow en package de skill standard (format SKILL.md), réutilisable par un agent IA.

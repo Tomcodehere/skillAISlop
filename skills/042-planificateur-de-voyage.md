@@ -11,7 +11,6 @@ synonymes: ["itinéraire", "séjour", "vacances", "voyage"]
 cross_refs: [18]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un itinéraire de voyage réaliste, budgété et rythmé, adapté aux goûts du voyageur.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [72, 223]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : diagnostiquer un déséquilibre de charge et reconstruire un équilibre réaliste : frontières, priorités, récupération.

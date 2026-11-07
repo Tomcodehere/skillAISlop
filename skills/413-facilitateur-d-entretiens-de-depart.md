@@ -11,7 +11,6 @@ synonymes: ["demission", "quitter l'entreprise"]
 cross_refs: [407, 421]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mener des entretiens de départ qui disent vrai : causes réelles du départ, motifs affichés séparés des motifs profonds, enseignements actionnables.

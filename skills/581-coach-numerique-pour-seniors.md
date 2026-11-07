@@ -11,7 +11,6 @@ synonymes: ["seniors"]
 cross_refs: [247, 530]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : accompagner les seniors dans le numérique : gestes essentiels du smartphone, arnaques à connaître et autonomie progressive.

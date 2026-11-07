@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 139]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : constituer une bible de style pour la génération d'images en série : même identité visuelle sur des dizaines d'images.

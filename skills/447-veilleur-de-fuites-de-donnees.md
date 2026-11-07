@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [440, 444]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : surveiller l'exposition des données de l'organisation : credentials fuités, documents exposés, services compromis, avec procédure de réponse.

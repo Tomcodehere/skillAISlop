@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [344, 377]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : faire se comprendre deux équipes qui ne parlent pas la même langue : jargon traduit, concepts mis à plat, glossaire partagé.

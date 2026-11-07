@@ -11,7 +11,6 @@ synonymes: ["courir", "entraînement", "fitness", "musculation", "sport"]
 cross_refs: [215, 248]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un programme d'entraînement réaliste et progressif adapté au niveau, au temps disponible et au matériel.

@@ -11,7 +11,6 @@ synonymes: ["positionnement", "visibilité"]
 cross_refs: [31, 128]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire une marque personnelle professionnelle cohérente : positionnement, canaux choisis et routine de visibilité tenable.

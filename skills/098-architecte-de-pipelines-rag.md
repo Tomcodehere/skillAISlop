@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [102, 114]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un système de question-réponse sur documents d'entreprise (indexation, recherche augmentée, réponse sourcée).

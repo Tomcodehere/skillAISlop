@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [93, 197]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : analyser des logs ou transactions pour détecter comportements frauduleux et anomalies de fonctionnement.

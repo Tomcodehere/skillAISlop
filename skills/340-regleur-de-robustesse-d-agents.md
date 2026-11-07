@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [194, 310]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : stresser un agent avant la production : perturbations d'entrées, outils en erreur, données manquantes — et vérifier qu'il échoue proprement.

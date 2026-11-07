@@ -15,8 +15,7 @@ cross_refs: [1123]
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
-**Objectif** : 
-
+**Objectif** :  Multi-Agent Orchestration Patterns
 **Quand l'utiliser (triggers)** :
 - demande liée
 

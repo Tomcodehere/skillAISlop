@@ -11,7 +11,6 @@ synonymes: ["filtrage"]
 cross_refs: [247, 520]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : installer une protection technique des enfants raisonnable : filtrage, temps d'écran et suivi, alignés sur l'âge et discutés en famille.

@@ -11,7 +11,6 @@ synonymes: ["churn", "cohortes", "rétention"]
 cross_refs: [36, 93]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mesurer la rétention par cohorte d'arrivée et identifier où et pourquoi les utilisateurs partent.

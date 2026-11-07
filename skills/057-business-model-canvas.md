@@ -11,7 +11,6 @@ synonymes: ["business model", "business plan"]
 cross_refs: [58, 60]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : cartographier un modèle économique complet sur les 9 blocs du BMC et en tester la cohérence.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [190, 411]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : piloter le suivi des formations obligatoires : registre à jour, échéances anticipées, relances graduées et preuve en cas de contrôle.

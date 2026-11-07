@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [58, 59]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : calculer et interpréter l'économie unitaire d'une offre (marge par vente, coût d'acquisition, valeur vie client).

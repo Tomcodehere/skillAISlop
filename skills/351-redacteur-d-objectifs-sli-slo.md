@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [199, 431]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir les indicateurs et objectifs de fiabilité d'un service : bons SLI, SLO réalistes, budget d'erreur et conséquences de dépassement.

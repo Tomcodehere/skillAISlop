@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [256, 309]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : diagnostiquer un problème de performance : fuite mémoire, CPU anormal, avec mesures chiffrées et cause racine identifiée.

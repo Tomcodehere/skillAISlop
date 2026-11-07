@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [157, 158]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : diagnostiquer et corriger un enregistrement audio médiocre (bruit de fond, saturation, volume inégal) avec un protocole précis.

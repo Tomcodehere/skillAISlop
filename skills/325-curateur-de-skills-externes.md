@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [194, 262]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer et sélectionner des skills externes (registres, GitHub, marketplaces) : test de qualité, lecture du code, sécurité et intégration propre.

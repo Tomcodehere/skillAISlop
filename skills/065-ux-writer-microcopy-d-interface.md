@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [64, 66]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger les textes d'interface (boutons, erreurs, états vides) clairs, utiles et cohérents, avec des frameworks de référence.

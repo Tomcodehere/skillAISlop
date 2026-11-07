@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [86, 318]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : conduire une migration de schéma sans coupure : étapes réversibles, compatibilité applicative, fenêtre de bascule et plan de repli.

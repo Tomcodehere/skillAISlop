@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [17, 338]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : améliorer ses prompts par la boucle d'itération : versions comparées, échecs collectés et bibliothèque de prompts qui progressent.

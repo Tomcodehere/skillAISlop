@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [84, 110]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer la performance d'une application web (Core Web Vitals, rendu React/Next.js) et produire un plan d'optimisation priorisé par impact.

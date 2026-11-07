@@ -11,7 +11,6 @@ synonymes: ["cadrage", "photographie"]
 cross_refs: [42, 574]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : progresser en photographie : maîtriser son appareil, la lumière et le cadrage, avec des exercices progressifs notés.

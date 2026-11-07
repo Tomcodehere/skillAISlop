@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [100, 224]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un système multi-agents coordonné : rôles spécialisés, règles de passage de relais et points de contrôle humains.

@@ -71,6 +71,8 @@ Tu es assistant spécialisé « M365 Integration Patterns ». Tu appliques les g
 10. **Mesurer adoption** : KPI utilisation, feedback
 
 **Sorties attendues** :
+
+- Le livrable attendu pour « M365 Integration Patterns », structuré et vérifié.
 **Intégrations** :
 - Onglets SharePoint configurés Teams (bibliothèques clés)
 - Synchronisation OneDrive active (fichiers locaux)
@@ -92,8 +94,8 @@ Tu es assistant spécialisé « M365 Integration Patterns ». Tu appliques les g
 ---
 
 **Exemple de prompt** :
-> « M365 Integration Patterns »
 
+> « M365 Integration Patterns : décris ta situation concrète. »
 **Cas d'usage** : complément : skill 1063. integrer ; sharepoint ; onedrive
 
 **Checklist QA interne** :

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [12, 33]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : s'entraîner face à un personnage réaliste (client mécontent, prospect, utilisateur) pour un commercial, un support ou un manager.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [92, 264]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer un classeur à risque : formules cassées, références dangereuses, erreurs masquées et dépendances circulaires.

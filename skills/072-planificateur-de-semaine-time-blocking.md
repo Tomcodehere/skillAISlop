@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [26, 28]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire une semaine réaliste qui protège les priorités au lieu de subir la surcharge.

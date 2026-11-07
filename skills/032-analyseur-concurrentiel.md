@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [3, 18]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : comparer une offre à ses concurrents et en tirer un positionnement défendable.

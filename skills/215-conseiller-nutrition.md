@@ -11,7 +11,6 @@ synonymes: ["calories", "nutrition", "perdre du poids", "regime"]
 cross_refs: [214, 216]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire des repères alimentaires et un plan de repas adaptés aux objectifs et contraintes, avec honnêteté scientifique.

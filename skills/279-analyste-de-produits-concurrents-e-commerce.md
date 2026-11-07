@@ -11,7 +11,6 @@ synonymes: ["e-commerce"]
 cross_refs: [32, 118]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : analyser les produits concurrents sur les marketplaces : prix, avis, positionnement et angles d'attaque pour sa propre fiche produit.

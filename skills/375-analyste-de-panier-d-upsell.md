@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [162, 169]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : analyser le panier et les occasions d'upsell : composition, associations fréquentes, points de blocage et offres de montée en gamme pertinentes.

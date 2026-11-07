@@ -11,7 +11,6 @@ synonymes: ["swot"]
 cross_refs: [60, 103]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire une SWOT honnête et actionnable : chaque case factuelle, hiérarchisée et reliée à une action datée.

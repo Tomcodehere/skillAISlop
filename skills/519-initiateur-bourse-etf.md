@@ -11,7 +11,6 @@ synonymes: ["bourse", "etf"]
 cross_refs: [43, 227]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : initier à l'investissement en bourse de façon prudente : comptes, ETF diversifiés, horizon long — sans conseil personnalisé.

@@ -11,7 +11,6 @@ synonymes: ["expédition", "stock"]
 cross_refs: [118, 273]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer la logistique d'une boutique en ligne : stock fiable, expédition fluide et retours gérés sans hémorragie.

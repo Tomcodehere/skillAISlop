@@ -11,7 +11,6 @@ synonymes: ["revue de session", "session"]
 cross_refs: [178, 251]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer une session de travail IA avant de la clore : travail à moitié fini, dérive hors mandat et fichiers modifiés par accident.

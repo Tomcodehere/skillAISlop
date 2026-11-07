@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [114, 226]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer une lecture ou une idée en notes atomiques liées : une idée par note, titres affirmés et liens explicites vers les notes voisines.

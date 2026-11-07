@@ -11,7 +11,6 @@ synonymes: ["batchcooking", "meal prep"]
 cross_refs: [478, 489]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier un batch cooking réaliste : menu de la semaine, session de cuisine cadrée et conservation correcte sans monotonie.

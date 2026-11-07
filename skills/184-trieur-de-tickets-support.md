@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [56, 89]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : trier, prioriser et router les tickets de support selon la gravité, l'impact et le délai contractuel.

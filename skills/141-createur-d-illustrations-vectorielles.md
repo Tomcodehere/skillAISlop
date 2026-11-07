@@ -11,7 +11,6 @@ synonymes: ["illustration", "logo", "vectoriel"]
 cross_refs: [34, 149]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des visuels vectoriels (logos, icônes, pictogrammes) éditables et cohérents en série.

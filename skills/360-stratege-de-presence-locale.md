@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [161, 282]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : développer la visibilité locale d'un commerce : fiche d'établissement optimisée, avis, contenus et citations locales cohérentes.

@@ -11,7 +11,6 @@ synonymes: ["prendre rendez-vous", "rdv", "rendez-vous"]
 cross_refs: [72, 209]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : orchestrer un rendez-vous entre plusieurs parties : créneaux proposés, relances et confirmation, sans aller-retours interminables.

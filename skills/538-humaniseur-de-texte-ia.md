@@ -11,7 +11,6 @@ synonymes: ["humaniser"]
 cross_refs: [2, 8]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : retirer les tics d'écriture IA d'un texte (litanies, connecteurs pompeux, surenchères) pour retrouver une voix humaine crédible.

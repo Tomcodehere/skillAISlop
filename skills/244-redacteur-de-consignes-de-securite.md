@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [50, 200]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des consignes de sécurité claires, visibles et applicables (ateliers, chantiers, locaux partagés).

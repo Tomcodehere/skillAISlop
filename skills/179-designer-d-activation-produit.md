@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [106, 109]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir le parcours des premiers succès d'un nouvel utilisateur jusqu'à son moment "aha".

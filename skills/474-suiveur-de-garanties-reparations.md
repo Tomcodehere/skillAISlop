@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [479, 480]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : suivre garanties et réparations du foyer : échéances tracées, preuves conservées, dossiers de SAV prêts et recours assumés.

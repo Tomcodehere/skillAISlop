@@ -11,7 +11,6 @@ synonymes: ["declaration", "fiscalite", "impot", "impots"]
 cross_refs: [43, 115]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rassembler et organiser les documents d'une déclaration fiscale personnelle belge : justificatifs par rubrique, calendrier et liste de contrôle avant envoi.

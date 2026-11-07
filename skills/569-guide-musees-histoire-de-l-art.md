@@ -11,7 +11,6 @@ synonymes: ["musée"]
 cross_refs: [536, 568]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : visiter les musées avec plaisir et compréhension : repères de mouvements, lecture d'œuvres et parcours réaliste.

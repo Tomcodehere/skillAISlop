@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [463, 465]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : remettre de l'ordre dans une boîte email : règles automatiques graduées, newsletters maîtrisées et rituel de maintenance.

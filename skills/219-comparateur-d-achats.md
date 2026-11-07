@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [32, 219]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : comparer des options d'achat (produits, services, abonnements) sur des critères objectifs pondérés selon l'usage réel.

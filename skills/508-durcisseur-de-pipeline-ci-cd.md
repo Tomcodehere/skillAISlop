@@ -11,7 +11,6 @@ synonymes: ["ci/cd", "supply chain"]
 cross_refs: [267, 306]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : sécuriser la chaîne de build et de déploiement : accès, secrets, intégrité des artefacts et supply chain.

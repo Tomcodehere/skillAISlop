@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [294, 434]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer l'équité des rémunérations : écarts mesurés à critères comparables, causes identifiées et plan de correction chiffré.

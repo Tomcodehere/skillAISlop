@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [405, 429]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : cartographier les parties prenantes d'un projet ou d'une décision : influence, intérêt, position et stratégie d'engagement par acteur.

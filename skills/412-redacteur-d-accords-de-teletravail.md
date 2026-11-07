@@ -11,7 +11,6 @@ synonymes: ["teletravail", "travail a distance"]
 cross_refs: [404, 424]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un accord de télétravail clair : jours, horaires de connexion, équipement, frais, droits et devoirs de chaque côté.

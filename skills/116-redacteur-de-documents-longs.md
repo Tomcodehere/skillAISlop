@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [5, 27]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire un document long structuré (rapport, mémoire, dossier) qui reste cohérent du début à la fin.

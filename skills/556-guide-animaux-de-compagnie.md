@@ -11,7 +11,6 @@ synonymes: ["chat", "chien", "vétérinaire"]
 cross_refs: [477, 478]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : bien vivre avec son animal : arrivée, éducation de base, santé au quotidien et décisions vétérinaires préparées.

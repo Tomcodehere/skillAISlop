@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [24, 212]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : faire fonctionner une réunion multilingue : interprétation des échanges clés, glossaire d'équipe et compte rendu dans la langue de travail.

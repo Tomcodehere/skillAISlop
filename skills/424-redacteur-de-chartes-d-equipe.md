@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [404, 463]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger une charte d'équipe co-construite : règles du jeu concrètes, engagements de chacun et mode de traitement des manquements.

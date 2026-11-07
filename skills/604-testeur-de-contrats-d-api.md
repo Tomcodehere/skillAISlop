@@ -11,7 +11,6 @@ synonymes: ["breaking change", "compatibilité"]
 cross_refs: [322, 526]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : garantir qu'une évolution d'API ne casse pas ses consommateurs en testant le contrat côté consommateur.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [97, 238]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : constituer un jeu de données d'entraînement ou de fine-tuning propre, diversifié et documenté.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [201, 204]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : cartographier les compétences d'une équipe (présentes, manquantes, à risque) pour piloter recrutement et formation.

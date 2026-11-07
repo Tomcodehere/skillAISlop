@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [352, 452]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer l'ergonomie réelle d'une application mobile : usage à une main, interruptions, contextes et parcours raccourcis.

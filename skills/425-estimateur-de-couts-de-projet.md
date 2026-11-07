@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [427, 435]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : estimer le coût d'un projet de façon défendable : lots découpés, hypothèses affichées, fourchettes avec confiance et réserves tracées.

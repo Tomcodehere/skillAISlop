@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 181]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir une palette de couleurs et une échelle typographique cohérentes, accessibles et adaptées à tous les supports.

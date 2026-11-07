@@ -11,7 +11,6 @@ synonymes: ["avis clients negatifs", "avis google"]
 cross_refs: [56, 131]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des réponses aux avis clients (Google, Trustpilot, marketplaces) qui protègent la réputation : positives mises en valeur, négatives traitées avec tact.

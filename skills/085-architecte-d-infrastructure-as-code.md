@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [82, 90]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : décrire toute une infrastructure de façon déclarative et versionnée (Terraform, Pulumi) plutôt qu'à la main.

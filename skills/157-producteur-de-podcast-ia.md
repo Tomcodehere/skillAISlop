@@ -11,7 +11,6 @@ synonymes: ["podcast"]
 cross_refs: [53, 154]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un contenu existant (article, newsletter) en épisode de podcast audio à deux voix, naturel et fluide.

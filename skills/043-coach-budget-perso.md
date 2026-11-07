@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: []
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer et améliorer un budget personnel : vision claire, priorités, plan d'action chiffré.

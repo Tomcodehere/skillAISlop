@@ -11,7 +11,6 @@ synonymes: ["post-mortem", "postmortem"]
 cross_refs: [73, 199]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Cas d'usage
 
 **Objectif** : transformer un incident de production en document sans blâme qui empêche sa récurrence.

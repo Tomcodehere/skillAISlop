@@ -11,7 +11,6 @@ synonymes: ["dashboard", "tableau de bord"]
 cross_refs: [36, 186]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un tableau de bord utile : les bonnes métriques, comparées à une cible, en une seule page.

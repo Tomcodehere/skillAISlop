@@ -11,7 +11,6 @@ synonymes: ["doctorat", "thèse"]
 cross_refs: [104, 133]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer la rédaction d'un mémoire ou d'une thèse : question de recherche, plan, habitude d'écriture et finition.

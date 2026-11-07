@@ -11,7 +11,6 @@ synonymes: ["qcm", "quiz"]
 cross_refs: []
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : générer du matériel de révision mémorisable : flashcards et quiz calibrés sur le niveau réel.

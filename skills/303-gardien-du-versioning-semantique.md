@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [129, 183]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : décider du bon numéro de version à chaque publication : major, minor ou patch, avec un CHANGELOG cohérent et des breaking changes signalés.

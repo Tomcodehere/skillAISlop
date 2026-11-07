@@ -11,7 +11,6 @@ synonymes: ["feuille de route", "roadmap"]
 cross_refs: [63, 74]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : communiquer une roadmap produit de façon honnête et engageante pour chaque audience (clients, équipes, direction).

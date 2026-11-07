@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [82, 178]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des scénarios de tests end-to-end pilotant une application web dans un vrai navigateur (Playwright), reproductibles en CI.

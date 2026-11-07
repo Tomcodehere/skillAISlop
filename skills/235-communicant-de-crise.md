@@ -11,7 +11,6 @@ synonymes: ["bad buzz", "communication de crise", "crise"]
 cross_refs: [46, 89]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : gérer la communication de crise (incident, bad buzz, erreur publique) : faits, messages, séquences, canaux.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [271, 274]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer un modèle ou un jeu de données sous l'angle des biais : groupes déséquilibrés, formulations sensibles et mesures d'équité.

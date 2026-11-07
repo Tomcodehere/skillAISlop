@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [100, 194]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mettre en production un agent autonome multi-tâches (cloud, automatisation, assistant) de façon contrôlée.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [235, 441]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : gérer la notification d'une violation de données : qualification du risque, délais tenus, notification à l'autorité et communication aux personnes.

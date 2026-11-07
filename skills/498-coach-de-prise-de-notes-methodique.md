@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [287, 496]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : installer une méthode de notes qui sert : structure adaptée au contexte, capture rapide et revalorisation régulière.

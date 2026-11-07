@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [162, 429]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : faciliter un sprint design : problème cadré, divergence puis convergence, prototypes testés et décision de fin.

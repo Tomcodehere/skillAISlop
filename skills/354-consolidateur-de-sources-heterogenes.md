@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [92, 343]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : fusionner des fichiers hétérogènes en une source unique : schémas réconciliés, clés de rapprochement, conflits traités règles en main.

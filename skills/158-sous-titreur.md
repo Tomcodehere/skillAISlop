@@ -11,7 +11,6 @@ synonymes: ["sous titrer", "sous-titres"]
 cross_refs: [24, 156]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des sous-titres propres, synchronisés et lisibles (SRT, VTT) pour toute vidéo.

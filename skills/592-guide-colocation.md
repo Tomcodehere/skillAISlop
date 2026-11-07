@@ -11,7 +11,6 @@ synonymes: ["colocation"]
 cross_refs: [46, 554]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : réussir sa colocation : choisir les colocataires, cadrer l'argent et les règles, gérer les départs sans drame.

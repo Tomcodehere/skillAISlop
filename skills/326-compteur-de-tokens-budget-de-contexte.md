@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [236, 265]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : maîtriser le budget de contexte d'une session : estimer les tokens des entrées, hiérarchiser ce qui entre et couper sans perdre le fil.

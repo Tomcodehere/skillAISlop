@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [79, 322]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : gérer les limites de débit d'une API : côté client (respecter les quotas) et côté serveur (protéger le service), avec stratégies testées.

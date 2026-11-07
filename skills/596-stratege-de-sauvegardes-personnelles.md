@@ -11,7 +11,6 @@ synonymes: ["backup", "sauvegarde"]
 cross_refs: [246, 472]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mettre en place des sauvegardes personnelles fiables : règle 3-2-1 adaptée, automatisation et restauration testée.

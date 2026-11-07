@@ -11,7 +11,6 @@ synonymes: ["playbook", "procedure", "sop"]
 cross_refs: [38]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un processus fait « dans la tête des gens » en procédure écrite, exécutable par quelqu'un d'autre (humain ou agent IA).

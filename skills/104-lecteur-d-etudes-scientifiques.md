@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [18, 226]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : extraire d'un article scientifique l'essentiel : question, méthode, résultats, limites — et son degré de fiabilité.

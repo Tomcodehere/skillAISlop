@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [425, 435]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un business case qui aide à décider : problème chiffré, options comparées, coûts complets, risques et recommandation assumée.

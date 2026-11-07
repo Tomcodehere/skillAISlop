@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [24, 223]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tenir un registre vivant des actions issues des réunions : responsable, échéance, statut et relances automatiques jusqu'à clôture.

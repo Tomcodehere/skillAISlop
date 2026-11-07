@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [51, 125]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : créer un contenu téléchargeable à forte valeur (guide, checklist, modèle) qui attire les bons prospects, pas les curieux.

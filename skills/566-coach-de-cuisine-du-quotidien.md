@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [216, 486]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : apprendre à cuisiner vraiment : techniques de base, dix recettes maîtrisées et routine de repas de semaine sans stress.

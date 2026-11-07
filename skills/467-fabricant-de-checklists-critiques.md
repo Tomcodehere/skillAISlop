@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [285, 435]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : fabriquer des checklists qui évitent les oublis critiques : points critiques seulement, format action vérifiable et usage réel testé.

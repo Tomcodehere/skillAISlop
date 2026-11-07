@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [69, 321]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : administrer une base de données au quotidien : schémas, index, sauvegardes testées, migrations et requêtes saines.

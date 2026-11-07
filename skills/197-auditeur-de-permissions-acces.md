@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [70, 191]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer qui a accès à quoi dans une organisation (outils, fichiers, systèmes) et corriger les excès d'accès.

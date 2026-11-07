@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [122, 123]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire une quatrième de couverture qui donne envie d'ouvrir : promesse claire, audience identifiée, tension et preuve courte.

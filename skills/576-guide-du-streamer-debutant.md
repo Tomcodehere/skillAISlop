@@ -11,7 +11,6 @@ synonymes: ["stream", "twitch"]
 cross_refs: [52, 157]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : démarrer une chaîne de streaming durable : matériel juste, formats réguliers et rapport sain à l'audience et à soi.

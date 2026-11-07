@@ -11,7 +11,6 @@ synonymes: ["chorégraphie", "danser"]
 cross_refs: [214, 565]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : apprendre à danser ou construire une chorégraphie : bases techniques, style visé et plan d'entraînement réaliste.

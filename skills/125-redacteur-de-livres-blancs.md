@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [116, 174]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire un livre blanc d'expertise (10-30 pages) qui démontre l'autorité et génère des contacts qualifiés.

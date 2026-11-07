@@ -11,7 +11,6 @@ synonymes: ["backlog", "tickets a faire"]
 cross_refs: [26, 63]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : prioriser un backlog avec une méthode explicite (RICE, WSJF) et des critères assumés plutôt qu'au feeling.

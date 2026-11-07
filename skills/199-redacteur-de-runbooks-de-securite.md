@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [50, 89]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger les procédures opérationnelles de réponse à incident de sécurité, prêtes à exécuter sous pression.

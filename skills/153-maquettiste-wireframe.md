@@ -11,7 +11,6 @@ synonymes: ["maquette", "mockup d'écran", "wireframe"]
 cross_refs: [64, 81]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : dessiner des wireframes basse fidélité qui testent une structure d'écran avant tout design.

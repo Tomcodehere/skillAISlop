@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [97, 332]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger la carte d'un modèle (model card) : usages prévus, données, limites connues, performances mesurées et conditions d'emploi.

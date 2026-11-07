@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [435, 439]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer la sécurité physique des locaux : contrôle des accès, zones sensibles, réception des visiteurs et écarts constatés avec priorités.

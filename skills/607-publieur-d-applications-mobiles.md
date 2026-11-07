@@ -11,7 +11,6 @@ synonymes: ["app store", "google play"]
 cross_refs: [82, 525]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer et réussir la publication d'une application mobile sur l'App Store et Google Play, sans rejet de store.

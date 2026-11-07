@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [20, 68]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : piloter un agent de code en ligne de commande (Claude Code, Codex CLI, Gemini CLI) de façon sûre et efficace, du brief initial au commit final.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [13]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un système qui sélectionne les top-K éléments pour un utilisateur donné (feeds, reranking, notifications).

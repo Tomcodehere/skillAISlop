@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [14, 170]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer une levée de fonds de bout en bout : narrative, deck, data room, questions des investisseurs.

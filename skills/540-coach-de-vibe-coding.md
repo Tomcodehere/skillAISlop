@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [20, 78]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : réussir un projet construit en pilotage naturel d'un agent de code : cadrer, découper, vérifier et garder la main sur la qualité.

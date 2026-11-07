@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [10, 21]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des messages de commit et des descriptions de pull request qui facilitent la revue et la lecture de l'historique.

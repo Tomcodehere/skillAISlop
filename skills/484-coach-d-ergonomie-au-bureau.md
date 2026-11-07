@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [485, 489]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : corriger l'ergonomie d'un poste de travail : poste ajusté, gestes répétitifs traités et exercices de compensation installés.

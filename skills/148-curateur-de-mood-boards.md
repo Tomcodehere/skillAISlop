@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 149]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : assembler un mood board directionnel (ambiances, références, palettes) qui aligne tout le monde avant création.

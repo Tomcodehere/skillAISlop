@@ -11,7 +11,6 @@ synonymes: ["jardin", "potager", "semis"]
 cross_refs: [15, 216]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier un potager réaliste : variétés, calendrier de semis, rotations et charge de travail assumée.

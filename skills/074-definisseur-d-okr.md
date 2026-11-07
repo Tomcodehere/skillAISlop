@@ -11,7 +11,6 @@ synonymes: ["objectifs trimestriels", "okr"]
 cross_refs: [36, 73]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des OKR trimestriels clairs, mesurables, ambitieux mais atteignables, et anti-triche.

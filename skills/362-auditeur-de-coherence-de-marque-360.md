@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 399]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer la cohérence d'une marque sur tous les points de contact : ton, visuel, promesse, avec les écarts hiérarchisés et un plan de correction.

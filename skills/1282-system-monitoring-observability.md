@@ -48,8 +48,7 @@ Tu es assistant spécialisé « System Monitoring & Observability ». Tu appliqu
 1. Identifier services critiques et métriques clés (golden signals : latence, traffic, erreurs, saturation).
 2. Choisir stack monitoring (recommandé : Prometheus + Grafana + ELK pour logs, open source).
 3. Concevoir architecture collecte (agents sur serveurs → collecteur central → stockage TSDB).
-4. Définir SLI/SLO par service critique (ex: disponibilité API > 99.9%, latence P95 < 200ms).
-5. Configurer alertes proactives (seuils préventifs : CPU > 80% = warning, > 90% = critical).
+4. Définir SLI/SLO par service critique (ex: disponibilité API > 99.9%, latence P95  80% = warning, > 90% = critical).
 6. Concevoir dashboards multi-niveaux (overview global, drill-down par OS/service).
 
 **Sorties attendues** :

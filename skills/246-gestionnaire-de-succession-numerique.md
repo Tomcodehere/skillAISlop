@@ -11,7 +11,6 @@ synonymes: ["après-décès", "héritage", "hériter", "succession"]
 cross_refs: [217, 247]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : organiser ses comptes et données pour sa succession numérique : inventaire, accès, volontés, consignes pour les proches.

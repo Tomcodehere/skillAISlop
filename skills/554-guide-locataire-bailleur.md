@@ -11,7 +11,6 @@ synonymes: ["bailleur", "caution", "locataire"]
 cross_refs: [137, 594]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : connaître ses droits et devoirs de locataire ou de bailleur : bail, état des lieux, dépôt de garantie, réparations et sorties de location.

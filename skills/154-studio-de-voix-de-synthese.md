@@ -11,7 +11,6 @@ synonymes: ["speech"]
 cross_refs: [145, 157]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des voix de synthèse expressives et naturelles (narration, doublage, livres audio) avec instructions techniques précises.

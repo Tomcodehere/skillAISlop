@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [357, 379]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des SMS et messages courts qui convertissent : utile, bref, actionnable, avec consentement respecté.

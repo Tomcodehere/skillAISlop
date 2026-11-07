@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [193, 239]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer la conformité d'un système IA au règlement européen : classification des risques, obligations correspondantes et preuves à réunir.

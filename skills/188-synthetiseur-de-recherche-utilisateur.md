@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [55, 187]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer des notes d'interviews dispersées en insights solides : thèmes, fréquence, verbatims, décisions.

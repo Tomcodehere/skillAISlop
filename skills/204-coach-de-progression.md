@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [72, 205]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire avec la personne un plan de progression réaliste : objectifs, étapes, rituels, premières victoires.

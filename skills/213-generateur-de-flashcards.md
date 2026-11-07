@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [40, 41]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un contenu d'apprentissage en jeu de flashcards efficace selon les principes de la répétition espacée.

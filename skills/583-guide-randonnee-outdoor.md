@@ -11,7 +11,6 @@ synonymes: ["randonnée", "trek"]
 cross_refs: [42, 483]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer des randonnées réussies : itinéraire au niveau réel, équipement progressif et sécurité de base en terrain.

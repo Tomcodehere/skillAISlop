@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [99, 322]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir et livrer un bot (Discord, Slack, Telegram) utile : commandes, permissions, hébergement et limites claires.

@@ -11,7 +11,6 @@ synonymes: ["mobilite interne", "mutation"]
 cross_refs: [407, 409]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : organiser la mobilité interne : passerelles entre postes, compétences transférables, plan de transition et accords des managers.

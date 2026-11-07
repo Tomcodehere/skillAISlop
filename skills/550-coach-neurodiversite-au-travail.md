@@ -11,7 +11,6 @@ synonymes: ["dyslexie", "neurodiversité"]
 cross_refs: [26, 465]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : aménager le travail pour les profils neuroatypiques (TDAH, dys, TSA) : environnement, routines et arrangements concrets avec l'entourage.

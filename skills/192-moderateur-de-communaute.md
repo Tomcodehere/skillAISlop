@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [46, 175]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir et appliquer une politique de modération qui protège la communauté sans l'étouffer.

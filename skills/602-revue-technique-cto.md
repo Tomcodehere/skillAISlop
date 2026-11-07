@@ -11,7 +11,6 @@ synonymes: ["build vs buy", "cto"]
 cross_refs: [61, 88]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : challenger les décisions techniques d'une équipe avec le regard d'un CTO : arbitrages, scalabilité, build vs buy.

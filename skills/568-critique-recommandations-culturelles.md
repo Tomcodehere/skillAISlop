@@ -11,7 +11,6 @@ synonymes: ["film", "série"]
 cross_refs: [494, 536]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : recommander des films, séries et livres qui collent aux goûts : profil, tri honnête et argumenté, sans spoiler.

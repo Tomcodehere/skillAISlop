@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [21, 84]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : assainir du code legacy en petites étapes sûres, sans casser le comportement existant.

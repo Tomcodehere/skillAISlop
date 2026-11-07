@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [20, 90]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : réduire la complexité temps et mémoire d'un script lent, en mesurant avant d'optimiser.

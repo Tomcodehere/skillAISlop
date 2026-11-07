@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [421, 424]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer la maturité d'une équipe sur des dimensions concrètes : livraisons, qualité, autonomie, rituels — avec un plan de progression réaliste.

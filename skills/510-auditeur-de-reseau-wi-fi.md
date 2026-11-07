@@ -11,7 +11,6 @@ synonymes: ["vpn", "wi-fi", "wifi"]
 cross_refs: [222, 247]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer et durcir un réseau local : Wi-Fi, segmentation des équipements, accès distants et documentation.

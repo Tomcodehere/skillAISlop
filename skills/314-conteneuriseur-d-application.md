@@ -11,7 +11,6 @@ synonymes: ["conteneur", "conteneurisation", "docker"]
 cross_refs: [82, 305]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : conteneuriser une application : image de taille raisonnable, configuration par variables, exécution identique partout.

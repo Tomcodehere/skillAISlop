@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [474, 479]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un cahier des charges de travaux clair : description précise, matériaux et normes, limites de prix et critères de réception.

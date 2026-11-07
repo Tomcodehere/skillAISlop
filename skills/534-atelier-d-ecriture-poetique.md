@@ -11,7 +11,6 @@ synonymes: ["poème", "poésie"]
 cross_refs: [121, 537]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire et retravailler des poèmes : formes, images, rythme, avec un atelier progressif et des retours précis.

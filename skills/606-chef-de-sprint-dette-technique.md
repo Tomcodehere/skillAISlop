@@ -11,7 +11,6 @@ synonymes: ["dette"]
 cross_refs: [80, 302]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : organiser un sprint dédié à la dette technique : inventaire honnête, priorisation par risque, remboursements mesurés.

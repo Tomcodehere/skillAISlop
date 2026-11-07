@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [92, 268]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : extraire des données fiables de documents (PDF, scans, reçus, factures) vers des tableaux exploitables, avec contrôle qualité.

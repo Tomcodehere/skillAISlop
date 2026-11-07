@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [295, 384]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire le script complet d'un webinaire : accroche, déroulé minuté, interactions prévues, démo cadrée et suite à donner.

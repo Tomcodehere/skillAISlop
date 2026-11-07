@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [7, 28]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : traduire un document complet (PDF, Word, slides) en conservant sa structure et sa mise en forme.

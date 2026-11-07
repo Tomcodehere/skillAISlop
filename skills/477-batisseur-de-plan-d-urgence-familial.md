@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [474, 480]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : bâtir un plan d'urgence familial : contacts et coordination, documents retrouvables, kit matériel et réflexes par scénario.

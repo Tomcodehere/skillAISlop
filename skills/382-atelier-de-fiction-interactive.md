@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [122, 300]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir une histoire interactive à choix : structure ramifiée, choix signifiants, conséquences visibles et fins satisfaisantes.

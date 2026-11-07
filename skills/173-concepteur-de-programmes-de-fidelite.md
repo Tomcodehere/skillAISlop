@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [106, 169]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un programme de fidélité rentable : mécanique, paliers, récompenses et règles anticirconvention.

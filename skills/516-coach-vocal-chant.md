@@ -11,7 +11,6 @@ synonymes: ["chanter", "karaoké"]
 cross_refs: [75, 155]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : améliorer sa voix chantée : justesse, respiration, placement, avec des exercices progressifs et mesurables.

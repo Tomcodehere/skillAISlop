@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [196, 197]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer le risque d'un fournisseur ou prestataire (données, continuité, sécurité, dépendance) avant ou pendant la collaboration.

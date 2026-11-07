@@ -11,7 +11,6 @@ synonymes: ["créance"]
 cross_refs: [137, 529]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : obtenir gain de cause dans un litige de consommation ou une petite créance : preuves, mise en demeure et procédure au moindre coût.

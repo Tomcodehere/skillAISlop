@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [109, 352]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : cartographier le parcours client réel : étapes, points de friction, moments de vérité et canaux, avec les priorités d'amélioration.

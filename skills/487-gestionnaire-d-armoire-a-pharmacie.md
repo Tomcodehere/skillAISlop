@@ -11,7 +11,6 @@ synonymes: ["medicaments", "pharmacie maison"]
 cross_refs: [477, 485]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : gérer l'armoire à pharmacie familiale : tri des périmés, stock adapté au foyer, rangement documenté et renouvellement organisé.

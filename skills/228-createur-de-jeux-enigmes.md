@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [6, 221]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : créer des jeux et énigmes sur mesure (chasse au trésor, escape kit maison, jeu de société) pour un groupe et une occasion précise.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [148, 150]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des prompts de génération d'images précis (sujet, style, lumière, cadrage) qui donnent le résultat visé du premier coup.

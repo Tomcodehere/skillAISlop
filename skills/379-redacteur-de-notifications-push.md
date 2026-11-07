@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [138, 359]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des notifications utiles : information en un coup d'œil, bon moment, actionnable, sans harceler.

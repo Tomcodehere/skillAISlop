@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [40, 41]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir une formation complète (objectifs, séquence, activités, évaluation) adaptée au niveau réel des apprenants.

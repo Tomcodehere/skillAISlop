@@ -11,7 +11,6 @@ synonymes: ["alternance", "apprentissage en entreprise", "stage"]
 cross_refs: [407, 408]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un programme de stage ou d'alternance utile pour les deux parties : missions progressives, tuteur réel, évaluation honnête et vivier de recrutement.

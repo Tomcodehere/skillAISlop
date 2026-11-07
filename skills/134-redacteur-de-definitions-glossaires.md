@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [23, 101]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des définitions claires, exactes et autonomes d'un lexique métier ou technique.

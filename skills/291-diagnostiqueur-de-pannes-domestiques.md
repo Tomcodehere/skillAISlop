@@ -11,7 +11,6 @@ synonymes: ["appareil en panne", "panne", "reparer"]
 cross_refs: [216, 220]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : diagnostiquer une panne domestique à distance : triage des symptômes, causes probables et décision réparer soi-même ou appeler un professionnel.

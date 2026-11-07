@@ -11,7 +11,6 @@ synonymes: ["dégustation", "vin"]
 cross_refs: [216, 219]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : apprendre à déguster (vin, café) : vocabulaire juste, méthode en trois temps et découverte guidée à budget maîtrisé.

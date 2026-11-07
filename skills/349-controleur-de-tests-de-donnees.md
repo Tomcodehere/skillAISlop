@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [343, 350]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : couvrir les données de tests automatisés : unicité, non-null, valeurs admises, bornes et cohérence entre tables, exécutés à chaque exécution.

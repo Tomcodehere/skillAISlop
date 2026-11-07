@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [198, 199]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un plan de reprise d'activité : scénarios de sinistre, objectifs RTO/RPO par service, procédures de bascule et exercices réguliers.

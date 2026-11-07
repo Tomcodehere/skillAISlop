@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [64, 162]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tirer parti des heatmaps et enregistrements de session : lire les rage clicks, les abandons de scroll et en faire des corrections UX priorisées.

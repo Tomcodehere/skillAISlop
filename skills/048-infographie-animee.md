@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: []
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir une infographie statique ou animée qui révèle une séquence d'informations, en SVG ou HTML.

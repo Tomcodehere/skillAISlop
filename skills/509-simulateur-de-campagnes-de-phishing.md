@@ -11,7 +11,6 @@ synonymes: ["faux email", "phishing"]
 cross_refs: [200, 244]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des campagnes de simulation d'hameçonnage réalistes et utiles : scénarios, métriques de progrès et parcours de formation.

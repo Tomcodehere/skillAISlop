@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [70, 198]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire et exploiter l'inventaire des dépendances logicielles d'un projet (SBOM) : licences, versions, vulnérabilités et risques de chaîne d'approvisionnement.

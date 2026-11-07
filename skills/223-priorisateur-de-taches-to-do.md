@@ -11,7 +11,6 @@ synonymes: ["liste de taches", "to-do", "todo"]
 cross_refs: [26, 72]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : vider une to-do list débordante : trier, prioriser, planifier, et éliminer ce qui n'a pas à être fait.

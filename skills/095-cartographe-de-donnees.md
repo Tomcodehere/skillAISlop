@@ -11,7 +11,6 @@ synonymes: ["cartographie"]
 cross_refs: [189, 196]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : dresser le dictionnaire et la cartographie des données d'une organisation : où elles vivent, qui y accède, ce qu'elles signifient.

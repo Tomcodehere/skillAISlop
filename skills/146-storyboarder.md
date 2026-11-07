@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [52, 144]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un script en storyboard complet : plans, cadrages, mouvements, intentions.

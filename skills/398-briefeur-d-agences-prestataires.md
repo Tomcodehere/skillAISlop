@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [370, 431]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger un brief de prestation qui évite les allers-retours : objectifs, contraintes, critères de sélection et modalités, sans prescrire la solution.

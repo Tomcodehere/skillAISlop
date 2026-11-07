@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [45, 374]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer et conduire la négociation d'un contrat commercial : points non négociables, concessions échangeables, scénarios et compte rendu.

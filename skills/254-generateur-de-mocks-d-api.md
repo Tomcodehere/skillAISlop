@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [87, 178]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des mocks et fixtures d'API réalistes à partir d'un contrat OpenAPI, pour développer et tester sans backend disponible.

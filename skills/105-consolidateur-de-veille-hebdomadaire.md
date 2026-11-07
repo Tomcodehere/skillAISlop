@@ -11,7 +11,6 @@ synonymes: ["suivre l'actualité", "veille", "veille hebdo"]
 cross_refs: [18, 51]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un flux de veille brut (articles, posts, rapports) en digest hebdomadaire court, hiérarchisé et actionnable.

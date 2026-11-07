@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [13, 91]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : fiabiliser un fichier de données (doublons, anomalies, formats incohérents) avant toute analyse.

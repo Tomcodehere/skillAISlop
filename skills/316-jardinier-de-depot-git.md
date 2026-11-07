@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [68, 301]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : remettre un dépôt Git en ordre : branches mortes taillées, historique lisible, hooks et protections en place.

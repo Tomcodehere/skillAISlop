@@ -11,7 +11,6 @@ synonymes: ["no-code"]
 cross_refs: [9, 15]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer une idée d'application en prototype fonctionnel no-code (Lovable, Bolt.new, Glide) en une session.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [123, 135]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier un lancement complet (avant, pendant, après) qui crée l'attention et convertit.

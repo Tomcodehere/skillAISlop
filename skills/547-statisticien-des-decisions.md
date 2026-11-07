@@ -11,7 +11,6 @@ synonymes: ["significativité", "statistique"]
 cross_refs: [93, 110]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : éclairer une décision par les statistiques : taille d'échantillon, significativité, incertitude et pièges classiques.

@@ -11,7 +11,6 @@ synonymes: ["interculturel"]
 cross_refs: [289, 399]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : travailler efficacement entre cultures : décoder les écarts de codes, adapter sa communication et bâtir des rituels d'équipe inclusifs.

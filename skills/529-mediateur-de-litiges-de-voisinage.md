@@ -11,7 +11,6 @@ synonymes: ["voisin", "voisinage"]
 cross_refs: [46, 137]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : désamorcer un litige de voisinage (bruit, clôture, plantations, travaux) par la médiation structurée avant la procédure.

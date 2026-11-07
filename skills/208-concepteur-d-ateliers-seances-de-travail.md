@@ -11,7 +11,6 @@ synonymes: ["animation de groupe", "atelier", "workshop"]
 cross_refs: [73, 210]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des ateliers qui produisent un résultat concret : objectif clair, séquence rythmée, matériels, rôles.

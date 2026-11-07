@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [61, 208]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : faire aboutir une décision de groupe bloquée : cadrage, options réelles, méthode de choix, engagement.

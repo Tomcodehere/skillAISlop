@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [373, 420]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer un processus métier réel : étapes réellement suivies, goulots d'étranglement, reprises et délais, avec les priorités d'amélioration.

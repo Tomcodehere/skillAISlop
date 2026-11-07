@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [165, 166]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer une démo produit personnalisée : scénario aux problèmes du prospect, données de démonstration crédibles et objections anticipées.

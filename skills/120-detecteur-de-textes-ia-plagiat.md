@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [8, 34]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer l'authenticité d'un texte (probabilité de génération IA, passages plagiés) et en rendre compte honnêtement.

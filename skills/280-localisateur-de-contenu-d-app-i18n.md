@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [7, 117]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : adapter une application ou un contenu à un marché : traduction des chaînes UI, formats locaux et ajustements culturels, sans casser le code.

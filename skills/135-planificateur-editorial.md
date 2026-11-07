@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [30, 53]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : bâtir un calendrier de contenus thématique et réaliste qui tient sur la durée.

@@ -11,7 +11,6 @@ synonymes: ["arnaque", "escroquerie"]
 cross_refs: [247, 513]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer un message ou une offre suspects et protéger ses comptes : signaux d'alerte, vérifications et réaction en cas de piège.

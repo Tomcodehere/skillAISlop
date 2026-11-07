@@ -11,7 +11,6 @@ synonymes: ["abonnement", "desabonnement", "resilier"]
 cross_refs: [43, 115]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : recenser et optimiser les abonnements et dépenses récurrentes : usage réel, duplication, résiliation, renégociation.

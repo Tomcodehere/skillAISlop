@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 362]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir le ton d'une équipe par contexte : matrice de situations (vente, incident, félicitation) avec registre, exemples et contre-exemples.

@@ -11,7 +11,6 @@ synonymes: ["biographie"]
 cross_refs: [472, 490]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : recueillir et écrire le récit de vie d'un proche ou de soi : interviews, structure, manuscrit familial transmissible.

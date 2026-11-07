@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [50, 56]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : structurer les notes, projets et savoirs d'une personne ou d'une équipe en base de connaissances navigable.

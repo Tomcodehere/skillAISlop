@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [97, 256, 330]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rendre un agent observable : trace d'exécution, décisions prises, coûts et échecs, avec les métriques qui alertent.

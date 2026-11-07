@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [374, 442]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des CGU et mentions légales qui protègent : obligations de l'utilisateur, droits et limits de responsabilité, blocs obligatoires complets et langage lisible.

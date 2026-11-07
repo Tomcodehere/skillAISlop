@@ -11,7 +11,6 @@ synonymes: ["miles"]
 cross_refs: [42, 173]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tirer parti des programmes de fidélité voyage : quel programme pour son profil, accumulation ciblée et dépense à bon escient.

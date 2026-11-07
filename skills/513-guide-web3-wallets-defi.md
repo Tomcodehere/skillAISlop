@@ -11,7 +11,6 @@ synonymes: ["nft", "wallet", "web3"]
 cross_refs: [247, 512]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : accompagner les premiers pas pratiques dans web3 : choisir et sécuriser un wallet, comprendre DeFi et NFT, éviter les pièges.

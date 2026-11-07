@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [22, 23]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : documenter une décision technique importante avec son contexte, ses options et ses conséquences, pour qu'elle reste compréhensible dans deux ans.

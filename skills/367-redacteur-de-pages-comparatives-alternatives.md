@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [123, 164]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des pages comparatives honnêtes qui convertissent : comparatif factuel, tableaux clairs, verdict assumé et questions fréquentes.

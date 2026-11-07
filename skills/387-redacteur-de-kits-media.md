@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [137, 386]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : assembler un kit média complet : communiqué, fiche entreprise, bios, visuels, données et FAQ, prêt à repartir par le journaliste.

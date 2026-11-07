@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [23]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer une description en langage naturel en diagrammes d'architecture et de flux de données exploitables.

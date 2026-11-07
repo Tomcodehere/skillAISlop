@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [464, 498]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un plan de lecture qui se tient : pile triée par intention, ordre de lecture réfléchi et rythme réaliste.

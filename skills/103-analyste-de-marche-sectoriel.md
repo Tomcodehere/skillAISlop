@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [32, 57]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire une analyse de marché structurée (taille, tendances, acteurs, barrières) pour éclairer une décision d'entrée ou d'investissement.

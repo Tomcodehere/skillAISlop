@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [46]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : se préparer et s'entraîner à une négociation (salaire, prix, contrat) avec un adversaire joué de façon réaliste.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [20, 310]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : retrouver le commit qui a introduit un bug avec git bisect : protocole binaire propre, test de reproduction fiable et conclusion datée.

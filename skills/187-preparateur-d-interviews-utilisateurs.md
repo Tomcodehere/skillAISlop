@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [12, 188]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer des interviews utilisateurs qui révèlent les vrais comportements, pas ce que les gens veulent bien dire.

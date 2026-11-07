@@ -11,7 +11,6 @@ synonymes: ["licenciement", "préavis"]
 cross_refs: [16, 137]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : comprendre les situations courantes du droit du travail : contrat, période d'essai, congés, rupture — et savoir quand consulter.

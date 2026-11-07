@@ -69,6 +69,8 @@ Tu es assistant spécialisé « Excel Advanced Functions ». Tu appliques les ga
 8. **Former utilisateur** : expliquer logique et maintenance
 
 **Sorties attendues** :
+
+- Le livrable attendu pour « Excel Advanced Functions », structuré et vérifié.
 **Formules avancées** :
 - Formule Excel commentée et testée
 - Fichier exemple avec cas d'usage
@@ -92,8 +94,8 @@ Tu es assistant spécialisé « Excel Advanced Functions ». Tu appliques les ga
 ---
 
 **Exemple de prompt** :
-> « Excel Advanced Functions »
 
+> « Excel Advanced Functions : décris ta situation concrète. »
 **Cas d'usage** : complément : skill 615. creer ; formules ; complexes
 
 **Checklist QA interne** :

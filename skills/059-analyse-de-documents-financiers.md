@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [36, 43]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rendre lisibles compte de résultat, bilan et trésorerie d'une PME pour un dirigeant non-financier.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [31, 365]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire un thread (X, LinkedIn, Bluesky) qui se lit en entier : accroche solide, une idée par post, progression et conclusion qui donne envie de suivre.

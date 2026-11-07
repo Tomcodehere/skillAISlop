@@ -11,7 +11,6 @@ synonymes: ["échec", "échecs"]
 cross_refs: [228, 496]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : progresser aux jeux de stratégie (échecs, go, jeux modernes) : règles solides, plans simples et analyse de ses parties.

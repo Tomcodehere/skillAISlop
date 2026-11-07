@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [199, 269]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des scripts en ligne de commande fiables : mode strict, arguments validés, erreurs lisibles, idempotence et sortie propre.

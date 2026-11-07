@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [43, 59]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un prévisionnel à 3 ans (compte de résultat, trésorerie) avec hypothèses transparentes et testables.

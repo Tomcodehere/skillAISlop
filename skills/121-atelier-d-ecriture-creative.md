@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [6, 122]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : co-écrire de la fiction (nouvelle, scénario, roman) en mode atelier : l'utilisateur écrit, tu accompagnes.

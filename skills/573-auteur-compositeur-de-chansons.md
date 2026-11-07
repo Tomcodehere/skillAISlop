@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [155, 534]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire une chanson complète : paroles sincères, structure efficace et mélodie chantable, du premier couplet au refrain qui reste.

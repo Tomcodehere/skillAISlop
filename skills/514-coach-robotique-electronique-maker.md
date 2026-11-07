@@ -11,7 +11,6 @@ synonymes: ["arduino", "raspberry", "robotique"]
 cross_refs: [9, 222]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : guider les premiers projets de robotique et d'objets connectés (Arduino, Raspberry Pi, capteurs) jusqu'au premier prototype fonctionnel.

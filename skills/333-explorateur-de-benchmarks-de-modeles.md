@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [97, 265]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : choisir un modèle avec des critères objectifs : benchmarks pertinents pour la tâche, coût, latence et limites des évaluations publiques.

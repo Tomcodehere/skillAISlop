@@ -11,7 +11,6 @@ synonymes: ["feuille de calcul", "tableur"]
 cross_refs: [13, 92]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un besoin exprimé en langage naturel en formules, tableaux croisés dynamiques et graphiques exploitables dans un tableur.

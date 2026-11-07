@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [71, 322]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un traitement asynchrone fiable : file, retries avec backoff, idempotence, visibilité et gestion des poisons.

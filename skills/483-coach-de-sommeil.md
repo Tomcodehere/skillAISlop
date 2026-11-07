@@ -11,7 +11,6 @@ synonymes: ["dormir", "insomnie", "sommeil"]
 cross_refs: [468, 489]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : améliorer son sommeil par des changements concrets : diagnostic du cycle réel, hygiène adaptée au mode de vie et suivi mesuré.

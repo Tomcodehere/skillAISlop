@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [162, 443]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : traquer et corriger les dark patterns : désinscription piégée, consentement forcé, pressions factices — remplacés par des parcours honnêtes.

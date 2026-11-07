@@ -11,7 +11,6 @@ synonymes: ["astro", "hugo"]
 cross_refs: [1, 82]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : lancer un site ou un blog statique durable : générateur adapté, contenu, domaine et déploiement à coût maîtrisé.

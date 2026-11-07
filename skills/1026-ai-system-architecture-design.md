@@ -15,8 +15,7 @@ cross_refs: [1077]
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
-**Objectif** : 
-
+**Objectif** :  AI System Architecture Design
 **Quand l'utiliser (triggers)** :
 - demande liée
 

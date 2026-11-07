@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [407, 497]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir son parcours d'apprentissage annuel : objectifs triés par intention, ressources choisies, jalons livrables et revue de cap.

@@ -11,7 +11,6 @@ synonymes: ["godot", "unity"]
 cross_refs: [9, 575]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : guider la création d'un premier jeu vidéo : moteur adapté, périmètre minuscule et boucle jouable livrée rapidement.

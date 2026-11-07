@@ -11,7 +11,6 @@ synonymes: ["pricing", "tarification"]
 cross_refs: [32, 57]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : définir un modèle de prix (structure, niveau, paliers) qui sert les objectifs business et le positionnement.

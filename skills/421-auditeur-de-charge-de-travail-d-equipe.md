@@ -11,7 +11,6 @@ synonymes: ["burnout", "surcharge de travail"]
 cross_refs: [420, 475]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer la charge réelle d'une équipe : volume vs capacité, répartition inégale, charges invisibles et plan de rééquilibrage.

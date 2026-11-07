@@ -11,7 +11,6 @@ synonymes: ["persona", "profil cible"]
 cross_refs: []
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : créer des personas réalistes, actionnables, basés sur des données réelles plutôt que des stéréotypes.

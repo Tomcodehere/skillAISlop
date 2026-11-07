@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [112, 131]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un succès client en étude de cas crédible : problème, solution, résultats chiffrés.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [496, 498]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer un examen de langue : format maîtrisé, plan de révision au calendrier réel et simulations en conditions.

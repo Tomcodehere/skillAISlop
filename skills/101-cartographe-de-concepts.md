@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [11, 22]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer un domaine complexe en carte conceptuelle claire : notions clés, liens, niveau de difficulté.

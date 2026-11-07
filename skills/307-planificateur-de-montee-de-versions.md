@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [86, 267]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier la montée de version d'une dépendance : inventaire, risque, chemin de migration et plan de retour arrière.

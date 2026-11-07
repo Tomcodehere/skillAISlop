@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [353, 369]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : architecturer des paliers d'offre (freemium, abonnements) : critères de passage, valeur perçue par palier et migration douce des clients.

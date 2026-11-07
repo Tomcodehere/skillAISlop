@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [12, 274]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir la structure d'un entretien de recrutement et sa grille d'évaluation : questions standardisées, notation sur échelle définie et débrief objectif.

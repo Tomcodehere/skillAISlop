@@ -11,7 +11,6 @@ synonymes: ["permis"]
 cross_refs: [41, 496]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer l'examen du code de la route : révision ciblée, séries de test et gestion du jour J.

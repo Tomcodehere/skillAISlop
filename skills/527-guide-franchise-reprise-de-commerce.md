@@ -11,7 +11,6 @@ synonymes: ["commerçant", "franchise"]
 cross_refs: [170, 427]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer et préparer un projet de franchise ou de reprise de commerce : budget, dossier, contrat et plan de reprise.

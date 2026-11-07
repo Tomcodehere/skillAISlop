@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [81, 149]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : fonder un design system vivant : tokens, composants, règles d'usage et gouvernance.

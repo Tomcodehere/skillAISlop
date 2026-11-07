@@ -11,7 +11,6 @@ synonymes: ["concentration", "deep work"]
 cross_refs: [463, 489]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : instaurer le travail profond dans une routine réelle : plages protégées réalistes, hygiène d'attention et progression progressive.

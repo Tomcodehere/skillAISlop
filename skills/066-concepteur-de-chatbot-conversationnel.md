@@ -11,7 +11,6 @@ synonymes: ["assistant conversationnel", "chatbot"]
 cross_refs: [37, 56]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir les intentions, flux et messages d'un chatbot utile : support, qualification, guidance.

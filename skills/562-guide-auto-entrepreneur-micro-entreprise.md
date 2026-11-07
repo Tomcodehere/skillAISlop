@@ -11,7 +11,6 @@ synonymes: ["entrepreneur", "micro"]
 cross_refs: [297, 563]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : démarrer et tenir une micro-entreprise : statut adapté, obligations légères mais réelles, seuils et passage à la société.

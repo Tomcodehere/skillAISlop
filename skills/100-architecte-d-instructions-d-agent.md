@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [66, 194]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire les instructions système complètes d'un agent autonome : rôle, limites, procédure, ton, garde-fous.

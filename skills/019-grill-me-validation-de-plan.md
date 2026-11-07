@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [15, 17]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : stress-tester un plan, une architecture ou une décision en interviewant l'utilisateur jusqu'à compréhension partagée, avant toute exécution.

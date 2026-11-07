@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [403, 404]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger les messages collectifs de l'entreprise : vœux, résultats, jalons — sincères, courts et sans langue de bois.

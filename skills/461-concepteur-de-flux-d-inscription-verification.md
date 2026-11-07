@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [452, 453]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un flux d'inscription et de vérification : étapes minimales, vérification proportionnée au risque et reprise sans perte.

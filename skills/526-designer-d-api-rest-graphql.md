@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [79, 87]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir une API REST ou GraphQL de qualité : ressources, contrats, versionnage et erreurs prévisibles.

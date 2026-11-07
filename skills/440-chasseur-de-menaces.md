@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [441, 447]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : traquer les menaces dans les logs et l'activité : hypothèses de chasse, indicateurs de compromission, règles de détection et pistes documentées.

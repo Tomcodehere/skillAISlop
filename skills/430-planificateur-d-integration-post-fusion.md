@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [404, 426]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier l'intégration après une fusion ou acquisition : jalons à 30/90/180 jours, harmonisation des pratiques et rétention des acteurs clés.

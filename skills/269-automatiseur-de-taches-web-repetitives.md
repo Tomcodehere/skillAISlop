@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [71, 91]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : décrire et scripter des actions web répétitives (saisie de formulaires, comparaisons, soumissions) pour les exécuter en série de façon fiable.

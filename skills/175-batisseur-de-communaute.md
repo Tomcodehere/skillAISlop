@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [135, 192]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir la croissance saine d'une communauté (rituels, contenus, rôles, valeurs) qui vit sans son fondateur.

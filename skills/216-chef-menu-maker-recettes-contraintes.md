@@ -11,7 +11,6 @@ synonymes: ["cuisiner", "menu", "recette"]
 cross_refs: [215, 229]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : inventer des recettes avec les ingrédients disponibles, les contraintes (temps, matériel, allergies) et le niveau du cuisinier.

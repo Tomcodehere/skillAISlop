@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [9]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : implémenter une fonctionnalité en petits morceaux complets, vérifiés un par un, plutôt qu'en un gros bloc.

@@ -11,7 +11,6 @@ synonymes: ["comptabilité"]
 cross_refs: [59, 170]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tenir la comptabilité d'une TPE sereinement : vocabulaire, comptes utiles, obligations et dialogue efficace avec l'expert-comptable.

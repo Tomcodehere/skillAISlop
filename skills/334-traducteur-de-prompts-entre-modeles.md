@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [17, 338]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : porter un prompt d'un modèle vers un autre en conservant le comportement : adaptation de la syntaxe, des conventions et des garde-fous.

@@ -11,7 +11,6 @@ synonymes: ["ghostwriter", "ghostwriting", "tribune"]
 cross_refs: [31, 386]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger une tribune signée par un expert : prise de position claire, argumentaire étayé, voix de l'auteur et longueur du média visé.

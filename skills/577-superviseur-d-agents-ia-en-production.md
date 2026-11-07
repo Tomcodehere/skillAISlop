@@ -11,7 +11,6 @@ synonymes: ["tracing"]
 cross_refs: [326, 330]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : superviser des agents IA en production : traçabilité des exécutions, coûts suivis, alertes utiles et plan de dégradation.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [10, 37, 68]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : auditer du code selon les vulnérabilités OWASP et produire un rapport de correction priorisé et contextualisé.

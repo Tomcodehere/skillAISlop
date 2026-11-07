@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [9, 86]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : convertir un projet d'un langage ou paradigme à un autre (Python → TypeScript, classe → fonctionnel) en préservant le comportement.

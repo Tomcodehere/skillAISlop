@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [399, 413]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : créer des canaux de feedback anonyme qui fonctionnent : confiance vérifiable, sujets traités, réponses visibles et protection réelle des auteurs.

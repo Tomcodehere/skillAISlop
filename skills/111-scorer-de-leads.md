@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [54, 106]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : classer des prospects par probabilité de conversion pour concentrer l'effort commercial sur les meilleurs.

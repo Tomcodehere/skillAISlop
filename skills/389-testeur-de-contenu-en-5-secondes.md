@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [162, 352]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer le premier rendu d'un contenu : ce qu'un lecteur comprend, retient et croit devoir faire après 5 secondes.

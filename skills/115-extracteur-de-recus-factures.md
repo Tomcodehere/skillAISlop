@@ -11,7 +11,6 @@ synonymes: ["facturation", "facture"]
 cross_refs: [27, 43]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer des reçus et factures en données comptables propres et catégorisées, prêtes pour la déclaration.

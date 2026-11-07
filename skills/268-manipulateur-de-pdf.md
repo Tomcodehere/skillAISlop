@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [5, 115]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : effectuer des opérations concrètes sur des PDF : extraction de tableaux et formulaires, fusion, découpage, annotation et compression.

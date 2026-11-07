@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [85, 89]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : automatiser le déploiement et l'orchestration d'une application, du commit à la production.

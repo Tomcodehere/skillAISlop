@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [44, 206]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des fiches de poste et offres d'emploi précises qui attirent les bons candidats et écartent les autres.

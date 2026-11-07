@@ -11,7 +11,6 @@ synonymes: ["aidant", "parent age"]
 cross_refs: [481, 483]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : soutenir les aidants familiaux : charge répartie, organismes mobilisés, limites posées et attentions à soi non sacrifiées.

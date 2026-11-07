@@ -11,7 +11,6 @@ synonymes: ["conformité", "données personnelles", "rgpd"]
 cross_refs: [16, 193]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger les documents de conformité de base (politique de confidentialité, CGU, mentions légales) adaptés au produit réel.

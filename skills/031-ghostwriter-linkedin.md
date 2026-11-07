@@ -11,7 +11,6 @@ synonymes: ["linkedin"]
 cross_refs: [30]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des posts LinkedIn qui construisent une autorité, avec la voix authentique de l'auteur.

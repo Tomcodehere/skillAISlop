@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [34, 148]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire un brief de shooting (photo ou vidéo) assez précis pour qu'un exécutant produise sans question supplémentaire.

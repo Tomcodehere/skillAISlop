@@ -11,7 +11,6 @@ synonymes: ["q&a en direct", "questions reponses en direct"]
 cross_refs: [235, 404]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : animer une session de questions-réponses en direct : préparation des questions probables, tri en direct, réponses courtes et suivi après.

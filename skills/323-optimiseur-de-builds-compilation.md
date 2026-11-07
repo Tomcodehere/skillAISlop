@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [82, 313]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : réduire le temps de build : cache, parallélisme, découpage et suppression du superflu, avec le gain mesuré à chaque étape.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [15]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : gérer une tâche complexe multi-sessions avec un plan, des constats et une progression tenus à jour dans des documents vivants.

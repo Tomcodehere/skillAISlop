@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [93, 170]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : prévoir une série temporelle métier : tendance, saisonnalité, intervalle de confiance et limites honnêtes de la prévision.

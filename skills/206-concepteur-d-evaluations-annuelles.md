@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [202, 204]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir un processus d'évaluation annuelle juste, utile et sans surprise : critères, trame, conduite de l'entretien.

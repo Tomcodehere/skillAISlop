@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [154, 201]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire des vidéos avec présentateur virtuel (avatar IA) crédibles et utiles, du script au rendu final.

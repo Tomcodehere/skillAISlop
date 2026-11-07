@@ -11,7 +11,6 @@ synonymes: ["parentalité", "punir"]
 cross_refs: [132, 483]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : soutenir les parents par des repères concrets d'éducation : cadres, cohérence, âges et situations du quotidien.

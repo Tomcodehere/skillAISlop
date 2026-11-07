@@ -11,7 +11,6 @@ synonymes: ["chiffrage", "devis"]
 cross_refs: [16, 58]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des propositions et devis freelance qui convertissent sans brader la valeur.

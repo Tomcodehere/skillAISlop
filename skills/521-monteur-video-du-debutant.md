@@ -11,7 +11,6 @@ synonymes: ["capcut", "imovie", "montage"]
 cross_refs: [144, 158]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : apprendre le montage vidéo de zéro : logiciel adapté, gestes de base et premier film monté rapidement.

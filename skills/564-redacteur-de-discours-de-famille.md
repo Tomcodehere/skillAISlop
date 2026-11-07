@@ -11,7 +11,6 @@ synonymes: ["toast"]
 cross_refs: [75, 537]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire un discours de famille juste (mariage, anniversaire, départ) : ton sincère, structure émotionnelle et longueur maîtrisée.

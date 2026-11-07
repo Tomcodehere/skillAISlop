@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [31, 44]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : écrire des bios professionnelles courtes et mémorables, adaptées à chaque plateforme.

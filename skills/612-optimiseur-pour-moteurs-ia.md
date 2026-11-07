@@ -11,7 +11,6 @@ synonymes: ["geo", "perplexity"]
 cross_refs: [161, 367]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : optimiser la visibilité d'un contenu dans les réponses des moteurs IA (ChatGPT, Perplexity, AI Overviews), au-delà du SEO classique.

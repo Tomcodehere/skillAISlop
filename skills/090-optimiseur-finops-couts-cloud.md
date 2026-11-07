@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [36, 82]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : réduire la facture cloud sans dégrader le service, en arbitrant sur des chiffres.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [394, 452]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : rédiger des messages d'erreur utiles : ce qui s'est passé, pourquoi, ce que l'utilisateur peut faire maintenant — sans jargon ni blâme.

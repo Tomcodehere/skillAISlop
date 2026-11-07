@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [71, 224]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des routines d'agents planifiées : tâches récurrentes déclenchées à heure fixe, avec garde-fous et compte rendu automatique.

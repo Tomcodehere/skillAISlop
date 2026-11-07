@@ -11,7 +11,6 @@ synonymes: ["maths", "mathématiques"]
 cross_refs: [39, 496]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : faire progresser en mathématiques : diagnostic des lacunes, explications par l'intuition et exercices gradués.

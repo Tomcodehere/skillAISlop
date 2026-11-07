@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [4]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : désembrasser une boîte de réception : classer, prioriser et rédiger les brouillons de réponse.

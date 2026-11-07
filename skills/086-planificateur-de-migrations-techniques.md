@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [21, 83]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : planifier une migration risquée (version de framework, de base, de cloud) sans interruption de service.

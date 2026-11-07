@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [170, 190]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : monter un dossier de subvention solide : éligibilité, narrative, budget, pièces, respect du cadre d'évaluation.

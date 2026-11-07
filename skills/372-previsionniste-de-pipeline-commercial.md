@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [36, 112]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire une prévision de pipeline fiable : pondération par étape, vélocité et scénarios qui résistent au comité.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [48, 130]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer une procédure en tutoriel pas-à-pas illustré : étapes numérotées, capture annotée par étape et points de vérification pour que l'utilisateur sache qu'il est sur la bonne voie.

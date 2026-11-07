@@ -11,7 +11,6 @@ synonymes: ["impaye", "relance paiement"]
 cross_refs: [45, 115]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : récupérer les factures impayées en préservant la relation : calendrier de relance gradué, messages adaptés au stade et escalade encadrée.

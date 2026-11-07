@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [13, 63]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : transformer des verbatims clients (enquêtes, avis, tickets) en insights priorisés et actionnables.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [48, 107]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : représenter des données sur une carte : choix du fond, du niveau d'agrégation, de la palette et des pièges de lecture évités.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [390, 453]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : concevoir des états vides utiles : ce que la page fera, comment la remplir, premier pas proposé — l'utilisateur jamais bloqué face à du blanc.

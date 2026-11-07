@@ -11,7 +11,6 @@ synonymes: ["journal"]
 cross_refs: [287, 498]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tenir une pratique d'écriture réflexive durable : format adapté, rituel d'écriture et questions de relance pour réfléchir vraiment.

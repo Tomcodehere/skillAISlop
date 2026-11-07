@@ -11,7 +11,6 @@ synonymes: ["augmentation de salaire", "negocier une augmentation"]
 cross_refs: [45, 277]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer une demande d'augmentation solide : dossier de valeur, chiffres du marché, scénario de conversation et réponse aux objections.

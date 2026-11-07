@@ -11,7 +11,6 @@ synonymes: ["auto-amélioration", "leçons"]
 cross_refs: [38, 260]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : installer une boucle où l'agent consigne ses erreurs et règles de fonctionnement pour ne plus les répéter.

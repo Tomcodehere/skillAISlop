@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [13, 106]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire un modèle de prédiction simple et explicable (tendance, score, classement) sur des données métier.

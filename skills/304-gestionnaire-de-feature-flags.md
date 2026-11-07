@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [110, 163]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : mettre en place des feature flags propres : activation progressive, ciblage, kill switch et hygiène des flags obsolètes.

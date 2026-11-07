@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [32, 279]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : analyser les publicités actives des concurrents : angles, promesses, cibles et fréquences, pour en tirer des enseignements actionnables.

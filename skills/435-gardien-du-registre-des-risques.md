@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [273, 427]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : tenir un registre des risques vivant : risques identifiés et évalués, propriétaires nommés, plans d'action suivis et revue périodique.

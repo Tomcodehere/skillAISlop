@@ -11,7 +11,6 @@ synonymes: ["bug", "debug", "erreur de code", "ça marche pas"]
 cross_refs: [10]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : diagnostiquer la cause racine d'un bug complexe avec une méthodologie en 4 phases, sans patch symptomatique.

@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [494, 498]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : bâtir un système de lecture personnel qui tourne : sources triées, pile maîtrisée, notes durables et rituel de traitement.

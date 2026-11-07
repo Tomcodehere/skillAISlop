@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [235, 403]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : préparer un porte-parole à un point presse : messages clés, questions difficiles, réponses courtes et attitudes à éviter.

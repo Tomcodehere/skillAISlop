@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [104, 116]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : construire une bibliographie conforme aux normes (APA, MLA, Chicago) et vérifier la cohérence des citations.

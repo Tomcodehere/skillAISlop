@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [286, 442]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : évaluer l'empreinte carbone du numérique : usages lourds, appareils, cloud et contenus — avec les gestes qui comptent vraiment.

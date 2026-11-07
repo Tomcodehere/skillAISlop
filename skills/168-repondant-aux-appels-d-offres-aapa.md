@@ -11,7 +11,6 @@ synonymes: []
 cross_refs: [57, 62]
 ---
 
-
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : produire une réponse structurée et conforme à un appel d'offres public ou privé, dans le temps imparti.
