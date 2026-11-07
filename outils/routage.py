@@ -2145,7 +2145,7 @@ def _json_dumps(x) -> str:
     return json.dumps(x, ensure_ascii=False)
 
 
-VEC_DIM = 64  # dimension des embeddings locaux (hash bag-of-words normalisé) — 64 suffit à 1350 skills, 2x plus rapide
+VEC_DIM = 32  # 32 suffit à 1 351 skills (hash bag-of-words) — 2x moins de calcul vec
 CATALOGUE_VERSION = "12.0.0"  # version sémantique du catalogue (vague 12 = 900 sections)
 VEC_SEUIL = 0.88  # candidat vec (exit 0) : seuil strict, le contextual enrichment monte les cosinus  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
 VEC_PISTE = 0.80  # au-dessus, la meilleure candidate vec devient piste (exit 1) — même seuil que les candidats
@@ -2761,19 +2761,21 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
         for k in ("exact", "fts", "vec", "flou"):
             res[k] = sorted(res[k], key=lambda c: -(c.get("score") or 0))[:top]
 
-    # 6) fusion RRF (k=60) des voies en un classement hybride : rang plutôt que score brut
+    # 6) fusion RRF (k=60) en UN SEUL passage avec top-K précoce (évite un 2e parcours + tri complet)
     K_RRF = 60
     fusion = {}
-    for voie, liste in (("exact", res["exact"]), ("fts", res["fts"]),
-                        ("vec", res["vec"]), ("flou", res["flou"])):
+    for voie, liste in (("exact", res["exact"][:top]), ("fts", res["fts"][:top]),
+                        ("vec", res["vec"][:top]), ("flou", res["flou"][:top])):
         for rang, c in enumerate(liste):
-            fusion.setdefault(c["num"], {"c": c, "rrf": 0.0, "voies": []})
-            fusion[c["num"]]["rrf"] += 1.0 / (K_RRF + rang)
-            fusion[c["num"]]["voies"].append(voie)
-    for v in fusion.values():
-        v["c"]["rrf"] = round(v["rrf"], 4)
-        v["c"]["voies"] = v["voies"]
-    res["fusion"] = [v["c"] for v in sorted(fusion.values(), key=lambda v: -v["rrf"])][:top]
+            e = fusion.get(c["num"])
+            if e is None:
+                if len(fusion) >= top * 3:  # top-K précoce : on garde 3x top candidats max
+                    continue
+                e = fusion[c["num"]] = {"c": c, "rrf": 0.0, "voies": []}
+            e["rrf"] += 1.0 / (K_RRF + rang)
+            e["voies"].append(voie)
+    res["fusion"] = [e["c"] for e in sorted(fusion.values(), key=lambda v: -v["rrf"])[:top]
+                     for e in [dict(e, c=dict(e["c"], rrf=round(e["rrf"], 4)))]]
     return res
 
 

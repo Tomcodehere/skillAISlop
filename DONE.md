@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Perf 1+3+5 : fusion RRF en un seul passage + top-K précoce + vec dim 32 → route 4,8 ms (min 3,0) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
+
 - [x] **2026-11-07** — Perf profilée : cache LRU norm/tokens + passe synonymes en SQL (synonyme_norm indexé) → route 11,3 → 4,8 ms (−58 %) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
 
 - [x] **2026-11-07** — Pack : deflate conservé (1,93 Mo, meilleur que LZMA 2,2 Mo sur markdown), skills.db exclu (régénéré par build --from-skills) — HNSW documenté en TODO (non supporté sqlite-vec 0.1.9, utile > 5 000 skills) — 649/649 tests, sonde 100 %, pack FIDÈLE
