@@ -1502,6 +1502,106 @@
 | 1497 | Analyser les demandes non routees (misses) et boucler (2027) | Routage|
 | 1498 | Automatisations souveraines avec n8n auto-heberge (2027) | Productivité|
 | 1499 | Resumer automatiquement une reunion avec actions (2027) | Productivité|
+| 1500 | Choisir son moteur de jeu : Unity, Godot ou Unreal (2027) | Game Dev|
+| 1501 | Boucle de jeu fixe : fixed timestep et interpolation (2027) | Game Dev|
+| 1502 | Gestion des scenes et transitions (2027) | Game Dev|
+| 1503 | Sauvegarde et chargement de partie (2027) | Game Dev|
+| 1504 | Systeme d'input moderne : actions, gamepad, remappable (2027) | Game Dev|
+| 1505 | Camera 2D : follow, deadzone et lookahead (2027) | Game Dev|
+| 1506 | Camera 3D third-person : collision et lock-on (2027) | Game Dev|
+| 1507 | Detection de collision 2D : AABB, cercles, SAT (2027) | Game Dev|
+| 1508 | Hitbox, hurtbox et i-frames (2027) | Game Dev|
+| 1509 | Physique 2D custom : gravité et saut variable (2027) | Game Dev|
+| 1510 | Plateformer : coyote time et jump buffering (2027) | Game Dev|
+| 1511 | Mouvement 8 directions et dash (2027) | Game Dev|
+| 1512 | Tilemap et autotiling par regles de bits (2027) | Game Dev|
+| 1513 | Generation procédurale de donjons : rooms et corridors (2027) | Game Dev|
+| 1514 | Cavernes par cellular automata (2027) | Game Dev|
+| 1515 | Bruit de Perlin pour terrain et heightmap (2027) | Game Dev|
+| 1516 | Wave Function Collapse (WFC) simplifié (2027) | Game Dev|
+| 1517 | Pathfinding A* avec poids et flow field (2027) | Game Dev|
+| 1518 | Navmesh 3D : baking et navigation (2027) | Game Dev|
+| 1519 | IA ennemie : state machine (FSM) simple (2027) | Game Dev|
+| 1520 | Perception ennemie : vue, ouïe et memoire (2027) | Game Dev|
+| 1521 | Utility AI : choisir l'action par score (2027) | Game Dev|
+| 1522 | GOAP : planification d'actions par objectif (2027) | Game Dev|
+| 1523 | Stealth : ligne de vue et cone de vision avances (2027) | Game Dev|
+| 1524 | Raycast et ligne de vue (LOS) en 2D/3D (2027) | Game Dev|
+| 1525 | Coordination d'ennemis : flanquement et focus (2027) | Game Dev|
+| 1526 | Boss : phases et patterns telegraphes (2027) | Game Dev|
+| 1527 | Spawner de vagues a difficulté progressive (2027) | Game Dev|
+| 1528 | Loot table ponderee et pity timer (2027) | Game Dev|
+| 1529 | Equilibrage d'economie interne : inflation et sinks (2027) | Game Dev|
+| 1530 | Progression joueur : XP, courbes de niveau et paliers (2027) | Game Dev|
+| 1531 | Systeme de quetes : journal, objectifs, recompenses (2027) | Game Dev|
+| 1532 | Arbre de dialogue avec conditions et consequences (2027) | Game Dev|
+| 1533 | Localisation in-game des textes (i18n des dialogues, 2027) | Game Dev|
+| 1534 | Inventaire : grille, drag and drop, stacking (2027) | Game Dev|
+| 1535 | Equipement et stats : armes, armures, rarete (2027) | Game Dev|
+| 1536 | Crafting : recettes, materiaux et forge (2027) | Game Dev|
+| 1537 | Arbre de competences (skill tree) et respec (2027) | Game Dev|
+| 1538 | Succes (achievements) et deblocages (2027) | Game Dev|
+| 1539 | Sauvegarde cloud et sync multi-appareils (2027) | Game Dev|
+| 1540 | Analytics de jeu : funnels, rétention D1/D7, telemetry (2027) | Game Dev|
+| 1541 | A/B testing in-game : evenements saisonniers (2027) | Game Dev|
+| 1542 | Live ops : evenements saisonniers et battle pass simple (2027) | Game Dev|
+| 1543 | Anti-triche : validation cote serveur (2027) | Game Dev|
+| 1544 | Architecture multijoueur : client-serveur vs P2P (2027) | Game Dev|
+| 1545 | Lag compensation : rewind et reconciliation (2027) | Game Dev|
+| 1546 | Lockstep vs snapshot interpolation (2027) | Game Dev|
+| 1547 | Prediction client et reconciliation serveur (2027) | Game Dev|
+| 1548 | Chat in-game et moderation automatique (2027) | Game Dev|
+| 1549 | Matchmaking : ELO/MMR simple et files d'attente (2027) | Game Dev|
+| 1550 | ECS : composition vs heritage pour le gameplay (2027) | Game Dev|
+| 1551 | Object pooling : reutiliser les objets (2027) | Game Dev|
+| 1552 | Profilage memoire et CPU du jeu (2027) | Game Dev|
+| 1553 | Draw calls : batching, atlas et occlusion culling (2027) | Game Dev|
+| 1554 | Sprite atlas : packer les sprites en 1 texture (2027) | Game Dev|
+| 1555 | Post-processing : vignette, grain, bloom legers (2027) | Game Dev|
+| 1556 | Eclairage 2D : lights, ombres et normal maps (2027) | Game Dev|
+| 1557 | Particules GPU : instancing pour milliers de particules (2027) | Game Dev|
+| 1558 | Screen shake et hit feedback visuel (2027) | Game Dev|
+| 1559 | Juice : game feel (squash & stretch, hitstop, particules) (2027) | Game Dev|
+| 1560 | State machine d'animation (Animator, 2027) | Game Dev|
+| 1561 | Blend trees : mouvement multidirectionnel fluide (2027) | Game Dev|
+| 1562 | Rigging procédural et IK deux os (2027) | Game Dev|
+| 1563 | IK avancé : full body et look-at (2027) | Game Dev|
+| 1564 | Ragdoll physique sur un personnage (2027) | Game Dev|
+| 1565 | Destruction procédurale simple (fracture de mesh, 2027) | Game Dev|
+| 1566 | Middleware audio : intégrer FMOD ou Wwise (2027) | Game Dev|
+| 1567 | Musique adaptative : layers selon l'intensite (2027) | Game Dev|
+| 1568 | SFX réactifs : variation de pitch/volume et pooling (2027) | Game Dev|
+| 1569 | Voix off (VO) : pipeline de doublage (2027) | Game Dev|
+| 1570 | HUD et minimap : barre de vie, jauge, objectifs (2027) | Game Dev|
+| 1571 | Menus accessibles : navigation clavier et manette (2027) | Game Dev|
+| 1572 | Tutoriel in-game contextuel et skippable (2027) | Game Dev|
+| 1573 | Ecran de chargement et streaming de niveaux (2027) | Game Dev|
+| 1574 | Ecran des reglages : qualité graphique, audio, contrôles (2027) | Game Dev|
+| 1575 | Accessibilite d'un jeu : daltonisme, tailles, secousses, sous-titres (2027) | Game Dev|
+| 1576 | Support des mods : architecture modable (JSON, scripts, 2027) | Game Dev|
+| 1577 | Console de commandes et cheats de dev (2027) | Game Dev|
+| 1578 | Versioning des builds et changelog joueur (2027) | Game Dev|
+| 1579 | Publication sur Steam : builds, depots et mise en ligne (2027) | Game Dev|
+| 1580 | Steamworks : succes, leaderboards, cloud saves, lobby (2027) | Game Dev|
+| 1581 | Page store et marketing d'un jeu (Steam, itch, 2027) | Game Dev|
+| 1582 | Monetisation mobile éthique : pub rewarded et IAP (2027) | Game Dev|
+| 1583 | Gacha et loot boxes : conformite legale en 2027 (2027) | Game Dev|
+| 1584 | RGPD et protection des mineurs dans un jeu video (2027) | Game Dev|
+| 1585 | Performance mobile : 60 fps, batterie et thermique (2027) | Game Dev|
+| 1586 | Build mobile : IL2CPP, Addressables, taille de l'app (2027) | Game Dev|
+| 1587 | Portage console : Switch, PS5, Xbox et certification (2027) | Game Dev|
+| 1588 | Soldes Steam et prix regionaux (2027) | Game Dev|
+| 1589 | Gerer les avis negatifs et une crise post-lancement (2027) | Game Dev|
+| 1590 | Addressables et DLC : contenu telechargeable et patchs (2027) | Game Dev|
+| 1591 | Tests automatises de gameplay (playmode tests, 2027) | Game Dev|
+| 1592 | CI/CD pour un jeu : builds auto multi-plateformes (2027) | Game Dev|
+| 1593 | Vertical slice : la tranche verticale de démonstration (2027) | Game Dev|
+| 1594 | Pitch deck pour un editeur de jeux video (2027) | Game Dev|
+| 1595 | Budget et planning d'un jeu independant (2027) | Game Dev|
+| 1596 | Communaute et devlog : Discord, reseaux, transparence (2027) | Game Dev|
+| 1597 | Demo Steam Next Fest et salons de jeu (2027) | Game Dev|
+| 1598 | Playtest organise : recruter, questionnaire, synthèse (2027) | Game Dev|
+| 1599 | Accessibilite legale des jeux video en Europe (2027) | Game Dev|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -2237,6 +2337,6 @@
 | 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
 | 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1499 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1599 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

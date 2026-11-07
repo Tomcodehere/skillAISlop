@@ -1,6 +1,6 @@
 # Documentation skillAISlop — générée automatiquement (gen_docs.py)
 
-**1499 skills** + 1 routeur (skill 0, non compté) · **28 domaines** · **1697 synonymes** · **1500 FTS** · **1500 vecteurs**
+**1599 skills** + 1 routeur (skill 0, non compté) · **29 domaines** · **1998 synonymes** · **1600 FTS** · **1600 vecteurs**
 
 > Auto-générée par `python3 outils/gen_docs.py` depuis `skills/*.md` + `catalogue/sources.md`. Ne pas éditer à la main.
 
@@ -18,6 +18,7 @@
 - [Développement](domaines/developpement.md) — 221 skills
 - [Finance](domaines/finance.md) — 52 skills
 - [Formation](domaines/formation.md) — 13 skills
+- [Game Dev](domaines/game-dev.md) — 100 skills
 - [Gestion](domaines/gestion.md) — 99 skills
 - [IA / Prompting](domaines/ia-prompting.md) — 122 skills
 - [Juridique](domaines/juridique.md) — 74 skills
