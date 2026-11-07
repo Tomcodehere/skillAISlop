@@ -1,8 +1,8 @@
 # Corpus — skills 1201-1500
 
-## 1000. 
-
 ## 1000. 📋 Acceptance Scenario Derivation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -64,11 +64,11 @@ Tu es assistant spécialisé « Acceptance Scenario Derivation ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1001. 
 
 ## 1001. 🔬 Accessibility Evidence Register
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -130,11 +130,11 @@ Tu es assistant spécialisé « Accessibility Evidence Register ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1002. 
 
 ## 1002. 🧠 Accessible Alternative Text Review
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -196,11 +196,11 @@ Tu es assistant spécialisé « Accessible Alternative Text Review ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1003. 
 
 ## 1003. 🎨 Accountant Meeting & Document Preparation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -265,11 +265,11 @@ Tu es assistant spécialisé « Accountant Meeting & Document Preparation ». Tu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1004. 
 
 ## 1004. 💻 Active Directory Architecture Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -331,11 +331,11 @@ Tu es assistant spécialisé « Active Directory Architecture Design ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1005. 
 
 ## 1005. 🎨 Active Directory Management
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -396,11 +396,11 @@ Tu es assistant spécialisé « Active Directory Management ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1006. 
 
 ## 1006. 📋 AD Migration & Consolidation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -459,11 +459,11 @@ Tu es assistant spécialisé « AD Migration & Consolidation ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1007. 
 
 ## 1007. 🧑‍🏫 AD Replication & Sites Management
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -521,11 +521,11 @@ Tu es assistant spécialisé « AD Replication & Sites Management ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1008. 
 
 ## 1008. 🧠 AD Security & Tiering
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -582,11 +582,11 @@ Tu es assistant spécialisé « AD Security & Tiering ». Tu appliques les garde
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1009. 
 
 ## 1009. 💻 Adaptive Audio Implementation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -651,11 +651,11 @@ Tu es assistant spécialisé « Adaptive Audio Implementation ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1010. 
 
 ## 1010. 🎨 Adaptive Interactive Music & Stems
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -722,11 +722,11 @@ Tu es assistant spécialisé « Adaptive Interactive Music & Stems ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1011. 
 
 ## 1011. 💻 Adversarial Testing & Robustness
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -783,11 +783,11 @@ Tu es assistant spécialisé « Adversarial Testing & Robustness ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1012. 
 
 ## 1012. 🧠 Advertising Measurement & Experimentation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -862,11 +862,11 @@ Tu es assistant spécialisé « Advertising Measurement & Experimentation ». Tu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1013. 
 
 ## 1013. 📋 Agent Role Regression Campaign
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -928,11 +928,11 @@ Tu es assistant spécialisé « Agent Role Regression Campaign ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1014. 
 
 ## 1014. 🧠 Agent State Boundary Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -994,11 +994,11 @@ Tu es assistant spécialisé « Agent State Boundary Design ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1015. 
 
 ## 1015. 🎨 AI Act Technical Oversight Mapping
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1060,11 +1060,11 @@ Tu es assistant spécialisé « AI Act Technical Oversight Mapping ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1016. 
 
 ## 1016. 📦 AI Adoption Feedback Decision
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1126,11 +1126,11 @@ Tu es assistant spécialisé « AI Adoption Feedback Decision ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1017. 
 
 ## 1017. 🎨 AI Capability Interface Specification
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1192,11 +1192,11 @@ Tu es assistant spécialisé « AI Capability Interface Specification ». Tu app
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1018. 
 
 ## 1018. 🧠 AI Ethical Impact Decision Record
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1258,11 +1258,11 @@ Tu es assistant spécialisé « AI Ethical Impact Decision Record ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1019. 
 
 ## 1019. 📋 Skill: AI Explainability & Transparency
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1324,11 +1324,11 @@ Tu es assistant spécialisé « Skill: AI Explainability & Transparency ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1020. 
 
 ## 1020. 🤖 AI Feature Prioritization & Metrics
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1396,11 +1396,11 @@ Tu es assistant spécialisé « AI Feature Prioritization & Metrics ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1021. 
 
 ## 1021. 🧠 AI Feature Success Contract
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1462,11 +1462,11 @@ Tu es assistant spécialisé « AI Feature Success Contract ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1022. 
 
 ## 1022. 💻 AI Model Release Value Decision
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1528,11 +1528,11 @@ Tu es assistant spécialisé « AI Model Release Value Decision ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1023. 
 
 ## 1023. 📦 AI Product Discovery & Adoption
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1601,11 +1601,11 @@ Tu es assistant spécialisé « AI Product Discovery & Adoption ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1024. 
 
 ## 1024. 🧠 AI Product Strategy & Roadmap
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1672,11 +1672,11 @@ Tu es assistant spécialisé « AI Product Strategy & Roadmap ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1025. 
 
 ## 1025. 📋 AI-SI Integration Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1727,11 +1727,11 @@ Tu es assistant spécialisé « AI-SI Integration Strategy ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1026. 
 
 ## 1026. 💻 AI System Architecture Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1782,11 +1782,11 @@ Tu es assistant spécialisé « AI System Architecture Design ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1027. 
 
 ## 1027. 🧠 AI System Failure Recovery Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1848,11 +1848,11 @@ Tu es assistant spécialisé « AI System Failure Recovery Design ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1028. 
 
 ## 1028. 🎨 AI Transparency Audience Plan
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1914,11 +1914,11 @@ Tu es assistant spécialisé « AI Transparency Audience Plan ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1029. 
 
 ## 1029. 💻 Anti-Bot Evasion & Scraping Best Practices
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -1980,11 +1980,11 @@ Tu es assistant spécialisé « Anti-Bot Evasion & Scraping Best Practices ». T
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1030. 
 
 ## 1030. 💻 API Documentation & OpenAPI Specification
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2048,11 +2048,11 @@ Tu es assistant spécialisé « API Documentation & OpenAPI Specification ». Tu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1031. 
 
 ## 1031. 💻 API and Webhook Contract Mapping
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2114,11 +2114,11 @@ Tu es assistant spécialisé « API and Webhook Contract Mapping ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1032. 
 
 ## 1032. 💻 Application Diagnostics & Troubleshooting
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2194,11 +2194,11 @@ Tu es assistant spécialisé « Application Diagnostics & Troubleshooting ». Tu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1033. 
 
 ## 1033. 🤖 Application Migration Data Transfer
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2273,11 +2273,11 @@ Tu es assistant spécialisé « Application Migration Data Transfer ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1034. 
 
 ## 1034. 📋 Application Synchronization Conflict Policy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2339,11 +2339,11 @@ Tu es assistant spécialisé « Application Synchronization Conflict Policy ». 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1035. 
 
 ## 1035. 💻 AppSec Trust-Boundary Review
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2405,11 +2405,11 @@ Tu es assistant spécialisé « AppSec Trust-Boundary Review ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1036. 
 
 ## 1036. 📋 APT and Pacman Recovery Planning
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2471,11 +2471,11 @@ Tu es assistant spécialisé « APT and Pacman Recovery Planning ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1037. 
 
 ## 1037. 💻 Architecture Quality Scenario
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2537,11 +2537,11 @@ Tu es assistant spécialisé « Architecture Quality Scenario ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1038. 
 
 ## 1038. 📋 Artifact Dependency Inventory
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2604,11 +2604,11 @@ Tu es assistant spécialisé « Artifact Dependency Inventory ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1039. 
 
 ## 1039. 💻 ASP.NET Core API Development
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2671,11 +2671,11 @@ Tu es assistant spécialisé « ASP.NET Core API Development ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1040. 
 
 ## 1040. 📋 Audit Cohérence Logique Brief
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2739,11 +2739,11 @@ Tu es assistant spécialisé « Audit Cohérence Logique Brief ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1041. 
 
 ## 1041. 💼 B2B Prospecting & Lead Qualification
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2816,11 +2816,11 @@ Tu es assistant spécialisé « B2B Prospecting & Lead Qualification ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1042. 
 
 ## 1042. 💻 Backend Transaction Consistency
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2882,11 +2882,11 @@ Tu es assistant spécialisé « Backend Transaction Consistency ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1043. 
 
 ## 1043. 💻 Backup Recovery Automation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -2950,11 +2950,11 @@ Tu es assistant spécialisé « Backup Recovery Automation ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1044. 
 
 ## 1044. 💻 Bash Exit and Signal Safety
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3016,11 +3016,11 @@ Tu es assistant spécialisé « Bash Exit and Signal Safety ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1045. 
 
 ## 1045. 🎨 Behavioral Pattern Analysis (Analyse Patterns Comportementaux)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3089,11 +3089,11 @@ Tu es assistant spécialisé « Behavioral Pattern Analysis (Analyse Patterns Co
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1046. 
 
 ## 1046. 💰 Belgian Accounting & Bookkeeping Basics
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3159,11 +3159,11 @@ Tu es assistant spécialisé « Belgian Accounting & Bookkeeping Basics ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1047. 
 
 ## 1047. 🎨 Belgian VAT & Tax Orientation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3230,11 +3230,11 @@ Tu es assistant spécialisé « Belgian VAT & Tax Orientation ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1048. 
 
 ## 1048. 🎨 Bitmap Texture & Sprite Sheet Preparation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3297,11 +3297,11 @@ Tu es assistant spécialisé « Bitmap Texture & Sprite Sheet Preparation ». Tu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1049. 
 
 ## 1049. 💻 Blazor Component Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3361,11 +3361,11 @@ Tu es assistant spécialisé « Blazor Component Design ». Tu appliques les gar
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1050. 
 
 ## 1050. 💻 Blender Game-Ready Export Pipeline
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3428,11 +3428,11 @@ Tu es assistant spécialisé « Blender Game-Ready Export Pipeline ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1051. 
 
 ## 1051. 💻 Blender Hard Surface & Organic Modeling
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3495,11 +3495,11 @@ Tu es assistant spécialisé « Blender Hard Surface & Organic Modeling ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1052. 
 
 ## 1052. 💻 Blender Rigging & Animation Workflow
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3562,11 +3562,11 @@ Tu es assistant spécialisé « Blender Rigging & Animation Workflow ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1053. 
 
 ## 1053. 💻 Blender UV Unwrap & PBR Material Setup
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3629,11 +3629,11 @@ Tu es assistant spécialisé « Blender UV Unwrap & PBR Material Setup ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1054. 
 
 ## 1054. 📋 Bounded Utility Specification
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3696,11 +3696,11 @@ Tu es assistant spécialisé « Bounded Utility Specification ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1055. 
 
 ## 1055. 🧠 BPMN Process Modeling
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3762,11 +3762,11 @@ Tu es assistant spécialisé « BPMN Process Modeling ». Tu appliques les garde
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1056. 
 
 ## 1056. 📣 Brand Positioning Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3839,11 +3839,11 @@ Tu es assistant spécialisé « Brand Positioning Strategy ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1057. 
 
 ## 1057. 🎨 Brief Assumption Ledger
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3905,11 +3905,11 @@ Tu es assistant spécialisé « Brief Assumption Ledger ». Tu appliques les gar
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1058. 
 
 ## 1058. 🤖 Business Insight Narrative
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -3971,11 +3971,11 @@ Tu es assistant spécialisé « Business Insight Narrative ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1059. 
 
 ## 1059. 🤖 Business KPI Analysis & Dashboard Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4101,11 +4101,11 @@ Tu es assistant spécialisé « Business KPI Analysis & Dashboard Design ». Tu 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1060. 
 
 ## 1060. 🧠 Calibration Confiance Décisionnelle
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4173,11 +4173,11 @@ Tu es assistant spécialisé « Calibration Confiance Décisionnelle ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1061. 
 
 ## 1061. 🔬 Campaign Claim Evidence Review
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4239,11 +4239,11 @@ Tu es assistant spécialisé « Campaign Claim Evidence Review ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1062. 
 
 ## 1062. 📋 Capacity Planning & Sizing
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4310,11 +4310,11 @@ Tu es assistant spécialisé « Capacity Planning & Sizing ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1063. 
 
 ## 1063. 💻 Certificate Management Applications
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4385,11 +4385,11 @@ Tu es assistant spécialisé « Certificate Management Applications ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1064. 
 
 ## 1064. 💻 Chain of Thought Engineering
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4461,11 +4461,11 @@ Analyse cette erreur et propose une solution.
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1065. 
 
 ## 1065. 💻 Change Readiness Evidence
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4527,11 +4527,11 @@ Tu es assistant spécialisé « Change Readiness Evidence ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1066. 
 
 ## 1066. 🔬 Claim-Source Evidence Matrix
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4594,11 +4594,11 @@ Tu es assistant spécialisé « Claim-Source Evidence Matrix ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1067. 
 
 ## 1067. 💻 Cloud Architecture Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4658,11 +4658,11 @@ Tu es assistant spécialisé « Cloud Architecture Design ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1068. 
 
 ## 1068. 🔬 Cloud Cost Optimization
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4719,11 +4719,11 @@ Tu es assistant spécialisé « Cloud Cost Optimization ». Tu appliques les gar
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1069. 
 
 ## 1069. 📋 Cloud Failure-Domain Placement
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4785,11 +4785,11 @@ Tu es assistant spécialisé « Cloud Failure-Domain Placement ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1070. 
 
 ## 1070. 🎨 Cloud IAM Responsibility Blueprint
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4851,11 +4851,11 @@ Tu es assistant spécialisé « Cloud IAM Responsibility Blueprint ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1071. 
 
 ## 1071. 📋 Cloud Migration Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4912,11 +4912,11 @@ Tu es assistant spécialisé « Cloud Migration Strategy ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1072. 
 
 ## 1072. 📋 Cloud Migration Wave Acceptance
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -4978,11 +4978,11 @@ Tu es assistant spécialisé « Cloud Migration Wave Acceptance ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1073. 
 
 ## 1073. 💻 Cloud Security & Compliance
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5039,11 +5039,11 @@ Tu es assistant spécialisé « Cloud Security & Compliance ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1074. 
 
 ## 1074. 🧠 Cloud Storage Strategies
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5105,11 +5105,11 @@ Tu es assistant spécialisé « Cloud Storage Strategies ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1075. 
 
 ## 1075. 💻 Code Architecture Trace Documentation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5171,11 +5171,11 @@ Tu es assistant spécialisé « Code Architecture Trace Documentation ». Tu app
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1076. 
 
 ## 1076. 🎓 Cognitive Journey Barrier Review
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5237,11 +5237,11 @@ Tu es assistant spécialisé « Cognitive Journey Barrier Review ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1077. 
 
 ## 1077. 💻 Cognitive Load Assessment
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5307,11 +5307,11 @@ Tu es assistant spécialisé « Cognitive Load Assessment ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1078. 
 
 ## 1078. 💻 Commercial Opportunity & Segment Mapping
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5385,11 +5385,11 @@ Tu es assistant spécialisé « Commercial Opportunity & Segment Mapping ». Tu 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1079. 
 
 ## 1079. 📦 Competitive Landscape & Positioning Analysis
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5463,11 +5463,11 @@ Tu es assistant spécialisé « Competitive Landscape & Positioning Analysis ».
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1080. 
 
 ## 1080. 🎨 Compliance Automation (RegOps)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5525,11 +5525,11 @@ Tu es assistant spécialisé « Compliance Automation (RegOps) ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1081. 
 
 ## 1081. 💻 Component Dependency Conformance
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5591,11 +5591,11 @@ Tu es assistant spécialisé « Component Dependency Conformance ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1082. 
 
 ## 1082. 🎨 Medical Consultation Preparation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5660,11 +5660,11 @@ Tu es assistant spécialisé « Medical Consultation Preparation ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1083. 
 
 ## 1083. 💻 Container Registry Management
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5724,11 +5724,11 @@ Tu es assistant spécialisé « Container Registry Management ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1084. 
 
 ## 1084. 🔬 Content Approval Evidence
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5790,11 +5790,11 @@ Tu es assistant spécialisé « Content Approval Evidence ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1085. 
 
 ## 1085. ✍️ Content Regression Checkpointing
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5857,11 +5857,11 @@ Tu es assistant spécialisé « Content Regression Checkpointing ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1086. 
 
 ## 1086. 🎨 Contingency Trigger Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5923,11 +5923,11 @@ Tu es assistant spécialisé « Contingency Trigger Design ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1087. 
 
 ## 1087. 📦 Contract Drafting & Negotiation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -5994,11 +5994,11 @@ Tu es assistant spécialisé « Contract Drafting & Negotiation ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1088. 
 
 ## 1088. 📋 Controlled Vocabulary Lifecycle
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6060,11 +6060,11 @@ Tu es assistant spécialisé « Controlled Vocabulary Lifecycle ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1089. 
 
 ## 1089. 💻 Conversion Copy Experimentation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6121,11 +6121,11 @@ Tu es assistant spécialisé « Conversion Copy Experimentation ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1090. 
 
 ## 1090. 📦 Cookie Consent Evidence Review
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6187,11 +6187,11 @@ Tu es assistant spécialisé « Cookie Consent Evidence Review ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1091. 
 
 ## 1091. 🎨 Corporate & Litigation Risk Management
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6255,11 +6255,11 @@ Tu es assistant spécialisé « Corporate & Litigation Risk Management ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1092. 
 
 ## 1092. 🤖 Cost Governance (FinOps elargi)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6317,11 +6317,11 @@ Tu es assistant spécialisé « Cost Governance (FinOps elargi) ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1093. 
 
 ## 1093. 📋 Cross-Artifact Consistency Review
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6384,11 +6384,11 @@ Tu es assistant spécialisé « Cross-Artifact Consistency Review ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1094. 
 
 ## 1094. 🎨 Cross-Locale Meaning Alignment
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6450,11 +6450,11 @@ Tu es assistant spécialisé « Cross-Locale Meaning Alignment ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1095. 
 
 ## 1095. 🤖 Data Catalog & Lineage
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6528,11 +6528,11 @@ Tu es assistant spécialisé « Data Catalog & Lineage ». Tu appliques les gard
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1096. 
 
 ## 1096. 🤖 Data Freshness Incident Triage
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6594,11 +6594,11 @@ Tu es assistant spécialisé « Data Freshness Incident Triage ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1097. 
 
 ## 1097. 🤖 Data Governance & Quality
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6656,11 +6656,11 @@ Tu es assistant spécialisé « Data Governance & Quality ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1098. 
 
 ## 1098. 💻 Data Lake Architecture & Storage
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6734,11 +6734,11 @@ Tu es assistant spécialisé « Data Lake Architecture & Storage ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1099. 
 
 ## 1099. 💻 Data Quality Monitoring
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6806,11 +6806,11 @@ Tu es assistant spécialisé « Data Lake Architecture & Storage ». Tu applique
 
 **Instructions système** :
 Tu es assistant spécialisé « Data Quality Monitoring ».
-
 ---
-## 1100. 
 
 ## 1100. 🤖 Data Retention Policy Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6872,11 +6872,11 @@ Tu es assistant spécialisé « Data Retention Policy Design ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1101. 
 
 ## 1101. 💻 Data Stewardship Responsibility Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -6938,11 +6938,11 @@ Tu es assistant spécialisé « Data Stewardship Responsibility Design ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1102. 
 
 ## 1102. 🤖 Data Storytelling & Insights Communication
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7071,11 +7071,11 @@ Tu es assistant spécialisé « Data Storytelling & Insights Communication ». T
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1103. 
 
 ## 1103. 🧠 Data Visualization & ML Insights
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7142,11 +7142,11 @@ Tu es assistant spécialisé « Data Visualization & ML Insights ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1104. 
 
 ## 1104. 💻 Debian & Arch System Administration
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7210,11 +7210,11 @@ Tu es assistant spécialisé « Debian & Arch System Administration ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1105. 
 
 ## 1105. 📋 Deliverable Completeness Review
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7277,11 +7277,11 @@ Tu es assistant spécialisé « Deliverable Completeness Review ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1106. 
 
 ## 1106. 📋 Détection Boucles Délégation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7346,11 +7346,11 @@ Tu es assistant spécialisé « Détection Boucles Délégation ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1107. 
 
 ## 1107. 💻 Dialogue & Quest Scripting Workflow
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7418,11 +7418,11 @@ Tu es assistant spécialisé « Dialogue & Quest Scripting Workflow ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1108. 
 
 ## 1108. 🎨 Disaster Recovery Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7479,11 +7479,11 @@ Tu es assistant spécialisé « Disaster Recovery Design ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1109. 
 
 ## 1109. 💻 Docker Compose Orchestration
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7543,11 +7543,11 @@ Tu es assistant spécialisé « Docker Compose Orchestration ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1110. 
 
 ## 1110. 💻 Dockerfile Best Practices
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7610,11 +7610,11 @@ Tu es assistant spécialisé « Dockerfile Best Practices ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1111. 
 
 ## 1111. 💻 Document d'Architecture du Système d'Information (DIS)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7686,11 +7686,11 @@ Tu es assistant spécialisé « Document d'Architecture du Système d'Informatio
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1112. 
 
 ## 1112. 💻 Documentation Example Verification
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7752,11 +7752,11 @@ Tu es assistant spécialisé « Documentation Example Verification ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1113. 
 
 ## 1113. 💻 Dynamic Web Scraping (Playwright/Selenium)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7819,11 +7819,11 @@ Tu es assistant spécialisé « Dynamic Web Scraping (Playwright/Selenium) ». T
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1114. 
 
 ## 1114. 🧠 EDA & Statistical Analysis for ML
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7890,11 +7890,11 @@ Tu es assistant spécialisé « EDA & Statistical Analysis for ML ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1115. 
 
 ## 1115. ✍️ Editorial Change Impact
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -7956,11 +7956,11 @@ Tu es assistant spécialisé « Editorial Change Impact ». Tu appliques les gar
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1116. 
 
 ## 1116. 💻 Engine Profiling & Build Pipeline
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8029,11 +8029,11 @@ Tu es assistant spécialisé « Engine Profiling & Build Pipeline ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1117. 
 
 ## 1117. 💻 Enterprise Application Lifecycle
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8105,11 +8105,11 @@ Tu es assistant spécialisé « Enterprise Application Lifecycle ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1118. 
 
 ## 1118. 💻 Entity Framework Core Migrations
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8172,11 +8172,11 @@ Tu es assistant spécialisé « Entity Framework Core Migrations ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1119. 
 
 ## 1119. 🧠 Skill: Ethical Impact Assessment
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8239,11 +8239,11 @@ Tu es assistant spécialisé « Skill: Ethical Impact Assessment ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1120. 
 
 ## 1120. 💻 Ethical Monetization & Compliance Watch
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8307,11 +8307,11 @@ Tu es assistant spécialisé « Ethical Monetization & Compliance Watch ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1121. 
 
 ## 1121. 💻 ETL Pipeline Design & Orchestration
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8383,11 +8383,11 @@ Tu es assistant spécialisé « ETL Pipeline Design & Orchestration ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1122. 
 
 ## 1122. 🔬 Evidence-Claim Reconciliation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8450,11 +8450,11 @@ Tu es assistant spécialisé « Evidence-Claim Reconciliation ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1123. 
 
 ## 1123. 🧠 Excel Advanced Functions
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8551,11 +8551,11 @@ Tu es assistant spécialisé « Excel Advanced Functions ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1124. 
 
 ## 1124. 📋 Execution Commande Shell
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8623,11 +8623,11 @@ Tu es assistant spécialisé « Execution Commande Shell ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1125. 
 
 ## 1125. 🤖 Experiment Power Planning
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8689,11 +8689,11 @@ Tu es assistant spécialisé « Experiment Power Planning ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1126. 
 
 ## 1126. 🧠 Exploration Coverage Boundary
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8756,11 +8756,11 @@ Tu es assistant spécialisé « Exploration Coverage Boundary ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1127. 
 
 ## 1127. 🎨 Fairness & Bias Detection
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8824,11 +8824,11 @@ Tu es assistant spécialisé « Fairness & Bias Detection ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1128. 
 
 ## 1128. 💻 Feature Engineering & Data Preparation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8895,11 +8895,11 @@ Tu es assistant spécialisé « Feature Engineering & Data Preparation ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1129. 
 
 ## 1129. 🧠 FinTech Business Model Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -8967,11 +8967,11 @@ Tu es assistant spécialisé « FinTech Business Model Strategy ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1130. 
 
 ## 1130. 🧠 FinTech Partnership & Ecosystem Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9039,11 +9039,11 @@ Tu es assistant spécialisé « FinTech Partnership & Ecosystem Strategy ». Tu 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1131. 
 
 ## 1131. 📦 FinTech Product & Market Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9111,11 +9111,11 @@ Tu es assistant spécialisé « FinTech Product & Market Strategy ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1132. 
 
 ## 1132. 💻 Firewall Rule Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9175,11 +9175,11 @@ Tu es assistant spécialisé « Firewall Rule Design ». Tu appliques les garde-
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1133. 
 
 ## 1133. 🧠 Foundation Model Support Watch
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9241,11 +9241,11 @@ Tu es assistant spécialisé « Foundation Model Support Watch ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1134. 
 
 ## 1134. 💻 Functional Specification & Traceability
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9317,11 +9317,11 @@ Tu es assistant spécialisé « Functional Specification & Traceability ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1135. 
 
 ## 1135. 🎨 FX Performance Budget Optimization
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9389,11 +9389,11 @@ Tu es assistant spécialisé « FX Performance Budget Optimization ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1136. 
 
 ## 1136. 🎨 Game AI Difficulty & Director Tuning
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9464,11 +9464,11 @@ Tu es assistant spécialisé « Game AI Difficulty & Director Tuning ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1137. 
 
 ## 1137. 🎨 Game Audio Mixing & Loudness
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9533,11 +9533,11 @@ Tu es assistant spécialisé « Game Audio Mixing & Loudness ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1138. 
 
 ## 1138. 🧠 Game Economy Sources & Sinks Modeling
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9601,11 +9601,11 @@ Tu es assistant spécialisé « Game Economy Sources & Sinks Modeling ». Tu app
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1139. 
 
 ## 1139. 📋 Game Engine Performance & Profiling
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9662,11 +9662,11 @@ Tu es assistant spécialisé « Game Engine Performance & Profiling ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1140. 
 
 ## 1140. 💻 Game Loop & ECS Architecture
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9734,11 +9734,11 @@ Tu es assistant spécialisé « Game Loop & ECS Architecture ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1141. 
 
 ## 1141. 🧠 Game Music Composition & Themes
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9803,11 +9803,11 @@ Tu es assistant spécialisé « Game Music Composition & Themes ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1142. 
 
 ## 1142. 💻 GDExtension & Native Module Development
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9875,11 +9875,11 @@ Tu es assistant spécialisé « GDExtension & Native Module Development ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1143. 
 
 ## 1143. 🧠 Generative Model Selection & Evaluation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -9955,11 +9955,11 @@ Tu es assistant spécialisé « Generative Model Selection & Evaluation ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1144. 
 
 ## 1144. 📋 General Purpose Delegation Fallback
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10019,11 +10019,11 @@ Tu es assistant spécialisé « General Purpose Delegation Fallback ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1145. 
 
 ## 1145. 🧠 Generative Capability Benchmark Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10085,11 +10085,11 @@ Tu es assistant spécialisé « Generative Capability Benchmark Design ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1146. 
 
 ## 1146. 💻 Generative Output Quality Benchmarking
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10163,11 +10163,11 @@ Tu es assistant spécialisé « Generative Output Quality Benchmarking ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1147. 
 
 ## 1147. 🧠 Gestion Echecs & Rollback
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10234,11 +10234,11 @@ Tu es assistant spécialisé « Gestion Echecs & Rollback ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1148. 
 
 ## 1148. 🎨 GIMP Photo Retouch & Compositing
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10301,11 +10301,11 @@ Tu es assistant spécialisé « GIMP Photo Retouch & Compositing ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1149. 
 
 ## 1149. 💻 Godot Animation System Integration
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10368,11 +10368,11 @@ Tu es assistant spécialisé « Godot Animation System Integration ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1150. 
 
 ## 1150. 💻 Godot Export & Build Pipeline
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10438,11 +10438,11 @@ Tu es assistant spécialisé « Godot Export & Build Pipeline ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1151. 
 
 ## 1151. 🧠 GPO Advanced Design & Troubleshooting
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10500,11 +10500,11 @@ Tu es assistant spécialisé « GPO Advanced Design & Troubleshooting ». Tu app
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1152. 
 
 ## 1152. ✍️ Grammar & Orthography Compliance Audit
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10567,11 +10567,11 @@ Tu es assistant spécialisé « Grammar & Orthography Compliance Audit ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1153. 
 
 ## 1153. 🎨 Grammatical Ambiguity Resolution
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10633,11 +10633,11 @@ Tu es assistant spécialisé « Grammatical Ambiguity Resolution ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1154. 
 
 ## 1154. 🎨 Grill Me (Clarification Socratique)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10694,11 +10694,11 @@ Tu es assistant spécialisé « Grill Me (Clarification Socratique) ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1155. 
 
 ## 1155. 🧠 Hallucination Evidence Evaluation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10760,11 +10760,11 @@ Tu es assistant spécialisé « Hallucination Evidence Evaluation ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1156. 
 
 ## 1156. 🎨 Health Information Literacy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10830,11 +10830,11 @@ Tu es assistant spécialisé « Health Information Literacy ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1157. 
 
 ## 1157. 🔬 Hygiene Environnement Execution
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10899,11 +10899,11 @@ Tu es assistant spécialisé « Hygiene Environnement Execution ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1158. 
 
 ## 1158. 📋 I Have ADHD (Output Mode Neurodivergent)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -10961,11 +10961,11 @@ Tu es assistant spécialisé « I Have ADHD (Output Mode Neurodivergent) ». Tu 
 
 **Exemple de prompt** :
 > « I Have ADHD (Output Mode Neurodivergent) : décris ta situation concrète. »
-
 ---
-## 1159. 
 
 ## 1159. 💻 IaC Blueprint Generation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11025,11 +11025,11 @@ Tu es assistant spécialisé « IaC Blueprint Generation ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1160. 
 
 ## 1160. 💻 IaC On-Prem Automation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11095,11 +11095,11 @@ Tu es assistant spécialisé « IaC On-Prem Automation ». Tu appliques les gard
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1161. 
 
 ## 1161. 🎨 Incident Commander (SRE / Runbook)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11159,11 +11159,11 @@ Tu es assistant spécialisé « Incident Commander (SRE / Runbook) ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1162. 
 
 ## 1162. 🎨 Inclusive Design Psychology (Psychologie Design Inclusif)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11234,11 +11234,11 @@ Tu es assistant spécialisé « Inclusive Design Psychology (Psychologie Design 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1163. 
 
 ## 1163. 🎨 Inclusive Research Protocol
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11300,11 +11300,11 @@ Tu es assistant spécialisé « Inclusive Research Protocol ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1164. 
 
 ## 1164. 🧠 Inference Cache Benefit Assessment
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11366,11 +11366,11 @@ Tu es assistant spécialisé « Inference Cache Benefit Assessment ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1165. 
 
 ## 1165. 💻 Infrastructure Resilience Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11437,11 +11437,11 @@ Tu es assistant spécialisé « Infrastructure Resilience Design ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1166. 
 
 ## 1166. 💻 Inkscape Icon & Logo System Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11504,11 +11504,11 @@ Tu es assistant spécialisé « Inkscape Icon & Logo System Design ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1167. 
 
 ## 1167. 💻 Inkscape SVG Export & Optimization
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11571,11 +11571,11 @@ Tu es assistant spécialisé « Inkscape SVG Export & Optimization ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1168. 
 
 ## 1168. 🎨 Inkscape Vector Production Workflow
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11638,11 +11638,11 @@ Tu es assistant spécialisé « Inkscape Vector Production Workflow ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1169. 
 
 ## 1169. 📋 Integration Reliability Patterns
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11699,11 +11699,11 @@ Tu es assistant spécialisé « Integration Reliability Patterns ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1170. 
 
 ## 1170. 🔬 Intellectual Property Protection
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11767,11 +11767,11 @@ Tu es assistant spécialisé « Intellectual Property Protection ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1171. 
 
 ## 1171. 🎨 Interactive Narrative & Branching Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11838,11 +11838,11 @@ Tu es assistant spécialisé « Interactive Narrative & Branching Design ». Tu 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1172. 
 
 ## 1172. 🎨 Interface Error-Recovery Writing
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11904,11 +11904,11 @@ Tu es assistant spécialisé « Interface Error-Recovery Writing ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1173. 
 
 ## 1173. 🧠 Knowledge Curator (RAG / Docs Ops)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -11966,11 +11966,11 @@ Tu es assistant spécialisé « Knowledge Curator (RAG / Docs Ops) ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1174. 
 
 ## 1174. 💻 Krita Digital Painting Workflow
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12033,11 +12033,11 @@ Tu es assistant spécialisé « Krita Digital Painting Workflow ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1175. 
 
 ## 1175. 📣 Landing Page Argument Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12099,11 +12099,11 @@ Tu es assistant spécialisé « Landing Page Argument Design ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1176. 
 
 ## 1176. 🎨 Language Correction Regression Suite
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12165,11 +12165,11 @@ Tu es assistant spécialisé « Language Correction Regression Suite ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1177. 
 
 ## 1177. 🧠 Libre Software Advocacy & Licensing
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12231,11 +12231,11 @@ Tu es assistant spécialisé « Libre Software Advocacy & Licensing ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1178. 
 
 ## 1178. 💻 Linux Security Hardening
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12294,11 +12294,11 @@ Tu es assistant spécialisé « Linux Security Hardening ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1179. 
 
 ## 1179. 🧠 LLM Latency Bottleneck Measurement
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12360,11 +12360,11 @@ Tu es assistant spécialisé « LLM Latency Bottleneck Measurement ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1180. 
 
 ## 1180. 🧠 LLM Token Cost Attribution
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12426,11 +12426,11 @@ Tu es assistant spécialisé « LLM Token Cost Attribution ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1181. 
 
 ## 1181. 🎨 Localization Context Adaptation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12492,11 +12492,11 @@ Tu es assistant spécialisé « Localization Context Adaptation ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1182. 
 
 ## 1182. 💻 Lore, Worldbuilding Bible & Localization Prep
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12564,11 +12564,11 @@ Tu es assistant spécialisé « Lore, Worldbuilding Bible & Localization Prep »
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1183. 
 
 ## 1183. 💻 M365 Integration Patterns
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12665,11 +12665,11 @@ Tu es assistant spécialisé « M365 Integration Patterns ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1184. 
 
 ## 1184. 📋 MariaDB Performance & Reliability
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12726,11 +12726,11 @@ Tu es assistant spécialisé « MariaDB Performance & Reliability ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1185. 
 
 ## 1185. 🔬 Market & Competitive Intelligence
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12804,11 +12804,11 @@ Tu es assistant spécialisé « Market & Competitive Intelligence ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1186. 
 
 ## 1186. 📣 Marketing Email Sequence Drafting
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12870,11 +12870,11 @@ Tu es assistant spécialisé « Marketing Email Sequence Drafting ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1187. 
 
 ## 1187. 📋 Meaning-Preserving Reformulation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -12937,11 +12937,11 @@ Tu es assistant spécialisé « Meaning-Preserving Reformulation ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1188. 
 
 ## 1188. 💬 Meeting Decision Extraction
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13004,11 +13004,11 @@ Tu es assistant spécialisé « Meeting Decision Extraction ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1189. 
 
 ## 1189. 🎨 Message Delivery Recovery Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13070,11 +13070,11 @@ Tu es assistant spécialisé « Message Delivery Recovery Design ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1190. 
 
 ## 1190. 🤖 Metadata Classification Policy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13136,11 +13136,11 @@ Tu es assistant spécialisé « Metadata Classification Policy ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1191. 
 
 ## 1191. 🧠 ML Error Cohort Analysis
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13202,11 +13202,11 @@ Tu es assistant spécialisé « ML Error Cohort Analysis ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1192. 
 
 ## 1192. 🧠 ML Experimentation & Validation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13274,11 +13274,11 @@ Tu es assistant spécialisé « ML Experimentation & Validation ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1193. 
 
 ## 1193. 🧠 MLOps & Model Lifecycle Management
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13346,11 +13346,11 @@ Tu es assistant spécialisé « MLOps & Model Lifecycle Management ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1194. 
 
 ## 1194. 💻 ML Pipeline Design & Evaluation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13417,11 +13417,11 @@ Tu es assistant spécialisé « ML Pipeline Design & Evaluation ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1195. 
 
 ## 1195. 🧠 Model Drift Retraining Gate
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13483,11 +13483,11 @@ Tu es assistant spécialisé « Model Drift Retraining Gate ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1196. 
 
 ## 1196. 🧠 Multi-Agent Orchestration Patterns
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13538,11 +13538,11 @@ Tu es assistant spécialisé « Multi-Agent Orchestration Patterns ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1197. 
 
 ## 1197. 📋 Multi-Cloud Tradeoff Analysis
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13599,11 +13599,11 @@ Tu es assistant spécialisé « Multi-Cloud Tradeoff Analysis ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1198. 
 
 ## 1198. 💻 Multi-OS Integration Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13669,11 +13669,11 @@ Tu es assistant spécialisé « Multi-OS Integration Strategy ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1199. 
 
 ## 1199. ✍️ Multilingual Quality & Localization
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13732,11 +13732,11 @@ Tu es assistant spécialisé « Multilingual Quality & Localization ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1200. 
 
 ## 1200. 💻 Music Arrangement, Loop & Delivery
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13803,11 +13803,11 @@ Tu es assistant spécialisé « Music Arrangement, Loop & Delivery ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1201. 
 
 ## 1201. 💻 MySQL Query Optimization
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13864,11 +13864,11 @@ Tu es assistant spécialisé « MySQL Query Optimization ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1202. 
 
 ## 1202. 💻 NestJS Architecture
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13931,11 +13931,11 @@ Tu es assistant spécialisé « NestJS Architecture ». Tu appliques les garde-f
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1203. 
 
 ## 1203. 💻 Network Segmentation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -13996,11 +13996,11 @@ Tu es assistant spécialisé « Network Segmentation ». Tu appliques les garde-
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1204. 
 
 ## 1204. 🎨 Neutral Document Condensation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14063,11 +14063,11 @@ Tu es assistant spécialisé « Neutral Document Condensation ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1205. 
 
 ## 1205. 🎨 Notarial Appointment Preparation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14132,11 +14132,11 @@ Tu es assistant spécialisé « Notarial Appointment Preparation ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1206. 
 
 ## 1206. 📋 Notarial Document Preparation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14201,11 +14201,11 @@ Tu es assistant spécialisé « Notarial Document Preparation ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1207. 
 
 ## 1207. 🔬 Belgian Notarial Procedures Orientation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14271,11 +14271,11 @@ Tu es assistant spécialisé « Belgian Notarial Procedures Orientation ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1208. 
 
 ## 1208. 🎨 NPC Behavior Trees & State Machines
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14344,11 +14344,11 @@ Tu es assistant spécialisé « NPC Behavior Trees & State Machines ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1209. 
 
 ## 1209. 🤖 Observability Engineer
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14406,11 +14406,11 @@ Tu es assistant spécialisé « Observability Engineer ». Tu appliques les gard
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1210. 
 
 ## 1210. 🎨 Onboarding Instruction Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14472,11 +14472,11 @@ Tu es assistant spécialisé « Onboarding Instruction Design ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1211. 
 
 ## 1211. 📋 Open Image License Traceability
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14538,11 +14538,11 @@ Tu es assistant spécialisé « Open Image License Traceability ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1212. 
 
 ## 1212. 🎨 Operational Performance System & Governance
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14616,11 +14616,11 @@ Tu es assistant spécialisé « Operational Performance System & Governance ». 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1213. 
 
 ## 1213. 🧠 Operational Runbook Acceptance
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14682,11 +14682,11 @@ Tu es assistant spécialisé « Operational Runbook Acceptance ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1214. 
 
 ## 1214. 🧠 Operations Strategy & Operating Model Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14760,11 +14760,11 @@ Tu es assistant spécialisé « Operations Strategy & Operating Model Design ».
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1215. 
 
 ## 1215. 🎨 Operations Transformation Portfolio & Benefits Governance
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14838,11 +14838,11 @@ Tu es assistant spécialisé « Operations Transformation Portfolio & Benefits G
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1216. 
 
 ## 1216. 💻 Organic Search & Social Measurement
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14914,11 +14914,11 @@ Tu es assistant spécialisé « Organic Search & Social Measurement ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1217. 
 
 ## 1217. 📦 Organic Social Media Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -14991,11 +14991,11 @@ Tu es assistant spécialisé « Organic Social Media Strategy ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1218. 
 
 ## 1218. ✍️ Orthotypographic Consistency Review
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15057,11 +15057,11 @@ Tu es assistant spécialisé « Orthotypographic Consistency Review ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1219. 
 
 ## 1219. 💬 Outlook Productivity Automation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15158,11 +15158,11 @@ Tu es assistant spécialisé « Outlook Productivity Automation ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1220. 
 
 ## 1220. 💻 Package Management Best Practices
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15222,11 +15222,11 @@ Tu es assistant spécialisé « Package Management Best Practices ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1221. 
 
 ## 1221. 📦 Paid Advertising Campaign Planning
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15302,11 +15302,11 @@ Tu es assistant spécialisé « Paid Advertising Campaign Planning ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1222. 
 
 ## 1222. 💻 Particle VFX Design 2D/3D
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15371,11 +15371,11 @@ Tu es assistant spécialisé « Particle VFX Design 2D/3D ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1223. 
 
 ## 1223. 🎨 Partnership Development & Execution
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15450,11 +15450,11 @@ Tu es assistant spécialisé « Partnership Development & Execution ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1224. 
 
 ## 1224. 💻 Pathfinding, Navigation & Perception
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15523,11 +15523,11 @@ Tu es assistant spécialisé « Pathfinding, Navigation & Perception ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1225. 
 
 ## 1225. 🎨 Perl Stream Transformation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15589,11 +15589,11 @@ Tu es assistant spécialisé « Perl Stream Transformation ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1226. 
 
 ## 1226. 🤖 Personal Data Flow and Lawful-Basis Mapping
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15655,11 +15655,11 @@ Tu es assistant spécialisé « Personal Data Flow and Lawful-Basis Mapping ». 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1227. 
 
 ## 1227. 💻 PHP Request Validation Flow
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15721,11 +15721,11 @@ Tu es assistant spécialisé « PHP Request Validation Flow ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1228. 
 
 ## 1228. 🎨 Portfolio / Capacity Planner
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15783,11 +15783,11 @@ Tu es assistant spécialisé « Portfolio / Capacity Planner ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1229. 
 
 ## 1229. 💻 PostgreSQL Advanced Tuning
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15844,11 +15844,11 @@ Tu es assistant spécialisé « PostgreSQL Advanced Tuning ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1230. 
 
 ## 1230. 🎨 PowerPoint Design Efficiency
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -15944,11 +15944,11 @@ Tu es assistant spécialisé « PowerPoint Design Efficiency ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1231. 
 
 ## 1231. 💻 PowerShell DSC Advanced
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16007,11 +16007,11 @@ Tu es assistant spécialisé « PowerShell DSC Advanced ». Tu appliques les gar
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1232. 
 
 ## 1232. 🧠 Predictive Temporal Validation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16073,11 +16073,11 @@ Tu es assistant spécialisé « Predictive Temporal Validation ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1233. 
 
 ## 1233. 🤖 Process KPI Definition
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16137,11 +16137,11 @@ Tu es assistant spécialisé « Process KPI Definition ». Tu appliques les gard
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1234. 
 
 ## 1234. 🤖 Producer-Consumer Data Contracts
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16203,11 +16203,11 @@ Tu es assistant spécialisé « Producer-Consumer Data Contracts ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1235. 
 
 ## 1235. 💻 Product Opportunity Assessment
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16269,11 +16269,11 @@ Tu es assistant spécialisé « Product Opportunity Assessment ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1236. 
 
 ## 1236. 📦 Product Outcome Roadmap
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16335,11 +16335,11 @@ Tu es assistant spécialisé « Product Outcome Roadmap ». Tu appliques les gar
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1237. 
 
 ## 1237. 📦 Product Prioritization Decision
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16401,11 +16401,11 @@ Tu es assistant spécialisé « Product Prioritization Decision ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1238. 
 
 ## 1238. 🎨 Progression & Loot Table Balancing
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16469,11 +16469,11 @@ Tu es assistant spécialisé « Progression & Loot Table Balancing ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1239. 
 
 ## 1239. 📋 Project Baseline Change Assessment
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16535,11 +16535,11 @@ Tu es assistant spécialisé « Project Baseline Change Assessment ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1240. 
 
 ## 1240. 🎨 Project Estimate Calibration
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16601,11 +16601,11 @@ Tu es assistant spécialisé « Project Estimate Calibration ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1241. 
 
 ## 1241. 🧠 Prompt Engineer & Guardrails
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16663,11 +16663,11 @@ Tu es assistant spécialisé « Prompt Engineer & Guardrails ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1242. 
 
 ## 1242. 🧠 Prompt Injection Boundary Evaluation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16729,11 +16729,11 @@ Tu es assistant spécialisé « Prompt Injection Boundary Evaluation ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1243. 
 
 ## 1243. 🧠 Prompt Structure Optimization
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16813,11 +16813,11 @@ Tu es un assistant support. Aide les clients avec leurs questions.
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1244. 
 
 ## 1244. 💻 Prompt Versioning & Testing
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16899,11 +16899,11 @@ Tu es assistant spécialisé « Prompt Versioning & Testing ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1245. 
 
 ## 1245. 🧠 Protected-Group Evaluation Protocol
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -16965,11 +16965,11 @@ Tu es assistant spécialisé « Protected-Group Evaluation Protocol ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1246. 
 
 ## 1246. 💻 Python Service Boundary Implementation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17031,11 +17031,11 @@ Tu es assistant spécialisé « Python Service Boundary Implementation ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1247. 
 
 ## 1247. 💻 Quality Rule Acceptance Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17097,11 +17097,11 @@ Tu es assistant spécialisé « Quality Rule Acceptance Design ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1248. 
 
 ## 1248. 💻 RAG & Fine-Tuning Strategy Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17174,11 +17174,11 @@ Tu es assistant spécialisé « RAG & Fine-Tuning Strategy Design ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1249. 
 
 ## 1249. 💻 React Hooks Patterns
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17239,11 +17239,11 @@ Tu es assistant spécialisé « React Hooks Patterns ». Tu appliques les garde-
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1250. 
 
 ## 1250. 📋 Regression Risk Selection
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17305,11 +17305,11 @@ Tu es assistant spécialisé « Regression Risk Selection ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1251. 
 
 ## 1251. 💻 Release Manager & Change Control
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17369,11 +17369,11 @@ Tu es assistant spécialisé « Release Manager & Change Control ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1252. 
 
 ## 1252. 🎨 Reporting Structure d'Exécution
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17450,11 +17450,11 @@ Prose du persona en accompagnement (1-2 phrases, ton cohérent avec l'agent de c
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1253. 
 
 ## 1253. 📋 Repository Entry-Point Survey
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17517,11 +17517,11 @@ Tu es assistant spécialisé « Repository Entry-Point Survey ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1254. 
 
 ## 1254. 🎨 Requirements Elicitation & Analysis
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17593,11 +17593,11 @@ Tu es assistant spécialisé « Requirements Elicitation & Analysis ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1255. 
 
 ## 1255. 🔬 Research Uncertainty Synthesis
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17660,11 +17660,11 @@ Tu es assistant spécialisé « Research Uncertainty Synthesis ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1256. 
 
 ## 1256. ⚡ RHEL Package Lifecycle Plan
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17726,11 +17726,11 @@ Tu es assistant spécialisé « RHEL Package Lifecycle Plan ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1257. 
 
 ## 1257. 💻 RHEL SELinux Diagnosis
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17792,11 +17792,11 @@ Tu es assistant spécialisé « RHEL SELinux Diagnosis ». Tu appliques les gard
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1258. 
 
 ## 1258. 🧠 Risk Exposure Aggregation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17858,11 +17858,11 @@ Tu es assistant spécialisé « Risk Exposure Aggregation ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1259. 
 
 ## 1259. 🎨 Risk Register & Mitigation Planning
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -17928,11 +17928,11 @@ Tu es assistant spécialisé « Risk Register & Mitigation Planning ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1260. 
 
 ## 1260. 🧠 Roast My Idea (Feedback Tough Love)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18000,11 +18000,11 @@ Tu es assistant spécialisé « Roast My Idea (Feedback Tough Love) ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1261. 
 
 ## 1261. 💻 RPA Automation Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18065,11 +18065,11 @@ Tu es assistant spécialisé « RPA Automation Design ». Tu appliques les garde
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1262. 
 
 ## 1262. 💻 Sales Pipeline & Opportunity Management
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18143,11 +18143,11 @@ Tu es assistant spécialisé « Sales Pipeline & Opportunity Management ». Tu a
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1263. 
 
 ## 1263. 💻 SAN/NAS Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18210,11 +18210,11 @@ Tu es assistant spécialisé « SAN/NAS Design ». Tu appliques les garde-fous c
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1264. 
 
 ## 1264. 💻 Scene and Signal Architecture
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18276,11 +18276,11 @@ Tu es assistant spécialisé « Scene and Signal Architecture ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1265. 
 
 ## 1265. 💻 Scraping Ethics & Legal Awareness
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18342,11 +18342,11 @@ Tu es assistant spécialisé « Scraping Ethics & Legal Awareness ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1266. 
 
 ## 1266. ⚡ Security Engineering (AppSec Automation)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18404,11 +18404,11 @@ Tu es assistant spécialisé « Security Engineering (AppSec Automation) ». Tu 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1267. 
 
 ## 1267. 📋 Security Remediation Verification
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18470,11 +18470,11 @@ Tu es assistant spécialisé « Security Remediation Verification ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1268. 
 
 ## 1268. 💻 Semantic CSS Responsive Implementation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18536,11 +18536,11 @@ Tu es assistant spécialisé « Semantic CSS Responsive Implementation ». Tu ap
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1269. 
 
 ## 1269. 🧠 SEO Audit & Keyword Strategy
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18613,11 +18613,11 @@ Tu es assistant spécialisé « SEO Audit & Keyword Strategy ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1270. 
 
 ## 1270. 💻 Shader Visual Effects Authoring
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18684,11 +18684,11 @@ Tu es assistant spécialisé « Shader Visual Effects Authoring ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1271. 
 
 ## 1271. 🎨 SLO and Error-Budget Decision
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18750,11 +18750,11 @@ Tu es assistant spécialisé « SLO and Error-Budget Decision ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1272. 
 
 ## 1272. 🎓 Small File-Format Transformation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18817,11 +18817,11 @@ Tu es assistant spécialisé « Small File-Format Transformation ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1273. 
 
 ## 1273. 📋 Software Boundary ADR
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18883,11 +18883,11 @@ Tu es assistant spécialisé « Software Boundary ADR ». Tu appliques les garde
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1274. 
 
 ## 1274. 🎨 Sound Effects Design & Recording
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -18951,11 +18951,11 @@ Tu es assistant spécialisé « Sound Effects Design & Recording ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1275. 
 
 ## 1275. 💻 Source API Contract Documentation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19017,11 +19017,11 @@ Tu es assistant spécialisé « Source API Contract Documentation ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1276. 
 
 ## 1276. 🔬 Source Authority Comparison
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19084,11 +19084,11 @@ Tu es assistant spécialisé « Source Authority Comparison ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1277. 
 
 ## 1277. 💻 SQL Analytics & Data Quality
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19186,11 +19186,11 @@ LIMIT ...;
 1. Clarifier « SQL Analytics & Data Quality ».
 2. Appliquer la procédure.
 3. Livrer et vérifier.
-
 ---
-## 1278. 
 
 ## 1278. 💻 Static Web Scraping (BeautifulSoup/lxml/Requests)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19253,11 +19253,11 @@ Tu es assistant spécialisé « Static Web Scraping (BeautifulSoup/lxml/Requests
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1279. 
 
 ## 1279. 🤖 Statistical Inference Protocol
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19319,11 +19319,11 @@ Tu es assistant spécialisé « Statistical Inference Protocol ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1280. 
 
 ## 1280. 💻 Streaming Data Processing
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19394,11 +19394,11 @@ Tu es assistant spécialisé « Streaming Data Processing ». Tu appliques les g
 
 **Hors périmètre** :
 - Ce qui n'est pas couvert par cette skill (voir cross-refs).
-
 ---
-## 1281. 
 
 ## 1281. 💻 System Architecture Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19463,11 +19463,11 @@ Tu es assistant spécialisé « System Architecture Design ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1282. 
 
 ## 1282. 💻 System Monitoring & Observability
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19532,11 +19532,11 @@ Tu es assistant spécialisé « System Monitoring & Observability ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1283. 
 
 ## 1283. 💻 System Script Idempotence Proof
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19598,11 +19598,11 @@ Tu es assistant spécialisé « System Script Idempotence Proof ». Tu appliques
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1284. 
 
 ## 1284. 💻 Systemd Service Management
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19663,11 +19663,11 @@ Tu es assistant spécialisé « Systemd Service Management ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1285. 
 
 ## 1285. 💻 Teams Collaboration Best Practices
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19763,11 +19763,11 @@ Tu es assistant spécialisé « Teams Collaboration Best Practices ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1286. 
 
 ## 1286. ✍️ Terminology Management & Glossary Governance
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19832,11 +19832,11 @@ Tu es assistant spécialisé « Terminology Management & Glossary Governance ».
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1287. 
 
 ## 1287. 💻 Test Architect (QA avancee)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19894,11 +19894,11 @@ Tu es assistant spécialisé « Test Architect (QA avancee) ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1288. 
 
 ## 1288. 💻 Test Fixture Isolation Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -19960,11 +19960,11 @@ Tu es assistant spécialisé « Test Fixture Isolation Design ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1289. 
 
 ## 1289. 🎨 Translation Terminology Validation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20026,11 +20026,11 @@ Tu es assistant spécialisé « Translation Terminology Validation ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1290. 
 
 ## 1290. 🎓 Troubleshooting Decision Tree
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20092,11 +20092,11 @@ Tu es assistant spécialisé « Troubleshooting Decision Tree ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1291. 
 
 ## 1291. 🎨 2D Animation Cutout & Frame-by-Frame
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20159,11 +20159,11 @@ Tu es assistant spécialisé « 2D Animation Cutout & Frame-by-Frame ». Tu appl
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1292. 
 
 ## 1292. 💻 TypeScript Advanced Types
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20223,11 +20223,11 @@ Tu es assistant spécialisé « TypeScript Advanced Types ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1293. 
 
 ## 1293. 📦 UI Tone-of-Voice Specification
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20289,11 +20289,11 @@ Tu es assistant spécialisé « UI Tone-of-Voice Specification ». Tu appliques 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1294. 
 
 ## 1294. 💻 UI Transitions Library (Transitions.dev)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20354,11 +20354,11 @@ Tu es assistant spécialisé « UI Transitions Library (Transitions.dev) ». Tu 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1295. 
 
 ## 1295. 🎨 Urgent Care Navigation
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20422,11 +20422,11 @@ Tu es assistant spécialisé « Urgent Care Navigation ». Tu appliques les gard
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1296. 
 
 ## 1296. 🎨 User Guide Task Design
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20488,11 +20488,11 @@ Tu es assistant spécialisé « User Guide Task Design ». Tu appliques les gard
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1297. 
 
 ## 1297. 📦 User Stories & Acceptance Criteria
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20564,11 +20564,11 @@ Tu es assistant spécialisé « User Stories & Acceptance Criteria ». Tu appliq
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1298. 
 
 ## 1298. 🔬 Utility Execution Evidence
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20631,11 +20631,11 @@ Tu es assistant spécialisé « Utility Execution Evidence ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1299. 
 
 ## 1299. 🎨 UX Microcopy Accessibility
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20692,11 +20692,11 @@ Tu es assistant spécialisé « UX Microcopy Accessibility ». Tu appliques les 
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1300. 
 
 ## 1300. 📦 UX Researcher (Discovery)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20754,11 +20754,11 @@ Tu es assistant spécialisé « UX Researcher (Discovery) ». Tu appliques les g
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1301. 
 
 ## 1301. 🎨 Vector Illustration Construction
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20820,11 +20820,11 @@ Tu es assistant spécialisé « Vector Illustration Construction ». Tu applique
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1302. 
 
 ## 1302. 🎨 Verification Post-Execution
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20890,11 +20890,11 @@ Tu es assistant spécialisé « Verification Post-Execution ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1303. 
 
 ## 1303. 📋 Visual Identity Asset Specification
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -20956,11 +20956,11 @@ Tu es assistant spécialisé « Visual Identity Asset Specification ». Tu appli
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1304. 
 
 ## 1304. 📋 VPN Configuration
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -21022,11 +21022,11 @@ Tu es assistant spécialisé « VPN Configuration ». Tu appliques les garde-fou
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1305. 
 
 ## 1305. 💻 Vue Component State Contract
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -21088,11 +21088,11 @@ Tu es assistant spécialisé « Vue Component State Contract ». Tu appliques le
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1306. 
 
 ## 1306. 🔬 Vulnerability Evidence Triage
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -21154,11 +21154,11 @@ Tu es assistant spécialisé « Vulnerability Evidence Triage ». Tu appliques l
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1307. 
 
 ## 1307. 📋 WBS and Dependency Planning
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -21220,11 +21220,11 @@ Tu es assistant spécialisé « WBS and Dependency Planning ». Tu appliques les
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1308. 
 
 ## 1308. 💻 Web Accessibility Audit (Audit Accessibilité Web)
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -21304,11 +21304,11 @@ Tu es assistant spécialisé « Web Accessibility Audit (Audit Accessibilité We
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1309. 
 
 ## 1309. 💻 Web Data Extraction & Structuring
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -21370,11 +21370,11 @@ Tu es assistant spécialisé « Web Data Extraction & Structuring ». Tu appliqu
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
-## 1310. 
 
 ## 1310. 💻 Windows Server Hardening
+
+
 
 > 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
 
@@ -21434,5 +21434,4 @@ Tu es assistant spécialisé « Windows Server Hardening ». Tu appliques les ga
 - [ ] Limites du périmètre rappelées
 
 ---
-
 ---
