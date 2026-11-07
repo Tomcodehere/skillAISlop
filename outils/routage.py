@@ -2675,7 +2675,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
                 modifies.append(num)
     db.execute("INSERT INTO versions(nb_skills, ajouts, supprimes, modifies) "
                "VALUES (?,?,?,?)",
-               (n, _json_dumps(ajouts), _json_dumps(supprimes), _json_dumps(modifies)))
+               (n - 1, _json_dumps(ajouts), _json_dumps(supprimes), _json_dumps(modifies)))  # -1 : skill 0 = routeur, jamais comptée
     db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)", (snapshot,))
     db.execute("INSERT OR REPLACE INTO meta VALUES ('version', ?)", (CATALOGUE_VERSION,))
     db.commit()
@@ -2683,8 +2683,8 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
     db.execute("VACUUM")
     db.close()
     if db_path == DB_PATH:
-        print(f"skills.db reconstruit : {n} skills · {d} domaines · "
-              f"{s} synonymes · {f} lignes FTS · {v} vecteurs")
+        print(f"skills.db reconstruit : {n - 1} skills + 1 routeur (skill 0) · {d} domaines · "
+              f"{s} synonymes · {f} lignes FTS · {v} vecteurs")  # -1 : le routeur n'est pas une skill
 
 
 # ---------------------------------------------------------------------------
@@ -3655,7 +3655,7 @@ python3 routage.py route "ma demande"   # route vers la bonne skill (exit 0/1/2)
 ```
 
 ## Contenu
-- `skills/` — {nb} fichiers `NNN-slug.md` (frontmatter YAML complet : num, nom, domaine, signal, mot_cle, synonymes, cross_refs)
+- `skills/` — {nb} skills + routeur 0, soit {nbf} fichiers `NNN-slug.md` (frontmatter YAML complet : num, nom, domaine, signal, mot_cle, synonymes, cross_refs)
 - `routage.py` — routeur autonome (build, route, test, lint, export, sonde, vocab, versions, analytics)
 - `manifeste.json` — version sémantique (meta), nombre de skills, domaines, hash sha256 des fichiers skills
 
@@ -3674,7 +3674,8 @@ def cmd_pack(sortie: Path, check: bool) -> int:
     manifeste = {
         "name": "skillaislop",
         "version": version,
-        "skills": nb,
+        "skills": nb - 1,  # -1 : skill 0 = routeur, non comptée
+        "sections": nb,
         "domaines": 28,
         "skills_hash_sha256": h,
         "build_from": "skills/*.md (frontmatter) — build --from-skills",
@@ -3722,8 +3723,8 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             z.write(f, f"skills/{f.name}")
         z.write(RACINE / "outils" / "routage.py", "routage.py")
         z.writestr("manifeste.json", json.dumps(manifeste, ensure_ascii=False, indent=2))
-        z.writestr("README.md", README_PACK.format(nb=nb))
-    print(f"✅ pack exporté : {sortie} ({sortie.stat().st_size/1e6:.2f} Mo, {nb} skills, hash {h[:12]}…)")
+        z.writestr("README.md", README_PACK.format(nb=nb - 1, nbf=nb))
+    print(f"✅ pack exporté : {sortie} ({sortie.stat().st_size/1e6:.2f} Mo, {nb - 1} skills + 1 routeur, hash {h[:12]}…)")
     print(f"   test de fidélité : python3 outils/routage.py pack --check")
     return 0
 
@@ -3950,7 +3951,9 @@ def cmd_count(canvas: Path, dossier: Path) -> int:
     sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(texte)
 
     domaines: dict[str, int] = {}
-    for _, dom in sommaire.values():
+    for num, (_, dom) in sommaire.items():
+        if num == 0:
+            continue  # -1 : skill 0 = routeur, jamais comptée comme skill
         domaines[dom] = domaines.get(dom, 0) + 1
     total = len(sommaire)
     operationnelles = total - 1  # hors skill 0 (routeur)

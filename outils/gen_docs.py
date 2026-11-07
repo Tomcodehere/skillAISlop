@@ -26,6 +26,7 @@ for f in sorted((RACINE / "skills").glob("*.md")):
         tags=[s.strip().strip('"') for s in re.search(r'^tags: \[(.*)\]$', fm, re.M).group(1).split(",") if s.strip()] if re.search(r'^tags:', fm, re.M) else [],
         fichier=f.name))
 skills.sort(key=lambda s: s["num"])
+skills = [s for s in skills if s["num"] != 0]  # -1 : skill 0 = routeur, jamais comptée comme skill
 refs = []
 for l in (RACINE / "catalogue" / "sources.md").read_text(encoding="utf-8").splitlines():
     m = re.match(r"^- (?:\[([^\]]+)\]\(([^)]+)\)|(\S+))\s*[—-]\s*(.*)", l.strip())
@@ -43,7 +44,7 @@ for t, u, d in refs: L.append(f"- **{t}** — {d} — [{u}]({u})")
 dom = {}
 for s in skills: dom.setdefault(s["domaine"], []).append(s)
 R = [f"# Documentation skillAISlop — générée automatiquement (gen_docs.py)", "",
-     f"**{len(skills)} skills** (+routeur 0) · **{len(dom)} domaines** · **{stats.get('synonymes','?')} synonymes** · **{stats.get('skills_fts','?')} FTS** · **{stats.get('skills','?')} vecteurs**", "",
+     f"**{len(skills)} skills** + 1 routeur (skill 0, non compté) · **{len(dom)} domaines** · **{stats.get('synonymes','?')} synonymes** · **{stats.get('skills_fts','?')} FTS** · **{stats.get('skills','?')} vecteurs**", "",
      "> Auto-générée par `python3 outils/gen_docs.py` depuis `skills/*.md` + `catalogue/sources.md`. Ne pas éditer à la main.", "", "## Sommaire", ""]
 for d in sorted(dom): R.append(f"- [{d}](domaines/{slug(d)}.md) — {len(dom[d])} skills")
 R += ["", "- [RÉFÉRENCES.MD](RÉFÉRENCES.MD) · [TEMPLATE-v2.md](TEMPLATE-v2.md) · [migration-v2.md](migration-v2.md)", ""]
@@ -58,4 +59,4 @@ for d, ss in sorted(dom.items()):
               f"- **Fichier** : `skills/{s['fichier']}` · **Mot-clé** : « {s['mot_cle']} » · **Nom court** : {s['nom_court']}",
               f"- **Signal** : {s['signal']} · **Synonymes** : {syns} · **Cross-refs** : {refs_l} · **Tags** : {tags_l}", ""]
     (OUT / "domaines" / f"{slug(d)}.md").write_text("\n".join(L) + "\n", encoding="utf-8")
-print(f"✅ {OUT} : {len(skills)} skills, {len(dom)} domaines, {len(refs)} références")
+print(f"✅ {OUT} : {len(skills)} skills + 1 routeur, {len(dom)} domaines, {len(refs)} références")

@@ -35,7 +35,7 @@
 | Langues | 13 |
 | Décision | 6 |
 | Produit & IA | 5 |
-| Routage | 4 |
+| Routage | 3 |
 
 ## Génération
 

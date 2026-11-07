@@ -1,9 +1,4 @@
-# Domaine : Routage (4 skills)
-
-## 0. 🧭 🧭 Routeur de skills
-
-- **Fichier** : `skills/000-routeur-de-skills.md` · **Mot-clé** : «  » · **Nom court** : 
-- **Signal** :  · **Synonymes** : — · **Cross-refs** : — · **Tags** : aihero:ask-matt, aihero:setup-matt-pocock-skills
+# Domaine : Routage (3 skills)
 
 ## 250. 🎩 Conservateur de la bibliothèque de skills
 
