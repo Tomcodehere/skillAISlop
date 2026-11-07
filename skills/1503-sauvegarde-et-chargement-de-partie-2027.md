@@ -1,5 +1,6 @@
 ---
 num: 1503
+date_ajout: "2026-11"
 nom: "Sauvegarde et chargement de partie (2027)"
 emoji: "💾"
 domaine: "Game Dev"

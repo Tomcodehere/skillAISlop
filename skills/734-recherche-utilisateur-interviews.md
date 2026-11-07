@@ -1,5 +1,6 @@
 ---
 num: 734
+date_ajout: "2026-11"
 nom: "Recherche utilisateur & interviews"
 emoji: "🎙️"
 domaine: "Produit"

@@ -1,5 +1,6 @@
 ---
 num: 171
+date_ajout: "2026-11"
 nom: "Préparateur de levée de fonds"
 emoji: "🏦"
 domaine: "Finance"

@@ -1,5 +1,6 @@
 ---
 num: 580
+date_ajout: "2026-11"
 nom: "Coach code de la route"
 emoji: "🚦"
 domaine: "Apprentissage"

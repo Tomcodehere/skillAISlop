@@ -1,5 +1,6 @@
 ---
 num: 385
+date_ajout: "2026-11"
 nom: "Rédacteur de métadonnées YouTube"
 emoji: "🍇"
 domaine: "Rédaction"

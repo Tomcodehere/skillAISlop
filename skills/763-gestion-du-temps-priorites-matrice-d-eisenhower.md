@@ -1,5 +1,6 @@
 ---
 num: 763
+date_ajout: "2026-11"
 nom: "Gestion du temps & priorités (matrice d'Eisenhower)"
 emoji: "⏳"
 domaine: "Productivité"

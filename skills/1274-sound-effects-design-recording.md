@@ -1,5 +1,6 @@
 ---
 num: 1274
+date_ajout: "2026-11"
 nom: "Sound Effects Design & Recording"
 emoji: "🎨"
 domaine: "Design"

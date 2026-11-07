@@ -1,5 +1,6 @@
 ---
 num: 203
+date_ajout: "2026-11"
 nom: "Concepteur d'onboarding collaborateurs"
 emoji: "🎏"
 domaine: "RH & formation"

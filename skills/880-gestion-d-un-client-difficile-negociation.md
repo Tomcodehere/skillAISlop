@@ -1,5 +1,6 @@
 ---
 num: 880
+date_ajout: "2026-11"
 nom: "Gestion d'un client difficile (négociation)"
 emoji: "🛡️"
 domaine: "Vente"

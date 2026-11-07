@@ -1,5 +1,6 @@
 ---
 num: 1043
+date_ajout: "2026-11"
 nom: "Backup Recovery Automation"
 emoji: "💻"
 domaine: "Développement"

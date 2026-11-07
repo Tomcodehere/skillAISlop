@@ -1,5 +1,6 @@
 ---
 num: 34
+date_ajout: "2026-11"
 nom: "Gardien de charte de marque"
 emoji: "🎨"
 domaine: "Marketing"

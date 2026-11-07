@@ -1,5 +1,6 @@
 ---
 num: 526
+date_ajout: "2026-11"
 nom: "Designer d'API REST & GraphQL"
 emoji: "🧭"
 domaine: "Développement"

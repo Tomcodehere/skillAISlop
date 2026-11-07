@@ -1,5 +1,6 @@
 ---
 num: 130
+date_ajout: "2026-11"
 nom: "Rédacteur de guides utilisateurs"
 emoji: "📙"
 domaine: "Rédaction"

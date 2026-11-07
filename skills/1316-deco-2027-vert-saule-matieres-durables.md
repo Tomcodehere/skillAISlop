@@ -1,5 +1,6 @@
 ---
 num: 1316
+date_ajout: "2026-11"
 nom: "Déco 2027 : vert Saule & matières durables"
 emoji: "🎨"
 domaine: "Personnel"

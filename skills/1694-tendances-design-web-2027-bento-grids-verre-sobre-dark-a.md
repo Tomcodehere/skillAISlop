@@ -1,5 +1,6 @@
 ---
 num: 1694
+date_ajout: "2026-11"
 nom: "Tendances design web 2027 : bento grids, verre sobre, dark auto (2027)"
 emoji: "🎨"
 domaine: "Design"

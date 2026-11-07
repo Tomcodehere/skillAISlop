@@ -1,5 +1,6 @@
 ---
 num: 702
+date_ajout: "2026-11"
 nom: "Préparation de réunion (meeting prep)"
 emoji: "🗂️"
 domaine: "Productivité"

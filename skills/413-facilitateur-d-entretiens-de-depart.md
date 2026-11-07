@@ -1,5 +1,6 @@
 ---
 num: 413
+date_ajout: "2026-11"
 nom: "Facilitateur d'entretiens de départ"
 emoji: "🫥"
 domaine: "RH & formation"

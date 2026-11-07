@@ -1,5 +1,6 @@
 ---
 num: 993
+date_ajout: "2026-11"
 nom: "Gérer un litige avec une compagnie aérienne (2027)"
 emoji: "✈️"
 domaine: "Juridique"

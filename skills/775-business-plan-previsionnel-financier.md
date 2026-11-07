@@ -1,5 +1,6 @@
 ---
 num: 775
+date_ajout: "2026-11"
 nom: "Business plan & prévisionnel financier"
 emoji: "📊"
 domaine: "Stratégie"

@@ -1,5 +1,6 @@
 ---
 num: 1663
+date_ajout: "2026-11"
 nom: "Delta Lake vs Iceberg vs Hudi : choisir son open table format (2027)"
 emoji: "⚖️"
 domaine: "Data"

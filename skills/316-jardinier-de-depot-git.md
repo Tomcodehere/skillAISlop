@@ -1,5 +1,6 @@
 ---
 num: 316
+date_ajout: "2026-11"
 nom: "Jardinier de dépôt Git"
 emoji: "🌲"
 domaine: "Développement"

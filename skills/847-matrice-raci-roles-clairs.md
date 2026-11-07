@@ -1,5 +1,6 @@
 ---
 num: 847
+date_ajout: "2026-11"
 nom: "Matrice RACI & rôles clairs"
 emoji: "🎯"
 domaine: "Gestion"

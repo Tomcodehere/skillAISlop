@@ -1,5 +1,6 @@
 ---
 num: 518
+date_ajout: "2026-11"
 nom: "Professeur d'instrument de musique"
 emoji: "🎻"
 domaine: "Créativité"

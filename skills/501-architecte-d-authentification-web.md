@@ -1,5 +1,6 @@
 ---
 num: 501
+date_ajout: "2026-11"
 nom: "Architecte d'authentification web"
 emoji: "💂"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 693
+date_ajout: "2026-11"
 nom: "Évaluation de la qualité d'un agent IA"
 emoji: "✅"
 domaine: "Data & IA"

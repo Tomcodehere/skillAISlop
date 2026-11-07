@@ -1,5 +1,6 @@
 ---
 num: 948
+date_ajout: "2026-11"
 nom: "Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027)"
 emoji: "📋"
 domaine: "Juridique"

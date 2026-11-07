@@ -1,5 +1,6 @@
 ---
 num: 559
+date_ajout: "2026-11"
 nom: "Professeur de maths"
 emoji: "➗"
 domaine: "Apprentissage"

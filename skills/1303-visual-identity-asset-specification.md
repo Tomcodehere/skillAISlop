@@ -1,5 +1,6 @@
 ---
 num: 1303
+date_ajout: "2026-11"
 nom: "Visual Identity Asset Specification"
 emoji: "📋"
 domaine: "Gestion"

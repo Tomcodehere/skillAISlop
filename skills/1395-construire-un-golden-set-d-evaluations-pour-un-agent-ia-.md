@@ -1,5 +1,6 @@
 ---
 num: 1395
+date_ajout: "2026-11"
 nom: "Construire un golden set d'evaluations pour un agent IA (2027)"
 emoji: "🥇"
 domaine: "Data & IA"

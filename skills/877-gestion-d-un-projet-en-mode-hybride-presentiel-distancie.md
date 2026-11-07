@@ -1,5 +1,6 @@
 ---
 num: 877
+date_ajout: "2026-11"
 nom: "Gestion d'un projet en mode hybride (présentiel/distanciel)"
 emoji: "🌐"
 domaine: "Gestion"

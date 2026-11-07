@@ -1,5 +1,6 @@
 ---
 num: 141
+date_ajout: "2026-11"
 nom: "Créateur d'illustrations vectorielles"
 emoji: "✒️"
 domaine: "Design"

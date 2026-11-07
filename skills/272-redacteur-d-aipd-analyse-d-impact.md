@@ -1,5 +1,6 @@
 ---
 num: 272
+date_ajout: "2026-11"
 nom: "Rédacteur d'AIPD (analyse d'impact)"
 emoji: "🛟"
 domaine: "Juridique"

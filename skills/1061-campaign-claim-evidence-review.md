@@ -1,5 +1,6 @@
 ---
 num: 1061
+date_ajout: "2026-11"
 nom: "Campaign Claim Evidence Review"
 emoji: "🔬"
 domaine: "Recherche"

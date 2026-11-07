@@ -1,5 +1,6 @@
 ---
 num: 1433
+date_ajout: "2026-11"
 nom: "Human-in-the-loop multi-niveaux (2027)"
 emoji: "🧑‍💻"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 287
+date_ajout: "2026-11"
 nom: "Atelier de notes atomiques Zettelkasten"
 emoji: "🖊️"
 domaine: "Gestion"

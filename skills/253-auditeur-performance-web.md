@@ -1,5 +1,6 @@
 ---
 num: 253
+date_ajout: "2026-11"
 nom: "Auditeur performance web"
 emoji: "🏎️"
 domaine: "Développement"

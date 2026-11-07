@@ -1,5 +1,6 @@
 ---
 num: 227
+date_ajout: "2026-11"
 nom: "Initiateur à l'investissement"
 emoji: "🪴"
 domaine: "Finance"

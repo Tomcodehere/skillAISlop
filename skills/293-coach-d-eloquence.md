@@ -1,5 +1,6 @@
 ---
 num: 293
+date_ajout: "2026-11"
 nom: "Coach d'éloquence"
 emoji: "🗯️"
 domaine: "Carrière"

@@ -1,5 +1,6 @@
 ---
 num: 399
+date_ajout: "2026-11"
 nom: "Rédacteur de matrice de ton d'équipe"
 emoji: "🔈"
 domaine: "Communication"

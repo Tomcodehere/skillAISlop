@@ -1,5 +1,6 @@
 ---
 num: 818
+date_ajout: "2026-11"
 nom: "Sécurité des agents : injection via le web"
 emoji: "🕸️"
 domaine: "Sécurité"

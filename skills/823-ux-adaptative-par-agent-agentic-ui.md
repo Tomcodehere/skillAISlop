@@ -1,5 +1,6 @@
 ---
 num: 823
+date_ajout: "2026-11"
 nom: "UX adaptative par agent (agentic UI)"
 emoji: "✨"
 domaine: "Produit"

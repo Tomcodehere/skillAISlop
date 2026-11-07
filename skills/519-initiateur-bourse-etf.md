@@ -1,5 +1,6 @@
 ---
 num: 519
+date_ajout: "2026-11"
 nom: "Initiateur bourse & ETF"
 emoji: "📈"
 domaine: "Finance"

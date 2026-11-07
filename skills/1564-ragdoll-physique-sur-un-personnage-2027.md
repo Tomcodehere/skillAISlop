@@ -1,5 +1,6 @@
 ---
 num: 1564
+date_ajout: "2026-11"
 nom: "Ragdoll physique sur un personnage (2027)"
 emoji: "🧸"
 domaine: "Game Dev"

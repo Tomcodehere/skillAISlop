@@ -1,5 +1,6 @@
 ---
 num: 648
+date_ajout: "2026-11"
 nom: "Résiliation & droit de rétractation"
 emoji: "↩️"
 domaine: "Juridique"

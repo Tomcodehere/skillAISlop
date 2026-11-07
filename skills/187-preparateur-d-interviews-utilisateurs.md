@@ -1,5 +1,6 @@
 ---
 num: 187
+date_ajout: "2026-11"
 nom: "Préparateur d'interviews utilisateurs"
 emoji: "🗨️"
 domaine: "Produit"

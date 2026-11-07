@@ -1,5 +1,6 @@
 ---
 num: 1080
+date_ajout: "2026-11"
 nom: "Compliance Automation (RegOps)"
 emoji: "🎨"
 domaine: "Design"

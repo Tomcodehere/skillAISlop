@@ -1,5 +1,6 @@
 ---
 num: 1419
+date_ajout: "2026-11"
 nom: "Indexation avancee des bases de donnees (2027)"
 emoji: "🗃️"
 domaine: "Développement"
@@ -7,7 +8,7 @@ signal: "Concevoir des index efficaces en 2027 : B-tree vs composite vs partiel,
 mot_cle: "index base de données composite covering explain analyze"
 nom_court: "Indexation"
 branche: "D15"
-synonymes: ["créer un index composite", "covering index", "explain analyze requête lente"]
+synonymes: ["créer un index composite", "covering index", "explain analyze requête lente", "créer index composite explain analyze"]
 cross_refs: [318, 1201, 1229]
 tags: ["2027"]
 depends_on: [318]

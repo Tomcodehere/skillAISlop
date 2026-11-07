@@ -1,5 +1,6 @@
 ---
 num: 32
+date_ajout: "2026-11"
 nom: "Analyseur concurrentiel"
 emoji: "🥊"
 domaine: "Marketing"

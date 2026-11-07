@@ -1,5 +1,6 @@
 ---
 num: 1546
+date_ajout: "2026-11"
 nom: "Lockstep vs snapshot interpolation (2027)"
 emoji: "🔁"
 domaine: "Game Dev"

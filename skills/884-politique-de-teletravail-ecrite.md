@@ -1,5 +1,6 @@
 ---
 num: 884
+date_ajout: "2026-11"
 nom: "Politique de télétravail écrite"
 emoji: "🏠"
 domaine: "RH & formation"

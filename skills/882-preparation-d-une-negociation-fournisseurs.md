@@ -1,5 +1,6 @@
 ---
 num: 882
+date_ajout: "2026-11"
 nom: "Préparation d'une négociation fournisseurs"
 emoji: "🤝"
 domaine: "Gestion"

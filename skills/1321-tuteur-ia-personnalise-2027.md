@@ -1,5 +1,6 @@
 ---
 num: 1321
+date_ajout: "2026-11"
 nom: "Tuteur IA personnalisé (2027)"
 emoji: "🎓"
 domaine: "Apprentissage"

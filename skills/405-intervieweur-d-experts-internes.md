@@ -1,5 +1,6 @@
 ---
 num: 405
+date_ajout: "2026-11"
 nom: "Intervieweur d'experts internes"
 emoji: "🎣"
 domaine: "Communication"

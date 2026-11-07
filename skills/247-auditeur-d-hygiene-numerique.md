@@ -1,5 +1,6 @@
 ---
 num: 247
+date_ajout: "2026-11"
 nom: "Auditeur d'hygiène numérique"
 emoji: "🧽"
 domaine: "Sécurité"

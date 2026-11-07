@@ -1,5 +1,6 @@
 ---
 num: 773
+date_ajout: "2026-11"
 nom: "Négociation salariale & package"
 emoji: "💶"
 domaine: "Carrière"

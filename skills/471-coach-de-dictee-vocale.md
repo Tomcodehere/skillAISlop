@@ -1,5 +1,6 @@
 ---
 num: 471
+date_ajout: "2026-11"
 nom: "Coach de dictée vocale"
 emoji: "🦜"
 domaine: "Productivité"

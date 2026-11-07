@@ -1,5 +1,6 @@
 ---
 num: 237
+date_ajout: "2026-11"
 nom: "Débogueur de prompts"
 emoji: "🪛"
 domaine: "IA / Prompting"

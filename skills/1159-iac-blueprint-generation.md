@@ -1,5 +1,6 @@
 ---
 num: 1159
+date_ajout: "2026-11"
 nom: "IaC Blueprint Generation"
 emoji: "💻"
 domaine: "Développement"

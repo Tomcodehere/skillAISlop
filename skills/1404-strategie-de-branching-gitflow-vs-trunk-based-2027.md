@@ -1,5 +1,6 @@
 ---
 num: 1404
+date_ajout: "2026-11"
 nom: "Strategie de branching : GitFlow vs trunk-based (2027)"
 emoji: "🌳"
 domaine: "Développement"

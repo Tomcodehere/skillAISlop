@@ -1,5 +1,6 @@
 ---
 num: 393
+date_ajout: "2026-11"
 nom: "Ghostwriter de tribunes d'expert"
 emoji: "🍊"
 domaine: "Rédaction"

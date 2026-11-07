@@ -1,5 +1,6 @@
 ---
 num: 831
+date_ajout: "2026-11"
 nom: "TJM & rentabilité freelance"
 emoji: "💻"
 domaine: "Gestion"

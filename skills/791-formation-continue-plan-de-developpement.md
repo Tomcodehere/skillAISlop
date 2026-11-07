@@ -1,5 +1,6 @@
 ---
 num: 791
+date_ajout: "2026-11"
 nom: "Formation continue & plan de développement"
 emoji: "📈"
 domaine: "RH & formation"

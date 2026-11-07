@@ -1,5 +1,6 @@
 ---
 num: 1499
+date_ajout: "2026-11"
 nom: "Resumer automatiquement une reunion avec actions (2027)"
 emoji: "🎤"
 domaine: "Productivité"

@@ -1,5 +1,6 @@
 ---
 num: 613
+date_ajout: "2026-11"
 nom: "Analyste SWOT"
 emoji: "📊"
 domaine: "Stratégie"

@@ -1,5 +1,6 @@
 ---
 num: 1497
+date_ajout: "2026-11"
 nom: "Analyser les demandes non routees (misses) et boucler (2027)"
 emoji: "📊"
 domaine: "Routage"

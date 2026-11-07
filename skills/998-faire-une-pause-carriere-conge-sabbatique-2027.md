@@ -1,5 +1,6 @@
 ---
 num: 998
+date_ajout: "2026-11"
 nom: "Faire une pause carrière (congé sabbatique) 2027"
 emoji: "🌴"
 domaine: "Carrière"

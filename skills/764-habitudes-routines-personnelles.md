@@ -1,5 +1,6 @@
 ---
 num: 764
+date_ajout: "2026-11"
 nom: "Habitudes & routines personnelles"
 emoji: "🔄"
 domaine: "Personnel"

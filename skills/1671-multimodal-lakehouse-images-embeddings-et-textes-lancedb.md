@@ -1,5 +1,6 @@
 ---
 num: 1671
+date_ajout: "2026-11"
 nom: "Multimodal lakehouse : images, embeddings et textes (LanceDB, 2027)"
 emoji: "🖼️"
 domaine: "Data & IA"

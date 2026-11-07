@@ -1,5 +1,6 @@
 ---
 num: 1602
+date_ajout: "2026-11"
 nom: "Retour au serveur : React Server Components et edge (2027)"
 emoji: "☁️"
 domaine: "Développement"

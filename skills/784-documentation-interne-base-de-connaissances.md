@@ -1,5 +1,6 @@
 ---
 num: 784
+date_ajout: "2026-11"
 nom: "Documentation interne & base de connaissances"
 emoji: "📚"
 domaine: "Gestion"

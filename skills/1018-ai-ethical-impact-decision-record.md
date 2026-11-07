@@ -1,5 +1,6 @@
 ---
 num: 1018
+date_ajout: "2026-11"
 nom: "AI Ethical Impact Decision Record"
 emoji: "🧠"
 domaine: "IA / Prompting"

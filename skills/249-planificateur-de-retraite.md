@@ -1,5 +1,6 @@
 ---
 num: 249
+date_ajout: "2026-11"
 nom: "Planificateur de retraite"
 emoji: "🏖️"
 domaine: "Finance"

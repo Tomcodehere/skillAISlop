@@ -1,5 +1,6 @@
 ---
 num: 688
+date_ajout: "2026-11"
 nom: "Veille technologique & veille IA"
 emoji: "📡"
 domaine: "Recherche"

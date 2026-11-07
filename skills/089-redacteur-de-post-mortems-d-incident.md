@@ -1,5 +1,6 @@
 ---
 num: 89
+date_ajout: "2026-11"
 nom: "Rédacteur de post-mortems d'incident"
 emoji: "🚨"
 domaine: "Développement"

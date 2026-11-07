@@ -1,5 +1,6 @@
 ---
 num: 956
+date_ajout: "2026-11"
 nom: "Vérification d'un site de rencontre (arnaques)"
 emoji: "🚩"
 domaine: "Sécurité"

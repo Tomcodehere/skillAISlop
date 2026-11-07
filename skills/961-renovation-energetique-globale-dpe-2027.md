@@ -1,5 +1,6 @@
 ---
 num: 961
+date_ajout: "2026-11"
 nom: "Rénovation énergétique globale (DPE) 2027"
 emoji: "🏠"
 domaine: "Finance"

@@ -1,5 +1,6 @@
 ---
 num: 1587
+date_ajout: "2026-11"
 nom: "Portage console : Switch, PS5, Xbox et certification (2027)"
 emoji: "🎮"
 domaine: "Game Dev"

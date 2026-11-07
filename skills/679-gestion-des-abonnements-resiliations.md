@@ -1,5 +1,6 @@
 ---
 num: 679
+date_ajout: "2026-11"
 nom: "Gestion des abonnements & résiliations"
 emoji: "🧾"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 330
+date_ajout: "2026-11"
 nom: "Observateur d'agents"
 emoji: "🌞"
 domaine: "IA / Prompting"

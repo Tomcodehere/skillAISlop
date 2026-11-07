@@ -1,5 +1,6 @@
 ---
 num: 1266
+date_ajout: "2026-11"
 nom: "Security Engineering (AppSec Automation)"
 emoji: "⚡"
 domaine: "Productivité"

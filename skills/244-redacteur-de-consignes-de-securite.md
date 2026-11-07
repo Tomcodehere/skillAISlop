@@ -1,5 +1,6 @@
 ---
 num: 244
+date_ajout: "2026-11"
 nom: "Rédacteur de consignes de sécurité"
 emoji: "🥽"
 domaine: "Sécurité"

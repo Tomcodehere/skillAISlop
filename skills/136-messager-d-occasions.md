@@ -1,5 +1,6 @@
 ---
 num: 136
+date_ajout: "2026-11"
 nom: "Messager d'occasions"
 emoji: "🎁"
 domaine: "Personnel"

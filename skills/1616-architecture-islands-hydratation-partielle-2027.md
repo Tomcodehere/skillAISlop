@@ -1,5 +1,6 @@
 ---
 num: 1616
+date_ajout: "2026-11"
 nom: "Architecture islands : hydratation partielle (2027)"
 emoji: "🏝️"
 domaine: "Développement"

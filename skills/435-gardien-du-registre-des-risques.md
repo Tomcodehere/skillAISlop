@@ -1,5 +1,6 @@
 ---
 num: 435
+date_ajout: "2026-11"
 nom: "Gardien du registre des risques"
 emoji: "🍡"
 domaine: "Gestion"

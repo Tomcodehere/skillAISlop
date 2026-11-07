@@ -1,5 +1,6 @@
 ---
 num: 1522
+date_ajout: "2026-11"
 nom: "GOAP : planification d'actions par objectif (2027)"
 emoji: "🎯"
 domaine: "Game Dev"

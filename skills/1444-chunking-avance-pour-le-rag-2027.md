@@ -1,5 +1,6 @@
 ---
 num: 1444
+date_ajout: "2026-11"
 nom: "Chunking avance pour le RAG (2027)"
 emoji: "✂️"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 760
+date_ajout: "2026-11"
 nom: "Conduite de réunion à distance & hybride"
 emoji: "💻"
 domaine: "Gestion"

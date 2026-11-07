@@ -1,5 +1,6 @@
 ---
 num: 886
+date_ajout: "2026-11"
 nom: "Gestion d'un accident du travail"
 emoji: "🩹"
 domaine: "Juridique"

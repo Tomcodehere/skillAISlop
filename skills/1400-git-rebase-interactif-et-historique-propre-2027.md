@@ -1,5 +1,6 @@
 ---
 num: 1400
+date_ajout: "2026-11"
 nom: "Git rebase interactif et historique propre (2027)"
 emoji: "🔀"
 domaine: "Développement"

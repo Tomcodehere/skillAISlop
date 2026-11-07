@@ -1,5 +1,6 @@
 ---
 num: 1430
+date_ajout: "2026-11"
 nom: "Gerer le contexte long (200k tokens, 2027)"
 emoji: "🧠"
 domaine: "IA / Prompting"

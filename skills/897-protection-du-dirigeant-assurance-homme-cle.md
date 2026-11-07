@@ -1,5 +1,6 @@
 ---
 num: 897
+date_ajout: "2026-11"
 nom: "Protection du dirigeant (assurance homme clé)"
 emoji: "🛡️"
 domaine: "Finance"

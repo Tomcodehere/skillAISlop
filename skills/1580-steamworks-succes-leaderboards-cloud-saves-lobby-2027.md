@@ -1,5 +1,6 @@
 ---
 num: 1580
+date_ajout: "2026-11"
 nom: "Steamworks : succes, leaderboards, cloud saves, lobby (2027)"
 emoji: "🏆"
 domaine: "Game Dev"

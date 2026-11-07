@@ -1,5 +1,6 @@
 ---
 num: 326
+date_ajout: "2026-11"
 nom: "Compteur de tokens & budget de contexte"
 emoji: "🌛"
 domaine: "IA / Prompting"

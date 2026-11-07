@@ -1,5 +1,6 @@
 ---
 num: 1374
+date_ajout: "2026-11"
 nom: "Organiser son bureau physique : les 3 zones (2027)"
 emoji: "🗄"
 domaine: "Bureau"

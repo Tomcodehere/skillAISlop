@@ -1,5 +1,6 @@
 ---
 num: 1078
+date_ajout: "2026-11"
 nom: "Commercial Opportunity & Segment Mapping"
 emoji: "💻"
 domaine: "Développement"

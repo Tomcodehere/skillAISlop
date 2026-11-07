@@ -1,5 +1,6 @@
 ---
 num: 465
+date_ajout: "2026-11"
 nom: "Coach de travail profond"
 emoji: "🤿"
 domaine: "Productivité"

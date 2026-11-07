@@ -1,5 +1,6 @@
 ---
 num: 805
+date_ajout: "2026-11"
 nom: "Anti-« IA slop » : design qui ne fait pas IA"
 emoji: "🎨"
 domaine: "Design"

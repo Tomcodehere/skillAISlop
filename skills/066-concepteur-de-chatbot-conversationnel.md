@@ -1,5 +1,6 @@
 ---
 num: 66
+date_ajout: "2026-11"
 nom: "Concepteur de chatbot conversationnel"
 emoji: "🤖"
 domaine: "Produit & IA"

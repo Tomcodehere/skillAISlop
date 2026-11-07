@@ -1,5 +1,6 @@
 ---
 num: 264
+date_ajout: "2026-11"
 nom: "Automatiseur Excel & tableurs"
 emoji: "🖩"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 541
+date_ajout: "2026-11"
 nom: "Auditeur de budget & prévisionnel"
 emoji: "🧮"
 domaine: "Finance"

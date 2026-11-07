@@ -1,5 +1,6 @@
 ---
 num: 119
+date_ajout: "2026-11"
 nom: "Générateur de FAQ"
 emoji: "❓"
 domaine: "Rédaction"

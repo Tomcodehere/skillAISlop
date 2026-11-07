@@ -1,5 +1,6 @@
 ---
 num: 853
+date_ajout: "2026-11"
 nom: "Lecture de contrat : points de vigilance"
 emoji: "🔍"
 domaine: "Juridique"

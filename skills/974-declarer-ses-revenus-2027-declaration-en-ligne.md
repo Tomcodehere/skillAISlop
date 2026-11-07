@@ -1,5 +1,6 @@
 ---
 num: 974
+date_ajout: "2026-11"
 nom: "Déclarer ses revenus 2027 (déclaration en ligne)"
 emoji: "📝"
 domaine: "Juridique"

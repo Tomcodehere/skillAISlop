@@ -1,5 +1,6 @@
 ---
 num: 1219
+date_ajout: "2026-11"
 nom: "Outlook Productivity Automation"
 emoji: "💬"
 domaine: "Communication"

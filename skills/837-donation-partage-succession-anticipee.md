@@ -1,5 +1,6 @@
 ---
 num: 837
+date_ajout: "2026-11"
 nom: "Donation-partage & succession anticipée"
 emoji: "👨‍👩‍👧"
 domaine: "Juridique"

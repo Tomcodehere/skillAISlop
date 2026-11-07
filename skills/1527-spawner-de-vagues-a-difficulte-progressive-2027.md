@@ -1,5 +1,6 @@
 ---
 num: 1527
+date_ajout: "2026-11"
 nom: "Spawner de vagues a difficulté progressive (2027)"
 emoji: "🌊"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 1262
+date_ajout: "2026-11"
 nom: "Sales Pipeline & Opportunity Management"
 emoji: "💻"
 domaine: "Développement"

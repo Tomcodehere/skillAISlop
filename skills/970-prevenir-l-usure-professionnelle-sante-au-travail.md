@@ -1,5 +1,6 @@
 ---
 num: 970
+date_ajout: "2026-11"
 nom: "Prévenir l'usure professionnelle (santé au travail)"
 emoji: "🩺"
 domaine: "Personnel"

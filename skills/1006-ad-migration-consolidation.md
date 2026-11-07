@@ -1,5 +1,6 @@
 ---
 num: 1006
+date_ajout: "2026-11"
 nom: "AD Migration & Consolidation"
 emoji: "📋"
 domaine: "Gestion"

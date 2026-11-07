@@ -1,5 +1,6 @@
 ---
 num: 1416
+date_ajout: "2026-11"
 nom: "Monitoring applicatif Prometheus et Grafana (2027)"
 emoji: "📈"
 domaine: "Développement"

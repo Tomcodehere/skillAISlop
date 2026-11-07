@@ -1,5 +1,6 @@
 ---
 num: 509
+date_ajout: "2026-11"
 nom: "Simulateur de campagnes de phishing"
 emoji: "🥷"
 domaine: "Sécurité"

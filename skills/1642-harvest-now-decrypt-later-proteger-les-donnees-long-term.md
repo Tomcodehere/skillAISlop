@@ -1,5 +1,6 @@
 ---
 num: 1642
+date_ajout: "2026-11"
 nom: "Harvest now, decrypt later : proteger les donnees long terme (2027)"
 emoji: "⏳"
 domaine: "Sécurité"

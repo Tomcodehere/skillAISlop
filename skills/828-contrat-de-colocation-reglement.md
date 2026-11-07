@@ -1,5 +1,6 @@
 ---
 num: 828
+date_ajout: "2026-11"
 nom: "Contrat de colocation & règlement"
 emoji: "🏘️"
 domaine: "Juridique"

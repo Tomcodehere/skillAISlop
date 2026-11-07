@@ -1,5 +1,6 @@
 ---
 num: 275
+date_ajout: "2026-11"
 nom: "Préparateur d'offboarding"
 emoji: "🚪"
 domaine: "RH & formation"

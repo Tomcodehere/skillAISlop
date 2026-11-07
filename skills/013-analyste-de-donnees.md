@@ -1,5 +1,6 @@
 ---
 num: 13
+date_ajout: "2026-11"
 nom: "Analyste de données"
 emoji: "📊"
 domaine: "Data"

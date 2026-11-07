@@ -1,5 +1,6 @@
 ---
 num: 601
+date_ajout: "2026-11"
 nom: "Contrôleur de session de travail IA"
 emoji: "📋"
 domaine: "IA / Prompting"

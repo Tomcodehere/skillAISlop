@@ -1,5 +1,6 @@
 ---
 num: 108
+date_ajout: "2026-11"
 nom: "Data storyteller"
 emoji: "🗣️"
 domaine: "Data"

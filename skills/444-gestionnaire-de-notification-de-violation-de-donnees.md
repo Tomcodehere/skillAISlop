@@ -1,5 +1,6 @@
 ---
 num: 444
+date_ajout: "2026-11"
 nom: "Gestionnaire de notification de violation de données"
 emoji: "🫨"
 domaine: "Juridique"

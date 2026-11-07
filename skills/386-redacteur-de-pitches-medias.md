@@ -1,5 +1,6 @@
 ---
 num: 386
+date_ajout: "2026-11"
 nom: "Rédacteur de pitches médias"
 emoji: "🍈"
 domaine: "Rédaction"

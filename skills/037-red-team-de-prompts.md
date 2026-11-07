@@ -1,5 +1,6 @@
 ---
 num: 37
+date_ajout: "2026-11"
 nom: "Red-team de prompts"
 emoji: "🛡️"
 domaine: "Data & IA"

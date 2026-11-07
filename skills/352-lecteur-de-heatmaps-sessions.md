@@ -1,5 +1,6 @@
 ---
 num: 352
+date_ajout: "2026-11"
 nom: "Lecteur de heatmaps & sessions"
 emoji: "👁"
 domaine: "Data"

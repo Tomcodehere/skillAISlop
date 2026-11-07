@@ -1,5 +1,6 @@
 ---
 num: 1556
+date_ajout: "2026-11"
 nom: "Eclairage 2D : lights, ombres et normal maps (2027)"
 emoji: "💡"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 1525
+date_ajout: "2026-11"
 nom: "Coordination d'ennemis : flanquement et focus (2027)"
 emoji: "👥"
 domaine: "Game Dev"

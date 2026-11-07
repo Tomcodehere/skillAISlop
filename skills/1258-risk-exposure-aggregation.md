@@ -1,5 +1,6 @@
 ---
 num: 1258
+date_ajout: "2026-11"
 nom: "Risk Exposure Aggregation"
 emoji: "🧠"
 domaine: "IA / Prompting"

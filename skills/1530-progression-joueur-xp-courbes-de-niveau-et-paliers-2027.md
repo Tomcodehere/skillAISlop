@@ -1,5 +1,6 @@
 ---
 num: 1530
+date_ajout: "2026-11"
 nom: "Progression joueur : XP, courbes de niveau et paliers (2027)"
 emoji: "📈"
 domaine: "Game Dev"

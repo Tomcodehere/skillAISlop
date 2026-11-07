@@ -1,5 +1,6 @@
 ---
 num: 159
+date_ajout: "2026-11"
 nom: "Designer sonore de marque"
 emoji: "📻"
 domaine: "Créativité"

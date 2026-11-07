@@ -1,5 +1,6 @@
 ---
 num: 1393
+date_ajout: "2026-11"
 nom: "Documenter un dataset (data card, 2027)"
 emoji: "🏷"
 domaine: "Data"

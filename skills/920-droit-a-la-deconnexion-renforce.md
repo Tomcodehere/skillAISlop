@@ -1,5 +1,6 @@
 ---
 num: 920
+date_ajout: "2026-11"
 nom: "Droit à la déconnexion renforcé"
 emoji: "🔌"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 35
+date_ajout: "2026-11"
 nom: "Pipeline de recommandation"
 emoji: "🔗"
 domaine: "Data & IA"

@@ -1,5 +1,6 @@
 ---
 num: 140
+date_ajout: "2026-11"
 nom: "Restaurateur de photos anciennes"
 emoji: "🪞"
 domaine: "Créativité"

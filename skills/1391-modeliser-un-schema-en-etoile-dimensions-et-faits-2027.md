@@ -1,5 +1,6 @@
 ---
 num: 1391
+date_ajout: "2026-11"
 nom: "Modeliser un schema en etoile (dimensions et faits, 2027)"
 emoji: "⭐"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 1681
+date_ajout: "2026-11"
 nom: "AI Act : calendrier 2026-2028 post-Omnibus (2027)"
 emoji: "⚖️"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 1692
+date_ajout: "2026-11"
 nom: "Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO 2027)"
 emoji: "🔍"
 domaine: "Produit & IA"

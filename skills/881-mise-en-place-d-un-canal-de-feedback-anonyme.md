@@ -1,5 +1,6 @@
 ---
 num: 881
+date_ajout: "2026-11"
 nom: "Mise en place d'un canal de feedback anonyme"
 emoji: "📥"
 domaine: "RH & formation"

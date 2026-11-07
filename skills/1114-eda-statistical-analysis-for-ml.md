@@ -1,5 +1,6 @@
 ---
 num: 1114
+date_ajout: "2026-11"
 nom: "EDA & Statistical Analysis for ML"
 emoji: "🧠"
 domaine: "IA / Prompting"

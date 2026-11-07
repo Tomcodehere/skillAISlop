@@ -1,5 +1,6 @@
 ---
 num: 417
+date_ajout: "2026-11"
 nom: "Suiveur des formations obligatoires"
 emoji: "🍙"
 domaine: "RH & formation"

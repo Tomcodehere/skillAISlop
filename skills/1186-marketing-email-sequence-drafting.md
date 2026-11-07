@@ -1,5 +1,6 @@
 ---
 num: 1186
+date_ajout: "2026-11"
 nom: "Marketing Email Sequence Drafting"
 emoji: "📣"
 domaine: "Marketing"

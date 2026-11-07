@@ -1,5 +1,6 @@
 ---
 num: 1660
+date_ajout: "2026-11"
 nom: "DuckDB : le SQLite de l'analytics, requêter Parquet/S3 directement (2027)"
 emoji: "🦆"
 domaine: "Data"

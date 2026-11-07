@@ -1,5 +1,6 @@
 ---
 num: 1292
+date_ajout: "2026-11"
 nom: "TypeScript Advanced Types"
 emoji: "💻"
 domaine: "Développement"

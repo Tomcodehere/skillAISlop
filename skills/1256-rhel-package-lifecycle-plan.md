@@ -1,5 +1,6 @@
 ---
 num: 1256
+date_ajout: "2026-11"
 nom: "RHEL Package Lifecycle Plan"
 emoji: "⚡"
 domaine: "Productivité"

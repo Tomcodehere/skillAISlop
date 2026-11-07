@@ -1,5 +1,6 @@
 ---
 num: 788
+date_ajout: "2026-11"
 nom: "Management à distance & engagement d'équipe"
 emoji: "🌐"
 domaine: "RH & formation"

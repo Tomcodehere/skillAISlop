@@ -1,5 +1,6 @@
 ---
 num: 22
+date_ajout: "2026-11"
 nom: "Diagrammes d'architecture"
 emoji: "🏗️"
 domaine: "Développement"

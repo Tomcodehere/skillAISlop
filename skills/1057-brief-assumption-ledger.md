@@ -1,5 +1,6 @@
 ---
 num: 1057
+date_ajout: "2026-11"
 nom: "Brief Assumption Ledger"
 emoji: "🎨"
 domaine: "Design"

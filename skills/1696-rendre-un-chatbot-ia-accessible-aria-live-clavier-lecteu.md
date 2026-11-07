@@ -1,5 +1,6 @@
 ---
 num: 1696
+date_ajout: "2026-11"
 nom: "Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran, 2027)"
 emoji: "♿"
 domaine: "Produit & IA"

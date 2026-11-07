@@ -1,5 +1,6 @@
 ---
 num: 532
+date_ajout: "2026-11"
 nom: "Coach bénévolat associatif"
 emoji: "🤝"
 domaine: "Gestion"

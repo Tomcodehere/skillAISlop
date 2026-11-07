@@ -1,5 +1,6 @@
 ---
 num: 480
+date_ajout: "2026-11"
 nom: "Inventarieur de biens du foyer"
 emoji: "🍵"
 domaine: "Personnel"

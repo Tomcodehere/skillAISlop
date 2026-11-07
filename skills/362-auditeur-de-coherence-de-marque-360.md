@@ -1,5 +1,6 @@
 ---
 num: 362
+date_ajout: "2026-11"
 nom: "Auditeur de cohérence de marque 360"
 emoji: "🎽"
 domaine: "Marketing"

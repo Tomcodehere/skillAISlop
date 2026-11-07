@@ -1,5 +1,6 @@
 ---
 num: 945
+date_ajout: "2026-11"
 nom: "Prompt « caveman » & concision des sorties IA"
 emoji: "🪨"
 domaine: "IA / Prompting"

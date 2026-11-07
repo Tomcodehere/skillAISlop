@@ -1,5 +1,6 @@
 ---
 num: 1553
+date_ajout: "2026-11"
 nom: "Draw calls : batching, atlas et occlusion culling (2027)"
 emoji: "🖼️"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 807
+date_ajout: "2026-11"
 nom: "Audit de session d'agent de code"
 emoji: "🔍"
 domaine: "Data & IA"

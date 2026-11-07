@@ -1,5 +1,6 @@
 ---
 num: 1329
+date_ajout: "2026-11"
 nom: "Veille personnalisée IA (actualités 2027)"
 emoji: "📰"
 domaine: "Recherche"

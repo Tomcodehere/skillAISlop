@@ -1,5 +1,6 @@
 ---
 num: 1148
+date_ajout: "2026-11"
 nom: "GIMP Photo Retouch & Compositing"
 emoji: "🎨"
 domaine: "Design"

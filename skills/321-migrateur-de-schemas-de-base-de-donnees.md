@@ -1,5 +1,6 @@
 ---
 num: 321
+date_ajout: "2026-11"
 nom: "Migrateur de schémas de base de données"
 emoji: "🌖"
 domaine: "Développement"

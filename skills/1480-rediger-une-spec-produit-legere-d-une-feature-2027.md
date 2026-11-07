@@ -1,5 +1,6 @@
 ---
 num: 1480
+date_ajout: "2026-11"
 nom: "Rediger une spec produit legere d'une feature (2027)"
 emoji: "📄"
 domaine: "Produit"

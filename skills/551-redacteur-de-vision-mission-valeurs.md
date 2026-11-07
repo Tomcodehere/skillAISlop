@@ -1,5 +1,6 @@
 ---
 num: 551
+date_ajout: "2026-11"
 nom: "Rédacteur de vision, mission & valeurs"
 emoji: "🧭"
 domaine: "Stratégie"

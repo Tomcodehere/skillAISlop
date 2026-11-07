@@ -1,5 +1,6 @@
 ---
 num: 1378
+date_ajout: "2026-11"
 nom: "Preparer une visioconference hybride bien equipee (2027)"
 emoji: "🎥"
 domaine: "Bureau"

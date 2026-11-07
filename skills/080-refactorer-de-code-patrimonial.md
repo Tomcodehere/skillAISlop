@@ -1,5 +1,6 @@
 ---
 num: 80
+date_ajout: "2026-11"
 nom: "Refactorer de code patrimonial"
 emoji: "🏚️"
 domaine: "Développement"

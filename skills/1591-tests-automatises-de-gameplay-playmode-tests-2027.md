@@ -1,5 +1,6 @@
 ---
 num: 1591
+date_ajout: "2026-11"
 nom: "Tests automatises de gameplay (playmode tests, 2027)"
 emoji: "🧪"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 907
+date_ajout: "2026-11"
 nom: "Attaques IA autonomes & social engineering 2027"
 emoji: "🎯"
 domaine: "Sécurité"

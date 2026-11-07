@@ -1,5 +1,6 @@
 ---
 num: 1011
+date_ajout: "2026-11"
 nom: "Adversarial Testing & Robustness"
 emoji: "💻"
 domaine: "Développement"

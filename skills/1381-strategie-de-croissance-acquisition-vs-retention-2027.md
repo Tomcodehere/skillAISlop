@@ -1,5 +1,6 @@
 ---
 num: 1381
+date_ajout: "2026-11"
 nom: "Strategie de croissance : acquisition vs retention (2027)"
 emoji: "⚖"
 domaine: "Stratégie"

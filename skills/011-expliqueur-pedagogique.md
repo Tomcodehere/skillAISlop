@@ -1,5 +1,6 @@
 ---
 num: 11
+date_ajout: "2026-11"
 nom: "Expliqueur pédagogique"
 emoji: "🎓"
 domaine: "Formation"

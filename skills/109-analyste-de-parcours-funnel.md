@@ -1,5 +1,6 @@
 ---
 num: 109
+date_ajout: "2026-11"
 nom: "Analyste de parcours & funnel"
 emoji: "🪢"
 domaine: "Data"

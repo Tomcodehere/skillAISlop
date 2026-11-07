@@ -1,5 +1,6 @@
 ---
 num: 1024
+date_ajout: "2026-11"
 nom: "AI Product Strategy & Roadmap"
 emoji: "🧠"
 domaine: "IA / Prompting"

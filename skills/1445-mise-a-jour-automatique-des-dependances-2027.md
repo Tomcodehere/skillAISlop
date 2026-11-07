@@ -1,5 +1,6 @@
 ---
 num: 1445
+date_ajout: "2026-11"
 nom: "Mise a jour automatique des dependances (2027)"
 emoji: "🔄"
 domaine: "Sécurité"

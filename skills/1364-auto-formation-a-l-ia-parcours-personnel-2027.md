@@ -1,5 +1,6 @@
 ---
 num: 1364
+date_ajout: "2026-11"
 nom: "Auto-formation a l'IA : parcours personnel 2027"
 emoji: "🚀"
 domaine: "Formation"

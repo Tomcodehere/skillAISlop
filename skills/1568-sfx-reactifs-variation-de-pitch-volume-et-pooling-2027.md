@@ -1,5 +1,6 @@
 ---
 num: 1568
+date_ajout: "2026-11"
 nom: "SFX réactifs : variation de pitch/volume et pooling (2027)"
 emoji: "📢"
 domaine: "Game Dev"

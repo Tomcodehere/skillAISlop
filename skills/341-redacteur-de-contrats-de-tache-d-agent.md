@@ -1,5 +1,6 @@
 ---
 num: 341
+date_ajout: "2026-11"
 nom: "Rédacteur de contrats de tâche d'agent"
 emoji: "🌧"
 domaine: "IA / Prompting"

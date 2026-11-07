@@ -1,5 +1,6 @@
 ---
 num: 598
+date_ajout: "2026-11"
 nom: "Boucle d'amélioration des prompts"
 emoji: "🔁"
 domaine: "IA / Prompting"

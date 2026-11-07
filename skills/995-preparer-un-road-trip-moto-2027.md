@@ -1,5 +1,6 @@
 ---
 num: 995
+date_ajout: "2026-11"
 nom: "Préparer un road-trip moto 2027"
 emoji: "🏍️"
 domaine: "Personnel"

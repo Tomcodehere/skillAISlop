@@ -1,5 +1,6 @@
 ---
 num: 1622
+date_ajout: "2026-11"
 nom: "A2A (Agent2Agent) : agents cross-organisation en 2027"
 emoji: "🤝"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1175
+date_ajout: "2026-11"
 nom: "Landing Page Argument Design"
 emoji: "📣"
 domaine: "Marketing"

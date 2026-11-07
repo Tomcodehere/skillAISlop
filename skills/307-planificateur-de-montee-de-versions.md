@@ -1,5 +1,6 @@
 ---
 num: 307
+date_ajout: "2026-11"
 nom: "Planificateur de montée de versions"
 emoji: "🌆"
 domaine: "Développement"

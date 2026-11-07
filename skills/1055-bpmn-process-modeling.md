@@ -1,5 +1,6 @@
 ---
 num: 1055
+date_ajout: "2026-11"
 nom: "BPMN Process Modeling"
 emoji: "🧠"
 domaine: "IA / Prompting"

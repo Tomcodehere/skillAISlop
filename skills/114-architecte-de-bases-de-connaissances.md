@@ -1,5 +1,6 @@
 ---
 num: 114
+date_ajout: "2026-11"
 nom: "Architecte de bases de connaissances"
 emoji: "📕"
 domaine: "Productivité"

@@ -1,5 +1,6 @@
 ---
 num: 212
+date_ajout: "2026-11"
 nom: "Coach de langue (conversation)"
 emoji: "🌐"
 domaine: "Apprentissage"

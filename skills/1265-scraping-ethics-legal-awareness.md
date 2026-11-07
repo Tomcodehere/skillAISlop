@@ -1,5 +1,6 @@
 ---
 num: 1265
+date_ajout: "2026-11"
 nom: "Scraping Ethics & Legal Awareness"
 emoji: "💻"
 domaine: "Développement"

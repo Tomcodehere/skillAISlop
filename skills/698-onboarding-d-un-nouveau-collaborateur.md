@@ -1,5 +1,6 @@
 ---
 num: 698
+date_ajout: "2026-11"
 nom: "Onboarding d'un nouveau collaborateur"
 emoji: "👋"
 domaine: "RH & formation"

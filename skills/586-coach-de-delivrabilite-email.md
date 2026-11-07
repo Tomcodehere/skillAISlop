@@ -1,5 +1,6 @@
 ---
 num: 586
+date_ajout: "2026-11"
 nom: "Coach de délivrabilité email"
 emoji: "📧"
 domaine: "Marketing"

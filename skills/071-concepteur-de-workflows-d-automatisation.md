@@ -1,5 +1,6 @@
 ---
 num: 71
+date_ajout: "2026-11"
 nom: "Concepteur de workflows d'automatisation"
 emoji: "⚙️"
 domaine: "Productivité"

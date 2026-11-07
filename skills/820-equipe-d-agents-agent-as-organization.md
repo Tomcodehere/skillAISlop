@@ -1,5 +1,6 @@
 ---
 num: 820
+date_ajout: "2026-11"
 nom: "Équipe d'agents (« agent-as-organization »)"
 emoji: "🏢"
 domaine: "IA / Prompting"

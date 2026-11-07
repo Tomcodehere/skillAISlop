@@ -1,5 +1,6 @@
 ---
 num: 815
+date_ajout: "2026-11"
 nom: "AI literacy : comprendre ce que l'IA fait et ne fait pas"
 emoji: "🎓"
 domaine: "Apprentissage"

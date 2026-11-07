@@ -1,5 +1,6 @@
 ---
 num: 1349
+date_ajout: "2026-11"
 nom: "Cuisine anti-gaspi & restes (2027)"
 emoji: "♻️"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 996
+date_ajout: "2026-11"
 nom: "Organiser un séminaire d'entreprise 2027"
 emoji: "🏢"
 domaine: "Gestion"

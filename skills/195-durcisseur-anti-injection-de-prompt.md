@@ -1,5 +1,6 @@
 ---
 num: 195
+date_ajout: "2026-11"
 nom: "Durcisseur anti-injection de prompt"
 emoji: "🛂"
 domaine: "Sécurité"

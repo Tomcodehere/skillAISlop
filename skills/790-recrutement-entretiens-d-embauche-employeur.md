@@ -1,5 +1,6 @@
 ---
 num: 790
+date_ajout: "2026-11"
 nom: "Recrutement & entretiens d'embauche (employeur)"
 emoji: "🎯"
 domaine: "RH & formation"

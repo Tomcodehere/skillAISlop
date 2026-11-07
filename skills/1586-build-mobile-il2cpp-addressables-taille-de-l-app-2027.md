@@ -1,5 +1,6 @@
 ---
 num: 1586
+date_ajout: "2026-11"
 nom: "Build mobile : IL2CPP, Addressables, taille de l'app (2027)"
 emoji: "📦"
 domaine: "Game Dev"
@@ -7,7 +8,7 @@ signal: "Préparer un build mobile propre en 2027 : IL2CPP (au lieu de Mono, + r
 mot_cle: "build mobile IL2CPP Addressables ASTC taille APK sous 150 Mo stripping crashlytics"
 nom_court: "Build mobile"
 branche: "D1"
-synonymes: ["IL2CPP au lieu de Mono (build plus lent mais app plus rapide)", "Addressables pour des patchs de 5 Mo au lieu de 200 Mo", "taille de l'app < 150 Mo (ASTC + OGG + stripping)"]
+synonymes: ["IL2CPP au lieu de Mono (build plus lent mais app plus rapide)", "Addressables pour des patchs de 5 Mo au lieu de 200 Mo", "taille de l'app inferieure a 150 Mo (ASTC + OGG + stripping)"]
 cross_refs: [1585, 1573, 1590]
 tags: ["2027"]
 depends_on: [1585]

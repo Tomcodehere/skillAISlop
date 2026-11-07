@@ -1,5 +1,6 @@
 ---
 num: 617
+date_ajout: "2026-11"
 nom: "Accompagnement burn-out"
 emoji: "🩺"
 domaine: "Personnel"

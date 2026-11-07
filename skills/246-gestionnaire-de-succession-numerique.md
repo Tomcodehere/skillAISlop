@@ -1,5 +1,6 @@
 ---
 num: 246
+date_ajout: "2026-11"
 nom: "Gestionnaire de succession numérique"
 emoji: "🪦"
 domaine: "Personnel"

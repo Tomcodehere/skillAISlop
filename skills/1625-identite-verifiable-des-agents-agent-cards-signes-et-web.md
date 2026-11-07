@@ -1,5 +1,6 @@
 ---
 num: 1625
+date_ajout: "2026-11"
 nom: "Identite verifiable des agents : Agent Cards signes et Web Bot Auth (2027)"
 emoji: "🔐"
 domaine: "Sécurité"

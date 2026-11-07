@@ -1,5 +1,6 @@
 ---
 num: 1093
+date_ajout: "2026-11"
 nom: "Cross-Artifact Consistency Review"
 emoji: "📋"
 domaine: "Gestion"

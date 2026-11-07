@@ -1,5 +1,6 @@
 ---
 num: 1332
+date_ajout: "2026-11"
 nom: "Bien vieillir & autonomie (2027)"
 emoji: "🦯"
 domaine: "Personnel"

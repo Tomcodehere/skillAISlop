@@ -1,5 +1,6 @@
 ---
 num: 537
+date_ajout: "2026-11"
 nom: "Biographe & récits de vie"
 emoji: "📜"
 domaine: "Rédaction"

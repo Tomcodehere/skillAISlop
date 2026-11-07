@@ -1,5 +1,6 @@
 ---
 num: 101
+date_ajout: "2026-11"
 nom: "Cartographe de concepts"
 emoji: "🧠"
 domaine: "Recherche"

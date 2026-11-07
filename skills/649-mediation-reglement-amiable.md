@@ -1,5 +1,6 @@
 ---
 num: 649
+date_ajout: "2026-11"
 nom: "Médiation & règlement amiable"
 emoji: "🤝"
 domaine: "Juridique"

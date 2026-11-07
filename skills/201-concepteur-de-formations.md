@@ -1,5 +1,6 @@
 ---
 num: 201
+date_ajout: "2026-11"
 nom: "Concepteur de formations"
 emoji: "🏫"
 domaine: "Formation"

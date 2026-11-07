@@ -1,5 +1,6 @@
 ---
 num: 27
+date_ajout: "2026-11"
 nom: "Créateur de documents Office"
 emoji: "📎"
 domaine: "Productivité"

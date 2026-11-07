@@ -1,5 +1,6 @@
 ---
 num: 16
+date_ajout: "2026-11"
 nom: "Assistant juridique de premier niveau"
 emoji: "⚖️"
 domaine: "Juridique"

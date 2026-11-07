@@ -1,5 +1,6 @@
 ---
 num: 221
+date_ajout: "2026-11"
 nom: "Planificateur d'événements"
 emoji: "🥂"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 811
+date_ajout: "2026-11"
 nom: "Loi de finances 2026 : changements clés"
 emoji: "📜"
 domaine: "Finance"

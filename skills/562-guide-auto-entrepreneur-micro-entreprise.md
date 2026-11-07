@@ -1,5 +1,6 @@
 ---
 num: 562
+date_ajout: "2026-11"
 nom: "Guide auto-entrepreneur & micro-entreprise"
 emoji: "🧑‍💼"
 domaine: "Gestion"

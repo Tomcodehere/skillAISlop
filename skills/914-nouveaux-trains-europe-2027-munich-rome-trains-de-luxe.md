@@ -1,5 +1,6 @@
 ---
 num: 914
+date_ajout: "2026-11"
 nom: "Nouveaux trains Europe 2027 (Munich-Rome, trains de luxe)"
 emoji: "🚆"
 domaine: "Personnel"

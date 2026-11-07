@@ -1,5 +1,6 @@
 ---
 num: 1357
+date_ajout: "2026-11"
 nom: "Lecture en langue etrangere : romans et graded readers (2027)"
 emoji: "📖"
 domaine: "Langues"

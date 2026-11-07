@@ -1,5 +1,6 @@
 ---
 num: 789
+date_ajout: "2026-11"
 nom: "Entretien de départ & offboarding"
 emoji: "🚪"
 domaine: "RH & formation"

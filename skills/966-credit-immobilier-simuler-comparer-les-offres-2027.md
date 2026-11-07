@@ -1,5 +1,6 @@
 ---
 num: 966
+date_ajout: "2026-11"
 nom: "Crédit immobilier : simuler & comparer les offres 2027"
 emoji: "🏦"
 domaine: "Finance"

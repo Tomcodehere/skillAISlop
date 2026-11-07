@@ -1,5 +1,6 @@
 ---
 num: 1410
+date_ajout: "2026-11"
 nom: "Configuration par environnement (12-factor, 2027)"
 emoji: "⚙️"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 494
+date_ajout: "2026-11"
 nom: "Cartographe de plans de lecture"
 emoji: "🎂"
 domaine: "Apprentissage"

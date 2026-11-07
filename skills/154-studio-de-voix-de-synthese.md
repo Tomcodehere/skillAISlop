@@ -1,5 +1,6 @@
 ---
 num: 154
+date_ajout: "2026-11"
 nom: "Studio de voix de synthèse"
 emoji: "🔊"
 domaine: "Créativité"

@@ -1,5 +1,6 @@
 ---
 num: 194
+date_ajout: "2026-11"
 nom: "Concepteur de garde-fous d'agents"
 emoji: "🚧"
 domaine: "Sécurité"

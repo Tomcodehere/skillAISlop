@@ -1,5 +1,6 @@
 ---
 num: 1509
+date_ajout: "2026-11"
 nom: "Physique 2D custom : gravité et saut variable (2027)"
 emoji: "🏃"
 domaine: "Game Dev"

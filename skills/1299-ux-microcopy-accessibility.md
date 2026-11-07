@@ -1,5 +1,6 @@
 ---
 num: 1299
+date_ajout: "2026-11"
 nom: "UX Microcopy Accessibility"
 emoji: "🎨"
 domaine: "Design"

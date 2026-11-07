@@ -1,5 +1,6 @@
 ---
 num: 1436
+date_ajout: "2026-11"
 nom: "Grounding : ancrer les reponses sur des sources (2027)"
 emoji: "📎"
 domaine: "IA / Prompting"

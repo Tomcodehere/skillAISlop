@@ -1,5 +1,6 @@
 ---
 num: 997
+date_ajout: "2026-11"
 nom: "Préparer une mobilité interne (changement de poste) 2027"
 emoji: "🔄"
 domaine: "Carrière"

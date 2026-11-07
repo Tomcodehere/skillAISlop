@@ -1,5 +1,6 @@
 ---
 num: 105
+date_ajout: "2026-11"
 nom: "Consolidateur de veille hebdomadaire"
 emoji: "📡"
 domaine: "Recherche"

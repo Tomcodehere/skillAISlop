@@ -1,5 +1,6 @@
 ---
 num: 662
+date_ajout: "2026-11"
 nom: "Cuisine végétarienne équilibrée"
 emoji: "🥗"
 domaine: "Personnel"

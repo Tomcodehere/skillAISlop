@@ -1,5 +1,6 @@
 ---
 num: 1106
+date_ajout: "2026-11"
 nom: "Détection Boucles Délégation"
 emoji: "📋"
 domaine: "Gestion"

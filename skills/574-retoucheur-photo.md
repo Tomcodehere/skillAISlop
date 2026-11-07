@@ -1,5 +1,6 @@
 ---
 num: 574
+date_ajout: "2026-11"
 nom: "Retoucheur photo"
 emoji: "🖼️"
 domaine: "Créativité"

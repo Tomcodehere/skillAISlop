@@ -1,5 +1,6 @@
 ---
 num: 759
+date_ajout: "2026-11"
 nom: "Droit du travail &管理 du personnel (PME)"
 emoji: "👥"
 domaine: "RH & formation"

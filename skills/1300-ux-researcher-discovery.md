@@ -1,5 +1,6 @@
 ---
 num: 1300
+date_ajout: "2026-11"
 nom: "UX Researcher (Discovery)"
 emoji: "📦"
 domaine: "Produit"

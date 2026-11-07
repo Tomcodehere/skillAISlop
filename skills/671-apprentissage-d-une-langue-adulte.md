@@ -1,5 +1,6 @@
 ---
 num: 671
+date_ajout: "2026-11"
 nom: "Apprentissage d'une langue (adulte)"
 emoji: "🗣️"
 domaine: "Apprentissage"

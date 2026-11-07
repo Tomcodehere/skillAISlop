@@ -1,5 +1,6 @@
 ---
 num: 149
+date_ajout: "2026-11"
 nom: "Designer de palettes & typographies"
 emoji: "🌈"
 domaine: "Design"

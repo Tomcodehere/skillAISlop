@@ -1,5 +1,6 @@
 ---
 num: 1464
+date_ajout: "2026-11"
 nom: "Kafka : topics, partitions et consumer groups (2027)"
 emoji: "🂬"
 domaine: "Data"

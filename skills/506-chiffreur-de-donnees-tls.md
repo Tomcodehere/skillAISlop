@@ -1,5 +1,6 @@
 ---
 num: 506
+date_ajout: "2026-11"
 nom: "Chiffreur de données & TLS"
 emoji: "⛓"
 domaine: "Sécurité"

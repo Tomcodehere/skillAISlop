@@ -1,5 +1,6 @@
 ---
 num: 290
+date_ajout: "2026-11"
 nom: "Analyste de tendances & signaux faibles"
 emoji: "🪩"
 domaine: "Recherche"

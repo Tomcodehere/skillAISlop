@@ -1,5 +1,6 @@
 ---
 num: 139
+date_ajout: "2026-11"
 nom: "Prompteur de génération d'images"
 emoji: "🖌️"
 domaine: "Créativité"

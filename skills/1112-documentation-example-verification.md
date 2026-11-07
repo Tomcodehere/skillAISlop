@@ -1,5 +1,6 @@
 ---
 num: 1112
+date_ajout: "2026-11"
 nom: "Documentation Example Verification"
 emoji: "💻"
 domaine: "Développement"

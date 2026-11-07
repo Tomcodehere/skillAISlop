@@ -1,5 +1,6 @@
 ---
 num: 1346
+date_ajout: "2026-11"
 nom: "Créer une routine matinale efficace (2027)"
 emoji: "🌅"
 domaine: "Productivité"

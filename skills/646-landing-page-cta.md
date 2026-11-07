@@ -1,5 +1,6 @@
 ---
 num: 646
+date_ajout: "2026-11"
 nom: "Landing page & CTA"
 emoji: "🎯"
 domaine: "Marketing"

@@ -1,5 +1,6 @@
 ---
 num: 1008
+date_ajout: "2026-11"
 nom: "AD Security & Tiering"
 emoji: "🧠"
 domaine: "IA / Prompting"

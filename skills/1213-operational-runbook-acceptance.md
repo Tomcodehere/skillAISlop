@@ -1,5 +1,6 @@
 ---
 num: 1213
+date_ajout: "2026-11"
 nom: "Operational Runbook Acceptance"
 emoji: "🧠"
 domaine: "IA / Prompting"

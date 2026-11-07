@@ -1,5 +1,6 @@
 ---
 num: 234
+date_ajout: "2026-11"
 nom: "Architecte de programme de mentorat"
 emoji: "🌳"
 domaine: "RH & formation"

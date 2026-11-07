@@ -1,5 +1,6 @@
 ---
 num: 575
+date_ajout: "2026-11"
 nom: "Designer de gameplay"
 emoji: "🎯"
 domaine: "Produit"

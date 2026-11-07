@@ -1,5 +1,6 @@
 ---
 num: 781
+date_ajout: "2026-11"
 nom: "Choix & comparaison de SaaS"
 emoji: "🧰"
 domaine: "Bureau"

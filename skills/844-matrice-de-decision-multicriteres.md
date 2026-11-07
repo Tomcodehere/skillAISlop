@@ -1,5 +1,6 @@
 ---
 num: 844
+date_ajout: "2026-11"
 nom: "Matrice de décision multicritères"
 emoji: "⚖️"
 domaine: "Décision"

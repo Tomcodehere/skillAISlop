@@ -1,5 +1,6 @@
 ---
 num: 5
+date_ajout: "2026-11"
 nom: "Synthèse & résumé de documents"
 emoji: "📄"
 domaine: "Productivité"

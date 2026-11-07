@@ -1,5 +1,6 @@
 ---
 num: 535
+date_ajout: "2026-11"
 nom: "Coach journal intime & écriture réflexive"
 emoji: "📔"
 domaine: "Rédaction"

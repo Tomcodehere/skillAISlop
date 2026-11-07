@@ -1,5 +1,6 @@
 ---
 num: 1085
+date_ajout: "2026-11"
 nom: "Content Regression Checkpointing"
 emoji: "✍️"
 domaine: "Rédaction"

@@ -1,5 +1,6 @@
 ---
 num: 549
+date_ajout: "2026-11"
 nom: "Coach interculturel"
 emoji: "🌍"
 domaine: "RH & formation"

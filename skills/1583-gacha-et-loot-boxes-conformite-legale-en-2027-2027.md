@@ -1,5 +1,6 @@
 ---
 num: 1583
+date_ajout: "2026-11"
 nom: "Gacha et loot boxes : conformite legale en 2027 (2027)"
 emoji: "📦"
 domaine: "Game Dev"

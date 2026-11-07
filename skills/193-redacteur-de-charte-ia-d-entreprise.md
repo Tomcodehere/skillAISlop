@@ -1,5 +1,6 @@
 ---
 num: 193
+date_ajout: "2026-11"
 nom: "Rédacteur de charte IA d'entreprise"
 emoji: "🫡"
 domaine: "Juridique"

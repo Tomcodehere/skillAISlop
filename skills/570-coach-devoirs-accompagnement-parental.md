@@ -1,5 +1,6 @@
 ---
 num: 570
+date_ajout: "2026-11"
 nom: "Coach devoirs & accompagnement parental"
 emoji: "📓"
 domaine: "Apprentissage"

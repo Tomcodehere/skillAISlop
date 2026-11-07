@@ -1,5 +1,6 @@
 ---
 num: 280
+date_ajout: "2026-11"
 nom: "Localisateur de contenu & d'app i18n"
 emoji: "🛤️"
 domaine: "Rédaction"

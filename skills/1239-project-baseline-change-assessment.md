@@ -1,5 +1,6 @@
 ---
 num: 1239
+date_ajout: "2026-11"
 nom: "Project Baseline Change Assessment"
 emoji: "📋"
 domaine: "Gestion"

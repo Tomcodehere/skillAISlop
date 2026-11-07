@@ -1,5 +1,6 @@
 ---
 num: 1050
+date_ajout: "2026-11"
 nom: "Blender Game-Ready Export Pipeline"
 emoji: "💻"
 domaine: "Développement"

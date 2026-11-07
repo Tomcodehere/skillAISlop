@@ -1,5 +1,6 @@
 ---
 num: 1177
+date_ajout: "2026-11"
 nom: "Libre Software Advocacy & Licensing"
 emoji: "🧠"
 domaine: "IA / Prompting"

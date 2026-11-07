@@ -1,5 +1,6 @@
 ---
 num: 1457
+date_ajout: "2026-11"
 nom: "Integrite des paquets : signatures et SLSA (2027)"
 emoji: "✅"
 domaine: "Sécurité"

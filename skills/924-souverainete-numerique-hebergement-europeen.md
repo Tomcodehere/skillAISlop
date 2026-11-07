@@ -1,5 +1,6 @@
 ---
 num: 924
+date_ajout: "2026-11"
 nom: "Souveraineté numérique & hébergement européen"
 emoji: "🇪🇺"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 999
+date_ajout: "2026-11"
 nom: "Bilan & objectifs 2027 (tous domaines) — édition annuelle"
 emoji: "🎯"
 domaine: "Gestion"

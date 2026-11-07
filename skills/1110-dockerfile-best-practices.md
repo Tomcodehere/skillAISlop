@@ -1,5 +1,6 @@
 ---
 num: 1110
+date_ajout: "2026-11"
 nom: "Dockerfile Best Practices"
 emoji: "💻"
 domaine: "Développement"

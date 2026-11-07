@@ -1,5 +1,6 @@
 ---
 num: 1070
+date_ajout: "2026-11"
 nom: "Cloud IAM Responsibility Blueprint"
 emoji: "🎨"
 domaine: "Design"

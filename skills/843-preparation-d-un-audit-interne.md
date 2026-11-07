@@ -1,5 +1,6 @@
 ---
 num: 843
+date_ajout: "2026-11"
 nom: "Préparation d'un audit interne"
 emoji: "📋"
 domaine: "Gestion"

@@ -1,9 +1,10 @@
 ---
 num: 814
+date_ajout: "2026-11"
 nom: "Régularité du sommeil (circadien)"
 emoji: "⏰"
 domaine: "Personnel"
-signal: "Régularité des horaires de sommeil, rythme circadien, se coucher et se lever à heure fixe, régularité > durée"
+signal: "Régularité des horaires de sommeil, rythme circadien, se coucher et se lever à heure fixe, régularité plus que durée"
 mot_cle: "régularité du sommeil"
 nom_court: "Régularité sommeil"
 branche: "D27"
@@ -19,7 +20,7 @@ depends_on: [483]
 
 **Quand l'utiliser (triggers)** :
 - Toute demande liée à « régularité du sommeil (circadien) ».
-- Mots-clés du signal : Régularité des horaires de sommeil, rythme circadien, se coucher et se lever à heure fixe, régularité > durée
+- Mots-clés du signal : Régularité des horaires de sommeil, rythme circadien, se coucher et se lever à heure fixe, régularité plus que durée
 **Hors périmètre** :
 - Ce qui n'est pas couvert par cette skill (voir les cross-refs du Cas d'usage).
 **Garde-fous** :

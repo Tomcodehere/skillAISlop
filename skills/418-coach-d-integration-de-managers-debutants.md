@@ -1,5 +1,6 @@
 ---
 num: 418
+date_ajout: "2026-11"
 nom: "Coach d'intégration de managers débutants"
 emoji: "👔"
 domaine: "RH & formation"

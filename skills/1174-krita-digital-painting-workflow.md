@@ -1,5 +1,6 @@
 ---
 num: 1174
+date_ajout: "2026-11"
 nom: "Krita Digital Painting Workflow"
 emoji: "💻"
 domaine: "Développement"

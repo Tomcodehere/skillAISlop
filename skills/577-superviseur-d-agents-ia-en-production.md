@@ -1,5 +1,6 @@
 ---
 num: 577
+date_ajout: "2026-11"
 nom: "Superviseur d'agents IA en production"
 emoji: "📡"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1411
+date_ajout: "2026-11"
 nom: "Docker multi-stage et images legeres (2027)"
 emoji: "📦"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1661
+date_ajout: "2026-11"
 nom: "MotherDuck : DuckDB dans le cloud hybride (2027)"
 emoji: "☁️"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 24
+date_ajout: "2026-11"
 nom: "Compte rendu de réunion"
 emoji: "🗒️"
 domaine: "Productivité"

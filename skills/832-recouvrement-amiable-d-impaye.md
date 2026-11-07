@@ -1,5 +1,6 @@
 ---
 num: 832
+date_ajout: "2026-11"
 nom: "Recouvrement amiable d'impayé"
 emoji: "💌"
 domaine: "Vente"

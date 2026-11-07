@@ -1,5 +1,6 @@
 ---
 num: 497
+date_ajout: "2026-11"
 nom: "Explorateur de cours en ligne"
 emoji: "🍼"
 domaine: "Apprentissage"

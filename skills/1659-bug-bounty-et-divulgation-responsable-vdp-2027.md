@@ -1,5 +1,6 @@
 ---
 num: 1659
+date_ajout: "2026-11"
 nom: "Bug bounty et divulgation responsable (VDP) (2027)"
 emoji: "🐛"
 domaine: "Sécurité"

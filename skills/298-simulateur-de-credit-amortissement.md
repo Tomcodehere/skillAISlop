@@ -1,5 +1,6 @@
 ---
 num: 298
+date_ajout: "2026-11"
 nom: "Simulateur de crédit & amortissement"
 emoji: "💷"
 domaine: "Finance"

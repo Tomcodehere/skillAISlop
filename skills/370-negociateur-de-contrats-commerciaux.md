@@ -1,5 +1,6 @@
 ---
 num: 370
+date_ajout: "2026-11"
 nom: "Négociateur de contrats commerciaux"
 emoji: "🤙"
 domaine: "Vente"

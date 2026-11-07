@@ -1,5 +1,6 @@
 ---
 num: 540
+date_ajout: "2026-11"
 nom: "Coach de vibe coding"
 emoji: "🎨"
 domaine: "Développement"

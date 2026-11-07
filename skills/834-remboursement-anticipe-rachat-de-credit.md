@@ -1,5 +1,6 @@
 ---
 num: 834
+date_ajout: "2026-11"
 nom: "Remboursement anticipé / rachat de crédit"
 emoji: "💸"
 domaine: "Finance"

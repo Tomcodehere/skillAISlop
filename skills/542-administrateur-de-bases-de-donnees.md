@@ -1,5 +1,6 @@
 ---
 num: 542
+date_ajout: "2026-11"
 nom: "Administrateur de bases de données"
 emoji: "🗄️"
 domaine: "Développement"

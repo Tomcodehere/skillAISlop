@@ -1,5 +1,6 @@
 ---
 num: 278
+date_ajout: "2026-11"
 nom: "Atelier de hooks & titres viraux"
 emoji: "🪝"
 domaine: "Marketing"

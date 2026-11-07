@@ -1,5 +1,6 @@
 ---
 num: 635
+date_ajout: "2026-11"
 nom: "Reclassement & mobilité interne"
 emoji: "🔄"
 domaine: "Carrière"

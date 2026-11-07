@@ -1,5 +1,6 @@
 ---
 num: 1233
+date_ajout: "2026-11"
 nom: "Process KPI Definition"
 emoji: "🤖"
 domaine: "Data & IA"

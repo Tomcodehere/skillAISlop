@@ -1,5 +1,6 @@
 ---
 num: 117
+date_ajout: "2026-11"
 nom: "Traducteur de documents formatés"
 emoji: "🔤"
 domaine: "Rédaction"

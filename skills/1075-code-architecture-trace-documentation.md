@@ -1,5 +1,6 @@
 ---
 num: 1075
+date_ajout: "2026-11"
 nom: "Code Architecture Trace Documentation"
 emoji: "💻"
 domaine: "Développement"

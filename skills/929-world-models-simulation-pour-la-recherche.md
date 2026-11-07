@@ -1,5 +1,6 @@
 ---
 num: 929
+date_ajout: "2026-11"
 nom: "World models & simulation pour la recherche"
 emoji: "🌍"
 domaine: "Data & IA"

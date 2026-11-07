@@ -38,7 +38,7 @@
 ## 219. 🛷 Comparateur d'achats
 
 - **Fichier** : `skills/219-comparateur-d-achats.md` · **Mot-clé** : « comparateur d'achats » · **Nom court** : Achats
-- **Signal** : Comparateur d'achat, quel produit choisir · **Synonymes** : — · **Cross-refs** : 32, 219, 479 · **Tags** : —
+- **Signal** : Comparateur d'achat, quel produit choisir · **Synonymes** : « compare les forfaits mobiles 2027 » · **Cross-refs** : 32, 219, 479 · **Tags** : —
 
 ## 220. 🏠 Chef de projet rénovation
 
@@ -463,7 +463,7 @@
 ## 814. ⏰ Régularité du sommeil (circadien)
 
 - **Fichier** : `skills/814-regularite-du-sommeil-circadien.md` · **Mot-clé** : « régularité du sommeil » · **Nom court** : Régularité sommeil
-- **Signal** : Régularité des horaires de sommeil, rythme circadien, se coucher et se lever à heure fixe, régularité > durée · **Synonymes** : « rythme circadien » · **Cross-refs** : 483, 813, 1325 · **Tags** : 2027
+- **Signal** : Régularité des horaires de sommeil, rythme circadien, se coucher et se lever à heure fixe, régularité plus que durée · **Synonymes** : « rythme circadien » · **Cross-refs** : 483, 813, 1325 · **Tags** : 2027
 
 ## 851. 🛒 Achat en ligne sécurisé (marketplace)
 

@@ -1,5 +1,6 @@
 ---
 num: 1550
+date_ajout: "2026-11"
 nom: "ECS : composition vs heritage pour le gameplay (2027)"
 emoji: "🧩"
 domaine: "Game Dev"

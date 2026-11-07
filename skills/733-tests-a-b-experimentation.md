@@ -1,5 +1,6 @@
 ---
 num: 733
+date_ajout: "2026-11"
 nom: "Tests A/B & expérimentation"
 emoji: "🧪"
 domaine: "Produit"

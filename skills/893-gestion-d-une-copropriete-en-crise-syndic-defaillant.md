@@ -1,5 +1,6 @@
 ---
 num: 893
+date_ajout: "2026-11"
 nom: "Gestion d'une copropriété en crise (syndic défaillant)"
 emoji: "🏢"
 domaine: "Juridique"

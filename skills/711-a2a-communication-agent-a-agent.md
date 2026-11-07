@@ -1,5 +1,6 @@
 ---
 num: 711
+date_ajout: "2026-11"
 nom: "A2A & communication agent-à-agent"
 emoji: "🔗"
 domaine: "IA / Prompting"

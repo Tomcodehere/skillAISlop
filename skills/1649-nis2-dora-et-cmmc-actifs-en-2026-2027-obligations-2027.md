@@ -1,5 +1,6 @@
 ---
 num: 1649
+date_ajout: "2026-11"
 nom: "NIS2, DORA et CMMC actifs en 2026-2027 : obligations (2027)"
 emoji: "⚖️"
 domaine: "Sécurité"

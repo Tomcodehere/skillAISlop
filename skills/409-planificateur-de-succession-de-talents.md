@@ -1,5 +1,6 @@
 ---
 num: 409
+date_ajout: "2026-11"
 nom: "Planificateur de succession de talents"
 emoji: "🍕"
 domaine: "RH & formation"

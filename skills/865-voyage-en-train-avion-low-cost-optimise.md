@@ -1,5 +1,6 @@
 ---
 num: 865
+date_ajout: "2026-11"
 nom: "Voyage en train/avion low-cost optimisé"
 emoji: "🚄"
 domaine: "Personnel"

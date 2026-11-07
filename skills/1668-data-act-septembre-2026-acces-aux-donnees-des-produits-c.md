@@ -1,5 +1,6 @@
 ---
 num: 1668
+date_ajout: "2026-11"
 nom: "Data Act septembre 2026 : acces aux donnees des produits connectes (2027)"
 emoji: "⚖️"
 domaine: "Data"

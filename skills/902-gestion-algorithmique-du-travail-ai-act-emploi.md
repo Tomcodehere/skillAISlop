@@ -1,5 +1,6 @@
 ---
 num: 902
+date_ajout: "2026-11"
 nom: "Gestion algorithmique du travail (AI Act emploi)"
 emoji: "🤖"
 domaine: "RH & formation"

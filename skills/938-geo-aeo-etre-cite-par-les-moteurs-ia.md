@@ -1,5 +1,6 @@
 ---
 num: 938
+date_ajout: "2026-11"
 nom: "GEO / AEO : être cité par les moteurs IA"
 emoji: "🔍"
 domaine: "Marketing"

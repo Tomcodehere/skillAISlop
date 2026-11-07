@@ -1,5 +1,6 @@
 ---
 num: 1208
+date_ajout: "2026-11"
 nom: "NPC Behavior Trees & State Machines"
 emoji: "🎨"
 domaine: "Design"

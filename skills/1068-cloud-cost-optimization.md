@@ -1,5 +1,6 @@
 ---
 num: 1068
+date_ajout: "2026-11"
 nom: "Cloud Cost Optimization"
 emoji: "🔬"
 domaine: "Recherche"

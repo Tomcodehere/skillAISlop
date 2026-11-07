@@ -1,5 +1,6 @@
 ---
 num: 719
+date_ajout: "2026-11"
 nom: "Mode caveman : réponses ultra-concises"
 emoji: "🪨"
 domaine: "IA / Prompting"

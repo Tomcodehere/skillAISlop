@@ -1,5 +1,6 @@
 ---
 num: 477
+date_ajout: "2026-11"
 nom: "Bâtisseur de plan d'urgence familial"
 emoji: "🍱"
 domaine: "Personnel"

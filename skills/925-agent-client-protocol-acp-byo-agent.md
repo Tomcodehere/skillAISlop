@@ -1,5 +1,6 @@
 ---
 num: 925
+date_ajout: "2026-11"
 nom: "Agent Client Protocol (ACP) & BYO agent"
 emoji: "🔌"
 domaine: "Développement"

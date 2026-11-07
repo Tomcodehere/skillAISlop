@@ -1,5 +1,6 @@
 ---
 num: 1005
+date_ajout: "2026-11"
 nom: "Active Directory Management"
 emoji: "🎨"
 domaine: "Design"

@@ -1,5 +1,6 @@
 ---
 num: 468
+date_ajout: "2026-11"
 nom: "Bâtisseur de tableau de bord personnel"
 emoji: "🍭"
 domaine: "Productivité"

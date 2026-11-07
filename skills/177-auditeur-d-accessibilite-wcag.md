@@ -1,5 +1,6 @@
 ---
 num: 177
+date_ajout: "2026-11"
 nom: "Auditeur d'accessibilité (WCAG)"
 emoji: "♿"
 domaine: "Design"

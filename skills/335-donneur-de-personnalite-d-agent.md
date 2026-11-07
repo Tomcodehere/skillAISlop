@@ -1,5 +1,6 @@
 ---
 num: 335
+date_ajout: "2026-11"
 nom: "Donneur de personnalité d'agent"
 emoji: "🌢"
 domaine: "IA / Prompting"

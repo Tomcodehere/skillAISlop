@@ -1,5 +1,6 @@
 ---
 num: 918
+date_ajout: "2026-11"
 nom: "Semaine de 4 jours : négocier & tester"
 emoji: "📅"
 domaine: "Carrière"

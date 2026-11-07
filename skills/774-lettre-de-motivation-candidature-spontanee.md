@@ -1,5 +1,6 @@
 ---
 num: 774
+date_ajout: "2026-11"
 nom: "Lettre de motivation & candidature spontanée"
 emoji: "📨"
 domaine: "Carrière"

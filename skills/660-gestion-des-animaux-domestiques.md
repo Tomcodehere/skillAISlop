@@ -1,5 +1,6 @@
 ---
 num: 660
+date_ajout: "2026-11"
 nom: "Gestion des animaux domestiques"
 emoji: "🐕"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 1365
+date_ajout: "2026-11"
 nom: "Construire un arbre de decision (2027)"
 emoji: "🌳"
 domaine: "Décision"

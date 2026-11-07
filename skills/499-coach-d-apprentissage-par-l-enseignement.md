@@ -1,5 +1,6 @@
 ---
 num: 499
+date_ajout: "2026-11"
 nom: "Coach d'apprentissage par l'enseignement"
 emoji: "🍽"
 domaine: "Apprentissage"

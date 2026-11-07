@@ -1,5 +1,6 @@
 ---
 num: 987
+date_ajout: "2026-11"
 nom: "Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027"
 emoji: "🎊"
 domaine: "Personnel"

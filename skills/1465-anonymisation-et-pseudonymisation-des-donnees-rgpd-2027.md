@@ -1,5 +1,6 @@
 ---
 num: 1465
+date_ajout: "2026-11"
 nom: "Anonymisation et pseudonymisation des donnees (RGPD, 2027)"
 emoji: "🎭"
 domaine: "Data"

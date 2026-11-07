@@ -1,5 +1,6 @@
 ---
 num: 705
+date_ajout: "2026-11"
 nom: "Notes de réunion & action items"
 emoji: "📝"
 domaine: "Productivité"

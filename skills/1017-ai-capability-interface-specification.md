@@ -1,5 +1,6 @@
 ---
 num: 1017
+date_ajout: "2026-11"
 nom: "AI Capability Interface Specification"
 emoji: "🎨"
 domaine: "Design"

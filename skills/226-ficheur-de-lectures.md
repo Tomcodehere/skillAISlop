@@ -1,5 +1,6 @@
 ---
 num: 226
+date_ajout: "2026-11"
 nom: "Ficheur de lectures"
 emoji: "👓"
 domaine: "Apprentissage"

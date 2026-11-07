@@ -1,5 +1,6 @@
 ---
 num: 985
+date_ajout: "2026-11"
 nom: "Préparer un mariage écolo & petit budget 2027"
 emoji: "💍"
 domaine: "Personnel"

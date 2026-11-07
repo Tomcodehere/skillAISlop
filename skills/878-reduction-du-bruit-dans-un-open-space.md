@@ -1,5 +1,6 @@
 ---
 num: 878
+date_ajout: "2026-11"
 nom: "Réduction du bruit dans un open space"
 emoji: "🔇"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 86
+date_ajout: "2026-11"
 nom: "Planificateur de migrations techniques"
 emoji: "🚢"
 domaine: "Développement"

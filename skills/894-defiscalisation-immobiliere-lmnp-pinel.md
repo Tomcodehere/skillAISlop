@@ -1,5 +1,6 @@
 ---
 num: 894
+date_ajout: "2026-11"
 nom: "Défiscalisation immobilière (LMNP, Pinel)"
 emoji: "🏠"
 domaine: "Finance"

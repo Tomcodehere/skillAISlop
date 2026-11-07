@@ -1,5 +1,6 @@
 ---
 num: 1102
+date_ajout: "2026-11"
 nom: "Data Storytelling & Insights Communication"
 emoji: "🤖"
 domaine: "Data & IA"

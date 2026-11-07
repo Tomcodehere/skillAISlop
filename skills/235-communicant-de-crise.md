@@ -1,5 +1,6 @@
 ---
 num: 235
+date_ajout: "2026-11"
 nom: "Communicant de crise"
 emoji: "📢"
 domaine: "Communication"

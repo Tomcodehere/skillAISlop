@@ -1,5 +1,6 @@
 ---
 num: 56
+date_ajout: "2026-11"
 nom: "Architecte de support client"
 emoji: "🛎️"
 domaine: "Vente"

@@ -1,5 +1,6 @@
 ---
 num: 453
+date_ajout: "2026-11"
 nom: "Concepteur de parcours d'activation in-app"
 emoji: "🎈"
 domaine: "Produit"

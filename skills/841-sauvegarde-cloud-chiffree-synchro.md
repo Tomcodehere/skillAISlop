@@ -1,5 +1,6 @@
 ---
 num: 841
+date_ajout: "2026-11"
 nom: "Sauvegarde cloud chiffrée & synchro"
 emoji: "☁️"
 domaine: "Sécurité"

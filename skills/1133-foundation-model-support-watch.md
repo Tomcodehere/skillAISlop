@@ -1,5 +1,6 @@
 ---
 num: 1133
+date_ajout: "2026-11"
 nom: "Foundation Model Support Watch"
 emoji: "🧠"
 domaine: "IA / Prompting"

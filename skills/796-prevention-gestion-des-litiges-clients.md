@@ -1,5 +1,6 @@
 ---
 num: 796
+date_ajout: "2026-11"
 nom: "Prévention & gestion des litiges clients"
 emoji: "🤝"
 domaine: "Vente"

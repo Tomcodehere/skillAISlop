@@ -1,5 +1,6 @@
 ---
 num: 215
+date_ajout: "2026-11"
 nom: "Conseiller nutrition"
 emoji: "🥗"
 domaine: "Personnel"

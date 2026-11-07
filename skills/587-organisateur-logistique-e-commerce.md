@@ -1,5 +1,6 @@
 ---
 num: 587
+date_ajout: "2026-11"
 nom: "Organisateur logistique e-commerce"
 emoji: "📦"
 domaine: "Gestion"

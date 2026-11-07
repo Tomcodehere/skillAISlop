@@ -1,5 +1,6 @@
 ---
 num: 599
+date_ajout: "2026-11"
 nom: "Fixateur de tarifs freelance"
 emoji: "💰"
 domaine: "Carrière"

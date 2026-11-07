@@ -1,5 +1,6 @@
 ---
 num: 242
+date_ajout: "2026-11"
 nom: "Explorateur de données publiques"
 emoji: "🌏"
 domaine: "Data"

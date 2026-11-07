@@ -1,5 +1,6 @@
 ---
 num: 1042
+date_ajout: "2026-11"
 nom: "Backend Transaction Consistency"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 785
+date_ajout: "2026-11"
 nom: "Veille juridique & réglementaire"
 emoji: "⚖️"
 domaine: "Juridique"

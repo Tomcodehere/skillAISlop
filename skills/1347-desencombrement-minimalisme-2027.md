@@ -1,5 +1,6 @@
 ---
 num: 1347
+date_ajout: "2026-11"
 nom: "Désencombrement & minimalisme (2027)"
 emoji: "🧹"
 domaine: "Personnel"

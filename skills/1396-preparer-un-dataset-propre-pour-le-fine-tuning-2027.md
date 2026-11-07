@@ -1,5 +1,6 @@
 ---
 num: 1396
+date_ajout: "2026-11"
 nom: "Preparer un dataset propre pour le fine-tuning (2027)"
 emoji: "🧹"
 domaine: "Data & IA"

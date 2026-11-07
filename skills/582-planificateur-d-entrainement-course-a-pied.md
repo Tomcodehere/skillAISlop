@@ -1,5 +1,6 @@
 ---
 num: 582
+date_ajout: "2026-11"
 nom: "Planificateur d'entraînement course à pied"
 emoji: "🏃"
 domaine: "Personnel"

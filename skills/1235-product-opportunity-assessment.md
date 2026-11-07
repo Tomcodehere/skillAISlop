@@ -1,5 +1,6 @@
 ---
 num: 1235
+date_ajout: "2026-11"
 nom: "Product Opportunity Assessment"
 emoji: "💻"
 domaine: "Développement"

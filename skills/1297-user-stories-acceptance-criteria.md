@@ -1,5 +1,6 @@
 ---
 num: 1297
+date_ajout: "2026-11"
 nom: "User Stories & Acceptance Criteria"
 emoji: "📦"
 domaine: "Produit"

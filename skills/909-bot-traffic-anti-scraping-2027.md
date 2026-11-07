@@ -1,5 +1,6 @@
 ---
 num: 909
+date_ajout: "2026-11"
 nom: "Bot traffic & anti-scraping 2027"
 emoji: "🤖"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 99
+date_ajout: "2026-11"
 nom: "Concepteur d'outils pour agents (function calling)"
 emoji: "🔧"
 domaine: "IA / Prompting"

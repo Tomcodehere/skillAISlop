@@ -1,5 +1,6 @@
 ---
 num: 744
+date_ajout: "2026-11"
 nom: "Upsell & cross-sell client"
 emoji: "📈"
 domaine: "Vente"

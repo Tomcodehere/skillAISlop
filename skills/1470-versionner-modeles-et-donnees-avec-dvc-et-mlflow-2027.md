@@ -1,5 +1,6 @@
 ---
 num: 1470
+date_ajout: "2026-11"
 nom: "Versionner modeles et donnees avec DVC et MLflow (2027)"
 emoji: "📂"
 domaine: "Data & IA"

@@ -1,5 +1,6 @@
 ---
 num: 1096
+date_ajout: "2026-11"
 nom: "Data Freshness Incident Triage"
 emoji: "🤖"
 domaine: "Data & IA"

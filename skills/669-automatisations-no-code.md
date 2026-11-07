@@ -1,5 +1,6 @@
 ---
 num: 669
+date_ajout: "2026-11"
 nom: "Automatisations no-code"
 emoji: "⚙️"
 domaine: "Développement"

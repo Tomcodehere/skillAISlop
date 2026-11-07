@@ -1,5 +1,6 @@
 ---
 num: 1154
+date_ajout: "2026-11"
 nom: "Grill Me (Clarification Socratique)"
 emoji: "🎨"
 domaine: "Design"

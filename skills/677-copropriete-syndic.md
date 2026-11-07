@@ -1,5 +1,6 @@
 ---
 num: 677
+date_ajout: "2026-11"
 nom: "Copropriété & syndic"
 emoji: "🏢"
 domaine: "Juridique"

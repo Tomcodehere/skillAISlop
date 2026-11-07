@@ -1,5 +1,6 @@
 ---
 num: 533
+date_ajout: "2026-11"
 nom: "Guide baby-sitting & premiers jobs d'ado"
 emoji: "🧸"
 domaine: "Personnel"

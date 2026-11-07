@@ -1,5 +1,6 @@
 ---
 num: 397
+date_ajout: "2026-11"
 nom: "Animateur de questions-réponses en direct"
 emoji: "🙋"
 domaine: "Communication"

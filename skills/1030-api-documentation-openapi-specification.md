@@ -1,5 +1,6 @@
 ---
 num: 1030
+date_ajout: "2026-11"
 nom: "API Documentation & OpenAPI Specification"
 emoji: "💻"
 domaine: "Développement"

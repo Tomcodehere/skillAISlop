@@ -1,5 +1,6 @@
 ---
 num: 986
+date_ajout: "2026-11"
 nom: "Préparer un trek / randonnée plusieurs jours 2027"
 emoji: "🥾"
 domaine: "Personnel"

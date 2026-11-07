@@ -1,5 +1,6 @@
 ---
 num: 331
+date_ajout: "2026-11"
 nom: "Prompteur de modèles légers"
 emoji: "🐇"
 domaine: "IA / Prompting"

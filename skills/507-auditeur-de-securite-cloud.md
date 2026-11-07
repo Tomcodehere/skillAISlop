@@ -1,5 +1,6 @@
 ---
 num: 507
+date_ajout: "2026-11"
 nom: "Auditeur de sécurité cloud"
 emoji: "🦉"
 domaine: "Sécurité"

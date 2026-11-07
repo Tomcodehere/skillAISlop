@@ -1,5 +1,6 @@
 ---
 num: 871
+date_ajout: "2026-11"
 nom: "Sécurité des enfants en ligne (parent)"
 emoji: "👶"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 208
+date_ajout: "2026-11"
 nom: "Concepteur d'ateliers & séances de travail"
 emoji: "🧰"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 1662
+date_ajout: "2026-11"
 nom: "Apache Iceberg v3 : deletion vectors et row lineage (2027)"
 emoji: "🧊"
 domaine: "Data"

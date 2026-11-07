@@ -1,5 +1,6 @@
 ---
 num: 1519
+date_ajout: "2026-11"
 nom: "IA ennemie : state machine (FSM) simple (2027)"
 emoji: "🧠"
 domaine: "Game Dev"

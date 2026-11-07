@@ -1,5 +1,6 @@
 ---
 num: 1544
+date_ajout: "2026-11"
 nom: "Architecture multijoueur : client-serveur vs P2P (2027)"
 emoji: "🖧️"
 domaine: "Game Dev"

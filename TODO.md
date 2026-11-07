@@ -42,7 +42,7 @@ type: "text/markdown"
 
 - [ ] Appliquer TEMPLATE-v2 à la vague 14 : maj catalogue/template.md + R2/regles.md + lint spec en CI + migrate_template.py --fix sur les skills existantes
 
-- [ ] Multilingue EN : champ lang dans le frontmatter (fr/en), table lang(num,lang), filtre route --lang en, vague EN (traduction ou rédaction) — catalogue actuellement 100 % FR (1700 skills, 10 Mo)
+- [ ] Multilingue EN : champ lang dans le frontmatter (fr/en), table lang(num,lang), filtre route --lang en, vague EN (traduction ou rédaction) — catalogue actuellement 100 % FR (1800 skills, 8,5 Mo)
 
 - [x] ~~HNSW~~ → veille 2026-11-07 : sqlite-vec 0.1.9 (dernier PyPI) = KNN exact, pas d'ANN dans vec0 ; releases officielles annoncent ivf/diskann en WIP ; fork tiers brianmacy/sqlite-vec-hnsw (use_hnsw=1) non officiel. À 1 700 skills le brute-force suffit (~1 ms/voie vec). À activer > 5 000 skills via upgrade officiel ou le fork (à valider) — pack : deflate retenu (1,93 Mo, meilleur que LZMA 2,2 Mo sur markdown), skills.db exclu (régénéré par build --from-skills)
 

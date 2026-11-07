@@ -1,5 +1,6 @@
 ---
 num: 1170
+date_ajout: "2026-11"
 nom: "Intellectual Property Protection"
 emoji: "🔬"
 domaine: "Recherche"

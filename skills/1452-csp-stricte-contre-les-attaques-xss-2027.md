@@ -1,5 +1,6 @@
 ---
 num: 1452
+date_ajout: "2026-11"
 nom: "CSP stricte contre les attaques XSS (2027)"
 emoji: "🧵"
 domaine: "Sécurité"

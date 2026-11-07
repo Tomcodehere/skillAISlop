@@ -1,5 +1,6 @@
 ---
 num: 888
+date_ajout: "2026-11"
 nom: "Gestion d'une rupture conventionnelle collective"
 emoji: "📋"
 domaine: "Juridique"

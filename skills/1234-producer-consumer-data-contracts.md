@@ -1,5 +1,6 @@
 ---
 num: 1234
+date_ajout: "2026-11"
 nom: "Producer-Consumer Data Contracts"
 emoji: "🤖"
 domaine: "Data & IA"

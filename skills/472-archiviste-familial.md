@@ -1,5 +1,6 @@
 ---
 num: 472
+date_ajout: "2026-11"
 nom: "Archiviste familial"
 emoji: "🗀"
 domaine: "Personnel"

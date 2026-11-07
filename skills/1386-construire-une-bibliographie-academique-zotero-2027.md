@@ -1,5 +1,6 @@
 ---
 num: 1386
+date_ajout: "2026-11"
 nom: "Construire une bibliographie académique (Zotero, 2027)"
 emoji: "📚"
 domaine: "Recherche"

@@ -1,5 +1,6 @@
 ---
 num: 1180
+date_ajout: "2026-11"
 nom: "LLM Token Cost Attribution"
 emoji: "🧠"
 domaine: "IA / Prompting"

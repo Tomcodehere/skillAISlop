@@ -1,5 +1,6 @@
 ---
 num: 1242
+date_ajout: "2026-11"
 nom: "Prompt Injection Boundary Evaluation"
 emoji: "🧠"
 domaine: "IA / Prompting"

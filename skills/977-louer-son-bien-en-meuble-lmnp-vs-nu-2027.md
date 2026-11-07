@@ -1,5 +1,6 @@
 ---
 num: 977
+date_ajout: "2026-11"
 nom: "Louer son bien en meublé (LMNP) vs nu 2027"
 emoji: "🛋️"
 domaine: "Finance"

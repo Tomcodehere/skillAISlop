@@ -1,5 +1,6 @@
 ---
 num: 92
+date_ajout: "2026-11"
 nom: "Nettoyeur de données"
 emoji: "🧹"
 domaine: "Data"

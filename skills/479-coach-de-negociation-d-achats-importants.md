@@ -1,5 +1,6 @@
 ---
 num: 479
+date_ajout: "2026-11"
 nom: "Coach de négociation d'achats importants"
 emoji: "🍴"
 domaine: "Personnel"

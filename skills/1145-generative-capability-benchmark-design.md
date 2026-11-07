@@ -1,5 +1,6 @@
 ---
 num: 1145
+date_ajout: "2026-11"
 nom: "Generative Capability Benchmark Design"
 emoji: "🧠"
 domaine: "IA / Prompting"

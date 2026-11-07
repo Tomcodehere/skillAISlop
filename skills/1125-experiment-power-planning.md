@@ -1,5 +1,6 @@
 ---
 num: 1125
+date_ajout: "2026-11"
 nom: "Experiment Power Planning"
 emoji: "🤖"
 domaine: "Data & IA"

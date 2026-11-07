@@ -1,5 +1,6 @@
 ---
 num: 709
+date_ajout: "2026-11"
 nom: "Veille concurrentielle automatisée"
 emoji: "🕵️"
 domaine: "Marketing"

@@ -1,5 +1,6 @@
 ---
 num: 1052
+date_ajout: "2026-11"
 nom: "Blender Rigging & Animation Workflow"
 emoji: "💻"
 domaine: "Développement"

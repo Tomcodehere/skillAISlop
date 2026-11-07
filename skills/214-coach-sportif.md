@@ -1,5 +1,6 @@
 ---
 num: 214
+date_ajout: "2026-11"
 nom: "Coach sportif"
 emoji: "🏋️"
 domaine: "Personnel"

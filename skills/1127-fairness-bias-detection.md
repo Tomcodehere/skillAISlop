@@ -1,5 +1,6 @@
 ---
 num: 1127
+date_ajout: "2026-11"
 nom: "Fairness & Bias Detection"
 emoji: "🎨"
 domaine: "Design"

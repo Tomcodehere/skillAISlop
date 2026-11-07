@@ -1,5 +1,6 @@
 ---
 num: 377
+date_ajout: "2026-11"
 nom: "Réviseur de lisibilité"
 emoji: "🤓"
 domaine: "Rédaction"

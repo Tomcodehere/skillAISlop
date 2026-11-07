@@ -1,5 +1,6 @@
 ---
 num: 243
+date_ajout: "2026-11"
 nom: "Préparateur d'audits internes"
 emoji: "🪃"
 domaine: "Gestion"

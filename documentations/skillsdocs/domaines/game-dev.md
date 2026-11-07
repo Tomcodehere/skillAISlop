@@ -203,7 +203,7 @@
 ## 1540. 📊 Analytics de jeu : funnels, rétention D1/D7, telemetry (2027)
 
 - **Fichier** : `skills/1540-analytics-de-jeu-funnels-retention-d1-d7-telemetry-2027.md` · **Mot-clé** : « analytics jeu télémétrie funnels rétention D1 D7 D30 événements custom » · **Nom court** : Analytics jeu
-- **Signal** : Mettre en place la télémétrie d'un jeu en 2027 (RGPD-compliant 1587) : événements custom (level_start, boss_kill, purchase) envoyés à Unity Analytics/GameAnalytics/custom, funnels (tutoriel étape 3 → 4), rétention D1/D7/D30, dashboards, décisions data-driven. Utilise dès le soft launch. N'utilise pas pour espionner (consentement requis). · **Synonymes** : « funnel tutoriel étape par étape », « rétention D1 D7 D30 dashboard », « envoyer événements custom à Unity Analytics » · **Cross-refs** : 1541, 110, 1587 · **Tags** : 2027
+- **Signal** : Mettre en place la télémétrie d'un jeu en 2027 (RGPD-compliant 1587) : événements custom (level_start, boss_kill, purchase) envoyés à Unity Analytics/GameAnalytics/custom, funnels (tutoriel étape 3 → 4), rétention D1/D7/D30, dashboards, décisions data-driven. Utilise dès le soft launch. N'utilise pas pour espionner (consentement requis). · **Synonymes** : « funnel tutoriel étape par étape », « rétention D1 D7 D30 dashboard », « envoyer événements custom à Unity Analytics », « mesurer ARPU rétention D7 p-value ship kill » · **Cross-refs** : 1541, 110, 1587 · **Tags** : 2027
 
 ## 1541. ⚖️ A/B testing in-game : evenements saisonniers (2027)
 
@@ -303,7 +303,7 @@
 ## 1560. 🎭 State machine d'animation (Animator, 2027)
 
 - **Fichier** : `skills/1560-state-machine-d-animation-animator-2027.md` · **Mot-clé** : « state machine animation Animator états transitions conditions crossfade » · **Nom court** : Anim FSM
-- **Signal** : Organiser les animations d'un personnage en 2027 avec une state machine : états (Idle, Run, Jump, Attack, Hit, Death), transitions avec conditions (vitesse supérieur à 0,1 → Run; grounded false → Jump), blend (crossfade 0,1 s), paramètres (float speed, bool grounded, trigger attack). Utilise pour tout personnage animé. N'utilise pas pour une anim linéaire unique. · **Synonymes** : « états Idle Run Jump Attack avec transitions », « condition vitesse > 0 », « 1 passe en Run », « crossfade 0 », « 1 s entre deux animations » · **Cross-refs** : 1561, 1519, 1509 · **Tags** : 2027
+- **Signal** : Organiser les animations d'un personnage en 2027 avec une state machine : états (Idle, Run, Jump, Attack, Hit, Death), transitions avec conditions (vitesse supérieur à 0,1 → Run; grounded false → Jump), blend (crossfade 0,1 s), paramètres (float speed, bool grounded, trigger attack). Utilise pour tout personnage animé. N'utilise pas pour une anim linéaire unique. · **Synonymes** : « états Idle Run Jump Attack avec transitions », « condition vitesse superieure a 0 », « 1 passe en Run », « crossfade 0 », « 1 s entre deux animations » · **Cross-refs** : 1561, 1519, 1509 · **Tags** : 2027
 
 ## 1561. 🌿 Blend trees : mouvement multidirectionnel fluide (2027)
 
@@ -433,7 +433,7 @@
 ## 1586. 📦 Build mobile : IL2CPP, Addressables, taille de l'app (2027)
 
 - **Fichier** : `skills/1586-build-mobile-il2cpp-addressables-taille-de-l-app-2027.md` · **Mot-clé** : « build mobile IL2CPP Addressables ASTC taille APK sous 150 Mo stripping crashlytics » · **Nom court** : Build mobile
-- **Signal** : Préparer un build mobile propre en 2027 : IL2CPP (au lieu de Mono, + rapide, + petit, mais build long), Addressables (chargement à la demande, patchs petits, streaming 1573), compression des assets (ASTC 1585, audio OGG/Vorbis), taille cible sous 150 Mo (store), stripping du code (managed stripping), symboles de crash (Crashlytics/Firebase). Utilise avant chaque release mobile. N'utilise pas pour PC (1579). · **Synonymes** : « IL2CPP au lieu de Mono (build plus lent mais app plus rapide) », « Addressables pour des patchs de 5 Mo au lieu de 200 Mo », « taille de l'app < 150 Mo (ASTC + OGG + stripping) » · **Cross-refs** : 1585, 1573, 1590 · **Tags** : 2027
+- **Signal** : Préparer un build mobile propre en 2027 : IL2CPP (au lieu de Mono, + rapide, + petit, mais build long), Addressables (chargement à la demande, patchs petits, streaming 1573), compression des assets (ASTC 1585, audio OGG/Vorbis), taille cible sous 150 Mo (store), stripping du code (managed stripping), symboles de crash (Crashlytics/Firebase). Utilise avant chaque release mobile. N'utilise pas pour PC (1579). · **Synonymes** : « IL2CPP au lieu de Mono (build plus lent mais app plus rapide) », « Addressables pour des patchs de 5 Mo au lieu de 200 Mo », « taille de l'app inferieure a 150 Mo (ASTC + OGG + stripping) » · **Cross-refs** : 1585, 1573, 1590 · **Tags** : 2027
 
 ## 1587. 🎮 Portage console : Switch, PS5, Xbox et certification (2027)
 

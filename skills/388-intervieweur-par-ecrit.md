@@ -1,5 +1,6 @@
 ---
 num: 388
+date_ajout: "2026-11"
 nom: "Intervieweur par écrit"
 emoji: "🍉"
 domaine: "Rédaction"

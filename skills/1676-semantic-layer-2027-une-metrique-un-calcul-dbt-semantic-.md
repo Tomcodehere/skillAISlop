@@ -1,5 +1,6 @@
 ---
 num: 1676
+date_ajout: "2026-11"
 nom: "Semantic layer 2027 : une metrique, un calcul (dbt Semantic Layer, Cube) (2027)"
 emoji: "📐"
 domaine: "Data"

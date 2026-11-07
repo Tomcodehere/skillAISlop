@@ -1,5 +1,6 @@
 ---
 num: 309
+date_ajout: "2026-11"
 nom: "Benchmarkeur de code"
 emoji: "🌉"
 domaine: "Développement"

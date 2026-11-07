@@ -1,5 +1,6 @@
 ---
 num: 1064
+date_ajout: "2026-11"
 nom: "Chain of Thought Engineering"
 emoji: "💻"
 domaine: "Développement"

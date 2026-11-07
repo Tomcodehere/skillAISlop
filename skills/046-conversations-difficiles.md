@@ -1,5 +1,6 @@
 ---
 num: 46
+date_ajout: "2026-11"
 nom: "Conversations difficiles"
 emoji: "🎙️"
 domaine: "Carrière"

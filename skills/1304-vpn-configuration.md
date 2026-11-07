@@ -1,5 +1,6 @@
 ---
 num: 1304
+date_ajout: "2026-11"
 nom: "VPN Configuration"
 emoji: "📋"
 domaine: "Gestion"

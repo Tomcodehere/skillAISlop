@@ -1,5 +1,6 @@
 ---
 num: 1063
+date_ajout: "2026-11"
 nom: "Certificate Management Applications"
 emoji: "💻"
 domaine: "Développement"

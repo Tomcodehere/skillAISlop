@@ -1,5 +1,6 @@
 ---
 num: 538
+date_ajout: "2026-11"
 nom: "Humaniseur de texte IA"
 emoji: "✨"
 domaine: "Rédaction"

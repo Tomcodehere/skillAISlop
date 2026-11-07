@@ -1,5 +1,6 @@
 ---
 num: 224
+date_ajout: "2026-11"
 nom: "Déployeur d'agents autonomes"
 emoji: "🛸"
 domaine: "IA / Prompting"

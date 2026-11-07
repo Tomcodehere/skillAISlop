@@ -1,5 +1,6 @@
 ---
 num: 217
+date_ajout: "2026-11"
 nom: "Guide de démarches administratives"
 emoji: "🏢"
 domaine: "Bureau"

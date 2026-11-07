@@ -1,5 +1,6 @@
 ---
 num: 726
+date_ajout: "2026-11"
 nom: "Social listening & tendances temps réel"
 emoji: "👂"
 domaine: "Marketing"

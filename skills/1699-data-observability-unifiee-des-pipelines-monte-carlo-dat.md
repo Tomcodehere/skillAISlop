@@ -1,5 +1,6 @@
 ---
 num: 1699
+date_ajout: "2026-11"
 nom: "Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda (2027)"
 emoji: "📈"
 domaine: "Data & IA"

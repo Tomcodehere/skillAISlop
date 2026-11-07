@@ -1,5 +1,6 @@
 ---
 num: 250
+date_ajout: "2026-11"
 nom: "Conservateur de la bibliothèque de skills"
 emoji: "🎩"
 domaine: "Routage"

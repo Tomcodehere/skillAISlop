@@ -1,5 +1,6 @@
 ---
 num: 1508
+date_ajout: "2026-11"
 nom: "Hitbox, hurtbox et i-frames (2027)"
 emoji: "⚔️"
 domaine: "Game Dev"

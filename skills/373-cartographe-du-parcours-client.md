@@ -1,5 +1,6 @@
 ---
 num: 373
+date_ajout: "2026-11"
 nom: "Cartographe du parcours client"
 emoji: "🌽"
 domaine: "Marketing"

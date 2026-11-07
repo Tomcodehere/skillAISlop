@@ -1,5 +1,6 @@
 ---
 num: 1577
+date_ajout: "2026-11"
 nom: "Console de commandes et cheats de dev (2027)"
 emoji: "💻"
 domaine: "Game Dev"

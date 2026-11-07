@@ -1,5 +1,6 @@
 ---
 num: 608
+date_ajout: "2026-11"
 nom: "Intégrateur design vers code"
 emoji: "🎨"
 domaine: "Développement"

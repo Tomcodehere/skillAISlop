@@ -1,5 +1,6 @@
 ---
 num: 1121
+date_ajout: "2026-11"
 nom: "ETL Pipeline Design & Orchestration"
 emoji: "💻"
 domaine: "Développement"

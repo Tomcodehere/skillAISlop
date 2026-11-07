@@ -1,5 +1,6 @@
 ---
 num: 607
+date_ajout: "2026-11"
 nom: "Publieur d'applications mobiles"
 emoji: "🚀"
 domaine: "Développement"

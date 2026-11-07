@@ -1,5 +1,6 @@
 ---
 num: 758
+date_ajout: "2026-11"
 nom: "Sécurité des paiements en ligne"
 emoji: "💳"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 434
+date_ajout: "2026-11"
 nom: "Modélisateur de rôles & responsabilités (RACI)"
 emoji: "🍠"
 domaine: "Gestion"
@@ -7,7 +8,7 @@ signal: "Qui fait quoi, matrice RACI"
 mot_cle: "rôles & responsabilités (raci)"
 nom_court: "RACI"
 branche: "D25"
-synonymes: []
+synonymes: [, "qui décide : mettre en place les rôles clairs"]
 cross_refs: [424, 426, 847]
 depends_on: [847]
 ---

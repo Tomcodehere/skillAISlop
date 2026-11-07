@@ -1,5 +1,6 @@
 ---
 num: 1414
+date_ajout: "2026-11"
 nom: "Tests de contrat consommateur (Pact, 2027)"
 emoji: "🤝"
 domaine: "Développement"

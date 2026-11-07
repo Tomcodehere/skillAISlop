@@ -1,5 +1,6 @@
 ---
 num: 1183
+date_ajout: "2026-11"
 nom: "M365 Integration Patterns"
 emoji: "💻"
 domaine: "Développement"

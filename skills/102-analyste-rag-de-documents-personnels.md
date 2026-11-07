@@ -1,5 +1,6 @@
 ---
 num: 102
+date_ajout: "2026-11"
 nom: "Analyste RAG de documents personnels"
 emoji: "📔"
 domaine: "Recherche"

@@ -1,5 +1,6 @@
 ---
 num: 708
+date_ajout: "2026-11"
 nom: "Recherche profonde multi-sources"
 emoji: "🌐"
 domaine: "Recherche"

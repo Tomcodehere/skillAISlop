@@ -1,5 +1,6 @@
 ---
 num: 39
+date_ajout: "2026-11"
 nom: "Tuteur socratique"
 emoji: "🤔"
 domaine: "Apprentissage"

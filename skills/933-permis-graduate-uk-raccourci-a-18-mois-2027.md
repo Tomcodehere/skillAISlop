@@ -1,5 +1,6 @@
 ---
 num: 933
+date_ajout: "2026-11"
 nom: "Permis Graduate UK raccourci à 18 mois (2027)"
 emoji: "🎓"
 domaine: "Carrière"

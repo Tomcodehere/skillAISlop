@@ -1,5 +1,6 @@
 ---
 num: 81
+date_ajout: "2026-11"
 nom: "Générateur de composants UI"
 emoji: "🧱"
 domaine: "Développement"

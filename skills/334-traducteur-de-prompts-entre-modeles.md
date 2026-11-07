@@ -1,5 +1,6 @@
 ---
 num: 334
+date_ajout: "2026-11"
 nom: "Traducteur de prompts entre modèles"
 emoji: "🌡"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1318
+date_ajout: "2026-11"
 nom: "Contrôle routier numérique (permis/carte grise)"
 emoji: "🚔"
 domaine: "Juridique"

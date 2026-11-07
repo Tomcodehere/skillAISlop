@@ -1,5 +1,6 @@
 ---
 num: 306
+date_ajout: "2026-11"
 nom: "Gestionnaire de secrets & trousseaux"
 emoji: "🌅"
 domaine: "Développement"

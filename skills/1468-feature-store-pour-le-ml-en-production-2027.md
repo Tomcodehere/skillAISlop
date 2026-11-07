@@ -1,5 +1,6 @@
 ---
 num: 1468
+date_ajout: "2026-11"
 nom: "Feature store pour le ML en production (2027)"
 emoji: "🏪"
 domaine: "Data"

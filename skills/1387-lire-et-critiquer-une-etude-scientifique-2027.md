@@ -1,5 +1,6 @@
 ---
 num: 1387
+date_ajout: "2026-11"
 nom: "Lire et critiquer une etude scientifique (2027)"
 emoji: "🔬"
 domaine: "Recherche"

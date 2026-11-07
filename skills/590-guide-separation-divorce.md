@@ -1,5 +1,6 @@
 ---
 num: 590
+date_ajout: "2026-11"
 nom: "Guide séparation & divorce"
 emoji: "💔"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 707
+date_ajout: "2026-11"
 nom: "Statut & mise à jour d'équipe (standup écrit)"
 emoji: "📣"
 domaine: "Communication"

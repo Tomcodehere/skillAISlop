@@ -1,5 +1,6 @@
 ---
 num: 737
+date_ajout: "2026-11"
 nom: "Prompt engineering avancé (RCORCF)"
 emoji: "🧠"
 domaine: "IA / Prompting"

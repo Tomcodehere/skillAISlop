@@ -1,5 +1,6 @@
 ---
 num: 474
+date_ajout: "2026-11"
 nom: "Suiveur de garanties & réparations"
 emoji: "🪡"
 domaine: "Personnel"

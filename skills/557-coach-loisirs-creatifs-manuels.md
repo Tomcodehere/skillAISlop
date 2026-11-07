@@ -1,5 +1,6 @@
 ---
 num: 557
+date_ajout: "2026-11"
 nom: "Coach loisirs créatifs manuels"
 emoji: "🧶"
 domaine: "Créativité"

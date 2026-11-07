@@ -1,5 +1,6 @@
 ---
 num: 745
+date_ajout: "2026-11"
 nom: "Programme de parrainage & bouche-à-oreille"
 emoji: "🗣️"
 domaine: "Marketing"

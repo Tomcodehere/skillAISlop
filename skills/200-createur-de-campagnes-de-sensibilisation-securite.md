@@ -1,5 +1,6 @@
 ---
 num: 200
+date_ajout: "2026-11"
 nom: "Créateur de campagnes de sensibilisation sécurité"
 emoji: "👮"
 domaine: "Formation"

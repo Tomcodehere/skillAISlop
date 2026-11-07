@@ -1,4 +1,4 @@
-# Domaine : Stratégie (17 skills)
+# Domaine : Stratégie (19 skills)
 
 ## 57. 🧮 Business Model Canvas
 
@@ -84,4 +84,14 @@
 
 - **Fichier** : `skills/1385-integrer-l-esg-et-la-rse-au-business-model-2027.md` · **Mot-clé** : « stratégie esg rse business model csrd » · **Nom court** : ESG au business model
 - **Signal** : Integrer la RSE/ESG au coeur du business model en 2027, pas seulement dans un rapport annexe : empreinte carbone, economie circulaire, achats responsables, gouvernance. Aligne avec la directive CSRD (transposition 2027) pour les grandes entreprises. Utilise quand on veut un modele durable et conforme. N'utilise pas pour le rapport RSE annuel seul. · **Synonymes** : « développement durable entreprise », « conformité csrd 2027 », « empreinte carbone entreprise » · **Cross-refs** : 57, 687, 1092 · **Tags** : 2027
+
+## 1779. 🗺️ Feuille de route Rust kernel 2027-2030 : nettoyage API puis nouveaux drivers
+
+- **Fichier** : `skills/1779-feuille-de-route-rust-kernel-2027-2030-nettoyage-api-pui.md` · **Mot-clé** : « feuille de route Rust kernel 2027 2030 nettoyage API C 1-2 ans nouveaux drivers defaut anti-stagnation » · **Nom court** : Roadmap Rust kernel
+- **Signal** : La feuille de route 2027-2030 du Rust kernel (Torvalds/Ojeda) : 1-2 ans de nettoyage des API C internes avant d'exposer plus de Rust, puis nouveaux drivers (stockage, réseau, GPU) en Rust par defaut quand pertinent. Objectif : eviter la stagnation du noyau (mainteneurs vieillissants) en attirant de nouveaux contributeurs Rust. Utilise pour planifier l'adoption Rust sur 3 ans. · **Synonymes** : « 2027-2030 : nettoyer les API C 1-2 ans avant d'exposer plus de Rust », « nouveaux drivers en Rust par defaut quand pertinent d'ici 2030 », « eviter la stagnation du noyau : attirer les jeunes contributeurs Rust » · **Cross-refs** : 1770, 1776, 1778 · **Tags** : 2027
+
+## 1799. 📡 Tech radar interne 2027 : quoi adopter, tester, évaluer, abandonner
+
+- **Fichier** : `skills/1799-tech-radar-interne-2027-quoi-adopter-tester-evaluer-aban.md` · **Mot-clé** : « tech radar interne 2027 ThoughtWorks Adopt Trial Assess Hold blips quadrants revue semestrielle 2027 » · **Nom court** : Tech radar interne
+- **Signal** : Maintenir un tech radar interne en 2027 inspiré du ThoughtWorks Technology Radar (vol. 34+, avril 2026) : chaque technologie/technique est un 'blip' placé dans 4 anneaux — Adopt (l'utiliser), Trial (l'essayer en projet pilote), Assess (l'évaluer), Hold (ne plus investir) — et 4 quadrants (langages, outils, plateformes, techniques). Revue semestrielle avec les leads. Utilise pour éviter le 'shiny object syndrome' et tracer les décisions. N'utilise pas comme dogme : le radar reflète l'expérience de l'équipe, pas une analyse de marché exhaustive. · **Synonymes** : « mon radar interne : anneaux Adopt/Trial/Assess/Hold comme ThoughtWorks », « blip 'edge computing' passe de Trial a Adopt en 2027 », « revue semestrielle du radar avec les leads tech », « decisions tracees » · **Cross-refs** : 1798, 1700, 1770 · **Tags** : 2027
 

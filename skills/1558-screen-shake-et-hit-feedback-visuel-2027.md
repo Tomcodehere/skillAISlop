@@ -1,5 +1,6 @@
 ---
 num: 1558
+date_ajout: "2026-11"
 nom: "Screen shake et hit feedback visuel (2027)"
 emoji: "💥"
 domaine: "Game Dev"

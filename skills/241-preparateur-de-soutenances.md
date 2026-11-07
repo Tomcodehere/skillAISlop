@@ -1,5 +1,6 @@
 ---
 num: 241
+date_ajout: "2026-11"
 nom: "Préparateur de soutenances"
 emoji: "🎖️"
 domaine: "Apprentissage"

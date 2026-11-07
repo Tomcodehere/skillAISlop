@@ -1,5 +1,6 @@
 ---
 num: 23
+date_ajout: "2026-11"
 nom: "Documentation technique"
 emoji: "📚"
 domaine: "Développement"

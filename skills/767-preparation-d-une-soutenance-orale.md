@@ -1,5 +1,6 @@
 ---
 num: 767
+date_ajout: "2026-11"
 nom: "Préparation d'une soutenance orale"
 emoji: "🎓"
 domaine: "Apprentissage"

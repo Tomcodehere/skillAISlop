@@ -1,5 +1,6 @@
 ---
 num: 1314
+date_ajout: "2026-11"
 nom: "Batch cooking & robot de cuisine (2027)"
 emoji: "🥘"
 domaine: "Personnel"

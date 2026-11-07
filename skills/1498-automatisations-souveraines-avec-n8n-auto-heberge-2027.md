@@ -1,5 +1,6 @@
 ---
 num: 1498
+date_ajout: "2026-11"
 nom: "Automatisations souveraines avec n8n auto-heberge (2027)"
 emoji: "🔗"
 domaine: "Productivité"

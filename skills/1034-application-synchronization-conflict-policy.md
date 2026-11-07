@@ -1,5 +1,6 @@
 ---
 num: 1034
+date_ajout: "2026-11"
 nom: "Application Synchronization Conflict Policy"
 emoji: "📋"
 domaine: "Gestion"

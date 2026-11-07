@@ -1,5 +1,6 @@
 ---
 num: 1593
+date_ajout: "2026-11"
 nom: "Vertical slice : la tranche verticale de démonstration (2027)"
 emoji: "🥧"
 domaine: "Game Dev"

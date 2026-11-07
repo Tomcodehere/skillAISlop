@@ -1,5 +1,6 @@
 ---
 num: 1016
+date_ajout: "2026-11"
 nom: "AI Adoption Feedback Decision"
 emoji: "📦"
 domaine: "Produit"

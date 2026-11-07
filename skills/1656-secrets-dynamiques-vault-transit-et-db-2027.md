@@ -1,5 +1,6 @@
 ---
 num: 1656
+date_ajout: "2026-11"
 nom: "Secrets dynamiques : Vault transit et DB (2027)"
 emoji: "🔑"
 domaine: "Sécurité"

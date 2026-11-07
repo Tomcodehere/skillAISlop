@@ -1,5 +1,6 @@
 ---
 num: 1336
+date_ajout: "2026-11"
 nom: "Prévention arnaques QR codes & faux courriers (2027)"
 emoji: "📱"
 domaine: "Sécurité"

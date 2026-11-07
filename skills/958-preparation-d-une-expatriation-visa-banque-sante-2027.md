@@ -1,5 +1,6 @@
 ---
 num: 958
+date_ajout: "2026-11"
 nom: "Préparation d'une expatriation (visa, banque, santé) 2027"
 emoji: "🌍"
 domaine: "Personnel"

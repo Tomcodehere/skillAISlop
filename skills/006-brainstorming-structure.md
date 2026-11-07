@@ -1,5 +1,6 @@
 ---
 num: 6
+date_ajout: "2026-11"
 nom: "Brainstorming structuré"
 emoji: "💡"
 domaine: "Créativité"

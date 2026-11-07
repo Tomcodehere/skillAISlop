@@ -1,5 +1,6 @@
 ---
 num: 934
+date_ajout: "2026-11"
 nom: "Règles bagages cabine & powerbanks 2027"
 emoji: "🧳"
 domaine: "Personnel"

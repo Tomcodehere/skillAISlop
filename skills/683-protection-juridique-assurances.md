@@ -1,5 +1,6 @@
 ---
 num: 683
+date_ajout: "2026-11"
 nom: "Protection juridique & assurances"
 emoji: "🛡️"
 domaine: "Juridique"

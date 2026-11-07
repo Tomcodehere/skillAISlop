@@ -1,5 +1,6 @@
 ---
 num: 1082
+date_ajout: "2026-11"
 nom: "Medical Consultation Preparation"
 emoji: "🎨"
 domaine: "Créativité"

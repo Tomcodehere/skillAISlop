@@ -1,5 +1,6 @@
 ---
 num: 239
+date_ajout: "2026-11"
 nom: "Veilleur réglementaire"
 emoji: "🔔"
 domaine: "Juridique"

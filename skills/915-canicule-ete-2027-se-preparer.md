@@ -1,5 +1,6 @@
 ---
 num: 915
+date_ajout: "2026-11"
 nom: "Canicule & été 2027 : se préparer"
 emoji: "🌡️"
 domaine: "Personnel"

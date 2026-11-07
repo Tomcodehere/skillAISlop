@@ -1,5 +1,6 @@
 ---
 num: 291
+date_ajout: "2026-11"
 nom: "Diagnostiqueur de pannes domestiques"
 emoji: "🩹"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 41
+date_ajout: "2026-11"
 nom: "Simulateur d'examen blanc"
 emoji: "📝"
 domaine: "Apprentissage"

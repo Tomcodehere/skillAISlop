@@ -1,5 +1,6 @@
 ---
 num: 353
+date_ajout: "2026-11"
 nom: "Scoreur de propension client"
 emoji: "💯"
 domaine: "Data"

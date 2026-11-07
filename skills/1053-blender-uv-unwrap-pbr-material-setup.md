@@ -1,5 +1,6 @@
 ---
 num: 1053
+date_ajout: "2026-11"
 nom: "Blender UV Unwrap & PBR Material Setup"
 emoji: "💻"
 domaine: "Développement"

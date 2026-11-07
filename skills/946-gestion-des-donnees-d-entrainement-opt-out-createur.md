@@ -1,5 +1,6 @@
 ---
 num: 946
+date_ajout: "2026-11"
 nom: "Gestion des données d'entraînement & opt-out (créateur)"
 emoji: "🚫"
 domaine: "Juridique"

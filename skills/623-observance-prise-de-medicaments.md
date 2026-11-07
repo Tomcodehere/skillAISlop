@@ -1,5 +1,6 @@
 ---
 num: 623
+date_ajout: "2026-11"
 nom: "Observance & prise de médicaments"
 emoji: "💊"
 domaine: "Personnel"

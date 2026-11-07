@@ -1,5 +1,6 @@
 ---
 num: 723
+date_ajout: "2026-11"
 nom: "SOC agentique & sécurité autonome"
 emoji: "🤖"
 domaine: "Sécurité"

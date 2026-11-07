@@ -1,5 +1,6 @@
 ---
 num: 1286
+date_ajout: "2026-11"
 nom: "Terminology Management & Glossary Governance"
 emoji: "✍️"
 domaine: "Rédaction"

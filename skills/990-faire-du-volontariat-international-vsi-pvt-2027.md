@@ -1,5 +1,6 @@
 ---
 num: 990
+date_ajout: "2026-11"
 nom: "Faire du volontariat international (VSI, PVT) 2027"
 emoji: "🌍"
 domaine: "Carrière"

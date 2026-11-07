@@ -1,5 +1,6 @@
 ---
 num: 1545
+date_ajout: "2026-11"
 nom: "Lag compensation : rewind et reconciliation (2027)"
 emoji: "⏳"
 domaine: "Game Dev"

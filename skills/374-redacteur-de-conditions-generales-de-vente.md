@@ -1,5 +1,6 @@
 ---
 num: 374
+date_ajout: "2026-11"
 nom: "Rédacteur de conditions générales de vente"
 emoji: "🗎"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 560
+date_ajout: "2026-11"
 nom: "Mentor de mémoire & thèse"
 emoji: "🎓"
 domaine: "Apprentissage"

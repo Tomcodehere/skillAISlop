@@ -1,5 +1,6 @@
 ---
 num: 1020
+date_ajout: "2026-11"
 nom: "AI Feature Prioritization & Metrics"
 emoji: "🤖"
 domaine: "Data & IA"

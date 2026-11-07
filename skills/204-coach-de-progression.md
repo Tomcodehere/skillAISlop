@@ -1,5 +1,6 @@
 ---
 num: 204
+date_ajout: "2026-11"
 nom: "Coach de progression"
 emoji: "🧗"
 domaine: "Carrière"

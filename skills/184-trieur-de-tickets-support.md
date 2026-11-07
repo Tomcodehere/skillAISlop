@@ -1,5 +1,6 @@
 ---
 num: 184
+date_ajout: "2026-11"
 nom: "Trieur de tickets support"
 emoji: "🚦"
 domaine: "Produit"

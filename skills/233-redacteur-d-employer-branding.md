@@ -1,5 +1,6 @@
 ---
 num: 233
+date_ajout: "2026-11"
 nom: "Rédacteur d'employer branding"
 emoji: "🎊"
 domaine: "RH & formation"

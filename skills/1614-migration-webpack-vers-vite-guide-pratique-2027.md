@@ -1,5 +1,6 @@
 ---
 num: 1614
+date_ajout: "2026-11"
 nom: "Migration Webpack vers Vite : guide pratique (2027)"
 emoji: "🔄"
 domaine: "Développement"

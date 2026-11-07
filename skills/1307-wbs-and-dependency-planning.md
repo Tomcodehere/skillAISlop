@@ -1,5 +1,6 @@
 ---
 num: 1307
+date_ajout: "2026-11"
 nom: "WBS and Dependency Planning"
 emoji: "📋"
 domaine: "Gestion"

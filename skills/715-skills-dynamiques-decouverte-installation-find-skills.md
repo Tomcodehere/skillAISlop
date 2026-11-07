@@ -1,5 +1,6 @@
 ---
 num: 715
+date_ajout: "2026-11"
 nom: "Skills dynamiques : découverte & installation (find-skills)"
 emoji: "🧩"
 domaine: "Data & IA"

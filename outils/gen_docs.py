@@ -47,7 +47,7 @@ R = [f"# Documentation skillAISlop — générée automatiquement (gen_docs.py)"
      f"**{len(skills)} skills** + 1 routeur (skill 0, non compté) · **{len(dom)} domaines** · **{stats.get('synonymes','?')} synonymes** · **{stats.get('skills_fts','?')} FTS** · **{stats.get('skills','?')} vecteurs**", "",
      "> Auto-générée par `python3 outils/gen_docs.py` depuis `skills/*.md` + `catalogue/sources.md`. Ne pas éditer à la main.", "", "## Sommaire", ""]
 for d in sorted(dom): R.append(f"- [{d}](domaines/{slug(d)}.md) — {len(dom[d])} skills")
-R += ["", "- [RÉFÉRENCES.MD](RÉFÉRENCES.MD) · [TEMPLATE-v2.md](TEMPLATE-v2.md) · [migration-v2.md](migration-v2.md)", ""]
+R += ["", "- [RÉFÉRENCES.MD](RÉFÉRENCES.MD) · [TEMPLATE-v2.md](TEMPLATE-v2.md) · [migration-v2.md](migration-v2.md) · [SKILLS-PERSO.md](SKILLS-PERSO.md)", ""]
 (OUT / "README.md").write_text("\n".join(R) + "\n", encoding="utf-8")
 for d, ss in sorted(dom.items()):
     L = [f"# Domaine : {d} ({len(ss)} skills)", ""]

@@ -1,5 +1,6 @@
 ---
 num: 941
+date_ajout: "2026-11"
 nom: "Nutrition fonctionnelle & santé cardiovasculaire 2027"
 emoji: "❤️"
 domaine: "Personnel"

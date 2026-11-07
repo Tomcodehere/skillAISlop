@@ -1,5 +1,6 @@
 ---
 num: 1390
+date_ajout: "2026-11"
 nom: "Rechercher dans les textes officiels (Legifrance, JO, 2027)"
 emoji: "⚖"
 domaine: "Recherche"

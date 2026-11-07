@@ -1,5 +1,6 @@
 ---
 num: 126
+date_ajout: "2026-11"
 nom: "Rédacteur de communiqués de presse"
 emoji: "🗞️"
 domaine: "Communication"

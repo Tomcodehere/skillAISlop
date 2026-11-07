@@ -1,5 +1,6 @@
 ---
 num: 1512
+date_ajout: "2026-11"
 nom: "Tilemap et autotiling par regles de bits (2027)"
 emoji: "🧱"
 domaine: "Game Dev"

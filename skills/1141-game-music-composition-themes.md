@@ -1,5 +1,6 @@
 ---
 num: 1141
+date_ajout: "2026-11"
 nom: "Game Music Composition & Themes"
 emoji: "🧠"
 domaine: "IA / Prompting"

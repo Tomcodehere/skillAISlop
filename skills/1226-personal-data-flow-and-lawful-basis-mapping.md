@@ -1,5 +1,6 @@
 ---
 num: 1226
+date_ajout: "2026-11"
 nom: "Personal Data Flow and Lawful-Basis Mapping"
 emoji: "🤖"
 domaine: "Data & IA"

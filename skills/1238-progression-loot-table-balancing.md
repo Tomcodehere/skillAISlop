@@ -1,5 +1,6 @@
 ---
 num: 1238
+date_ajout: "2026-11"
 nom: "Progression & Loot Table Balancing"
 emoji: "🎨"
 domaine: "Design"

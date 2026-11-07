@@ -1,5 +1,6 @@
 ---
 num: 817
+date_ajout: "2026-11"
 nom: "Prompt engineering itératif (dialogue, pas one-shot)"
 emoji: "💬"
 domaine: "IA / Prompting"

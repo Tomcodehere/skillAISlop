@@ -1,5 +1,6 @@
 ---
 num: 69
+date_ajout: "2026-11"
 nom: "Assistant SQL & modélisation de données"
 emoji: "🗃️"
 domaine: "Développement"

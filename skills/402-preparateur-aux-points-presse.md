@@ -1,5 +1,6 @@
 ---
 num: 402
+date_ajout: "2026-11"
 nom: "Préparateur aux points presse"
 emoji: "🍐"
 domaine: "Communication"

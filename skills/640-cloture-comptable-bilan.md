@@ -1,5 +1,6 @@
 ---
 num: 640
+date_ajout: "2026-11"
 nom: "Clôture comptable & bilan"
 emoji: "📒"
 domaine: "Finance"

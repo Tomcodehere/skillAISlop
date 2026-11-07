@@ -1,5 +1,6 @@
 ---
 num: 973
+date_ajout: "2026-11"
 nom: "Lire et comprendre sa fiche de paie (2027)"
 emoji: "🧾"
 domaine: "Juridique"

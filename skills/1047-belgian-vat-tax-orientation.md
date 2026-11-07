@@ -1,5 +1,6 @@
 ---
 num: 1047
+date_ajout: "2026-11"
 nom: "Belgian VAT & Tax Orientation"
 emoji: "🎨"
 domaine: "Créativité"

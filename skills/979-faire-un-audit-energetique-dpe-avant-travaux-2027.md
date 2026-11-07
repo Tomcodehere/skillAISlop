@@ -1,5 +1,6 @@
 ---
 num: 979
+date_ajout: "2026-11"
 nom: "Faire un audit énergétique & DPE avant travaux 2027"
 emoji: "🔋"
 domaine: "Finance"

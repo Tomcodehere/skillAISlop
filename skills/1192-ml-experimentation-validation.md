@@ -1,5 +1,6 @@
 ---
 num: 1192
+date_ajout: "2026-11"
 nom: "ML Experimentation & Validation"
 emoji: "🧠"
 domaine: "IA / Prompting"

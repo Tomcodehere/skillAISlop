@@ -1,5 +1,6 @@
 ---
 num: 545
+date_ajout: "2026-11"
 nom: "Builder de site statique & blog"
 emoji: "🏗️"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 523
+date_ajout: "2026-11"
 nom: "Maître des expressions régulières"
 emoji: "🔤"
 domaine: "Développement"

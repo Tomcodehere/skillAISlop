@@ -1,5 +1,6 @@
 ---
 num: 1012
+date_ajout: "2026-11"
 nom: "Advertising Measurement & Experimentation"
 emoji: "🧠"
 domaine: "IA / Prompting"

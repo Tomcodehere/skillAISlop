@@ -1,5 +1,6 @@
 ---
 num: 879
+date_ajout: "2026-11"
 nom: "Préparation d'une présentation orale importante"
 emoji: "🎤"
 domaine: "Communication"
@@ -7,7 +8,7 @@ signal: "Préparer une présentation orale importante, pitch, conférence, disco
 mot_cle: "présentation orale"
 nom_court: "Présentation orale"
 branche: "D6"
-synonymes: ["préparer un pitch"]
+synonymes: ["préparer un pitch", "préparer ma présentation au comité"]
 cross_refs: [75, 293, 767]
 tags: ["2027"]
 depends_on: [1342]

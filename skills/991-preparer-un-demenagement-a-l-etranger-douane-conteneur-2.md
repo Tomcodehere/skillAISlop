@@ -1,5 +1,6 @@
 ---
 num: 991
+date_ajout: "2026-11"
 nom: "Préparer un déménagement à l'étranger (douane, conteneur) 2027"
 emoji: "📦"
 domaine: "Personnel"

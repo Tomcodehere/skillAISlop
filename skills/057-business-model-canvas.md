@@ -1,5 +1,6 @@
 ---
 num: 57
+date_ajout: "2026-11"
 nom: "Business Model Canvas"
 emoji: "🧮"
 domaine: "Stratégie"

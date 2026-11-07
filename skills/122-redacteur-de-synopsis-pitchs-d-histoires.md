@@ -1,5 +1,6 @@
 ---
 num: 122
+date_ajout: "2026-11"
 nom: "Rédacteur de synopsis & pitchs d'histoires"
 emoji: "🎪"
 domaine: "Créativité"

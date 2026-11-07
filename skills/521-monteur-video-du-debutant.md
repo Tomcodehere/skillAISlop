@@ -1,5 +1,6 @@
 ---
 num: 521
+date_ajout: "2026-11"
 nom: "Monteur vidéo du débutant"
 emoji: "🎬"
 domaine: "Créativité"

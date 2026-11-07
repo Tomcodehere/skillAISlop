@@ -1,5 +1,6 @@
 ---
 num: 220
+date_ajout: "2026-11"
 nom: "Chef de projet rénovation"
 emoji: "🏠"
 domaine: "Personnel"

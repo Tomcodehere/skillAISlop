@@ -1,5 +1,6 @@
 ---
 num: 780
+date_ajout: "2026-11"
 nom: "Devis & propositions commerciales"
 emoji: "📑"
 domaine: "Vente"

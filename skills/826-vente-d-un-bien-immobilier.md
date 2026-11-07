@@ -1,5 +1,6 @@
 ---
 num: 826
+date_ajout: "2026-11"
 nom: "Vente d'un bien immobilier"
 emoji: "🏠"
 domaine: "Finance"

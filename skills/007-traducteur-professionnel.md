@@ -1,5 +1,6 @@
 ---
 num: 7
+date_ajout: "2026-11"
 nom: "Traducteur professionnel"
 emoji: "🌍"
 domaine: "Langues"

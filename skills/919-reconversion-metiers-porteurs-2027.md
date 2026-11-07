@@ -1,5 +1,6 @@
 ---
 num: 919
+date_ajout: "2026-11"
 nom: "Reconversion & métiers porteurs 2027"
 emoji: "🔀"
 domaine: "Carrière"

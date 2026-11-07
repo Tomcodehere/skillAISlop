@@ -1,5 +1,6 @@
 ---
 num: 1271
+date_ajout: "2026-11"
 nom: "SLO and Error-Budget Decision"
 emoji: "🎨"
 domaine: "Design"

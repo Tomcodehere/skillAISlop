@@ -1,5 +1,6 @@
 ---
 num: 357
+date_ajout: "2026-11"
 nom: "Rédacteur de séquences email d'automatisation"
 emoji: "💌"
 domaine: "Marketing"

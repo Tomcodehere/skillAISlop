@@ -1,5 +1,6 @@
 ---
 num: 1539
+date_ajout: "2026-11"
 nom: "Sauvegarde cloud et sync multi-appareils (2027)"
 emoji: "☁️"
 domaine: "Game Dev"

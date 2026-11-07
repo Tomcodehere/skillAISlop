@@ -1,5 +1,6 @@
 ---
 num: 1161
+date_ajout: "2026-11"
 nom: "Incident Commander (SRE / Runbook)"
 emoji: "🎨"
 domaine: "Design"

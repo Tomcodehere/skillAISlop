@@ -1,5 +1,6 @@
 ---
 num: 172
+date_ajout: "2026-11"
 nom: "Rédacteur de lettres investisseurs"
 emoji: "📩"
 domaine: "Finance"

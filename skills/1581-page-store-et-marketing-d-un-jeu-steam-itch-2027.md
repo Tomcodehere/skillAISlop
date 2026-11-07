@@ -1,5 +1,6 @@
 ---
 num: 1581
+date_ajout: "2026-11"
 nom: "Page store et marketing d'un jeu (Steam, itch, 2027)"
 emoji: "🎪"
 domaine: "Game Dev"

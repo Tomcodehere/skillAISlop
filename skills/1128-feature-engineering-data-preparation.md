@@ -1,5 +1,6 @@
 ---
 num: 1128
+date_ajout: "2026-11"
 nom: "Feature Engineering & Data Preparation"
 emoji: "💻"
 domaine: "Développement"

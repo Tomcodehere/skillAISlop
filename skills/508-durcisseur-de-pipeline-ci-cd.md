@@ -1,5 +1,6 @@
 ---
 num: 508
+date_ajout: "2026-11"
 nom: "Durcisseur de pipeline CI/CD"
 emoji: "🪖"
 domaine: "Sécurité"

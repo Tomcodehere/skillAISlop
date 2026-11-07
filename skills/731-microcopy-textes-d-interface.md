@@ -1,5 +1,6 @@
 ---
 num: 731
+date_ajout: "2026-11"
 nom: "Microcopy & textes d'interface"
 emoji: "🔤"
 domaine: "Design"

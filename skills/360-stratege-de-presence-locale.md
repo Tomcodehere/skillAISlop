@@ -1,5 +1,6 @@
 ---
 num: 360
+date_ajout: "2026-11"
 nom: "Stratège de présence locale"
 emoji: "🌵"
 domaine: "Marketing"

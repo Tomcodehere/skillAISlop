@@ -1,5 +1,6 @@
 ---
 num: 1228
+date_ajout: "2026-11"
 nom: "Portfolio / Capacity Planner"
 emoji: "🎨"
 domaine: "Design"

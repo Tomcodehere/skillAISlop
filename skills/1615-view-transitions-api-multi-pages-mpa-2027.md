@@ -1,5 +1,6 @@
 ---
 num: 1615
+date_ajout: "2026-11"
 nom: "View Transitions API multi-pages (MPA, 2027)"
 emoji: "🎬"
 domaine: "Développement"

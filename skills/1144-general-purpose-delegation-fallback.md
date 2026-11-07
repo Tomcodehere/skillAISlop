@@ -1,5 +1,6 @@
 ---
 num: 1144
+date_ajout: "2026-11"
 nom: "General Purpose Delegation Fallback"
 emoji: "📋"
 domaine: "Gestion"

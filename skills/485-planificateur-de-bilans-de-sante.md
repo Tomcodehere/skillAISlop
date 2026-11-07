@@ -1,5 +1,6 @@
 ---
 num: 485
+date_ajout: "2026-11"
 nom: "Planificateur de bilans de santé"
 emoji: "🩺"
 domaine: "Personnel"

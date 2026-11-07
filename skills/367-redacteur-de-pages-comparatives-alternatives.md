@@ -1,5 +1,6 @@
 ---
 num: 367
+date_ajout: "2026-11"
 nom: "Rédacteur de pages comparatives & alternatives"
 emoji: "🌼"
 domaine: "Marketing"

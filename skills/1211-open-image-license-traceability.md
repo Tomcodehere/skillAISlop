@@ -1,5 +1,6 @@
 ---
 num: 1211
+date_ajout: "2026-11"
 nom: "Open Image License Traceability"
 emoji: "📋"
 domaine: "Gestion"

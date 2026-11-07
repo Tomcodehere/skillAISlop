@@ -1,5 +1,6 @@
 ---
 num: 1001
+date_ajout: "2026-11"
 nom: "Accessibility Evidence Register"
 emoji: "🔬"
 domaine: "Recherche"

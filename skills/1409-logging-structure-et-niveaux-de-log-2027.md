@@ -1,5 +1,6 @@
 ---
 num: 1409
+date_ajout: "2026-11"
 nom: "Logging structure et niveaux de log (2027)"
 emoji: "📝"
 domaine: "Développement"

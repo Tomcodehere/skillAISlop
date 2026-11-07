@@ -1,5 +1,6 @@
 ---
 num: 94
+date_ajout: "2026-11"
 nom: "Architecte de pipelines de données"
 emoji: "🛢️"
 domaine: "Data"

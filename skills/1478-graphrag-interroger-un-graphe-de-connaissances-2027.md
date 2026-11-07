@@ -1,5 +1,6 @@
 ---
 num: 1478
+date_ajout: "2026-11"
 nom: "GraphRAG : interroger un graphe de connaissances (2027)"
 emoji: "🕸️"
 domaine: "Data & IA"

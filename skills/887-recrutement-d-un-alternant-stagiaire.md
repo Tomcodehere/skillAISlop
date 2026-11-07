@@ -1,5 +1,6 @@
 ---
 num: 887
+date_ajout: "2026-11"
 nom: "Recrutement d'un alternant / stagiaire"
 emoji: "🎓"
 domaine: "RH & formation"

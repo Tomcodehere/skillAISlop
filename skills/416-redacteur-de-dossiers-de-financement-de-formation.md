@@ -1,5 +1,6 @@
 ---
 num: 416
+date_ajout: "2026-11"
 nom: "Rédacteur de dossiers de financement de formation"
 emoji: "🍘"
 domaine: "RH & formation"

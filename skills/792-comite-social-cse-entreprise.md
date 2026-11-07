@@ -1,5 +1,6 @@
 ---
 num: 792
+date_ajout: "2026-11"
 nom: "Comité social & CSE (entreprise)"
 emoji: "🏛️"
 domaine: "RH & formation"

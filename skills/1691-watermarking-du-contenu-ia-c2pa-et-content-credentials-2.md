@@ -1,5 +1,6 @@
 ---
 num: 1691
+date_ajout: "2026-11"
 nom: "Watermarking du contenu IA : C2PA et Content Credentials (2027)"
 emoji: "🎧"
 domaine: "Produit & IA"

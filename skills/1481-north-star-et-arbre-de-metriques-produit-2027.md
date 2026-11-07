@@ -1,5 +1,6 @@
 ---
 num: 1481
+date_ajout: "2026-11"
 nom: "North Star et arbre de metriques produit (2027)"
 emoji: "⭐"
 domaine: "Produit"

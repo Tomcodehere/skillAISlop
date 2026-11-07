@@ -1,5 +1,6 @@
 ---
 num: 653
+date_ajout: "2026-11"
 nom: "Déménagement & mise en service"
 emoji: "📦"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 839
+date_ajout: "2026-11"
 nom: "Spear phishing & signalement"
 emoji: "🎯"
 domaine: "Sécurité"

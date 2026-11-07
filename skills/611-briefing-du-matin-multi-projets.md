@@ -1,5 +1,6 @@
 ---
 num: 611
+date_ajout: "2026-11"
 nom: "Briefing du matin multi-projets"
 emoji: "☕"
 domaine: "Productivité"

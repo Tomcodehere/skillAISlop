@@ -1,6 +1,6 @@
 # Scores de qualité des skills (/100)
 
-Moyenne globale : **100.0/100** sur 1699 skills · <70 : 0 · >=90 : 1699
+Moyenne globale : **100.0/100** sur 1799 skills · <70 : 0 · >=90 : 1799
 
 | Score | # | Skill | Détails |
 |---|---|---|---|
@@ -8,9 +8,6 @@ Moyenne globale : **100.0/100** sur 1699 skills · <70 : 0 · >=90 : 1699
 | 90 | 1026 | AI System Architecture Design | frontmatter 10/10, sections 12/12, contenu 9/12 sections suffisantes, cross-ref oui, unicité oui |
 | 90 | 1196 | Multi-Agent Orchestration Patterns | frontmatter 10/10, sections 12/12, contenu 9/12 sections suffisantes, cross-ref oui, unicité oui |
 | 93 | 1277 | SQL Analytics & Data Quality | frontmatter 10/10, sections 12/12, contenu 10/12 sections suffisantes, cross-ref oui, unicité oui |
-| 95 | 1560 | State machine d'animation (Animator, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
-| 95 | 1586 | Build mobile : IL2CPP, Addressables, taille de l'app (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
-| 95 | 814 | Régularité du sommeil (circadien) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 97 | 1099 | Data Quality Monitoring | frontmatter 10/10, sections 12/12, contenu 11/12 sections suffisantes, cross-ref oui, unicité oui |
 | 97 | 910 | PLF 2027 : dons d'argent allégés S1 2027 | frontmatter 10/10, sections 12/12, contenu 11/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1 | Rédacteur d'articles SEO | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
@@ -724,6 +721,7 @@ Moyenne globale : **100.0/100** sur 1699 skills · <70 : 0 · >=90 : 1699
 | 100 | 1558 | Screen shake et hit feedback visuel (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1559 | Juice : game feel (squash & stretch, hitstop, particules) (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 156 | Technicien de nettoyage audio | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1560 | State machine d'animation (Animator, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1561 | Blend trees : mouvement multidirectionnel fluide (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1562 | Rigging procédural et IK deux os (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1563 | IK avancé : full body et look-at (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
@@ -751,6 +749,7 @@ Moyenne globale : **100.0/100** sur 1699 skills · <70 : 0 · >=90 : 1699
 | 100 | 1583 | Gacha et loot boxes : conformite legale en 2027 (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1584 | RGPD et protection des mineurs dans un jeu video (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1585 | Performance mobile : 60 fps, batterie et thermique (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1586 | Build mobile : IL2CPP, Addressables, taille de l'app (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1587 | Portage console : Switch, PS5, Xbox et certification (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1588 | Soldes Steam et prix regionaux (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1589 | Gerer les avis negatifs et une crise post-lancement (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
@@ -876,15 +875,115 @@ Moyenne globale : **100.0/100** sur 1699 skills · <70 : 0 · >=90 : 1699
 | 100 | 1698 | Dashboard d'usage du catalogue de skills (analytics, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1699 | Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 170 | Constructeur de prévisionnel financier | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1700 | Construire une Internal Developer Platform (IDP) en 2027 | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1701 | Golden paths : routes par defaut opinionnees (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1702 | Backstage (CNCF) : portail developpeur self-host (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1703 | Crossplane : provisionner l'infra en claims Kubernetes (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1704 | GitOps avec Argo CD ou Flux (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1705 | Kyverno / OPA : policies as code sur Kubernetes (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1706 | Métriques DORA : mesurer la performance de livraison (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1707 | Team Topologies : structurer les équipes plateforme (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1708 | AI-assisted IDP : demander un service en langage naturel (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1709 | Cout de l'IDP : TCO et justification metier (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 171 | Préparateur de levée de fonds | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1710 | Port, Cortex, Humanitec : IDP managé vs Backstage (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1711 | Scorecards : niveaux de maturité des services (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1712 | Framework SPACE : mesurer la productivité dev (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1713 | Onboarding developpeur : premier commit en jour 1 (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1714 | Devcontainers : environnement de dev en 1 commande (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1715 | Documentation développeur interne : TechDocs et docs-as-code (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1716 | Kratix : promises et orchestration multi-cluster (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1717 | Roadmap plateforme 2027 : de la v1 au produit interne (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1718 | Securite de la plateforme : zero trust interne (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1719 | Communication plateforme : changelog et demos internes (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 172 | Rédacteur de lettres investisseurs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1720 | eBPF : programmer le noyau Linux sans le modifier (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1721 | Cilium : networking, sécurité et observabilité eBPF sur k8s (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1722 | Hubble : observabilité réseau des flux k8s (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1723 | Falco : détection d'intrusion runtime (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1724 | Pixie / Beyla : observabilité zero-instrumentation (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1725 | Tetragon : sécurité runtime avec enforcement (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1726 | bpftrace : debug ad-hoc du noyau Linux (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1727 | Cilium service mesh sans sidecar (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1728 | Certification Cilium CCAE : valider ses compétences eBPF (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1729 | eBPF en entreprise : gouvernance et coûts (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 173 | Concepteur de programmes de fidélité | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1730 | Katran : load balancer L4 eBPF de Meta (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1731 | eBPF pour le stockage : monitoring I/O disque (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1732 | eBPF et conteneurs : isolation réseau fine (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1733 | eBPF et sécurité applicative : WAF dans le noyau (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1734 | eBPF vs modules kernel : choisir en 2027 (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1735 | Choisir son assistant de codage IA en 2027 (Cursor, Claude Code, Copilot, Devin...) (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1736 | Securite du code genere par IA : revue, licences, fuite de donnees (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1737 | Claude Code en CLI : missions longues et refacto (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1738 | Agents de codage autonomes cloud : Devin, Codex (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1739 | Mesurer le gain de productivite des outils IA (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 174 | Créateur de lead magnets | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1740 | Cursor : IDE agentique au quotidien (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1741 | GitHub Copilot en entreprise : Business, crédits et revue de PR (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1742 | OpenCode et Jules : agents de codage gratuits/open source (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1743 | Aider et Cline : agents CLI open source dans le terminal (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1744 | Sourcegraph Cody : chercher dans une grosse codebase (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1745 | Lovable, Bolt, v0 : prototyper une appli web avec l'IA (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1746 | Documentation auto du code par IA : docstrings, README, ADR (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1747 | Tests auto generes par l'IA depuis le code (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1748 | Refactoring massif assisté par IA : dette technique (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1749 | Vibe coding responsable : quand l'IA code, quand l'humain code (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 175 | Bâtisseur de communauté | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1750 | OpenTelemetry GenAI : sémantique standard pour les LLM (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1751 | SLO pour les features LLM : latence, qualité, coût (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1752 | Cout de l'observabilite : cardinalite, echantillonnage, stockage (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1753 | Golden signals + RED + USE : quels signaux mesurer (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1754 | Observability as code : dashboards et alertes en Git (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1755 | AIOps : RCA automatique et réduction du MTTR (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1756 | RUM : performance réelle des utilisateurs (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1757 | SLO burn rate : alertes intelligentes sur le budget d'erreur (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1758 | Incident management 2027 : sévérité, rôles, post-mortem blameless (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1759 | Chaos engineering : tester la résilience en 2027 (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 176 | Narrateur de roadmap | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1760 | SLO multi-niveaux et politique de budget d'erreur (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1761 | Alerting intelligent : debruitage et routage des alertes (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1762 | Tracing distribué de bout en bout (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1763 | Cardinalité des métriques : pièges et limites (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1764 | Runbooks et auto-remédiation des incidents (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1765 | Observabilité de la couche MCP et des appels d'outils des agents (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1766 | Dashboards orientés décision et storytelling (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1767 | Tracing LLM : tokens, appels d'outils et coût par requête (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1768 | Post-incident : postmortem blameless et actions tracées (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1769 | Game days et exercices d'incident réguliers (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 177 | Auditeur d'accessibilité (WCAG) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1770 | Rust dans le noyau Linux en 2027 : bilan et trajectorie | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1771 | pinned-init : initialisation épinglée en mémoire (Rust kernel) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1772 | Driver Binder (Android) réécrit en Rust | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1773 | Driver NVMe en Rust | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1774 | Driver GPU Asahi (Apple Silicon) en Rust | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1775 | Projet Nova : driver GPU NVIDIA en Rust | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1776 | Doctrine Torvalds : Rust est un ajout, pas un remplacement | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1777 | Gouvernance du tree rust-for-linux et contribution (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1778 | Pourquoi Rust réduit les CVE mémoire du noyau (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1779 | Feuille de route Rust kernel 2027-2030 : nettoyage API puis nouveaux drivers | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 178 | Planificateur de tests fonctionnels (QA) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1780 | PostgreSQL 18 en 2027 : vue d'ensemble des nouveautés | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1781 | AIO PostgreSQL 18 : I/O asynchrones (io_uring) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1782 | uuidv7() dans PostgreSQL 18 : UUID monotones et localité d'index | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1783 | Skip scan B-tree PG18 : requêtes sur colonnes non-préfixe d'index | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1784 | Colonnes générées virtuelles (VIRTUAL) dans PG18 | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1785 | Tables temporelles PG18 : contraintes WITHOUT OVERLAPS | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1786 | OAuth 2.0 dans PostgreSQL 18 : bearer tokens JWT | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1787 | pg_upgrade --swap : montée majeure sans downtime (PG18) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1788 | Durcissement sécurité de PostgreSQL 18 (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1789 | Plan de migration vers PostgreSQL 18/19 (2027) : tests, pgbench, rollback | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 179 | Designer d'activation produit | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1790 | Inventaire cryptographique (CBOM) et plan de migration PQC (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1791 | TLS 1.3 hybride X25519MLKEM768 (PQC ready, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1792 | Signatures post-quantiques ML-DSA et certificats X.509 hybrides (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1793 | WASI 0.3 et Component Model : WebAssembly hors navigateur (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1794 | Plugins et sandbox en WebAssembly : sécurité par capacités (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1795 | Éco-conception logicielle : référentiel RGESN (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1796 | Mesurer l'empreinte carbone du SI (2027) : Scaphandre, Boavizta, EcoIndex, CSRD | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1797 | Edge computing 2027 : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1798 | DevEx 2027 : métriques SPACE + DORA et harness engineering | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1799 | Tech radar interne 2027 : quoi adopter, tester, évaluer, abandonner | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 180 | Rédacteur de documentation d'API | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 181 | Architecte de design system | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 182 | Concepteur de formulaires | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
@@ -1519,6 +1618,7 @@ Moyenne globale : **100.0/100** sur 1699 skills · <70 : 0 · >=90 : 1699
 | 100 | 811 | Loi de finances 2026 : changements clés | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 812 | Optimisation fiscale légale 2026 | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 813 | Digital detox & sommeil-écrans | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 814 | Régularité du sommeil (circadien) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 815 | AI literacy : comprendre ce que l'IA fait et ne fait pas | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 816 | Data literacy : lire les chiffres sans se faire avoir | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 817 | Prompt engineering itératif (dialogue, pas one-shot) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |

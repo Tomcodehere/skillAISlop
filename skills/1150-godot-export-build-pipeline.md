@@ -1,5 +1,6 @@
 ---
 num: 1150
+date_ajout: "2026-11"
 nom: "Godot Export & Build Pipeline"
 emoji: "💻"
 domaine: "Développement"

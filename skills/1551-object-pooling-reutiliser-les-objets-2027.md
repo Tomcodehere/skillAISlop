@@ -1,5 +1,6 @@
 ---
 num: 1551
+date_ajout: "2026-11"
 nom: "Object pooling : reutiliser les objets (2027)"
 emoji: "♻️"
 domaine: "Game Dev"

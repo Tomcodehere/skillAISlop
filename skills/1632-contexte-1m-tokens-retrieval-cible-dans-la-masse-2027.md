@@ -1,5 +1,6 @@
 ---
 num: 1632
+date_ajout: "2026-11"
 nom: "Contexte 1M tokens : retrieval cible dans la masse (2027)"
 emoji: "🧠"
 domaine: "IA / Prompting"

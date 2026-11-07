@@ -1,5 +1,6 @@
 ---
 num: 1277
+date_ajout: "2026-11"
 nom: "SQL Analytics & Data Quality"
 emoji: "💻"
 domaine: "Développement"

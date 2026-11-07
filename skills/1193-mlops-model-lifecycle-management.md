@@ -1,5 +1,6 @@
 ---
 num: 1193
+date_ajout: "2026-11"
 nom: "MLOps & Model Lifecycle Management"
 emoji: "🧠"
 domaine: "IA / Prompting"

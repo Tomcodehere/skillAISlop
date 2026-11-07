@@ -1,5 +1,6 @@
 ---
 num: 1601
+date_ajout: "2026-11"
 nom: "HTMX + backend : UI dynamique sans JavaScript lourd (2027)"
 emoji: "🧩"
 domaine: "Développement"

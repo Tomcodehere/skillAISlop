@@ -1,5 +1,6 @@
 ---
 num: 573
+date_ajout: "2026-11"
 nom: "Auteur-compositeur de chansons"
 emoji: "🎸"
 domaine: "Créativité"

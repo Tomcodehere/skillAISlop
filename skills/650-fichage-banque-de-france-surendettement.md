@@ -1,5 +1,6 @@
 ---
 num: 650
+date_ajout: "2026-11"
 nom: "Fichage Banque de France & surendettement"
 emoji: "🏦"
 domaine: "Finance"

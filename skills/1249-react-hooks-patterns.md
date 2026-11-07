@@ -1,5 +1,6 @@
 ---
 num: 1249
+date_ajout: "2026-11"
 nom: "React Hooks Patterns"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 682
+date_ajout: "2026-11"
 nom: "Préparation à la retraite"
 emoji: "🌅"
 domaine: "Finance"

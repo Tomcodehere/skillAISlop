@@ -1,5 +1,6 @@
 ---
 num: 1230
+date_ajout: "2026-11"
 nom: "PowerPoint Design Efficiency"
 emoji: "🎨"
 domaine: "Design"

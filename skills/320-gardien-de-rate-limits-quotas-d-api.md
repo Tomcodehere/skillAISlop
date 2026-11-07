@@ -1,5 +1,6 @@
 ---
 num: 320
+date_ajout: "2026-11"
 nom: "Gardien de rate limits & quotas d'API"
 emoji: "🌕"
 domaine: "Développement"

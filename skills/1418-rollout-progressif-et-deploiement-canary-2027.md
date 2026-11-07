@@ -1,5 +1,6 @@
 ---
 num: 1418
+date_ajout: "2026-11"
 nom: "Rollout progressif et deploiement canary (2027)"
 emoji: "🚩"
 domaine: "Développement"

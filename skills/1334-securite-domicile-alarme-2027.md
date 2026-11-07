@@ -1,5 +1,6 @@
 ---
 num: 1334
+date_ajout: "2026-11"
 nom: "Sécurité domicile & alarme (2027)"
 emoji: "🏡"
 domaine: "Sécurité"

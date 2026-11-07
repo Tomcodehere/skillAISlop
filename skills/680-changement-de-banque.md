@@ -1,5 +1,6 @@
 ---
 num: 680
+date_ajout: "2026-11"
 nom: "Changement de banque"
 emoji: "🏦"
 domaine: "Finance"

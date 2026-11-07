@@ -1,5 +1,6 @@
 ---
 num: 1203
+date_ajout: "2026-11"
 nom: "Network Segmentation"
 emoji: "💻"
 domaine: "Développement"

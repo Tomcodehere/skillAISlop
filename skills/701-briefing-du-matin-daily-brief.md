@@ -1,5 +1,6 @@
 ---
 num: 701
+date_ajout: "2026-11"
 nom: "Briefing du matin (daily brief)"
 emoji: "☀️"
 domaine: "Productivité"

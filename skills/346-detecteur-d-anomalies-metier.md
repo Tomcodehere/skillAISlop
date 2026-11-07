@@ -1,5 +1,6 @@
 ---
 num: 346
+date_ajout: "2026-11"
 nom: "Détecteur d'anomalies métier"
 emoji: "🌬"
 domaine: "Data"

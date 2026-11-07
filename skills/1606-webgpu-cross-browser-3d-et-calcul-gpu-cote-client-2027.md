@@ -1,5 +1,6 @@
 ---
 num: 1606
+date_ajout: "2026-11"
 nom: "WebGPU cross-browser : 3D et calcul GPU côté client (2027)"
 emoji: "🎨"
 domaine: "Développement"

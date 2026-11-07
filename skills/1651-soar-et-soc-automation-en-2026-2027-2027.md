@@ -1,5 +1,6 @@
 ---
 num: 1651
+date_ajout: "2026-11"
 nom: "SOAR et SOC automation en 2026-2027 (2027)"
 emoji: "🤖"
 domaine: "Sécurité"

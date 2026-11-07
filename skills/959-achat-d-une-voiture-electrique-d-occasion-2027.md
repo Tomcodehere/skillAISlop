@@ -1,5 +1,6 @@
 ---
 num: 959
+date_ajout: "2026-11"
 nom: "Achat d'une voiture électrique d'occasion (2027)"
 emoji: "🚗"
 domaine: "Personnel"

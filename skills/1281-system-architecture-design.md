@@ -1,5 +1,6 @@
 ---
 num: 1281
+date_ajout: "2026-11"
 nom: "System Architecture Design"
 emoji: "💻"
 domaine: "Développement"

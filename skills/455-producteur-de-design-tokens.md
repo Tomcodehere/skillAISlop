@@ -1,5 +1,6 @@
 ---
 num: 455
+date_ajout: "2026-11"
 nom: "Producteur de design tokens"
 emoji: "🍦"
 domaine: "Design"

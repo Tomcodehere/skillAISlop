@@ -1,5 +1,6 @@
 ---
 num: 1276
+date_ajout: "2026-11"
 nom: "Source Authority Comparison"
 emoji: "🔬"
 domaine: "Recherche"

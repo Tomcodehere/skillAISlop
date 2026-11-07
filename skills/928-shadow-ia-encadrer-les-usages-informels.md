@@ -1,5 +1,6 @@
 ---
 num: 928
+date_ajout: "2026-11"
 nom: "Shadow IA : encadrer les usages informels"
 emoji: "🌑"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 957
+date_ajout: "2026-11"
 nom: "Gestion d'un piratage de compte (mail, réseau social)"
 emoji: "🔓"
 domaine: "Sécurité"

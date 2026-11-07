@@ -1,5 +1,6 @@
 ---
 num: 4
+date_ajout: "2026-11"
 nom: "Assistant Email professionnel"
 emoji: "📧"
 domaine: "Communication"

@@ -1,5 +1,6 @@
 ---
 num: 1547
+date_ajout: "2026-11"
 nom: "Prediction client et reconciliation serveur (2027)"
 emoji: "🔮"
 domaine: "Game Dev"

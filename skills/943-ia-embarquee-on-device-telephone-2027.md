@@ -1,5 +1,6 @@
 ---
 num: 943
+date_ajout: "2026-11"
 nom: "IA embarquée & on-device (téléphone 2027)"
 emoji: "📲"
 domaine: "Développement"

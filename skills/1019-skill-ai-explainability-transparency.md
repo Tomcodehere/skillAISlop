@@ -1,5 +1,6 @@
 ---
 num: 1019
+date_ajout: "2026-11"
 nom: "Skill: AI Explainability & Transparency"
 emoji: "📋"
 domaine: "Gestion"

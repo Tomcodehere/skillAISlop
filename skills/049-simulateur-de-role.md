@@ -1,5 +1,6 @@
 ---
 num: 49
+date_ajout: "2026-11"
 nom: "Simulateur de rôle"
 emoji: "🎭"
 domaine: "Carrière"

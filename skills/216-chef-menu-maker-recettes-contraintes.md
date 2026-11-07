@@ -1,5 +1,6 @@
 ---
 num: 216
+date_ajout: "2026-11"
 nom: "Chef menu-maker (recettes contraintes)"
 emoji: "🍳"
 domaine: "Personnel"

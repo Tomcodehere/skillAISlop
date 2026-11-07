@@ -1,5 +1,6 @@
 ---
 num: 740
+date_ajout: "2026-11"
 nom: "Prospection LinkedIn & social selling"
 emoji: "💼"
 domaine: "Vente"

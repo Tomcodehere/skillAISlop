@@ -1,5 +1,6 @@
 ---
 num: 106
+date_ajout: "2026-11"
 nom: "Analyste de cohortes & rétention"
 emoji: "📉"
 domaine: "Data"

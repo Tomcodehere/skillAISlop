@@ -1,5 +1,6 @@
 ---
 num: 447
+date_ajout: "2026-11"
 nom: "Veilleur de fuites de données"
 emoji: "🍣"
 domaine: "Sécurité"

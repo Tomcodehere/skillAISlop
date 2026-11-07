@@ -1,5 +1,6 @@
 ---
 num: 838
+date_ajout: "2026-11"
 nom: "Droit à l'oubli & déréférencement"
 emoji: "🗑️"
 domaine: "Juridique"

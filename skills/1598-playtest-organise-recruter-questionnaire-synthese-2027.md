@@ -1,5 +1,6 @@
 ---
 num: 1598
+date_ajout: "2026-11"
 nom: "Playtest organise : recruter, questionnaire, synthèse (2027)"
 emoji: "🧪"
 domaine: "Game Dev"

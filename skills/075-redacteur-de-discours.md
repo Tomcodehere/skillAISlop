@@ -1,5 +1,6 @@
 ---
 num: 75
+date_ajout: "2026-11"
 nom: "Rédacteur de discours"
 emoji: "🎤"
 domaine: "Communication"

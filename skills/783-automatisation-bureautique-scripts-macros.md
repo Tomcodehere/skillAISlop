@@ -1,5 +1,6 @@
 ---
 num: 783
+date_ajout: "2026-11"
 nom: "Automatisation bureautique (scripts & macros)"
 emoji: "🤖"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1397
+date_ajout: "2026-11"
 nom: "Mesurer la qualite d'un RAG (fidelite, pertinence, 2027)"
 emoji: "📏"
 domaine: "Data & IA"

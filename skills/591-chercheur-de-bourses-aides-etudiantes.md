@@ -1,5 +1,6 @@
 ---
 num: 591
+date_ajout: "2026-11"
 nom: "Chercheur de bourses & aides étudiantes"
 emoji: "🎓"
 domaine: "Apprentissage"

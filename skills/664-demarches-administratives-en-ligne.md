@@ -1,5 +1,6 @@
 ---
 num: 664
+date_ajout: "2026-11"
 nom: "Démarches administratives en ligne"
 emoji: "🖥️"
 domaine: "Bureau"

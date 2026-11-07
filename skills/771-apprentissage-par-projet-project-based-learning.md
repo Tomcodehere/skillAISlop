@@ -1,5 +1,6 @@
 ---
 num: 771
+date_ajout: "2026-11"
 nom: "Apprentissage par projet (project-based learning)"
 emoji: "🛠️"
 domaine: "Apprentissage"

@@ -1,5 +1,6 @@
 ---
 num: 854
+date_ajout: "2026-11"
 nom: "Location saisonnière & saisonnier"
 emoji: "🏖️"
 domaine: "Juridique"

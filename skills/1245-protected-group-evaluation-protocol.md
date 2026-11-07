@@ -1,5 +1,6 @@
 ---
 num: 1245
+date_ajout: "2026-11"
 nom: "Protected-Group Evaluation Protocol"
 emoji: "🧠"
 domaine: "IA / Prompting"

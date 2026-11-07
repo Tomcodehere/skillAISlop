@@ -1,5 +1,6 @@
 ---
 num: 1425
+date_ajout: "2026-11"
 nom: "Systeme de prompts modulaire (bibliotheque, 2027)"
 emoji: "🧩"
 domaine: "IA / Prompting"

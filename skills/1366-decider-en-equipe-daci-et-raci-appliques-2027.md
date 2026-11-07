@@ -1,5 +1,6 @@
 ---
 num: 1366
+date_ajout: "2026-11"
 nom: "Decider en equipe : DACI et RACI appliques (2027)"
 emoji: "👥"
 domaine: "Décision"

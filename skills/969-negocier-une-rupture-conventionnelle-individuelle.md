@@ -1,5 +1,6 @@
 ---
 num: 969
+date_ajout: "2026-11"
 nom: "Négocier une rupture conventionnelle individuelle"
 emoji: "🤝"
 domaine: "Juridique"

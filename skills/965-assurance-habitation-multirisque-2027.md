@@ -1,5 +1,6 @@
 ---
 num: 965
+date_ajout: "2026-11"
 nom: "Assurance habitation & multirisque 2027"
 emoji: "🏠"
 domaine: "Finance"

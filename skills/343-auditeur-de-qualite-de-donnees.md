@@ -1,5 +1,6 @@
 ---
 num: 343
+date_ajout: "2026-11"
 nom: "Auditeur de qualité de données"
 emoji: "🌩"
 domaine: "Data"

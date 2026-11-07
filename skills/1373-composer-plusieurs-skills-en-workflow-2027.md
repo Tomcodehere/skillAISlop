@@ -1,5 +1,6 @@
 ---
 num: 1373
+date_ajout: "2026-11"
 nom: "Composer plusieurs skills en workflow (2027)"
 emoji: "🔗"
 domaine: "Routage"

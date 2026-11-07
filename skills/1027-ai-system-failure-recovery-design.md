@@ -1,5 +1,6 @@
 ---
 num: 1027
+date_ajout: "2026-11"
 nom: "AI System Failure Recovery Design"
 emoji: "🧠"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 450
+date_ajout: "2026-11"
 nom: "Concepteur d'états vides"
 emoji: "🍤"
 domaine: "Design"

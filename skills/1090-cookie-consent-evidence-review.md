@@ -1,5 +1,6 @@
 ---
 num: 1090
+date_ajout: "2026-11"
 nom: "Cookie Consent Evidence Review"
 emoji: "📦"
 domaine: "Produit"

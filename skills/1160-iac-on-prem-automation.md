@@ -1,5 +1,6 @@
 ---
 num: 1160
+date_ajout: "2026-11"
 nom: "IaC On-Prem Automation"
 emoji: "💻"
 domaine: "Développement"

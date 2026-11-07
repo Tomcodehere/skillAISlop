@@ -1,5 +1,6 @@
 ---
 num: 1405
+date_ajout: "2026-11"
 nom: "Refactoring en securite : petits pas et tests (2027)"
 emoji: "🧰"
 domaine: "Développement"

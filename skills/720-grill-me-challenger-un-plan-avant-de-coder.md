@@ -1,5 +1,6 @@
 ---
 num: 720
+date_ajout: "2026-11"
 nom: "Grill Me : challenger un plan avant de coder"
 emoji: "🔥"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 874
+date_ajout: "2026-11"
 nom: "Vérification d'une offre d'emploi (arnaque)"
 emoji: "🚩"
 domaine: "Carrière"

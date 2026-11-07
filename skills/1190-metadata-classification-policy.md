@@ -1,5 +1,6 @@
 ---
 num: 1190
+date_ajout: "2026-11"
 nom: "Metadata Classification Policy"
 emoji: "🤖"
 domaine: "Data & IA"

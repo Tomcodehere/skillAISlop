@@ -1,5 +1,6 @@
 ---
 num: 429
+date_ajout: "2026-11"
 nom: "Priorisateur de portefeuille de projets"
 emoji: "🪁"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 1431
+date_ajout: "2026-11"
 nom: "Compaction et resume de conversation (2027)"
 emoji: "🗜️"
 domaine: "IA / Prompting"

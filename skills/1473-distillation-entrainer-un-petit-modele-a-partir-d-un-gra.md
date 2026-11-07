@@ -1,5 +1,6 @@
 ---
 num: 1473
+date_ajout: "2026-11"
 nom: "Distillation : entrainer un petit modele a partir d'un grand (2027)"
 emoji: "🧪"
 domaine: "Data & IA"

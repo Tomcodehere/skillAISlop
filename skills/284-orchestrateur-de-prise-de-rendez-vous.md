@@ -1,5 +1,6 @@
 ---
 num: 284
+date_ajout: "2026-11"
 nom: "Orchestrateur de prise de rendez-vous"
 emoji: "🕰️"
 domaine: "Productivité"

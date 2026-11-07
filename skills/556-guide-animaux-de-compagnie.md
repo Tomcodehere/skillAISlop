@@ -1,5 +1,6 @@
 ---
 num: 556
+date_ajout: "2026-11"
 nom: "Guide animaux de compagnie"
 emoji: "🐾"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 1575
+date_ajout: "2026-11"
 nom: "Accessibilite d'un jeu : daltonisme, tailles, secousses, sous-titres (2027)"
 emoji: "♿"
 domaine: "Game Dev"

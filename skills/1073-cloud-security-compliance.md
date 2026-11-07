@@ -1,5 +1,6 @@
 ---
 num: 1073
+date_ajout: "2026-11"
 nom: "Cloud Security & Compliance"
 emoji: "💻"
 domaine: "Développement"

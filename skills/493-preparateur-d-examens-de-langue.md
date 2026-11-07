@@ -1,5 +1,6 @@
 ---
 num: 493
+date_ajout: "2026-11"
 nom: "Préparateur d'examens de langue"
 emoji: "🍻"
 domaine: "Langues"

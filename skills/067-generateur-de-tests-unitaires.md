@@ -1,5 +1,6 @@
 ---
 num: 67
+date_ajout: "2026-11"
 nom: "Générateur de tests unitaires"
 emoji: "🧪"
 domaine: "Développement"

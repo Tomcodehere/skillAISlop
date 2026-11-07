@@ -1,5 +1,6 @@
 ---
 num: 864
+date_ajout: "2026-11"
 nom: "Gestion d'un litige de voisinage"
 emoji: "🏘️"
 domaine: "Juridique"

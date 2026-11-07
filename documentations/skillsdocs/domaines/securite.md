@@ -1,4 +1,4 @@
-# Domaine : Sécurité (93 skills)
+# Domaine : Sécurité (106 skills)
 
 ## 191. 🚔 Détecteur de fraudes & anomalies de logs
 
@@ -464,4 +464,69 @@
 
 - **Fichier** : `skills/1659-bug-bounty-et-divulgation-responsable-vdp-2027.md` · **Mot-clé** : « bug bounty VDP divulgation responsable 2027 périmètre récompense CVSS délai réponse correction HackerOne » · **Nom court** : Bug bounty
 - **Signal** : Mettre en place un programme de bug bounty ou de divulgation responsable (VDP) en 2027 : périmètre clair (quoi est testable), hors périmètre (DoS, social engineering 907), récompense par criticité (CVSS), délai de réponse (5 j) et de correction (90 j critique), publication après correctif, relation avec les chercheurs (HackerOne/Bugcrowd ou VDP interne). Utilise pour toute app exposée. N'utilise pas sans processus de correction derrière (sinon frustration). · **Synonymes** : « ouvrir un VDP (divulgation responsable) interne 2027 », « récompense par criticité CVSS », « délai 90 j critique », « HackerOne ou Bugcrowd pour un programme payant » · **Cross-refs** : 439, 440, 754 · **Tags** : 2027
+
+## 1705. 🛡 Kyverno / OPA : policies as code sur Kubernetes (2027)
+
+- **Fichier** : `skills/1705-kyverno-opa-policies-as-code-sur-kubernetes-2027.md` · **Mot-clé** : « kyverno OPA gatekeeper policies as code kubernetes 2027 resource limits readOnlyRootFilesystem images signées » · **Nom court** : Policies k8s
+- **Signal** : Appliquer des policies as code en 2027 sur Kubernetes avec Kyverno (YAML simple, natif k8s) ou OPA/Gatekeeper (Rego, plus puissant) : bloquer les pods sans resource limits, sans readOnlyRootFilesystem, images non signées (1457), namespaces interdits, quotas. Audit + enforce (bloquer) vs warn. Utilise en complément du GitOps (1704). N'utilise pas pour les politiques hors k8s. · **Synonymes** : « bloquer un pod sans resource limits (Kyverno) en admission », « Kyverno (YAML) vs OPA/Gatekeeper (Rego) choisir 2027 », « policy enforce (bloque) vs warn (log) + audit des violations existantes » · **Cross-refs** : 609, 508, 1645 · **Tags** : 2027
+
+## 1718. 🔒 Securite de la plateforme : zero trust interne (2027)
+
+- **Fichier** : `skills/1718-securite-de-la-plateforme-zero-trust-interne-2027.md` · **Mot-clé** : « zero trust plateforme interne IDP 2027 SSO passkeys mTLS SPIFFE secrets vault policies kyverno audit CI OIDC » · **Nom court** : ZT platforme
+- **Signal** : Sécuriser la plateforme interne (IDP 1700) en 2027 avec le zero trust interne : accès portail via SSO + passkeys (1643), service-to-service en mTLS (SPIFFE 1655), secrets jamais dans Git (Vault 1656, Sealed Secrets 1704), policies Kyverno (1705), audit de tous les accès (1476),ZT pour les pipelines CI (runner éphémères, OIDC pas de clés longues 1450). N'utilise pas pour la sécurité externe (firewall 1132). · **Synonymes** : « accès au portail IDP via SSO + passkeys (1643) », « service-to-service en mTLS (SPIFFE 1655) », « pas de clés longues », « CI : OIDC (pas de clés cloud en dur) + runners éphémères » · **Cross-refs** : 1700, 1643, 1655 · **Tags** : 2027
+
+## 1723. 🛡 Falco : détection d'intrusion runtime (2027)
+
+- **Fichier** : `skills/1723-falco-detection-d-intrusion-runtime-2027.md` · **Mot-clé** : « falco CNCF eBPF détection intrusion runtime syscalls 2027 shell conteneur /etc/shadow alertes SIEM SOAR kernel 5.8 » · **Nom court** : Falco
+- **Signal** : Déployer Falco en 2027 (CNCF graduated, eBPF) pour détecter les intrusions en runtime : règles sur les syscalls (shell dans un conteneur, lecture de /etc/shadow, connexion sortante anormale, exécution de binaire non packagé), alertes temps réel vers SIEM (1453) / SOAR (1651), faux positifs gérés par règles custom. Mode eBPF (kernel 5.8+) préféré au module. N'utilise pas sans pipeline d'alertes (sinon bruit). · **Synonymes** : « détecter un shell ouvert dans un conteneur (Falco », « syscall execve) », « lire /etc/shadow depuis un pod = alerte immédiate (Falco) », « Falco eBPF (kernel 5.8+) plutôt que module kernel en prod » · **Cross-refs** : 1720, 1453, 1651 · **Tags** : 2027
+
+## 1725. 🛡 Tetragon : sécurité runtime avec enforcement (2027)
+
+- **Fichier** : `skills/1725-tetragon-securite-runtime-avec-enforcement-2027.md` · **Mot-clé** : « tetragon cilium eBPF enforcement policies blocage runtime 2027 TracingPolicy exec write network kill » · **Nom court** : Tetragon
+- **Signal** : Aller plus loin que la détection avec Tetragon (Cilium, eBPF) en 2027 : au-delà d'alerter (Falco 1723), Tetragon peut ENFORcer (bloquer) en temps réel : empêcher l'exécution d'un binaire, le write sur un fichier sensible, une connexion sortante — via des Tracing Policies (YAML). Utilise pour les conteneurs critiques (paiement). N'utilise pas sans tests (risque de bloquer le légitime). · **Synonymes** : « bloquer (pas juste alerter) un binaire dans un conteneur (Tetragon) », « TracingPolicy : interdire l'exec de /tmp/x », « le write sur /etc », « la connexion vers IP externe », « Tetragon (Cilium) vs Falco (1723) : enforce vs detect » · **Cross-refs** : 1721, 1723, 1705 · **Tags** : 2027
+
+## 1732. 📦 eBPF et conteneurs : isolation réseau fine (2027)
+
+- **Fichier** : `skills/1732-ebpf-et-conteneurs-isolation-reseau-fine-2027.md` · **Mot-clé** : « eBPF isolation réseau conteneurs 2027 identité pod policies L7 egress control DNS-aware micro-segmentation Cilium » · **Nom court** : eBPF netns
+- **Signal** : Isoler finement le réseau des conteneurs en 2027 avec eBPF (Cilium 1721) : chaque pod a une identité réseau, les policies L3-L7 s'appliquent par identité (pas par IP qui tourne), egress control (quelle IP externe joignable), DNS-aware (filtrer par nom de domaine, pas juste IP). Utilise pour la micro-segmentation conteneurs (1203 réseau classique). N'utilise pas sans Cilium (1721). · **Synonymes** : « chaque pod a une identité réseau (pas une IP qui tourne) : Cilium eBPF », « egress control : ce pod ne peut sortir que vers api.exemple.com (Cilium) », « filtrer par nom de domaine DNS (pas juste IP) : Cilium DNS-aware » · **Cross-refs** : 1721, 1203, 1644 · **Tags** : 2027
+
+## 1733. 🛡 eBPF et sécurité applicative : WAF dans le noyau (2027)
+
+- **Fichier** : `skills/1733-ebpf-et-securite-applicative-waf-dans-le-noyau-2027.md` · **Mot-clé** : « eBPF XDP TC noyau filtrage paquets DDoS L3 L4 WAF noyau 2027 blacklist IP drop avant stack réseau » · **Nom court** : eBPF WAF
+- **Signal** : Filtrer au niveau noyau avec eBPF (1720) en 2027 en complément du WAF applicatif (1451) : XDP pour dropper les paquets (DDoS L3-L4, IPs blacklistées) avant même la stack réseau, eBPF sur TC pour des règles L4 fines. Le WAF L7 (SQLi, XSS) reste applicatif (1451/1452 CSP). Utilise pour la protection DDoS volumineuse à bas coût. N'utilise pas pour remplacer le WAF L7. · **Synonymes** : « dropper les paquets d'une IP blacklistée dans le noyau (XDP) », « DDoS volumineux : filtrer en XDP avant la stack réseau (eBPF) », « WAF L7 (SQLi) reste applicatif 1451 », « eBPF fait le L3-L4 » · **Cross-refs** : 1720, 1451, 1132 · **Tags** : 2027
+
+## 1736. 🛡 Securite du code genere par IA : revue, licences, fuite de donnees (2027)
+
+- **Fichier** : `skills/1736-securite-du-code-genere-par-ia-revue-licences-fuite-de-d.md` · **Mot-clé** : « sécurité code généré IA 2027 revue PR 1401 SAST CI 1658 secrets prompts 1440 licence 1177 résidence code HIPAA self-host » · **Nom court** : Code IA sûr
+- **Signal** : Sécuriser le code généré par IA en 2027 (92 % des devs utilisent un assistant, blindspot n°1 OWASP 2026 1646) : revue humaine systématique des PR IA (1401), SAST en CI (1658), jamais de secrets/données perso dans les prompts (1440), licence du code généré vérifiée (1177), outil choisi selon la résidence du code (Windsurf/Devin HIPAA-FedRAMP, DeepSeek self-host 1633, autres = serveurs tiers), pas d'upload de code propriétaire sur des outils gratuits. N'utilise pas l'IA pour du code critique sans revue. · **Synonymes** : « mon code part sur les serveurs de l'outil IA gratuit (fuite) », « revue systématique des PR générées par IA (1401) + SAST (1658) », « licence du code généré (1177) + pas de secrets dans les prompts (1440) » · **Cross-refs** : 1646, 1401, 1658 · **Tags** : 2027
+
+## 1778. 🛡️ Pourquoi Rust réduit les CVE mémoire du noyau (2027)
+
+- **Fichier** : `skills/1778-pourquoi-rust-reduit-les-cve-memoire-du-noyau-2027.md` · **Mot-clé** : « Rust elimine 70 % des CVE memoire noyau use-after-free buffer overflow borrow checker 2027 » · **Nom court** : Rust anti-CVE mémoire
+- **Signal** : En 2027, environ 70 % des CVE du noyau Linux sont des bugs mémoire (use-after-free, buffer overflow, double free) — la classe que Rust elimine par construction (borrow checker, pas de null, pas de data race). Utilise pour justifier Rust sur les nouveaux drivers exposés (réseau, USB, GPU = surface d'attaque). N'utilise pas pour dire que Rust elimine 100 % des bugs (logique métier comprise). · **Synonymes** : « 70 % des CVE kernel sont des bugs memoire que Rust elimine par construction », « use-after-free et buffer overflow impossibles en Rust safe », « Rust safe n'elimine pas les bugs de logique metier » · **Cross-refs** : 1770, 1776, 1790 · **Tags** : 2027
+
+## 1786. 🔐 OAuth 2.0 dans PostgreSQL 18 : bearer tokens JWT
+
+- **Fichier** : `skills/1786-oauth-2-0-dans-postgresql-18-bearer-tokens-jwt.md` · **Mot-clé** : « PostgreSQL 18 OAuth 2.0 bearer token JWT IdP Keycloak JWKS validation signature aud exp role 2027 » · **Nom court** : PG18 OAuth 2.0
+- **Signal** : PG18 supporte OAuth 2.0 pour l'authentification des connexions : le client presente un bearer token JWT emis par un IdP (Keycloak, Auth0, Entra ID), PG valide la signature (JWKS), l'expiration, l'audience (aud) et les claims (rôle = mapping PG). Remplace les mots de passe en base pour les applis. N'utilise pas sans verifier la confiance dans l'IdP et la rotation des cles (JWKS). · **Synonymes** : « se connecter a PG18 avec un JWT bearer token de Keycloak », « pg_hba.conf : hostssl ... oauth issuer jwks audience », « mapper le claim role du JWT vers le role PG (ex. app_readonly) » · **Cross-refs** : 1780, 1788, 1790 · **Tags** : 2027
+
+## 1788. 🔒 Durcissement sécurité de PostgreSQL 18 (2027)
+
+- **Fichier** : `skills/1788-durcissement-securite-de-postgresql-18-2027.md` · **Mot-clé** : « durcir PostgreSQL 18 SCRAM-SHA-256 TLS 1.3 RLS row level security pg_audit pg_hba hostssl 2027 » · **Nom court** : Durcissement PG18
+- **Signal** : Durcir PG18 en 2027 : SCRAM-SHA-256 par defaut pour les mots de passe (md5 desactive), TLS 1.3 min pour les connexions (ssl_min_protocol_version), row-level security (RLS) sur les tables multi-tenant, pg_hba restrictif (hostssl uniquement), audit pg_audit, et OAuth 2.0 (1786) pour les applis. N'utilise pas de connexions en clair (hostnossl interdit). · **Synonymes** : « SCRAM-SHA-256 par defaut PG18 », « md5 desactive », « ssl_min_protocol_version = TLSv1.3 dans postgresql.conf », « RLS row level security sur table multi-tenant + policy » · **Cross-refs** : 1786, 1780, 1790 · **Tags** : 2027
+
+## 1790. 🧾 Inventaire cryptographique (CBOM) et plan de migration PQC (2027)
+
+- **Fichier** : `skills/1790-inventaire-cryptographique-cbom-et-plan-de-migration-pqc.md` · **Mot-clé** : « inventaire cryptographique CBOM migration PQC ANSSI 2027 qualification HNDL harvest now decrypt later roadmap UE 2030 » · **Nom court** : CBOM & plan PQC
+- **Signal** : Préparer la migration post-quantique en 2027 : dresser l'inventaire de toute la cryptographie asymétrique utilisée (CBOM cryptographique : PKI, certificats X.509, TLS, VPN, SSH, signatures de code, HSM) et classer par risque. Contexte : l'ANSSI n'acceptera plus en qualification de produits SANS PQC a partir de 2027, échéance 2030 pour les systèmes a haut risque (roadmap UE). Menace 'Harvest Now, Decrypt Later' : les données chiffrées aujourd'hui peuvent être déchiffrées plus tard par un ordinateur quantique. · **Synonymes** : « inventaire de toute la crypto asymétrique : PKI TLS VPN SSH certificats HSM (CBOM) », « ANSSI : plus de qualification sans PQC a partir de 2027 », « haut risque 2030 », « Harvest Now Decrypt Later : chiffrer aujourd'hui ne protege pas contre le quantique de demain » · **Cross-refs** : 1791, 1792, 1788 · **Tags** : 2027
+
+## 1791. 🔒 TLS 1.3 hybride X25519MLKEM768 (PQC ready, 2027)
+
+- **Fichier** : `skills/1791-tls-1-3-hybride-x25519mlkem768-pqc-ready-2027.md` · **Mot-clé** : « TLS 1.3 hybride X25519MLKEM768 ML-KEM-768 FIPS 203 Chrome Firefox OpenSSL 3.5 BoringSSL Cloudflare PQC 2027 » · **Nom court** : TLS hybride PQC
+- **Signal** : Déployer en 2027 le TLS 1.3 hybride post-quantique : echange de cles X25519 (classique) + ML-KEM-768 (PQC, FIPS 203) dans le meme handshake, groupe 'X25519MLKEM768'. Supporté par Chrome, Firefox, OpenSSL 3.5+, BoringSSL, Cloudflare. Protection : si ML-KEM est cassé, X25519 tient ; si un ordinateur quantique casse X25519, ML-KEM tient. Coût : handshake légèrement plus gros (clés PQC volumineuses). N'utilise pas le PQC seul (hybride obligatoire pendant la transition, ANSSI). · **Synonymes** : « activer X25519MLKEM768 dans nginx/Apache/OpenSSL 3.5 pour le TLS 1.3 hybride », « handshake hybride : X25519 + ML-KEM-768 », « protection dans les deux mondes », « clés PQC volumineuses : handshake plus gros », « acceptable en 2027 » · **Cross-refs** : 1790, 1792, 1788 · **Tags** : 2027
+
+## 1792. ✍️ Signatures post-quantiques ML-DSA et certificats X.509 hybrides (2027)
+
+- **Fichier** : `skills/1792-signatures-post-quantiques-ml-dsa-et-certificats-x-509-h.md` · **Mot-clé** : « signature PQC ML-DSA-65 FN-DSA SLH-DSA FIPS 204 205 certificat X.509 hybride ECDSA+ML-DSA OpenSSL 3.5 2027 » · **Nom court** : Signatures PQC
+- **Signal** : En 2027, signer avec des algorithmes post-quantiques : ML-DSA-65 (FIPS 204, ex-Dilithium) ou FN-DSA (FALCON, clés plus petites) pour les signatures, SLH-DSA (FIPS 205) comme secours base sur les fonctions de hachage. Mode hybride ANSSI : ECDSA + ML-DSA dans le meme certificat X.509 (double signature), supporté par OpenSSL 3.5 (openssl genpkey -algorithm ML-DSA-65). Utilise pour le code signé, les documents, les certificats internes. N'utilise pas le PQC seul en attendant la maturité des audits. · **Synonymes** : « signer un binaire avec ML-DSA-65 (openssl genpkey -algorithm ML-DSA-65) », « certificat X.509 hybride : double signature ECDSA + ML-DSA », « FN-DSA pour des cles plus petites que ML-DSA », « SLH-DSA en secours » · **Cross-refs** : 1790, 1791, 1788 · **Tags** : 2027
 

@@ -1,5 +1,6 @@
 ---
 num: 994
+date_ajout: "2026-11"
 nom: "Souscrire une assurance voyage/rapatriement 2027"
 emoji: "🛡️"
 domaine: "Personnel"

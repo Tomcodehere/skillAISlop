@@ -1,5 +1,6 @@
 ---
 num: 1417
+date_ajout: "2026-11"
 nom: "Alerting sans bruit : alert fatigue (2027)"
 emoji: "🔔"
 domaine: "Développement"

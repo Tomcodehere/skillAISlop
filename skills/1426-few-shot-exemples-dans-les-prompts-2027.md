@@ -1,5 +1,6 @@
 ---
 num: 1426
+date_ajout: "2026-11"
 nom: "Few-shot : exemples dans les prompts (2027)"
 emoji: "📝"
 domaine: "IA / Prompting"

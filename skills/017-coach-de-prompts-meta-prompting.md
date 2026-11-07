@@ -1,5 +1,6 @@
 ---
 num: 17
+date_ajout: "2026-11"
 nom: "Coach de prompts (meta-prompting)"
 emoji: "🎯"
 domaine: "IA / Prompting"

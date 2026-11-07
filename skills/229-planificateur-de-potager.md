@@ -1,5 +1,6 @@
 ---
 num: 229
+date_ajout: "2026-11"
 nom: "Planificateur de potager"
 emoji: "🌻"
 domaine: "Personnel"

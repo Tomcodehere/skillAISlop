@@ -1,5 +1,6 @@
 ---
 num: 1491
+date_ajout: "2026-11"
 nom: "Budgeter une feature IA : cout par requete et par utilisateur (2027)"
 emoji: "💰"
 domaine: "Produit & IA"

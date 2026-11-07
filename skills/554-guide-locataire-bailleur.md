@@ -1,5 +1,6 @@
 ---
 num: 554
+date_ajout: "2026-11"
 nom: "Guide locataire & bailleur"
 emoji: "🔑"
 domaine: "Juridique"

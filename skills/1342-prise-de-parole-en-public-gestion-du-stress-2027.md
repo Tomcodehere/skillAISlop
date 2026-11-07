@@ -1,5 +1,6 @@
 ---
 num: 1342
+date_ajout: "2026-11"
 nom: "Prise de parole en public & gestion du stress (2027)"
 emoji: "🎤"
 domaine: "Communication"

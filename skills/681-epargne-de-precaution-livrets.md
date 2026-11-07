@@ -1,5 +1,6 @@
 ---
 num: 681
+date_ajout: "2026-11"
 nom: "Épargne de précaution & livrets"
 emoji: "🐷"
 domaine: "Finance"

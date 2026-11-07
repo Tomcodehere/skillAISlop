@@ -1,5 +1,6 @@
 ---
 num: 821
+date_ajout: "2026-11"
 nom: "Revue de PR automatisée par agent"
 emoji: "👀"
 domaine: "Développement"

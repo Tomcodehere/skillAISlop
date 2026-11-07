@@ -1,5 +1,6 @@
 ---
 num: 1495
+date_ajout: "2026-11"
 nom: "Accessibilite des animations (prefers-reduced-motion, 2027)"
 emoji: "🎬"
 domaine: "Design"

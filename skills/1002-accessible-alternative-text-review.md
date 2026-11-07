@@ -1,5 +1,6 @@
 ---
 num: 1002
+date_ajout: "2026-11"
 nom: "Accessible Alternative Text Review"
 emoji: "🧠"
 domaine: "IA / Prompting"

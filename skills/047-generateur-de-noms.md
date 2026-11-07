@@ -1,5 +1,6 @@
 ---
 num: 47
+date_ajout: "2026-11"
 nom: "Générateur de noms"
 emoji: "🏷️"
 domaine: "Créativité"

@@ -1,5 +1,6 @@
 ---
 num: 426
+date_ajout: "2026-11"
 nom: "Cartographe des parties prenantes"
 emoji: "🍜"
 domaine: "Gestion"

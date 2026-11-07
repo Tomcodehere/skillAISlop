@@ -1,5 +1,6 @@
 ---
 num: 1684
+date_ajout: "2026-11"
 nom: "Préparer l'Annexe III haut risque : deadline 2 décembre 2027 (2027)"
 emoji: "⏳"
 domaine: "Juridique"

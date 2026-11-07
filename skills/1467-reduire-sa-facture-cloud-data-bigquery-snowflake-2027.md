@@ -1,5 +1,6 @@
 ---
 num: 1467
+date_ajout: "2026-11"
 nom: "Reduire sa facture cloud data (BigQuery, Snowflake, 2027)"
 emoji: "💸"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 630
+date_ajout: "2026-11"
 nom: "Maintien à domicile des seniors"
 emoji: "🧓"
 domaine: "Personnel"

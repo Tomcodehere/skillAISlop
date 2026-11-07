@@ -1,5 +1,6 @@
 ---
 num: 849
+date_ajout: "2026-11"
 nom: "Visio pro à fort enjeu (vente, entretien)"
 emoji: "🎥"
 domaine: "Communication"

@@ -1,5 +1,6 @@
 ---
 num: 365
+date_ajout: "2026-11"
 nom: "Producteur de carrousels éditoriaux"
 emoji: "🌹"
 domaine: "Marketing"

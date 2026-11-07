@@ -1,5 +1,6 @@
 ---
 num: 1641
+date_ajout: "2026-11"
 nom: "Post-quantum (PQC) : inventaire crypto et ML-KEM (2027)"
 emoji: "🔐"
 domaine: "Sécurité"

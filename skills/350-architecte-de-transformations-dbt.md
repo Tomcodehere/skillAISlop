@@ -1,5 +1,6 @@
 ---
 num: 350
+date_ajout: "2026-11"
 nom: "Architecte de transformations dbt"
 emoji: "🪚"
 domaine: "Data"

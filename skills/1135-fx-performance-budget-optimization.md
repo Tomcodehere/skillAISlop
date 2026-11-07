@@ -1,5 +1,6 @@
 ---
 num: 1135
+date_ajout: "2026-11"
 nom: "FX Performance Budget Optimization"
 emoji: "🎨"
 domaine: "Design"

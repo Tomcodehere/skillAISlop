@@ -1,5 +1,6 @@
 ---
 num: 799
+date_ajout: "2026-11"
 nom: "Lancement de produit & go-to-market"
 emoji: "🚀"
 domaine: "Marketing"

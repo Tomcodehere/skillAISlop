@@ -1,5 +1,6 @@
 ---
 num: 1330
+date_ajout: "2026-11"
 nom: "Préparation d'un déménagement local (2027)"
 emoji: "📦"
 domaine: "Personnel"

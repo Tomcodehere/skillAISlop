@@ -1,5 +1,6 @@
 ---
 num: 440
+date_ajout: "2026-11"
 nom: "Chasseur de menaces"
 emoji: "🦅"
 domaine: "Sécurité"

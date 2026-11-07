@@ -1,5 +1,6 @@
 ---
 num: 768
+date_ajout: "2026-11"
 nom: "Méthodologie de dissertation & essai"
 emoji: "📝"
 domaine: "Apprentissage"

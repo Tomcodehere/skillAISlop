@@ -1,5 +1,6 @@
 ---
 num: 619
+date_ajout: "2026-11"
 nom: "Syndrome de l'imposteur"
 emoji: "🎭"
 domaine: "Personnel"

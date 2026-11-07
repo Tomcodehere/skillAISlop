@@ -1,5 +1,6 @@
 ---
 num: 1009
+date_ajout: "2026-11"
 nom: "Adaptive Audio Implementation"
 emoji: "💻"
 domaine: "Développement"

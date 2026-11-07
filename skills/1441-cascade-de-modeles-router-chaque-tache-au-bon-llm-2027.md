@@ -1,5 +1,6 @@
 ---
 num: 1441
+date_ajout: "2026-11"
 nom: "Cascade de modeles : router chaque tache au bon LLM (2027)"
 emoji: "🔀"
 domaine: "IA / Prompting"

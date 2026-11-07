@@ -1,5 +1,6 @@
 ---
 num: 248
+date_ajout: "2026-11"
 nom: "Gardien de l'équilibre pro-perso"
 emoji: "☯️"
 domaine: "Personnel"

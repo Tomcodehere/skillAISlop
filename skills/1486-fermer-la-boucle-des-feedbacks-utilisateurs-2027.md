@@ -1,5 +1,6 @@
 ---
 num: 1486
+date_ajout: "2026-11"
 nom: "Fermer la boucle des feedbacks utilisateurs (2027)"
 emoji: "🔁"
 domaine: "Produit"

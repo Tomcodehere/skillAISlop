@@ -1,5 +1,6 @@
 ---
 num: 404
+date_ajout: "2026-11"
 nom: "Rédacteur de messages de changement"
 emoji: "🍒"
 domaine: "Communication"

@@ -1,5 +1,6 @@
 ---
 num: 539
+date_ajout: "2026-11"
 nom: "Pilote de vault Obsidian"
 emoji: "🗿"
 domaine: "Productivité"

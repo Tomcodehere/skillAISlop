@@ -1,5 +1,6 @@
 ---
 num: 1658
+date_ajout: "2026-11"
 nom: "DevSecOps 2027 : SAST, DAST, SCA et secrets en CI (2027)"
 emoji: "🔒"
 domaine: "Sécurité"

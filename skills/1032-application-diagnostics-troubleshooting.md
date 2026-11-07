@@ -1,5 +1,6 @@
 ---
 num: 1032
+date_ajout: "2026-11"
 nom: "Application Diagnostics & Troubleshooting"
 emoji: "💻"
 domaine: "Développement"

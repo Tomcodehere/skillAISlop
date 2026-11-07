@@ -1,5 +1,6 @@
 ---
 num: 1408
+date_ajout: "2026-11"
 nom: "Gestion propre des erreurs et exceptions (2027)"
 emoji: "⚠️"
 domaine: "Développement"

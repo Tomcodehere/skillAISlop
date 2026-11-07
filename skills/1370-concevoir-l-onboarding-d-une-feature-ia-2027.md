@@ -1,5 +1,6 @@
 ---
 num: 1370
+date_ajout: "2026-11"
 nom: "Concevoir l'onboarding d'une feature IA (2027)"
 emoji: "🚪"
 domaine: "Produit & IA"

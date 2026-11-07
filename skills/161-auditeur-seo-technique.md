@@ -1,5 +1,6 @@
 ---
 num: 161
+date_ajout: "2026-11"
 nom: "Auditeur SEO technique"
 emoji: "🚩"
 domaine: "Marketing"

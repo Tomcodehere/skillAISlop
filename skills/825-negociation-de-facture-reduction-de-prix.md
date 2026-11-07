@@ -1,5 +1,6 @@
 ---
 num: 825
+date_ajout: "2026-11"
 nom: "Négociation de facture / réduction de prix"
 emoji: "🏷️"
 domaine: "Vente"

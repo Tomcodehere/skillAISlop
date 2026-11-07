@@ -1,5 +1,6 @@
 ---
 num: 1033
+date_ajout: "2026-11"
 nom: "Application Migration Data Transfer"
 emoji: "🤖"
 domaine: "Data & IA"

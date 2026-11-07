@@ -1,5 +1,6 @@
 ---
 num: 1482
+date_ajout: "2026-11"
 nom: "Mesurer l'impact metier d'une feature (2027)"
 emoji: "📏"
 domaine: "Produit"

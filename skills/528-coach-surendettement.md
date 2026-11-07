@@ -1,5 +1,6 @@
 ---
 num: 528
+date_ajout: "2026-11"
 nom: "Coach surendettement"
 emoji: "💸"
 domaine: "Finance"

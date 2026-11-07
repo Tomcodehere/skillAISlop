@@ -1,5 +1,6 @@
 ---
 num: 793
+date_ajout: "2026-11"
 nom: "Gestion de projet agile (Scrum)"
 emoji: "🏃"
 domaine: "Gestion"

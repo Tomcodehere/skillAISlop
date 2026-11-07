@@ -1,5 +1,6 @@
 ---
 num: 1679
+date_ajout: "2026-11"
 nom: "Choisir sa vector DB en 2027 : pgvector, Qdrant, Milvus, Weaviate, LanceDB (2027)"
 emoji: "🧮"
 domaine: "Data & IA"

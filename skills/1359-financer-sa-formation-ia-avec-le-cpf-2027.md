@@ -1,5 +1,6 @@
 ---
 num: 1359
+date_ajout: "2026-11"
 nom: "Financer sa formation IA avec le CPF (2027)"
 emoji: "💶"
 domaine: "Formation"

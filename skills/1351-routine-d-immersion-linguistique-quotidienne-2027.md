@@ -1,5 +1,6 @@
 ---
 num: 1351
+date_ajout: "2026-11"
 nom: "Routine d'immersion linguistique quotidienne (2027)"
 emoji: "🏠"
 domaine: "Langues"

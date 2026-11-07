@@ -1,5 +1,6 @@
 ---
 num: 1181
+date_ajout: "2026-11"
 nom: "Localization Context Adaptation"
 emoji: "🎨"
 domaine: "Design"

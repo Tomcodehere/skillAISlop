@@ -1,5 +1,6 @@
 ---
 num: 1091
+date_ajout: "2026-11"
 nom: "Corporate & Litigation Risk Management"
 emoji: "🎨"
 domaine: "Design"

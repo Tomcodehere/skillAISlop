@@ -1,5 +1,6 @@
 ---
 num: 1201
+date_ajout: "2026-11"
 nom: "MySQL Query Optimization"
 emoji: "💻"
 domaine: "Développement"

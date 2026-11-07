@@ -1,5 +1,6 @@
 ---
 num: 1420
+date_ajout: "2026-11"
 nom: "SQL avance : fonctions fenetres (window functions, 2027)"
 emoji: "🪟"
 domaine: "Développement"

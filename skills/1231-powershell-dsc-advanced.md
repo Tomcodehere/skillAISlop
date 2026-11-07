@@ -1,5 +1,6 @@
 ---
 num: 1231
+date_ajout: "2026-11"
 nom: "PowerShell DSC Advanced"
 emoji: "💻"
 domaine: "Développement"

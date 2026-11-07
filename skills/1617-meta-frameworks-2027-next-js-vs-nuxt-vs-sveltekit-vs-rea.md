@@ -1,5 +1,6 @@
 ---
 num: 1617
+date_ajout: "2026-11"
 nom: "Meta-frameworks 2027 : Next.js vs Nuxt vs SvelteKit vs React Router (2027)"
 emoji: "⚖️"
 domaine: "Développement"

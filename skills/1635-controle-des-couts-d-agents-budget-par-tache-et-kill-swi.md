@@ -1,5 +1,6 @@
 ---
 num: 1635
+date_ajout: "2026-11"
 nom: "Controle des couts d'agents : budget par tache et kill switch entreprise (2027)"
 emoji: "💸"
 domaine: "Produit & IA"

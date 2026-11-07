@@ -1,5 +1,6 @@
 ---
 num: 61
+date_ajout: "2026-11"
 nom: "Avocat du diable"
 emoji: "😈"
 domaine: "Décision"

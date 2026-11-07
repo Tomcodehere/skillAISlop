@@ -1,5 +1,6 @@
 ---
 num: 1301
+date_ajout: "2026-11"
 nom: "Vector Illustration Construction"
 emoji: "🎨"
 domaine: "Créativité"

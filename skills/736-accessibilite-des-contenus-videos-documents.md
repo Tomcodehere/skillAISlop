@@ -1,5 +1,6 @@
 ---
 num: 736
+date_ajout: "2026-11"
 nom: "Accessibilité des contenus (vidéos, documents)"
 emoji: "🦻"
 domaine: "Design"

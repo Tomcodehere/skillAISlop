@@ -1,5 +1,6 @@
 ---
 num: 288
+date_ajout: "2026-11"
 nom: "Concepteur d'agent vocal IVR"
 emoji: "🎺"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1435
+date_ajout: "2026-11"
 nom: "A/B testing de prompts en production (2027)"
 emoji: "⚖️"
 domaine: "IA / Prompting"

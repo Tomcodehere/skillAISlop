@@ -1,5 +1,6 @@
 ---
 num: 606
+date_ajout: "2026-11"
 nom: "Chef de sprint dette technique"
 emoji: "🧰"
 domaine: "Développement"

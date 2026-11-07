@@ -1,5 +1,6 @@
 ---
 num: 860
+date_ajout: "2026-11"
 nom: "Courses & liste de courses intelligente"
 emoji: "🛒"
 domaine: "Personnel"

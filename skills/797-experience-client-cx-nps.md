@@ -1,5 +1,6 @@
 ---
 num: 797
+date_ajout: "2026-11"
 nom: "Expérience client (CX) & NPS"
 emoji: "⭐"
 domaine: "Vente"

@@ -1,5 +1,6 @@
 ---
 num: 1060
+date_ajout: "2026-11"
 nom: "Calibration Confiance Décisionnelle"
 emoji: "🧠"
 domaine: "IA / Prompting"

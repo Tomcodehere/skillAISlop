@@ -1,5 +1,6 @@
 ---
 num: 935
+date_ajout: "2026-11"
 nom: "Anah & rénovation globale 2027 (recentrage PLF 2027)"
 emoji: "🏡"
 domaine: "Finance"

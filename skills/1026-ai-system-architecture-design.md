@@ -1,5 +1,6 @@
 ---
 num: 1026
+date_ajout: "2026-11"
 nom: "AI System Architecture Design"
 emoji: "💻"
 domaine: "Développement"

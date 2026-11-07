@@ -1,5 +1,6 @@
 ---
 num: 491
+date_ajout: "2026-11"
 nom: "Curateur de vocabulaire thématique"
 emoji: "🍺"
 domaine: "Langues"

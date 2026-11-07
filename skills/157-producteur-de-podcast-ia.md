@@ -1,5 +1,6 @@
 ---
 num: 157
+date_ajout: "2026-11"
 nom: "Producteur de podcast IA"
 emoji: "🎧"
 domaine: "Créativité"

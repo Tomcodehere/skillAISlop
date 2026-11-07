@@ -1,5 +1,6 @@
 ---
 num: 1438
+date_ajout: "2026-11"
 nom: "Deployer un SLM on-device (mobile/edge, 2027)"
 emoji: "📱"
 domaine: "IA / Prompting"

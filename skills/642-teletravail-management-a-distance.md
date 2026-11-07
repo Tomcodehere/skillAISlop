@@ -1,5 +1,6 @@
 ---
 num: 642
+date_ajout: "2026-11"
 nom: "Télétravail & management à distance"
 emoji: "🏠"
 domaine: "RH & formation"

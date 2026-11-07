@@ -1,5 +1,6 @@
 ---
 num: 1100
+date_ajout: "2026-11"
 nom: "Data Retention Policy Design"
 emoji: "🤖"
 domaine: "Data & IA"

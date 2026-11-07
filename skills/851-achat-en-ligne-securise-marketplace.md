@@ -1,5 +1,6 @@
 ---
 num: 851
+date_ajout: "2026-11"
 nom: "Achat en ligne sécurisé (marketplace)"
 emoji: "🛒"
 domaine: "Personnel"

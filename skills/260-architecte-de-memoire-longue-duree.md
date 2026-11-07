@@ -1,5 +1,6 @@
 ---
 num: 260
+date_ajout: "2026-11"
 nom: "Architecte de mémoire longue durée"
 emoji: "💾"
 domaine: "IA / Prompting"

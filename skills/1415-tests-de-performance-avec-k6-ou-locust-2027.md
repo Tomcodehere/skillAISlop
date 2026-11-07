@@ -1,5 +1,6 @@
 ---
 num: 1415
+date_ajout: "2026-11"
 nom: "Tests de performance avec k6 ou Locust (2027)"
 emoji: "🚀"
 domaine: "Développement"

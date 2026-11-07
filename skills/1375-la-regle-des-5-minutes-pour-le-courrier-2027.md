@@ -1,5 +1,6 @@
 ---
 num: 1375
+date_ajout: "2026-11"
 nom: "La regle des 5 minutes pour le courrier (2027)"
 emoji: "⏱"
 domaine: "Bureau"

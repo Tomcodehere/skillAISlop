@@ -1,5 +1,6 @@
 ---
 num: 1224
+date_ajout: "2026-11"
 nom: "Pathfinding, Navigation & Perception"
 emoji: "💻"
 domaine: "Développement"

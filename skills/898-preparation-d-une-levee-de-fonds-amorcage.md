@@ -1,5 +1,6 @@
 ---
 num: 898
+date_ajout: "2026-11"
 nom: "Préparation d'une levée de fonds (amorçage)"
 emoji: "🚀"
 domaine: "Stratégie"

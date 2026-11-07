@@ -1,5 +1,6 @@
 ---
 num: 1036
+date_ajout: "2026-11"
 nom: "APT and Pacman Recovery Planning"
 emoji: "📋"
 domaine: "Gestion"

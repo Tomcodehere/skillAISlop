@@ -1,5 +1,6 @@
 ---
 num: 1369
+date_ajout: "2026-11"
 nom: "Ecrire la vision produit d'une feature IA (2027)"
 emoji: "🔭"
 domaine: "Produit & IA"

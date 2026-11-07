@@ -1,5 +1,6 @@
 ---
 num: 210
+date_ajout: "2026-11"
 nom: "Facilitateur de décisions collectives"
 emoji: "🫱"
 domaine: "Gestion"

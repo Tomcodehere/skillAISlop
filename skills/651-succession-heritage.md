@@ -1,5 +1,6 @@
 ---
 num: 651
+date_ajout: "2026-11"
 nom: "Succession & héritage"
 emoji: "🏛️"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 891
+date_ajout: "2026-11"
 nom: "Préparation d'une cession / transmission d'entreprise"
 emoji: "🏢"
 domaine: "Gestion"

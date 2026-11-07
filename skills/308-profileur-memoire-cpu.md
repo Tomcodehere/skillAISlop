@@ -1,5 +1,6 @@
 ---
 num: 308
+date_ajout: "2026-11"
 nom: "Profileur mémoire & CPU"
 emoji: "⏲"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 359
+date_ajout: "2026-11"
 nom: "Rédacteur de SMS & messages courts"
 emoji: "🌴"
 domaine: "Marketing"

@@ -1,5 +1,6 @@
 ---
 num: 1237
+date_ajout: "2026-11"
 nom: "Product Prioritization Decision"
 emoji: "📦"
 domaine: "Produit"

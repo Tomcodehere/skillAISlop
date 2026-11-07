@@ -1,5 +1,6 @@
 ---
 num: 786
+date_ajout: "2026-11"
 nom: "Assurances professionnelles (RC Pro, décennale)"
 emoji: "🛡️"
 domaine: "Juridique"

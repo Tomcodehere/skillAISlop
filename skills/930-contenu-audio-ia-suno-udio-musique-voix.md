@@ -1,5 +1,6 @@
 ---
 num: 930
+date_ajout: "2026-11"
 nom: "Contenu audio IA (Suno/Udio) : musique & voix"
 emoji: "🎵"
 domaine: "Créativité"

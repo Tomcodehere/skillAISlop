@@ -1,5 +1,6 @@
 ---
 num: 1101
+date_ajout: "2026-11"
 nom: "Data Stewardship Responsibility Design"
 emoji: "💻"
 domaine: "Développement"

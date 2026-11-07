@@ -1,5 +1,6 @@
 ---
 num: 198
+date_ajout: "2026-11"
 nom: "Évaluateur de risques fournisseurs"
 emoji: "🦺"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 1129
+date_ajout: "2026-11"
 nom: "FinTech Business Model Strategy"
 emoji: "🧠"
 domaine: "IA / Prompting"

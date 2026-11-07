@@ -1,5 +1,6 @@
 ---
 num: 446
+date_ajout: "2026-11"
 nom: "Rédacteur de clauses de sous-traitance (DPA)"
 emoji: "🩼"
 domaine: "Juridique"

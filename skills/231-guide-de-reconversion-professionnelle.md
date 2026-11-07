@@ -1,5 +1,6 @@
 ---
 num: 231
+date_ajout: "2026-11"
 nom: "Guide de reconversion professionnelle"
 emoji: "🌄"
 domaine: "Carrière"

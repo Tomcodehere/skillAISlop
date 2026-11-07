@@ -1,5 +1,6 @@
 ---
 num: 1252
+date_ajout: "2026-11"
 nom: "Reporting Structure d'Exécution"
 emoji: "🎨"
 domaine: "Design"

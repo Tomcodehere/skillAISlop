@@ -1,5 +1,6 @@
 ---
 num: 1501
+date_ajout: "2026-11"
 nom: "Boucle de jeu fixe : fixed timestep et interpolation (2027)"
 emoji: "⏱️"
 domaine: "Game Dev"

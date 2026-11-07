@@ -1,5 +1,6 @@
 ---
 num: 1639
+date_ajout: "2026-11"
 nom: "Prompt-to-prod : de l'idee au deploiement surveille d'un agent (2027)"
 emoji: "🚀"
 domaine: "Produit & IA"

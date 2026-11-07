@@ -1,5 +1,6 @@
 ---
 num: 462
+date_ajout: "2026-11"
 nom: "Rédacteur de guides de migration clients"
 emoji: "🍨"
 domaine: "Produit"

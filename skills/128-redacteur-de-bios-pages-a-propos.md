@@ -1,5 +1,6 @@
 ---
 num: 128
+date_ajout: "2026-11"
 nom: "Rédacteur de bios & pages « à propos »"
 emoji: "🪪"
 domaine: "Communication"

@@ -1,5 +1,6 @@
 ---
 num: 93
+date_ajout: "2026-11"
 nom: "Modélisateur prédictif"
 emoji: "🎲"
 domaine: "Data"

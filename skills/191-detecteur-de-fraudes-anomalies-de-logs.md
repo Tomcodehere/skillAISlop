@@ -1,5 +1,6 @@
 ---
 num: 191
+date_ajout: "2026-11"
 nom: "Détecteur de fraudes & anomalies de logs"
 emoji: "🚔"
 domaine: "Sécurité"

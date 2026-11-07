@@ -1,5 +1,6 @@
 ---
 num: 1592
+date_ajout: "2026-11"
 nom: "CI/CD pour un jeu : builds auto multi-plateformes (2027)"
 emoji: "🔄"
 domaine: "Game Dev"

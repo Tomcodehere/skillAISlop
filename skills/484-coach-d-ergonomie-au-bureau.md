@@ -1,5 +1,6 @@
 ---
 num: 484
+date_ajout: "2026-11"
 nom: "Coach d'ergonomie au bureau"
 emoji: "🤸"
 domaine: "Personnel"

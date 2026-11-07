@@ -1,5 +1,6 @@
 ---
 num: 916
+date_ajout: "2026-11"
 nom: "Régulation nerveuse & micro-rituels 2027"
 emoji: "🧘"
 domaine: "Personnel"

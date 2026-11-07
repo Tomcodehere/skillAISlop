@@ -1,5 +1,6 @@
 ---
 num: 339
+date_ajout: "2026-11"
 nom: "Testeur fantôme d'agents"
 emoji: "🌦"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1511
+date_ajout: "2026-11"
 nom: "Mouvement 8 directions et dash (2027)"
 emoji: "💨"
 domaine: "Game Dev"

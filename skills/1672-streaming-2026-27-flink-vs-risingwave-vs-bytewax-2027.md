@@ -1,5 +1,6 @@
 ---
 num: 1672
+date_ajout: "2026-11"
 nom: "Streaming 2026-27 : Flink vs RisingWave vs Bytewax (2027)"
 emoji: "⏩"
 domaine: "Data"

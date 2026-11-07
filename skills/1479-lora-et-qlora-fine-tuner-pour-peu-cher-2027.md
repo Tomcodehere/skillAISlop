@@ -1,5 +1,6 @@
 ---
 num: 1479
+date_ajout: "2026-11"
 nom: "LoRA et QLoRA : fine-tuner pour peu cher (2027)"
 emoji: "💰"
 domaine: "Data & IA"

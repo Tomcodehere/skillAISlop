@@ -1,5 +1,6 @@
 ---
 num: 85
+date_ajout: "2026-11"
 nom: "Architecte d'infrastructure as code"
 emoji: "🛠️"
 domaine: "Développement"

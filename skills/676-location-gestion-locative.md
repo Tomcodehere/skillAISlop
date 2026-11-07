@@ -1,5 +1,6 @@
 ---
 num: 676
+date_ajout: "2026-11"
 nom: "Location & gestion locative"
 emoji: "🔑"
 domaine: "Juridique"

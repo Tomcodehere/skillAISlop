@@ -1,5 +1,6 @@
 ---
 num: 1081
+date_ajout: "2026-11"
 nom: "Component Dependency Conformance"
 emoji: "💻"
 domaine: "Développement"

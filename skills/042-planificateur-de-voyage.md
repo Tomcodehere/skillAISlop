@@ -1,5 +1,6 @@
 ---
 num: 42
+date_ajout: "2026-11"
 nom: "Planificateur de voyage"
 emoji: "🧳"
 domaine: "Personnel"

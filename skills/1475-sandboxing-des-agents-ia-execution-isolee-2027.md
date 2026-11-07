@@ -1,5 +1,6 @@
 ---
 num: 1475
+date_ajout: "2026-11"
 nom: "Sandboxing des agents IA (execution isolee, 2027)"
 emoji: "🏖️"
 domaine: "Data & IA"

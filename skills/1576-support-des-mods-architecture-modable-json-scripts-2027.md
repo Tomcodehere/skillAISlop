@@ -1,5 +1,6 @@
 ---
 num: 1576
+date_ajout: "2026-11"
 nom: "Support des mods : architecture modable (JSON, scripts, 2027)"
 emoji: "🦩"
 domaine: "Game Dev"

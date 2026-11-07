@@ -1,5 +1,6 @@
 ---
 num: 222
+date_ajout: "2026-11"
 nom: "Orchestrateur domotique"
 emoji: "📶"
 domaine: "Personnel"

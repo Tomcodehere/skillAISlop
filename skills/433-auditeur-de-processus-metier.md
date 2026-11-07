@@ -1,5 +1,6 @@
 ---
 num: 433
+date_ajout: "2026-11"
 nom: "Auditeur de processus métier"
 emoji: "🎡"
 domaine: "Gestion"

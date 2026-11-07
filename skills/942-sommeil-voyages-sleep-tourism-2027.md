@@ -1,5 +1,6 @@
 ---
 num: 942
+date_ajout: "2026-11"
 nom: "Sommeil & voyages (sleep tourism) 2027"
 emoji: "🛏️"
 domaine: "Personnel"

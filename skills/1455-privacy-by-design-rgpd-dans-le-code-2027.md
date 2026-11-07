@@ -1,5 +1,6 @@
 ---
 num: 1455
+date_ajout: "2026-11"
 nom: "Privacy by design : RGPD dans le code (2027)"
 emoji: "⚖️"
 domaine: "Sécurité"

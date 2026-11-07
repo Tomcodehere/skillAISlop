@@ -1,5 +1,6 @@
 ---
 num: 64
+date_ajout: "2026-11"
 nom: "Critique UX d'interface"
 emoji: "🧐"
 domaine: "Design"

@@ -1,6 +1,6 @@
 # skillAISlop — skillAISlop (skillAISlop)
 
-Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-18 du 2026-11-02 au 2026-11-07) : **1700 sections** (1699 skills + routeur 0, numérotées 0-1699) organisées en **29 domaines**, avec catalogue, routeur SQL et outils d'audit.
+Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-19 du 2026-11-02 au 2026-11-07) : **1800 sections** (1799 skills + routeur 0, numérotées 0-1799) organisées en **29 domaines**, avec catalogue, routeur SQL et outils d'audit.
 
 ## Installation rapide & branchement sur ton agent
 
@@ -29,7 +29,7 @@ Pour un **pack autonome** distribuable à d'autres projets : `data/skillaislop-p
 
 | Chemin | Contenu |
 |---|---|
-| `skills/` | 1700 fichiers `.md` (une skill = un fichier, frontmatter YAML) |
+| `skills/` | 1800 fichiers `.md` (une skill = un fichier, frontmatter YAML avec `date_ajout: "YYYY-MM"`) |
 | `catalogue/` | sommaire, règles R1-R11, template, utilisation, sources, vue d'ensemble |
 | `outils/` | `routage.py` (routeur SQL hybride FTS5 + sqlite-vec, repli gracieux si l'extension est absente), `audit_conformite.py` |
 | `data/` | catalogues JSON + `sonde-rapport.md` (rapport de couverture) |
@@ -47,9 +47,31 @@ Pour un **pack autonome** distribuable à d'autres projets : `data/skillaislop-p
 
 ## Vérifications
 
-- `build` ✅ (1699 skills + routeur · 29 domaines · 2298 synonymes · 1700 vecteurs sqlite-vec)
-- `test` ✅ **449/449**
-- `lint` ✅ aucun problème
+- `build` ✅ (1799 skills + routeur · 29 domaines · 2604 synonymes · 1800 vecteurs sqlite-vec)
+- `test` ✅ **1547/1547**
+- `lint` ✅ aucun problème (+ `date_ajout` YYYY-MM vérifié sur 1800/1800 skills)
+- `golden` ✅ **198/198** requêtes stables
 - `route "IoT"` → exit 2 (faux positif corrigé) ✅
 - `route "domotique"` → skill 222 ✅
-- `sonde` → **1058/1058 couverts (100 %), 0 partiel, 0 gap** ✅
+- `sonde` → **1964/1964 couverts (100 %), 0 partiel, 0 gap** ✅
+- `audit_conformite` ✅ **1799/1799 conformes (100 %)** · `score_skills` moyenne **100,0/100** · `evals` **1546/1546** (966 skills)
+
+## Mes skills perso (`mesSkillsPerso/`)
+
+Dépose tes propres fichiers `.md` dans `mesSkillsPerso/` : ils **restent dans ce
+dossier**, ne sont **jamais écrasés à l'upgrade** (le pack n'embarque que le
+README du dossier), sont **convertis automatiquement au format TEMPLATE-v2**
+(frontmatter + `date_ajout: "YYYY-MM"` + 12 sections) au prochain `build`, et
+vivent dans leur **propre table** `skills_perso` de `skills.db`. Au routage, ils
+sont **prioritaires** sur le catalogue dès qu'ils cadrent avec la demande
+(`⭐ Perso Pn · mesSkillsPerso/<fichier>`, exit 0).
+
+```bash
+python3 outils/routage.py perso --add ma-skill.md   # copie dans mesSkillsPerso/
+python3 outils/routage.py build                      # conversion auto + ingestion
+python3 outils/routage.py perso                      # liste (P1, P2…)
+python3 outils/routage.py route "perso 2"           # renvoi direct
+python3 outils/routage.py route "ma demande"         # ⭐ Perso prioritaire si ça cadre
+```
+
+Doc complète : [documentations/skillsdocs/SKILLS-PERSO.md](documentations/skillsdocs/SKILLS-PERSO.md).

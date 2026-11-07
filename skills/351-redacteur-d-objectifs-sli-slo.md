@@ -1,5 +1,6 @@
 ---
 num: 351
+date_ajout: "2026-11"
 nom: "Rédacteur d'objectifs SLI/SLO"
 emoji: "🚥"
 domaine: "Data"

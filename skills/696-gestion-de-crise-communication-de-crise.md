@@ -1,5 +1,6 @@
 ---
 num: 696
+date_ajout: "2026-11"
 nom: "Gestion de crise & communication de crise"
 emoji: "🚨"
 domaine: "Communication"

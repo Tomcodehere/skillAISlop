@@ -1,5 +1,6 @@
 ---
 num: 1389
+date_ajout: "2026-11"
 nom: "Eviter les biais de confirmation dans sa recherche d'info (2027)"
 emoji: "🪞"
 domaine: "Recherche"

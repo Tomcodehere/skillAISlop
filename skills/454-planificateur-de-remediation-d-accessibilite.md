@@ -1,5 +1,6 @@
 ---
 num: 454
+date_ajout: "2026-11"
 nom: "Planificateur de remédiation d'accessibilité"
 emoji: "🦮"
 domaine: "Design"

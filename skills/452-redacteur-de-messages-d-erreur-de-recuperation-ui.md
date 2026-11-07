@@ -1,5 +1,6 @@
 ---
 num: 452
+date_ajout: "2026-11"
 nom: "Rédacteur de messages d'erreur & de récupération UI"
 emoji: "🍥"
 domaine: "Design"

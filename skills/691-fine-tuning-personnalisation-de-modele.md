@@ -1,5 +1,6 @@
 ---
 num: 691
+date_ajout: "2026-11"
 nom: "Fine-tuning & personnalisation de modèle"
 emoji: "🎛️"
 domaine: "IA / Prompting"

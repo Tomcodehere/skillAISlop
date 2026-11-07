@@ -1,5 +1,6 @@
 ---
 num: 889
+date_ajout: "2026-11"
 nom: "Préparation d'un CSE (élections)"
 emoji: "🗳️"
 domaine: "RH & formation"

@@ -1,5 +1,6 @@
 ---
 num: 695
+date_ajout: "2026-11"
 nom: "Données personnelles & RGPD au quotidien"
 emoji: "🔒"
 domaine: "Juridique"

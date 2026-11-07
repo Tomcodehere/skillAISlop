@@ -1,5 +1,6 @@
 ---
 num: 328
+date_ajout: "2026-11"
 nom: "Architecte de routines d'agents"
 emoji: "🌜"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1379
+date_ajout: "2026-11"
 nom: "Gerer une procuration en ligne (2027)"
 emoji: "✍"
 domaine: "Bureau"

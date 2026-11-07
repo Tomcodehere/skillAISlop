@@ -1,5 +1,6 @@
 ---
 num: 1220
+date_ajout: "2026-11"
 nom: "Package Management Best Practices"
 emoji: "💻"
 domaine: "Développement"

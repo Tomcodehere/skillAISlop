@@ -1,5 +1,6 @@
 ---
 num: 262
+date_ajout: "2026-11"
 nom: "Contrôleur qualité de SKILL.md"
 emoji: "🧑‍⚖️"
 domaine: "IA / Prompting"

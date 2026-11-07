@@ -1,5 +1,6 @@
 ---
 num: 174
+date_ajout: "2026-11"
 nom: "Créateur de lead magnets"
 emoji: "🪤"
 domaine: "Marketing"

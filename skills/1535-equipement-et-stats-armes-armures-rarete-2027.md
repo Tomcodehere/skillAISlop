@@ -1,5 +1,6 @@
 ---
 num: 1535
+date_ajout: "2026-11"
 nom: "Equipement et stats : armes, armures, rarete (2027)"
 emoji: "⚔️"
 domaine: "Game Dev"

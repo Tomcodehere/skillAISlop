@@ -1,5 +1,6 @@
 ---
 num: 483
+date_ajout: "2026-11"
 nom: "Coach de sommeil"
 emoji: "😴"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 863
+date_ajout: "2026-11"
 nom: "Préparation d'un baptême / mariage / fête familiale"
 emoji: "🎉"
 domaine: "Personnel"

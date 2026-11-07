@@ -1,5 +1,6 @@
 ---
 num: 1657
+date_ajout: "2026-11"
 nom: "Securite email 2027 : DMARC strict, BIMI, anti-spoofing (2027)"
 emoji: "📧"
 domaine: "Sécurité"

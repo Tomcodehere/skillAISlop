@@ -1,5 +1,6 @@
 ---
 num: 445
+date_ajout: "2026-11"
 nom: "Auditeur de sécurité physique"
 emoji: "🪬"
 domaine: "Sécurité"

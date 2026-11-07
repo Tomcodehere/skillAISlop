@@ -1,5 +1,6 @@
 ---
 num: 419
+date_ajout: "2026-11"
 nom: "Concepteur de canaux de feedback anonyme"
 emoji: "🤫"
 domaine: "RH & formation"

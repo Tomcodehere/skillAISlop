@@ -1,5 +1,6 @@
 ---
 num: 1113
+date_ajout: "2026-11"
 nom: "Dynamic Web Scraping (Playwright/Selenium)"
 emoji: "💻"
 domaine: "Développement"

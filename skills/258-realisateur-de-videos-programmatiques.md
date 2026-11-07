@@ -1,5 +1,6 @@
 ---
 num: 258
+date_ajout: "2026-11"
 nom: "Réalisateur de vidéos programmatiques"
 emoji: "📹"
 domaine: "Créativité"

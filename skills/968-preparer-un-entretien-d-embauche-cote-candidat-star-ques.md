@@ -1,5 +1,6 @@
 ---
 num: 968
+date_ajout: "2026-11"
 nom: "Préparer un entretien d'embauche côté candidat (STAR + questions)"
 emoji: "🎯"
 domaine: "Carrière"

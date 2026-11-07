@@ -1,5 +1,6 @@
 ---
 num: 312
+date_ajout: "2026-11"
 nom: "Docteur de README"
 emoji: "🌎"
 domaine: "Développement"
@@ -9,6 +10,7 @@ nom_court: "README"
 branche: "D15"
 synonymes: []
 cross_refs: [23, 311, 316]
+depends_on: [1746]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

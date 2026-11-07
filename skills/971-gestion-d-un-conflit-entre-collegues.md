@@ -1,5 +1,6 @@
 ---
 num: 971
+date_ajout: "2026-11"
 nom: "Gestion d'un conflit entre collègues"
 emoji: "🕊️"
 domaine: "Communication"

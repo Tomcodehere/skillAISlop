@@ -1,5 +1,6 @@
 ---
 num: 1424
+date_ajout: "2026-11"
 nom: "Validation des donnees et contraintes BDD (2027)"
 emoji: "🛡"
 domaine: "Développement"

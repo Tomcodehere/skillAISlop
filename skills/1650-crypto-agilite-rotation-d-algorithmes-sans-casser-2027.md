@@ -1,5 +1,6 @@
 ---
 num: 1650
+date_ajout: "2026-11"
 nom: "Crypto agilite : rotation d'algorithmes sans casser (2027)"
 emoji: "🔄"
 domaine: "Sécurité"

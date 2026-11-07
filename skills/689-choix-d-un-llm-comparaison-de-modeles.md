@@ -1,5 +1,6 @@
 ---
 num: 689
+date_ajout: "2026-11"
 nom: "Choix d'un LLM & comparaison de modèles"
 emoji: "🤖"
 domaine: "IA / Prompting"

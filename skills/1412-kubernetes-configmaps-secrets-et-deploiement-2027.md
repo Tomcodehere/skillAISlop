@@ -1,5 +1,6 @@
 ---
 num: 1412
+date_ajout: "2026-11"
 nom: "Kubernetes : ConfigMaps, secrets et deploiement (2027)"
 emoji: "☸️"
 domaine: "Développement"

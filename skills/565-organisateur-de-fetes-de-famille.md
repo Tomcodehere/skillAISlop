@@ -1,5 +1,6 @@
 ---
 num: 565
+date_ajout: "2026-11"
 nom: "Organisateur de fêtes de famille"
 emoji: "🎉"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 553
+date_ajout: "2026-11"
 nom: "Guide des licences open source"
 emoji: "⚖️"
 domaine: "Juridique"

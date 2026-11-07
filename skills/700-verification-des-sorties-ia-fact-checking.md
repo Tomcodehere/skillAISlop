@@ -1,5 +1,6 @@
 ---
 num: 700
+date_ajout: "2026-11"
 nom: "Vérification des sorties IA (fact-checking)"
 emoji: "🔍"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 782
+date_ajout: "2026-11"
 nom: "Migration de données & changement d'outil"
 emoji: "🚚"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 196
+date_ajout: "2026-11"
 nom: "Gestionnaire de registres RGPD"
 emoji: "📁"
 domaine: "Juridique"

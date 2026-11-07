@@ -1,5 +1,6 @@
 ---
 num: 448
+date_ajout: "2026-11"
 nom: "Rédacteur de NDA sur mesure"
 emoji: "🤐"
 domaine: "Juridique"

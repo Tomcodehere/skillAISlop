@@ -1,5 +1,6 @@
 ---
 num: 213
+date_ajout: "2026-11"
 nom: "Générateur de flashcards"
 emoji: "🎴"
 domaine: "Apprentissage"

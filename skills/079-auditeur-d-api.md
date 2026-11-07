@@ -1,5 +1,6 @@
 ---
 num: 79
+date_ajout: "2026-11"
 nom: "Auditeur d'API"
 emoji: "🛣️"
 domaine: "Développement"

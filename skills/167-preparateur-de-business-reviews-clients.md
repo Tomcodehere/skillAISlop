@@ -1,5 +1,6 @@
 ---
 num: 167
+date_ajout: "2026-11"
 nom: "Préparateur de business reviews clients"
 emoji: "📆"
 domaine: "Vente"

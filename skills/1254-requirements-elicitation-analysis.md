@@ -1,5 +1,6 @@
 ---
 num: 1254
+date_ajout: "2026-11"
 nom: "Requirements Elicitation & Analysis"
 emoji: "🎨"
 domaine: "Design"

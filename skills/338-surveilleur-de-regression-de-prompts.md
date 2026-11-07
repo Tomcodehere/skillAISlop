@@ -1,5 +1,6 @@
 ---
 num: 338
+date_ajout: "2026-11"
 nom: "Surveilleur de régression de prompts"
 emoji: "🌥"
 domaine: "IA / Prompting"

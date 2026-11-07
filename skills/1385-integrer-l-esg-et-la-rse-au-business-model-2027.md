@@ -1,5 +1,6 @@
 ---
 num: 1385
+date_ajout: "2026-11"
 nom: "Integrer l'ESG et la RSE au business model (2027)"
 emoji: "🌱"
 domaine: "Stratégie"

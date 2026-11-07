@@ -1,5 +1,6 @@
 ---
 num: 1463
+date_ajout: "2026-11"
 nom: "Warehouse vs data lake vs lakehouse (2027)"
 emoji: "🏔️"
 domaine: "Data"

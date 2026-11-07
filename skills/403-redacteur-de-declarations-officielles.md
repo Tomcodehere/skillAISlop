@@ -1,5 +1,6 @@
 ---
 num: 403
+date_ajout: "2026-11"
 nom: "Rédacteur de déclarations officielles"
 emoji: "🍑"
 domaine: "Communication"

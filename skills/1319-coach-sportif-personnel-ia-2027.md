@@ -1,5 +1,6 @@
 ---
 num: 1319
+date_ajout: "2026-11"
 nom: "Coach sportif personnel IA (2027)"
 emoji: "🏋️"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 277
+date_ajout: "2026-11"
 nom: "Rédacteur d'auto-évaluation annuelle"
 emoji: "🥇"
 domaine: "RH & formation"

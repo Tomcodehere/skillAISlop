@@ -1,5 +1,6 @@
 ---
 num: 1523
+date_ajout: "2026-11"
 nom: "Stealth : ligne de vue et cone de vision avances (2027)"
 emoji: "🕶️"
 domaine: "Game Dev"

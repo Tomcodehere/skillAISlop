@@ -1,5 +1,6 @@
 ---
 num: 439
+date_ajout: "2026-11"
 nom: "Planificateur de tests d'intrusion"
 emoji: "🗡"
 domaine: "Sécurité"

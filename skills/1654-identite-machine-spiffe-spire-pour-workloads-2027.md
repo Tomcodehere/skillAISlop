@@ -1,5 +1,6 @@
 ---
 num: 1654
+date_ajout: "2026-11"
 nom: "Identite machine : SPIFFE/SPIRE pour workloads (2027)"
 emoji: "🖥️"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 1066
+date_ajout: "2026-11"
 nom: "Claim-Source Evidence Matrix"
 emoji: "🔬"
 domaine: "Recherche"

@@ -1,5 +1,6 @@
 ---
 num: 297
+date_ajout: "2026-11"
 nom: "Assembleur de dossier fiscal"
 emoji: "🉐"
 domaine: "Finance"

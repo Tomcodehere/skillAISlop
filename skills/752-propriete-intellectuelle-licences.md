@@ -1,5 +1,6 @@
 ---
 num: 752
+date_ajout: "2026-11"
 nom: "Propriété intellectuelle & licences"
 emoji: "©️"
 domaine: "Juridique"

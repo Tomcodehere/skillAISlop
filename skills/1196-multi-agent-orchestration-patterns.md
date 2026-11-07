@@ -1,5 +1,6 @@
 ---
 num: 1196
+date_ajout: "2026-11"
 nom: "Multi-Agent Orchestration Patterns"
 emoji: "🧠"
 domaine: "IA / Prompting"

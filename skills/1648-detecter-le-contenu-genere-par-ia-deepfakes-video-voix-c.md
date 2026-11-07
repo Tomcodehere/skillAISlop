@@ -1,5 +1,6 @@
 ---
 num: 1648
+date_ajout: "2026-11"
 nom: "Detecter le contenu genere par IA : deepfakes video, voix clonee (2027)"
 emoji: "🎥"
 domaine: "Sécurité"

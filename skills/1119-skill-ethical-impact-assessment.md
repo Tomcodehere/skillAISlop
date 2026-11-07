@@ -1,5 +1,6 @@
 ---
 num: 1119
+date_ajout: "2026-11"
 nom: "Skill: Ethical Impact Assessment"
 emoji: "🧠"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 806
+date_ajout: "2026-11"
 nom: "Détecteur de bullshit (bullshit-detector)"
 emoji: "🚨"
 domaine: "Recherche"

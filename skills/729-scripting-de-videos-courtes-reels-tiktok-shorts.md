@@ -1,5 +1,6 @@
 ---
 num: 729
+date_ajout: "2026-11"
 nom: "Scripting de vidéos courtes (Reels/TikTok/Shorts)"
 emoji: "🎥"
 domaine: "Marketing"

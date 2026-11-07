@@ -1,5 +1,6 @@
 ---
 num: 1322
+date_ajout: "2026-11"
 nom: "Conseiller cadeaux IA (2027)"
 emoji: "🎁"
 domaine: "Personnel"

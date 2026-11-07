@@ -1,5 +1,6 @@
 ---
 num: 932
+date_ajout: "2026-11"
 nom: "EES : contrôle biométrique aux frontières Schengen"
 emoji: "🛂"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 1456
+date_ajout: "2026-11"
 nom: "Securiser une app mobile (pinning, stockage, 2027)"
 emoji: "📱"
 domaine: "Sécurité"

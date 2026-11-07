@@ -1,5 +1,6 @@
 ---
 num: 186
+date_ajout: "2026-11"
 nom: "Planificateur de tracking analytics"
 emoji: "🔭"
 domaine: "Data"

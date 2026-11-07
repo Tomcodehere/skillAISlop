@@ -1,5 +1,6 @@
 ---
 num: 285
+date_ajout: "2026-11"
 nom: "Traqueur d'action items de réunions"
 emoji: "📍"
 domaine: "Productivité"

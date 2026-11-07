@@ -1,5 +1,6 @@
 ---
 num: 83
+date_ajout: "2026-11"
 nom: "Transpileur de code"
 emoji: "🔄"
 domaine: "Développement"

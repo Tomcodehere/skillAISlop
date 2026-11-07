@@ -1,5 +1,6 @@
 ---
 num: 125
+date_ajout: "2026-11"
 nom: "Rédacteur de livres blancs"
 emoji: "📗"
 domaine: "Marketing"

@@ -1,5 +1,6 @@
 ---
 num: 827
+date_ajout: "2026-11"
 nom: "Impayé de loyer (propriétaire)"
 emoji: "🔑"
 domaine: "Juridique"

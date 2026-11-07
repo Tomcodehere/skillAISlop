@@ -1,5 +1,6 @@
 ---
 num: 1490
+date_ajout: "2026-11"
 nom: "Moderation hybride des sorties IA (humain + LLM, 2027)"
 emoji: "🛡"
 domaine: "Produit & IA"

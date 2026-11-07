@@ -1,5 +1,6 @@
 ---
 num: 1371
+date_ajout: "2026-11"
 nom: "Mesurer l'adoption d'une feature IA (2027)"
 emoji: "📈"
 domaine: "Produit & IA"

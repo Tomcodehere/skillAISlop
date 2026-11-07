@@ -1,5 +1,6 @@
 ---
 num: 1439
+date_ajout: "2026-11"
 nom: "UX du streaming des reponses LLM (2027)"
 emoji: "⏩️"
 domaine: "IA / Prompting"

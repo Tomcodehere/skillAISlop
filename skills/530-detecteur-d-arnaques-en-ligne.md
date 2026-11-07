@@ -1,5 +1,6 @@
 ---
 num: 530
+date_ajout: "2026-11"
 nom: "Détecteur d'arnaques en ligne"
 emoji: "🕵️"
 domaine: "Personnel"

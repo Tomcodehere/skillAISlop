@@ -1,5 +1,6 @@
 ---
 num: 716
+date_ajout: "2026-11"
 nom: "Audit de sécurité d'une skill (SKILL.md)"
 emoji: "🛡️"
 domaine: "Sécurité"

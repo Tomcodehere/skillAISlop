@@ -1,5 +1,6 @@
 ---
 num: 163
+date_ajout: "2026-11"
 nom: "Stratège de lancement produit"
 emoji: "🎉"
 domaine: "Marketing"

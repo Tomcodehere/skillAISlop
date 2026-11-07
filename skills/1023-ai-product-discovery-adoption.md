@@ -1,5 +1,6 @@
 ---
 num: 1023
+date_ajout: "2026-11"
 nom: "AI Product Discovery & Adoption"
 emoji: "📦"
 domaine: "Produit"

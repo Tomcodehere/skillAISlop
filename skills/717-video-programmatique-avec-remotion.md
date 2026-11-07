@@ -1,5 +1,6 @@
 ---
 num: 717
+date_ajout: "2026-11"
 nom: "Vidéo programmatique avec Remotion"
 emoji: "🎬"
 domaine: "Créativité"

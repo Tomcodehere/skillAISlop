@@ -1,5 +1,6 @@
 ---
 num: 1037
+date_ajout: "2026-11"
 nom: "Architecture Quality Scenario"
 emoji: "💻"
 domaine: "Développement"

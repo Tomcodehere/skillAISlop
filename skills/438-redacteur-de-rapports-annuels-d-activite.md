@@ -1,5 +1,6 @@
 ---
 num: 438
+date_ajout: "2026-11"
 nom: "Rédacteur de rapports annuels d'activité"
 emoji: "🍢"
 domaine: "Gestion"

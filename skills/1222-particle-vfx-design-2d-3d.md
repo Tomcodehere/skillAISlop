@@ -1,5 +1,6 @@
 ---
 num: 1222
+date_ajout: "2026-11"
 nom: "Particle VFX Design 2D/3D"
 emoji: "💻"
 domaine: "Développement"

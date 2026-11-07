@@ -1,5 +1,6 @@
 ---
 num: 319
+date_ajout: "2026-11"
 nom: "Architecte de files d'attente & jobs asynchrones"
 emoji: "🐰"
 domaine: "Développement"

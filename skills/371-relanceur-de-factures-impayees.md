@@ -1,5 +1,6 @@
 ---
 num: 371
+date_ajout: "2026-11"
 nom: "Relanceur de factures impayées"
 emoji: "💢"
 domaine: "Vente"

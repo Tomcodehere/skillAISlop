@@ -1,5 +1,6 @@
 ---
 num: 1147
+date_ajout: "2026-11"
 nom: "Gestion Echecs & Rollback"
 emoji: "🧠"
 domaine: "IA / Prompting"

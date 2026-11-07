@@ -1,5 +1,6 @@
 ---
 num: 746
+date_ajout: "2026-11"
 nom: "Email marketing & séquences automatisées"
 emoji: "📧"
 domaine: "Marketing"

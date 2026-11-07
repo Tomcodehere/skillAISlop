@@ -1,5 +1,6 @@
 ---
 num: 1029
+date_ajout: "2026-11"
 nom: "Anti-Bot Evasion & Scraping Best Practices"
 emoji: "💻"
 domaine: "Développement"

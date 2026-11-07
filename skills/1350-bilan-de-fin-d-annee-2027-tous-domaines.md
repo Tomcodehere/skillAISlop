@@ -1,5 +1,6 @@
 ---
 num: 1350
+date_ajout: "2026-11"
 nom: "Bilan de fin d'année 2027 (tous domaines)"
 emoji: "✅"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 1492
+date_ajout: "2026-11"
 nom: "Kill switch d'une feature IA (desactivation propre, 2027)"
 emoji: "🔴"
 domaine: "Produit & IA"

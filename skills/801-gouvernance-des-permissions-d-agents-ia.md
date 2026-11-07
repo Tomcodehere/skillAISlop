@@ -1,5 +1,6 @@
 ---
 num: 801
+date_ajout: "2026-11"
 nom: "Gouvernance des permissions d'agents IA"
 emoji: "🔐"
 domaine: "Sécurité"

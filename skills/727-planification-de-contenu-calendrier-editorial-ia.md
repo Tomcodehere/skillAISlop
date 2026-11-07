@@ -1,5 +1,6 @@
 ---
 num: 727
+date_ajout: "2026-11"
 nom: "Planification de contenu & calendrier éditorial IA"
 emoji: " 🗓️"
 domaine: "Marketing"

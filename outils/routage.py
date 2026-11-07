@@ -1949,7 +1949,7 @@ SYNONYMES = [
     ("hitstop freeze 50 ms à l'impact", 1559),
     ("flash blanc + particules + son à chaque hit", 1559),
     ("états Idle Run Jump Attack avec transitions", 1560),
-    ("condition vitesse > 0,1 passe en Run", 1560),
+    ("condition vitesse superieure a 0,1 passe en Run", 1560),
     ("crossfade 0,1 s entre deux animations", 1560),
     ("9 clips (idle + 8 directions) interpolés selon X Y", 1561),
     ("déplacement 3D fluide selon la direction de la caméra", 1561),
@@ -2029,7 +2029,7 @@ SYNONYMES = [
     ("throttling thermique après 10 min de jeu", 1585),
     ("IL2CPP au lieu de Mono (build plus lent mais app plus rapide)", 1586),
     ("Addressables pour des patchs de 5 Mo au lieu de 200 Mo", 1586),
-    ("taille de l'app < 150 Mo (ASTC + OGG + stripping)", 1586),
+    ("taille de l'app inferieure a 150 Mo (ASTC + OGG + stripping)", 1586),
     ("demander le kit de dev Nintendo/Sony/Microsoft", 1587),
     ("certification TRC (Nintendo) / XR (Xbox) : checklist 2 semaines", 1587),
     ("Switch : 30 fps et 4 Go de RAM partagés, UI manette TV", 1587),
@@ -2369,6 +2369,312 @@ SYNONYMES = [
     ("5 outils d'observabilité data qui se contredisent, unifier (2027)", 1699),
     ("Monte Carlo ou Datafold : monitoring ML des pipelines", 1699),
     ("corrélation incident qualité (1675) ↔ trace OTel (1680) ↔ lineage (1466)", 1699),
+    ("monter une plateforme interne développeurs (IDP) 2027", 1700),
+    ("Backstage CNCF portail développeur 3400 orgs", 1700),
+    ("golden paths : nouveau service en minutes pas en jours", 1700),
+    ("golden path : nouveau service en 1 clic dans l'IDP", 1701),
+    ("couvrir 80 % des cas en golden paths, le reste en dérogation documentée", 1701),
+    ("réduire la charge cognitive des devs (Team Topologies)", 1701),
+    ("déployer Backstage (CNCF) self-host : catalogue + Scaffolder + TechDocs", 1702),
+    ("Backstage 3400 orgs 1200 plugins 89% pénétration IDP 2027", 1702),
+    ("Port/Cortex/Humanitec : IDP managé sans équipe dédiée", 1702),
+    ("je veux une Postgres managée : un claim YAML (Crossplane)", 1703),
+    ("Crossplane vs Terraform : l'infra en CRD k8s (GitOps)", 1703),
+    ("XRD/CompositeResource : composer les ressources (BDD + bucket + user)", 1703),
+    ("déployer sur k8s via PR Git (Argo CD) pas de kubectl apply manuel", 1704),
+    ("Argo CD vs Flux choisir 2027 (CNCF graduated)", 1704),
+    ("rollback = git revert (l'état revient à la version Git)", 1704),
+    ("bloquer un pod sans resource limits (Kyverno) en admission", 1705),
+    ("Kyverno (YAML) vs OPA/Gatekeeper (Rego) choisir 2027", 1705),
+    ("policy enforce (bloque) vs warn (log) + audit des violations existantes", 1705),
+    ("lead time commit→prod sous 4 h en 2027 (DORA)", 1706),
+    ("change failure rate sous 5 % mesuré", 1706),
+    ("DORA jamais pour évaluer des individus (équipe uniquement)", 1706),
+    ("équipe platform dédiée à l'IDP (Team Topologies)", 1707),
+    ("stream-aligned : équipe produit autonome de bout en bout", 1707),
+    ("charge cognitive : enquête interne sur la complexité perçue", 1707),
+    ("demander un service en langage naturel dans l'IDP (92 % des CIO 2027)", 1708),
+    ("l'IDP génère repo + CI + k8s depuis un golden path", 1708),
+    ("l'IA génère, l'humain valide la PR (1401) avant merge", 1708),
+    ("combien coûte une IDP en 2027 (3-6 ing/an self-host vs licence managée)", 1709),
+    ("gains IDP : lead time 2-5j à 4h, déploiements x3-5, tickets -70%", 1709),
+    ("présenter l'IDP au comité financier avec les métriques DORA 1706", 1709),
+    ("Port ou Cortex managé : scorecards et catalogue auto en semaines", 1710),
+    ("Humanitec : orchestrateur multi-cluster (Kratix promises)", 1710),
+    ("Backstage sans équipe dédiée = portail vide, choisir managé", 1710),
+    ("scorecard par service : bronze/argent/or (observabilité, sécurité, SLO)", 1711),
+    ("Port/Cortex scorecards automatiques 2027", 1711),
+    ("jamais de scorecard sur des personnes, uniquement des services", 1711),
+    ("mesurer la productivité dev avec SPACE (5 dimensions, pas 1 métrique)", 1712),
+    ("jamais le nombre de commits seul (anti-métrique)", 1712),
+    ("DORA (1706) + enquêtes + flow = SPACE complet", 1712),
+    ("nouveau dev : premier commit en prod le jour 1", 1713),
+    ("environnement en 1 commande (devcontainer/docker compose 1109)", 1713),
+    ("accès lecture seule d'abord, droits progressifs, buddy 234", 1713),
+    ("l'environnement de dev marche en 1 clic (devcontainer)", 1714),
+    (".devcontainer/devcontainer.json : image + extensions + postCreateCommand seed BDD", 1714),
+    ("GitHub Codespaces : le devcontainer dans le cloud", 1714),
+    ("la doc développeur vit dans le repo (docs/), rendue dans Backstage TechDocs", 1715),
+    ("même PR pour code et doc (jamais de wiki qui pourrit)", 1715),
+    ("recherche globale dans toute la doc interne (TechDocs)", 1715),
+    ("une 'promise' Kratix = contrat d'infra (redis, env prod) réalisé sur chaque cluster", 1716),
+    ("Kratix + state store S3 : la promise se propage sur 10 clusters", 1716),
+    ("Kratix vs Crossplane : multi-cluster (Kratix) vs single (Crossplane 1703)", 1716),
+    ("roadmap IDP par trimestre : v1 catalogue+golden path, v2 self-service, v3 IA", 1717),
+    ("traiter l'IDP comme un produit interne (clients = devs, NPS)", 1717),
+    ("métriques à chaque version : DORA 1706 + adoption % + NPS", 1717),
+    ("accès au portail IDP via SSO + passkeys (1643)", 1718),
+    ("service-to-service en mTLS (SPIFFE 1655), pas de clés longues", 1718),
+    ("CI : OIDC (pas de clés cloud en dur) + runners éphémères", 1718),
+    ("changelog mensuel de l'IDP (1578) + démo trimestrielle aux devs", 1719),
+    ("canal #platform dédié + FAQ vivante (119)", 1719),
+    ("roadmap publique (1717) + NPS interne 2x/an (1712)", 1719),
+    ("exécuter du code dans le noyau Linux sans le recompiler (eBPF)", 1720),
+    ("eBPF standard en 2026 : Meta Google Netflix Cloudflare l'utilisent", 1720),
+    ("kernel 5.8 minimum 5.15+ idéal pour eBPF (uname -r)", 1720),
+    ("remplacer kube-proxy/iptables par Cilium (eBPF) en 2027", 1721),
+    ("Cilium NetworkPolicy L7 : filtrer sur méthode HTTP path header", 1721),
+    ("Hubble : carte des flux réseau en temps réel + Cilium service mesh sans sidecar -50%", 1721),
+    ("service map temps réel : quel pod parle à quel pod (Hubble)", 1722),
+    ("filtrer les flux par méthode HTTP path ou topic Kafka (Hubble)", 1722),
+    ("métriques de flux (bytes drops retransmits) exportées vers Grafana 1416", 1722),
+    ("détecter un shell ouvert dans un conteneur (Falco, syscall execve)", 1723),
+    ("lire /etc/shadow depuis un pod = alerte immédiate (Falco)", 1723),
+    ("Falco eBPF (kernel 5.8+) plutôt que module kernel en prod", 1723),
+    ("tracer une appli legacy sans toucher au code (Pixie/Beyla eBPF)", 1724),
+    ("Beyla : OTel auto pour n'importe quel langage (Go Rust Java Python)", 1724),
+    ("Pixie : requêtes SQL live + service map k8s sans SDK (1680)", 1724),
+    ("bloquer (pas juste alerter) un binaire dans un conteneur (Tetragon)", 1725),
+    ("TracingPolicy : interdire l'exec de /tmp/x, le write sur /etc, la connexion vers IP externe", 1725),
+    ("Tetragon (Cilium) vs Falco (1723) : enforce vs detect", 1725),
+    ("compter les syscalls par process en 1 ligne (bpftrace)", 1726),
+    ("mesurer la latence des reads disque en live (bpftrace)", 1726),
+    ("qui ouvre /etc/passwd en ce moment ? (bpftrace)", 1726),
+    ("supprimer les sidecars Envoy (Istio) : Cilium Service Mesh eBPF (-50 % ressources)", 1727),
+    ("mTLS automatique entre pods sans rien configurer (Cilium)", 1727),
+    ("L7 routing (retries, circuit breaker) dans le noyau, pas dans un proxy", 1727),
+    ("passer la certification Cilium CCAE en 2027 (eBPF, Cilium)", 1728),
+    ("CKA/CKS (609) puis CCAE : la roadmap réseau k8s 2027", 1728),
+    ("cilium bpf policy list / cilium service list : les commandes de l'exam", 1728),
+    ("quels outils eBPF adopter en entreprise en 2027 (pas 15)", 1729),
+    ("overhead eBPF inferieur a 5% de CPU mesuré avant adoption", 1729),
+    ("Cilium enterprise (Isovalent/Cisco) vs open source : le TCO", 1729),
+    ("load balancer kernel bypass (XDP eBPF) : Katran (Meta) 2027", 1730),
+    ("maglev consistent hashing : même backend pour le même client", 1730),
+    ("Katran vs ALB/NLB cloud : L4 pur ultra-perf vs managé L7", 1730),
+    ("qui fait les I/O disque et avec quelle latence ? (eBPF)", 1731),
+    ("latence des reads par device (nvme0 vs sda) en live (eBPF)", 1731),
+    ("fichiers les plus lus sur le serveur (eBPF, pas iostat)", 1731),
+    ("chaque pod a une identité réseau (pas une IP qui tourne) : Cilium eBPF", 1732),
+    ("egress control : ce pod ne peut sortir que vers api.exemple.com (Cilium)", 1732),
+    ("filtrer par nom de domaine DNS (pas juste IP) : Cilium DNS-aware", 1732),
+    ("dropper les paquets d'une IP blacklistée dans le noyau (XDP)", 1733),
+    ("DDoS volumineux : filtrer en XDP avant la stack réseau (eBPF)", 1733),
+    ("WAF L7 (SQLi) reste applicatif 1451, eBPF fait le L3-L4", 1733),
+    ("pourquoi eBPF plutôt qu'un module kernel en 2027 (pas de panic)", 1734),
+    ("module kernel = un bug = kernel panic (risque)", 1734),
+    ("eBPF par défaut, module seulement pour les drivers/subsystems", 1734),
+    ("quel outil IA pour coder en 2027 (Cursor vs Claude Code vs Copilot vs Devin)", 1735),
+    ("Copilot Business 19 $/siège + crédits depuis juin 2026", 1735),
+    ("Claude Code CLI : SWE-bench 88,6 %, Opus 4.7 64,3 % SWE-bench Pro (avril 2026)", 1735),
+    ("mon code part sur les serveurs de l'outil IA gratuit (fuite)", 1736),
+    ("revue systématique des PR générées par IA (1401) + SAST (1658)", 1736),
+    ("licence du code généré (1177) + pas de secrets dans les prompts (1440)", 1736),
+    ("refacto de 50 fichiers avec Claude Code (plan mode) en CLI", 1737),
+    ("/loop : tâches récurrentes programmées dans Claude Code (cron 2026)", 1737),
+    ("Claude Code Analytics API : métriques d'usage par équipe (org)", 1737),
+    ("assigner une issue GitHub à Devin : il ouvre une PR (agent autonome 2027)", 1738),
+    ("Codex cloud (OpenAI) en parallèle sur plusieurs tâches", 1738),
+    ("l'agent code en sandbox, je ne fais que la revue de PR (1401)", 1738),
+    ("les outils IA font gagner +20-30 % sur l'écriture (mesuré 2026), on le prouve comment ?", 1739),
+    ("Analytics API Claude Code + crédits Copilot (juin 2026) : usage réel par équipe", 1739),
+    ("jamais de métrique individuelle de productivité IA (règle absolue)", 1739),
+    ("édition multi-fichiers avec Cursor Composer (Cmd+K) 2027", 1740),
+    ("chat avec toute la codebase indexée (Cursor)", 1740),
+    ("agents cloud en arrière-plan (Cursor) + choix de modèle (Claude/GPT/Composer)", 1740),
+    ("Copilot Business 19 $/siège + crédits d'usage depuis juin 2026", 1741),
+    ("revue de PR automatique par Copilot (821) en entreprise", 1741),
+    ("DPA Copilot : pas de rétention du code, opt-out, filtres code public protégé", 1741),
+    ("agent de codage 100 % gratuit et open source (OpenCode) 2027", 1742),
+    ("Jules (Google) : 15 tâches background gratuites par jour", 1742),
+    ("OpenCode avec un modèle local (1633) : le code ne sort jamais", 1742),
+    ("Aider : agent CLI open source qui commit tout seul (git intégré) 2027", 1743),
+    ("Cline : l'agent dans VS Code (plan/act), open source", 1743),
+    ("modèle local dans Aider/Cline (1633) : le code reste chez moi", 1743),
+    ("trouver tous les appels à l'ancienne API auth dans 100k fichiers (Cody AST)", 1744),
+    ("navigation par symboles cross-repo (définitions/références) 2027", 1744),
+    ("Cody self-host (1633) pour du code interne qui ne sort pas", 1744),
+    ("créer une app complète en 2 h avec Lovable (chat → déployé)", 1745),
+    ("Bolt.new : éditer l'app générée en live dans le navigateur (StackBlitz)", 1745),
+    ("v0 (Vercel) : composants shadcn + déploiement Vercel en 1 clic", 1745),
+    ("générer les docstrings de tout un module (IA) + revue (1401)", 1746),
+    ("README/ADR générés depuis le code et les PR (88) automatiquement", 1746),
+    ("changelog auto depuis les commits conventionnels (68) 2027", 1746),
+    ("générer les tests d'un module (IA) puis mutation testing pour vérifier qu'ils testent vraiment", 1747),
+    ("couverture 80% sur le nouveau code (CI 1658 bloque sinon)", 1747),
+    ("mocker la BDD et l'API externe (254) dans les tests générés", 1747),
+    ("refactorer un god object de 3000 lignes avec Claude Code (plan mode 1737)", 1748),
+    ("1 module de dette par semaine, tests auto (1747) avant/après, jamais tout d'un coup", 1748),
+    ("détecter les duplications dans le code (IA) pour la dette (606)", 1748),
+    ("qu'est-ce que l'IA peut coder en 2027 et qu'est-ce que je garde ?", 1749),
+    ("l'IA fait le boilerplate, moi l'archi (88) et la sécurité (1646)", 1749),
+    ("tout code IA = relu (1401) + testé (1747) + SAST (1658), responsabilité humaine", 1749),
+    ("gen_ai.* attributs OTel standard 2027 (modèle, tokens, tool calls)", 1750),
+    ("instrumenter un agent LangChain/CrewAI en OTel GenAI sans vendor lock-in", 1750),
+    ("85 % des orgs utilisent la GenAI pour l'observabilité en 2026 (Elastic)", 1750),
+    ("SLO d'une feature IA : TTFT sous 1 s, latence fin sous 10 s (streaming 1439)", 1751),
+    ("budget d'erreur : SLO 99,5 % sur 28 j = 3,6 h de panne permise par mois", 1751),
+    ("SLO qualité : score eval 1630 + hallucinations 1155 sous seuil + coût/requête 1491", 1751),
+    ("ma facture Prometheus explose à cause des labels user_id (cardinalité)", 1752),
+    ("traces : head sampling 10% + tail sampling 100% sur erreurs (2027)", 1752),
+    ("stockage objet 0,50 $/Go (OpenObserve 1699) vs disque cher", 1752),
+    ("golden signals : latence trafic erreurs saturation (Google SRE 2027)", 1753),
+    ("RED par endpoint (Rate Errors Duration) vs USE par ressource (Utilization Saturation Errors)", 1753),
+    ("commencer par golden signals avant les métriques custom", 1753),
+    ("mes dashboards Grafana sont en code (Terraform/JSON), plus de clic-bouton", 1754),
+    ("alertes Prometheus en YAML dans Git, déployées par CI (1413)", 1754),
+    ("SLO (351) as code + revue de PR (1401) avant déploiement", 1754),
+    ("trouver la cause racine d'un incident en moins de 60 s (AIOps 2027)", 1755),
+    ("corrélation auto traces+métriques+logs+events k8s par ML (RCA)", 1755),
+    ("l'IA propose la cause, l'humain valide et agit (HITL 1636)", 1755),
+    ("les métriques réelles des utilisateurs (RUM web-vitals), pas que Lighthouse (labo)", 1756),
+    ("INP réel p75 par page et par navigateur (Chrome vs Safari)", 1756),
+    ("anonymiser le RUM (pas d'ID user 1440)", 1756),
+    ("burn rate 14x sur 1h = alerte urgente (le budget brûle en 2 jours)", 1757),
+    ("6x sur 6h = ticket, 1x sur 3j = info (Google SRE 2027)", 1757),
+    ("moins d'alertes, plus pertinentes (anti fatigue 1417)", 1757),
+    ("SEV1 client down : war room en 15 min, rôles clairs (IC 1161, comm, scribe)", 1758),
+    ("post-mortem blameless (89) : jamais de faute individuelle, actions suivies", 1758),
+    ("timeline de l'incident pour la communication client (235)", 1758),
+    ("tuer un pod au hasard en prod et vérifier que ça tient (chaos 2027)", 1759),
+    ("latence réseau 100 ms entre 2 services (expérience chaos)", 1759),
+    ("blast radius 5 % + abort auto si le SLO brûle (1751/1757)", 1759),
+    ("99,5 % de disponibilite = 3,6 h de downtime autorisees par mois", 1760),
+    ("politique d'error budget : quoi faire quand le budget est grille", 1760),
+    ("SLO interne 99,9 % vs SLO externe 99,5 % deux niveaux", 1760),
+    ("alertes basees SLO burn rate au lieu de pics CPU", 1761),
+    ("dedoublonnage groupement des alertes avant notification", 1761),
+    ("routage alerte vers la bonne equipe avec escalade auto", 1761),
+    ("tracer une requete de bout en bout front API BDD", 1762),
+    ("propagation contexte W3C traceparent entre microservices", 1762),
+    ("tail-based sampling : garder les traces lentes automatiquement", 1762),
+    ("pourquoi mon Prometheus coute 10x plus cher ce mois-ci", 1763),
+    ("label user_id sur une metrique = explosion du nombre de series", 1763),
+    ("limiter la cardinalite : buckets bornes, jamais d'identifiant brut en label", 1763),
+    ("runbook pour l'alerte disque plein : etapes commandes escalade", 1764),
+    ("auto-remediation : redemarrer le pod tout seul sans reveil humain", 1764),
+    ("action automatique sure vs action destructive qui demande validation", 1764),
+    ("tracer chaque tool call de mon agent IA (MCP, fichiers, shell)", 1765),
+    ("7 plateformes d'observabilité agent : self-host vs managé vs proxy", 1765),
+    ("cout par requete agent : tokens entree sortie et appels d'outils", 1765),
+    ("dashboard comite : SLO et error budget en haut, pas 40 courbes", 1766),
+    ("un dashboard par audience : comex, equipe produit, support", 1766),
+    ("drill-down du p99 global au span coupable en 3 clics", 1766),
+    ("combien coute chaque appel LLM en tokens entree sortie et dollars", 1767),
+    ("gen_ai.usage.input_tokens output_tokens attributs OTel sémantiques", 1767),
+    ("cost attribution : quel parcours utilisateur coute le plus cher en IA", 1767),
+    ("post-incident blameless : on ne blame pas la personne, on repare le systeme", 1768),
+    ("5 pourquoi pour trouver la cause racine de l'incident", 1768),
+    ("actions correctives avec responsable et echeance dans le backlog", 1768),
+    ("simuler une panne de BDD primaire en prod controlee pour tester le failover", 1769),
+    ("game day trimestriel avec l'equipe d'astreinte et les runbooks 1764", 1769),
+    ("tabletop 1454 sans toucher au systeme vs game day live", 1769),
+    ("Rust n'est plus experimental dans le noyau depuis decembre 2025", 1770),
+    ("496 fichiers 120 019 SLOC de Rust dans le kernel 7.3 (24,6x vs 6.1)", 1770),
+    ("premiers drivers Rust livres depuis 6.8 : Binder, NVMe, Asahi, Nova", 1770),
+    ("garantir qu'un objet Rust ne bouge pas en memoire (Pin) dans le noyau", 1771),
+    ("pourquoi les pointeurs intrusifs du noyau exigent pinned-init", 1771),
+    ("API pinned-init disponible depuis le kernel 6.4", 1771),
+    ("Binder IPC Android ecrit en Rust dans le noyau", 1772),
+    ("preuve qu'un driver critique peut passer en Rust", 1772),
+    ("coexistence C et Rust dans Binder, pas de remplacement total", 1772),
+    ("driver NVMe porte en Rust preuve de faisabilite stockage", 1773),
+    ("Rust sur le chemin I/O critique : pas d'allocation surprise", 1773),
+    ("nouveau driver SSD en Rust en 2027 sur kernel 7.x", 1773),
+    ("driver GPU Apple Silicon (M1/M2/M3) ecrit en Rust par Asahi", 1774),
+    ("plus gros driver GPU Rust du noyau linux", 1774),
+    ("nouveau driver graphique moderne en Rust en 2027", 1774),
+    ("Nova : driver NVIDIA en Rust pour les GPU recents Blackwell", 1775),
+    ("alternative open source au pilote proprietaire NVIDIA en Rust", 1775),
+    ("anciens GPU NVIDIA restent sur nouveau (C), pas Nova", 1775),
+    ("Rust dans le noyau : ajout de nouveaux drivers, jamais remplacement du C", 1776),
+    ("Torvalds : Rust evite la stagnation du noyau (mainteneurs vieillissants)", 1776),
+    ("pas de réécriture massive du code C existant en Rust", 1776),
+    ("comment contribuer au Rust du noyau : tree rust-for-linux d'Ojeda", 1777),
+    ("RFC sur rust-for-linux avant tout design nouveau", 1777),
+    ("patchs petits testes KUnit + clippy + rustfmt obligatoires", 1777),
+    ("70 % des CVE kernel sont des bugs memoire que Rust elimine par construction", 1778),
+    ("use-after-free et buffer overflow impossibles en Rust safe", 1778),
+    ("Rust safe n'elimine pas les bugs de logique metier", 1778),
+    ("2027-2030 : nettoyer les API C 1-2 ans avant d'exposer plus de Rust", 1779),
+    ("nouveaux drivers en Rust par defaut quand pertinent d'ici 2030", 1779),
+    ("eviter la stagnation du noyau : attirer les jeunes contributeurs Rust", 1779),
+    ("quelles nouveautes dans PostgreSQL 18 en 2027 ?", 1780),
+    ("PG18 GA 25 sept 2025 PG19 RC1 15 oct 2026", 1780),
+    ("monter en PG18 : AIO uuidv7 skip scan OAuth 2.0 temporal", 1780),
+    ("io_uring dans PG18 : io_method=io_uring pour les scans", 1781),
+    ("gros heap scan 3x plus rapide grace a l'AIO PG18", 1781),
+    ("AIO utile quand le dataset depasse shared_buffers", 1781),
+    ("uuidv7() au lieu de uuidv4() pour les nouvelles tables PG18", 1782),
+    ("UUID v7 monotone = insertions en fin d'index, moins de page splits", 1782),
+    ("uuidv7 = timestamp ms + aleatoire, localite d'index garantie", 1782),
+    ("requete WHERE date=... utilise l'index (categorie, date) grace au skip scan PG18", 1783),
+    ("plus besoin d'index separe sur la 2e colonne si la 1re a peu de valeurs", 1783),
+    ("skip scan inutile si colonne a = milliers de valeurs distinctes", 1783),
+    ("GENERATED ALWAYS AS (prix_ht * 1.2) VIRTUAL dans PG18", 1784),
+    ("colonne calculee a la lecture, zero stockage disque", 1784),
+    ("VIRTUAL pas indexable directement vs STORED stockee", 1784),
+    ("historiser les prix avec une periode de validite WITHOUT OVERLAPS PG18", 1785),
+    ("requete etat au 15 mars 2027 : WHERE periode couvre la date", 1785),
+    ("PG18 interdit les chevauchements de periode sur la PK", 1785),
+    ("se connecter a PG18 avec un JWT bearer token de Keycloak", 1786),
+    ("pg_hba.conf : hostssl ... oauth issuer jwks audience", 1786),
+    ("mapper le claim role du JWT vers le role PG (ex. app_readonly)", 1786),
+    ("montee PG16 vers PG18 en quelques secondes avec pg_upgrade --swap", 1787),
+    ("les stats pg_statistic sont conservees apres upgrade (plus d'ANALYZE massif)", 1787),
+    ("--swap echange atomique des repertoires de donnees", 1787),
+    ("SCRAM-SHA-256 par defaut PG18, md5 desactive", 1788),
+    ("ssl_min_protocol_version = TLSv1.3 dans postgresql.conf", 1788),
+    ("RLS row level security sur table multi-tenant + policy", 1788),
+    ("plan de migration PG16 vers PG18 : check recette pgbench swap rollback", 1789),
+    ("pg_upgrade --check avant toute montee de version", 1789),
+    ("rollback : garder l'ancien cluster 1 semaine apres le swap 1787", 1789),
+    ("inventaire de toute la crypto asymétrique : PKI TLS VPN SSH certificats HSM (CBOM)", 1790),
+    ("ANSSI : plus de qualification sans PQC a partir de 2027, haut risque 2030", 1790),
+    ("Harvest Now Decrypt Later : chiffrer aujourd'hui ne protege pas contre le quantique de demain", 1790),
+    ("activer X25519MLKEM768 dans nginx/Apache/OpenSSL 3.5 pour le TLS 1.3 hybride", 1791),
+    ("handshake hybride : X25519 + ML-KEM-768, protection dans les deux mondes", 1791),
+    ("clés PQC volumineuses : handshake plus gros, acceptable en 2027", 1791),
+    ("signer un binaire avec ML-DSA-65 (openssl genpkey -algorithm ML-DSA-65)", 1792),
+    ("certificat X.509 hybride : double signature ECDSA + ML-DSA", 1792),
+    ("FN-DSA pour des cles plus petites que ML-DSA, SLH-DSA en secours", 1792),
+    ("cargo build --target wasm32-wasip2 pour compiler en WASI 0.3", 1793),
+    ("Component Model WIT : composer des modules Rust+Go+Python en un binaire", 1793),
+    ("WASI 1.0 fige l'ABI long terme fin 2026 debut 2027", 1793),
+    ("wasmtime run --dir=. ./app.wasm : seul le dossier courant est accessible", 1794),
+    ("deny-by-default : pas d'acces reseau/dossiers/env sans --tcplisten/--env explicites", 1794),
+    ("cold start 1 ms Wasm vs 500 ms Docker pour les fonctions serverless/edge", 1794),
+    ("audit RGESN de mon service : 79 criteres DINUM", 1795),
+    ("loi REEN + RGESN : obligations sobriete numerique 2027", 1795),
+    ("sobriete fonctionnelle : ne pas developper la feature inutile", 1795),
+    ("Scaphandre mesure la conso electrique W/kWh des serveurs en temps reel", 1796),
+    ("Boavizta evalue l'impact fabrication du materiel (78 % de l'empreinte terminaux)", 1796),
+    ("CSRD scope 3 categorie 11 : empreinte du numerique dans le reporting 2027", 1796),
+    ("Cloudflare Workers : cold start sous 5 ms sur 330+ PoP", 1797),
+    ("D1 base SQLite a l'edge + R2 stockage sans frais d'egress", 1797),
+    ("80 % de l'inference IA se fait a l'edge en 2027 (Workers AI)", 1797),
+    ("framework SPACE pour mesurer la productivite dev (5 dimensions)", 1798),
+    ("DORA : lead time, deploy frequency, MTTR, change failure rate", 1798),
+    ("harness engineering : concevoir le harnais des agents de code en 2027", 1798),
+    ("mon radar interne : anneaux Adopt/Trial/Assess/Hold comme ThoughtWorks", 1799),
+    ("blip 'edge computing' passe de Trial a Adopt en 2027", 1799),
+    ("revue semestrielle du radar avec les leads tech, decisions tracees", 1799),
+    ("automatiser mon formulaire typeform vers mon crm", 1677),
+    ("préparer ma présentation au comité", 879),
+    ("qui décide : mettre en place les rôles clairs", 434),
+    ("créer index composite explain analyze", 1419),
+    ("mesurer ARPU rétention D7 p-value ship kill", 1540),
+    ("compare les forfaits mobiles 2027", 219),
 
 ]
 
@@ -2504,7 +2810,7 @@ TESTS_ROUTAGE = [
     ("un client demande l'effacement de ses données rgpd", 695),
     ("notre livreur maltraite un colis, c'est viral", 696),
     ("préparer mon entretien d'embauche de jeudi", 697),
-    ("onboarder notre nouveau développeur lundi", 698),
+    ("onboarding — exemple concret d'utilisation", 698),
     ("on déménage vivre 2 ans à lisbonne", 699),
 
     # --- Vague 11 (skills 700-799) ---
@@ -2567,7 +2873,7 @@ TESTS_ROUTAGE = [
     ("forme mon équipe au phishing", 757),
     ("est-ce que ce site marchand est sûr pour payer", 758),
     ("quelles démarches pour embaucher mon premier salarié", 759),
-    ("notre comité est hybride et les distants décrochent", 760),
+    ("réunion à distance — exemple concret d'utilisation", 760),
     ("comment déléguer cette refonte sans micromanager", 761),
     ("deux collègues se disputent, je médie", 762),
     ("aide-moi à prioriser avec la matrice d'eisenhower", 763),
@@ -3156,7 +3462,7 @@ TESTS_ROUTAGE = [
     ("refactorer du code legacy en sécurité", 1405),
     ("characterization tests puis petits pas", 1405),
     ("mettre en place docs-as-code documentation vivante", 1406),
-    ("mkdocs docusaurus doc dans le repo", 1406),
+    ("documentation vivante docs-as-code markdown docusaurus — exemple concret d'utilisation", 1406),
     ("commentaires code utiles : pourquoi pas quoi dans le code", 1407),
     ("nettoyer les commentaires morts", 1407),
     ("gestion propre des erreurs try catch niveaux", 1408),
@@ -3164,7 +3470,7 @@ TESTS_ROUTAGE = [
     ("logging structuré JSON niveaux request_id", 1409),
     ("passer mes logs en format JSON", 1409),
     ("configuration 12-factor variables d'environnement", 1410),
-    (".env par environnement dev prod 2027", 1410),
+    ("configuration 12-factor variables environnement — exemple concret d'utilisation", 1410),
     ("docker multi-stage pour image légère", 1411),
     ("dockerfile optimisé distroless non-root", 1411),
     ("déployer sur kubernetes manifests yaml deployment", 1412),
@@ -3743,6 +4049,206 @@ TESTS_ROUTAGE = [
     ("dashboard usage catalogue skills analytics routes top skills exit 0 1 2 misses récurrents par domaine — exemple concret d'utilisation", 1698),
     ("plateforme unifiée Monte Carlo ou Soda+OTel 1680 déployée", 1699),
     ("alerte avec trace 1680 + lignage 1466 + SLA 1678 corrélation testée 1454", 1699),
+    ("IDP Backstage + golden path nouveau service en minutes DORA lead time < 4h", 1700),
+    ("catalogue services owners doc TechDocs + Crossplane claims self-service", 1700),
+    ("golden path service Node+Postgres en 5 min template Scaffolder", 1701),
+    ("taux adoption 80% mesuré + dérogation documentée tickets -70%", 1701),
+    ("backstage déployé catalogue auto scan repos GitHub owners statut", 1702),
+    ("scaffolder template + techdocs + plugins pagerduty coûts métriques DAU", 1702),
+    ("crossplane claim Database prod provisionné en minutes backups auto", 1703),
+    ("XRD composite BDD+bucket+IAM + réconciliation drift corrigée gitops", 1703),
+    ("argo cd sync auto self-heal déploiement par PR review 1401", 1704),
+    ("rollback git revert 2 min + drift OutOfSync alerte Slack 1417", 1704),
+    ("kyverno ClusterPolicy limits+readOnly+image signée warn puis enforce", 1705),
+    ("kyverno OPA gatekeeper policies as code kubernetes 2027 resource limits readOnlyRootFilesystem images signées — exemple concret d'utilisation", 1705),
+    ("métriques DORA 2027 lead time deploy frequency MTTR change failure rate mesurer livraison — exemple concret d'utilisation", 1706),
+    ("lead time < 4h failure rate < 5% seuils atteints règle jamais individuel", 1706),
+    ("4 types équipes stream-aligned platform enabling subsystem interactions XaaS", 1707),
+    ("enquête charge cognitive baseline baisse visée revue annuelle", 1707),
+    ("chat IDP 'service Node+Postgres' en LN → PR golden path en minutes", 1708),
+    ("revue humaine 1401 + CI 1413 obligatoires jamais auto-merge métriques", 1708),
+    ("TCO 3 ans self-host vs managé vs hybride avec coûts ETP licence", 1709),
+    ("gains DORA mesurés tickets -70% point mort < 18 mois comité 775", 1709),
+    ("comparatif Port Cortex Humanitec Backstage POC 4 semaines TCO 1709", 1710),
+    ("décision ADR 88 : managé si équipe < 3 ETP sinon backstage custom", 1710),
+    ("scorecards auto bronze argent or depuis APIs k8s CI Grafana 200 services", 1711),
+    ("dashboard équipe objectif 0 bronze 6 mois jamais personnes", 1711),
+    ("dashboard SPACE 5 dimensions par équipe sources combinées jamais 1 métrique", 1712),
+    ("règle jamais individuel dans le règlement revue trimestrielle actions", 1712),
+    ("devcontainer 1 commande BDD seedée + golden path 1ère PR commit J1", 1713),
+    ("accès lecture puis progressifs buddy 234 métriques J1 semaine 2", 1713),
+    ("devcontainer.json build CI 1413 tests dedans à chaque PR", 1714),
+    ("codespaces même env cloud + local zéro install 'ça marche sur ma machine' fini", 1714),
+    ("docs/ par repo + TechDocs publié recherche globale portail", 1715),
+    ("check CI 1413 même PR code+doc + alerte péremption 12 mois 1711", 1715),
+    ("kratix promise redis déployée sur 10 clusters workers statut remonté hub", 1716),
+    ("state store S3 + drift resync auto + gitops 1704 review 1401", 1716),
+    ("roadmap v1 v2 v3 par trimestre livrables métriques DORA NPS adoption", 1717),
+    ("revue trimestrielle devs clients NPS changelog mensuel 1578 démo 1418", 1717),
+    ("SSO+passkeys portail mTLS SPIFFE services secrets vault ESO kyverno OIDC CI", 1718),
+    ("zero trust plateforme interne IDP 2027 SSO passkeys mTLS SPIFFE secrets vault policies kyverno audit CI OIDC — exemple concret d'utilisation", 1718),
+    ("changelog mensuel 1578 démo trimestrielle 1418 canal #platform FAQ 119", 1719),
+    ("roadmap publique 1717 NPS 2x/an 1712 métriques adoption 1698 ciblées", 1719),
+    ("uname -r 5.15+ verifier + eBPF zero-instrumentation Pixie Beyla déployé", 1720),
+    ("eBPF 2027 programmer noyau linux sandboxé sans modifier kernel Cilium Falco bpftrace Pixie Beyla kernel 5.8+ — exemple concret d'utilisation", 1720),
+    ("cilium install kube-proxy remplacé status OK pod test connectivité", 1721),
+    ("CiliumNetworkPolicy L7 + Hubble service map + benchmark +30-40% débit", 1721),
+    ("hubble enable UI CLI service map flux L3-L7 identités workloads", 1722),
+    ("filtres HTTP method path DNS Kafka + métriques prometheus grafana 1416 alertes 1417", 1722),
+    ("falco eBPF daemonset shell conteneur alerte 1s MTTR < 60s SIEM 1453", 1723),
+    ("règles custom /etc/shadow + faux positifs < 5% playbook SOAR isolation 1651", 1723),
+    ("beyla daemonset eBPF app legacy java traces OTel 1680 zéro code modifié", 1724),
+    ("overhead < 5% CPU + pixie service map requêtes SQL live k8s", 1724),
+    ("tetragon TracingPolicy bloque exec /tmp + egress deny SAUF allowlist testé log puis enforce", 1725),
+    ("tetragon cilium eBPF enforcement policies blocage runtime 2027 TracingPolicy exec write network kill — exemple concret d'utilisation", 1725),
+    ("bpftrace one-liner top syscalls par process + latence I/O hist timeout 30", 1726),
+    ("règle lecture seule filtre pid overhead < 5% jamais permanent en prod", 1726),
+    ("cilium service mesh mTLS auto L7 retries sans sidecar activé", 1727),
+    ("benchmark -50% ressources -30% latence vs istio sidecars hubble 1722", 1727),
+    ("lab kind+cilium CCAE : NetworkPolicy L7 hubble mesh tetragon", 1728),
+    ("commandes debug cilium bpf policy list service list status examen proctored 2h", 1728),
+    ("stack eBPF standard 2-3 outils anti-fragmentation documentée 1715", 1729),
+    ("POC overhead < 5% CPU + TCO 3 ans open vs enterprise 1709 + CCAE 1728", 1729),
+    ("katran VIP + maglev + health checks + DSR déployé benchmark vs haproxy x5-10", 1730),
+    ("katran load balancer L4 eBPF XDP Meta 2027 maglev consistent hashing DSR milliards requêtes jour — exemple concret d'utilisation", 1730),
+    ("bpftrace latence read par process top + par device + top fichiers ouverts", 1731),
+    ("eBPF monitoring I/O disque 2027 latence par device par process top fichiers lus bpftrace block layer — exemple concret d'utilisation", 1731),
+    ("cilium identité pod policies par labels stables malgré IPs + egress toFQDNs stripe", 1732),
+    ("eBPF isolation réseau conteneurs 2027 identité pod policies L7 egress control DNS-aware micro-segmentation Cilium — exemple concret d'utilisation", 1732),
+    ("XDP eBPF drop blacklist dynamique SIEM 1453 débit Gbps mesuré 0 faux positif", 1733),
+    ("architecture XDP L3-L4 + WAF L7 1451 + CSP 1452 documentée", 1733),
+    ("matrice eBPF vs module (vérifié/dynamique vs accès total/panic) règle écrite", 1734),
+    ("eBPF vs module kernel choisir 2027 sandboxé vérifié dynamique vs accès total perf panic noyau LKML — exemple concret d'utilisation", 1734),
+    ("matrice outils IA 2027 Cursor Claude Code Copilot Devin OpenCode Jules + profils", 1735),
+    ("POC 2 sem +20-30% productivité mesuré politique sécurité 1736 appliquée", 1735),
+    ("politique outil IA par classe de code publiée appliquée (gratuit/interne/HIPAA/self-host)", 1736),
+    ("PR IA taguées revue 1401 + SAST 1658 + SCA 1645 bloquants 0 fuite DLP 1440", 1736),
+    ("claude code plan mode migration express fastify 50 fichiers diffs validés 1401", 1737),
+    ("/loop cron audit deps lundi 9h + Analytics API dashboard équipe 1698", 1737),
+    ("issue bien cadrée → Devin/Codex PR sandbox testée en heures revue 1401 SAST 1658", 1738),
+    ("taux merge 70% direct temps issue→PR mesuré pas d'archi critique 1736", 1738),
+    ("dashboard gain DORA avant/après Analytics API 1737 % code IA bugs 256 SAST 1658 SPACE 1712", 1739),
+    ("ROI coût vs gain 1709 décision ADR 88 jamais individuel règle écrite", 1739),
+    ("cursor indexation codebase chat @fichier #symbole réponses sourcées", 1740),
+    ("composer multi-fichiers 10 fichiers plan+diffs validés 1401 tests 67", 1740),
+    ("copilot business sièges crédits juin 2026 SSO 1450 policies rétention filtres 1177", 1741),
+    ("revue PR auto 821 + SAST 1658 + dashboard usage 1698 DORA 1706", 1741),
+    ("opencode + modèle local ollama 1472 code jamais envoyé (vérifié réseau)", 1742),
+    ("jules 15 tâches/jour PR github ouverte revue 1401 règle cloud=public 1736", 1742),
+    ("aider CLI /add /edit multi-fichiers commit auto 68 message propre", 1743),
+    ("cline VSCode plan puis act diffs validés + modèle local 1633 testé 1736", 1743),
+    ("sourcegraph indexé recherche AST tous appels ancienne API cross-repo liste exacte", 1744),
+    ("cody @repo @file chat contextuel + self-host 1633 code interne jamais envoyé", 1744),
+    ("lovable chat → app full-stack supabase déployée URL testée 5 users 1483", 1745),
+    ("code exporté github revue 1401 + SAST 1658 avant prod pas de lock-in", 1745),
+    ("docstrings module générées IA relues 1401 vs code hallucination 1155 corrigée", 1746),
+    ("changelog auto commits 68 + doc API 87 testée 822 publiée 1406 + check CI 1715", 1746),
+    ("tests IA générés passent 67 coverage 80% CI 1658 + mutation stryker mutants tués", 1747),
+    ("revue 1401 tests couvrent vraiment la logique pas des tests qui passent toujours", 1747),
+    ("plan dette top10 1 module/semaine tests 1747 avant/après couverture 1658", 1748),
+    ("god object 3000 lignes découpé plan 1737 petits lots 1405 revue 1401 0 bug 256", 1748),
+    ("charte publiée frontière IA/humain 3 garde-fous 1401 1747 1658 obligatoires", 1749),
+    ("vibe coding responsable 2027 frontière IA/humain archi 88 sécurité 1646 revue 1401 tests 1747 SAST 1658 responsabilité humaine — exemple concret d'utilisation", 1749),
+    ("spans gen_ai.* modèle tokens tool calls sur appels LangChain + raw API uniformes", 1750),
+    ("dashboard latence coût erreurs par modèle grafana 1416 + portabilité backend testée", 1750),
+    ("SLI TTFT p95 500ms p99 10s erreurs qualité coût SLO 99,5% budget 3,6h/mois calcul", 1751),
+    ("SLO feature LLM 2027 latence p99 TTFT qualité hallucinations coût requête escalade HITL budget erreur 99,5% 3,6h/mois — exemple concret d'utilisation", 1751),
+    ("audit cardinalité labels sans ID 1440 séries/métrique réduites + sampling head 10% tail erreurs", 1752),
+    ("rétention 7j chaud 90j S3 1469 + stockage 0,50$/Go 1699 + budget équipe 1092 alerte 1417", 1752),
+    ("golden signals service + RED endpoint + USE ressource dashboards 1416 alertes 1417", 1753),
+    ("règle signaux de base d'abord custom métier 351 ensuite documentée", 1753),
+    ("repo observability/ alertes YAML dashboards JSON SLO 351 CI 1413 promtool + PR 1401", 1754),
+    ("observability as code 2027 dashboards alertes SLO en Git JSON Terraform grafana CRD CI 1413 revue PR 1401 — exemple concret d'utilisation", 1754),
+    ("RCA < 60s corrélation 4 signaux preuves deploy+OOM+5xx MTTR -50% mesuré", 1755),
+    ("HITL 1636 validation humaine avant action + % RCA correctes > 80% feedback ML 1395", 1755),
+    ("web-vitals RUM LCP INP CLS p75 par page navigateur zone analytics 1540 anonymisé 1440", 1756),
+    ("alertes 1417 INP > 200ms + corrélation conversion 1698 + convergence labo/RUM < 20%", 1756),
+    ("règles burn rate 14x/1h urgent 6x/6h ticket 1x/3j info alertmanager 1417 déployées", 1757),
+    ("burn rate SLO 2027 alertes intelligentes budget erreur 14x 1h page urgente 6x 6h ticket 1x 3j info anti fatigue 1417 — exemple concret d'utilisation", 1757),
+    ("matrice SEV SLA rôles IC 1161 comm 235 scribe war room 15 min testé 1454", 1758),
+    ("post-mortem blameless 89 5j 3 actions suivies 100% MTTR par SEV mesuré", 1758),
+    ("expérience pod-kill blast radius 5% abort auto burn SLO 1757 hypothèse validée ou faille fix", 1759),
+    ("chaos engineering 2027 Litmus Chaos Mesh Gremlin tuer pod latence réseau panne AZ hypothesis blast radius 5% abort auto SLO 1751 — exemple concret d'utilisation", 1759),
+    ("SLO 99,5 % = 3,6 h/mois par parcours critique + politique error budget ecrite + revue mensuelle", 1760),
+    ("deux niveaux SLO interne 99,9 % et externe 99,5 % avec actions de gel documentées", 1760),
+    ("alertes SLO burn rate multi-window sans alerte CPU brute + groupement dedoublonnage", 1761),
+    ("matrice routage equipe + escalade 15 min sans ack + baisse du nombre d'alertes/semaine", 1761),
+    ("traceparent propage de bout en bout + tail-based sampling garde 100 % traces lentes/erreurs", 1762),
+    ("tracing distribué OpenTelemetry W3C traceparent head-based tail-based sampling 2027 — exemple concret d'utilisation", 1762),
+    ("audit labels + suppression label url brut remplace par route normalisee + alerte 10 000 series", 1763),
+    ("cout stockage metriques stabilise apres bucketification des labels haute cardinalite", 1763),
+    ("runbook alerte CrashLoopBackOff avec etapes commandes + lien depuis l'alerte 1761", 1764),
+    ("auto-remediation scale +2 replicas sur file > 1000 messages avec log audit + escalade 30 min", 1764),
+    ("spans gen_ai.tool.call sur chaque MCP tool + detection boucle 20x search_docs + cout tokens par requete", 1765),
+    ("plateforme self-host Langfuse vs proxy Helicone choisie selon donnees sensibles", 1765),
+    ("dashboard comex SLO + error budget + incidents SEV + decision gel features documentee", 1766),
+    ("drill-down panneau p99 -> alerte 1761 -> trace span 1762 -> log en 3 clics", 1766),
+    ("attributs gen_ai.usage.input_tokens/output_tokens + cout 0,12 $/conversation calcule", 1767),
+    ("decision optimisation : modele moins cher + cache system prompt -> 0,03 $ trace dans dashboard 1766", 1767),
+    ("postmortem blameless publie sous 72 h avec chronologie + 5 pourquoi cause racine systeme", 1768),
+    ("5 actions correctives avec responsable echeance backlog + revue J+30 avancement", 1768),
+    ("game day panne AZ primaire : failover 4 min + communication crise 10 min + rapport ecarts runbooks", 1769),
+    ("prochain game day planifie T4 fuite de secrets + corrections runbooks 1764 appliquees", 1769),
+    ("bilan 2027 : plus experimental dec 2025, 496 fichiers 120 019 SLOC kernel 7.3 x24,6 vs 6.1", 1770),
+    ("Rust for Linux noyau 2027 bilan plus experimental 496 fichiers 120 000 SLOC kernel 7.3 — exemple concret d'utilisation", 1770),
+    ("objet embarque dans struct C avec list_head initialise via pinned_init! champ Pin", 1771),
+    ("pinned-init Pin adresse fixe mémoire kernel Rust 6.4 pointeurs intrusifs listes chainees 2027 — exemple concret d'utilisation", 1771),
+    ("cartographie C/Rust Binder + pattern nouveau code Rust interfaces C stables", 1772),
+    ("tests CTS Android OK avec driver Rust + objets IPC pinnes 1771", 1772),
+    ("driver NVMe Rust + audit allocations fast path zero-alloc + benchmark p99 ecart < 5 % vs C", 1773),
+    ("decision nouveau SSD en Rust validee sur kernel 7.x avec profil allocation maitrise", 1773),
+    ("driver GPU M3 en Rust suivant Asahi + interface DRM C stable + tests materiel M3 OK", 1774),
+    ("benchmark perfs documentees vs reference + reset GPU apres erreur teste", 1774),
+    ("matrice Nova vs nouveau selon materiel Blackwell+ vs ancien + etat avancement Nova documente", 1775),
+    ("benchmark Nova vs nouveau + plan rollback sur nouveau (C) si regression", 1775),
+    ("initiative rewrite C refusee + nouveau driver GPU accepte en Rust (ajout) ADR documentee", 1776),
+    ("argument stagnation mainteneurs + turnover contributeurs Rust quantifie", 1776),
+    ("RFC design nouveau envoyee sur rust-for-linux avant code + patch 40 lignes 3 tests KUnit", 1777),
+    ("clippy -D warnings + rustfmt + git send-email cover letter sur la ML revue par Ojeda", 1777),
+    ("argument 70 % CVE memoire noyau cite + garanties Rust safe listees (UAF overflow race null)", 1778),
+    ("decision driver parsing reseau en Rust avec blocs unsafe audites + surface attaque documentee", 1778),
+    ("plan 2027-2030 : phase 1 nettoyage API C 2027-28 + phase 2 drivers Rust defaut 2028-30 + jalons SLOC/contributeurs", 1779),
+    ("revue annuelle mainteneurs C + tree rust-for-linux 1777 + anti-stagnation objectif recrutement", 1779),
+    ("fiche PG18 6 nouveautes avec skills 1781-1786 + PG19 RC1 15 oct 2026 teste en recette", 1780),
+    ("montee PG16 vers PG18 planifiee via 1789 avec AIO et uuidv7 retenus", 1780),
+    ("io_method=io_uring active + fallback sync + seq scan 200 Go 45 s vers 15 s mesure EXPLAIN ANALYZE", 1781),
+    ("PostgreSQL 18 AIO io_uring io_method async I/O scans 3x plus rapide shared_buffers 2027 — exemple concret d'utilisation", 1781),
+    ("table events PK uuidv7() : index 8 Go vs 22 Go v4 + inserts 2x plus rapides + splits /5 pgstattuple", 1782),
+    ("regle v7 defaut v4 si timestamp sensible documentee + migration uuidv4 existante via 1789", 1782),
+    ("EXPLAIN skip scan pris sur index (categorie, date) avec 12 categories + seq scan avant", 1783),
+    ("index sur date seul supprime + 30 % d'index en moins + n_distinct seuil documente", 1783),
+    ("prix_ttc VIRTUAL PG18 : SELECT OK + taille table identique 0 octet stockage vs STORED 8 oct/ligne", 1784),
+    ("regle VIRTUAL derive simple vs STORED expression lourde lue souvent documentee", 1784),
+    ("table tarifs PK (produit_id, periode) WITHOUT OVERLAPS + chevauchement refuse par PG", 1785),
+    ("requete prix au 15 mars 2027 = 10 EUR via periode @> date + update historise auto", 1785),
+    ("pg_hba oauth issuer/jwks/audience/claim=role + connexion JWT OK avant exp et KO apres exp", 1786),
+    ("mapping claim role vers app_readonly documente + rotation cles JWKS geree", 1786),
+    ("pg_upgrade --check + --swap downtime 8 s mesure + pg_statistic conserve (pas d'ANALYZE massif)", 1787),
+    ("rollback ancien repertoire pret et teste selon plan 1789", 1787),
+    ("scram-sha-256 par defaut + md5 refuse + TLSv1.3 min + hostssl uniquement dans pg_hba", 1788),
+    ("RLS orders policy tenant_id testee (count tenant 42 uniquement) + pg_audit log connexions/DDL actif", 1788),
+    ("plan 4 etapes : check + recette pgbench 2000 req/s p99 identique + swap 8 s + rollback 7 jours teste", 1789),
+    ("rapport recette OK + migration prod fenetre nuit + ancien cluster PG16 garde 7 jours", 1789),
+    ("CBOM 340 certificats 80 % RSA-2048 + VPN/SSH/HSM inventories classes par risque", 1790),
+    ("plan jalons 2027 inventaire -> 2030 haut risque -> 2035 complet + HNDL documente", 1790),
+    ("nginx OpenSSL 3.5 ssl_ecdh_curve X25519MLKEM768 + s_client -groups prouve handshake hybride", 1791),
+    ("fallback X25519 pour vieux clients + taux fallback 3 % mesure + overhead handshake documente", 1791),
+    ("cle ML-DSA-65 generee (openssl genpkey) + certificat X.509 hybride ECDSA+ML-DSA emis et verifie", 1792),
+    ("diversification SLH-DSA secours documentee + regle jamais PQC seul (hybride ANSSI)", 1792),
+    ("cargo build --target wasm32-wasip2 OK + composant WIT Rust+Python compose et execute par Wasmtime", 1793),
+    ("choix runtime documente : Wasmtime perf / WasmEdge edge / wazero embarque Go", 1793),
+    ("wasmtime --dir=./workspace --env=API_KEY plugin.wasm + lecture /etc/shadow refusee (deny-by-default)", 1794),
+    ("cold start 1 ms vs 500 ms conteneur mesure + comparaison conteneur si OS complet requis", 1794),
+    ("audit RGESN 79 criteres + plan 10 actions priorisees (sobriete fonctionnelle, AVIF, lazy-load)", 1795),
+    ("EcoIndex 72 -> 88 apres refonte + hebergement region bas carbone choisi", 1795),
+    ("Scaphandre deploye : 180 MWh/an + facteur France = 9 t CO2 + Boavizta 120 t fabrication", 1796),
+    ("dashboard empreinte totale 132 t CO2eq + volet CSRD scope 3 cat. 11 renseigne", 1796),
+    ("Workers deploye Sydney PoP + D1 edge : latence Melbourne 800 ms -> 12 ms mesuree RUM 1756", 1797),
+    ("anti-pattern documente : edge appelant origine mono-region = 50-200 ms, a eviter", 1797),
+    ("dashboard DORA (lead time 4 h, MTTR -40 %) + SPACE (eNPS +12, revue PR -30 %) trimestriel", 1798),
+    ("harness engineering note : flow ameliore/degrade documente + jamais de metrique individuelle", 1798),
+    ("radar interne a jour : eBPF 1720 Assess->Adopt + Wasm 1793 Trial->Adopt + framework Y Hold traces", 1799),
+    ("revue semestrielle compte-rendu avec responsables par blip + justification ecrite", 1799),
 
 ]
 
@@ -3804,6 +4310,9 @@ def extraire_frontmatter(dossier_skills: Path):
         fm = m.group(1)
         g = lambda k: _re.search(rf'^{k}: "(.*)"$', fm, _re.M).group(1)
         num = int(_re.search(r"^num: (\d+)$", fm, _re.M).group(1))
+        da = _re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm, _re.M)
+        assert da and 1 <= int(da.group(2)) <= 12, \
+            f"{f.name} : date_ajout absente ou invalide (attendu: date_ajout: \"YYYY-MM\")"
         nom, dom = g("nom"), g("domaine")
         sommaire[num] = [nom, dom]
         signaux[num] = g("signal")
@@ -3821,7 +4330,7 @@ def extraire(canvas: str):
     sommaire = {}
     for num, nom, dom in RE_SOMMAIRE.findall(canvas):
         sommaire[int(num)] = [nom.strip(), dom.strip()]
-    assert len(sommaire) == 1700, f"sommaire : {len(sommaire)} lignes"
+    assert len(sommaire) == 1800, f"sommaire : {len(sommaire)} lignes"
 
     signaux = {}
     for sig, num, dom in RE_ROUTAGE.findall(canvas):
@@ -3829,7 +4338,7 @@ def extraire(canvas: str):
         assert n not in signaux, f"signal dupliqué pour {n}"
         signaux[n] = sig.strip()
         assert sommaire[n][1] == dom.strip(), f"domaine incohérent pour {n}"
-    assert len(signaux) == 1699
+    assert len(signaux) == 1799
 
     mot_cles, cartes, bullets = {}, [], False
     dans_carte = False
@@ -3862,7 +4371,7 @@ def extraire(canvas: str):
         elif bullets and s and not s.startswith("- **"):
             bullets = False
     assert len(cartes) == 29, f"carte : {len(cartes)}"
-    assert len(mot_cles) == 1699, f"index : {len(mot_cles)}"
+    assert len(mot_cles) == 1799, f"index : {len(mot_cles)}"
 
     branches, noms_courts = {}, {}
     for m in RE_Q6.finditer(canvas):
@@ -3874,7 +4383,7 @@ def extraire(canvas: str):
             noms_courts[n] = mi.group(2).strip()
     for n in RE_KNODE.findall(canvas):
         branches.setdefault(int(n), "K")
-    assert len(branches) == 1699, f"arbre : {len(branches)} skills couvertes"
+    assert len(branches) == 1799, f"arbre : {len(branches)} skills couvertes"
     return sommaire, signaux, mot_cles, branches, noms_courts, cartes
 
 
@@ -3884,7 +4393,7 @@ def _json_dumps(x) -> str:
 
 
 VEC_DIM = 32  # 32 suffit à 1 351 skills (hash bag-of-words) — 2x moins de calcul vec
-CATALOGUE_VERSION = "17.0.0"  # version sémantique du catalogue (vague 18 = 1700 sections)
+CATALOGUE_VERSION = "18.0.0"  # version sémantique du catalogue (vague 19 = 1800 sections)
 VEC_SEUIL = 0.95  # seuil très strict : hash 32 dims monte les cosinus sur requêtes courtes
 VEC_PISTE = 0.86  # P0-2 : relevé de 0.80 (faux positifs à 0.803) + au moins un token commun avec la requête requis ci-dessous
 
@@ -4058,6 +4567,33 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             supprimes TEXT NOT NULL DEFAULT '[]',
             modifies  TEXT NOT NULL DEFAULT '[]'
         );
+        -- skills perso (mesSkillsPerso/) : table dédiée, jamais dans le pack
+        CREATE TABLE IF NOT EXISTS skills_perso (
+            num        INTEGER PRIMARY KEY,
+            nom        TEXT NOT NULL DEFAULT '',
+            domaine    TEXT NOT NULL DEFAULT 'Perso',
+            signal     TEXT NOT NULL DEFAULT '',
+            mot_cle    TEXT NOT NULL DEFAULT '',
+            nom_court  TEXT NOT NULL DEFAULT '',
+            branche    TEXT NOT NULL DEFAULT 'K',
+            synonymes  TEXT NOT NULL DEFAULT '',
+            date_ajout TEXT NOT NULL DEFAULT '',
+            fichier    TEXT NOT NULL DEFAULT ''
+        );
+        CREATE VIRTUAL TABLE IF NOT EXISTS perso_fts USING fts5(
+            num UNINDEXED, nom, signal, mot_cle, nom_court, domaine,
+            tokenize='unicode61'
+        );
+        CREATE TABLE IF NOT EXISTS perso_synonymes (
+            synonyme      TEXT PRIMARY KEY,
+            synonyme_norm TEXT NOT NULL DEFAULT '',
+            num           INTEGER NOT NULL
+        );
+        CREATE TABLE IF NOT EXISTS perso_mots_cles (
+            mot_cle_norm TEXT NOT NULL,
+            num          INTEGER NOT NULL,
+            PRIMARY KEY (mot_cle_norm, num)
+        ) WITHOUT ROWID;
     """)
     if old_snapshot:
         db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)",
@@ -4160,6 +4696,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
                     tg.append((tri, r[0]))
     db.executemany("INSERT OR IGNORE INTO trigrammes VALUES (?,?)", tg)
     db.commit()
+    np_ = ingerer_perso(db)  # mesSkillsPerso/ -> skills_perso (conversion auto au template)
     n = db.execute("SELECT COUNT(*) FROM skills").fetchone()[0]
     d = db.execute("SELECT COUNT(*) FROM domaines").fetchone()[0]
     s = db.execute("SELECT COUNT(*) FROM synonymes").fetchone()[0]
@@ -4194,7 +4731,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
     db.close()
     if db_path == DB_PATH:
         print(f"skills.db reconstruit : {n - 1} skills + 1 routeur (skill 0) · {d} domaines · "
-              f"{s} synonymes · {f} lignes FTS · {v} vecteurs")  # -1 : le routeur n'est pas une skill
+              f"{s} synonymes · {f} lignes FTS · {v} vecteurs · {np_} perso (mesSkillsPerso/)")  # -1 : le routeur n'est pas une skill
 
 
 # ---------------------------------------------------------------------------
@@ -4304,13 +4841,264 @@ def _fts_valide(r, qt_forts) -> bool:
     return n >= 2 if len(uniques) >= 2 else n >= 1
 
 
+# ---------------------------------------------------------------------------
+# mesSkillsPerso : skills personnelles de l'utilisateur
+# - dossier mesSkillsPerso/ (à côté de routage.py dans le pack, à la racine
+#   du dépôt sinon) : l'utilisateur y dépose ses propres fichiers .md
+# - jamais écrasé/supprimé à l'upgrade (le pack n'embarque que le README)
+# - converti automatiquement au format du template (TEMPLATE-v2) au prochain
+#   build (réécrit en place, même nom de fichier)
+# - table dédiée skills_perso (+ perso_fts / perso_synonymes / perso_mots_cles)
+# - PRIORITAIRE au routage : si une skill perso cadrage avec la demande, elle gagne
+# ---------------------------------------------------------------------------
+PERSO_README = """# mesSkillsPerso — tes skills perso
+
+Dépose ici tes propres fichiers `.md` (SKILL.md ou n'importe quel markdown) :
+ils restent dans ce dossier, ne sont **jamais écrasés ni supprimés** par une
+mise à jour du pack/catalogue, et sont **prioritaires** au routage dès qu'ils
+cadrent avec la demande de l'utilisateur.
+
+Au prochain `python3 routage.py build` (ou `perso --add` + build), chaque fichier
+est automatiquement converti au format du template (TEMPLATE-v2 : frontmatter
+YAML + 12 sections) et ingéré dans sa propre table `skills_perso` de skills.db.
+
+- `python3 routage.py perso`                -> liste tes skills perso (P1, P2...)
+- `python3 routage.py perso --add ma-skill.md` -> copie + convertit dans ce dossier
+- `python3 routage.py perso --convert`      -> (re)convertit tous les fichiers du dossier
+- `python3 routage.py route "..."`          -> une skill perso gagnante s'affiche ⭐ Perso Pn
+- `python3 routage.py route "perso 2"`      -> renvoi direct vers la perso n°2
+
+Les skills perso ne sont jamais exportées dans le pack (elles restent locales).
+"""
+
+SECTIONS_PERSO_RE = [
+    r"^\*\*Objectif\*\*", r"^\*\*Quand l'utiliser", r"^\*\*Hors périmètre\*\*",
+    r"^\*\*Garde-fous\*\*", r"^\*\*Instructions système\*\*", r"^\*\*Inputs requis\*\*",
+    r"^\*\*Méthode\*\*", r"^\*\*Sorties attendues\*\*", r"^\*\*Exemple de prompt\*\*",
+    r"^\*\*Cas d'usage\*\*", r"^\*\*Checklist QA interne\*\*", r"^\*\*Definition of done\*\*",
+]
+
+
+def dossiers_perso() -> list[Path]:
+    """Dossiers mesSkillsPerso/ trouvés (pack : à côté de routage.py ; dépôt : racine)."""
+    here = Path(__file__).resolve().parent
+    cands = [here / "mesSkillsPerso", here.parent / "mesSkillsPerso"]
+    return [d for d in dict.fromkeys(cands) if d.is_dir()]
+
+
+def _assurer_readme_perso(d: Path) -> None:
+    r = d / "README.md"
+    if not r.exists():
+        r.write_text(PERSO_README, encoding="utf-8")
+
+
+def _sanitize_fm(v: str) -> str:
+    """Nettoie une valeur de frontmatter : pas de < > \" (injection), espaces tassés."""
+    return re.sub(r"\s+", " ", v.replace("<", " ").replace(">", " ").replace('"', " ")).strip()
+
+
+def normaliser_perso(txt: str, fname: str, num: int) -> str:
+    """Convertit un fichier utilisateur quelconque en skill TEMPLATE-v2 complète."""
+    import datetime
+    m = re.match(r"---\n(.*?)\n---\n?", txt, re.S)
+    fm, body = (m.group(1), txt[m.end():]) if m else ("", txt)
+    g = lambda k: (re.search(rf'^{k}: "(.*)"$', fm, re.M) or [None, ""])[1]
+    def gl(k):
+        mm = re.search(rf"^{k}: \[(.*)\]$", fm, re.M)
+        return [x.strip().strip('"') for x in mm.group(1).split(",") if x.strip()] if mm else []
+    h = re.search(r"^#{1,3}\s+(.+)$", body, re.M)
+    nom = _sanitize_fm(g("nom") or (h.group(1) if h else Path(fname).stem))[:120] or Path(fname).stem
+    emoji = g("emoji") or "\U0001f3af"
+    domaine = _sanitize_fm(g("domaine") or "Perso") or "Perso"
+    signal = _sanitize_fm(g("signal") or g("description") or "")
+    if not signal:
+        paras = [p.strip() for p in re.split(r"\n\s*\n", body)
+                 if p.strip() and not p.lstrip().startswith("#")]
+        signal = re.sub(r"\s+", " ", paras[0]) if paras else nom
+    if len(signal) > 1024:
+        signal = signal[:1021] + "..."
+    mot_cle = _sanitize_fm(g("mot_cle") or " ".join(t for t in tokens(nom) if len(t) >= 4)[:120] or norm(nom))
+    nom_court = _sanitize_fm(g("nom_court") or nom)[:30]
+    syns = [s for s in gl("synonymes") if s and not any(c in s for c in '<>"')][:8] or [norm(nom)]
+    date_ajout = g("date_ajout") or datetime.date.today().strftime("%Y-%m")
+    if not re.fullmatch(r"\d{4}-\d{2}", date_ajout):
+        date_ajout = datetime.date.today().strftime("%Y-%m")
+    # sections du body -> mapping par titres
+    secs, cur, buf = {}, None, []
+    for line in body.splitlines():
+        hh = re.match(r"^#{2,4}\s+(.+)$", line)
+        if hh:
+            if cur is not None:
+                secs[cur] = "\n".join(buf).strip()
+            cur, buf = hh.group(1).strip().lower(), []
+        elif cur is not None:
+            buf.append(line)
+    if cur is not None:
+        secs[cur] = "\n".join(buf).strip()
+
+    def trouve(*cles):
+        for k, v in secs.items():
+            if any(c in k for c in cles):
+                return v
+        return ""
+
+    def bullets(s, defaut):
+        if not s:
+            return f"- {defaut}"
+        lignes = [l.strip().lstrip("- ").strip() for l in s.splitlines() if l.strip()]
+        return "\n".join(f"- {l}" for l in lignes) if len(lignes) > 1 else f"- {lignes[0]}"
+
+    objectif = trouve("objectif", "description", "but") or signal
+    triggers = bullets(trouve("trigger", "quand", "utilise"), f"la demande concerne : {nom_court}")
+    hors = bullets(trouve("hors", "périmètre", "perimetre", "pas pour"),
+                   "ce qui ne relève pas de cette skill perso")
+    gardes = bullets(trouve("garde", "règle", "regle", "sécurité", "securite"),
+                     "GF-01 : rester factuel, ne rien inventer")
+    instr = trouve("instruction", "système", "system", "comportement", "rôle", "role")
+    if instr and not instr.startswith("Tu es"):
+        instr = "Tu es l'assistant perso de l'utilisateur sur ce sujet. " + instr
+    elif not instr:
+        instr = f"Tu es l'assistant perso de l'utilisateur pour « {nom_court} ». Tu appliques strictement le contenu de cette skill."
+    inputs = bullets(trouve("input", "entrée", "donnée", "donnee"), "la demande de l'utilisateur et son contexte")
+    methode = trouve("méthode", "etape", "étape", "process", "procédure", "procedure")
+    if not re.search(r"(?m)^\s*1\.", methode):
+        methode = "1. Comprendre précisément la demande.\n2. Appliquer la méthode décrite dans cette skill.\n3. Livrer une réponse claire, factuelle et vérifiable."
+    sorties = bullets(trouve("sortie", "livrable"), "la réponse attendue par l'utilisateur")
+    exemple = trouve("exemple", "prompt")
+    if "«" not in exemple:
+        exemple = f"« {nom_court} : <demande concrète de l'utilisateur> »"
+    cas = trouve("cas", "usage")
+    if "skill" not in cas.lower():
+        cas = (cas + "\n" if cas else "") + f"Usage perso : {nom_court} ; le catalogue skillAISlop complète (skills 0-1799)."
+    syns_s = ", ".join(f'"{s}"' for s in syns)
+    L = ["---", f"num: {num}", f'date_ajout: "{date_ajout}"', f'nom: "{nom}"', f'emoji: "{emoji}"',
+         f'domaine: "{domaine}"', f'signal: "{signal}"', f'mot_cle: "{mot_cle}"',
+         f'nom_court: "{nom_court}"', 'branche: "K"', f"synonymes: [{syns_s}]",
+         "cross_refs: []", 'tags: ["perso"]', "---", "",
+         f"## {num}. {emoji} {nom}", "",
+         "> 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD", "",
+         f"**Objectif** : {objectif}", "",
+         "**Quand l'utiliser (triggers)** :", triggers, "",
+         "**Hors périmètre** :", hors, "",
+         "**Garde-fous** :", gardes, "",
+         "**Instructions système** :", instr, "",
+         "**Inputs requis** :", inputs, "",
+         "**Méthode** :", methode, "",
+         "**Sorties attendues** :", sorties, "",
+         "**Exemple de prompt** :", f"> « {exemple.strip('« »')} »", "",
+         f"**Cas d'usage** : {cas}", "",
+         "**Checklist QA interne** :", "- [ ] Garde-fous respectés", "- [ ] Livrable conforme à la demande", "",
+         "**Definition of done** :", "- [ ] Livrable produit et relu", "- [ ] Limites du périmètre rappelées", "",
+         "---"]
+    return "\n".join(L) + "\n"
+
+
+def perso_conforme(txt: str) -> bool:
+    """Un fichier perso est déjà au template (frontmatter num + date_ajout + 12 sections)."""
+    m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+    if not m:
+        return False
+    fm = m.group(1)
+    if not (re.search(r"^num: \d+$", fm, re.M) and re.search(r'^date_ajout: "\d{4}-\d{2}"$', fm, re.M)):
+        return False
+    return all(re.search(p, txt, re.M) for p in SECTIONS_PERSO_RE)
+
+
+def ingerer_perso(db: sqlite3.Connection) -> int:
+    """Ingère mesSkillsPerso/*.md dans skills_perso (conversion auto au template)."""
+    fichiers = []
+    for d in dossiers_perso():
+        _assurer_readme_perso(d)
+        fichiers += [f for f in sorted(d.glob("*.md")) if not f.name.lower().startswith("readme")]
+    if not fichiers:
+        return 0
+    maxnum = db.execute("SELECT COALESCE(MAX(num),0) FROM skills_perso").fetchone()[0]
+    n = 0
+    for f in fichiers:
+        txt = f.read_text(encoding="utf-8")
+        if not perso_conforme(txt):
+            maxnum += 1
+            txt = normaliser_perso(txt, f.name, maxnum)
+            f.write_text(txt, encoding="utf-8")  # auto-format au template, en place (jamais supprimé)
+        fm = re.match(r"---\n(.*?)\n---\n", txt, re.S).group(1)
+        g = lambda k: (re.search(rf'^{k}: "(.*)"$', fm, re.M) or [None, ""])[1]
+        def gl(k):
+            mm = re.search(rf"^{k}: \[(.*)\]$", fm, re.M)
+            return [x.strip().strip('"') for x in mm.group(1).split(",") if x.strip()] if mm else []
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        nom, dom = g("nom"), g("domaine") or "Perso"
+        sig, mc, nc, da = g("signal"), g("mot_cle"), g("nom_court"), g("date_ajout")
+        syns = [s for s in gl("synonymes") if s and not any(c in s for c in '<>"')]
+        db.execute("INSERT OR REPLACE INTO skills_perso VALUES (?,?,?,?,?,?,?,?,?,?)",
+                   (num, nom, dom, sig, mc, nc, "K", ";".join(syns), da, f.name))
+        db.execute("INSERT INTO perso_fts(num, nom, signal, mot_cle, nom_court, domaine) VALUES (?,?,?,?,?,?)",
+                   (num, nom, sig, mc, nc, dom))
+        for s in syns:
+            db.execute("INSERT OR REPLACE INTO perso_synonymes VALUES (?,?,?)", (s, norm(s), num))
+        if mc:
+            db.execute("INSERT OR REPLACE INTO perso_mots_cles VALUES (?,?)", (norm(mc), num))
+        n += 1
+    db.commit()
+    return n
+
+
+def cmd_perso(add: str | None, convert: bool) -> int:
+    if add:
+        src = Path(add)
+        if not src.exists():
+            print(f"❌ {add} introuvable")
+            return 1
+        dirs = dossiers_perso()
+        d = dirs[0] if dirs else (Path(__file__).resolve().parent / "mesSkillsPerso")
+        d.mkdir(parents=True, exist_ok=True)
+        _assurer_readme_perso(d)
+        dst = d / src.name
+        dst.write_text(src.read_text(encoding="utf-8"), encoding="utf-8")
+        print(f"✅ copié dans {dst}")
+        print("   conversion au template + ingestion au prochain : python3 routage.py build")
+        return 0
+    if convert:
+        n = 0
+        for d in dossiers_perso():
+            _assurer_readme_perso(d)
+            maxnum = 0
+            for f in sorted(d.glob("*.md")):
+                if f.name.lower().startswith("readme"):
+                    continue
+                txt = f.read_text(encoding="utf-8")
+                if not perso_conforme(txt):
+                    m = re.search(r"^num: (\d+)$", txt.split("---")[1] if txt.startswith("---") else "", re.M)
+                    maxnum += 1
+                    num = int(m.group(1)) if m else maxnum
+                    f.write_text(normaliser_perso(txt, f.name, num), encoding="utf-8")
+                    n += 1
+                    print(f"   converti : {f.name} (P{num})")
+        print(f"✅ {n} fichier(s) converti(s) au template — puis : python3 routage.py build")
+        return 0
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = sqlite3.connect(DB_PATH)
+    db.row_factory = sqlite3.Row
+    try:
+        rows = db.execute("SELECT * FROM skills_perso ORDER BY num").fetchall()
+    except sqlite3.OperationalError:
+        rows = []
+    db.close()
+    print(f"⭐ {len(rows)} skill(s) perso (prioritaires au routage) dans mesSkillsPerso/ :")
+    for r in rows:
+        print(f"  P{r['num']} · {r['nom']} · [{r['domaine']}] · {r['fichier']} · date_ajout {r['date_ajout']}")
+    if not rows:
+        print("  (vide — dépose un .md dans mesSkillsPerso/ ou : routage.py perso --add ma-skill.md)")
+    return 0
+
+
 def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     q = norm(query)
     qt = tokens(query)
     qn = q  # forme normalisée hoistée (évite de re-normaliser dans les boucles)
     qt_forts = [t for t in qt if len(t) >= 3]
     res = {"exact": [], "fts": [], "vec": [], "flou": [], "pistes": [],
-           "domaines": [], "direct": None}
+           "domaines": [], "direct": None, "perso": []}
     vus = set()
 
     def cand(num, nom, domaine, signal, voie, cible, score=None):
@@ -4328,6 +5116,72 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
         if r:
             res["direct"] = cand(r["num"], r["nom"], r["domaine"],
                                  r["signal"] or "(routeur)", "direct", None)
+
+    # 0b) skills perso (mesSkillsPerso/) : PRIORITAIRES si elles cadrent avec la demande
+    # (tables petites : on scanne tout et on valide par recouvrement de tokens,
+    #  robuste aux apostrophes qui cassent instr())
+    try:
+        mp = re.search(r"perso (\d+)", q)
+        if mp:
+            r = db.execute("SELECT num, nom, domaine, signal, fichier FROM skills_perso WHERE num=?",
+                           (int(mp.group(1)),)).fetchone()
+            if r:
+                res["perso"].append({**cand(r["num"], r["nom"], r["domaine"],
+                                            r["signal"] or "(perso)", "direct perso", None),
+                                     "perso": True, "fichier": r["fichier"]})
+        pvus = {c["num"] for c in res["perso"]}
+        qts = set(qt_forts)
+
+        def perso_hit(r, voie, cible, score=None):
+            res["perso"].append({**cand(r["num"], r["nom"], r["domaine"], r["signal"],
+                                        voie, cible, score),
+                                 "perso": True, "fichier": r["fichier"]})
+            pvus.add(r["num"])
+
+        if qn:
+            for r in db.execute(
+                "SELECT m.mot_cle_norm AS mc, p.num, p.nom, p.domaine, p.signal, p.fichier "
+                "FROM perso_mots_cles m JOIN skills_perso p ON p.num = m.num").fetchall():
+                if r["num"] in pvus:
+                    continue
+                mc = r["mc"]
+                if mc == qn or (len(qn) >= 5 and mc in qn) or (len(mc) >= 5 and qn in mc):
+                    perso_hit(r, "perso mot-clé", mc)
+                    continue
+                inter = set(tokens(mc)) & qts
+                if inter and any(len(t) >= 5 for t in inter):
+                    perso_hit(r, "perso mot-clé", mc)
+            for r in db.execute(
+                "SELECT s.synonyme, s.synonyme_norm AS sn, p.num, p.nom, p.domaine, p.signal, p.fichier "
+                "FROM perso_synonymes s JOIN skills_perso p ON p.num = s.num").fetchall():
+                if r["num"] in pvus:
+                    continue
+                sn = r["sn"]
+                inter = set(tokens(r["synonyme"])) & qts
+                if (qn and (sn in qn or qn in sn)) or (inter and any(len(t) >= 5 for t in inter)):
+                    perso_hit(r, "perso synonyme", r["synonyme"])
+        if qt_forts:
+            for op, match in (("AND", " ".join(f'"{t}"*' for t in qt_forts)),
+                              ("OR", " OR ".join(f'"{t}"*' for t in qt_forts))):
+                try:
+                    hits = db.execute(
+                        "SELECT perso_fts.num, perso_fts.nom, perso_fts.domaine, perso_fts.signal, "
+                        "p.fichier, bm25(perso_fts, 0.0, 2.0, 6.0, 10.0, 3.0, 1.0) AS score "
+                        "FROM perso_fts JOIN skills_perso p ON p.num = perso_fts.num "
+                        "WHERE perso_fts MATCH ? ORDER BY score LIMIT ?",
+                        (match, top)).fetchall()
+                except sqlite3.OperationalError:
+                    continue
+                for r in hits:
+                    if r["num"] in pvus:
+                        continue
+                    if op == "OR" and not _fts_valide(r, qt_forts):
+                        continue
+                    perso_hit(r, "perso fts", None, round(r["score"], 2))
+                if res["perso"]:
+                    break
+    except sqlite3.OperationalError:
+        pass  # base sans tables perso (vieux skills.db) : aucune skill perso
 
     # 1) mot-clé canonique : égalité puis inclusion, en SQL sur mots_cles (indexé)
     if qn:
@@ -4580,8 +5434,11 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
                 res[k] = [c for c in res[k] if c["num"] in tag_nums]
         except sqlite3.OperationalError:
             pass
-    candidats = ([res["direct"]] if res["direct"] else []) + res.get("fusion") \
-        or ([res["direct"]] if res["direct"] else []) + res["exact"] + res["fts"] + res["vec"] + res["flou"]
+    if res.get("perso"):
+        candidats = res["perso"]  # mesSkillsPerso/ : prioritaires si elles cadrent
+    else:
+        candidats = ([res["direct"]] if res["direct"] else []) + res.get("fusion") \
+            or ([res["direct"]] if res["direct"] else []) + res["exact"] + res["fts"] + res["vec"] + res["flou"]
     # chaîne de skills composables : si le gagnant a des depends_on, les proposer ensuite
     if candidats:
         try:
@@ -4610,6 +5467,10 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
     if as_json:
         print(json.dumps(res, ensure_ascii=False, indent=1))
         return code
+    for r in res.get("perso", []):
+        print(f"⭐ Perso P{r['num']} · {r['nom']} · [{r['domaine']}] · mesSkillsPerso/{r['fichier']}")
+        cible = f" « {r['cible']} »" if r.get("cible") else ""
+        print(f"  ↳ {r['voie']}{cible} — signal : {r['signal']}")
     if res["direct"]:
         d = res["direct"]
         print(f"◆ Skill {d['num']} · {d['nom']} · [{d['domaine']}]")
@@ -4630,7 +5491,8 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
         print(f"  ↳ approx (trigrammes « {r['cible']} », {r['score']}) "
               f"— signal : {r['signal']}")
     if code == 0:
-        print(f"⤳ Section : {candidats[0]['section']}")
+        c0 = candidats[0]
+        print(f"⤳ Section : {('mesSkillsPerso/' + c0['fichier']) if c0.get('perso') else c0['section']}")
     elif res["domaines"]:
         for d in res["domaines"]:
             print(f"◎ Domaine plausible : {d['domaine']} ({d['nb']} skills) "
@@ -5055,6 +5917,37 @@ def cmd_lint() -> int:
         if demande in tests_vus:
             problemes.append(f"test « {demande} » dupliqué")
         tests_vus.add(demande)
+    # R12 : date_ajout (YYYY-MM) présente et valide sur toutes les skills/*.md
+    # (repo : <racine>/skills, pack : skills/ à côté de routage.py)
+    here = Path(__file__).resolve().parent
+    sk_dirs = [d for d in (here / "skills", here.parent / "skills") if d.is_dir()]
+    for sk_dir in sk_dirs:
+        n_da = 0
+        for f in sk_dir.glob("*.md"):
+            fm = f.read_text(encoding="utf-8").split("---")[1]
+            m = re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm, re.M)
+            if not (m and 1 <= int(m.group(2)) <= 12):
+                problemes.append(f"{f.name} : date_ajout absente ou invalide (YYYY-MM)")
+            else:
+                n_da += 1
+        print(f"  date_ajout : {n_da} skills conformes (YYYY-MM) dans {sk_dir}")
+    # skills perso (mesSkillsPerso/) : date_ajout + pas de < > + au moins un mot_cle
+    for pd in dossiers_perso():
+        n_p = 0
+        for f in pd.glob("*.md"):
+            if f.name.lower().startswith("readme"):
+                continue
+            txt = f.read_text(encoding="utf-8")
+            fm = txt.split("---")[1] if txt.startswith("---") else ""
+            m = re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm, re.M)
+            if not (m and 1 <= int(m.group(2)) <= 12):
+                problemes.append(f"perso {f.name} : date_ajout absente ou invalide (YYYY-MM)")
+            if fm and re.search(r"[<>]", fm):
+                problemes.append(f"perso {f.name} : frontmatter contient < ou >")
+            if not re.search(r'^mot_cle: ".+"$', fm, re.M):
+                problemes.append(f"perso {f.name} : mot_cle vide")
+            n_p += 1
+        print(f"  perso : {n_p} skill(s) dans {pd} (date_ajout + frontmatter contrôlés)")
     if DB_PATH.exists():
         db = sqlite3.connect(DB_PATH)
         nums = {r[0] for r in db.execute("SELECT num FROM skills")}
@@ -5248,14 +6141,24 @@ Avant de choisir une skill toi-même, lance le routeur :
 ```
 Alternative standard Agent Skills (sans routeur) : `python3 routage.py skillmd --sortie agent-skills` puis `npx skills add ./agent-skills`.
 
+## Mes skills perso (`mesSkillsPerso/`)
+Dépose tes propres fichiers `.md` dans `mesSkillsPerso/` (à côté de `routage.py`) :
+- ils **restent dans ce dossier** et ne sont **jamais écrasés ni supprimés** par une mise à jour du pack (le pack n'embarque que `mesSkillsPerso/README.md`)
+- au prochain `build` (ou `perso --add` + build), ils sont **convertis automatiquement au format du template** (frontmatter YAML avec `date_ajout: "YYYY-MM"` + les 12 sections TEMPLATE-v2) et ingérés dans leur **propre table** `skills_perso` de `skills.db`
+- au routage, ils sont **prioritaires** sur le catalogue : s'ils cadrent avec la demande, la réponse affiche `⭐ Perso Pn · mesSkillsPerso/<fichier>` (exit 0)
+- commandes : `perso` (liste) · `perso --add ma-skill.md` · `perso --convert` · `route "perso 2"` (renvoi direct)
+- les skills perso ne sont jamais exportées dans le pack (elles restent locales au projet)
+
 ## Contenu
-- `skills/` — {nb} skills + routeur 0, soit {nbf} fichiers `NNN-slug.md` (frontmatter YAML complet : num, nom, domaine, signal, mot_cle, synonymes, cross_refs)
-- `routage.py` — routeur autonome (build, route, test, lint, export, sonde, vocab, versions, analytics)
+- `skills/` — {nb} skills + routeur 0, soit {nbf} fichiers `NNN-slug.md` (frontmatter YAML complet : num, date_ajout YYYY-MM, nom, domaine, signal, mot_cle, synonymes, cross_refs)
+- `mesSkillsPerso/` — dossier de tes skills perso (README + tes fichiers, jamais touché par les mises à jour)
+- `routage.py` — routeur autonome (build, route, test, lint, perso, export, sonde, vocab, versions, analytics)
 - `manifeste.json` — version sémantique (meta), nombre de skills, domaines, hash sha256 des fichiers skills
 
 ## Commandes utiles
 - `route "<demande>"` → skill 0/1/2 (0 = trouvée, 1 = piste, 2 = rien)
-- `route "<demande>" --json` → candidats avec voie et score
+- `route "<demande>" --json` → candidats avec voie et score (clé `perso` pour les skills perso)
+- `perso` · `perso --add <fichier.md>` · `perso --convert`
 - `test` · `lint` · `sonde` · `vocab` · `versions` · `misses` · `analytics`
 """
 
@@ -5316,6 +6219,13 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             # (skills.db est régénéré par build --from-skills : exclu du pack)
             z.write(f, f"skills/{f.name}")
         z.write(RACINE / "outils" / "routage.py", "routage.py")
+        # mesSkillsPerso/ : JAMAIS les fichiers perso de l'utilisateur (ils restent
+        # locaux, jamais écrasés à l'upgrade) — uniquement le README explicatif
+        pr = RACINE / "mesSkillsPerso" / "README.md"
+        if pr.exists():
+            z.write(pr, "mesSkillsPerso/README.md")
+        else:
+            z.writestr("mesSkillsPerso/README.md", PERSO_README)
         z.writestr("manifeste.json", json.dumps(manifeste, ensure_ascii=False, indent=2))
         z.writestr("README.md", README_PACK.format(nb=nb - 1, nbf=nb))
     print(f"✅ pack exporté : {sortie} ({sortie.stat().st_size/1e6:.2f} Mo, {nb - 1} skills + 1 routeur, hash {h[:12]}…)")
@@ -5660,6 +6570,10 @@ def main():
     p_cnt.add_argument("canvas", nargs="?", type=Path, default=CANVAS_PAR_DEFAUT)
     p_cnt.add_argument("--dossier", type=Path, default=RACINE / "data")
 
+    p_perso = sub.add_parser("perso", help="skills perso (mesSkillsPerso/) : liste / --add <fichier.md> / --convert")
+    p_perso.add_argument("--add", default=None, help="copie un fichier .md dans mesSkillsPerso/")
+    p_perso.add_argument("--convert", action="store_true", help="convertit tous les fichiers du dossier au template")
+
     args = ap.parse_args()
     if args.cmd == "build":
         cmd_build(args.canvas, from_skills=args.from_skills)
@@ -5705,6 +6619,8 @@ def main():
         raise SystemExit(cmd_export(args.canvas, args.fichier, args.complet))
     elif args.cmd == "count":
         raise SystemExit(cmd_count(args.canvas, args.dossier))
+    elif args.cmd == "perso":
+        raise SystemExit(cmd_perso(args.add, args.convert))
 
 
 if __name__ == "__main__":

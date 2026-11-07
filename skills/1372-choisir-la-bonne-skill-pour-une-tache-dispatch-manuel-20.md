@@ -1,5 +1,6 @@
 ---
 num: 1372
+date_ajout: "2026-11"
 nom: "Choisir la bonne skill pour une tache (dispatch manuel, 2027)"
 emoji: "🧭"
 domaine: "Routage"

@@ -1,5 +1,6 @@
 ---
 num: 810
+date_ajout: "2026-11"
 nom: "Choisir son agent personnel 2026 (Muse, Dots, Duet)"
 emoji: "🧭"
 domaine: "Personnel"

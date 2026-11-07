@@ -1,5 +1,6 @@
 ---
 num: 1270
+date_ajout: "2026-11"
 nom: "Shader Visual Effects Authoring"
 emoji: "💻"
 domaine: "Développement"

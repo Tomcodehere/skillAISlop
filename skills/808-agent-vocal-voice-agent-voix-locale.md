@@ -1,5 +1,6 @@
 ---
 num: 808
+date_ajout: "2026-11"
 nom: "Agent vocal (voice agent) & voix locale"
 emoji: "🎙️"
 domaine: "IA / Prompting"

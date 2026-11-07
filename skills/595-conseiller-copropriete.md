@@ -1,5 +1,6 @@
 ---
 num: 595
+date_ajout: "2026-11"
 nom: "Conseiller copropriété"
 emoji: "🏢"
 domaine: "Juridique"

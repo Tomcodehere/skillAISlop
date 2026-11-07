@@ -1,5 +1,6 @@
 ---
 num: 634
+date_ajout: "2026-11"
 nom: "Licenciement & fin de contrat"
 emoji: "🚪"
 domaine: "Juridique"

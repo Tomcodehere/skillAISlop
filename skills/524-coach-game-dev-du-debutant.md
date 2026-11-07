@@ -1,5 +1,6 @@
 ---
 num: 524
+date_ajout: "2026-11"
 nom: "Coach game dev du débutant"
 emoji: "🎮"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 396
+date_ajout: "2026-11"
 nom: "Rédacteur de quatrièmes de couverture"
 emoji: "🍍"
 domaine: "Rédaction"

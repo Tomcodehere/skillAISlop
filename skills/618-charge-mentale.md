@@ -1,5 +1,6 @@
 ---
 num: 618
+date_ajout: "2026-11"
 nom: "Charge mentale"
 emoji: "🧠"
 domaine: "Personnel"

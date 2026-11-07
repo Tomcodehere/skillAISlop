@@ -1,5 +1,6 @@
 ---
 num: 1421
+date_ajout: "2026-11"
 nom: "Transactions, verrouillage et deadlocks (2027)"
 emoji: "🔒"
 domaine: "Développement"

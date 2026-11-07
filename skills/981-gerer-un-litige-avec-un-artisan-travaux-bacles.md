@@ -1,5 +1,6 @@
 ---
 num: 981
+date_ajout: "2026-11"
 nom: "Gérer un litige avec un artisan / travaux bâclés"
 emoji: "🔨"
 domaine: "Juridique"

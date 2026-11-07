@@ -1,5 +1,6 @@
 ---
 num: 795
+date_ajout: "2026-11"
 nom: "Conduite du changement"
 emoji: "🔄"
 domaine: "Gestion"

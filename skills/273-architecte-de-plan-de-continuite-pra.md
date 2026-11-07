@@ -1,5 +1,6 @@
 ---
 num: 273
+date_ajout: "2026-11"
 nom: "Architecte de plan de continuité (PRA)"
 emoji: "🌋"
 domaine: "Gestion"

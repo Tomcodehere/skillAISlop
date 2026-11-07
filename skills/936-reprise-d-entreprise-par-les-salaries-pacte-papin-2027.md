@@ -1,5 +1,6 @@
 ---
 num: 936
+date_ajout: "2026-11"
 nom: "Reprise d'entreprise par les salariés (Pacte Papin 2027)"
 emoji: "🤝"
 domaine: "Gestion"

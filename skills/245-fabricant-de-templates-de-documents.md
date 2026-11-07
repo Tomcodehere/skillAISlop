@@ -1,5 +1,6 @@
 ---
 num: 245
+date_ajout: "2026-11"
 nom: "Fabricant de templates de documents"
 emoji: "🖨️"
 domaine: "Productivité"

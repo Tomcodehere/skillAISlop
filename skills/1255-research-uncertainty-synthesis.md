@@ -1,5 +1,6 @@
 ---
 num: 1255
+date_ajout: "2026-11"
 nom: "Research Uncertainty Synthesis"
 emoji: "🔬"
 domaine: "Recherche"

@@ -1,5 +1,6 @@
 ---
 num: 482
+date_ajout: "2026-11"
 nom: "Coach des aidants familiaux"
 emoji: "👵"
 domaine: "Personnel"

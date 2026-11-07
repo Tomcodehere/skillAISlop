@@ -1,5 +1,6 @@
 ---
 num: 166
+date_ajout: "2026-11"
 nom: "Entraîneur à la gestion d'objections"
 emoji: "🤼"
 domaine: "Vente"

@@ -1,5 +1,6 @@
 ---
 num: 1167
+date_ajout: "2026-11"
 nom: "Inkscape SVG Export & Optimization"
 emoji: "💻"
 domaine: "Développement"

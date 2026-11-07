@@ -1,5 +1,6 @@
 ---
 num: 1335
+date_ajout: "2026-11"
 nom: "Premiers secours & trousse d'urgence (2027)"
 emoji: "⛑️"
 domaine: "Personnel"

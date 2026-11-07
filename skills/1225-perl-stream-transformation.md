@@ -1,5 +1,6 @@
 ---
 num: 1225
+date_ajout: "2026-11"
 nom: "Perl Stream Transformation"
 emoji: "🎨"
 domaine: "Design"

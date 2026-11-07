@@ -1,5 +1,6 @@
 ---
 num: 1588
+date_ajout: "2026-11"
 nom: "Soldes Steam et prix regionaux (2027)"
 emoji: "💷"
 domaine: "Game Dev"

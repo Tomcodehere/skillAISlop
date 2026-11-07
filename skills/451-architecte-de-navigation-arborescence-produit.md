@@ -1,5 +1,6 @@
 ---
 num: 451
+date_ajout: "2026-11"
 nom: "Architecte de navigation & arborescence produit"
 emoji: "🚉"
 domaine: "Produit"

@@ -1,5 +1,6 @@
 ---
 num: 1099
+date_ajout: "2026-11"
 nom: "Data Quality Monitoring"
 emoji: "💻"
 domaine: "Développement"

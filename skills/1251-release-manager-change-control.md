@@ -1,5 +1,6 @@
 ---
 num: 1251
+date_ajout: "2026-11"
 nom: "Release Manager & Change Control"
 emoji: "💻"
 domaine: "Développement"

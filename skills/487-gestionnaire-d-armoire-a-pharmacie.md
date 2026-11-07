@@ -1,5 +1,6 @@
 ---
 num: 487
+date_ajout: "2026-11"
 nom: "Gestionnaire d'armoire à pharmacie"
 emoji: "🍷"
 domaine: "Personnel"

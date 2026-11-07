@@ -1,5 +1,6 @@
 ---
 num: 772
+date_ajout: "2026-11"
 nom: "Préparation à un entretien d'embauche technique"
 emoji: "💻"
 domaine: "Carrière"

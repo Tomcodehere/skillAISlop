@@ -1,5 +1,6 @@
 ---
 num: 115
+date_ajout: "2026-11"
 nom: "Extracteur de reçus & factures"
 emoji: "💼"
 domaine: "Bureau"

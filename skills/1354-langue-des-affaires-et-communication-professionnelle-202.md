@@ -1,5 +1,6 @@
 ---
 num: 1354
+date_ajout: "2026-11"
 nom: "Langue des affaires et communication professionnelle (2027)"
 emoji: "💼"
 domaine: "Langues"

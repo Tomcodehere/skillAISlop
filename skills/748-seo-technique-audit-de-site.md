@@ -1,5 +1,6 @@
 ---
 num: 748
+date_ajout: "2026-11"
 nom: "SEO technique & audit de site"
 emoji: "🔧"
 domaine: "Marketing"

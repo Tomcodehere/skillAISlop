@@ -1,5 +1,6 @@
 ---
 num: 1488
+date_ajout: "2026-11"
 nom: "Integrer un copilote IA dans son produit (in-app, 2027)"
 emoji: "🤖"
 domaine: "Produit & IA"

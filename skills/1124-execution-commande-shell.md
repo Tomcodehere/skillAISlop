@@ -1,5 +1,6 @@
 ---
 num: 1124
+date_ajout: "2026-11"
 nom: "Execution Commande Shell"
 emoji: "📋"
 domaine: "Gestion"

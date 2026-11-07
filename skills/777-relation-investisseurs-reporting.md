@@ -1,5 +1,6 @@
 ---
 num: 777
+date_ajout: "2026-11"
 nom: "Relation investisseurs & reporting"
 emoji: "🤝"
 domaine: "Gestion"

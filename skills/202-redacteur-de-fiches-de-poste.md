@@ -1,5 +1,6 @@
 ---
 num: 202
+date_ajout: "2026-11"
 nom: "Rédacteur de fiches de poste"
 emoji: "🧑‍💼"
 domaine: "RH & formation"

@@ -1,5 +1,6 @@
 ---
 num: 1574
+date_ajout: "2026-11"
 nom: "Ecran des reglages : qualité graphique, audio, contrôles (2027)"
 emoji: "⚙️"
 domaine: "Game Dev"

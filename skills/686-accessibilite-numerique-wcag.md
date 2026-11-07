@@ -1,5 +1,6 @@
 ---
 num: 686
+date_ajout: "2026-11"
 nom: "Accessibilité numérique (WCAG)"
 emoji: "♿"
 domaine: "Design"

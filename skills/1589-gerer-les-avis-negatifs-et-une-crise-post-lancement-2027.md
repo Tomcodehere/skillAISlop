@@ -1,5 +1,6 @@
 ---
 num: 1589
+date_ajout: "2026-11"
 nom: "Gerer les avis negatifs et une crise post-lancement (2027)"
 emoji: "💬"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 207
+date_ajout: "2026-11"
 nom: "Rédacteur de politiques internes RH"
 emoji: "🪧"
 domaine: "RH & formation"

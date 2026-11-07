@@ -1,5 +1,6 @@
 ---
 num: 1442
+date_ajout: "2026-11"
 nom: "Cache semantique des reponses LLM (2027)"
 emoji: "💾"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1071
+date_ajout: "2026-11"
 nom: "Cloud Migration Strategy"
 emoji: "📋"
 domaine: "Gestion"

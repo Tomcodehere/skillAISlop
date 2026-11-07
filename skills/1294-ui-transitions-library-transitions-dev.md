@@ -1,5 +1,6 @@
 ---
 num: 1294
+date_ajout: "2026-11"
 nom: "UI Transitions Library (Transitions.dev)"
 emoji: "💻"
 domaine: "Développement"

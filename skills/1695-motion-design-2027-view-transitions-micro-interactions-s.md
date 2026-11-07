@@ -1,5 +1,6 @@
 ---
 num: 1695
+date_ajout: "2026-11"
 nom: "Motion design 2027 : view transitions, micro-interactions, scroll (2027)"
 emoji: "🎬"
 domaine: "Design"

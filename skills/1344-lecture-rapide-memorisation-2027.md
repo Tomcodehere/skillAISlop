@@ -1,5 +1,6 @@
 ---
 num: 1344
+date_ajout: "2026-11"
 nom: "Lecture rapide & mémorisation (2027)"
 emoji: "📖"
 domaine: "Apprentissage"

@@ -1,5 +1,6 @@
 ---
 num: 684
+date_ajout: "2026-11"
 nom: "Expatriation & départ à l'étranger"
 emoji: "🌍"
 domaine: "Personnel"

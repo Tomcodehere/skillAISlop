@@ -1,5 +1,6 @@
 ---
 num: 1458
+date_ajout: "2026-11"
 nom: "Honeypot pour detecter les scans et attaques (2027)"
 emoji: "🍯️"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 315
+date_ajout: "2026-11"
 nom: "Chasseur de régression (git bisect)"
 emoji: "🌓"
 domaine: "Développement"

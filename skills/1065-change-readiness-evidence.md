@@ -1,5 +1,6 @@
 ---
 num: 1065
+date_ajout: "2026-11"
 nom: "Change Readiness Evidence"
 emoji: "💻"
 domaine: "Développement"

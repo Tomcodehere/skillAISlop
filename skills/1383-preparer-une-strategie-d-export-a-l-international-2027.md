@@ -1,5 +1,6 @@
 ---
 num: 1383
+date_ajout: "2026-11"
 nom: "Preparer une strategie d'export a l'international (2027)"
 emoji: "✈"
 domaine: "Stratégie"

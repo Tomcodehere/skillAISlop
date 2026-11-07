@@ -1,5 +1,6 @@
 ---
 num: 116
+date_ajout: "2026-11"
 nom: "Rédacteur de documents longs"
 emoji: "📖"
 domaine: "Rédaction"

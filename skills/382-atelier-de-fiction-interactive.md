@@ -1,5 +1,6 @@
 ---
 num: 382
+date_ajout: "2026-11"
 nom: "Atelier de fiction interactive"
 emoji: "🍄"
 domaine: "Rédaction"

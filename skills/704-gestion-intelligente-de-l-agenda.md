@@ -1,5 +1,6 @@
 ---
 num: 704
+date_ajout: "2026-11"
 nom: "Gestion intelligente de l'agenda"
 emoji: "📅"
 domaine: "Productivité"

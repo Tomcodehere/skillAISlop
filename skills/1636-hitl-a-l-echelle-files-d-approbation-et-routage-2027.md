@@ -1,5 +1,6 @@
 ---
 num: 1636
+date_ajout: "2026-11"
 nom: "HITL a l'echelle : files d'approbation et routage (2027)"
 emoji: "🧑‍💻"
 domaine: "IA / Prompting"

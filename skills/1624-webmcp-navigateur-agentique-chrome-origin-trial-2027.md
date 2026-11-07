@@ -1,5 +1,6 @@
 ---
 num: 1624
+date_ajout: "2026-11"
 nom: "WebMCP : navigateur agentique (Chrome origin trial, 2027)"
 emoji: "🌐"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 112
+date_ajout: "2026-11"
 nom: "Analyste win/loss"
 emoji: "🏁"
 domaine: "Vente"

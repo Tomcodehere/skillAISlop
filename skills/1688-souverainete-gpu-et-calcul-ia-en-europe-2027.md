@@ -1,5 +1,6 @@
 ---
 num: 1688
+date_ajout: "2026-11"
 nom: "Souveraineté GPU et calcul IA en Europe (2027)"
 emoji: "🧠"
 domaine: "Juridique"

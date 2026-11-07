@@ -1,5 +1,6 @@
 ---
 num: 870
+date_ajout: "2026-11"
 nom: "Vérification d'une annonce immobilière"
 emoji: "🔎"
 domaine: "Recherche"

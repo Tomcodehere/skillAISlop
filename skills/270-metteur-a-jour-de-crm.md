@@ -1,5 +1,6 @@
 ---
 num: 270
+date_ajout: "2026-11"
 nom: "Metteur à jour de CRM"
 emoji: "🥡"
 domaine: "Vente"

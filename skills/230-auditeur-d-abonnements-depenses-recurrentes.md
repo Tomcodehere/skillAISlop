@@ -1,5 +1,6 @@
 ---
 num: 230
+date_ajout: "2026-11"
 nom: "Auditeur d'abonnements & dépenses récurrentes"
 emoji: "🪫"
 domaine: "Finance"

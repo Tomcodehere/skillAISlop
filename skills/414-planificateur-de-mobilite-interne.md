@@ -1,5 +1,6 @@
 ---
 num: 414
+date_ajout: "2026-11"
 nom: "Planificateur de mobilité interne"
 emoji: "🚏"
 domaine: "RH & formation"

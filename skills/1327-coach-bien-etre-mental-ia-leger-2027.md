@@ -1,5 +1,6 @@
 ---
 num: 1327
+date_ajout: "2026-11"
 nom: "Coach bien-être mental IA (léger) 2027"
 emoji: "🧠"
 domaine: "Personnel"

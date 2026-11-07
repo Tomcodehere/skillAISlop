@@ -1,5 +1,6 @@
 ---
 num: 510
+date_ajout: "2026-11"
 nom: "Auditeur de réseau & Wi-Fi"
 emoji: "⚓"
 domaine: "Sécurité"

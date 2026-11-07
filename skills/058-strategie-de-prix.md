@@ -1,5 +1,6 @@
 ---
 num: 58
+date_ajout: "2026-11"
 nom: "Stratégie de prix"
 emoji: "💰"
 domaine: "Stratégie"

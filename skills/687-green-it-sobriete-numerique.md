@@ -1,5 +1,6 @@
 ---
 num: 687
+date_ajout: "2026-11"
 nom: "Green IT & sobriété numérique"
 emoji: "🌿"
 domaine: "Développement"

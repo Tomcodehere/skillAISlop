@@ -1,5 +1,6 @@
 ---
 num: 185
+date_ajout: "2026-11"
 nom: "Priorisateur de backlog"
 emoji: "🔢"
 domaine: "Produit"

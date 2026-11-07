@@ -1,5 +1,6 @@
 ---
 num: 169
+date_ajout: "2026-11"
 nom: "Analyste de rentabilité unitaire"
 emoji: "🪙"
 domaine: "Finance"

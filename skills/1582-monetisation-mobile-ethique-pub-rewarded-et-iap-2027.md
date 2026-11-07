@@ -1,5 +1,6 @@
 ---
 num: 1582
+date_ajout: "2026-11"
 nom: "Monetisation mobile éthique : pub rewarded et IAP (2027)"
 emoji: "📱"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 1105
+date_ajout: "2026-11"
 nom: "Deliverable Completeness Review"
 emoji: "📋"
 domaine: "Gestion"

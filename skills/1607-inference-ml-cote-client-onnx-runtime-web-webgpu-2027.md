@@ -1,5 +1,6 @@
 ---
 num: 1607
+date_ajout: "2026-11"
 nom: "Inference ML côté client : ONNX Runtime Web + WebGPU (2027)"
 emoji: "🧠"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1246
+date_ajout: "2026-11"
 nom: "Python Service Boundary Implementation"
 emoji: "💻"
 domaine: "Développement"

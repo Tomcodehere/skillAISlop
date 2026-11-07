@@ -1,5 +1,6 @@
 ---
 num: 778
+date_ajout: "2026-11"
 nom: "Trésorerie & BFR de la PME"
 emoji: "🏦"
 domaine: "Finance"

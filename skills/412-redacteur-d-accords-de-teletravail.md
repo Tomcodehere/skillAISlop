@@ -1,5 +1,6 @@
 ---
 num: 412
+date_ajout: "2026-11"
 nom: "Rédacteur d'accords de télétravail"
 emoji: "🪑"
 domaine: "RH & formation"

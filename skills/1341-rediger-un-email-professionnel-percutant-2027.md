@@ -1,5 +1,6 @@
 ---
 num: 1341
+date_ajout: "2026-11"
 nom: "Rédiger un email professionnel percutant (2027)"
 emoji: "📧"
 domaine: "Communication"

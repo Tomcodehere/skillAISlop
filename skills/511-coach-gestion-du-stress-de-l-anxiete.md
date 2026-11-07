@@ -1,5 +1,6 @@
 ---
 num: 511
+date_ajout: "2026-11"
 nom: "Coach gestion du stress & de l'anxiété"
 emoji: "😰"
 domaine: "Personnel"

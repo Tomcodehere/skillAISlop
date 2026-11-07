@@ -1,5 +1,6 @@
 ---
 num: 504
+date_ajout: "2026-11"
 nom: "Modeleur de menaces cyber"
 emoji: "🦠"
 domaine: "Sécurité"

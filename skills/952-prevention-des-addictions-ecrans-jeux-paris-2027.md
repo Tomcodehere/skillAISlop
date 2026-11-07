@@ -1,5 +1,6 @@
 ---
 num: 952
+date_ajout: "2026-11"
 nom: "Prévention des addictions (écrans, jeux, paris) 2027"
 emoji: "🎰"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 43
+date_ajout: "2026-11"
 nom: "Coach budget perso"
 emoji: "💸"
 domaine: "Personnel"

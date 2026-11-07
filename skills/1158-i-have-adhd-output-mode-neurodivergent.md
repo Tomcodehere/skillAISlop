@@ -1,5 +1,6 @@
 ---
 num: 1158
+date_ajout: "2026-11"
 nom: "I Have ADHD (Output Mode Neurodivergent)"
 emoji: "📋"
 domaine: "Gestion"

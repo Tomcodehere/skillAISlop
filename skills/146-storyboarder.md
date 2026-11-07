@@ -1,5 +1,6 @@
 ---
 num: 146
+date_ajout: "2026-11"
 nom: "Storyboarder"
 emoji: "🎦"
 domaine: "Créativité"

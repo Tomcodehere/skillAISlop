@@ -1,5 +1,6 @@
 ---
 num: 153
+date_ajout: "2026-11"
 nom: "Maquettiste wireframe"
 emoji: "📐"
 domaine: "Design"

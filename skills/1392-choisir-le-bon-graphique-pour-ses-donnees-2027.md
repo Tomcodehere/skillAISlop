@@ -1,5 +1,6 @@
 ---
 num: 1392
+date_ajout: "2026-11"
 nom: "Choisir le bon graphique pour ses donnees (2027)"
 emoji: "📉"
 domaine: "Data"

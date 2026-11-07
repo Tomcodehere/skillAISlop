@@ -1,5 +1,6 @@
 ---
 num: 1398
+date_ajout: "2026-11"
 nom: "Gerer une question piege en interview ou en media (2027)"
 emoji: "🎤"
 domaine: "Communication"

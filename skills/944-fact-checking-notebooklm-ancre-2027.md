@@ -1,5 +1,6 @@
 ---
 num: 944
+date_ajout: "2026-11"
 nom: "Fact-checking & NotebookLM ancré 2027"
 emoji: "📚"
 domaine: "Recherche"

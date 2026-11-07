@@ -1,5 +1,6 @@
 ---
 num: 1477
+date_ajout: "2026-11"
 nom: "Recherche hybride BM25 + embeddings (2027)"
 emoji: "🔍"
 domaine: "Data & IA"

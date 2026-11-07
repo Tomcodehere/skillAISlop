@@ -1,5 +1,6 @@
 ---
 num: 1526
+date_ajout: "2026-11"
 nom: "Boss : phases et patterns telegraphes (2027)"
 emoji: "🐉"
 domaine: "Game Dev"

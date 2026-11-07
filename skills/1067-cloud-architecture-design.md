@@ -1,5 +1,6 @@
 ---
 num: 1067
+date_ajout: "2026-11"
 nom: "Cloud Architecture Design"
 emoji: "💻"
 domaine: "Développement"

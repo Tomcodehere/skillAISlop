@@ -1,5 +1,6 @@
 ---
 num: 975
+date_ajout: "2026-11"
 nom: "Faire reconnaître une maladie professionnelle (MP)"
 emoji: "🏥"
 domaine: "Juridique"

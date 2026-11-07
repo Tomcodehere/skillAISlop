@@ -1,5 +1,6 @@
 ---
 num: 862
+date_ajout: "2026-11"
 nom: "Organisation des papiers administratifs (famille)"
 emoji: "🗄️"
 domaine: "Bureau"

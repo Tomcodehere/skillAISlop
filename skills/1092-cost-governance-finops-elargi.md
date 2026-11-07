@@ -1,5 +1,6 @@
 ---
 num: 1092
+date_ajout: "2026-11"
 nom: "Cost Governance (FinOps elargi)"
 emoji: "🤖"
 domaine: "Data & IA"

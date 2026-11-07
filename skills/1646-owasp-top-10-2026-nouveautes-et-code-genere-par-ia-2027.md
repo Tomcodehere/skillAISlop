@@ -1,5 +1,6 @@
 ---
 num: 1646
+date_ajout: "2026-11"
 nom: "OWASP Top 10 2026 : nouveautés et code genere par IA (2027)"
 emoji: "📜"
 domaine: "Sécurité"

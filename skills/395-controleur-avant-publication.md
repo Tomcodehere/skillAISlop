@@ -1,5 +1,6 @@
 ---
 num: 395
+date_ajout: "2026-11"
 nom: "Contrôleur avant publication"
 emoji: "🍌"
 domaine: "Rédaction"

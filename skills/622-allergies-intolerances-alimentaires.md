@@ -1,5 +1,6 @@
 ---
 num: 622
+date_ajout: "2026-11"
 nom: "Allergies & intolérances alimentaires"
 emoji: "🍽️"
 domaine: "Personnel"

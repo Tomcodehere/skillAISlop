@@ -1,5 +1,6 @@
 ---
 num: 1195
+date_ajout: "2026-11"
 nom: "Model Drift Retraining Gate"
 emoji: "🧠"
 domaine: "IA / Prompting"

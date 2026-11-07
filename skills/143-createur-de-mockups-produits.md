@@ -1,5 +1,6 @@
 ---
 num: 143
+date_ajout: "2026-11"
 nom: "Créateur de mockups produits"
 emoji: "🧴"
 domaine: "Design"

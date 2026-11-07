@@ -1,5 +1,6 @@
 ---
 num: 1293
+date_ajout: "2026-11"
 nom: "UI Tone-of-Voice Specification"
 emoji: "📦"
 domaine: "Produit"

@@ -1,5 +1,6 @@
 ---
 num: 989
+date_ajout: "2026-11"
 nom: "Préparer une expédition en kayak/canoë 2027"
 emoji: "🛶"
 domaine: "Personnel"

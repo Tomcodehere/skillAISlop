@@ -1,5 +1,6 @@
 ---
 num: 721
+date_ajout: "2026-11"
 nom: "Graphify : transformer un corpus en graphe de connaissances"
 emoji: "🕸️"
 domaine: "Data & IA"

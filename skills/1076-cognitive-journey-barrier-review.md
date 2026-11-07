@@ -1,5 +1,6 @@
 ---
 num: 1076
+date_ajout: "2026-11"
 nom: "Cognitive Journey Barrier Review"
 emoji: "🎓"
 domaine: "Formation"

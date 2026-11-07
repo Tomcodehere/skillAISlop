@@ -1,5 +1,6 @@
 ---
 num: 1451
+date_ajout: "2026-11"
 nom: "Protection DDoS applicative (WAF, 2027)"
 emoji: "🛡"
 domaine: "Sécurité"

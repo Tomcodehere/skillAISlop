@@ -1,5 +1,6 @@
 ---
 num: 1083
+date_ajout: "2026-11"
 nom: "Container Registry Management"
 emoji: "💻"
 domaine: "Développement"

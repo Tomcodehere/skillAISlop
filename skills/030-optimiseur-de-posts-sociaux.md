@@ -1,5 +1,6 @@
 ---
 num: 30
+date_ajout: "2026-11"
 nom: "Optimiseur de posts sociaux"
 emoji: "📱"
 domaine: "Marketing"

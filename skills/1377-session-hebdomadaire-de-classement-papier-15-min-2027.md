@@ -1,5 +1,6 @@
 ---
 num: 1377
+date_ajout: "2026-11"
 nom: "Session hebdomadaire de classement papier (15 min, 2027)"
 emoji: "🗂"
 domaine: "Bureau"

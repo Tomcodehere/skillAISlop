@@ -1,5 +1,6 @@
 ---
 num: 1489
+date_ajout: "2026-11"
 nom: "UX de l'incertitude : afficher la confiance de l'IA (2027)"
 emoji: "❓"
 domaine: "Produit & IA"

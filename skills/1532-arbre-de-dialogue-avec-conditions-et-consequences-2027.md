@@ -1,5 +1,6 @@
 ---
 num: 1532
+date_ajout: "2026-11"
 nom: "Arbre de dialogue avec conditions et consequences (2027)"
 emoji: "💬"
 domaine: "Game Dev"

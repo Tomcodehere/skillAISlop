@@ -1,5 +1,6 @@
 ---
 num: 458
+date_ajout: "2026-11"
 nom: "Concepteur de rôles & permissions produit"
 emoji: "🫅"
 domaine: "Produit"

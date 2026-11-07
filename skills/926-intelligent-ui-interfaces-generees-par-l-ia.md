@@ -1,5 +1,6 @@
 ---
 num: 926
+date_ajout: "2026-11"
 nom: "Intelligent UI : interfaces générées par l'IA"
 emoji: "✨"
 domaine: "Produit"

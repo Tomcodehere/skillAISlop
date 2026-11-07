@@ -1,5 +1,6 @@
 ---
 num: 1280
+date_ajout: "2026-11"
 nom: "Streaming Data Processing"
 emoji: "💻"
 domaine: "Développement"

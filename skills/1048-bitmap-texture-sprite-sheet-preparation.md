@@ -1,5 +1,6 @@
 ---
 num: 1048
+date_ajout: "2026-11"
 nom: "Bitmap Texture & Sprite Sheet Preparation"
 emoji: "🎨"
 domaine: "Design"

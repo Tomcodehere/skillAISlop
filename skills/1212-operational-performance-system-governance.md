@@ -1,5 +1,6 @@
 ---
 num: 1212
+date_ajout: "2026-11"
 nom: "Operational Performance System & Governance"
 emoji: "🎨"
 domaine: "Design"

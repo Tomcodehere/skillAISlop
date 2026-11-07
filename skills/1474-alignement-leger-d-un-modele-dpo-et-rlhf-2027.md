@@ -1,5 +1,6 @@
 ---
 num: 1474
+date_ajout: "2026-11"
 nom: "Alignement leger d'un modele : DPO et RLHF (2027)"
 emoji: "🧭"
 domaine: "Data & IA"

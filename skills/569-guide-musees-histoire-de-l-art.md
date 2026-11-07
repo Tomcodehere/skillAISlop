@@ -1,5 +1,6 @@
 ---
 num: 569
+date_ajout: "2026-11"
 nom: "Guide musées & histoire de l'art"
 emoji: "🏛️"
 domaine: "Apprentissage"

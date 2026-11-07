@@ -1,5 +1,6 @@
 ---
 num: 1453
+date_ajout: "2026-11"
 nom: "SIEM open source : centraliser les logs de securite (2027)"
 emoji: "🔎"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 1572
+date_ajout: "2026-11"
 nom: "Tutoriel in-game contextuel et skippable (2027)"
 emoji: "📖"
 domaine: "Game Dev"

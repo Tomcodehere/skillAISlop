@@ -1,5 +1,6 @@
 ---
 num: 1004
+date_ajout: "2026-11"
 nom: "Active Directory Architecture Design"
 emoji: "💻"
 domaine: "Développement"

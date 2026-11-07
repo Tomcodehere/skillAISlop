@@ -1,5 +1,6 @@
 ---
 num: 1571
+date_ajout: "2026-11"
 nom: "Menus accessibles : navigation clavier et manette (2027)"
 emoji: "🎛️"
 domaine: "Game Dev"

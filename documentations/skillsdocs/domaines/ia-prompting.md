@@ -1,4 +1,4 @@
-# Domaine : IA / Prompting (133 skills)
+# Domaine : IA / Prompting (136 skills)
 
 ## 17. 🎯 Coach de prompts (meta-prompting)
 
@@ -664,4 +664,19 @@
 
 - **Fichier** : `skills/1637-memoire-graphe-d-agent-zep-graphiti-2027.md` · **Mot-clé** : « mémoire graphe agent Zep Graphiti entités relations épisodes temporels neo4j 2027 » · **Nom court** : Mémoire graphe
 - **Signal** : Donner une mémoire graphe à un agent en 2027 (au-delà du vector store 1434) : Zep ou Graphiti stockent entités + relations + épisodes dans un graphe temporel (Neo4j/Kuzu 1478), l'agent raisonne sur les liens ('qui a signé ce contrat lié à X'). Utilise pour des agents personnels/entreprise avec historique riche. N'utilise pas si le vector store suffit. · **Synonymes** : « mémoire graphe agent (Zep », « Graphiti) vs vector store », « entités + relations + épisodes dans un graphe temporel », « l'agent se souvient des liens entre faits (1478) » · **Cross-refs** : 1434, 1478, 1477 · **Tags** : 2027
+
+## 1735. ⚖️ Choisir son assistant de codage IA en 2027 (Cursor, Claude Code, Copilot, Devin...) (2027)
+
+- **Fichier** : `skills/1735-choisir-son-assistant-de-codage-ia-en-2027-cursor-claude.md` · **Mot-clé** : « choisir assistant codage IA 2027 Cursor Claude Code Copilot Devin Desktop Codex OpenCode Jules comparatif SWE-bench » · **Nom court** : Choisir outil IA
+- **Signal** : Choisir son outil de codage IA en 2027 selon le profil : Cursor (IDE agentique, Composer 2.5, multi-fichiers, 20-60 $/mois) ; Claude Code (CLI terminal, SWE-bench 88,6 %, Opus 4.7 = 64,3 % SWE-bench Pro avril 2026, inclus Pro 20 $) pour les grosses missions/refacto ; GitHub Copilot (le plus déployé en entreprise, crédits d'usage depuis juin 2026, Business 19 $/siège) pour la complétion quotidienne ; Devin Desktop (ex-Windsurf, Cognition, juin 2026, SWE-1.6, agent autonome cloud+local) ; Codex (OpenAI, cloud parallèle) ; gratuits : OpenCode (open source), Jules (Google, 15 tâches/j), Copilot free. Règle : Copilot/Cursor au quotidien + Claude Code pour les missions lourdes. N'utilise pas un outil sans politique de sécurité du code (1736). · **Synonymes** : « quel outil IA pour coder en 2027 (Cursor vs Claude Code vs Copilot vs Devin) », « Copilot Business 19 $/siège + crédits depuis juin 2026 », « Claude Code CLI : SWE-bench 88 », « 6 % », « Opus 4.7 64 », « 3 % SWE-bench Pro (avril 2026) » · **Cross-refs** : 540, 76, 9 · **Tags** : 2027
+
+## 1738. 🤖 Agents de codage autonomes cloud : Devin, Codex (2027)
+
+- **Fichier** : `skills/1738-agents-de-codage-autonomes-cloud-devin-codex-2027.md` · **Mot-clé** : « agents codage autonomes cloud 2027 Devin Cognition Codex assigner issue PR sandbox revue 1401 SWE-1.6 » · **Nom court** : Agents auto
+- **Signal** : Déléguer une tâche complète à un agent autonome cloud en 2027 : Devin (Cognition, ex-Windsurf renommé Devin Desktop juin 2026, SWE-1.6, agent cloud+local, fait une PR) ou OpenAI Codex (cloud, parallèle, écosystème ChatGPT Pro 200 $) : assigner une issue GitHub, l'agent planifie, code, teste en sandbox, ouvre une PR — le dev ne fait que la revue (1401). Utilise pour les tâches bien cadrées (bug fix, feature isolée). N'utilise pas pour l'architecture critique sans revue approfondie. · **Synonymes** : « assigner une issue GitHub à Devin : il ouvre une PR (agent autonome 2027) », « Codex cloud (OpenAI) en parallèle sur plusieurs tâches », « l'agent code en sandbox », « je ne fais que la revue de PR (1401) » · **Cross-refs** : 1735, 1627, 1401 · **Tags** : 2027
+
+## 1742. 🆓 OpenCode et Jules : agents de codage gratuits/open source (2027)
+
+- **Fichier** : `skills/1742-opencode-et-jules-agents-de-codage-gratuits-open-source-.md` · **Mot-clé** : « opencode open source gratuit Jules Google 15 tâches jour 2027 agent codage local modèles 1633 » · **Nom court** : OpenCode/Jules
+- **Signal** : Utiliser un agent de codage gratuit/open source en 2027 : OpenCode (agent CLI open source, modèles au choix dont locaux 1633, gratuit) ou Google Jules (15 tâches background/jour en free tier, intégré GitHub). Pour du code perso/open source ou sans budget. N'utilise pas pour du code interne sensible (résidence 1736) sauf self-host (1633). · **Synonymes** : « agent de codage 100 % gratuit et open source (OpenCode) 2027 », « Jules (Google) : 15 tâches background gratuites par jour », « OpenCode avec un modèle local (1633) : le code ne sort jamais » · **Cross-refs** : 1735, 1633, 1736 · **Tags** : 2027
 

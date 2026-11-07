@@ -1,5 +1,6 @@
 ---
 num: 868
+date_ajout: "2026-11"
 nom: "Cours de cuisine thématique"
 emoji: "👨‍🍳"
 domaine: "Personnel"

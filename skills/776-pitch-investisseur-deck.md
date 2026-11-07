@@ -1,5 +1,6 @@
 ---
 num: 776
+date_ajout: "2026-11"
 nom: "Pitch investisseur & deck"
 emoji: "🎤"
 domaine: "Stratégie"

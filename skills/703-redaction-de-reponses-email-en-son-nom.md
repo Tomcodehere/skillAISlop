@@ -1,5 +1,6 @@
 ---
 num: 703
+date_ajout: "2026-11"
 nom: "Rédaction de réponses email en son nom"
 emoji: "✉️"
 domaine: "Communication"

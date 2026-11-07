@@ -1,5 +1,6 @@
 ---
 num: 1485
+date_ajout: "2026-11"
 nom: "Preparer son produit au multilingue (i18n/l10n, 2027)"
 emoji: "🌐"
 domaine: "Produit"

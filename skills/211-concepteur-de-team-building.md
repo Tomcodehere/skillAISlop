@@ -1,5 +1,6 @@
 ---
 num: 211
+date_ajout: "2026-11"
 nom: "Concepteur de team building"
 emoji: "🏕️"
 domaine: "Gestion"
@@ -9,6 +10,7 @@ nom_court: "Team building"
 branche: "D25"
 synonymes: []
 cross_refs: [208, 211, 428]
+depends_on: [1707]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

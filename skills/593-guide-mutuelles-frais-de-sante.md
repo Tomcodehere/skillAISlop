@@ -1,5 +1,6 @@
 ---
 num: 593
+date_ajout: "2026-11"
 nom: "Guide mutuelles & frais de santé"
 emoji: "🩺"
 domaine: "Personnel"

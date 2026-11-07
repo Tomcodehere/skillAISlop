@@ -1,5 +1,6 @@
 ---
 num: 1687
+date_ajout: "2026-11"
 nom: "AWS European Sovereign Cloud : évaluer l'offre souveraine US (2027)"
 emoji: "☁️"
 domaine: "Juridique"

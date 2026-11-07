@@ -1,5 +1,6 @@
 ---
 num: 750
+date_ajout: "2026-11"
 nom: "Contrats commerciaux & CGV clairs"
 emoji: "📜"
 domaine: "Juridique"

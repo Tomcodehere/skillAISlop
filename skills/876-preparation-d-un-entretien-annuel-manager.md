@@ -1,5 +1,6 @@
 ---
 num: 876
+date_ajout: "2026-11"
 nom: "Préparation d'un entretien annuel (manager)"
 emoji: "📊"
 domaine: "RH & formation"

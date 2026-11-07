@@ -1,5 +1,6 @@
 ---
 num: 1403
+date_ajout: "2026-11"
 nom: "Hooks Git et pre-commit (2027)"
 emoji: "🪝"
 domaine: "Développement"

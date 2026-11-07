@@ -1,5 +1,6 @@
 ---
 num: 492
+date_ajout: "2026-11"
 nom: "Coach de prononciation & phonétique"
 emoji: "🫦"
 domaine: "Langues"

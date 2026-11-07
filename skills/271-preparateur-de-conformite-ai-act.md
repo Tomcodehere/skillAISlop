@@ -1,5 +1,6 @@
 ---
 num: 271
+date_ajout: "2026-11"
 nom: "Préparateur de conformité AI Act"
 emoji: "🔏"
 domaine: "Juridique"

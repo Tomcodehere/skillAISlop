@@ -1,5 +1,6 @@
 ---
 num: 766
+date_ajout: "2026-11"
 nom: "Communication non-violente (CNV)"
 emoji: "🕊️"
 domaine: "Communication"

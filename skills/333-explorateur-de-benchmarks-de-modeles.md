@@ -1,5 +1,6 @@
 ---
 num: 333
+date_ajout: "2026-11"
 nom: "Explorateur de benchmarks de modèles"
 emoji: "🌠"
 domaine: "IA / Prompting"

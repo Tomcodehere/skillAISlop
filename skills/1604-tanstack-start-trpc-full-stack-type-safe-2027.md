@@ -1,5 +1,6 @@
 ---
 num: 1604
+date_ajout: "2026-11"
 nom: "TanStack Start + tRPC : full-stack type-safe (2027)"
 emoji: "🔐"
 domaine: "Développement"

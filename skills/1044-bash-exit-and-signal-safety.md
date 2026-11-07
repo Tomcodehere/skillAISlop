@@ -1,5 +1,6 @@
 ---
 num: 1044
+date_ajout: "2026-11"
 nom: "Bash Exit and Signal Safety"
 emoji: "💻"
 domaine: "Développement"

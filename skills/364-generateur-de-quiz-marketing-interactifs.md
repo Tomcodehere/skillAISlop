@@ -1,5 +1,6 @@
 ---
 num: 364
+date_ajout: "2026-11"
 nom: "Générateur de quiz marketing interactifs"
 emoji: "🌸"
 domaine: "Marketing"

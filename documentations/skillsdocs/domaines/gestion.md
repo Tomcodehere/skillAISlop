@@ -1,4 +1,4 @@
-# Domaine : Gestion (99 skills)
+# Domaine : Gestion (112 skills)
 
 ## 15. 🗂️ Planificateur de projet
 
@@ -123,7 +123,7 @@
 ## 434. 🍠 Modélisateur de rôles & responsabilités (RACI)
 
 - **Fichier** : `skills/434-modelisateur-de-roles-responsabilites-raci.md` · **Mot-clé** : « rôles & responsabilités (raci) » · **Nom court** : RACI
-- **Signal** : Qui fait quoi, matrice RACI · **Synonymes** : — · **Cross-refs** : 424, 426, 847 · **Tags** : —
+- **Signal** : Qui fait quoi, matrice RACI · **Synonymes** : « qui décide : mettre en place les rôles clairs » · **Cross-refs** : 424, 426, 847 · **Tags** : —
 
 ## 435. 🍡 Gardien du registre des risques
 
@@ -494,4 +494,69 @@
 
 - **Fichier** : `skills/1350-bilan-de-fin-d-annee-2027-tous-domaines.md` · **Mot-clé** : « bilan 2027 objectifs 2028 » · **Nom court** : Bilan 2027
 - **Signal** : Faire son bilan de l'année 2027 et poser ses objectifs 2028, revue mensuelle, 3 objectifs max SMART, célébrer les réussites · **Synonymes** : « objectifs 2028 » · **Cross-refs** : 999, 949, 899 · **Tags** : 2027
+
+## 1707. 👥 Team Topologies : structurer les équipes plateforme (2027)
+
+- **Fichier** : `skills/1707-team-topologies-structurer-les-equipes-plateforme-2027.md` · **Mot-clé** : « team topologies 2027 stream-aligned platform enabling complicated-subsystem charge cognitive » · **Nom court** : Team Topologies
+- **Signal** : Organiser les équipes engineering avec Team Topologies (2027) : 4 types d'équipes — stream-aligned (produit, autonome), platform (IDP 1700, réduit la charge cognitive), enabling (expertise ponctuelle : sécurité, perf), complicated-subsystem (composant complexe : paiement, moteur). + charge cognitive mesurée (enquêtes). Utilise pour réorganiser une org tech. N'utilise pas pour une équipe de 3. · **Synonymes** : « équipe platform dédiée à l'IDP (Team Topologies) », « stream-aligned : équipe produit autonome de bout en bout », « charge cognitive : enquête interne sur la complexité perçue » · **Cross-refs** : 1700, 210, 72 · **Tags** : 2027
+
+## 1709. 💰 Cout de l'IDP : TCO et justification metier (2027)
+
+- **Fichier** : `skills/1709-cout-de-l-idp-tco-et-justification-metier-2027.md` · **Mot-clé** : « TCO IDP 2027 coût self-host backstage 3-6 ingénieurs vs managé gains DORA tickets -70% » · **Nom court** : TCO IDP
+- **Signal** : Justifier le coût d'une IDP en 2027 (TCO) : self-host Backstage = 3-6 ingénieurs/an (plus maintenance/upgrades) vs IDP managé (Port/Cortex, licence) ; gains mesurés : lead time 2-5 j → moins de 4 h, déploiements 3-5x plus fréquents, tickets -70 %, onboarding nouveau dev de semaines à jours. Présenter au comité financier avec DORA (1706). N'utilise pas pour décider seul (comité). · **Synonymes** : « combien coûte une IDP en 2027 (3-6 ing/an self-host vs licence managée) », « gains IDP : lead time 2-5j à 4h », « déploiements x3-5 », « tickets -70% », « présenter l'IDP au comité financier avec les métriques DORA 1706 » · **Cross-refs** : 1700, 1706, 775 · **Tags** : 2027
+
+## 1712. 📏 Framework SPACE : mesurer la productivité dev (2027)
+
+- **Fichier** : `skills/1712-framework-space-mesurer-la-productivite-dev-2027.md` · **Mot-clé** : « framework SPACE 2027 productivité dev Satisfaction Performance Activité Communication Efficacité jamais individuelle » · **Nom court** : SPACE
+- **Signal** : Mesurer la productivité des développeurs en 2027 avec le framework SPACE (GitHub/Microsoft, 2021, mature 2026) : 5 dimensions — Satisfaction (enquêtes), Performance (DORA 1706), Activité (commits/PRs, jamais seules), Communication (revue de PR 1401, docs), Efficacité (flow, interruptions, MTTR 1706). Règle : combiner plusieurs dimensions, jamais une seule métrique (ex. jamais le nb de commits seul). N'utilise pas pour évaluer des individus. · **Synonymes** : « mesurer la productivité dev avec SPACE (5 dimensions », « pas 1 métrique) », « jamais le nombre de commits seul (anti-métrique) », « DORA (1706) + enquêtes + flow = SPACE complet » · **Cross-refs** : 1706, 1401, 72 · **Tags** : 2027
+
+## 1717. 🗺️ Roadmap plateforme 2027 : de la v1 au produit interne (2027)
+
+- **Fichier** : `skills/1717-roadmap-plateforme-2027-de-la-v1-au-produit-interne-2027.md` · **Mot-clé** : « roadmap plateforme interne IDP 2027 v1 catalogue v2 self-service v3 IA multi-cluster DORA NPS adoption » · **Nom court** : Roadmap IDP
+- **Signal** : Construire la roadmap d'une plateforme interne en 2027 : traiter l'IDP comme un produit interne (utilisateurs = devs) : v1 = catalogue + 1 golden path (1701) en 3 mois ; v2 = self-service (Crossplane 1703) + scorecards (1711) ; v3 = IA-assisté (1708) + multi-cluster (1716) ; métriques à chaque version (DORA 1706, NPS interne, adoption %). Chaque version = un trimestre, revue avec les 'clients' (devs). N'utilise pas pour une roadmap produit externe. · **Synonymes** : « roadmap IDP par trimestre : v1 catalogue+golden path », « v2 self-service », « v3 IA », « traiter l'IDP comme un produit interne (clients = devs », « NPS) », « métriques à chaque version : DORA 1706 + adoption % + NPS » · **Cross-refs** : 1700, 1701, 1706 · **Tags** : 2027
+
+## 1729. 💰 eBPF en entreprise : gouvernance et coûts (2027)
+
+- **Fichier** : `skills/1729-ebpf-en-entreprise-gouvernance-et-couts-2027.md` · **Mot-clé** : « gouvernance eBPF entreprise 2027 choix outils Cilium Falco Tetragon Pixie Beyla formation CCAE overhead coûts CNCF » · **Nom court** : Gouv eBPF
+- **Signal** : Gouverner l'adoption d'eBPF en entreprise en 2027 : choisir les outils (Cilium 1721, Falco 1723, Tetragon 1725, Pixie/Beyla 1724, bpftrace 1726) selon les cas, former les équipes (CCAE 1728), mesurer l'overhead (moins de 5 % de CPU), éviter la fragmentation (trop d'outils eBPF custom), stack sous CNCF. Budget : licences (Isovalent/Cisco pour Cilium enterprise) vs open source. N'utilise pas pour choisir sans POC. · **Synonymes** : « quels outils eBPF adopter en entreprise en 2027 (pas 15) », « overhead eBPF inferieur a 5% de CPU mesuré avant adoption », « Cilium enterprise (Isovalent/Cisco) vs open source : le TCO » · **Cross-refs** : 1720, 1721, 1728 · **Tags** : 2027
+
+## 1739. 📊 Mesurer le gain de productivite des outils IA (2027)
+
+- **Fichier** : `skills/1739-mesurer-le-gain-de-productivite-des-outils-ia-2027.md` · **Mot-clé** : « mesurer gain productivité outils IA codage 2027 +20-30% DORA 1706 Analytics API crédits Copilot qualité SAST SPACE 1712 jamais individuel » · **Nom court** : ROI outils IA
+- **Signal** : Mesurer le gain réel des outils de codage IA en 2027 (constaté +20-30 % sur l'écriture en 2026) : métriques par équipe — temps de cycle PR (1706 DORA), volume de code IA accepté (Analytics API Claude Code 1737, crédits Copilot juin 2026), qualité (bugs post-merge 256, SAST 1658), satisfaction dev (1712 SPACE) — jamais individuel. Utilise pour justifier/ajuster l'investissement (1735). N'utilise pas pour noter des personnes. · **Synonymes** : « les outils IA font gagner +20-30 % sur l'écriture (mesuré 2026) », « on le prouve comment ? », « Analytics API Claude Code + crédits Copilot (juin 2026) : usage réel par équipe », « jamais de métrique individuelle de productivité IA (règle absolue) » · **Cross-refs** : 1735, 1706, 1712 · **Tags** : 2027
+
+## 1758. 🚨 Incident management 2027 : sévérité, rôles, post-mortem blameless (2027)
+
+- **Fichier** : `skills/1758-incident-management-2027-severite-roles-post-mortem-blam.md` · **Mot-clé** : « incident management 2027 SEV1 SEV2 SEV3 war room incident commander 1161 timeline post-mortem blameless 89 actions suivies » · **Nom court** : Incidents 2027
+- **Signal** : Gérer les incidents en 2027 : niveaux de sévérité (SEV1 client down, SEV2 dégradé, SEV3 mineur) avec SLA de réponse (SEV1 = 15 min, war room), rôles clairs (incident commander 1161, comm, scribe), timeline, post-mortem blameless (89) avec actions suivies (1598? non — 285). Utilise pour toute panne client. N'utilise pas pour un bug interne mineur. · **Synonymes** : « SEV1 client down : war room en 15 min », « rôles clairs (IC 1161 », « comm », « scribe) », « post-mortem blameless (89) : jamais de faute individuelle », « actions suivies », « timeline de l'incident pour la communication client (235) » · **Cross-refs** : 256, 89, 235 · **Tags** : 2027
+
+## 1768. 🧪 Post-incident : postmortem blameless et actions tracées (2027)
+
+- **Fichier** : `skills/1768-post-incident-postmortem-blameless-et-actions-tracees-20.md` · **Mot-clé** : « postmortem blameless incident SEV cause racine 5 pourquoi actions correctives tracees 2027 » · **Nom court** : Postmortem blameless
+- **Signal** : Mener en 2027 un postmortem blameless après chaque incident SEV1/SEV2 : chronologie factuelle, cause racine (5 pourquoi), facteurs contributifs, et actions correctives avec responsable et échéance tracées dans le backlog (pas dans un doc qui dort). Règle d'or : on ne blame jamais une personne, on répare le système. N'utilise pas pour les incidents mineurs (note rapide suffit). · **Synonymes** : « post-incident blameless : on ne blame pas la personne », « on repare le systeme », « 5 pourquoi pour trouver la cause racine de l'incident », « actions correctives avec responsable et echeance dans le backlog » · **Cross-refs** : 1758, 1764, 1761 · **Tags** : 2027
+
+## 1769. 🎮 Game days et exercices d'incident réguliers (2027)
+
+- **Fichier** : `skills/1769-game-days-et-exercices-d-incident-reguliers-2027.md` · **Mot-clé** : « game day exercice incident trimestriel simulation panne BDD AZ test runbooks crise 2027 » · **Nom court** : Game days
+- **Signal** : Organiser en 2027 des game days réguliers (tous les trimestres) : simuler un incident (panne BDD, fuite de secrets, panne d'AZ) en production contrôlée ou en environnement de recette, avec l'équipe d'astreinte, pour tester les runbooks (1764) et la communication de crise. Variante 'tabletop' (1454) : discussion à froid sans toucher au système. N'utilise pas pour bloquer la prod en heures de pointe. · **Synonymes** : « simuler une panne de BDD primaire en prod controlee pour tester le failover », « game day trimestriel avec l'equipe d'astreinte et les runbooks 1764 », « tabletop 1454 sans toucher au systeme vs game day live » · **Cross-refs** : 1758, 1764, 1759 · **Tags** : 2027
+
+## 1777. 🏛️ Gouvernance du tree rust-for-linux et contribution (2027)
+
+- **Fichier** : `skills/1777-gouvernance-du-tree-rust-for-linux-et-contribution-2027.md` · **Mot-clé** : « tree rust-for-linux Ojeda contribution mailing list RFC KUnit clippy fmt pull request 2027 » · **Nom court** : Contribuer Rust kernel
+- **Signal** : Contribuer au Rust du noyau Linux en 2027 passe par le tree rust-for-linux maintenu par Miguel Ojeda : branches par sous-systeme, revues sur la mailing list rust-for-linux, intégration par Linus Torvalds. Processus : RFC si design nouveau, patchs petits et testés (KUnit), clippy + fmt obligatoires. N'utilise pas pour contribuer directement au tree principal sans passer par rust-for-linux. · **Synonymes** : « comment contribuer au Rust du noyau : tree rust-for-linux d'Ojeda », « RFC sur rust-for-linux avant tout design nouveau », « patchs petits testes KUnit + clippy + rustfmt obligatoires » · **Cross-refs** : 1770, 1776, 82 · **Tags** : 2027
+
+## 1795. 🌱 Éco-conception logicielle : référentiel RGESN (2027)
+
+- **Fichier** : `skills/1795-eco-conception-logicielle-referentiel-rgesn-2027.md` · **Mot-clé** : « RGESN 79 criteres eco-conception DINUM ARCEP ADEME loi REEN GR491 sobriete fonctionnelle Lighthouse 2027 » · **Nom court** : RGESN éco-conception
+- **Signal** : Appliquer en 2027 le RGESN (Référentiel Général d'Éco-conception des Services Numériques, DINUM/ARCEP/ADEME, 79 critères) et la loi REEN : sobriété fonctionnelle (pas de feature inutile), allègement (images, vidéos, polices), performance front (Lighthouse), hébergement bas carbone, accessibilité. Le GR491 est le corpus complet. Le numérique = 2,5-4 % des GES mondiales (4,4 % de l'empreinte française, ADEME). Utilise à la conception de tout nouveau service. N'utilise pas pour 'greenwasher' un service mal conçu. · **Synonymes** : « audit RGESN de mon service : 79 criteres DINUM », « loi REEN + RGESN : obligations sobriete numerique 2027 », « sobriete fonctionnelle : ne pas developper la feature inutile » · **Cross-refs** : 1796, 1766, 1756 · **Tags** : 2027
+
+## 1796. 🌍 Mesurer l'empreinte carbone du SI (2027) : Scaphandre, Boavizta, EcoIndex, CSRD
+
+- **Fichier** : `skills/1796-mesurer-l-empreinte-carbone-du-si-2027-scaphandre-boaviz.md` · **Mot-clé** : « mesurer empreinte carbone SI Scaphandre PowerAPI Boavizta EcoIndex NégaOctet ADEME 4,4 % 29,5 Mt CO2 CSRD scope 3 2027 » · **Nom court** : Empreinte carbone SI
+- **Signal** : Mesurer en 2027 l'empreinte carbone du SI : Scaphandre/PowerAPI (consommation électrique des serveurs/processus, en W puis kWh), Boavizta (impact matériel, fabrication = ~78 % de l'empreinte des terminaux), EcoIndex/WebsiteCarbon (empreinte d'une page web), facteurs NégaOctet (ADEME). Contexte : numérique = 4,4 % de l'empreinte carbone française (29,5 Mt CO2eq, ADEME 2024). Reporting CSRD (scope 3, catégorie 11 'utilisation des produits vendus'). N'utilise pas des estimations au doigt mouillé pour le reporting officiel. · **Synonymes** : « Scaphandre mesure la conso electrique W/kWh des serveurs en temps reel », « Boavizta evalue l'impact fabrication du materiel (78 % de l'empreinte terminaux) », « CSRD scope 3 categorie 11 : empreinte du numerique dans le reporting 2027 » · **Cross-refs** : 1795, 1752, 1766 · **Tags** : 2027
+
+## 1798. 🚀 DevEx 2027 : métriques SPACE + DORA et harness engineering
+
+- **Fichier** : `skills/1798-devex-2027-metriques-space-dora-et-harness-engineering.md` · **Mot-clé** : « DevEx 2027 SPACE Satisfaction Performance Activite Communication Efficacite DORA lead time MTTR harness engineering tech radar 2027 » · **Nom court** : DevEx SPACE+DORA
+- **Signal** : Mesurer la productivité développeur en 2027 SANS se tromper : le framework SPACE (Satisfaction, Performance, Activité, Communication, Efficacité — étude 2026) + les métriques DORA (lead time, fréquence de déploiement, MTTR, change failure rate). Le tech radar 2027 (ThoughtWorks vol. 34+) met en garde : les métriques d'adoption brutes (lignes de code, commits) sont de mauvais proxys ; le thème 'harness engineering' émerge (concevoir le harnais autour des agents de code 1735-1754). Utilise des check-ins en rétrospective, pas des dashboards vanity. · **Synonymes** : « framework SPACE pour mesurer la productivite dev (5 dimensions) », « DORA : lead time », « deploy frequency », « MTTR », « change failure rate », « harness engineering : concevoir le harnais des agents de code en 2027 » · **Cross-refs** : 1735, 1749, 1700 · **Tags** : 2027
 

@@ -1,5 +1,6 @@
 ---
 num: 512
+date_ajout: "2026-11"
 nom: "Éducateur crypto & blockchain"
 emoji: "🪙"
 domaine: "Finance"

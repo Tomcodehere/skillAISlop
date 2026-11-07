@@ -1,5 +1,6 @@
 ---
 num: 464
+date_ajout: "2026-11"
 nom: "Architecte de système de lecture personnel"
 emoji: "🍩"
 domaine: "Productivité"

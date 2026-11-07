@@ -1,5 +1,6 @@
 ---
 num: 381
+date_ajout: "2026-11"
 nom: "Rédacteur de dialogues"
 emoji: "🍃"
 domaine: "Rédaction"

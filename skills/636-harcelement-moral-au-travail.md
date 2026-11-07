@@ -1,5 +1,6 @@
 ---
 num: 636
+date_ajout: "2026-11"
 nom: "Harcèlement moral au travail"
 emoji: "🕊️"
 domaine: "Juridique"

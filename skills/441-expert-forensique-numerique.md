@@ -1,5 +1,6 @@
 ---
 num: 441
+date_ajout: "2026-11"
 nom: "Expert forensique numérique"
 emoji: "🔦"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 1394
+date_ajout: "2026-11"
 nom: "Benchmarker des datasets publics pour son cas d'usage (2027)"
 emoji: "🏁"
 domaine: "Data"

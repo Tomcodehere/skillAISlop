@@ -1,5 +1,6 @@
 ---
 num: 206
+date_ajout: "2026-11"
 nom: "Concepteur d'évaluations annuelles"
 emoji: "📏"
 domaine: "RH & formation"

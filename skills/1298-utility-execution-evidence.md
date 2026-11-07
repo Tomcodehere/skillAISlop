@@ -1,5 +1,6 @@
 ---
 num: 1298
+date_ajout: "2026-11"
 nom: "Utility Execution Evidence"
 emoji: "🔬"
 domaine: "Recherche"

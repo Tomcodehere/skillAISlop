@@ -1,5 +1,6 @@
 ---
 num: 1243
+date_ajout: "2026-11"
 nom: "Prompt Structure Optimization"
 emoji: "🧠"
 domaine: "IA / Prompting"

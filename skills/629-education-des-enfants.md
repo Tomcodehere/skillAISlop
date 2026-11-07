@@ -1,5 +1,6 @@
 ---
 num: 629
+date_ajout: "2026-11"
 nom: "Éducation des enfants"
 emoji: "🎒"
 domaine: "Personnel"

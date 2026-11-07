@@ -1,5 +1,6 @@
 ---
 num: 107
+date_ajout: "2026-11"
 nom: "Concepteur de tableaux de bord"
 emoji: "📟"
 domaine: "Data"

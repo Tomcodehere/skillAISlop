@@ -1,5 +1,6 @@
 ---
 num: 922
+date_ajout: "2026-11"
 nom: "Marque employeur & recrutement par compétences 2027"
 emoji: "🎯"
 domaine: "Gestion"

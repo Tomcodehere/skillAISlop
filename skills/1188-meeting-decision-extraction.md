@@ -1,5 +1,6 @@
 ---
 num: 1188
+date_ajout: "2026-11"
 nom: "Meeting Decision Extraction"
 emoji: "💬"
 domaine: "Communication"

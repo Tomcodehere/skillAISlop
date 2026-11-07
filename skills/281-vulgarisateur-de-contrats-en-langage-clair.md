@@ -1,5 +1,6 @@
 ---
 num: 281
+date_ajout: "2026-11"
 nom: "Vulgarisateur de contrats en langage clair"
 emoji: "🪶"
 domaine: "Rédaction"

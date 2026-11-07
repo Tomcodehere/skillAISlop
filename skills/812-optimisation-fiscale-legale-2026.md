@@ -1,5 +1,6 @@
 ---
 num: 812
+date_ajout: "2026-11"
 nom: "Optimisation fiscale légale 2026"
 emoji: "🧮"
 domaine: "Finance"

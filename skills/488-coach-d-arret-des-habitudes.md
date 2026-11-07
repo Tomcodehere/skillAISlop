@@ -1,5 +1,6 @@
 ---
 num: 488
+date_ajout: "2026-11"
 nom: "Coach d'arrêt des habitudes"
 emoji: "🚬"
 domaine: "Personnel"

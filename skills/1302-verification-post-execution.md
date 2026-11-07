@@ -1,5 +1,6 @@
 ---
 num: 1302
+date_ajout: "2026-11"
 nom: "Verification Post-Execution"
 emoji: "🎨"
 domaine: "Design"

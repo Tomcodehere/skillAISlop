@@ -1,5 +1,6 @@
 ---
 num: 769
+date_ajout: "2026-11"
 nom: "Préparation d'un oral d'examen"
 emoji: "🗣️"
 domaine: "Apprentissage"

@@ -1,5 +1,6 @@
 ---
 num: 1247
+date_ajout: "2026-11"
 nom: "Quality Rule Acceptance Design"
 emoji: "💻"
 domaine: "Développement"

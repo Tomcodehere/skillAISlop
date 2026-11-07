@@ -1,5 +1,6 @@
 ---
 num: 983
+date_ajout: "2026-11"
 nom: "Acheter un produit reconditionné en sécurité (2027)"
 emoji: "♻️"
 domaine: "Personnel"

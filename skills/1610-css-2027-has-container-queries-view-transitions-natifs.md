@@ -1,5 +1,6 @@
 ---
 num: 1610
+date_ajout: "2026-11"
 nom: "CSS 2027 : :has(), container queries, view transitions natifs"
 emoji: "🎨"
 domaine: "Développement"

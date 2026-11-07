@@ -1,5 +1,6 @@
 ---
 num: 175
+date_ajout: "2026-11"
 nom: "Bâtisseur de communauté"
 emoji: "🌱"
 domaine: "Marketing"

@@ -1,5 +1,6 @@
 ---
 num: 1666
+date_ajout: "2026-11"
 nom: "Modern data stack 2026-27 : dlt + DuckDB + dbt + Superset (2027)"
 emoji: "🧱"
 domaine: "Data"

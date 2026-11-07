@@ -1,5 +1,6 @@
 ---
 num: 594
+date_ajout: "2026-11"
 nom: "Guide des petites créances & recours consommateur"
 emoji: "⚖️"
 domaine: "Juridique"

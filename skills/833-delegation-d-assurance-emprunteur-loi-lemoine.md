@@ -1,5 +1,6 @@
 ---
 num: 833
+date_ajout: "2026-11"
 nom: "Délégation d'assurance emprunteur (loi Lemoine)"
 emoji: "🏦"
 domaine: "Finance"

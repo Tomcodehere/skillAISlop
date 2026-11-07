@@ -1,5 +1,6 @@
 ---
 num: 1537
+date_ajout: "2026-11"
 nom: "Arbre de competences (skill tree) et respec (2027)"
 emoji: "🌳"
 domaine: "Game Dev"

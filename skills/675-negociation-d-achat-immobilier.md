@@ -1,5 +1,6 @@
 ---
 num: 675
+date_ajout: "2026-11"
 nom: "Négociation d'achat immobilier"
 emoji: "🏡"
 domaine: "Finance"

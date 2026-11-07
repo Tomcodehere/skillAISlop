@@ -1,5 +1,6 @@
 ---
 num: 604
+date_ajout: "2026-11"
 nom: "Testeur de contrats d'API"
 emoji: "🔗"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1599
+date_ajout: "2026-11"
 nom: "Accessibilite legale des jeux video en Europe (2027)"
 emoji: "⚖️"
 domaine: "Game Dev"

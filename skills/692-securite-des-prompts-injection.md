@@ -1,5 +1,6 @@
 ---
 num: 692
+date_ajout: "2026-11"
 nom: "Sécurité des prompts & injection"
 emoji: "🧨"
 domaine: "Sécurité"

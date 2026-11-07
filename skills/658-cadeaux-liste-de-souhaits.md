@@ -1,5 +1,6 @@
 ---
 num: 658
+date_ajout: "2026-11"
 nom: "Cadeaux & liste de souhaits"
 emoji: "🎁"
 domaine: "Personnel"

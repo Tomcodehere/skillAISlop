@@ -1,5 +1,6 @@
 ---
 num: 631
+date_ajout: "2026-11"
 nom: "Handicap, MDPH & aménagements"
 emoji: "♿"
 domaine: "Personnel"

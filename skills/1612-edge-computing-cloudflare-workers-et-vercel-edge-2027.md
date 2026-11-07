@@ -1,5 +1,6 @@
 ---
 num: 1612
+date_ajout: "2026-11"
 nom: "Edge computing : Cloudflare Workers et Vercel Edge (2027)"
 emoji: "🌍"
 domaine: "Développement"

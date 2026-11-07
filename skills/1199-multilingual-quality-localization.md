@@ -1,5 +1,6 @@
 ---
 num: 1199
+date_ajout: "2026-11"
 nom: "Multilingual Quality & Localization"
 emoji: "✍️"
 domaine: "Rédaction"

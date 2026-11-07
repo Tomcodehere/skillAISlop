@@ -1,5 +1,6 @@
 ---
 num: 1611
+date_ajout: "2026-11"
 nom: "Local-first web : CRDT et synchro offline (2027)"
 emoji: "💾"
 domaine: "Développement"

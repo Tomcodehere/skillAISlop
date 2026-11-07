@@ -1,5 +1,6 @@
 ---
 num: 1496
+date_ajout: "2026-11"
 nom: "Thematisation produit : light, dark, high-contrast (2027)"
 emoji: "🌓"
 domaine: "Design"

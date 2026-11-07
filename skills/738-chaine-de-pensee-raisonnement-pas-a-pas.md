@@ -1,5 +1,6 @@
 ---
 num: 738
+date_ajout: "2026-11"
 nom: "Chaîne de pensée & raisonnement pas à pas"
 emoji: "🪜"
 domaine: "IA / Prompting"

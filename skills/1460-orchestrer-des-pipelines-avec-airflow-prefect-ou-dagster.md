@@ -1,5 +1,6 @@
 ---
 num: 1460
+date_ajout: "2026-11"
 nom: "Orchestrer des pipelines avec Airflow, Prefect ou Dagster (2027)"
 emoji: "🎠"
 domaine: "Data"

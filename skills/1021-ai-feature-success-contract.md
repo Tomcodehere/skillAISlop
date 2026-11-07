@@ -1,5 +1,6 @@
 ---
 num: 1021
+date_ajout: "2026-11"
 nom: "AI Feature Success Contract"
 emoji: "🧠"
 domaine: "IA / Prompting"

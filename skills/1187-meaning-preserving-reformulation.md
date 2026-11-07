@@ -1,5 +1,6 @@
 ---
 num: 1187
+date_ajout: "2026-11"
 nom: "Meaning-Preserving Reformulation"
 emoji: "📋"
 domaine: "Gestion"

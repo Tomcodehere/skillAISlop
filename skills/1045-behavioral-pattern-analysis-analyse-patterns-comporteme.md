@@ -1,5 +1,6 @@
 ---
 num: 1045
+date_ajout: "2026-11"
 nom: "Behavioral Pattern Analysis (Analyse Patterns Comportementaux)"
 emoji: "🎨"
 domaine: "Design"

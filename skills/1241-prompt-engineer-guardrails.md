@@ -1,5 +1,6 @@
 ---
 num: 1241
+date_ajout: "2026-11"
 nom: "Prompt Engineer & Guardrails"
 emoji: "🧠"
 domaine: "IA / Prompting"

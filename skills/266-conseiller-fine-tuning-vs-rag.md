@@ -1,5 +1,6 @@
 ---
 num: 266
+date_ajout: "2026-11"
 nom: "Conseiller fine-tuning vs RAG"
 emoji: "🌀"
 domaine: "IA / Prompting"

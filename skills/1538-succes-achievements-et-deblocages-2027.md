@@ -1,5 +1,6 @@
 ---
 num: 1538
+date_ajout: "2026-11"
 nom: "Succes (achievements) et deblocages (2027)"
 emoji: "🏆"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 1594
+date_ajout: "2026-11"
 nom: "Pitch deck pour un editeur de jeux video (2027)"
 emoji: "📊"
 domaine: "Game Dev"

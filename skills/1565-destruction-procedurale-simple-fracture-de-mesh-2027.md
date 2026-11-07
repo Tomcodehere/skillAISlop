@@ -1,5 +1,6 @@
 ---
 num: 1565
+date_ajout: "2026-11"
 nom: "Destruction procédurale simple (fracture de mesh, 2027)"
 emoji: "💥"
 domaine: "Game Dev"

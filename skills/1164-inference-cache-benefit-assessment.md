@@ -1,5 +1,6 @@
 ---
 num: 1164
+date_ajout: "2026-11"
 nom: "Inference Cache Benefit Assessment"
 emoji: "🧠"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1166
+date_ajout: "2026-11"
 nom: "Inkscape Icon & Logo System Design"
 emoji: "💻"
 domaine: "Développement"

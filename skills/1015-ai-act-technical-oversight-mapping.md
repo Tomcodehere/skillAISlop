@@ -1,5 +1,6 @@
 ---
 num: 1015
+date_ajout: "2026-11"
 nom: "AI Act Technical Oversight Mapping"
 emoji: "🎨"
 domaine: "Design"

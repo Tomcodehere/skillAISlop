@@ -1,5 +1,6 @@
 ---
 num: 890
+date_ajout: "2026-11"
 nom: "Médiation d'un conflit salarial collectif"
 emoji: "🕊️"
 domaine: "Juridique"

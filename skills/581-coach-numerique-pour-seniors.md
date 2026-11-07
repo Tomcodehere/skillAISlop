@@ -1,5 +1,6 @@
 ---
 num: 581
+date_ajout: "2026-11"
 nom: "Coach numérique pour seniors"
 emoji: "👵"
 domaine: "Personnel"

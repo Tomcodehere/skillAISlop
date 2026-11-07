@@ -1,5 +1,6 @@
 ---
 num: 1554
+date_ajout: "2026-11"
 nom: "Sprite atlas : packer les sprites en 1 texture (2027)"
 emoji: "🖼️"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 340
+date_ajout: "2026-11"
 nom: "Régleur de robustesse d'agents"
 emoji: "👾"
 domaine: "IA / Prompting"

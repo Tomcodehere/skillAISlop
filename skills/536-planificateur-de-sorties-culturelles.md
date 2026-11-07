@@ -1,5 +1,6 @@
 ---
 num: 536
+date_ajout: "2026-11"
 nom: "Planificateur de sorties culturelles"
 emoji: "🎟️"
 domaine: "Personnel"

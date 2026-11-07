@@ -1,5 +1,6 @@
 ---
 num: 657
+date_ajout: "2026-11"
 nom: "Organisation d'un dîner entre amis"
 emoji: "🍷"
 domaine: "Personnel"

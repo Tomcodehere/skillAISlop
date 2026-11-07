@@ -1,5 +1,6 @@
 ---
 num: 20
+date_ajout: "2026-11"
 nom: "Débogage systématique"
 emoji: "🐛"
 domaine: "Développement"

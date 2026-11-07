@@ -1,5 +1,6 @@
 ---
 num: 722
+date_ajout: "2026-11"
 nom: "Souveraineté IA : modèles européens & hébergement UE"
 emoji: "🇪🇺"
 domaine: "Sécurité"

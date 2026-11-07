@@ -7,10 +7,11 @@ manquantes (--fix).
 Sections obligatoires v2 : Objectif, Triggers, Hors périmètre, Garde-fous,
 Instructions système, Inputs requis, Méthode, Sorties attendues,
 Exemple de prompt, Cas d'usage, Checklist QA, Definition of done.
-Frontmatter obligatoire : num, nom, emoji, domaine, signal, mot_cle,
+Frontmatter obligatoire : num, date_ajout (YYYY-MM, ajoutée automatiquement
+à la création), nom, emoji, domaine, signal, mot_cle,
 nom_court, branche, synonymes, cross_refs.
 Règles spec 2026 : signal ≤ 1024 car., pas de < > dans le frontmatter,
-corps < 500 lignes.
+date_ajout au format YYYY-MM (mois 01-12), corps < 500 lignes.
 
 Usage : python3 outils/migrate_template.py [--fix] [--rapport <fichier.md>]
 """
@@ -34,7 +35,7 @@ SECTIONS_V2 = [
     ("Checklist QA", r"^\*\*Checklist QA interne\*\*", "**Checklist QA interne** :\n- [ ] <critère — à compléter>"),
     ("Definition of done", r"^\*\*Definition of done\*\*", "**Definition of done** :\n- [ ] <critère mesurable — à compléter>"),
 ]
-FRONTMATTER = ["num", "nom", "emoji", "domaine", "signal", "mot_cle", "nom_court", "branche", "synonymes", "cross_refs"]
+FRONTMATTER = ["num", "date_ajout", "nom", "emoji", "domaine", "signal", "mot_cle", "nom_court", "branche", "synonymes", "cross_refs"]
 # "tags" est optionnel (filtre route --tag) — non requis par l'audit
 
 def auditer(txt: str):
@@ -45,13 +46,21 @@ def auditer(txt: str):
     regles = []
     m = re.search(r'^signal: "(.*)"$', fm_txt, re.M)
     if m and len(m.group(1)) > 1024: regles.append("signal > 1024 car.")
+    m = re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm_txt, re.M)
+    if m and not (1 <= int(m.group(2)) <= 12):
+        regles.append("date_ajout invalide (format YYYY-MM, mois 01-12)")
     if re.search(r"[<>]", fm_txt): regles.append("frontmatter contient < ou >")
     body = txt.split("---", 2)[2] if txt.count("---") >= 2 else txt
     if len(body.splitlines()) > 500: regles.append("corps > 500 lignes")
     return manque_fm, manque, regles
 
-def inserer(txt: str, manquants: list) -> str:
+def inserer(txt: str, manquants: list, manquants_fm: list | None = None) -> str:
     fm, _, body = txt.split("---", 2)
+    if manquants_fm and "date_ajout" in manquants_fm:
+        import datetime
+        today = datetime.date.today().strftime("%Y-%m")
+        if not re.search(r"^date_ajout: ", fm, re.M):
+            fm = re.sub(r"^(num: \d+)$", '\\1\ndate_ajout: "' + today + '"', fm, count=1, flags=re.M)
     ajouts = [bloc for nom, pat, bloc in SECTIONS_V2 if nom in manquants and bloc]
     if ajouts:
         body = "\n\n" + "\n\n".join(ajouts) + "\n" + body.lstrip("\n")
@@ -69,8 +78,8 @@ def main():
         mf, ms, rg = auditer(txt)
         if mf or ms or rg:
             results.append((f.name, mf, ms, rg))
-        if fix and ms:
-            f.write_text(inserer(txt, ms), encoding="utf-8")
+        if fix and (ms or mf):
+            f.write_text(inserer(txt, ms, mf), encoding="utf-8")
     n_ok = len(files) - len(results)
     L = ["# Rapport migration TEMPLATE-v2", "",
          f"Skills auditées : {len(files)} · conformes : {n_ok} · à migrer : {len(results)}",

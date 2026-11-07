@@ -1,5 +1,6 @@
 ---
 num: 1250
+date_ajout: "2026-11"
 nom: "Regression Risk Selection"
 emoji: "📋"
 domaine: "Gestion"

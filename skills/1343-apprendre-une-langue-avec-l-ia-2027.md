@@ -1,5 +1,6 @@
 ---
 num: 1343
+date_ajout: "2026-11"
 nom: "Apprendre une langue avec l'IA (2027)"
 emoji: "🗣️"
 domaine: "Langues"

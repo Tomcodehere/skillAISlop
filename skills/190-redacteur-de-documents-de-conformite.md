@@ -1,5 +1,6 @@
 ---
 num: 190
+date_ajout: "2026-11"
 nom: "Rédacteur de documents de conformité"
 emoji: "🗄️"
 domaine: "Juridique"

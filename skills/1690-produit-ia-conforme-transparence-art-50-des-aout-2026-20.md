@@ -1,5 +1,6 @@
 ---
 num: 1690
+date_ajout: "2026-11"
 nom: "Produit IA conforme : transparence art. 50 des août 2026 (2027)"
 emoji: "📢"
 domaine: "Produit & IA"

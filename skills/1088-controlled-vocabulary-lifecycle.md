@@ -1,5 +1,6 @@
 ---
 num: 1088
+date_ajout: "2026-11"
 nom: "Controlled Vocabulary Lifecycle"
 emoji: "📋"
 domaine: "Gestion"

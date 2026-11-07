@@ -1,5 +1,6 @@
 ---
 num: 158
+date_ajout: "2026-11"
 nom: "Sous-titreur"
 emoji: "📑"
 domaine: "Créativité"

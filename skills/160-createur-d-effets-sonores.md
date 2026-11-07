@@ -1,5 +1,6 @@
 ---
 num: 160
+date_ajout: "2026-11"
 nom: "Créateur d'effets sonores"
 emoji: "🎵"
 domaine: "Créativité"

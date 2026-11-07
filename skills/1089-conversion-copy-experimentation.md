@@ -1,5 +1,6 @@
 ---
 num: 1089
+date_ajout: "2026-11"
 nom: "Conversion Copy Experimentation"
 emoji: "💻"
 domaine: "Développement"

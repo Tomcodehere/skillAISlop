@@ -1,5 +1,6 @@
 ---
 num: 901
+date_ajout: "2026-11"
 nom: "Transparence IA obligatoire (contenu généré, chatbots)"
 emoji: "🏷️"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 674
+date_ajout: "2026-11"
 nom: "Reconversion & bilan de compétences"
 emoji: "🧭"
 domaine: "Carrière"

@@ -1,5 +1,6 @@
 ---
 num: 798
+date_ajout: "2026-11"
 nom: "E-commerce : tunnel de conversion & panier abandonné"
 emoji: "🛒"
 domaine: "Marketing"

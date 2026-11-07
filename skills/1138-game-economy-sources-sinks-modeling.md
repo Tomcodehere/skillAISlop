@@ -1,5 +1,6 @@
 ---
 num: 1138
+date_ajout: "2026-11"
 nom: "Game Economy Sources & Sinks Modeling"
 emoji: "🧠"
 domaine: "IA / Prompting"

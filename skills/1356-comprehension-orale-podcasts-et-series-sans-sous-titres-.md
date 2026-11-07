@@ -1,5 +1,6 @@
 ---
 num: 1356
+date_ajout: "2026-11"
 nom: "Comprehension orale : podcasts et series sans sous-titres (2027)"
 emoji: "🎧"
 domaine: "Langues"

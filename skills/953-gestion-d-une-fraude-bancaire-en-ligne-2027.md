@@ -1,5 +1,6 @@
 ---
 num: 953
+date_ajout: "2026-11"
 nom: "Gestion d'une fraude bancaire en ligne (2027)"
 emoji: "💳"
 domaine: "Sécurité"

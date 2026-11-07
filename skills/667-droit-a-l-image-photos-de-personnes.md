@@ -1,5 +1,6 @@
 ---
 num: 667
+date_ajout: "2026-11"
 nom: "Droit à l'image & photos de personnes"
 emoji: "📸"
 domaine: "Juridique"

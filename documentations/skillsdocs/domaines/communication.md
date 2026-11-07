@@ -1,4 +1,4 @@
-# Domaine : Communication (34 skills)
+# Domaine : Communication (35 skills)
 
 ## 4. 📧 Assistant Email professionnel
 
@@ -128,7 +128,7 @@
 ## 879. 🎤 Préparation d'une présentation orale importante
 
 - **Fichier** : `skills/879-preparation-d-une-presentation-orale-importante.md` · **Mot-clé** : « présentation orale » · **Nom court** : Présentation orale
-- **Signal** : Préparer une présentation orale importante, pitch, conférence, discours, slides, répétition, gestion du stress · **Synonymes** : « préparer un pitch » · **Cross-refs** : 75, 293, 767 · **Tags** : 2027
+- **Signal** : Préparer une présentation orale importante, pitch, conférence, discours, slides, répétition, gestion du stress · **Synonymes** : « préparer un pitch », « préparer ma présentation au comité » · **Cross-refs** : 75, 293, 767 · **Tags** : 2027
 
 ## 971. 🕊️ Gestion d'un conflit entre collègues
 
@@ -169,4 +169,9 @@
 
 - **Fichier** : `skills/1399-annoncer-un-changement-sensible-avec-humanite-2027.md` · **Mot-clé** : « annoncer un changement sensible fusion licenciement humanité » · **Nom court** : Annonce sensible
 - **Signal** : Annoncer un changement difficile (fusion, demenagement, licenciement, arret d'un produit) avec humanite en 2027 : dire les faits rapidement, nommer l'impact sur les personnes, expliquer le pourquoi, dire ce qui est prévu pour accompagner, laisser du temps pour les questions. Utilise quand une annonce touche des personnes. N'utilise pas pour une annonce marketing positive (voir Marketing). · **Synonymes** : « annoncer un licenciement avec humanité », « communiquer une fusion difficile 2027 », « message de changement douloureux » · **Cross-refs** : 404, 235, 696 · **Tags** : 2027
+
+## 1719. 📣 Communication plateforme : changelog et demos internes (2027)
+
+- **Fichier** : `skills/1719-communication-plateforme-changelog-et-demos-internes-202.md` · **Mot-clé** : « communication plateforme interne 2027 changelog mensuel démo trimestrielle canal #platform FAQ roadmap NPS » · **Nom court** : Com' platforme
+- **Signal** : Communiquer sur la plateforme interne en 2027 comme un produit : changelog mensuel (1578) des nouveautés (golden paths 1701, scorecards 1711), démo trimestrielle aux devs (canary 1418), canal dédié (#platform sur Slack/Teams), FAQ vivante (119), roadmap publique (1717), NPS interne 2x/an (1712). Objectif : adoption, pas annonce. N'utilise pas pour les annonces externes (marketing). · **Synonymes** : « changelog mensuel de l'IDP (1578) + démo trimestrielle aux devs », « canal #platform dédié + FAQ vivante (119) », « roadmap publique (1717) + NPS interne 2x/an (1712) » · **Cross-refs** : 1700, 1717, 1712 · **Tags** : 2027
 

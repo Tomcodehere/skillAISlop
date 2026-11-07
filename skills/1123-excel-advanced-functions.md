@@ -1,5 +1,6 @@
 ---
 num: 1123
+date_ajout: "2026-11"
 nom: "Excel Advanced Functions"
 emoji: "🧠"
 domaine: "IA / Prompting"

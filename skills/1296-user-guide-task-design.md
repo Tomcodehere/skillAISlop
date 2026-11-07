@@ -1,5 +1,6 @@
 ---
 num: 1296
+date_ajout: "2026-11"
 nom: "User Guide Task Design"
 emoji: "🎨"
 domaine: "Design"

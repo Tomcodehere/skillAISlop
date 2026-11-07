@@ -1,5 +1,6 @@
 ---
 num: 939
+date_ajout: "2026-11"
 nom: "Vérification humaine des sorties d'agents (2027)"
 emoji: "✅"
 domaine: "Data & IA"

@@ -1,5 +1,6 @@
 ---
 num: 1323
+date_ajout: "2026-11"
 nom: "Organisateur de voyage IA (2027)"
 emoji: "🧳"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 121
+date_ajout: "2026-11"
 nom: "Atelier d'écriture créative"
 emoji: "🖋️"
 domaine: "Créativité"

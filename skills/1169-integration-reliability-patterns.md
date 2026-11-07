@@ -1,5 +1,6 @@
 ---
 num: 1169
+date_ajout: "2026-11"
 nom: "Integration Reliability Patterns"
 emoji: "📋"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 302
+date_ajout: "2026-11"
 nom: "Entraîneur au test-first (TDD)"
 emoji: "🌁"
 domaine: "Développement"

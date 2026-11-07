@@ -1,5 +1,6 @@
 ---
 num: 1360
+date_ajout: "2026-11"
 nom: "Choisir une formation IA certifiante en 2027"
 emoji: "🎓"
 domaine: "Formation"

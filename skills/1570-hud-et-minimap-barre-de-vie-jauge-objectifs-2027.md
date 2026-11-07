@@ -1,5 +1,6 @@
 ---
 num: 1570
+date_ajout: "2026-11"
 nom: "HUD et minimap : barre de vie, jauge, objectifs (2027)"
 emoji: "🎯"
 domaine: "Game Dev"

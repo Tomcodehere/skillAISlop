@@ -1,5 +1,6 @@
 ---
 num: 1259
+date_ajout: "2026-11"
 nom: "Risk Register & Mitigation Planning"
 emoji: "🎨"
 domaine: "Design"

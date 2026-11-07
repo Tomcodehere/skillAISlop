@@ -1,5 +1,6 @@
 ---
 num: 742
+date_ajout: "2026-11"
 nom: "Gestion des objections commerciales"
 emoji: "🛡️"
 domaine: "Vente"

@@ -1,5 +1,6 @@
 ---
 num: 1627
+date_ajout: "2026-11"
 nom: "Business case d'un agent IA : eviter l'annulation (Gartner 2027) (2027)"
 emoji: "💰"
 domaine: "Produit & IA"

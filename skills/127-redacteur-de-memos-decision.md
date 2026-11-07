@@ -1,5 +1,6 @@
 ---
 num: 127
+date_ajout: "2026-11"
 nom: "Rédacteur de mémos décision"
 emoji: "🖇️"
 domaine: "Communication"

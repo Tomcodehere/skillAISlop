@@ -1,5 +1,6 @@
 ---
 num: 96
+date_ajout: "2026-11"
 nom: "Préparateur de datasets d'entraînement LLM"
 emoji: "📦"
 domaine: "IA / Prompting"

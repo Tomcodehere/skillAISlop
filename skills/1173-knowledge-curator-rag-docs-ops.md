@@ -1,5 +1,6 @@
 ---
 num: 1173
+date_ajout: "2026-11"
 nom: "Knowledge Curator (RAG / Docs Ops)"
 emoji: "🧠"
 domaine: "IA / Prompting"

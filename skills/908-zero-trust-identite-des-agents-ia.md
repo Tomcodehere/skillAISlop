@@ -1,5 +1,6 @@
 ---
 num: 908
+date_ajout: "2026-11"
 nom: "Zero Trust & identité des agents IA"
 emoji: "🆔"
 domaine: "Sécurité"

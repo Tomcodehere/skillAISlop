@@ -1,5 +1,6 @@
 ---
 num: 614
+date_ajout: "2026-11"
 nom: "Contrôleur pré-déploiement"
 emoji: "🛫"
 domaine: "Développement"

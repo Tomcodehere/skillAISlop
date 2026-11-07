@@ -1,5 +1,6 @@
 ---
 num: 1331
+date_ajout: "2026-11"
 nom: "Bilan de santé préventif annuel (2027)"
 emoji: "🩺"
 domaine: "Personnel"

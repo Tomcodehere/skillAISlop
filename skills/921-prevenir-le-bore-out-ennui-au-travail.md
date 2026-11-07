@@ -1,5 +1,6 @@
 ---
 num: 921
+date_ajout: "2026-11"
 nom: "Prévenir le bore-out (ennui au travail)"
 emoji: "🥱"
 domaine: "Personnel"

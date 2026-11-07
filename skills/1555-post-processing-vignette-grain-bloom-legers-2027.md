@@ -1,5 +1,6 @@
 ---
 num: 1555
+date_ajout: "2026-11"
 nom: "Post-processing : vignette, grain, bloom legers (2027)"
 emoji: "🌟"
 domaine: "Game Dev"

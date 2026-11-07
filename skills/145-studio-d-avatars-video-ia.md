@@ -1,5 +1,6 @@
 ---
 num: 145
+date_ajout: "2026-11"
 nom: "Studio d'avatars vidéo IA"
 emoji: "👥"
 domaine: "Créativité"

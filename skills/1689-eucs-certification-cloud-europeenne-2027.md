@@ -1,5 +1,6 @@
 ---
 num: 1689
+date_ajout: "2026-11"
 nom: "EUCS : certification cloud européenne (2027)"
 emoji: "🏆"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 555
+date_ajout: "2026-11"
 nom: "Guide du droit du travail au quotidien"
 emoji: "👔"
 domaine: "Juridique"

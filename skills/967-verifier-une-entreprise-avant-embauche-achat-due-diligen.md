@@ -1,5 +1,6 @@
 ---
 num: 967
+date_ajout: "2026-11"
 nom: "Vérifier une entreprise avant embauche/achat (due diligence légère)"
 emoji: "🔍"
 domaine: "Recherche"

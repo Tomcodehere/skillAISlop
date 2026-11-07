@@ -1,5 +1,6 @@
 ---
 num: 1098
+date_ajout: "2026-11"
 nom: "Data Lake Architecture & Storage"
 emoji: "💻"
 domaine: "Développement"

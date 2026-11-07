@@ -1,5 +1,6 @@
 ---
 num: 992
+date_ajout: "2026-11"
 nom: "Acheter un bien à l'étranger (résidence secondaire) 2027"
 emoji: "🏝️"
 domaine: "Finance"

@@ -1,5 +1,6 @@
 ---
 num: 840
+date_ajout: "2026-11"
 nom: "Deepfakes & usurpation vidéo"
 emoji: "🎭"
 domaine: "Sécurité"

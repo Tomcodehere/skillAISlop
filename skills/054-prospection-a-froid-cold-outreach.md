@@ -1,5 +1,6 @@
 ---
 num: 54
+date_ajout: "2026-11"
 nom: "Prospection à froid (cold outreach)"
 emoji: "📞"
 domaine: "Vente"

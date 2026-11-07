@@ -1,5 +1,6 @@
 ---
 num: 401
+date_ajout: "2026-11"
 nom: "Traducteur de jargon inter-équipes"
 emoji: "🍏"
 domaine: "Communication"

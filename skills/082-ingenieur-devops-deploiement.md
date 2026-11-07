@@ -1,5 +1,6 @@
 ---
 num: 82
+date_ajout: "2026-11"
 nom: "Ingénieur DevOps & déploiement"
 emoji: "☁️"
 domaine: "Développement"

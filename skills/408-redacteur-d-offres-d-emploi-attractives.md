@@ -1,5 +1,6 @@
 ---
 num: 408
+date_ajout: "2026-11"
 nom: "Rédacteur d'offres d'emploi attractives"
 emoji: "🤵"
 domaine: "RH & formation"

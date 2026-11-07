@@ -1,5 +1,6 @@
 ---
 num: 1450
+date_ajout: "2026-11"
 nom: "OAuth2 et OIDC : flows et securite PKCE (2027)"
 emoji: "🔐"
 domaine: "Sécurité"

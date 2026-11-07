@@ -1,5 +1,6 @@
 ---
 num: 387
+date_ajout: "2026-11"
 nom: "Rédacteur de kits média"
 emoji: "📪"
 domaine: "Rédaction"

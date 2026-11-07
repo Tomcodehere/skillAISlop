@@ -1,5 +1,6 @@
 ---
 num: 76
+date_ajout: "2026-11"
 nom: "Pilote d'agents de code CLI"
 emoji: "🖥️"
 domaine: "Développement"

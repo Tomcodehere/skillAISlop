@@ -1,5 +1,6 @@
 ---
 num: 1014
+date_ajout: "2026-11"
 nom: "Agent State Boundary Design"
 emoji: "🧠"
 domaine: "IA / Prompting"

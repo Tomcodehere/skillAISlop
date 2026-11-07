@@ -1,5 +1,6 @@
 ---
 num: 1613
+date_ajout: "2026-11"
 nom: "Rolldown en CI : build parallélisé et cache (2027)"
 emoji: "⏩"
 domaine: "Développement"

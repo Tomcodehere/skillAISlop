@@ -1,5 +1,6 @@
 ---
 num: 1674
+date_ajout: "2026-11"
 nom: "Rill : BI as code sur DuckDB (2027)"
 emoji: "📊"
 domaine: "Data"

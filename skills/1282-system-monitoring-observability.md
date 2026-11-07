@@ -1,5 +1,6 @@
 ---
 num: 1282
+date_ajout: "2026-11"
 nom: "System Monitoring & Observability"
 emoji: "💻"
 domaine: "Développement"

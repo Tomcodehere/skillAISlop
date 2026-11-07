@@ -1,5 +1,6 @@
 ---
 num: 912
+date_ajout: "2026-11"
 nom: "Directive européenne transparence salariale (fin 2027)"
 emoji: "💶"
 domaine: "RH & formation"

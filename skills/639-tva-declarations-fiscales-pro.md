@@ -1,5 +1,6 @@
 ---
 num: 639
+date_ajout: "2026-11"
 nom: "TVA & déclarations fiscales pro"
 emoji: "🧾"
 domaine: "Finance"

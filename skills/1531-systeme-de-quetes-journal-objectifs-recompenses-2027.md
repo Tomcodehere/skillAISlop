@@ -1,5 +1,6 @@
 ---
 num: 1531
+date_ajout: "2026-11"
 nom: "Systeme de quetes : journal, objectifs, recompenses (2027)"
 emoji: "📜"
 domaine: "Game Dev"

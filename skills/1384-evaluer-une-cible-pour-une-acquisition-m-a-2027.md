@@ -1,5 +1,6 @@
 ---
 num: 1384
+date_ajout: "2026-11"
 nom: "Evaluer une cible pour une acquisition (M&A, 2027)"
 emoji: "🤝"
 domaine: "Stratégie"

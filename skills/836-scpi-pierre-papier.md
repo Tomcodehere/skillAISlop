@@ -1,5 +1,6 @@
 ---
 num: 836
+date_ajout: "2026-11"
 nom: "SCPI & pierre papier"
 emoji: "🏢"
 domaine: "Finance"

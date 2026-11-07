@@ -1,5 +1,6 @@
 ---
 num: 756
+date_ajout: "2026-11"
 nom: "Hygiène numérique quotidienne"
 emoji: "🧼"
 domaine: "Sécurité"

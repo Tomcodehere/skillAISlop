@@ -1,5 +1,6 @@
 ---
 num: 1427
+date_ajout: "2026-11"
 nom: "Sortie JSON fiable et validee (2027)"
 emoji: "🧱"
 domaine: "IA / Prompting"

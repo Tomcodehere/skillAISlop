@@ -1,5 +1,6 @@
 ---
 num: 59
+date_ajout: "2026-11"
 nom: "Analyse de documents financiers"
 emoji: "📈"
 domaine: "Finance"

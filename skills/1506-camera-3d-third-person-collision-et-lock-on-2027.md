@@ -1,5 +1,6 @@
 ---
 num: 1506
+date_ajout: "2026-11"
 nom: "Camera 3D third-person : collision et lock-on (2027)"
 emoji: "🎥"
 domaine: "Game Dev"

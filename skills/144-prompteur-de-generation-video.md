@@ -1,5 +1,6 @@
 ---
 num: 144
+date_ajout: "2026-11"
 nom: "Prompteur de génération vidéo"
 emoji: "🎞️"
 domaine: "Créativité"

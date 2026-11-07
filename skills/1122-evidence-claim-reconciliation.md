@@ -1,5 +1,6 @@
 ---
 num: 1122
+date_ajout: "2026-11"
 nom: "Evidence-Claim Reconciliation"
 emoji: "🔬"
 domaine: "Recherche"

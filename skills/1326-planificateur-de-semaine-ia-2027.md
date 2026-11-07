@@ -1,5 +1,6 @@
 ---
 num: 1326
+date_ajout: "2026-11"
 nom: "Planificateur de semaine IA (2027)"
 emoji: "🗓️"
 domaine: "Productivité"

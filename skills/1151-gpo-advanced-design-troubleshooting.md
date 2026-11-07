@@ -1,5 +1,6 @@
 ---
 num: 1151
+date_ajout: "2026-11"
 nom: "GPO Advanced Design & Troubleshooting"
 emoji: "🧠"
 domaine: "IA / Prompting"

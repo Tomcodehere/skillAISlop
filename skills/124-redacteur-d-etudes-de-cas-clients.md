@@ -1,5 +1,6 @@
 ---
 num: 124
+date_ajout: "2026-11"
 nom: "Rédacteur d'études de cas clients"
 emoji: "🏆"
 domaine: "Marketing"

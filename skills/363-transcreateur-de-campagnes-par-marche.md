@@ -1,5 +1,6 @@
 ---
 num: 363
+date_ajout: "2026-11"
 nom: "Transcréateur de campagnes par marché"
 emoji: "🌷"
 domaine: "Marketing"

@@ -1,5 +1,6 @@
 ---
 num: 1626
+date_ajout: "2026-11"
 nom: "AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A (2027)"
 emoji: "🏛"
 domaine: "IA / Prompting"

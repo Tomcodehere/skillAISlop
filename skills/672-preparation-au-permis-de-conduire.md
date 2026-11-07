@@ -1,5 +1,6 @@
 ---
 num: 672
+date_ajout: "2026-11"
 nom: "Préparation au permis de conduire"
 emoji: "🚦"
 domaine: "Apprentissage"

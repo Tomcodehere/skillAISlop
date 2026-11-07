@@ -1,5 +1,6 @@
 ---
 num: 899
+date_ajout: "2026-11"
 nom: "Bilan de fin d'année (tous domaines)"
 emoji: "✅"
 domaine: "Gestion"

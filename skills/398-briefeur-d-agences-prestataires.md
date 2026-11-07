@@ -1,5 +1,6 @@
 ---
 num: 398
+date_ajout: "2026-11"
 nom: "Briefeur d'agences & prestataires"
 emoji: "🏬"
 domaine: "Communication"

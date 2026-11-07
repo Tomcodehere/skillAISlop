@@ -1,5 +1,6 @@
 ---
 num: 457
+date_ajout: "2026-11"
 nom: "Architecte de paliers d'offre"
 emoji: "🧧"
 domaine: "Produit"

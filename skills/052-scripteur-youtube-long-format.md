@@ -1,5 +1,6 @@
 ---
 num: 52
+date_ajout: "2026-11"
 nom: "Scripteur YouTube long format"
 emoji: "🎬"
 domaine: "Marketing"

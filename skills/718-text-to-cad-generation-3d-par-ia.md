@@ -1,5 +1,6 @@
 ---
 num: 718
+date_ajout: "2026-11"
 nom: "Text-to-CAD & génération 3D par IA"
 emoji: "🧊"
 domaine: "Créativité"

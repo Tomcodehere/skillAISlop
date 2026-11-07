@@ -1,5 +1,6 @@
 ---
 num: 1197
+date_ajout: "2026-11"
 nom: "Multi-Cloud Tradeoff Analysis"
 emoji: "📋"
 domaine: "Gestion"

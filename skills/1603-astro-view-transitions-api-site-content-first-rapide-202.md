@@ -1,5 +1,6 @@
 ---
 num: 1603
+date_ajout: "2026-11"
 nom: "Astro + View Transitions API : site content-first rapide (2027)"
 emoji: "🚀"
 domaine: "Développement"

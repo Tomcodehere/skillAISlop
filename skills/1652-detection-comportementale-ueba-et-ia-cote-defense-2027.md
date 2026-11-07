@@ -1,5 +1,6 @@
 ---
 num: 1652
+date_ajout: "2026-11"
 nom: "Detection comportementale : UEBA et IA cote defense (2027)"
 emoji: "🧠"
 domaine: "Sécurité"

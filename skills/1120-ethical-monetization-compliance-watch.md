@@ -1,5 +1,6 @@
 ---
 num: 1120
+date_ajout: "2026-11"
 nom: "Ethical Monetization & Compliance Watch"
 emoji: "💻"
 domaine: "Développement"

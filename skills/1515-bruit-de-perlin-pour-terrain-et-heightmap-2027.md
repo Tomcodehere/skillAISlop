@@ -1,5 +1,6 @@
 ---
 num: 1515
+date_ajout: "2026-11"
 nom: "Bruit de Perlin pour terrain et heightmap (2027)"
 emoji: "🌊"
 domaine: "Game Dev"

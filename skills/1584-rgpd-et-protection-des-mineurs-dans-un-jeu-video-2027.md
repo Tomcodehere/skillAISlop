@@ -1,5 +1,6 @@
 ---
 num: 1584
+date_ajout: "2026-11"
 nom: "RGPD et protection des mineurs dans un jeu video (2027)"
 emoji: "⚖️"
 domaine: "Game Dev"

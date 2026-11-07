@@ -1,5 +1,6 @@
 ---
 num: 873
+date_ajout: "2026-11"
 nom: "Gestion d'une panne informatique domestique"
 emoji: "🖥️"
 domaine: "Sécurité"

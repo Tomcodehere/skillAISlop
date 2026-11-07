@@ -1,5 +1,6 @@
 ---
 num: 156
+date_ajout: "2026-11"
 nom: "Technicien de nettoyage audio"
 emoji: "🧼"
 domaine: "Créativité"

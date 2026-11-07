@@ -1,5 +1,6 @@
 ---
 num: 1069
+date_ajout: "2026-11"
 nom: "Cloud Failure-Domain Placement"
 emoji: "📋"
 domaine: "Gestion"

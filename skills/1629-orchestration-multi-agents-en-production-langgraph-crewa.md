@@ -1,5 +1,6 @@
 ---
 num: 1629
+date_ajout: "2026-11"
 nom: "Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework, 2027)"
 emoji: "🏗️"
 domaine: "IA / Prompting"

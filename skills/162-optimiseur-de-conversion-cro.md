@@ -1,5 +1,6 @@
 ---
 num: 162
+date_ajout: "2026-11"
 nom: "Optimiseur de conversion (CRO)"
 emoji: "🧲"
 domaine: "Marketing"

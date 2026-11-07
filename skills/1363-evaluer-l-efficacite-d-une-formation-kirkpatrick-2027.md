@@ -1,5 +1,6 @@
 ---
 num: 1363
+date_ajout: "2026-11"
 nom: "Evaluer l efficacite d une formation (Kirkpatrick, 2027)"
 emoji: "📊"
 domaine: "Formation"

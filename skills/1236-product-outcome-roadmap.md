@@ -1,5 +1,6 @@
 ---
 num: 1236
+date_ajout: "2026-11"
 nom: "Product Outcome Roadmap"
 emoji: "📦"
 domaine: "Produit"

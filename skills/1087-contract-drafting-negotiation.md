@@ -1,5 +1,6 @@
 ---
 num: 1087
+date_ajout: "2026-11"
 nom: "Contract Drafting & Negotiation"
 emoji: "📦"
 domaine: "Produit"

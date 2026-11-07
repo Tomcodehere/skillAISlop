@@ -1,5 +1,6 @@
 ---
 num: 1516
+date_ajout: "2026-11"
 nom: "Wave Function Collapse (WFC) simplifié (2027)"
 emoji: "🧩"
 domaine: "Game Dev"

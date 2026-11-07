@@ -1,5 +1,6 @@
 ---
 num: 761
+date_ajout: "2026-11"
 nom: "Délégation & management de proximité"
 emoji: "🤲"
 domaine: "Gestion"

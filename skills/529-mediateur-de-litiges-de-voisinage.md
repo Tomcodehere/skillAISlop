@@ -1,5 +1,6 @@
 ---
 num: 529
+date_ajout: "2026-11"
 nom: "Médiateur de litiges de voisinage"
 emoji: "🏘️"
 domaine: "Juridique"

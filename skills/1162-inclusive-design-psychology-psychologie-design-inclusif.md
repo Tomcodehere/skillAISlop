@@ -1,5 +1,6 @@
 ---
 num: 1162
+date_ajout: "2026-11"
 nom: "Inclusive Design Psychology (Psychologie Design Inclusif)"
 emoji: "🎨"
 domaine: "Design"

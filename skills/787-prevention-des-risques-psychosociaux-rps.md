@@ -1,5 +1,6 @@
 ---
 num: 787
+date_ajout: "2026-11"
 nom: "Prévention des risques psychosociaux (RPS)"
 emoji: "🧘"
 domaine: "RH & formation"

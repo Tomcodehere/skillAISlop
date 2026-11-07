@@ -1,5 +1,6 @@
 ---
 num: 525
+date_ajout: "2026-11"
 nom: "Coach dev mobile"
 emoji: "📱"
 domaine: "Développement"

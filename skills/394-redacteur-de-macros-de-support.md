@@ -1,5 +1,6 @@
 ---
 num: 394
+date_ajout: "2026-11"
 nom: "Rédacteur de macros de support"
 emoji: "🍋"
 domaine: "Rédaction"

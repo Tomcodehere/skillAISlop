@@ -1,5 +1,6 @@
 ---
 num: 1623
+date_ajout: "2026-11"
 nom: "Choisir son protocole agent : MCP vs A2A vs ACP (fusionné) (2027)"
 emoji: "⚖️"
 domaine: "IA / Prompting"

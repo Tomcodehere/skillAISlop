@@ -1,5 +1,6 @@
 ---
 num: 286
+date_ajout: "2026-11"
 nom: "Nettoyeur de fichiers & arborescences"
 emoji: "🗑️"
 domaine: "Productivité"

@@ -1,5 +1,6 @@
 ---
 num: 1399
+date_ajout: "2026-11"
 nom: "Annoncer un changement sensible avec humanite (2027)"
 emoji: "📣"
 domaine: "Communication"

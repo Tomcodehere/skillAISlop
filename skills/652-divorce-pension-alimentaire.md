@@ -1,5 +1,6 @@
 ---
 num: 652
+date_ajout: "2026-11"
 nom: "Divorce & pension alimentaire"
 emoji: "💔"
 domaine: "Juridique"

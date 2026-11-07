@@ -1,5 +1,6 @@
 ---
 num: 1440
+date_ajout: "2026-11"
 nom: "Detecter PII et donnees sensibles dans les prompts (2027)"
 emoji: "🙈"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 256
+date_ajout: "2026-11"
 nom: "Enquêteur d'incidents production"
 emoji: "🚑"
 domaine: "Développement"

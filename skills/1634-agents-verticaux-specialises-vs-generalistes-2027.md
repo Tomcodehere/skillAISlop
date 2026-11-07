@@ -1,5 +1,6 @@
 ---
 num: 1634
+date_ajout: "2026-11"
 nom: "Agents verticaux specialises vs generalistes (2027)"
 emoji: "🎯"
 domaine: "Produit & IA"

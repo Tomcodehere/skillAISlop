@@ -1,5 +1,6 @@
 ---
 num: 1206
+date_ajout: "2026-11"
 nom: "Notarial Document Preparation"
 emoji: "📋"
 domaine: "Gestion"

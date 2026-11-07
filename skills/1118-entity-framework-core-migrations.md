@@ -1,5 +1,6 @@
 ---
 num: 1118
+date_ajout: "2026-11"
 nom: "Entity Framework Core Migrations"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 654
+date_ajout: "2026-11"
 nom: "Dépannage & petites réparations"
 emoji: "🔧"
 domaine: "Personnel"

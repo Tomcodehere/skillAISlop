@@ -1,5 +1,6 @@
 ---
 num: 770
+date_ajout: "2026-11"
 nom: "Cours particuliers & accompagnement scolaire"
 emoji: "🏫"
 domaine: "Apprentissage"

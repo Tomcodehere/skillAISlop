@@ -1,5 +1,6 @@
 ---
 num: 406
+date_ajout: "2026-11"
 nom: "Rédacteur de chartes de modération"
 emoji: "🍓"
 domaine: "Communication"

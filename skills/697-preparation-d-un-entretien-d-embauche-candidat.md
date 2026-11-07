@@ -1,5 +1,6 @@
 ---
 num: 697
+date_ajout: "2026-11"
 nom: "Préparation d'un entretien d'embauche (candidat)"
 emoji: "🎤"
 domaine: "Carrière"

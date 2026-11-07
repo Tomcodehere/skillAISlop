@@ -1,5 +1,6 @@
 ---
 num: 181
+date_ajout: "2026-11"
 nom: "Architecte de design system"
 emoji: "🪆"
 domaine: "Design"

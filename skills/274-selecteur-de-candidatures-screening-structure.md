@@ -1,5 +1,6 @@
 ---
 num: 274
+date_ajout: "2026-11"
 nom: "Sélecteur de candidatures (screening structuré)"
 emoji: "📒"
 domaine: "RH & formation"

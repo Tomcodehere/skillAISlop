@@ -1,5 +1,6 @@
 ---
 num: 666
+date_ajout: "2026-11"
 nom: "Ransomware & rançongiciel"
 emoji: "🛡️"
 domaine: "Sécurité"

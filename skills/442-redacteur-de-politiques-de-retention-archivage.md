@@ -1,5 +1,6 @@
 ---
 num: 442
+date_ajout: "2026-11"
 nom: "Rédacteur de politiques de rétention & archivage"
 emoji: "🫙"
 domaine: "Juridique"

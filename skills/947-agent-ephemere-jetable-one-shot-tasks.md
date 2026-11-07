@@ -1,5 +1,6 @@
 ---
 num: 947
+date_ajout: "2026-11"
 nom: "Agent éphémère jetable (one-shot tasks)"
 emoji: "🧨"
 domaine: "IA / Prompting"

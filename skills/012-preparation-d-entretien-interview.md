@@ -1,5 +1,6 @@
 ---
 num: 12
+date_ajout: "2026-11"
 nom: "Préparation d'entretien / interview"
 emoji: "🤝"
 domaine: "Carrière"

@@ -1,5 +1,6 @@
 ---
 num: 1443
+date_ajout: "2026-11"
 nom: "Choisir son modele d'embeddings (2027)"
 emoji: "🔢"
 domaine: "IA / Prompting"

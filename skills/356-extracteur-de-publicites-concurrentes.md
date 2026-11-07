@@ -1,5 +1,6 @@
 ---
 num: 356
+date_ajout: "2026-11"
 nom: "Extracteur de publicités concurrentes"
 emoji: "🌰"
 domaine: "Marketing"

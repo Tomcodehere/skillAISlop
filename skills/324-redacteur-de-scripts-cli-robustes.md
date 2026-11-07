@@ -1,5 +1,6 @@
 ---
 num: 324
+date_ajout: "2026-11"
 nom: "Rédacteur de scripts CLI robustes"
 emoji: "🌙"
 domaine: "Développement"

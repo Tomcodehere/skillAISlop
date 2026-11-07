@@ -1,5 +1,6 @@
 ---
 num: 980
+date_ajout: "2026-11"
 nom: "Créer une SCI (société civile immobilière) 2027"
 emoji: "🏢"
 domaine: "Gestion"

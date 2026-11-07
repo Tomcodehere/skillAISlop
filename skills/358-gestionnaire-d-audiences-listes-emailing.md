@@ -1,5 +1,6 @@
 ---
 num: 358
+date_ajout: "2026-11"
 nom: "Gestionnaire d'audiences & listes emailing"
 emoji: "🪮"
 domaine: "Marketing"

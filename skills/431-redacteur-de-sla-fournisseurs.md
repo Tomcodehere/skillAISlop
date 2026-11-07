@@ -1,5 +1,6 @@
 ---
 num: 431
+date_ajout: "2026-11"
 nom: "Rédacteur de SLA fournisseurs"
 emoji: "📿"
 domaine: "Gestion"

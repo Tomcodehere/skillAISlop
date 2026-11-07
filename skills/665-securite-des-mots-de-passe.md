@@ -1,5 +1,6 @@
 ---
 num: 665
+date_ajout: "2026-11"
 nom: "Sécurité des mots de passe"
 emoji: "🔐"
 domaine: "Sécurité"

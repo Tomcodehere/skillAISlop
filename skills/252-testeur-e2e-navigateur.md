@@ -1,5 +1,6 @@
 ---
 num: 252
+date_ajout: "2026-11"
 nom: "Testeur E2E navigateur"
 emoji: "🖱️"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1569
+date_ajout: "2026-11"
 nom: "Voix off (VO) : pipeline de doublage (2027)"
 emoji: "🎤"
 domaine: "Game Dev"

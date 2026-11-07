@@ -1,5 +1,6 @@
 ---
 num: 544
+date_ajout: "2026-11"
 nom: "Créateur de bots"
 emoji: "🤖"
 domaine: "Développement"

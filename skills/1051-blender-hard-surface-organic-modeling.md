@@ -1,5 +1,6 @@
 ---
 num: 1051
+date_ajout: "2026-11"
 nom: "Blender Hard Surface & Organic Modeling"
 emoji: "💻"
 domaine: "Développement"

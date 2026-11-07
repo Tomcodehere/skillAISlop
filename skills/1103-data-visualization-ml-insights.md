@@ -1,5 +1,6 @@
 ---
 num: 1103
+date_ajout: "2026-11"
 nom: "Data Visualization & ML Insights"
 emoji: "🧠"
 domaine: "IA / Prompting"

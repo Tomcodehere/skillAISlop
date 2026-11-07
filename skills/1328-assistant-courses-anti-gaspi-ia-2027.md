@@ -1,5 +1,6 @@
 ---
 num: 1328
+date_ajout: "2026-11"
 nom: "Assistant courses & anti-gaspi IA (2027)"
 emoji: "🛒"
 domaine: "Personnel"

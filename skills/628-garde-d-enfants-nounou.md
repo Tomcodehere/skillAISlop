@@ -1,5 +1,6 @@
 ---
 num: 628
+date_ajout: "2026-11"
 nom: "Garde d'enfants & nounou"
 emoji: "🧒"
 domaine: "Personnel"

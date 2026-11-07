@@ -1,5 +1,6 @@
 ---
 num: 1340
+date_ajout: "2026-11"
 nom: "Réparation & entretien vélo 2027"
 emoji: "🚲"
 domaine: "Personnel"

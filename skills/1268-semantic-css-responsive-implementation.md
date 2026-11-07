@@ -1,5 +1,6 @@
 ---
 num: 1268
+date_ajout: "2026-11"
 nom: "Semantic CSS Responsive Implementation"
 emoji: "💻"
 domaine: "Développement"

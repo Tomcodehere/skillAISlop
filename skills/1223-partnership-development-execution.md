@@ -1,5 +1,6 @@
 ---
 num: 1223
+date_ajout: "2026-11"
 nom: "Partnership Development & Execution"
 emoji: "🎨"
 domaine: "Design"

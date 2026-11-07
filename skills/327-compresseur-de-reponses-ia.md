@@ -1,5 +1,6 @@
 ---
 num: 327
+date_ajout: "2026-11"
 nom: "Compresseur de réponses IA"
 emoji: "🤏"
 domaine: "IA / Prompting"

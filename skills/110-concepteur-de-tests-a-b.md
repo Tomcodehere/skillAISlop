@@ -1,5 +1,6 @@
 ---
 num: 110
+date_ajout: "2026-11"
 nom: "Concepteur de tests A/B"
 emoji: "🎚️"
 domaine: "Data"

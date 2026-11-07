@@ -1,5 +1,6 @@
 ---
 num: 1621
+date_ajout: "2026-11"
 nom: "MCP en production 2027 : registry officiel et gouvernance (2027)"
 emoji: "🔌"
 domaine: "IA / Prompting"

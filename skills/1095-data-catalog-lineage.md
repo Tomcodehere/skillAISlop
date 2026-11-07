@@ -1,5 +1,6 @@
 ---
 num: 1095
+date_ajout: "2026-11"
 nom: "Data Catalog & Lineage"
 emoji: "🤖"
 domaine: "Data & IA"

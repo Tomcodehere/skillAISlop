@@ -1,5 +1,6 @@
 ---
 num: 1072
+date_ajout: "2026-11"
 nom: "Cloud Migration Wave Acceptance"
 emoji: "📋"
 domaine: "Gestion"

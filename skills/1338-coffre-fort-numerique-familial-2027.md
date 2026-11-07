@@ -1,5 +1,6 @@
 ---
 num: 1338
+date_ajout: "2026-11"
 nom: "Coffre-fort numérique familial (2027)"
 emoji: "🗄️"
 domaine: "Bureau"

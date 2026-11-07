@@ -1,5 +1,6 @@
 ---
 num: 1025
+date_ajout: "2026-11"
 nom: "AI-SI Integration Strategy"
 emoji: "📋"
 domaine: "Gestion"

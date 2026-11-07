@@ -1,5 +1,6 @@
 ---
 num: 91
+date_ajout: "2026-11"
 nom: "Extracteur de données web (scraping)"
 emoji: "🕸️"
 domaine: "Data"

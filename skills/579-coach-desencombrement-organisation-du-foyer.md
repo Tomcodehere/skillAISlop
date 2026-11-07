@@ -1,5 +1,6 @@
 ---
 num: 579
+date_ajout: "2026-11"
 nom: "Coach désencombrement & organisation du foyer"
 emoji: "🧹"
 domaine: "Personnel"

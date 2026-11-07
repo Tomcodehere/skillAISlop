@@ -1,5 +1,6 @@
 ---
 num: 1264
+date_ajout: "2026-11"
 nom: "Scene and Signal Architecture"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1107
+date_ajout: "2026-11"
 nom: "Dialogue & Quest Scripting Workflow"
 emoji: "💻"
 domaine: "Développement"

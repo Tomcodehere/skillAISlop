@@ -1,5 +1,6 @@
 ---
 num: 1448
+date_ajout: "2026-11"
 nom: "Messagerie chiffree de bout en bout (E2EE, 2027)"
 emoji: "🔒"
 domaine: "Sécurité"

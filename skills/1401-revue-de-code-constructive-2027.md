@@ -1,5 +1,6 @@
 ---
 num: 1401
+date_ajout: "2026-11"
 nom: "Revue de code constructive (2027)"
 emoji: "🔍"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 467
+date_ajout: "2026-11"
 nom: "Fabricant de checklists critiques"
 emoji: "🍫"
 domaine: "Productivité"

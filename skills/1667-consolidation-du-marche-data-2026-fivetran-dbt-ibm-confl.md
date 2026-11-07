@@ -1,5 +1,6 @@
 ---
 num: 1667
+date_ajout: "2026-11"
 nom: "Consolidation du marché data 2026 : Fivetran+dbt, IBM+Confluent, SAP+Dremio (2027)"
 emoji: "🤝"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 632
+date_ajout: "2026-11"
 nom: "Entretien annuel d'évaluation"
 emoji: "📋"
 domaine: "RH & formation"

@@ -1,5 +1,6 @@
 ---
 num: 564
+date_ajout: "2026-11"
 nom: "Rédacteur de discours de famille"
 emoji: "💌"
 domaine: "Personnel"

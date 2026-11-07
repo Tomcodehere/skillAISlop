@@ -1,5 +1,6 @@
 ---
 num: 927
+date_ajout: "2026-11"
 nom: "Tarification hybride des logiciels IA (per-user + usage)"
 emoji: "🧾"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 846
+date_ajout: "2026-11"
 nom: "Rétrospective blameless"
 emoji: "🔄"
 domaine: "Gestion"

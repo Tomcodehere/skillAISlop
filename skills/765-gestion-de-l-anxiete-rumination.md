@@ -1,5 +1,6 @@
 ---
 num: 765
+date_ajout: "2026-11"
 nom: "Gestion de l'anxiété & rumination"
 emoji: "🌤️"
 domaine: "Personnel"

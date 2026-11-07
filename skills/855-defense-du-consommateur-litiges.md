@@ -1,5 +1,6 @@
 ---
 num: 855
+date_ajout: "2026-11"
 nom: "Défense du consommateur (litiges)"
 emoji: "⚖️"
 domaine: "Juridique"

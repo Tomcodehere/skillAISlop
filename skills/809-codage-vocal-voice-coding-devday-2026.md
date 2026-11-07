@@ -1,5 +1,6 @@
 ---
 num: 809
+date_ajout: "2026-11"
 nom: "Codage vocal (voice coding, DevDay 2026)"
 emoji: "🎤"
 domaine: "Développement"

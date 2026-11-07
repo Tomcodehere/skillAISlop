@@ -1,5 +1,6 @@
 ---
 num: 858
+date_ajout: "2026-11"
 nom: "Préparation d'une donation à une asso"
 emoji: "💝"
 domaine: "Finance"

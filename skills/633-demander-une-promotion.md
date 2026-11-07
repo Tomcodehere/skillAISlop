@@ -1,5 +1,6 @@
 ---
 num: 633
+date_ajout: "2026-11"
 nom: "Demander une promotion"
 emoji: "📈"
 domaine: "Carrière"

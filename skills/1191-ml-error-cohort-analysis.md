@@ -1,5 +1,6 @@
 ---
 num: 1191
+date_ajout: "2026-11"
 nom: "ML Error Cohort Analysis"
 emoji: "🧠"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 197
+date_ajout: "2026-11"
 nom: "Auditeur de permissions & accès"
 emoji: "🔑"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 1182
+date_ajout: "2026-11"
 nom: "Lore, Worldbuilding Bible & Localization Prep"
 emoji: "💻"
 domaine: "Développement"

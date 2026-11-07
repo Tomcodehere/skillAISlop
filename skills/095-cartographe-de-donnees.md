@@ -1,5 +1,6 @@
 ---
 num: 95
+date_ajout: "2026-11"
 nom: "Cartographe de données"
 emoji: "🗺️"
 domaine: "Data"

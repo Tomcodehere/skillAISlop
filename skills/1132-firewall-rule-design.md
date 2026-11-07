@@ -1,5 +1,6 @@
 ---
 num: 1132
+date_ajout: "2026-11"
 nom: "Firewall Rule Design"
 emoji: "💻"
 domaine: "Développement"

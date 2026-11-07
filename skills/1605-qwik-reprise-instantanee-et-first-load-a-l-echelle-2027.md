@@ -1,5 +1,6 @@
 ---
 num: 1605
+date_ajout: "2026-11"
 nom: "Qwik : reprise instantanée et first-load à l'échelle (2027)"
 emoji: "⏩"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1269
+date_ajout: "2026-11"
 nom: "SEO Audit & Keyword Strategy"
 emoji: "🧠"
 domaine: "IA / Prompting"

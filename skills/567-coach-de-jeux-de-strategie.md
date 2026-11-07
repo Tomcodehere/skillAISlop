@@ -1,5 +1,6 @@
 ---
 num: 567
+date_ajout: "2026-11"
 nom: "Coach de jeux de stratégie"
 emoji: "♟️"
 domaine: "Créativité"

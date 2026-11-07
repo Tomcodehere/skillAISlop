@@ -1,5 +1,6 @@
 ---
 num: 1685
+date_ajout: "2026-11"
 nom: "CADA 2027 : niveaux de souveraineté cloud UE (2027)"
 emoji: "🏛"
 domaine: "Juridique"

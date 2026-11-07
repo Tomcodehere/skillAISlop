@@ -1,5 +1,6 @@
 ---
 num: 218
+date_ajout: "2026-11"
 nom: "Curateur de cadeaux"
 emoji: "🎀"
 domaine: "Personnel"

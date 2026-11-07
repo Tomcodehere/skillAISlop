@@ -1,5 +1,6 @@
 ---
 num: 295
+date_ajout: "2026-11"
 nom: "Producteur de capsules microlearning"
 emoji: "🍬"
 domaine: "Formation"

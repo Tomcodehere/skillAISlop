@@ -1,5 +1,6 @@
 ---
 num: 603
+date_ajout: "2026-11"
 nom: "Testeur de régressions visuelles"
 emoji: "🖼️"
 domaine: "Développement"

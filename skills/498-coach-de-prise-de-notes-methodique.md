@@ -1,5 +1,6 @@
 ---
 num: 498
+date_ajout: "2026-11"
 nom: "Coach de prise de notes méthodique"
 emoji: "📓"
 domaine: "Apprentissage"

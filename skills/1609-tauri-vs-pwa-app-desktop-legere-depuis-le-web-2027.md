@@ -1,5 +1,6 @@
 ---
 num: 1609
+date_ajout: "2026-11"
 nom: "Tauri vs PWA : app desktop légère depuis le web (2027)"
 emoji: "🖥️"
 domaine: "Développement"

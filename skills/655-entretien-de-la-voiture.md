@@ -1,5 +1,6 @@
 ---
 num: 655
+date_ajout: "2026-11"
 nom: "Entretien de la voiture"
 emoji: "🚗"
 domaine: "Personnel"

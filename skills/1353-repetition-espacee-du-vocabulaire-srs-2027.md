@@ -1,5 +1,6 @@
 ---
 num: 1353
+date_ajout: "2026-11"
 nom: "Repetition espacee du vocabulaire (SRS, 2027)"
 emoji: "🃏"
 domaine: "Langues"

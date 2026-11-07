@@ -1,5 +1,6 @@
 ---
 num: 1253
+date_ajout: "2026-11"
 nom: "Repository Entry-Point Survey"
 emoji: "📋"
 domaine: "Gestion"

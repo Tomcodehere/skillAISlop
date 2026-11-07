@@ -1,5 +1,6 @@
 ---
 num: 1291
+date_ajout: "2026-11"
 nom: "2D Animation Cutout & Frame-by-Frame"
 emoji: "🎨"
 domaine: "Design"

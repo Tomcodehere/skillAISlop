@@ -1,5 +1,6 @@
 ---
 num: 1086
+date_ajout: "2026-11"
 nom: "Contingency Trigger Design"
 emoji: "🎨"
 domaine: "Design"

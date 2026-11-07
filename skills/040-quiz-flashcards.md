@@ -1,5 +1,6 @@
 ---
 num: 40
+date_ajout: "2026-11"
 nom: "Quiz & flashcards"
 emoji: "🃏"
 domaine: "Apprentissage"

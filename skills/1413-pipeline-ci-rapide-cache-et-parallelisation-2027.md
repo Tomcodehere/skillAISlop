@@ -1,5 +1,6 @@
 ---
 num: 1413
+date_ajout: "2026-11"
 nom: "Pipeline CI rapide : cache et parallelisation (2027)"
 emoji: "⏩"
 domaine: "Développement"

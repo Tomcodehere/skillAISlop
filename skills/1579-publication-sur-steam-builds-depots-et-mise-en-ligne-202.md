@@ -1,5 +1,6 @@
 ---
 num: 1579
+date_ajout: "2026-11"
 nom: "Publication sur Steam : builds, depots et mise en ligne (2027)"
 emoji: "🎮"
 domaine: "Game Dev"

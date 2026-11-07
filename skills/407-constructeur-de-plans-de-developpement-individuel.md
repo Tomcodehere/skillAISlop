@@ -1,5 +1,6 @@
 ---
 num: 407
+date_ajout: "2026-11"
 nom: "Constructeur de plans de développement individuel"
 emoji: "🍔"
 domaine: "RH & formation"

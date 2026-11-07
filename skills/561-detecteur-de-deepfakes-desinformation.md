@@ -1,5 +1,6 @@
 ---
 num: 561
+date_ajout: "2026-11"
 nom: "Détecteur de deepfakes & désinformation"
 emoji: "🎭"
 domaine: "Sécurité"

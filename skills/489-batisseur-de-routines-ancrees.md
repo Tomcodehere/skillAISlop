@@ -1,5 +1,6 @@
 ---
 num: 489
+date_ajout: "2026-11"
 nom: "Bâtisseur de routines ancrées"
 emoji: "🍸"
 domaine: "Personnel"

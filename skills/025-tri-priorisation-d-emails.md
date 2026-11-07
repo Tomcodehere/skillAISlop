@@ -1,5 +1,6 @@
 ---
 num: 25
+date_ajout: "2026-11"
 nom: "Tri & priorisation d'emails"
 emoji: "📥"
 domaine: "Productivité"

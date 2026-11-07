@@ -1,5 +1,6 @@
 ---
 num: 728
+date_ajout: "2026-11"
 nom: "Création de carrousels & visuels éducatifs"
 emoji: "🎠"
 domaine: "Créativité"

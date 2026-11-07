@@ -1,5 +1,6 @@
 ---
 num: 1041
+date_ajout: "2026-11"
 nom: "B2B Prospecting & Lead Qualification"
 emoji: "💼"
 domaine: "Vente"

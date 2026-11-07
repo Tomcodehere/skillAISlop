@@ -1,5 +1,6 @@
 ---
 num: 670
+date_ajout: "2026-11"
 nom: "Outils de productivité & prise de notes"
 emoji: "🗂️"
 domaine: "Productivité"

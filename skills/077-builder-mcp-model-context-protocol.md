@@ -1,5 +1,6 @@
 ---
 num: 77
+date_ajout: "2026-11"
 nom: "Builder MCP (Model Context Protocol)"
 emoji: "🔌"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 637
+date_ajout: "2026-11"
 nom: "Discriminations au travail"
 emoji: "⚖️"
 domaine: "Juridique"

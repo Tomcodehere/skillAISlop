@@ -1,5 +1,6 @@
 ---
 num: 486
+date_ajout: "2026-11"
 nom: "Planificateur de batch cooking"
 emoji: "🍶"
 domaine: "Personnel"

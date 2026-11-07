@@ -1,5 +1,6 @@
 ---
 num: 1459
+date_ajout: "2026-11"
 nom: "Se preparer a la certification ISO 27001 (2027)"
 emoji: "🏆"
 domaine: "Sécurité"

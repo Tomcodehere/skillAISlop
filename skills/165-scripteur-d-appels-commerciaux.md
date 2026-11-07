@@ -1,5 +1,6 @@
 ---
 num: 165
+date_ajout: "2026-11"
 nom: "Scripteur d'appels commerciaux"
 emoji: "☎️"
 domaine: "Vente"

@@ -1,5 +1,6 @@
 ---
 num: 624
+date_ajout: "2026-11"
 nom: "Santé bucco-dentaire"
 emoji: "🦷"
 domaine: "Personnel"

@@ -1,5 +1,6 @@
 ---
 num: 578
+date_ajout: "2026-11"
 nom: "Coach plantes d'intérieur"
 emoji: "🪴"
 domaine: "Personnel"

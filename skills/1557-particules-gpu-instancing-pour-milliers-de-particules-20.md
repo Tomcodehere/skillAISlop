@@ -1,5 +1,6 @@
 ---
 num: 1557
+date_ajout: "2026-11"
 nom: "Particules GPU : instancing pour milliers de particules (2027)"
 emoji: "✨"
 domaine: "Game Dev"

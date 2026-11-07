@@ -1,5 +1,6 @@
 ---
 num: 940
+date_ajout: "2026-11"
 nom: "Données publiques & scraping éthique/légal 2027"
 emoji: "⚖️"
 domaine: "Juridique"

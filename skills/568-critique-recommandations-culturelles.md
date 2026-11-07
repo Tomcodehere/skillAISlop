@@ -1,5 +1,6 @@
 ---
 num: 568
+date_ajout: "2026-11"
 nom: "Critique & recommandations culturelles"
 emoji: "🎬"
 domaine: "Personnel"

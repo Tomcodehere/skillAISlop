@@ -1,5 +1,6 @@
 ---
 num: 123
+date_ajout: "2026-11"
 nom: "Rédacteur de pages de vente"
 emoji: "🛍️"
 domaine: "Marketing"

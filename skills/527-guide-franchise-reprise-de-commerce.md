@@ -1,5 +1,6 @@
 ---
 num: 527
+date_ajout: "2026-11"
 nom: "Guide franchise & reprise de commerce"
 emoji: "🏪"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 138
+date_ajout: "2026-11"
 nom: "Rédacteur d'emails transactionnels"
 emoji: "✉️"
 domaine: "Design"

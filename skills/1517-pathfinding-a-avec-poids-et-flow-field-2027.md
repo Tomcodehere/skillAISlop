@@ -1,5 +1,6 @@
 ---
 num: 1517
+date_ajout: "2026-11"
 nom: "Pathfinding A* avec poids et flow field (2027)"
 emoji: "🧭"
 domaine: "Game Dev"

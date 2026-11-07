@@ -1,5 +1,6 @@
 ---
 num: 1619
+date_ajout: "2026-11"
 nom: "Accessibilite front 2027 : ARIA 1.3, focus-visible, contraste auto (2027)"
 emoji: "♿"
 domaine: "Design"

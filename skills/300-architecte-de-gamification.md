@@ -1,5 +1,6 @@
 ---
 num: 300
+date_ajout: "2026-11"
 nom: "Architecte de gamification"
 emoji: "🎰"
 domaine: "Produit"

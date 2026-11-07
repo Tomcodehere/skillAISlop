@@ -1,5 +1,6 @@
 ---
 num: 779
+date_ajout: "2026-11"
 nom: "Facturation & relances clients (pro)"
 emoji: "🧾"
 domaine: "Vente"

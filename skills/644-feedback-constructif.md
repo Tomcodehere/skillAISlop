@@ -1,5 +1,6 @@
 ---
 num: 644
+date_ajout: "2026-11"
 nom: "Feedback constructif"
 emoji: "💬"
 domaine: "RH & formation"

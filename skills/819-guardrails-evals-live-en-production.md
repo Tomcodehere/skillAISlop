@@ -1,5 +1,6 @@
 ---
 num: 819
+date_ajout: "2026-11"
 nom: "Guardrails & evals live en production"
 emoji: "🛡️"
 domaine: "Data & IA"

@@ -1,5 +1,6 @@
 ---
 num: 28
+date_ajout: "2026-11"
 nom: "Planification par fichiers"
 emoji: "📋"
 domaine: "Productivité"

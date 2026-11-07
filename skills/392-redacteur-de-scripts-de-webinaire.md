@@ -1,5 +1,6 @@
 ---
 num: 392
+date_ajout: "2026-11"
 nom: "Rédacteur de scripts de webinaire"
 emoji: "🍿"
 domaine: "Rédaction"

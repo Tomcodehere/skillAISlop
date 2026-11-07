@@ -1,5 +1,6 @@
 ---
 num: 473
+date_ajout: "2026-11"
 nom: "Rédacteur de cahiers des charges de travaux"
 emoji: "🍰"
 domaine: "Personnel"

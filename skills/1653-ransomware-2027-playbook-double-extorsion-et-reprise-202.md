@@ -1,5 +1,6 @@
 ---
 num: 1653
+date_ajout: "2026-11"
 nom: "Ransomware 2027 : playbook double extorsion et reprise (2027)"
 emoji: "💣"
 domaine: "Sécurité"

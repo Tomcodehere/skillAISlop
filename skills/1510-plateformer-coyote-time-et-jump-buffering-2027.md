@@ -1,5 +1,6 @@
 ---
 num: 1510
+date_ajout: "2026-11"
 nom: "Plateformer : coyote time et jump buffering (2027)"
 emoji: "🎯"
 domaine: "Game Dev"

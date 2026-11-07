@@ -1,5 +1,6 @@
 ---
 num: 1171
+date_ajout: "2026-11"
 nom: "Interactive Narrative & Branching Design"
 emoji: "🎨"
 domaine: "Créativité"

@@ -1,5 +1,6 @@
 ---
 num: 505
+date_ajout: "2026-11"
 nom: "Ordonnanceur de correctifs & CVE"
 emoji: "⚠"
 domaine: "Sécurité"

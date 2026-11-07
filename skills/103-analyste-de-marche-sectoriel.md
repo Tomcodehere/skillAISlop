@@ -1,5 +1,6 @@
 ---
 num: 103
+date_ajout: "2026-11"
 nom: "Analyste de marché sectoriel"
 emoji: "🏪"
 domaine: "Stratégie"

@@ -1,5 +1,6 @@
 ---
 num: 1675
+date_ajout: "2026-11"
 nom: "Data quality 2026-27 : Great Expectations, Monte Carlo, alertes auto (2027)"
 emoji: "🧪"
 domaine: "Data"

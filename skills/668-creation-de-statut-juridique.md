@@ -1,5 +1,6 @@
 ---
 num: 668
+date_ajout: "2026-11"
 nom: "Création de statut juridique"
 emoji: "🏢"
 domaine: "Gestion"

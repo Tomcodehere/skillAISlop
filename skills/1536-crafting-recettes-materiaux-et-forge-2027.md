@@ -1,5 +1,6 @@
 ---
 num: 1536
+date_ajout: "2026-11"
 nom: "Crafting : recettes, materiaux et forge (2027)"
 emoji: "🔨"
 domaine: "Game Dev"

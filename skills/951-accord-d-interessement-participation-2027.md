@@ -1,5 +1,6 @@
 ---
 num: 951
+date_ajout: "2026-11"
 nom: "Accord d'intéressement & participation 2027"
 emoji: "💰"
 domaine: "RH & formation"

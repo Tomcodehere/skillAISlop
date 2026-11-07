@@ -1,5 +1,6 @@
 ---
 num: 1305
+date_ajout: "2026-11"
 nom: "Vue Component State Contract"
 emoji: "💻"
 domaine: "Développement"

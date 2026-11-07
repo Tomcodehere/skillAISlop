@@ -1,5 +1,6 @@
 ---
 num: 1423
+date_ajout: "2026-11"
 nom: "Cache applicatif et invalidation (2027)"
 emoji: "⏱️"
 domaine: "Développement"

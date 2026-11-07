@@ -1,5 +1,6 @@
 ---
 num: 259
+date_ajout: "2026-11"
 nom: "Chef d'orchestre multi-agents"
 emoji: "🚂"
 domaine: "IA / Prompting"

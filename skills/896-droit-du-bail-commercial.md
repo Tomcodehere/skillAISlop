@@ -1,5 +1,6 @@
 ---
 num: 896
+date_ajout: "2026-11"
 nom: "Droit du bail commercial"
 emoji: "🏪"
 domaine: "Juridique"

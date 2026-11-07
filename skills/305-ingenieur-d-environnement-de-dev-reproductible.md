@@ -1,5 +1,6 @@
 ---
 num: 305
+date_ajout: "2026-11"
 nom: "Ingénieur d'environnement de dev reproductible"
 emoji: "🗜"
 domaine: "Développement"

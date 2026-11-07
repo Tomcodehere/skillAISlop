@@ -1,5 +1,6 @@
 ---
 num: 1358
+date_ajout: "2026-11"
 nom: "Preparer un entretien d'embauche en langue etrangere (2027)"
 emoji: "🤝"
 domaine: "Langues"

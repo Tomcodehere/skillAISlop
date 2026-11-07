@@ -1,5 +1,6 @@
 ---
 num: 304
+date_ajout: "2026-11"
 nom: "Gestionnaire de feature flags"
 emoji: "🌃"
 domaine: "Développement"

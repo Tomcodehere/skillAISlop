@@ -1,5 +1,6 @@
 ---
 num: 400
+date_ajout: "2026-11"
 nom: "Rédacteur de procès-verbaux"
 emoji: "🍎"
 domaine: "Communication"

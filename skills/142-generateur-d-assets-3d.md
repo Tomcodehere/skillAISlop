@@ -1,5 +1,6 @@
 ---
 num: 142
+date_ajout: "2026-11"
 nom: "Générateur d'assets 3D"
 emoji: "🧊"
 domaine: "Créativité"

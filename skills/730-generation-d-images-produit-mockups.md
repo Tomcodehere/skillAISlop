@@ -1,5 +1,6 @@
 ---
 num: 730
+date_ajout: "2026-11"
 nom: "Génération d'images produit & mockups"
 emoji: "🖼️"
 domaine: "Design"

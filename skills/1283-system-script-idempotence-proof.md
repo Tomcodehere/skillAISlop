@@ -1,5 +1,6 @@
 ---
 num: 1283
+date_ajout: "2026-11"
 nom: "System Script Idempotence Proof"
 emoji: "💻"
 domaine: "Développement"

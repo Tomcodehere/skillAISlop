@@ -1,5 +1,6 @@
 ---
 num: 44
+date_ajout: "2026-11"
 nom: "Analyseur CV & lettre"
 emoji: "📃"
 domaine: "Carrière"

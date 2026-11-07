@@ -1,5 +1,6 @@
 ---
 num: 345
+date_ajout: "2026-11"
 nom: "Prévisionniste de séries temporelles"
 emoji: "🌫"
 domaine: "Data"

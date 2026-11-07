@@ -1,5 +1,6 @@
 ---
 num: 469
+date_ajout: "2026-11"
 nom: "Régleur de filtres & règles email"
 emoji: "🍮"
 domaine: "Productivité"

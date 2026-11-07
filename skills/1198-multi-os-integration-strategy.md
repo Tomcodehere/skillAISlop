@@ -1,5 +1,6 @@
 ---
 num: 1198
+date_ajout: "2026-11"
 nom: "Multi-OS Integration Strategy"
 emoji: "💻"
 domaine: "Développement"

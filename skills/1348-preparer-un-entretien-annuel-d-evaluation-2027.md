@@ -1,5 +1,6 @@
 ---
 num: 1348
+date_ajout: "2026-11"
 nom: "Préparer un entretien annuel d'évaluation (2027)"
 emoji: "📊"
 domaine: "Carrière"

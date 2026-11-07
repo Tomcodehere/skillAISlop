@@ -1,5 +1,6 @@
 ---
 num: 1665
+date_ajout: "2026-11"
 nom: "Polars vs pandas en 2027 : DataFrame rapide en Rust (2027)"
 emoji: "🦅"
 domaine: "Data"

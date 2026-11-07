@@ -1,5 +1,6 @@
 ---
 num: 585
+date_ajout: "2026-11"
 nom: "Optimiseur de miles & points"
 emoji: "✈️"
 domaine: "Personnel"

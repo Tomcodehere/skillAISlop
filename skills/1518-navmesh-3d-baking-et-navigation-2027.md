@@ -1,5 +1,6 @@
 ---
 num: 1518
+date_ajout: "2026-11"
 nom: "Navmesh 3D : baking et navigation (2027)"
 emoji: "🧭"
 domaine: "Game Dev"

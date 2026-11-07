@@ -1,5 +1,6 @@
 ---
 num: 1288
+date_ajout: "2026-11"
 nom: "Test Fixture Isolation Design"
 emoji: "💻"
 domaine: "Développement"

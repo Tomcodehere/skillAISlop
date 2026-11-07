@@ -1,5 +1,6 @@
 ---
 num: 1484
+date_ajout: "2026-11"
 nom: "Concevoir accessible des le depart (a11y by design, 2027)"
 emoji: "♿"
 domaine: "Produit"

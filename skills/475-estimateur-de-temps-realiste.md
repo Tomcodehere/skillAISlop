@@ -1,5 +1,6 @@
 ---
 num: 475
+date_ajout: "2026-11"
 nom: "Estimateur de temps réaliste"
 emoji: "🕐"
 domaine: "Productivité"

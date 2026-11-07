@@ -1,5 +1,6 @@
 ---
 num: 678
+date_ajout: "2026-11"
 nom: "Transition énergétique du logement"
 emoji: "🔆"
 domaine: "Personnel"

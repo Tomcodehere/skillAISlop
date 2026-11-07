@@ -1,5 +1,6 @@
 ---
 num: 1432
+date_ajout: "2026-11"
 nom: "Equipe d'agents specialises par domaine (2027)"
 emoji: "👥"
 domaine: "IA / Prompting"

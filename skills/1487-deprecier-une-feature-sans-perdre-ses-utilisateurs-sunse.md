@@ -1,5 +1,6 @@
 ---
 num: 1487
+date_ajout: "2026-11"
 nom: "Deprecier une feature sans perdre ses utilisateurs (sunsetting, 2027)"
 emoji: "🌅"
 domaine: "Produit"

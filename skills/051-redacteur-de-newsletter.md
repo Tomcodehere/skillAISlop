@@ -1,5 +1,6 @@
 ---
 num: 51
+date_ajout: "2026-11"
 nom: "Rédacteur de newsletter"
 emoji: "📰"
 domaine: "Marketing"

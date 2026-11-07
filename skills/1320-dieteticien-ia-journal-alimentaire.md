@@ -1,5 +1,6 @@
 ---
 num: 1320
+date_ajout: "2026-11"
 nom: "Diététicien IA & journal alimentaire"
 emoji: "🥗"
 domaine: "Personnel"

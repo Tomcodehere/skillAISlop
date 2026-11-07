@@ -1,5 +1,6 @@
 ---
 num: 1678
+date_ajout: "2026-11"
 nom: "Data contracts en prod : enforcement auto en CI (2027)"
 emoji: "📜"
 domaine: "Data"

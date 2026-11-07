@@ -1,5 +1,6 @@
 ---
 num: 347
+date_ajout: "2026-11"
 nom: "Auditeur de formules Excel"
 emoji: "🌭"
 domaine: "Data"

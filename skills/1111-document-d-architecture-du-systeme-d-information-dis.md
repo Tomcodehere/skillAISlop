@@ -1,5 +1,6 @@
 ---
 num: 1111
+date_ajout: "2026-11"
 nom: "Document d'Architecture du Système d'Information (DIS)"
 emoji: "💻"
 domaine: "Développement"

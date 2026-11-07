@@ -1,5 +1,6 @@
 ---
 num: 816
+date_ajout: "2026-11"
 nom: "Data literacy : lire les chiffres sans se faire avoir"
 emoji: "📊"
 domaine: "Apprentissage"

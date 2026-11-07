@@ -1,5 +1,6 @@
 ---
 num: 659
+date_ajout: "2026-11"
 nom: "Programme sportif débutant"
 emoji: "🏃"
 domaine: "Personnel"

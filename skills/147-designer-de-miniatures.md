@@ -1,5 +1,6 @@
 ---
 num: 147
+date_ajout: "2026-11"
 nom: "Designer de miniatures"
 emoji: "🏞️"
 domaine: "Design"

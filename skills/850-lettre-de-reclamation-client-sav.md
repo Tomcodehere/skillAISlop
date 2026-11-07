@@ -1,5 +1,6 @@
 ---
 num: 850
+date_ajout: "2026-11"
 nom: "Lettre de réclamation client (SAV)"
 emoji: "📮"
 domaine: "Vente"

@@ -1,5 +1,6 @@
 ---
 num: 962
+date_ajout: "2026-11"
 nom: "Vérification d'une offre de colocation / arnaque logement"
 emoji: "🔑"
 domaine: "Recherche"

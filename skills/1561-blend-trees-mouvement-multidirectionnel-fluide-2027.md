@@ -1,5 +1,6 @@
 ---
 num: 1561
+date_ajout: "2026-11"
 nom: "Blend trees : mouvement multidirectionnel fluide (2027)"
 emoji: "🌿"
 domaine: "Game Dev"

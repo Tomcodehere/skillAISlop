@@ -1,5 +1,6 @@
 ---
 num: 1669
+date_ajout: "2026-11"
 nom: "Data Act janvier 2027 : fin des frais de switching cloud (2027)"
 emoji: "⚖️"
 domaine: "Data"

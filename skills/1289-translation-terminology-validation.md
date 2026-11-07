@@ -1,5 +1,6 @@
 ---
 num: 1289
+date_ajout: "2026-11"
 nom: "Translation Terminology Validation"
 emoji: "🎨"
 domaine: "Design"

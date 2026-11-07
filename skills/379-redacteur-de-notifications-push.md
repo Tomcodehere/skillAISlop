@@ -1,5 +1,6 @@
 ---
 num: 379
+date_ajout: "2026-11"
 nom: "Rédacteur de notifications & push"
 emoji: "🍁"
 domaine: "Rédaction"

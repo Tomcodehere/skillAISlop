@@ -1,5 +1,6 @@
 ---
 num: 1585
+date_ajout: "2026-11"
 nom: "Performance mobile : 60 fps, batterie et thermique (2027)"
 emoji: "🔋"
 domaine: "Game Dev"

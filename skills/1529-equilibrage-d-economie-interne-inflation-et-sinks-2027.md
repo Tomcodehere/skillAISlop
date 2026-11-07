@@ -1,5 +1,6 @@
 ---
 num: 1529
+date_ajout: "2026-11"
 nom: "Equilibrage d'economie interne : inflation et sinks (2027)"
 emoji: "⚖️"
 domaine: "Game Dev"

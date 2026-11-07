@@ -1,5 +1,6 @@
 ---
 num: 311
+date_ajout: "2026-11"
 nom: "Rédacteur de conventions de code d'équipe"
 emoji: "🌌"
 domaine: "Développement"

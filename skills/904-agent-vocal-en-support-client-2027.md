@@ -1,5 +1,6 @@
 ---
 num: 904
+date_ajout: "2026-11"
 nom: "Agent vocal en support client (2027)"
 emoji: "📞"
 domaine: "Produit & IA"

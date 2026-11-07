@@ -1,5 +1,6 @@
 ---
 num: 741
+date_ajout: "2026-11"
 nom: "Préparation de démo produit"
 emoji: "🎪"
 domaine: "Vente"

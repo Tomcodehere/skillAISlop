@@ -1702,6 +1702,106 @@
 | 1697 | Signature électronique qualifiée eIDAS 2.0 (2027) | Bureau|
 | 1698 | Dashboard d'usage du catalogue de skills (analytics, 2027) | Routage|
 | 1699 | Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda (2027) | Data & IA|
+| 1700 | Construire une Internal Developer Platform (IDP) en 2027 | Développement|
+| 1701 | Golden paths : routes par defaut opinionnees (2027) | Développement|
+| 1702 | Backstage (CNCF) : portail developpeur self-host (2027) | Développement|
+| 1703 | Crossplane : provisionner l'infra en claims Kubernetes (2027) | Développement|
+| 1704 | GitOps avec Argo CD ou Flux (2027) | Développement|
+| 1705 | Kyverno / OPA : policies as code sur Kubernetes (2027) | Sécurité|
+| 1706 | Métriques DORA : mesurer la performance de livraison (2027) | Développement|
+| 1707 | Team Topologies : structurer les équipes plateforme (2027) | Gestion|
+| 1708 | AI-assisted IDP : demander un service en langage naturel (2027) | Produit & IA|
+| 1709 | Cout de l'IDP : TCO et justification metier (2027) | Gestion|
+| 1710 | Port, Cortex, Humanitec : IDP managé vs Backstage (2027) | Développement|
+| 1711 | Scorecards : niveaux de maturité des services (2027) | Développement|
+| 1712 | Framework SPACE : mesurer la productivité dev (2027) | Gestion|
+| 1713 | Onboarding developpeur : premier commit en jour 1 (2027) | RH & formation|
+| 1714 | Devcontainers : environnement de dev en 1 commande (2027) | Développement|
+| 1715 | Documentation développeur interne : TechDocs et docs-as-code (2027) | Développement|
+| 1716 | Kratix : promises et orchestration multi-cluster (2027) | Développement|
+| 1717 | Roadmap plateforme 2027 : de la v1 au produit interne (2027) | Gestion|
+| 1718 | Securite de la plateforme : zero trust interne (2027) | Sécurité|
+| 1719 | Communication plateforme : changelog et demos internes (2027) | Communication|
+| 1720 | eBPF : programmer le noyau Linux sans le modifier (2027) | Développement|
+| 1721 | Cilium : networking, sécurité et observabilité eBPF sur k8s (2027) | Développement|
+| 1722 | Hubble : observabilité réseau des flux k8s (2027) | Développement|
+| 1723 | Falco : détection d'intrusion runtime (2027) | Sécurité|
+| 1724 | Pixie / Beyla : observabilité zero-instrumentation (2027) | Data & IA|
+| 1725 | Tetragon : sécurité runtime avec enforcement (2027) | Sécurité|
+| 1726 | bpftrace : debug ad-hoc du noyau Linux (2027) | Développement|
+| 1727 | Cilium service mesh sans sidecar (2027) | Développement|
+| 1728 | Certification Cilium CCAE : valider ses compétences eBPF (2027) | Développement|
+| 1729 | eBPF en entreprise : gouvernance et coûts (2027) | Gestion|
+| 1730 | Katran : load balancer L4 eBPF de Meta (2027) | Développement|
+| 1731 | eBPF pour le stockage : monitoring I/O disque (2027) | Développement|
+| 1732 | eBPF et conteneurs : isolation réseau fine (2027) | Sécurité|
+| 1733 | eBPF et sécurité applicative : WAF dans le noyau (2027) | Sécurité|
+| 1734 | eBPF vs modules kernel : choisir en 2027 (2027) | Développement|
+| 1735 | Choisir son assistant de codage IA en 2027 (Cursor, Claude Code, Copilot, Devin...) (2027) | IA / Prompting|
+| 1736 | Securite du code genere par IA : revue, licences, fuite de donnees (2027) | Sécurité|
+| 1737 | Claude Code en CLI : missions longues et refacto (2027) | Développement|
+| 1738 | Agents de codage autonomes cloud : Devin, Codex (2027) | IA / Prompting|
+| 1739 | Mesurer le gain de productivite des outils IA (2027) | Gestion|
+| 1740 | Cursor : IDE agentique au quotidien (2027) | Développement|
+| 1741 | GitHub Copilot en entreprise : Business, crédits et revue de PR (2027) | Développement|
+| 1742 | OpenCode et Jules : agents de codage gratuits/open source (2027) | IA / Prompting|
+| 1743 | Aider et Cline : agents CLI open source dans le terminal (2027) | Développement|
+| 1744 | Sourcegraph Cody : chercher dans une grosse codebase (2027) | Développement|
+| 1745 | Lovable, Bolt, v0 : prototyper une appli web avec l'IA (2027) | Produit & IA|
+| 1746 | Documentation auto du code par IA : docstrings, README, ADR (2027) | Développement|
+| 1747 | Tests auto generes par l'IA depuis le code (2027) | Développement|
+| 1748 | Refactoring massif assisté par IA : dette technique (2027) | Développement|
+| 1749 | Vibe coding responsable : quand l'IA code, quand l'humain code (2027) | Développement|
+| 1750 | OpenTelemetry GenAI : sémantique standard pour les LLM (2027) | Data & IA|
+| 1751 | SLO pour les features LLM : latence, qualité, coût (2027) | Data & IA|
+| 1752 | Cout de l'observabilite : cardinalite, echantillonnage, stockage (2027) | Data|
+| 1753 | Golden signals + RED + USE : quels signaux mesurer (2027) | Data|
+| 1754 | Observability as code : dashboards et alertes en Git (2027) | Développement|
+| 1755 | AIOps : RCA automatique et réduction du MTTR (2027) | Data & IA|
+| 1756 | RUM : performance réelle des utilisateurs (2027) | Développement|
+| 1757 | SLO burn rate : alertes intelligentes sur le budget d'erreur (2027) | Data|
+| 1758 | Incident management 2027 : sévérité, rôles, post-mortem blameless (2027) | Gestion|
+| 1759 | Chaos engineering : tester la résilience en 2027 (2027) | Développement|
+| 1760 | SLO multi-niveaux et politique de budget d'erreur (2027) | Data|
+| 1761 | Alerting intelligent : debruitage et routage des alertes (2027) | Développement|
+| 1762 | Tracing distribué de bout en bout (2027) | Data|
+| 1763 | Cardinalité des métriques : pièges et limites (2027) | Data|
+| 1764 | Runbooks et auto-remédiation des incidents (2027) | Développement|
+| 1765 | Observabilité de la couche MCP et des appels d'outils des agents (2027) | Data & IA|
+| 1766 | Dashboards orientés décision et storytelling (2027) | Développement|
+| 1767 | Tracing LLM : tokens, appels d'outils et coût par requête (2027) | Data & IA|
+| 1768 | Post-incident : postmortem blameless et actions tracées (2027) | Gestion|
+| 1769 | Game days et exercices d'incident réguliers (2027) | Gestion|
+| 1770 | Rust dans le noyau Linux en 2027 : bilan et trajectorie | Développement|
+| 1771 | pinned-init : initialisation épinglée en mémoire (Rust kernel) | Développement|
+| 1772 | Driver Binder (Android) réécrit en Rust | Développement|
+| 1773 | Driver NVMe en Rust | Développement|
+| 1774 | Driver GPU Asahi (Apple Silicon) en Rust | Développement|
+| 1775 | Projet Nova : driver GPU NVIDIA en Rust | Développement|
+| 1776 | Doctrine Torvalds : Rust est un ajout, pas un remplacement | Développement|
+| 1777 | Gouvernance du tree rust-for-linux et contribution (2027) | Gestion|
+| 1778 | Pourquoi Rust réduit les CVE mémoire du noyau (2027) | Sécurité|
+| 1779 | Feuille de route Rust kernel 2027-2030 : nettoyage API puis nouveaux drivers | Stratégie|
+| 1780 | PostgreSQL 18 en 2027 : vue d'ensemble des nouveautés | Data|
+| 1781 | AIO PostgreSQL 18 : I/O asynchrones (io_uring) | Data|
+| 1782 | uuidv7() dans PostgreSQL 18 : UUID monotones et localité d'index | Data|
+| 1783 | Skip scan B-tree PG18 : requêtes sur colonnes non-préfixe d'index | Data|
+| 1784 | Colonnes générées virtuelles (VIRTUAL) dans PG18 | Data|
+| 1785 | Tables temporelles PG18 : contraintes WITHOUT OVERLAPS | Data|
+| 1786 | OAuth 2.0 dans PostgreSQL 18 : bearer tokens JWT | Sécurité|
+| 1787 | pg_upgrade --swap : montée majeure sans downtime (PG18) | Data|
+| 1788 | Durcissement sécurité de PostgreSQL 18 (2027) | Sécurité|
+| 1789 | Plan de migration vers PostgreSQL 18/19 (2027) : tests, pgbench, rollback | Data|
+| 1790 | Inventaire cryptographique (CBOM) et plan de migration PQC (2027) | Sécurité|
+| 1791 | TLS 1.3 hybride X25519MLKEM768 (PQC ready, 2027) | Sécurité|
+| 1792 | Signatures post-quantiques ML-DSA et certificats X.509 hybrides (2027) | Sécurité|
+| 1793 | WASI 0.3 et Component Model : WebAssembly hors navigateur (2027) | Développement|
+| 1794 | Plugins et sandbox en WebAssembly : sécurité par capacités (2027) | Développement|
+| 1795 | Éco-conception logicielle : référentiel RGESN (2027) | Gestion|
+| 1796 | Mesurer l'empreinte carbone du SI (2027) : Scaphandre, Boavizta, EcoIndex, CSRD | Gestion|
+| 1797 | Edge computing 2027 : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale | Développement|
+| 1798 | DevEx 2027 : métriques SPACE + DORA et harness engineering | Gestion|
+| 1799 | Tech radar interne 2027 : quoi adopter, tester, évaluer, abandonner | Stratégie|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -2437,6 +2537,6 @@
 | 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
 | 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1699 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1799 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

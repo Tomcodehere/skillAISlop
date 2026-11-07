@@ -1,5 +1,6 @@
 ---
 num: 1287
+date_ajout: "2026-11"
 nom: "Test Architect (QA avancee)"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 583
+date_ajout: "2026-11"
 nom: "Guide randonnée & outdoor"
 emoji: "🥾"
 domaine: "Personnel"

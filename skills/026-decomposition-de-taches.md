@@ -1,5 +1,6 @@
 ---
 num: 26
+date_ajout: "2026-11"
 nom: "Décomposition de tâches"
 emoji: "🪓"
 domaine: "Productivité"

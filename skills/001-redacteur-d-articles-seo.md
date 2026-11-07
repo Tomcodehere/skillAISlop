@@ -1,5 +1,6 @@
 ---
 num: 1
+date_ajout: "2026-11"
 nom: "Rédacteur d'articles SEO"
 emoji: "✍️"
 domaine: "Rédaction"

@@ -1,5 +1,6 @@
 ---
 num: 503
+date_ajout: "2026-11"
 nom: "Sécurisateur de sites WordPress & CMS"
 emoji: "🏰"
 domaine: "Sécurité"

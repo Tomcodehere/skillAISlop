@@ -1,5 +1,6 @@
 ---
 num: 963
+date_ajout: "2026-11"
 nom: "Rédiger un testament (formes, légataires, réserve héréditaire)"
 emoji: "📜"
 domaine: "Juridique"

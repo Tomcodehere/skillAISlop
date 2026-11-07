@@ -1,5 +1,6 @@
 ---
 num: 1117
+date_ajout: "2026-11"
 nom: "Enterprise Application Lifecycle"
 emoji: "💻"
 domaine: "Développement"

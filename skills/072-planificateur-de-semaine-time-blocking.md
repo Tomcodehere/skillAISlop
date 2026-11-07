@@ -1,5 +1,6 @@
 ---
 num: 72
+date_ajout: "2026-11"
 nom: "Planificateur de semaine (time blocking)"
 emoji: "📅"
 domaine: "Productivité"

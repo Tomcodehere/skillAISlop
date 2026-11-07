@@ -1,5 +1,6 @@
 ---
 num: 1142
+date_ajout: "2026-11"
 nom: "GDExtension & Native Module Development"
 emoji: "💻"
 domaine: "Développement"

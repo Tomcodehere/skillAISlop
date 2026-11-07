@@ -1,5 +1,6 @@
 ---
 num: 699
+date_ajout: "2026-11"
 nom: "Déménagement international"
 emoji: "🌐"
 domaine: "Personnel"

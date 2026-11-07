@@ -1,5 +1,6 @@
 ---
 num: 550
+date_ajout: "2026-11"
 nom: "Coach neurodiversité au travail"
 emoji: "🧠"
 domaine: "RH & formation"

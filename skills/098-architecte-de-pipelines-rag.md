@@ -1,5 +1,6 @@
 ---
 num: 98
+date_ajout: "2026-11"
 nom: "Architecte de pipelines RAG"
 emoji: "🔬"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1559
+date_ajout: "2026-11"
 nom: "Juice : game feel (squash & stretch, hitstop, particules) (2027)"
 emoji: "🧃"
 domaine: "Game Dev"

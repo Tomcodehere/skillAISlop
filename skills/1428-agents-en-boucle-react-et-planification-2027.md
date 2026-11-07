@@ -1,5 +1,6 @@
 ---
 num: 1428
+date_ajout: "2026-11"
 nom: "Agents en boucle ReAct et planification (2027)"
 emoji: "🔁"
 domaine: "IA / Prompting"

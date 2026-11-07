@@ -1,5 +1,6 @@
 ---
 num: 422
+date_ajout: "2026-11"
 nom: "Rédacteur de lettres de recommandation"
 emoji: "🈯"
 domaine: "RH & formation"

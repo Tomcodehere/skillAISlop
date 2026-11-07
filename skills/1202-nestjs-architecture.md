@@ -1,5 +1,6 @@
 ---
 num: 1202
+date_ajout: "2026-11"
 nom: "NestJS Architecture"
 emoji: "💻"
 domaine: "Développement"

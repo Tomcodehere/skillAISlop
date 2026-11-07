@@ -1,5 +1,6 @@
 ---
 num: 1155
+date_ajout: "2026-11"
 nom: "Hallucination Evidence Evaluation"
 emoji: "🧠"
 domaine: "IA / Prompting"

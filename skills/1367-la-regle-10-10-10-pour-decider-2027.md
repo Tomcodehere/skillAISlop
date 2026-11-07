@@ -1,5 +1,6 @@
 ---
 num: 1367
+date_ajout: "2026-11"
 nom: "La regle 10-10-10 pour decider (2027)"
 emoji: "⏳"
 domaine: "Décision"

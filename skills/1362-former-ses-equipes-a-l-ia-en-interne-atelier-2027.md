@@ -1,5 +1,6 @@
 ---
 num: 1362
+date_ajout: "2026-11"
 nom: "Former ses equipes a l'IA en interne (atelier 2027)"
 emoji: "🛠"
 domaine: "Formation"

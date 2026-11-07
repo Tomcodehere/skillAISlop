@@ -1,5 +1,6 @@
 ---
 num: 1552
+date_ajout: "2026-11"
 nom: "Profilage memoire et CPU du jeu (2027)"
 emoji: "📊"
 domaine: "Game Dev"

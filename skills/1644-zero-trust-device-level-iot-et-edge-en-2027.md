@@ -1,5 +1,6 @@
 ---
 num: 1644
+date_ajout: "2026-11"
 nom: "Zero trust device-level : IoT et edge en 2027"
 emoji: "📱"
 domaine: "Sécurité"

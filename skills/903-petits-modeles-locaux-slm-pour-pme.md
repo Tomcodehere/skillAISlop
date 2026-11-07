@@ -1,5 +1,6 @@
 ---
 num: 903
+date_ajout: "2026-11"
 nom: "Petits modèles locaux (SLM) pour PME"
 emoji: "📱"
 domaine: "IA / Prompting"

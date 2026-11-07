@@ -1,5 +1,6 @@
 ---
 num: 867
+date_ajout: "2026-11"
 nom: "Apprentissage d'un instrument de musique (adulte)"
 emoji: "🎸"
 domaine: "Apprentissage"

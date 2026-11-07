@@ -1,5 +1,6 @@
 ---
 num: 694
+date_ajout: "2026-11"
 nom: "Coût & optimisation des tokens LLM"
 emoji: "🪙"
 domaine: "Data & IA"

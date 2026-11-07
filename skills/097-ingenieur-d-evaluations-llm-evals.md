@@ -1,5 +1,6 @@
 ---
 num: 97
+date_ajout: "2026-11"
 nom: "Ingénieur d'évaluations LLM (evals)"
 emoji: "🧫"
 domaine: "IA / Prompting"

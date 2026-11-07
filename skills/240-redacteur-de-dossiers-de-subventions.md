@@ -1,5 +1,6 @@
 ---
 num: 240
+date_ajout: "2026-11"
 nom: "Rédacteur de dossiers de subventions"
 emoji: "🏅"
 domaine: "Bureau"

@@ -1,5 +1,6 @@
 ---
 num: 1324
+date_ajout: "2026-11"
 nom: "Gestionnaire de budget perso IA (2027)"
 emoji: "🧮"
 domaine: "Finance"

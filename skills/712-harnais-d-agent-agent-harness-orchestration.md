@@ -1,5 +1,6 @@
 ---
 num: 712
+date_ajout: "2026-11"
 nom: "Harnais d'agent (agent harness) & orchestration"
 emoji: "🎛️"
 domaine: "IA / Prompting"

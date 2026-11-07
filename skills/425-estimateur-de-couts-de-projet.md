@@ -1,5 +1,6 @@
 ---
 num: 425
+date_ajout: "2026-11"
 nom: "Estimateur de coûts de projet"
 emoji: "🍛"
 domaine: "Gestion"

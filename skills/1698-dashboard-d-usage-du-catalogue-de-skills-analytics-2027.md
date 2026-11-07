@@ -1,5 +1,6 @@
 ---
 num: 1698
+date_ajout: "2026-11"
 nom: "Dashboard d'usage du catalogue de skills (analytics, 2027)"
 emoji: "📊"
 domaine: "Routage"

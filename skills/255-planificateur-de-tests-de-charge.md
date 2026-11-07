@@ -1,5 +1,6 @@
 ---
 num: 255
+date_ajout: "2026-11"
 nom: "Planificateur de tests de charge"
 emoji: "🌊"
 domaine: "Développement"

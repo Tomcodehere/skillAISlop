@@ -1,5 +1,6 @@
 ---
 num: 531
+date_ajout: "2026-11"
 nom: "Guide du droit à l'image"
 emoji: "🖼️"
 domaine: "Juridique"

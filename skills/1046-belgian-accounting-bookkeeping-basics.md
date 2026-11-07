@@ -1,5 +1,6 @@
 ---
 num: 1046
+date_ajout: "2026-11"
 nom: "Belgian Accounting & Bookkeeping Basics"
 emoji: "💰"
 domaine: "Finance"

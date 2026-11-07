@@ -1,5 +1,6 @@
 ---
 num: 690
+date_ajout: "2026-11"
 nom: "RAG & recherche augmentée"
 emoji: "🔍"
 domaine: "Data & IA"

@@ -1,5 +1,6 @@
 ---
 num: 74
+date_ajout: "2026-11"
 nom: "Définisseur d'OKR"
 emoji: "🥅"
 domaine: "Gestion"

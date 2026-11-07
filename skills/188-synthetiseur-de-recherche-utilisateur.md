@@ -1,5 +1,6 @@
 ---
 num: 188
+date_ajout: "2026-11"
 nom: "Synthétiseur de recherche utilisateur"
 emoji: "🧿"
 domaine: "Produit"

@@ -1,5 +1,6 @@
 ---
 num: 514
+date_ajout: "2026-11"
 nom: "Coach robotique & électronique maker"
 emoji: "🤖"
 domaine: "Développement"

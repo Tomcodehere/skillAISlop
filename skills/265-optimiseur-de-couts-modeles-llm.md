@@ -1,5 +1,6 @@
 ---
 num: 265
+date_ajout: "2026-11"
 nom: "Optimiseur de coûts & modèles LLM"
 emoji: "💲"
 domaine: "IA / Prompting"

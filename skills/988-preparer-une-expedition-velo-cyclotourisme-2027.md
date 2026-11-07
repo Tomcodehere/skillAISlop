@@ -1,5 +1,6 @@
 ---
 num: 988
+date_ajout: "2026-11"
 nom: "Préparer une expédition vélo (cyclotourisme) 2027"
 emoji: "🚴"
 domaine: "Personnel"

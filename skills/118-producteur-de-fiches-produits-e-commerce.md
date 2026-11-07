@@ -1,5 +1,6 @@
 ---
 num: 118
+date_ajout: "2026-11"
 nom: "Producteur de fiches produits e-commerce"
 emoji: "🛒"
 domaine: "Marketing"

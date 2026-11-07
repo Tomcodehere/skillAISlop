@@ -1,5 +1,6 @@
 ---
 num: 1673
+date_ajout: "2026-11"
 nom: "Kestra : orchestration YAML declarative (2027)"
 emoji: "🧪"
 domaine: "Data"

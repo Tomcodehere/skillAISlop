@@ -1,5 +1,6 @@
 ---
 num: 754
+date_ajout: "2026-11"
 nom: "Gestion des incidents de sécurité (réponse)"
 emoji: "🚨"
 domaine: "Sécurité"

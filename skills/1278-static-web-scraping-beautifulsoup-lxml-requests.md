@@ -1,5 +1,6 @@
 ---
 num: 1278
+date_ajout: "2026-11"
 nom: "Static Web Scraping (BeautifulSoup/lxml/Requests)"
 emoji: "💻"
 domaine: "Développement"

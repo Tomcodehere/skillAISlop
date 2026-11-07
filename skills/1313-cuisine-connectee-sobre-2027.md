@@ -1,5 +1,6 @@
 ---
 num: 1313
+date_ajout: "2026-11"
 nom: "Cuisine connectée sobre (2027)"
 emoji: "🍳"
 domaine: "Personnel"

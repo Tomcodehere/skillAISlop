@@ -1,5 +1,6 @@
 ---
 num: 415
+date_ajout: "2026-11"
 nom: "Designer de cycles de feedback 360"
 emoji: "🛞"
 domaine: "RH & formation"

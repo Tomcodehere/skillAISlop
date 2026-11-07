@@ -1,5 +1,6 @@
 ---
 num: 19
+date_ajout: "2026-11"
 nom: "Grill Me (validation de plan)"
 emoji: "🔥"
 domaine: "Développement"

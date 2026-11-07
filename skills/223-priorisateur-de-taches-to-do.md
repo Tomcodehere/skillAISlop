@@ -1,5 +1,6 @@
 ---
 num: 223
+date_ajout: "2026-11"
 nom: "Priorisateur de tâches (to-do)"
 emoji: "⏳"
 domaine: "Productivité"

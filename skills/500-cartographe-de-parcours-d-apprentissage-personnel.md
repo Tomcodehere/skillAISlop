@@ -1,5 +1,6 @@
 ---
 num: 500
+date_ajout: "2026-11"
 nom: "Cartographe de parcours d'apprentissage personnel"
 emoji: "🍾"
 domaine: "Apprentissage"

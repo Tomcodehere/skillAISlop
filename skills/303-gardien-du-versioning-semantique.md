@@ -1,5 +1,6 @@
 ---
 num: 303
+date_ajout: "2026-11"
 nom: "Gardien du versioning sémantique"
 emoji: "🌂"
 domaine: "Développement"

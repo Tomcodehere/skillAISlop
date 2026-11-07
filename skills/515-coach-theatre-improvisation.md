@@ -1,5 +1,6 @@
 ---
 num: 515
+date_ajout: "2026-11"
 nom: "Coach théâtre & improvisation"
 emoji: "🎭"
 domaine: "Créativité"

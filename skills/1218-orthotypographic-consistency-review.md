@@ -1,5 +1,6 @@
 ---
 num: 1218
+date_ajout: "2026-11"
 nom: "Orthotypographic Consistency Review"
 emoji: "✍️"
 domaine: "Rédaction"

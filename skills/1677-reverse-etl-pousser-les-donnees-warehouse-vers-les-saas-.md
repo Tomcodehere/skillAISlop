@@ -1,5 +1,6 @@
 ---
 num: 1677
+date_ajout: "2026-11"
 nom: "Reverse ETL : pousser les données warehouse vers les SaaS (Hightouch, Census, 2027)"
 emoji: "🔄"
 domaine: "Data"
@@ -7,7 +8,7 @@ signal: "Faire du reverse ETL en 2027 (Hightouch, Census, ou natif dbt 350) : le
 mot_cle: "reverse ETL 2027 Hightouch Census warehouse vers SaaS CRM ads email sans CSV"
 nom_court: "Reverse ETL"
 branche: "D17"
-synonymes: ["pousser mes segments clients du warehouse vers Salesforce automatiquement", "plus d'export CSV manuel vers les ads (747)", "Hightouch ou Census : sync warehouse → SaaS 2027"]
+synonymes: ["pousser mes segments clients du warehouse vers Salesforce automatiquement", "plus d'export CSV manuel vers les ads (747)", "Hightouch ou Census : sync warehouse → SaaS 2027", "automatiser mon formulaire typeform vers mon crm"]
 cross_refs: [270, 747, 350]
 tags: ["2027"]
 depends_on: [350]

@@ -1,5 +1,6 @@
 ---
 num: 592
+date_ajout: "2026-11"
 nom: "Guide colocation"
 emoji: "🏠"
 domaine: "Personnel"

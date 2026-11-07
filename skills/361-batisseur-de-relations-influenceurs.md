@@ -1,5 +1,6 @@
 ---
 num: 361
+date_ajout: "2026-11"
 nom: "Bâtisseur de relations influenceurs"
 emoji: "🌶"
 domaine: "Marketing"

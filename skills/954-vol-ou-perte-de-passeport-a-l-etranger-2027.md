@@ -1,5 +1,6 @@
 ---
 num: 954
+date_ajout: "2026-11"
 nom: "Vol ou perte de passeport à l'étranger (2027)"
 emoji: "🛂"
 domaine: "Personnel"

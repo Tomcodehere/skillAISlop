@@ -1,5 +1,6 @@
 ---
 num: 420
+date_ajout: "2026-11"
 nom: "Planificateur de continuité d'équipe"
 emoji: "🕗"
 domaine: "RH & formation"

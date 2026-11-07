@@ -1,5 +1,6 @@
 ---
 num: 869
+date_ajout: "2026-11"
 nom: "Préparation d'un déménagement en colocation"
 emoji: "📦"
 domaine: "Personnel"

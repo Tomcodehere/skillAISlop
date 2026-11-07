@@ -1,5 +1,6 @@
 ---
 num: 1279
+date_ajout: "2026-11"
 nom: "Statistical Inference Protocol"
 emoji: "🤖"
 domaine: "Data & IA"

@@ -1,5 +1,6 @@
 ---
 num: 228
+date_ajout: "2026-11"
 nom: "Créateur de jeux & énigmes"
 emoji: "♟️"
 domaine: "Créativité"

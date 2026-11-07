@@ -1,5 +1,6 @@
 ---
 num: 638
+date_ajout: "2026-11"
 nom: "Trésorerie & prévisionnel"
 emoji: "💰"
 domaine: "Finance"

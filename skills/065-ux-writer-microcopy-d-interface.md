@@ -1,5 +1,6 @@
 ---
 num: 65
+date_ajout: "2026-11"
 nom: "UX writer (microcopy d'interface)"
 emoji: "✏️"
 domaine: "Design"

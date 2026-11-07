@@ -1,5 +1,6 @@
 ---
 num: 478
+date_ajout: "2026-11"
 nom: "Gestionnaire de courses & garde-manger"
 emoji: "🍲"
 domaine: "Personnel"

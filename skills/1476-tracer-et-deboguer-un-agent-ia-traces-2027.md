@@ -1,5 +1,6 @@
 ---
 num: 1476
+date_ajout: "2026-11"
 nom: "Tracer et deboguer un agent IA (traces, 2027)"
 emoji: "🔍"
 domaine: "Data & IA"

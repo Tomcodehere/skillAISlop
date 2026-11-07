@@ -1,5 +1,6 @@
 ---
 num: 318
+date_ajout: "2026-11"
 nom: "Optimiseur de requêtes SQL lentes"
 emoji: "🐢"
 domaine: "Développement"

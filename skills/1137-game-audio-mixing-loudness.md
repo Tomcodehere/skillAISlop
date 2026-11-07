@@ -1,5 +1,6 @@
 ---
 num: 1137
+date_ajout: "2026-11"
 nom: "Game Audio Mixing & Loudness"
 emoji: "🎨"
 domaine: "Design"

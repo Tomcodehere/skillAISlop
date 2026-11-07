@@ -1,5 +1,6 @@
 ---
 num: 1533
+date_ajout: "2026-11"
 nom: "Localisation in-game des textes (i18n des dialogues, 2027)"
 emoji: "🌐"
 domaine: "Game Dev"

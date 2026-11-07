@@ -1,5 +1,6 @@
 ---
 num: 176
+date_ajout: "2026-11"
 nom: "Narrateur de roadmap"
 emoji: "🛰️"
 domaine: "Produit"

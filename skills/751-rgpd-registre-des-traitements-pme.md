@@ -1,5 +1,6 @@
 ---
 num: 751
+date_ajout: "2026-11"
 nom: "RGPD & registre des traitements (PME)"
 emoji: "📋"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 113
+date_ajout: "2026-11"
 nom: "Analyste d'enquêtes internes"
 emoji: "🗳️"
 domaine: "Gestion"

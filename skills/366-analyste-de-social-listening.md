@@ -1,5 +1,6 @@
 ---
 num: 366
+date_ajout: "2026-11"
 nom: "Analyste de social listening"
 emoji: "🌺"
 domaine: "Marketing"

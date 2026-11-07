@@ -1,5 +1,6 @@
 ---
 num: 84
+date_ajout: "2026-11"
 nom: "Optimiseur d'algorithmes"
 emoji: "⚡"
 domaine: "Développement"

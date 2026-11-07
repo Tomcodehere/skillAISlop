@@ -1,5 +1,6 @@
 ---
 num: 495
+date_ajout: "2026-11"
 nom: "Atelier de mémorisation & mnémotechnie"
 emoji: "🗿"
 domaine: "Apprentissage"

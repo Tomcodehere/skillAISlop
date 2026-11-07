@@ -1,5 +1,6 @@
 ---
 num: 1115
+date_ajout: "2026-11"
 nom: "Editorial Change Impact"
 emoji: "✍️"
 domaine: "Rédaction"

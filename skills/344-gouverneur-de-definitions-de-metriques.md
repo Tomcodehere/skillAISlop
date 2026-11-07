@@ -1,5 +1,6 @@
 ---
 num: 344
+date_ajout: "2026-11"
 nom: "Gouverneur de définitions de métriques"
 emoji: "🌪"
 domaine: "Data"

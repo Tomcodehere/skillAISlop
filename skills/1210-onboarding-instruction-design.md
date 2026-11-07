@@ -1,5 +1,6 @@
 ---
 num: 1210
+date_ajout: "2026-11"
 nom: "Onboarding Instruction Design"
 emoji: "🎨"
 domaine: "Design"

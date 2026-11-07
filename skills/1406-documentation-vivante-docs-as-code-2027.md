@@ -1,5 +1,6 @@
 ---
 num: 1406
+date_ajout: "2026-11"
 nom: "Documentation vivante (docs-as-code, 2027)"
 emoji: "📖"
 domaine: "Développement"

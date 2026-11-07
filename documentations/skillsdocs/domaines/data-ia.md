@@ -1,4 +1,4 @@
-# Domaine : Data & IA (50 skills)
+# Domaine : Data & IA (56 skills)
 
 ## 35. 🔗 Pipeline de recommandation
 
@@ -249,4 +249,34 @@
 
 - **Fichier** : `skills/1699-data-observability-unifiee-des-pipelines-monte-carlo-dat.md` · **Mot-clé** : « data observability unifiée 2027 Monte Carlo Datafold Soda Cloud OTel 1680 fraîcheur volume schéma lignage alertes » · **Nom court** : Observabilité data
 - **Signal** : Unifier l'observabilité des pipelines data en 2027 (complète 1675/1680) : une plateforme (Monte Carlo, Datafold, ou open source Soda Cloud + OpenTelemetry 1680) couvre fraîcheur, volume, schéma (drift 1461), distribution, lignage (1466), qualité (GX 349) — avec alertes (1417), SLA (1678), et corrélation incident (1096) ↔ trace OTel (1680). Utilise pour ne plus avoir 5 outils qui se contredisent. N'utilise pas pour un pipeline perso. · **Synonymes** : « 5 outils d'observabilité data qui se contredisent », « unifier (2027) », « Monte Carlo ou Datafold : monitoring ML des pipelines », « corrélation incident qualité (1675) ↔ trace OTel (1680) ↔ lineage (1466) » · **Cross-refs** : 1675, 1680, 1466 · **Tags** : 2027
+
+## 1724. 🧮 Pixie / Beyla : observabilité zero-instrumentation (2027)
+
+- **Fichier** : `skills/1724-pixie-beyla-observabilite-zero-instrumentation-2027.md` · **Mot-clé** : « pixie beyla observabilité zero-instrumentation eBPF 2027 auto-trace HTTP gRPC Redis Postgres OTel service map » · **Nom court** : Pixie/Beyla
+- **Signal** : Observer une application en 2027 SANS toucher au code avec Pixie (eBPF, CNCF sandbox, auto-trace HTTP/gRPC/Redis/MySQL/Postgres + service map + requêtes SQL live) ou Beyla (eBPF, OTel auto, tout langage, traces+metrics+logs sans SDK). Choisir : Pixie = k8s natif riche ; Beyla = multi-langages léger, standard OTel (1680). N'utilise pas si l'app est déjà instrumentée OTel manuellement. · **Synonymes** : « tracer une appli legacy sans toucher au code (Pixie/Beyla eBPF) », « Beyla : OTel auto pour n'importe quel langage (Go Rust Java Python) », « Pixie : requêtes SQL live + service map k8s sans SDK (1680) » · **Cross-refs** : 1720, 1680, 1282 · **Tags** : 2027
+
+## 1750. 🧭 OpenTelemetry GenAI : sémantique standard pour les LLM (2027)
+
+- **Fichier** : `skills/1750-opentelemetry-genai-semantique-standard-pour-les-llm-202.md` · **Mot-clé** : « opentelemetry GenAI semantic conventions 2027 gen_ai.* spans modèle tokens tool calls standard CNCF vendor-neutral » · **Nom court** : OTel GenAI
+- **Signal** : Instrumenter les appels LLM en 2027 avec les conventions sémantiques OTel GenAI (stables 2026, standard CNCF) : attributs gen_ai.* sur les spans (modèle, provider, tokens in/out, tool calls, latence) — un vocabulaire commun quel que soit le framework (LangChain, CrewAI, raw API) et quel que soit le backend d'observabilité (Grafana 1416, Datadog, Langfuse 1476). N'utilise pas de SDK propriétaire si le backend le supporte. · **Synonymes** : « gen_ai.* attributs OTel standard 2027 (modèle », « tokens », « tool calls) », « instrumenter un agent LangChain/CrewAI en OTel GenAI sans vendor lock-in », « 85 % des orgs utilisent la GenAI pour l'observabilité en 2026 (Elastic) » · **Cross-refs** : 713, 1680, 1476 · **Tags** : 2027
+
+## 1751. 🎯 SLO pour les features LLM : latence, qualité, coût (2027)
+
+- **Fichier** : `skills/1751-slo-pour-les-features-llm-latence-qualite-cout-2027.md` · **Mot-clé** : « SLO feature LLM 2027 latence p99 TTFT qualité hallucinations coût requête escalade HITL budget erreur 99,5% 3,6h/mois » · **Nom court** : SLO LLM
+- **Signal** : Définir des SLO en 2027 pour une feature IA (pas que la dispo 351) : latence p99 du streaming (TTFT sous 1 s 1439, fin sous 10 s), taux d'erreur 5xx, qualité (score eval 1630, hallucinations 1155 sous seuil), coût par requête (1491), taux d'escalade HITL (1636). Budget d'erreur : SLO 99,5 % sur 28 j = 3,6 h de panne permise/mois. N'utilise pas sans monitoring (1750). · **Synonymes** : « SLO d'une feature IA : TTFT sous 1 s », « latence fin sous 10 s (streaming 1439) », « budget d'erreur : SLO 99 », « 5 % sur 28 j = 3 », « 6 h de panne permise par mois », « SLO qualité : score eval 1630 + hallucinations 1155 sous seuil + coût/requête 1491 » · **Cross-refs** : 351, 1630, 1491 · **Tags** : 2027
+
+## 1755. 🤖 AIOps : RCA automatique et réduction du MTTR (2027)
+
+- **Fichier** : `skills/1755-aiops-rca-automatique-et-reduction-du-mttr-2027.md` · **Mot-clé** : « AIOps 2027 RCA automatique corrélation ML cause racine en moins de 60s MTTR OpenObserve O2 Datadog Elastic HITL 1636 validation humaine » · **Nom court** : AIOps RCA
+- **Signal** : Utiliser l'AIOps en 2027 pour réduire le MTTR : corrélation automatique des signaux (traces 1680 + métriques 1416 + logs 1469 + events k8s 609) par ML pour trouver la cause racine en moins de 60 s (OpenObserve O2 AI SRE, ou outils managés Datadog/Elastic 61 % citent la sécurité comme frein n°1 GenAI 2026). L'humain valide et agit (HITL 1636). N'utilise pas pour remplacer le jugement humain sur les décisions. · **Synonymes** : « trouver la cause racine d'un incident en moins de 60 s (AIOps 2027) », « corrélation auto traces+métriques+logs+events k8s par ML (RCA) », « l'IA propose la cause », « l'humain valide et agit (HITL 1636) » · **Cross-refs** : 1680, 1416, 256 · **Tags** : 2027
+
+## 1765. 🔌 Observabilité de la couche MCP et des appels d'outils des agents (2027)
+
+- **Fichier** : `skills/1765-observabilite-de-la-couche-mcp-et-des-appels-d-outils-de.md` · **Mot-clé** : « observabilite agents IA couche MCP tool calls spans gen_ai OpenTelemetry Langfuse Helicone 2027 » · **Nom court** : Observabilité agents/MCP
+- **Signal** : Observer en 2027 ce que font réellement les agents IA : chaque appel d'outil (tool call), lecture de fichier, commande shell, appel MCP (Model Context Protocol) trace via les spans gen_ai.* d'OpenTelemetry, sur 7 types de plateformes (self-host, managé, proxy : Langfuse, Helicone, Datadog, Arize). Utilise pour debugger un agent qui boucle ou coute cher. · **Synonymes** : « tracer chaque tool call de mon agent IA (MCP », « fichiers », « shell) », « 7 plateformes d'observabilité agent : self-host vs managé vs proxy », « cout par requete agent : tokens entree sortie et appels d'outils » · **Cross-refs** : 1750, 1767, 1751 · **Tags** : 2027
+
+## 1767. 💸 Tracing LLM : tokens, appels d'outils et coût par requête (2027)
+
+- **Fichier** : `skills/1767-tracing-llm-tokens-appels-d-outils-et-cout-par-requete-2.md` · **Mot-clé** : « tracing LLM tokens cout par requete gen_ai.usage OpenTelemetry cost attribution dollars 2027 » · **Nom court** : Coût LLM par requête
+- **Signal** : Tracer en 2027 le coût réel d'une feature IA : tokens d'entrée/sortie, appels de fonctions (tool calls), latence, coût en dollars par requête via les attributs sémantiques gen_ai.* d'OpenTelemetry (gen_ai.usage.input_tokens, output_tokens, gen_ai.request.model) et le cost attribution (OpenObserve). Utilise pour facturer, optimiser (cache, modèle plus petit) ou couper une feature non rentable. · **Synonymes** : « combien coute chaque appel LLM en tokens entree sortie et dollars », « gen_ai.usage.input_tokens output_tokens attributs OTel sémantiques », « cost attribution : quel parcours utilisateur coute le plus cher en IA » · **Cross-refs** : 1750, 1751, 1765 · **Tags** : 2027
 

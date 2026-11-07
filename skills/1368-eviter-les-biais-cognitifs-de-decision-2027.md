@@ -1,5 +1,6 @@
 ---
 num: 1368
+date_ajout: "2026-11"
 nom: "Eviter les biais cognitifs de decision (2027)"
 emoji: "🧠"
 domaine: "Décision"

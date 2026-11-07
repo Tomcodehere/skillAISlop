@@ -1,5 +1,6 @@
 ---
 num: 1345
+date_ajout: "2026-11"
 nom: "Négocier son salaire en 2027"
 emoji: "💶"
 domaine: "Carrière"

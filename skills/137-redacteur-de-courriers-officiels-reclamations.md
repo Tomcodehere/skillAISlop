@@ -1,5 +1,6 @@
 ---
 num: 137
+date_ajout: "2026-11"
 nom: "Rédacteur de courriers officiels & réclamations"
 emoji: "📮"
 domaine: "Juridique"

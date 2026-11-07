@@ -1,5 +1,6 @@
 ---
 num: 517
+date_ajout: "2026-11"
 nom: "Coach danse & chorégraphie"
 emoji: "💃"
 domaine: "Créativité"

@@ -1,4 +1,4 @@
-# Domaine : RH & formation (52 skills)
+# Domaine : RH & formation (53 skills)
 
 ## 202. 🧑‍💼 Rédacteur de fiches de poste
 
@@ -259,4 +259,9 @@
 
 - **Fichier** : `skills/1007-ad-replication-sites-management.md` · **Mot-clé** : « ad-replication-sites-management » · **Nom court** : AD Replication & Sites Managem
 - **Signal** : Diagnostiquer et résoudre les problèmes de réplication Active Directory entre contrôleurs de domaine, et concevoir une topologie de sites/liens de sites optimisée pour la bande passante et la latence · **Synonymes** : « replication », « cassee », « troubleshooting » · **Cross-refs** : 902, 1004, 1005 · **Tags** : 2027
+
+## 1713. 🚀 Onboarding developpeur : premier commit en jour 1 (2027)
+
+- **Fichier** : `skills/1713-onboarding-developpeur-premier-commit-en-jour-1-2027.md` · **Mot-clé** : « onboarding développeur 2027 premier commit jour 1 devcontainer golden path buddy accès progressifs » · **Nom court** : Onboarding J1
+- **Signal** : Réduire l'onboarding d'un nouveau développeur à 'premier commit en prod le jour 1' en 2027 : doc de démarrage (README 312 + doc 1406), environnement en 1 commande (devcontainer / nix / docker compose 1109), golden path pour la première PR (1701), buddy (234), accès en lecture seule d'abord puis droits progressifs. Mesurer : temps jusqu'au 1er commit (objectif J1) et jusqu'au 1er déploiement solo (objectif semaine 2). N'utilise pas sans le golden path (1701). · **Synonymes** : « nouveau dev : premier commit en prod le jour 1 », « environnement en 1 commande (devcontainer/docker compose 1109) », « accès lecture seule d'abord », « droits progressifs », « buddy 234 » · **Cross-refs** : 203, 1701, 312 · **Tags** : 2027
 

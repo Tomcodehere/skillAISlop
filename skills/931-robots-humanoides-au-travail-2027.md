@@ -1,5 +1,6 @@
 ---
 num: 931
+date_ajout: "2026-11"
 nom: "Robots humanoïdes au travail (2027)"
 emoji: "🦾"
 domaine: "Gestion"

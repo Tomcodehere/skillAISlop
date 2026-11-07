@@ -1,5 +1,6 @@
 ---
 num: 621
+date_ajout: "2026-11"
 nom: "Cauchemars & réveils nocturnes"
 emoji: "🌙"
 domaine: "Personnel"

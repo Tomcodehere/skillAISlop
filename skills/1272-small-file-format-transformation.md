@@ -1,5 +1,6 @@
 ---
 num: 1272
+date_ajout: "2026-11"
 nom: "Small File-Format Transformation"
 emoji: "🎓"
 domaine: "Formation"

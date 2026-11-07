@@ -1,5 +1,6 @@
 ---
 num: 1232
+date_ajout: "2026-11"
 nom: "Predictive Temporal Validation"
 emoji: "🧠"
 domaine: "IA / Prompting"

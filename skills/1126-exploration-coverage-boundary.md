@@ -1,5 +1,6 @@
 ---
 num: 1126
+date_ajout: "2026-11"
 nom: "Exploration Coverage Boundary"
 emoji: "🧠"
 domaine: "IA / Prompting"

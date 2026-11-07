@@ -1,5 +1,6 @@
 ---
 num: 1446
+date_ajout: "2026-11"
 nom: "Rotation automatique des secrets et cles API (2027)"
 emoji: "🔑"
 domaine: "Sécurité"

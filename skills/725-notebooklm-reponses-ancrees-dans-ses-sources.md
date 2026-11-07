@@ -1,5 +1,6 @@
 ---
 num: 725
+date_ajout: "2026-11"
 nom: "NotebookLM & réponses ancrées dans ses sources"
 emoji: "📓"
 domaine: "Recherche"

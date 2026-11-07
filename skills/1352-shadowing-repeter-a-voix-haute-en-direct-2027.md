@@ -1,5 +1,6 @@
 ---
 num: 1352
+date_ajout: "2026-11"
 nom: "Shadowing : repeter a voix haute en direct (2027)"
 emoji: "🎙"
 domaine: "Langues"

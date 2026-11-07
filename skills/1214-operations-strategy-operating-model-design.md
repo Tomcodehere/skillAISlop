@@ -1,5 +1,6 @@
 ---
 num: 1214
+date_ajout: "2026-11"
 nom: "Operations Strategy & Operating Model Design"
 emoji: "🧠"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 1472
+date_ajout: "2026-11"
 nom: "Servir un modele local quantize (Ollama, llama.cpp, 2027)"
 emoji: "🏠"
 domaine: "Data & IA"

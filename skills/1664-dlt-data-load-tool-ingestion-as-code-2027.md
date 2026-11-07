@@ -1,5 +1,6 @@
 ---
 num: 1664
+date_ajout: "2026-11"
 nom: "dlt (data load tool) : ingestion as code (2027)"
 emoji: "📥"
 domaine: "Data"

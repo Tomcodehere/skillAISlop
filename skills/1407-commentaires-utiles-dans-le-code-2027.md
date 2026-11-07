@@ -1,5 +1,6 @@
 ---
 num: 1407
+date_ajout: "2026-11"
 nom: "Commentaires utiles dans le code (2027)"
 emoji: "💬"
 domaine: "Développement"

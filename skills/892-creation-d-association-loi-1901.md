@@ -1,5 +1,6 @@
 ---
 num: 892
+date_ajout: "2026-11"
 nom: "Création d'association (loi 1901)"
 emoji: "🏛️"
 domaine: "Gestion"

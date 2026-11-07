@@ -1,5 +1,6 @@
 ---
 num: 1049
+date_ajout: "2026-11"
 nom: "Blazor Component Design"
 emoji: "💻"
 domaine: "Développement"

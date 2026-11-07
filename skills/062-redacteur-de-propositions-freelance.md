@@ -1,5 +1,6 @@
 ---
 num: 62
+date_ajout: "2026-11"
 nom: "Rédacteur de propositions freelance"
 emoji: "📬"
 domaine: "Carrière"

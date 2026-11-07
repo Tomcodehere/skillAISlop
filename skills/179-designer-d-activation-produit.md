@@ -1,5 +1,6 @@
 ---
 num: 179
+date_ajout: "2026-11"
 nom: "Designer d'activation produit"
 emoji: "🗝️"
 domaine: "Produit"

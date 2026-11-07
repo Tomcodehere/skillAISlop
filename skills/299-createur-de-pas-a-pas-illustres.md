@@ -1,5 +1,6 @@
 ---
 num: 299
+date_ajout: "2026-11"
 nom: "Créateur de pas-à-pas illustrés"
 emoji: "📷"
 domaine: "Rédaction"

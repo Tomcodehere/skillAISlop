@@ -1,5 +1,6 @@
 ---
 num: 749
+date_ajout: "2026-11"
 nom: "Rédaction SEO & optimisation de contenu"
 emoji: "✍️"
 domaine: "Rédaction"

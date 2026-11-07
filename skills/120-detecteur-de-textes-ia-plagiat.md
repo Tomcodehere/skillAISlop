@@ -1,5 +1,6 @@
 ---
 num: 120
+date_ajout: "2026-11"
 nom: "Détecteur de textes IA & plagiat"
 emoji: "🕵️"
 domaine: "Rédaction"

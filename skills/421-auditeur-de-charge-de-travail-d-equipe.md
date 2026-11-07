@@ -1,5 +1,6 @@
 ---
 num: 421
+date_ajout: "2026-11"
 nom: "Auditeur de charge de travail d'équipe"
 emoji: "🧘"
 domaine: "RH & formation"

@@ -1,5 +1,6 @@
 ---
 num: 50
+date_ajout: "2026-11"
 nom: "Créateur de SOP & playbooks"
 emoji: "🔁"
 domaine: "Productivité"

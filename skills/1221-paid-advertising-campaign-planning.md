@@ -1,5 +1,6 @@
 ---
 num: 1221
+date_ajout: "2026-11"
 nom: "Paid Advertising Campaign Planning"
 emoji: "📦"
 domaine: "Produit"

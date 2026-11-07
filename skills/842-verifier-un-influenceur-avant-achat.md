@@ -1,5 +1,6 @@
 ---
 num: 842
+date_ajout: "2026-11"
 nom: "Vérifier un influenceur avant achat"
 emoji: "🕵️"
 domaine: "Recherche"

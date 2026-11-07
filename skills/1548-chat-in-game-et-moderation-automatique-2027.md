@@ -1,5 +1,6 @@
 ---
 num: 1548
+date_ajout: "2026-11"
 nom: "Chat in-game et moderation automatique (2027)"
 emoji: "💬"
 domaine: "Game Dev"

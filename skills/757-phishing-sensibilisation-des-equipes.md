@@ -1,5 +1,6 @@
 ---
 num: 757
+date_ajout: "2026-11"
 nom: "Phishing & sensibilisation des équipes"
 emoji: "🎣"
 domaine: "Sécurité"

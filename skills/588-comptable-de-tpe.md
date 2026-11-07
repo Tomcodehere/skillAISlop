@@ -1,5 +1,6 @@
 ---
 num: 588
+date_ajout: "2026-11"
 nom: "Comptable de TPE"
 emoji: "🧮"
 domaine: "Finance"

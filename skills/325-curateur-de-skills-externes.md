@@ -1,5 +1,6 @@
 ---
 num: 325
+date_ajout: "2026-11"
 nom: "Curateur de skills externes"
 emoji: "🌚"
 domaine: "IA / Prompting"

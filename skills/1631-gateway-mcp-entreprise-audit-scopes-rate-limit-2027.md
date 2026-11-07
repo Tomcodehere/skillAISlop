@@ -1,5 +1,6 @@
 ---
 num: 1631
+date_ajout: "2026-11"
 nom: "Gateway MCP entreprise : audit, scopes, rate limit (2027)"
 emoji: "🛡"
 domaine: "Sécurité"

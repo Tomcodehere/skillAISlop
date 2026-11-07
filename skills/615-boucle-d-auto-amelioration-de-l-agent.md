@@ -1,5 +1,6 @@
 ---
 num: 615
+date_ajout: "2026-11"
 nom: "Boucle d'auto-amélioration de l'agent"
 emoji: "🪞"
 domaine: "IA / Prompting"

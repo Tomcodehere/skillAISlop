@@ -1,5 +1,6 @@
 ---
 num: 1333
+date_ajout: "2026-11"
 nom: "Santé de son animal (chien/chat) 2027"
 emoji: "🐾"
 domaine: "Personnel"

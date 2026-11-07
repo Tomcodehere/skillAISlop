@@ -1,5 +1,6 @@
 ---
 num: 804
+date_ajout: "2026-11"
 nom: "Studio de création IA (jeu, film, vidéo)"
 emoji: "🎮"
 domaine: "Créativité"

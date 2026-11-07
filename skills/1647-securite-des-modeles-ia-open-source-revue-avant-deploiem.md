@@ -1,5 +1,6 @@
 ---
 num: 1647
+date_ajout: "2026-11"
 nom: "Securite des modeles IA open source : revue avant deploiement (2027)"
 emoji: "🔍"
 domaine: "Sécurité"

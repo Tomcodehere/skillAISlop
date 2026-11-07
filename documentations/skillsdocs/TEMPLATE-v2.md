@@ -11,6 +11,7 @@
 - **pas de `<` ni `>` dans le frontmatter** (injection system prompt)
 - corps **< 500 lignes**, références à **1 niveau max** de profondeur
 - `metadata.version` par skill ; statut déprécié possible dans `signal`
+- **`date_ajout` obligatoire** : `Date d'ajout : 2026-11` au format **YYYY-MM**, ajoutée **automatiquement** à la création de la skill (ex. `date_ajout: "2026-11"`)
 - champs optionnels : `allowed-tools`, `disable-model-invocation`, `evals`
 
 ## Squelette (11 sections obligatoires, ordre primacy/recency)
@@ -18,6 +19,7 @@
 ```markdown
 ---
 num: NNN
+date_ajout: "2026-11"
 nom: "Nom de la skill"
 emoji: "🎯"
 domaine: "Domaine"

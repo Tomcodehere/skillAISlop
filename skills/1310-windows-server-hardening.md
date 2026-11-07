@@ -1,5 +1,6 @@
 ---
 num: 1310
+date_ajout: "2026-11"
 nom: "Windows Server Hardening"
 emoji: "💻"
 domaine: "Développement"

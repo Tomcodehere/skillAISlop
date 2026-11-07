@@ -1,5 +1,6 @@
 ---
 num: 342
+date_ajout: "2026-11"
 nom: "Détecteur de dérive de modèle"
 emoji: "🌨"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 466
+date_ajout: "2026-11"
 nom: "Planificateur d'horaires atypiques"
 emoji: "🍪"
 domaine: "Productivité"

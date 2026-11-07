@@ -1,5 +1,6 @@
 ---
 num: 1618
+date_ajout: "2026-11"
 nom: "Core Web Vitals 2027 : INP, LCP, CLS et RUM (2027)"
 emoji: "📊"
 domaine: "Développement"

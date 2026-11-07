@@ -1,5 +1,6 @@
 ---
 num: 714
+date_ajout: "2026-11"
 nom: "Mémoire persistante d'agent (structured memory)"
 emoji: "🧠"
 domaine: "IA / Prompting"

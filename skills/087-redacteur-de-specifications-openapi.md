@@ -1,5 +1,6 @@
 ---
 num: 87
+date_ajout: "2026-11"
 nom: "Rédacteur de spécifications OpenAPI"
 emoji: "📜"
 domaine: "Développement"

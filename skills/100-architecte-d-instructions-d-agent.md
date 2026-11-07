@@ -1,5 +1,6 @@
 ---
 num: 100
+date_ajout: "2026-11"
 nom: "Architecte d'instructions d'agent"
 emoji: "🎛️"
 domaine: "IA / Prompting"

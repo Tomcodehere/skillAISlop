@@ -1,4 +1,4 @@
-# Domaine : Produit & IA (19 skills)
+# Domaine : Produit & IA (21 skills)
 
 ## 66. 🤖 Concepteur de chatbot conversationnel
 
@@ -94,4 +94,14 @@
 
 - **Fichier** : `skills/1696-rendre-un-chatbot-ia-accessible-aria-live-clavier-lecteu.md` · **Mot-clé** : « chatbot IA accessible 2027 aria-live polite clavier lecteur écran contraste alternative humaine EAA » · **Nom court** : Chatbot a11y
 - **Signal** : Rendre un chatbot IA accessible en 2027 (WCAG 2.2 AA + EAA 1599) : région aria-live=polite pour les réponses (annoncées au lecteur d'écran 1619), navigation clavier complète (1571), focus géré à l'envoi, contraste 4,5:1 (1484), option 'réduire le mouvement' (1495), alternative humaine proposée (handoff 251), pas de piège clavier. Utilise pour tout chatbot面向 public. N'utilise pas pour un chatbot interne (employés formés). · **Synonymes** : « les réponses du chatbot annoncées au lecteur d'écran (aria-live polite) », « chatbot navigable au clavier seul (1571) sans piège », « proposer un humain (251) + contraste 4 », « 5:1 (1484) EAA 1599 » · **Cross-refs** : 1619, 1571, 1599 · **Tags** : 2027
+
+## 1708. 🤖 AI-assisted IDP : demander un service en langage naturel (2027)
+
+- **Fichier** : `skills/1708-ai-assisted-idp-demander-un-service-en-langage-naturel-2.md` · **Mot-clé** : « IDP assisté par IA 2027 demande en langage naturel génère repo manifests pipeline golden path 92% CIO » · **Nom court** : IDP+IA
+- **Signal** : Intégrer l'IA dans l'IDP en 2027 (92 % des CIO prévoient d'y intégrer l'IA) : un dev demande en langage naturel 'je veux un service Node connecté à Postgres avec observabilité', l'IDP génère le repo, les manifests et le pipeline depuis un golden path (1701). L'humain valide la PR (1401) avant merge. N'utilise pas pour supprimer la revue humaine. · **Synonymes** : « demander un service en langage naturel dans l'IDP (92 % des CIO 2027) », « l'IDP génère repo + CI + k8s depuis un golden path », « l'IA génère », « l'humain valide la PR (1401) avant merge » · **Cross-refs** : 1700, 1701, 1627 · **Tags** : 2027
+
+## 1745. ⚡ Lovable, Bolt, v0 : prototyper une appli web avec l'IA (2027)
+
+- **Fichier** : `skills/1745-lovable-bolt-v0-prototyper-une-appli-web-avec-l-ia-2027.md` · **Mot-clé** : « lovable bolt v0 prototyper appli web IA 2027 chat full-stack déployé POC MVP shadcn supabase stackblitz vercel revue 1401 » · **Nom court** : Lovable/Bolt/v0
+- **Signal** : Prototyper une appli web complète en 2027 en quelques heures avec Lovable (chat → app full-stack déployée, Supabase intégré), Bolt.new (StackBlitz, édition live dans le navigateur), ou v0 (Vercel, composants shadcn, déploiement Vercel). Utilise pour un POC/MVP rapide avec de vrais utilisateurs (1483). Le code généré doit être revu/audité avant prod (1401/1658) et exporté (pas de lock-in). N'utilise pas pour de la prod directe sans revue. · **Synonymes** : « créer une app complète en 2 h avec Lovable (chat → déployé) », « Bolt.new : éditer l'app générée en live dans le navigateur (StackBlitz) », « v0 (Vercel) : composants shadcn + déploiement Vercel en 1 clic » · **Cross-refs** : 1494, 1735, 1658 · **Tags** : 2027
 

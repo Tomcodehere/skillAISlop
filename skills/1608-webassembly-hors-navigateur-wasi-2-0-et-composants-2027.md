@@ -1,5 +1,6 @@
 ---
 num: 1608
+date_ajout: "2026-11"
 nom: "WebAssembly hors navigateur : WASI 2.0 et composants (2027)"
 emoji: "🧱"
 domaine: "Développement"

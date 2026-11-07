@@ -1,5 +1,6 @@
 ---
 num: 463
+date_ajout: "2026-11"
 nom: "Chirurgien du calendrier de réunions"
 emoji: "🫸"
 domaine: "Productivité"

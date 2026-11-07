@@ -1,5 +1,6 @@
 ---
 num: 1447
+date_ajout: "2026-11"
 nom: "IAM cloud : auditer et reduire les permissions (2027)"
 emoji: "🚡"
 domaine: "Sécurité"

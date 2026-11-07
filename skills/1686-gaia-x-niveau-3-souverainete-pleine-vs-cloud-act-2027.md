@@ -1,5 +1,6 @@
 ---
 num: 1686
+date_ajout: "2026-11"
 nom: "Gaia-X niveau 3 : souveraineté pleine vs CLOUD Act (2027)"
 emoji: "🇪🇺"
 domaine: "Juridique"

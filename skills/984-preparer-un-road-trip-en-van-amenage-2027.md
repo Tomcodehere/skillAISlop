@@ -1,5 +1,6 @@
 ---
 num: 984
+date_ajout: "2026-11"
 nom: "Préparer un road-trip en van aménagé 2027"
 emoji: "🚐"
 domaine: "Personnel"

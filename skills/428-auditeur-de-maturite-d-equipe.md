@@ -1,5 +1,6 @@
 ---
 num: 428
+date_ajout: "2026-11"
 nom: "Auditeur de maturité d'équipe"
 emoji: "🍞"
 domaine: "Gestion"

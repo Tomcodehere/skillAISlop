@@ -1,5 +1,6 @@
 ---
 num: 282
+date_ajout: "2026-11"
 nom: "Répondant aux avis clients en ligne"
 emoji: "🫧"
 domaine: "Vente"

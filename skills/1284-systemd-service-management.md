@@ -1,5 +1,6 @@
 ---
 num: 1284
+date_ajout: "2026-11"
 nom: "Systemd Service Management"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 857
+date_ajout: "2026-11"
 nom: "Gestion de crise personnelle (deuil, accident)"
 emoji: "🕊️"
 domaine: "Personnel"

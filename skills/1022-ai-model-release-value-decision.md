@@ -1,5 +1,6 @@
 ---
 num: 1022
+date_ajout: "2026-11"
 nom: "AI Model Release Value Decision"
 emoji: "💻"
 domaine: "Développement"

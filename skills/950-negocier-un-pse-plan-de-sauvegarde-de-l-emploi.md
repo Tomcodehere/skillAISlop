@@ -1,5 +1,6 @@
 ---
 num: 950
+date_ajout: "2026-11"
 nom: "Négocier un PSE (plan de sauvegarde de l'emploi)"
 emoji: "📉"
 domaine: "Juridique"

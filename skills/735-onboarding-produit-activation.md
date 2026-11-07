@@ -1,5 +1,6 @@
 ---
 num: 735
+date_ajout: "2026-11"
 nom: "Onboarding produit & activation"
 emoji: "🚀"
 domaine: "Produit"

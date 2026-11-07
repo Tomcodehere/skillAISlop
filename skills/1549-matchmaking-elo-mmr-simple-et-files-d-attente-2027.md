@@ -1,5 +1,6 @@
 ---
 num: 1549
+date_ajout: "2026-11"
 nom: "Matchmaking : ELO/MMR simple et files d'attente (2027)"
 emoji: "🎯"
 domaine: "Game Dev"

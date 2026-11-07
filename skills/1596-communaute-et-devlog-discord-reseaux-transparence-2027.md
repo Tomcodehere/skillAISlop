@@ -1,5 +1,6 @@
 ---
 num: 1596
+date_ajout: "2026-11"
 nom: "Communaute et devlog : Discord, reseaux, transparence (2027)"
 emoji: "📣"
 domaine: "Game Dev"

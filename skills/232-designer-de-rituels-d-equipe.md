@@ -1,5 +1,6 @@
 ---
 num: 232
+date_ajout: "2026-11"
 nom: "Designer de rituels d'équipe"
 emoji: "⏱️"
 domaine: "Gestion"

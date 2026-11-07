@@ -1,5 +1,6 @@
 ---
 num: 1074
+date_ajout: "2026-11"
 nom: "Cloud Storage Strategies"
 emoji: "🧠"
 domaine: "IA / Prompting"

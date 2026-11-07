@@ -1,5 +1,6 @@
 ---
 num: 1013
+date_ajout: "2026-11"
 nom: "Agent Role Regression Campaign"
 emoji: "📋"
 domaine: "Gestion"

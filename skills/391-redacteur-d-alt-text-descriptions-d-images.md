@@ -1,5 +1,6 @@
 ---
 num: 391
+date_ajout: "2026-11"
 nom: "Rédacteur d'alt-text & descriptions d'images"
 emoji: "🦯"
 domaine: "Rédaction"

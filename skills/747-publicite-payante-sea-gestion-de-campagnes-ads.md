@@ -1,5 +1,6 @@
 ---
 num: 747
+date_ajout: "2026-11"
 nom: "Publicité payante (SEA) & gestion de campagnes ads"
 emoji: "💰"
 domaine: "Marketing"

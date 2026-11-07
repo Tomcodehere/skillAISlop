@@ -1,5 +1,6 @@
 ---
 num: 885
+date_ajout: "2026-11"
 nom: "Prévention des risques professionnels (DUERP)"
 emoji: "⚠️"
 domaine: "RH & formation"

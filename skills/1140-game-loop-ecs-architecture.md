@@ -1,5 +1,6 @@
 ---
 num: 1140
+date_ajout: "2026-11"
 nom: "Game Loop & ECS Architecture"
 emoji: "💻"
 domaine: "Développement"

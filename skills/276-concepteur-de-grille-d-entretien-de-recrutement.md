@@ -1,5 +1,6 @@
 ---
 num: 276
+date_ajout: "2026-11"
 nom: "Concepteur de grille d'entretien de recrutement"
 emoji: "🎗️"
 domaine: "RH & formation"

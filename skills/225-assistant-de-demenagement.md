@@ -1,5 +1,6 @@
 ---
 num: 225
+date_ajout: "2026-11"
 nom: "Assistant de déménagement"
 emoji: "🚚"
 domaine: "Personnel"

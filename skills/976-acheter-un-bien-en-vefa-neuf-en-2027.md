@@ -1,5 +1,6 @@
 ---
 num: 976
+date_ajout: "2026-11"
 nom: "Acheter un bien en VEFA / neuf en 2027"
 emoji: "🏗️"
 domaine: "Finance"

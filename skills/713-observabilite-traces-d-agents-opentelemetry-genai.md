@@ -1,5 +1,6 @@
 ---
 num: 713
+date_ajout: "2026-11"
 nom: "Observabilité & traces d'agents (OpenTelemetry GenAI)"
 emoji: "📈"
 domaine: "Data & IA"

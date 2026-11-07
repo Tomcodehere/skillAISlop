@@ -1,5 +1,6 @@
 ---
 num: 513
+date_ajout: "2026-11"
 nom: "Guide web3, wallets & DeFi"
 emoji: "🌐"
 domaine: "Finance"

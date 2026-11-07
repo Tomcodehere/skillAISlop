@@ -1,5 +1,6 @@
 ---
 num: 1035
+date_ajout: "2026-11"
 nom: "AppSec Trust-Boundary Review"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 456
+date_ajout: "2026-11"
 nom: "Testeur d'expérience mobile"
 emoji: "📲"
 domaine: "Design"

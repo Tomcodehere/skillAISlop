@@ -1,5 +1,6 @@
 ---
 num: 960
+date_ajout: "2026-11"
 nom: "Installation d'une borne de recharge à domicile (2027)"
 emoji: "🔌"
 domaine: "Personnel"

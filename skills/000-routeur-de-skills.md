@@ -1,5 +1,6 @@
 ---
 num: 0
+date_ajout: "2026-11"
 nom: "🧭 Routeur de skills"
 emoji: "🧭"
 domaine: "Routage"

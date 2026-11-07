@@ -1,5 +1,6 @@
 ---
 num: 835
+date_ajout: "2026-11"
 nom: "Arbitrages d'assurance-vie"
 emoji: "📈"
 domaine: "Finance"

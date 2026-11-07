@@ -1,5 +1,6 @@
 ---
 num: 616
+date_ajout: "2026-11"
 nom: "Communication adaptée TDAH"
 emoji: "🧠"
 domaine: "IA / Prompting"

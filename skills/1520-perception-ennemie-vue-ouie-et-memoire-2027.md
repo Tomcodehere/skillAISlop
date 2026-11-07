@@ -1,5 +1,6 @@
 ---
 num: 1520
+date_ajout: "2026-11"
 nom: "Perception ennemie : vue, ouïe et memoire (2027)"
 emoji: "👁️"
 domaine: "Game Dev"

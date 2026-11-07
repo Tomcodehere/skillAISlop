@@ -1,5 +1,6 @@
 ---
 num: 449
+date_ajout: "2026-11"
 nom: "Auditeur anti-look générique IA"
 emoji: "🪭"
 domaine: "Design"

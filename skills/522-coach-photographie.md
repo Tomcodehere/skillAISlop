@@ -1,5 +1,6 @@
 ---
 num: 522
+date_ajout: "2026-11"
 nom: "Coach photographie"
 emoji: "📷"
 domaine: "Créativité"

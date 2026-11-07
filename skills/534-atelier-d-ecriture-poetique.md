@@ -1,5 +1,6 @@
 ---
 num: 534
+date_ajout: "2026-11"
 nom: "Atelier d'écriture poétique"
 emoji: "✒️"
 domaine: "Rédaction"

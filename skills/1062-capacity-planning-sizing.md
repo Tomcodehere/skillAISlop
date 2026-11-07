@@ -1,5 +1,6 @@
 ---
 num: 1062
+date_ajout: "2026-11"
 nom: "Capacity Planning & Sizing"
 emoji: "📋"
 domaine: "Gestion"

@@ -1,5 +1,6 @@
 ---
 num: 1524
+date_ajout: "2026-11"
 nom: "Raycast et ligne de vue (LOS) en 2D/3D (2027)"
 emoji: "💡"
 domaine: "Game Dev"

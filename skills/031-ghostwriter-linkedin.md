@@ -1,5 +1,6 @@
 ---
 num: 31
+date_ajout: "2026-11"
 nom: "Ghostwriter LinkedIn"
 emoji: "📘"
 domaine: "Marketing"

@@ -1,5 +1,6 @@
 ---
 num: 1178
+date_ajout: "2026-11"
 nom: "Linux Security Hardening"
 emoji: "💻"
 domaine: "Développement"

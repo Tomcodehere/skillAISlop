@@ -1,5 +1,6 @@
 ---
 num: 1079
+date_ajout: "2026-11"
 nom: "Competitive Landscape & Positioning Analysis"
 emoji: "📦"
 domaine: "Produit"

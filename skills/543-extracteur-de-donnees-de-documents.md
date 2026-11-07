@@ -1,5 +1,6 @@
 ---
 num: 543
+date_ajout: "2026-11"
 nom: "Extracteur de données de documents"
 emoji: "🧾"
 domaine: "Data"

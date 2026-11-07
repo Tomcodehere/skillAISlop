@@ -1,5 +1,6 @@
 ---
 num: 1176
+date_ajout: "2026-11"
 nom: "Language Correction Regression Suite"
 emoji: "🎨"
 domaine: "Design"

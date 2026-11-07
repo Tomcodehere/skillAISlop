@@ -1,5 +1,6 @@
 ---
 num: 1059
+date_ajout: "2026-11"
 nom: "Business KPI Analysis & Dashboard Design"
 emoji: "🤖"
 domaine: "Data & IA"

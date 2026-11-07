@@ -1,5 +1,6 @@
 ---
 num: 1028
+date_ajout: "2026-11"
 nom: "AI Transparency Audience Plan"
 emoji: "🎨"
 domaine: "Design"

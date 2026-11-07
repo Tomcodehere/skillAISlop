@@ -1,5 +1,6 @@
 ---
 num: 461
+date_ajout: "2026-11"
 nom: "Concepteur de flux d'inscription & vérification"
 emoji: "🚻"
 domaine: "Produit"

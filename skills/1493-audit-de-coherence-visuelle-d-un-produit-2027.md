@@ -1,5 +1,6 @@
 ---
 num: 1493
+date_ajout: "2026-11"
 nom: "Audit de coherence visuelle d'un produit (2027)"
 emoji: "🔍"
 domaine: "Design"

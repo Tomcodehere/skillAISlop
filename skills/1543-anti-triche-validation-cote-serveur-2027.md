@@ -1,5 +1,6 @@
 ---
 num: 1543
+date_ajout: "2026-11"
 nom: "Anti-triche : validation cote serveur (2027)"
 emoji: "🛡"
 domaine: "Game Dev"

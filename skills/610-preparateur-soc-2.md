@@ -1,5 +1,6 @@
 ---
 num: 610
+date_ajout: "2026-11"
 nom: "Préparateur SOC 2"
 emoji: "🏛️"
 domaine: "Juridique"

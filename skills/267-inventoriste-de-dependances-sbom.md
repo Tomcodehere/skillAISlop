@@ -1,5 +1,6 @@
 ---
 num: 267
+date_ajout: "2026-11"
 nom: "Inventoriste de dépendances (SBOM)"
 emoji: "🔩"
 domaine: "Sécurité"

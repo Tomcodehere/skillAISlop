@@ -1,5 +1,6 @@
 ---
 num: 1104
+date_ajout: "2026-11"
 nom: "Debian & Arch System Administration"
 emoji: "💻"
 domaine: "Développement"

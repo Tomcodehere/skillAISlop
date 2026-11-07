@@ -1,5 +1,6 @@
 ---
 num: 332
+date_ajout: "2026-11"
 nom: "Gardien de schémas de sortie"
 emoji: "🌟"
 domaine: "IA / Prompting"

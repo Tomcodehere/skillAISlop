@@ -1,5 +1,6 @@
 ---
 num: 1261
+date_ajout: "2026-11"
 nom: "RPA Automation Design"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 937
+date_ajout: "2026-11"
 nom: "Prévention RPS & bien-être au travail (indicateur 2027)"
 emoji: "🧘"
 domaine: "RH & formation"

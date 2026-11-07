@@ -1,5 +1,6 @@
 ---
 num: 436
+date_ajout: "2026-11"
 nom: "Négociateur de partenariats stratégiques"
 emoji: "🤲"
 domaine: "Stratégie"

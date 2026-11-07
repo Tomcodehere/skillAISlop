@@ -1,5 +1,6 @@
 ---
 num: 135
+date_ajout: "2026-11"
 nom: "Planificateur éditorial"
 emoji: "🗓️"
 domaine: "Marketing"

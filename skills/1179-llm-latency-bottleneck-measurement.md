@@ -1,5 +1,6 @@
 ---
 num: 1179
+date_ajout: "2026-11"
 nom: "LLM Latency Bottleneck Measurement"
 emoji: "🧠"
 domaine: "IA / Prompting"

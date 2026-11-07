@@ -1,5 +1,6 @@
 ---
 num: 1670
+date_ajout: "2026-11"
 nom: "Exit strategy cloud et DORA : plans de sortie testes (2027)"
 emoji: "🚪"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 1640
+date_ajout: "2026-11"
 nom: "Securite des agents IA en production : menaces 2027 (injection, exfiltration)"
 emoji: "🛡"
 domaine: "Sécurité"

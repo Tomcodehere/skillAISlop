@@ -1,5 +1,6 @@
 ---
 num: 1054
+date_ajout: "2026-11"
 nom: "Bounded Utility Specification"
 emoji: "📋"
 domaine: "Gestion"

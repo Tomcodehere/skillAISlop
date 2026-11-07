@@ -1,5 +1,6 @@
 ---
 num: 254
+date_ajout: "2026-11"
 nom: "Générateur de mocks d'API"
 emoji: "📼"
 domaine: "Développement"

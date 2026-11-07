@@ -1,5 +1,6 @@
 ---
 num: 861
+date_ajout: "2026-11"
 nom: "Meal prep & batch cooking efficace"
 emoji: "🍱"
 domaine: "Personnel"

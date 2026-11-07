@@ -1,5 +1,6 @@
 ---
 num: 1317
+date_ajout: "2026-11"
 nom: "France Identité & CNIe (2027)"
 emoji: "🪪"
 domaine: "Bureau"

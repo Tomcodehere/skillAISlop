@@ -1,5 +1,6 @@
 ---
 num: 1682
+date_ajout: "2026-11"
 nom: "GPAI : Code of Practice et obligations fournisseurs (2027)"
 emoji: "📋"
 domaine: "Juridique"

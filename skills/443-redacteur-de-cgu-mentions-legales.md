@@ -1,5 +1,6 @@
 ---
 num: 443
+date_ajout: "2026-11"
 nom: "Rédacteur de CGU & mentions légales"
 emoji: "📵"
 domaine: "Juridique"

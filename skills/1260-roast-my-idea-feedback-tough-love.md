@@ -1,5 +1,6 @@
 ---
 num: 1260
+date_ajout: "2026-11"
 nom: "Roast My Idea (Feedback Tough Love)"
 emoji: "🧠"
 domaine: "IA / Prompting"

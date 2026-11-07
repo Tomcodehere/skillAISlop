@@ -1,5 +1,6 @@
 ---
 num: 1541
+date_ajout: "2026-11"
 nom: "A/B testing in-game : evenements saisonniers (2027)"
 emoji: "⚖️"
 domaine: "Game Dev"

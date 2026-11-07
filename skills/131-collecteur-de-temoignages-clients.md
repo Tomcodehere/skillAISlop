@@ -1,5 +1,6 @@
 ---
 num: 131
+date_ajout: "2026-11"
 nom: "Collecteur de témoignages clients"
 emoji: "💎"
 domaine: "Vente"

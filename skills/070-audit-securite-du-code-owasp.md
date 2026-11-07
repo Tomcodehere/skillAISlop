@@ -1,5 +1,6 @@
 ---
 num: 70
+date_ajout: "2026-11"
 nom: "Audit sécurité du code (OWASP)"
 emoji: "🔐"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 852
+date_ajout: "2026-11"
 nom: "Préparation d'un appel d'offres (AAP)"
 emoji: "📑"
 domaine: "Vente"

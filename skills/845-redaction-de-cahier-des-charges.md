@@ -1,5 +1,6 @@
 ---
 num: 845
+date_ajout: "2026-11"
 nom: "Rédaction de cahier des charges"
 emoji: "📐"
 domaine: "Produit"

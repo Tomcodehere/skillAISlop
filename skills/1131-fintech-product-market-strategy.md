@@ -1,5 +1,6 @@
 ---
 num: 1131
+date_ajout: "2026-11"
 nom: "FinTech Product & Market Strategy"
 emoji: "📦"
 domaine: "Produit"

@@ -1,5 +1,6 @@
 ---
 num: 1308
+date_ajout: "2026-11"
 nom: "Web Accessibility Audit (Audit Accessibilité Web)"
 emoji: "💻"
 domaine: "Développement"

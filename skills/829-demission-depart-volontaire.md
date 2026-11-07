@@ -1,5 +1,6 @@
 ---
 num: 829
+date_ajout: "2026-11"
 nom: "Démission & départ volontaire"
 emoji: "✉️"
 domaine: "Carrière"

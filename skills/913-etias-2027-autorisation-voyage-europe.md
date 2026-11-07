@@ -1,5 +1,6 @@
 ---
 num: 913
+date_ajout: "2026-11"
 nom: "ETIAS 2027 : autorisation voyage Europe"
 emoji: "✈️"
 domaine: "Personnel"

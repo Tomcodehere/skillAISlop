@@ -1,5 +1,6 @@
 ---
 num: 576
+date_ajout: "2026-11"
 nom: "Guide du streamer débutant"
 emoji: "🎥"
 domaine: "Créativité"

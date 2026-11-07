@@ -1,5 +1,6 @@
 ---
 num: 1683
+date_ajout: "2026-11"
 nom: "Amendes AI Act : 35 M€ ou 7 % du CA (2027)"
 emoji: "💰"
 domaine: "Juridique"

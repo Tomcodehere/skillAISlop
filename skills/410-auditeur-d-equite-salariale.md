@@ -1,5 +1,6 @@
 ---
 num: 410
+date_ajout: "2026-11"
 nom: "Auditeur d'équité salariale"
 emoji: "🍖"
 domaine: "RH & formation"

@@ -1,5 +1,6 @@
 ---
 num: 336
+date_ajout: "2026-11"
 nom: "Auditeur de biais de modèle & de données"
 emoji: "🌣"
 domaine: "IA / Prompting"

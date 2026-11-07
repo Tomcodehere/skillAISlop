@@ -1,5 +1,6 @@
 ---
 num: 571
+date_ajout: "2026-11"
 nom: "Conseiller d'orientation scolaire"
 emoji: "🧭"
 domaine: "Apprentissage"

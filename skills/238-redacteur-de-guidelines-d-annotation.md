@@ -1,5 +1,6 @@
 ---
 num: 238
+date_ajout: "2026-11"
 nom: "Rédacteur de guidelines d'annotation"
 emoji: "🖍️"
 domaine: "Data"

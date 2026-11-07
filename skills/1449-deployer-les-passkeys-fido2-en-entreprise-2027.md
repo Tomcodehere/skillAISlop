@@ -1,5 +1,6 @@
 ---
 num: 1449
+date_ajout: "2026-11"
 nom: "Deployer les passkeys (FIDO2) en entreprise (2027)"
 emoji: "🔑"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 289
+date_ajout: "2026-11"
 nom: "Traducteur de réunions multilingues"
 emoji: "👂"
 domaine: "Communication"

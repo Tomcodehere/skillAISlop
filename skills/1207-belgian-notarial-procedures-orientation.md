@@ -1,5 +1,6 @@
 ---
 num: 1207
+date_ajout: "2026-11"
 nom: "Belgian Notarial Procedures Orientation"
 emoji: "🔬"
 domaine: "Recherche"

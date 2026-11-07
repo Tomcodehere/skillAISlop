@@ -1,5 +1,6 @@
 ---
 num: 848
+date_ajout: "2026-11"
 nom: "Conflits d'intérêts & lanceur d'alerte"
 emoji: "⚖️"
 domaine: "Juridique"

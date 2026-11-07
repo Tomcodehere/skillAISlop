@@ -1,5 +1,6 @@
 ---
 num: 1560
+date_ajout: "2026-11"
 nom: "State machine d'animation (Animator, 2027)"
 emoji: "🎭"
 domaine: "Game Dev"
@@ -7,7 +8,7 @@ signal: "Organiser les animations d'un personnage en 2027 avec une state machine
 mot_cle: "state machine animation Animator états transitions conditions crossfade"
 nom_court: "Anim FSM"
 branche: "D19"
-synonymes: ["états Idle Run Jump Attack avec transitions", "condition vitesse > 0,1 passe en Run", "crossfade 0,1 s entre deux animations"]
+synonymes: ["états Idle Run Jump Attack avec transitions", "condition vitesse superieure a 0,1 passe en Run", "crossfade 0,1 s entre deux animations"]
 cross_refs: [1561, 1519, 1509]
 tags: ["2027"]
 depends_on: [1519]

@@ -1,5 +1,6 @@
 ---
 num: 134
+date_ajout: "2026-11"
 nom: "Rédacteur de définitions & glossaires"
 emoji: "🔡"
 domaine: "Rédaction"

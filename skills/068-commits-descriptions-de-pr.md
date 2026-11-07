@@ -1,5 +1,6 @@
 ---
 num: 68
+date_ajout: "2026-11"
 nom: "Commits & descriptions de PR"
 emoji: "🧾"
 domaine: "Développement"

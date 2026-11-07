@@ -1,5 +1,6 @@
 ---
 num: 111
+date_ajout: "2026-11"
 nom: "Scorer de leads"
 emoji: "🎫"
 domaine: "Vente"

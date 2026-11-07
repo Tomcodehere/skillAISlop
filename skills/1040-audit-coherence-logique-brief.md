@@ -1,5 +1,6 @@
 ---
 num: 1040
+date_ajout: "2026-11"
 nom: "Audit Cohérence Logique Brief"
 emoji: "📋"
 domaine: "Gestion"

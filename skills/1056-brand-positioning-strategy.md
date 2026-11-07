@@ -1,5 +1,6 @@
 ---
 num: 1056
+date_ajout: "2026-11"
 nom: "Brand Positioning Strategy"
 emoji: "📣"
 domaine: "Marketing"

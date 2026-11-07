@@ -1,5 +1,6 @@
 ---
 num: 923
+date_ajout: "2026-11"
 nom: "Dumbphone & réduction d'écran volontaire"
 emoji: "📵"
 domaine: "Personnel"

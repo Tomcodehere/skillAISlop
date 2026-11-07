@@ -1,5 +1,6 @@
 ---
 num: 710
+date_ajout: "2026-11"
 nom: "Rapport hebdomadaire d'activité"
 emoji: "📊"
 domaine: "Gestion"

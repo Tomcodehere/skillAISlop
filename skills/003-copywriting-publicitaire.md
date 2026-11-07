@@ -1,5 +1,6 @@
 ---
 num: 3
+date_ajout: "2026-11"
 nom: "Copywriting publicitaire"
 emoji: "📣"
 domaine: "Marketing"

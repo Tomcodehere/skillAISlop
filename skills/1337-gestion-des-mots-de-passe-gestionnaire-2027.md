@@ -1,5 +1,6 @@
 ---
 num: 1337
+date_ajout: "2026-11"
 nom: "Gestion des mots de passe & gestionnaire (2027)"
 emoji: "🔑"
 domaine: "Sécurité"

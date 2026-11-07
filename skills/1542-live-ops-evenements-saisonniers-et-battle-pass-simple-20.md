@@ -1,5 +1,6 @@
 ---
 num: 1542
+date_ajout: "2026-11"
 nom: "Live ops : evenements saisonniers et battle pass simple (2027)"
 emoji: "🌟"
 domaine: "Game Dev"

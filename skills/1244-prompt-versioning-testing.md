@@ -1,5 +1,6 @@
 ---
 num: 1244
+date_ajout: "2026-11"
 nom: "Prompt Versioning & Testing"
 emoji: "💻"
 domaine: "Développement"

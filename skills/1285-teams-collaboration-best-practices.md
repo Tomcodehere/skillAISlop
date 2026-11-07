@@ -1,5 +1,6 @@
 ---
 num: 1285
+date_ajout: "2026-11"
 nom: "Teams Collaboration Best Practices"
 emoji: "💻"
 domaine: "Développement"

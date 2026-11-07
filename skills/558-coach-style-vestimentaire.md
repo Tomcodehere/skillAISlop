@@ -1,5 +1,6 @@
 ---
 num: 558
+date_ajout: "2026-11"
 nom: "Coach style vestimentaire"
 emoji: "👗"
 domaine: "Personnel"

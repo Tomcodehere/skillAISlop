@@ -1,5 +1,6 @@
 ---
 num: 313
+date_ajout: "2026-11"
 nom: "Architecte de monorepo"
 emoji: "🌑"
 domaine: "Développement"

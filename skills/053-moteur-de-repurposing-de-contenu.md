@@ -1,5 +1,6 @@
 ---
 num: 53
+date_ajout: "2026-11"
 nom: "Moteur de repurposing de contenu"
 emoji: "♻️"
 domaine: "Marketing"

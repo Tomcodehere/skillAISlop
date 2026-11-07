@@ -1,5 +1,6 @@
 ---
 num: 1189
+date_ajout: "2026-11"
 nom: "Message Delivery Recovery Design"
 emoji: "🎨"
 domaine: "Design"

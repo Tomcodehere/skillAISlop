@@ -1,5 +1,6 @@
 ---
 num: 301
+date_ajout: "2026-11"
 nom: "Gestionnaire de worktrees Git"
 emoji: "🌿"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1209
+date_ajout: "2026-11"
 nom: "Observability Engineer"
 emoji: "🤖"
 domaine: "Data & IA"

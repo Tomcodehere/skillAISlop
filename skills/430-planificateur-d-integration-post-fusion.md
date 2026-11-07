@@ -1,5 +1,6 @@
 ---
 num: 430
+date_ajout: "2026-11"
 nom: "Planificateur d'intégration post-fusion"
 emoji: "🔨"
 domaine: "Gestion"

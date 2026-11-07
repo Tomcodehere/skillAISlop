@@ -1,5 +1,6 @@
 ---
 num: 45
+date_ajout: "2026-11"
 nom: "Simulateur de négociation"
 emoji: "🤺"
 domaine: "Carrière"

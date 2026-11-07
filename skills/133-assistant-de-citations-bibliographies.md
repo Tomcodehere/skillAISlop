@@ -1,5 +1,6 @@
 ---
 num: 133
+date_ajout: "2026-11"
 nom: "Assistant de citations & bibliographies"
 emoji: "🧷"
 domaine: "Rédaction"

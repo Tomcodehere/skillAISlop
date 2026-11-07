@@ -1,5 +1,6 @@
 ---
 num: 1504
+date_ajout: "2026-11"
 nom: "Systeme d'input moderne : actions, gamepad, remappable (2027)"
 emoji: "🎮"
 domaine: "Game Dev"

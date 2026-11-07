@@ -1,5 +1,6 @@
 ---
 num: 972
+date_ajout: "2026-11"
 nom: "Organiser un pot de départ / événement d'équipe"
 emoji: "🎉"
 domaine: "Communication"

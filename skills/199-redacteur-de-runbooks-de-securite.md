@@ -1,5 +1,6 @@
 ---
 num: 199
+date_ajout: "2026-11"
 nom: "Rédacteur de runbooks de sécurité"
 emoji: "🧯"
 domaine: "Sécurité"

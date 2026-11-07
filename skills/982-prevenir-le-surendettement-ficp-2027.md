@@ -1,5 +1,6 @@
 ---
 num: 982
+date_ajout: "2026-11"
 nom: "Prévenir le surendettement & FICP 2027"
 emoji: "⚖️"
 domaine: "Finance"

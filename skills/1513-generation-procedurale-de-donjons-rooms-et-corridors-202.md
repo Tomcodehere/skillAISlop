@@ -1,5 +1,6 @@
 ---
 num: 1513
+date_ajout: "2026-11"
 nom: "Generation procédurale de donjons : rooms et corridors (2027)"
 emoji: "🏰"
 domaine: "Game Dev"

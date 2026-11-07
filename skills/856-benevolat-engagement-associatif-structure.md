@@ -1,5 +1,6 @@
 ---
 num: 856
+date_ajout: "2026-11"
 nom: "Bénévolat & engagement associatif structuré"
 emoji: "🤝"
 domaine: "Gestion"

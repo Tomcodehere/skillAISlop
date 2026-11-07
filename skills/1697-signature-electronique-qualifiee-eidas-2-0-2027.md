@@ -1,5 +1,6 @@
 ---
 num: 1697
+date_ajout: "2026-11"
 nom: "Signature électronique qualifiée eIDAS 2.0 (2027)"
 emoji: "✍️"
 domaine: "Bureau"

@@ -1,5 +1,6 @@
 ---
 num: 205
+date_ajout: "2026-11"
 nom: "Cartographe de compétences d'équipe"
 emoji: "🔷"
 domaine: "RH & formation"

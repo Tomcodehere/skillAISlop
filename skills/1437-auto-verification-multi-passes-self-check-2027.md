@@ -1,5 +1,6 @@
 ---
 num: 1437
+date_ajout: "2026-11"
 nom: "Auto-verification multi-passes (self-check, 2027)"
 emoji: "✅"
 domaine: "IA / Prompting"

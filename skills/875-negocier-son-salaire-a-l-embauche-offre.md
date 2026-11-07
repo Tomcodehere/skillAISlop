@@ -1,5 +1,6 @@
 ---
 num: 875
+date_ajout: "2026-11"
 nom: "Négocier son salaire à l'embauche (offre)"
 emoji: "💶"
 domaine: "Carrière"

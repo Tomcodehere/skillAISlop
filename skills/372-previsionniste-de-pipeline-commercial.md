@@ -1,5 +1,6 @@
 ---
 num: 372
+date_ajout: "2026-11"
 nom: "Prévisionniste de pipeline commercial"
 emoji: "📠"
 domaine: "Vente"

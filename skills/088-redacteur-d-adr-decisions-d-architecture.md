@@ -1,5 +1,6 @@
 ---
 num: 88
+date_ajout: "2026-11"
 nom: "Rédacteur d'ADR (décisions d'architecture)"
 emoji: "🏛️"
 domaine: "Développement"

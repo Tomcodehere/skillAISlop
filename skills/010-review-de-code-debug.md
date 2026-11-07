@@ -1,5 +1,6 @@
 ---
 num: 10
+date_ajout: "2026-11"
 nom: "Review de code & debug"
 emoji: "🐞"
 domaine: "Développement"

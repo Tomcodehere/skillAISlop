@@ -1,5 +1,6 @@
 ---
 num: 1534
+date_ajout: "2026-11"
 nom: "Inventaire : grille, drag and drop, stacking (2027)"
 emoji: "🎁"
 domaine: "Game Dev"

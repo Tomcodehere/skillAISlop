@@ -1,5 +1,6 @@
 ---
 num: 21
+date_ajout: "2026-11"
 nom: "Implémentation incrémentale"
 emoji: "🪜"
 domaine: "Développement"

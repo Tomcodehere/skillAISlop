@@ -1,5 +1,6 @@
 ---
 num: 168
+date_ajout: "2026-11"
 nom: "Répondant aux appels d'offres (AAPA)"
 emoji: "📤"
 domaine: "Vente"

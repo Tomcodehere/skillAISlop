@@ -1,5 +1,6 @@
 ---
 num: 1578
+date_ajout: "2026-11"
 nom: "Versioning des builds et changelog joueur (2027)"
 emoji: "📅"
 domaine: "Game Dev"

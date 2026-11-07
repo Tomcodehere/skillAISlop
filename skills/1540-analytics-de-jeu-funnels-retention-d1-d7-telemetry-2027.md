@@ -1,5 +1,6 @@
 ---
 num: 1540
+date_ajout: "2026-11"
 nom: "Analytics de jeu : funnels, rétention D1/D7, telemetry (2027)"
 emoji: "📊"
 domaine: "Game Dev"
@@ -7,7 +8,7 @@ signal: "Mettre en place la télémétrie d'un jeu en 2027 (RGPD-compliant 1587)
 mot_cle: "analytics jeu télémétrie funnels rétention D1 D7 D30 événements custom"
 nom_court: "Analytics jeu"
 branche: "D22"
-synonymes: ["funnel tutoriel étape par étape", "rétention D1 D7 D30 dashboard", "envoyer événements custom à Unity Analytics"]
+synonymes: ["funnel tutoriel étape par étape", "rétention D1 D7 D30 dashboard", "envoyer événements custom à Unity Analytics", "mesurer ARPU rétention D7 p-value ship kill"]
 cross_refs: [1541, 110, 1587]
 tags: ["2027"]
 depends_on: [110]

@@ -1,5 +1,6 @@
 ---
 num: 647
+date_ajout: "2026-11"
 nom: "E-réputation & avis en ligne"
 emoji: "⭐"
 domaine: "Marketing"

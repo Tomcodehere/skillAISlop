@@ -1,5 +1,6 @@
 ---
 num: 1422
+date_ajout: "2026-11"
 nom: "Choisir sa base NoSQL : MongoDB, Redis, Cassandra (2027)"
 emoji: "🗄️"
 domaine: "Développement"

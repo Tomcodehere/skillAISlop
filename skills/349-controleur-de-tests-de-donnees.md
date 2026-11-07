@@ -1,5 +1,6 @@
 ---
 num: 349
+date_ajout: "2026-11"
 nom: "Contrôleur de tests de données"
 emoji: "🌮"
 domaine: "Data"

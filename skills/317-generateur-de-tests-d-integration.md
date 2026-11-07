@@ -1,5 +1,6 @@
 ---
 num: 317
+date_ajout: "2026-11"
 nom: "Générateur de tests d'intégration"
 emoji: "🌔"
 domaine: "Développement"

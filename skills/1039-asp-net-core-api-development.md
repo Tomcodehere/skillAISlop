@@ -1,5 +1,6 @@
 ---
 num: 1039
+date_ajout: "2026-11"
 nom: "ASP.NET Core API Development"
 emoji: "💻"
 domaine: "Développement"

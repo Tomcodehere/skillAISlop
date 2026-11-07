@@ -1,5 +1,6 @@
 ---
 num: 1361
+date_ajout: "2026-11"
 nom: "Concevoir un parcours de formation blended (2027)"
 emoji: "🧩"
 domaine: "Formation"

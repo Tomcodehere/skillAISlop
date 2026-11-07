@@ -1,5 +1,6 @@
 ---
 num: 1382
+date_ajout: "2026-11"
 nom: "Rediger un plan strategique a 3 ans (2027-2029)"
 emoji: "🗺"
 domaine: "Stratégie"

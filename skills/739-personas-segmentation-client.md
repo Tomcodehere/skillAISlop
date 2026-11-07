@@ -1,5 +1,6 @@
 ---
 num: 739
+date_ajout: "2026-11"
 nom: "Personas & segmentation client"
 emoji: "🎯"
 domaine: "Marketing"

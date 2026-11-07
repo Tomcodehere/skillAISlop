@@ -1,5 +1,6 @@
 ---
 num: 236
+date_ajout: "2026-11"
 nom: "Gestionnaire de contexte de conversation"
 emoji: "🪟"
 domaine: "IA / Prompting"

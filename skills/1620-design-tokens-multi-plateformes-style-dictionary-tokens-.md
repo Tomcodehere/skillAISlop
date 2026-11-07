@@ -1,5 +1,6 @@
 ---
 num: 1620
+date_ajout: "2026-11"
 nom: "Design tokens multi-plateformes : Style Dictionary, Tokens Studio (2027)"
 emoji: "🎨"
 domaine: "Design"

@@ -1,5 +1,6 @@
 ---
 num: 605
+date_ajout: "2026-11"
 nom: "Rédacteur de plans de test manuels"
 emoji: "🗂️"
 domaine: "Produit"

@@ -1,5 +1,6 @@
 ---
 num: 1339
+date_ajout: "2026-11"
 nom: "Prévention cambriolage & vacances tranquilles (2027)"
 emoji: "✈️"
 domaine: "Sécurité"

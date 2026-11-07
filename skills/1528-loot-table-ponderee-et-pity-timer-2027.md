@@ -1,5 +1,6 @@
 ---
 num: 1528
+date_ajout: "2026-11"
 nom: "Loot table ponderee et pity timer (2027)"
 emoji: "🎰"
 domaine: "Game Dev"

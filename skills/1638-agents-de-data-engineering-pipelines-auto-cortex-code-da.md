@@ -1,5 +1,6 @@
 ---
 num: 1638
+date_ajout: "2026-11"
 nom: "Agents de data engineering : pipelines auto (Cortex Code, Databricks, BigQuery, 2027)"
 emoji: "🤖"
 domaine: "Data & IA"

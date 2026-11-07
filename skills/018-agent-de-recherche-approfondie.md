@@ -1,5 +1,6 @@
 ---
 num: 18
+date_ajout: "2026-11"
 nom: "Agent de recherche approfondie"
 emoji: "🔎"
 domaine: "Recherche"

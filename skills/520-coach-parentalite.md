@@ -1,5 +1,6 @@
 ---
 num: 520
+date_ajout: "2026-11"
 nom: "Coach parentalité"
 emoji: "👶"
 domaine: "Personnel"

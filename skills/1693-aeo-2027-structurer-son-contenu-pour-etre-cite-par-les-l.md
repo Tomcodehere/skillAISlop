@@ -1,5 +1,6 @@
 ---
 num: 1693
+date_ajout: "2026-11"
 nom: "AEO 2027 : structurer son contenu pour être cité par les LLM (2027)"
 emoji: "📝"
 domaine: "Produit & IA"

@@ -1,5 +1,6 @@
 ---
 num: 1454
+date_ajout: "2026-11"
 nom: "Exercice de crise cyber : tabletop (2027)"
 emoji: "🎯"
 domaine: "Sécurité"

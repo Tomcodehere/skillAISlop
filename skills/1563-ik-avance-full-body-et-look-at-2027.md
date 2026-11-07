@@ -1,5 +1,6 @@
 ---
 num: 1563
+date_ajout: "2026-11"
 nom: "IK avancé : full body et look-at (2027)"
 emoji: "👀"
 domaine: "Game Dev"

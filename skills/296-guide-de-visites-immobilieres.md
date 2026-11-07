@@ -1,5 +1,6 @@
 ---
 num: 296
+date_ajout: "2026-11"
 nom: "Guide de visites immobilières"
 emoji: "🛏️"
 domaine: "Personnel"

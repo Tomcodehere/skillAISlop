@@ -1,5 +1,6 @@
 ---
 num: 389
+date_ajout: "2026-11"
 nom: "Testeur de contenu en 5 secondes"
 emoji: "👀"
 domaine: "Rédaction"

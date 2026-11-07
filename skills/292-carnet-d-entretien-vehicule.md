@@ -1,5 +1,6 @@
 ---
 num: 292
+date_ajout: "2026-11"
 nom: "Carnet d'entretien véhicule"
 emoji: "🚗"
 domaine: "Personnel"

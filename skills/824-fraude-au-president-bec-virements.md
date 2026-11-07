@@ -1,5 +1,6 @@
 ---
 num: 824
+date_ajout: "2026-11"
 nom: "Fraude au président (BEC) & virements"
 emoji: "📧"
 domaine: "Sécurité"

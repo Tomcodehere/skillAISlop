@@ -1,5 +1,6 @@
 ---
 num: 1380
+date_ajout: "2026-11"
 nom: "Choisir son modele economique (SaaS, licence, usage, 2027)"
 emoji: "🏛"
 domaine: "Stratégie"

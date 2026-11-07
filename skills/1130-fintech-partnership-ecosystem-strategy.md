@@ -1,5 +1,6 @@
 ---
 num: 1130
+date_ajout: "2026-11"
 nom: "FinTech Partnership & Ecosystem Strategy"
 emoji: "🧠"
 domaine: "IA / Prompting"

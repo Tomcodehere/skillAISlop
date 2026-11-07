@@ -1,5 +1,6 @@
 ---
 num: 1434
+date_ajout: "2026-11"
 nom: "Memoire d'agent : episodique vs semantique (2027)"
 emoji: "🧠"
 domaine: "IA / Prompting"

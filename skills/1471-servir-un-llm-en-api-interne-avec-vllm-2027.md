@@ -1,5 +1,6 @@
 ---
 num: 1471
+date_ajout: "2026-11"
 nom: "Servir un LLM en API interne avec vLLM (2027)"
 emoji: "⚡"
 domaine: "Data & IA"

@@ -1,5 +1,6 @@
 ---
 num: 1680
+date_ajout: "2026-11"
 nom: "OpenTelemetry pour la data : tracer les pipelines (2027)"
 emoji: "📈"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 1149
+date_ajout: "2026-11"
 nom: "Godot Animation System Integration"
 emoji: "💻"
 domaine: "Développement"

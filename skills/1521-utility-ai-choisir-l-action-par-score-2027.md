@@ -1,5 +1,6 @@
 ---
 num: 1521
+date_ajout: "2026-11"
 nom: "Utility AI : choisir l'action par score (2027)"
 emoji: "⚖️"
 domaine: "Game Dev"

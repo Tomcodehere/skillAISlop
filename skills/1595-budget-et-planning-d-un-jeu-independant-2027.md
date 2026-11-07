@@ -1,5 +1,6 @@
 ---
 num: 1595
+date_ajout: "2026-11"
 nom: "Budget et planning d'un jeu independant (2027)"
 emoji: "💰"
 domaine: "Game Dev"

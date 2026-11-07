@@ -1,5 +1,6 @@
 ---
 num: 917
+date_ajout: "2026-11"
 nom: "Métabolisme & biomarqueurs personnels (CGM, tests sanguins)"
 emoji: "🩸"
 domaine: "Personnel"

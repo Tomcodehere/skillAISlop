@@ -1,5 +1,6 @@
 ---
 num: 572
+date_ajout: "2026-11"
 nom: "Curateur de portfolio créatif"
 emoji: "💼"
 domaine: "Carrière"

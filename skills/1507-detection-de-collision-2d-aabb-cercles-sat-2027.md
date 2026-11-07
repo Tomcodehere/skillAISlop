@@ -1,5 +1,6 @@
 ---
 num: 1507
+date_ajout: "2026-11"
 nom: "Detection de collision 2D : AABB, cercles, SAT (2027)"
 emoji: "💥"
 domaine: "Game Dev"

@@ -1,5 +1,6 @@
 ---
 num: 602
+date_ajout: "2026-11"
 nom: "Revue technique CTO"
 emoji: "🧑‍✈️"
 domaine: "Stratégie"
@@ -9,6 +10,7 @@ nom_court: "Revue CTO"
 branche: "D10"
 synonymes: ["build vs buy", "cto"]
 cross_refs: [61, 88, 821]
+depends_on: [1799]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

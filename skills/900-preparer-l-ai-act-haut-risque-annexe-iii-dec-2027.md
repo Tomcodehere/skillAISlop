@@ -1,5 +1,6 @@
 ---
 num: 900
+date_ajout: "2026-11"
 nom: "Préparer l'AI Act haut risque (annexe III, déc. 2027)"
 emoji: "🇪🇺"
 domaine: "Juridique"

@@ -1,5 +1,6 @@
 ---
 num: 822
+date_ajout: "2026-11"
 nom: "Génération de tests depuis la doc (doc-to-test)"
 emoji: "🧪"
 domaine: "Développement"

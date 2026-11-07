@@ -1,5 +1,6 @@
 ---
 num: 1461
+date_ajout: "2026-11"
 nom: "Detecter le schema drift (rupture de schema, 2027)"
 emoji: "💥"
 domaine: "Data"

@@ -1,5 +1,6 @@
 ---
 num: 1597
+date_ajout: "2026-11"
 nom: "Demo Steam Next Fest et salons de jeu (2027)"
 emoji: "🎪"
 domaine: "Game Dev"

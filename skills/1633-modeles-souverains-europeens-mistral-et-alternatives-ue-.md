@@ -1,5 +1,6 @@
 ---
 num: 1633
+date_ajout: "2026-11"
 nom: "Modeles souverains europeens : Mistral et alternatives UE (2027)"
 emoji: "𝼞a🇺"
 domaine: "IA / Prompting"

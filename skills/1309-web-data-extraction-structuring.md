@@ -1,5 +1,6 @@
 ---
 num: 1309
+date_ajout: "2026-11"
 nom: "Web Data Extraction & Structuring"
 emoji: "💻"
 domaine: "Développement"

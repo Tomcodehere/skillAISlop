@@ -1,5 +1,6 @@
 ---
 num: 1562
+date_ajout: "2026-11"
 nom: "Rigging procédural et IK deux os (2027)"
 emoji: "🦴"
 domaine: "Game Dev"

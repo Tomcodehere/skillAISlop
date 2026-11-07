@@ -1,5 +1,6 @@
 ---
 num: 369
+date_ajout: "2026-11"
 nom: "Structurateur de grilles tarifaires"
 emoji: "💴"
 domaine: "Vente"

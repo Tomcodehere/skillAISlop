@@ -1,5 +1,6 @@
 ---
 num: 1567
+date_ajout: "2026-11"
 nom: "Musique adaptative : layers selon l'intensite (2027)"
 emoji: "🎵"
 domaine: "Game Dev"

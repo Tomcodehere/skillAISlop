@@ -1,5 +1,6 @@
 ---
 num: 911
+date_ajout: "2026-11"
 nom: "PLF 2027 : indemnités de rupture plafonnées à 1 PASS"
 emoji: "📉"
 domaine: "Juridique"

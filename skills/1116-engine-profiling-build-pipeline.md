@@ -1,5 +1,6 @@
 ---
 num: 1116
+date_ajout: "2026-11"
 nom: "Engine Profiling & Build Pipeline"
 emoji: "💻"
 domaine: "Développement"

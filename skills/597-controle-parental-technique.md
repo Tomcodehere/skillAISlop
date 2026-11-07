@@ -1,5 +1,6 @@
 ---
 num: 597
+date_ajout: "2026-11"
 nom: "Contrôle parental technique"
 emoji: "🧸"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 1163
+date_ajout: "2026-11"
 nom: "Inclusive Research Protocol"
 emoji: "🎨"
 domaine: "Design"

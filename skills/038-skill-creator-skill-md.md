@@ -1,5 +1,6 @@
 ---
 num: 38
+date_ajout: "2026-11"
 nom: "Skill Creator (SKILL.md)"
 emoji: "🧩"
 domaine: "Data & IA"

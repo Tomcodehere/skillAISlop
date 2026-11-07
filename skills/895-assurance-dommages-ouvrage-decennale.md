@@ -1,5 +1,6 @@
 ---
 num: 895
+date_ajout: "2026-11"
 nom: "Assurance dommages-ouvrage & décennale"
 emoji: "🏗️"
 domaine: "Juridique"

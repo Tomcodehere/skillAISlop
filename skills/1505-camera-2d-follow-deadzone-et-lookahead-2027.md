@@ -1,5 +1,6 @@
 ---
 num: 1505
+date_ajout: "2026-11"
 nom: "Camera 2D : follow, deadzone et lookahead (2027)"
 emoji: "📷"
 domaine: "Game Dev"

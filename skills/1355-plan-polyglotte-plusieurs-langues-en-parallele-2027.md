@@ -1,5 +1,6 @@
 ---
 num: 1355
+date_ajout: "2026-11"
 nom: "Plan polyglotte : plusieurs langues en parallele (2027)"
 emoji: "🌍"
 domaine: "Langues"

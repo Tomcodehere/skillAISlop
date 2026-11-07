@@ -1,5 +1,6 @@
 ---
 num: 261
+date_ajout: "2026-11"
 nom: "Testeur de déclenchement de skills"
 emoji: "⭐"
 domaine: "IA / Prompting"

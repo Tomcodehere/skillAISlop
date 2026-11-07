@@ -1,5 +1,6 @@
 ---
 num: 1312
+date_ajout: "2026-11"
 nom: "Haie variée & biodiversité (2027)"
 emoji: "🌳"
 domaine: "Personnel"

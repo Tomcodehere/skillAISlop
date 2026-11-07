@@ -1,5 +1,6 @@
 ---
 num: 1573
+date_ajout: "2026-11"
 nom: "Ecran de chargement et streaming de niveaux (2027)"
 emoji: "⏳"
 domaine: "Game Dev"

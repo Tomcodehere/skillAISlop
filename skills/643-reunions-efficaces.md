@@ -1,5 +1,6 @@
 ---
 num: 643
+date_ajout: "2026-11"
 nom: "Réunions efficaces"
 emoji: "⏱️"
 domaine: "Gestion"

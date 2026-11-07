@@ -1,5 +1,6 @@
 ---
 num: 1600
+date_ajout: "2026-11"
 nom: "Vite 8 et Rolldown (Rust) : accélérer ses builds (2027)"
 emoji: "⚡"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 380
+date_ajout: "2026-11"
 nom: "Rédacteur de threads éditoriaux"
 emoji: "🍂"
 domaine: "Rédaction"

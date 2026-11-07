@@ -1,5 +1,6 @@
 ---
 num: 905
+date_ajout: "2026-11"
 nom: "Sécurité des marketplaces de skills (ClawHub, skills.sh)"
 emoji: "🛡️"
 domaine: "Sécurité"

@@ -1,5 +1,6 @@
 ---
 num: 753
+date_ajout: "2026-11"
 nom: "Conformité AI Act pour PME"
 emoji: "🇪🇺"
 domaine: "Juridique"

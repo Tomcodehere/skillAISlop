@@ -1,5 +1,6 @@
 ---
 num: 1257
+date_ajout: "2026-11"
 nom: "RHEL SELinux Diagnosis"
 emoji: "💻"
 domaine: "Développement"

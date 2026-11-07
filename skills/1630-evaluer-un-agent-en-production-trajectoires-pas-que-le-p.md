@@ -1,5 +1,6 @@
 ---
 num: 1630
+date_ajout: "2026-11"
 nom: "Evaluer un agent en production : trajectoires, pas que le prompt (2027)"
 emoji: "📏"
 domaine: "Data & IA"

@@ -1,5 +1,6 @@
 ---
 num: 151
+date_ajout: "2026-11"
 nom: "Illustrateur technique"
 emoji: "🩻"
 domaine: "Design"

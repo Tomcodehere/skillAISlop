@@ -1,5 +1,6 @@
 ---
 num: 1628
+date_ajout: "2026-11"
 nom: "Paiement agentique : UCP et mandates signes (2027)"
 emoji: "💳"
 domaine: "IA / Prompting"

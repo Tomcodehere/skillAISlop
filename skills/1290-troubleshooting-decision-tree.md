@@ -1,5 +1,6 @@
 ---
 num: 1290
+date_ajout: "2026-11"
 nom: "Troubleshooting Decision Tree"
 emoji: "🎓"
 domaine: "Formation"

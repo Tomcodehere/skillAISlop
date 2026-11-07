@@ -1,5 +1,6 @@
 ---
 num: 1094
+date_ajout: "2026-11"
 nom: "Cross-Locale Meaning Alignment"
 emoji: "🎨"
 domaine: "Design"

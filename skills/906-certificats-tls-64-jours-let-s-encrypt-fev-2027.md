@@ -1,5 +1,6 @@
 ---
 num: 906
+date_ajout: "2026-11"
 nom: "Certificats TLS 64 jours (Let's Encrypt, fév. 2027)"
 emoji: "🔒"
 domaine: "Développement"

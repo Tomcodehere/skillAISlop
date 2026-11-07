@@ -1,5 +1,6 @@
 ---
 num: 55
+date_ajout: "2026-11"
 nom: "Analyste de feedback client"
 emoji: "💬"
 domaine: "Vente"

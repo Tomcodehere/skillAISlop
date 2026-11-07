@@ -1,5 +1,6 @@
 ---
 num: 1402
+date_ajout: "2026-11"
 nom: "Gerer les conflits de merge (2027)"
 emoji: "⚔️"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 1643
+date_ajout: "2026-11"
 nom: "Passkeys a grande echelle : migration massive post-2026 (2027)"
 emoji: "🔑"
 domaine: "Sécurité"

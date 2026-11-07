@@ -1,5 +1,6 @@
 ---
 num: 883
+date_ajout: "2026-11"
 nom: "Règlement intérieur d'entreprise (RI)"
 emoji: "📜"
 domaine: "RH & formation"

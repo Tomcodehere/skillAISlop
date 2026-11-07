@@ -1,5 +1,6 @@
 ---
 num: 1165
+date_ajout: "2026-11"
 nom: "Infrastructure Resilience Design"
 emoji: "💻"
 domaine: "Développement"

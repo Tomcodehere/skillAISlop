@@ -1,5 +1,6 @@
 ---
 num: 802
+date_ajout: "2026-11"
 nom: "Mémoire persistante avancée (claude-mem)"
 emoji: "🧠"
 domaine: "IA / Prompting"

@@ -1,5 +1,6 @@
 ---
 num: 219
+date_ajout: "2026-11"
 nom: "Comparateur d'achats"
 emoji: "🛷"
 domaine: "Personnel"
@@ -7,7 +8,7 @@ signal: "Comparateur d'achat, quel produit choisir"
 mot_cle: "comparateur d'achats"
 nom_court: "Achats"
 branche: "D26"
-synonymes: []
+synonymes: [, "compare les forfaits mobiles 2027"]
 cross_refs: [32, 219, 479]
 depends_on: [479]
 ---

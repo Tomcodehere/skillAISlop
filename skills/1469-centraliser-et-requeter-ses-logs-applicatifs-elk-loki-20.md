@@ -1,5 +1,6 @@
 ---
 num: 1469
+date_ajout: "2026-11"
 nom: "Centraliser et requeter ses logs applicatifs (ELK, Loki, 2027)"
 emoji: "📚"
 domaine: "Data"

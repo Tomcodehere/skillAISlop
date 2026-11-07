@@ -1,5 +1,6 @@
 ---
 num: 1267
+date_ajout: "2026-11"
 nom: "Security Remediation Verification"
 emoji: "📋"
 domaine: "Gestion"

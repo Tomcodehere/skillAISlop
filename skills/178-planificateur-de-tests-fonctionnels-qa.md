@@ -1,5 +1,6 @@
 ---
 num: 178
+date_ajout: "2026-11"
 nom: "Planificateur de tests fonctionnels (QA)"
 emoji: "🕹️"
 domaine: "Produit"

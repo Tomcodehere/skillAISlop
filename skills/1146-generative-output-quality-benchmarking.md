@@ -1,5 +1,6 @@
 ---
 num: 1146
+date_ajout: "2026-11"
 nom: "Generative Output Quality Benchmarking"
 emoji: "💻"
 domaine: "Développement"

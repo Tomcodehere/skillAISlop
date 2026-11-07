@@ -1,5 +1,6 @@
 ---
 num: 1275
+date_ajout: "2026-11"
 nom: "Source API Contract Documentation"
 emoji: "💻"
 domaine: "Développement"

@@ -1,5 +1,6 @@
 ---
 num: 411
+date_ajout: "2026-11"
 nom: "Concepteur de programmes de stage & alternance"
 emoji: "🍗"
 domaine: "RH & formation"

@@ -1,5 +1,6 @@
 ---
 num: 794
+date_ajout: "2026-11"
 nom: "Gestion des risques projet"
 emoji: "⚠️"
 domaine: "Gestion"

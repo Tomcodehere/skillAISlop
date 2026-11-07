@@ -1,5 +1,6 @@
 ---
 num: 1494
+date_ajout: "2026-11"
 nom: "Prototype cliquable en 1 jour avec l'IA (2027)"
 emoji: "⚡"
 domaine: "Design"

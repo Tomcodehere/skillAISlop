@@ -1,5 +1,6 @@
 ---
 num: 192
+date_ajout: "2026-11"
 nom: "Modérateur de communauté"
 emoji: "🚫"
 domaine: "Gestion"

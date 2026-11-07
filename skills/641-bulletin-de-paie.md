@@ -1,5 +1,6 @@
 ---
 num: 641
+date_ajout: "2026-11"
 nom: "Bulletin de paie"
 emoji: "💶"
 domaine: "Finance"

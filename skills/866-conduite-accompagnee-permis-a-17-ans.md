@@ -1,5 +1,6 @@
 ---
 num: 866
+date_ajout: "2026-11"
 nom: "Conduite accompagnée / permis à 17 ans"
 emoji: "🚗"
 domaine: "Apprentissage"

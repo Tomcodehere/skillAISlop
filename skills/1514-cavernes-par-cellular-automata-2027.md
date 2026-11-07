@@ -1,5 +1,6 @@
 ---
 num: 1514
+date_ajout: "2026-11"
 nom: "Cavernes par cellular automata (2027)"
 emoji: "🏔️"
 domaine: "Game Dev"

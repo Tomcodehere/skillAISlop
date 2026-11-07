@@ -1,5 +1,6 @@
 ---
 num: 1168
+date_ajout: "2026-11"
 nom: "Inkscape Vector Production Workflow"
 emoji: "🎨"
 domaine: "Design"

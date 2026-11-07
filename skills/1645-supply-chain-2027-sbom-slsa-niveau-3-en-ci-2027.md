@@ -1,5 +1,6 @@
 ---
 num: 1645
+date_ajout: "2026-11"
 nom: "Supply chain 2027 : SBOM + SLSA niveau 3 en CI (2027)"
 emoji: "⛓️"
 domaine: "Sécurité"

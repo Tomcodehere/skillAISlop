@@ -1,5 +1,6 @@
 ---
 num: 1010
+date_ajout: "2026-11"
 nom: "Adaptive Interactive Music & Stems"
 emoji: "🎨"
 domaine: "Créativité"

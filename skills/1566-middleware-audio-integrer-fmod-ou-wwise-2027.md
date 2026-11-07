@@ -1,5 +1,6 @@
 ---
 num: 1566
+date_ajout: "2026-11"
 nom: "Middleware audio : intégrer FMOD ou Wwise (2027)"
 emoji: "🔊"
 domaine: "Game Dev"

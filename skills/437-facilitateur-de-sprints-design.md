@@ -1,5 +1,6 @@
 ---
 num: 437
+date_ajout: "2026-11"
 nom: "Facilitateur de sprints design"
 emoji: "🛝"
 domaine: "Gestion"

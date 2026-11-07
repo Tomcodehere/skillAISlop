@@ -1,5 +1,6 @@
 ---
 num: 73
+date_ajout: "2026-11"
 nom: "Animateur de rétrospective"
 emoji: "✅"
 domaine: "Gestion"

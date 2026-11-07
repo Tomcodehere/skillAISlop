@@ -1,5 +1,6 @@
 ---
 num: 1590
+date_ajout: "2026-11"
 nom: "Addressables et DLC : contenu telechargeable et patchs (2027)"
 emoji: "📥"
 domaine: "Game Dev"

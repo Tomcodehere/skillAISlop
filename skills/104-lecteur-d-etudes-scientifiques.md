@@ -1,5 +1,6 @@
 ---
 num: 104
+date_ajout: "2026-11"
 nom: "Lecteur d'études scientifiques"
 emoji: "🧬"
 domaine: "Recherche"

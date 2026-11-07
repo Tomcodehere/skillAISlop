@@ -1,5 +1,6 @@
 ---
 num: 910
+date_ajout: "2026-11"
 nom: "PLF 2027 : dons d'argent allégés S1 2027"
 emoji: "💸"
 domaine: "Finance"

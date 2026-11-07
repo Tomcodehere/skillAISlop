@@ -1,5 +1,6 @@
 ---
 num: 743
+date_ajout: "2026-11"
 nom: "Closing & passage à l'action"
 emoji: "🤝"
 domaine: "Vente"

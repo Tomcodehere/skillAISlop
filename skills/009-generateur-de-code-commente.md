@@ -1,5 +1,6 @@
 ---
 num: 9
+date_ajout: "2026-11"
 nom: "Générateur de code commenté"
 emoji: "💻"
 domaine: "Développement"

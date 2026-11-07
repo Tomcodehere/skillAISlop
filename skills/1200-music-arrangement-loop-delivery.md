@@ -1,5 +1,6 @@
 ---
 num: 1200
+date_ajout: "2026-11"
 nom: "Music Arrangement, Loop & Delivery"
 emoji: "💻"
 domaine: "Développement"

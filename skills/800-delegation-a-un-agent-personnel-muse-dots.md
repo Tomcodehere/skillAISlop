@@ -1,5 +1,6 @@
 ---
 num: 800
+date_ajout: "2026-11"
 nom: "Délégation à un agent personnel (Muse, Dots…)"
 emoji: "🤖"
 domaine: "Personnel"

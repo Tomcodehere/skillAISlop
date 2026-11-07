@@ -1,5 +1,6 @@
 ---
 num: 329
+date_ajout: "2026-11"
 nom: "Concepteur de points de contrôle humains"
 emoji: "🌝"
 domaine: "IA / Prompting"

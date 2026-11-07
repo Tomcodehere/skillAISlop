@@ -1,5 +1,6 @@
 ---
 num: 294
+date_ajout: "2026-11"
 nom: "Coach de demande d'augmentation"
 emoji: "💵"
 domaine: "Carrière"

@@ -1,5 +1,6 @@
 ---
 num: 563
+date_ajout: "2026-11"
 nom: "Gestionnaire financier du freelance"
 emoji: "💼"
 domaine: "Finance"

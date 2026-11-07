@@ -1,5 +1,6 @@
 ---
 num: 1003
+date_ajout: "2026-11"
 nom: "Accountant Meeting & Document Preparation"
 emoji: "🎨"
 domaine: "Créativité"
