@@ -2147,7 +2147,7 @@ def _json_dumps(x) -> str:
 
 VEC_DIM = 32  # 32 suffit à 1 351 skills (hash bag-of-words) — 2x moins de calcul vec
 CATALOGUE_VERSION = "12.0.0"  # version sémantique du catalogue (vague 12 = 900 sections)
-VEC_SEUIL = 0.88  # candidat vec (exit 0) : seuil strict, le contextual enrichment monte les cosinus  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
+VEC_SEUIL = 0.95  # seuil très strict : hash 32 dims monte les cosinus sur requêtes courtes
 VEC_PISTE = 0.80  # au-dessus, la meilleure candidate vec devient piste (exit 1) — même seuil que les candidats
 
 
@@ -2643,7 +2643,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             "SELECT 1 FROM sqlite_master WHERE name='skills_vec'").fetchone()
     except sqlite3.Error:
         has_vec = None
-    if has_vec and qt_forts:
+    if has_vec and any(len(t) >= 5 for t in qt):  # hash 32 dims bruité sur requêtes < 5 lettres
         qvec = embed_hash(query)
         try:
             hits = db.execute(

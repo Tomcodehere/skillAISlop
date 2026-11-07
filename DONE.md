@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Perf finale 1+3+5 + garde-fous anti-faux-positifs (vec: token>=5 lettres + seuil 0,95) → route 4,8 ms (min 3,0), IoT/zzz → exit 2 — 649/649 tests, sonde 100 %, audit 100 %, evals 99,9, pack FIDÈLE
+
 - [x] **2026-11-07** — Perf 1+3+5 : fusion RRF en un seul passage + top-K précoce + vec dim 32 → route 4,8 ms (min 3,0) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
 
 - [x] **2026-11-07** — Perf profilée : cache LRU norm/tokens + passe synonymes en SQL (synonyme_norm indexé) → route 11,3 → 4,8 ms (−58 %) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
