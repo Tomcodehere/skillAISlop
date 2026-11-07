@@ -133,3 +133,34 @@ Les skills 19-50 s'inspirent des skills, prompts et workflows les plus populaire
 - [france-identite.gouv.fr / ants.gouv.fr — France Identité, CNIe gratuite, permis numérique, contrôle routier QR code](https://france-identite.gouv.fr/) → skills 1317, 1318
 - [xpert.digital / intelli.gift — agents IA personnels 2027 : tuteur, cadeaux, voyage, budget, coach sport](https://xpert.digital/fr/exemples-d-application-pour-l-ia-agentique-et-les-agents-d-ia/) → skills 1319-1326, 1329
 - [master-ia.fr / cidfp.fr — agents IA entreprise 2027, AI Act annexe III déc. 2027](https://www.master-ia.fr/agents-ia-entreprise) → skills 1319-1327
+
+**Vague 18 (skills 1600-1699) — veille web nov. 2026 / tendances IT 2027** :
+
+- [alphonsolabs.com — Web Development Trends 2026 (Rolldown/Vite 8 : build 2,5 min → 40 s)](https://www.alphonsolabs.com/web-development-trends-2026/) — skills 1600, 1613, 1614
+- [alphonsolabs.com — Latest Web App Technologies 2026 (retour au serveur : RSC, edge, HTMX, Astro, TanStack, Qwik, Tauri/PWA)](https://www.alphonsolabs.com/latest-web-application-technologies-2026/) — skills 1601-1609, 1617
+- [hurterandco.group — Tendances dev web 2026 (WebGPU cross-browser fin 2025, edge, AI Act)](https://www.hurterandco.group/les-tendances-du-developpement-web-en-2026/) — skills 1606, 1681
+- [blog.offshore-value.com — Dev web 2026 (WebGPU dans WebKit/Firefox début 2026, inférence ML client)](https://blog.offshore-value.com/developpement/444-developpement-web-2026) — skills 1606, 1607
+- [hetic.net — Frontend frameworks boussole 2026 (HTMX + Django, django-htmx CSRF)](https://www.hetic.net/actualites/frontend-frameworks-la-boussole-2026-pour-orienter-vos-projets-web) — skill 1601
+- [i-actu.fr — Dev web 2026 (Vite 6 Environment API, Rolldown)](https://www.i-actu.fr/developpement-web-guide/) — skills 1600, 1614
+- [firecrawl.dev — Top 15 Agentic AI Trends 2026](https://www.firecrawl.dev/blog/agentic-ai-trends) — skills 1621-1640
+- [digitalapplied.com — AI Agent Protocol Ecosystem Map 2026 (MCP 97M téléchargements, A2A 50+ partenaires)](https://www.digitalapplied.com/blog/ai-agent-protocol-ecosystem-map-2026-mcp-a2a-acp-ucp) — skills 1621-1623
+- [dev.to/alexmercedcoder — State of Agentic AI Standards 2026 (MCP/A2A/WebMCP/OSI, Agent Cards signées, Web Bot Auth)](https://dev.to/alexmercedcoder/the-state-of-agentic-ai-standards-in-2026-mcp-a2a-webmcp-osi-and-the-protocol-stack-taking-3o2l) — skills 1622, 1624, 1625
+- [gravity.fast — AI Agent Interoperability Standards 2026 (MCP 92M vs A2A 4,5M/sem, registry 40 965 serveurs, AAIF, WebMCP origin trial Chrome)](https://gravity.fast/blog/ai-agent-interoperability-standards-2026/) — skills 1621, 1624, 1626
+- [context.dev — 16 Agentic AI Trends 2026 (AAIF août 2026, ACP fusionné dans A2A août 2025)](https://www.context.dev/blog/agentic-ai-trends-2026) — skills 1622, 1623, 1626
+- [brewmonster.vn — AI Trends 2026 (AI Omnibus Règlement UE 2026/1744 en vigueur 27/07/2026, deadlines déc 2027/août 2028, Gartner 40 % projets agents annulés fin 2027, McKinsey 23 % scaling)](https://brewmonster.vn/en/blog/ai-trends-2026/) — skills 1627, 1681-1684
+- [ecosire.com — Cybersecurity Trends 2026-2027 (PQC, NIS2/DORA/CMMC actifs, attaques IA)](https://ecosire.com/blog/cybersecurity-trends-2026-2027) — skills 1641-1660
+- [alphonsolabs.com — 10 Web Security Trends 2026 (passkeys 800M+ comptes, supply chain +40 % ENISA, code IA blindspot n°1 92 %, PQC 0,42→2,84 Md$ 2030)](https://www.alphonsolabs.com/web-security-trends-2026/) — skills 1643, 1645, 1646, 1641
+- [thehackernews.com — Cybersecurity Tech Predictions 2026 (inventaire crypto, feuilles de route PQC nationales dès 2026)](https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html) — skills 1641, 1650, 1651
+- [nsa.gov — Post-Quantum Cryptography Measures (ML-KEM, systèmes NSS)](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4615285/nsa-announces-post-quantum-cryptography-measures-to-safeguard-national-security/) — skill 1641
+- [thehackernews.com — 9 Identity Security Predictions 2026 (passkeys inflection 2026, harvest now decrypt later)](https://thehackernews.com/expert-insights/2026/02/9-identity-security-predictions-for-2026.html) — skills 1642, 1643
+- [dev.to/alexmercedcoder — Ultimate Guide to the Data Lakehouse 2026 (DuckDB « SQLite de l'analytics », Iceberg/Delta/Hudi, MotherDuck)](https://dev.to/alexmercedcoder/the-2025-2026-ultimate-guide-to-the-data-lakehouse-and-the-data-lakehouse-ecosystem-dig) — skills 1660-1663
+- [uvik.net — Best Data Engineering Tools 2026 (dlt, DuckDB, Polars, dbt, Kestra, RisingWave, GX, Qdrant...)](https://uvik.net/blog/data-engineering-tools/) — skills 1664-1666, 1672-1677
+- [joereis.github.io — 2026 State of Data Engineering Survey (44 % warehouse, 27 % lakehouse)](https://joereis.github.io/practical_data_data_eng_survey/) — skills 1663, 1666
+- [prettywhale.ai — Data Engineering Trends 2027 (Data Act 12/09/2026 produits connectés + 01/2027 fin frais switching, Iceberg v3, agents data Snowflake/Databricks/BigQuery, fusions 2026 : Fivetran+dbt, IBM+Confluent 11 Md$, SAP+Dremio, MS+Osmos)](https://prettywhale.ai/blog/data-engineering-trends-for-2027-5-shifts-already-underway) — skills 1667-1670, 1668
+- [artificialintelligenceact.eu — High-level summary of the AI Act (Code of Practice GPAI, 20+ signataires août 2026, dates clés)](https://artificialintelligenceact.eu/high-level-summary/) — skills 1681, 1682
+- [digital-strategy.ec.europa.eu — Enforcement framework of the AI Act (2 août 2026, annexe III 2 déc 2027, annexe I 2 août 2028, Omnibus en vigueur 27/07/2026)](https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act) — skills 1681, 1684, 1690
+- [dataguard.com — EU AI Act Timeline (amendes 35 M€/7 %, 15 M€/3 %, watermarking 2 déc 2026, GPAI legacy 2 août 2027)](https://www.dataguard.com/eu-ai-act/timeline) — skills 1681, 1683, 1690, 1691
+- [digital-chiefs.de — Digital Sovereignty 2026 (Data Act sept 2025 portabilité + janv 2027 fin frais switching, AWS European Sovereign Cloud 7,8 Md€ janv 2026, tender Airbus 50 M€, marché souverain 80 Md$ 2026)](https://www.digital-chiefs.de/en/digital-sovereignty-2026-gaia-x-delos-cloud-and-europes-response-to-the-cloud-ac/) — skills 1668-1671, 1687
+- [gaia-x.eu — Gaia-X welcomes the EU Cloud and AI Development Act (CADA, 12 juin 2026)](https://gaia-x.eu/gaia-x-welcomes-the-eu-cloud-and-ai-development-act-and-calls-for-a-practical-trusted-path-to-european-digital-sovereignty/) — skills 1685, 1688
+- [shattered.io — CADA 2026 (niveaux 3-4, ANSSI PQC obligatoire dès 2027, marchés publics évaluation risque souveraineté)](https://shattered.io/fr/cada-cloud-souverainete-ue-2026/) — skills 1641, 1685, 1686
+- [elgg.fr — Gaia-X 2026 : bilan du cloud souverain européen](https://elgg.fr/actualites/gaia-x-cloud-europeen-2026) — skill 1686

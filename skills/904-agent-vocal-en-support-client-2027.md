@@ -10,6 +10,7 @@ branche: "D14"
 synonymes: ["standard ia 2027"]
 cross_refs: [808, 901, 288]
 tags: ["2027"]
+depends_on: [1639]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

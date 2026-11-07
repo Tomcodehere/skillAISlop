@@ -9,6 +9,7 @@ nom_court: "Site statique"
 branche: "D30"
 synonymes: ["astro", "hugo"]
 cross_refs: [1, 82, 909]
+depends_on: [1603]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

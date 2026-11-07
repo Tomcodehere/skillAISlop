@@ -1,4 +1,4 @@
-# Domaine : IA / Prompting (122 skills)
+# Domaine : IA / Prompting (133 skills)
 
 ## 17. 🎯 Coach de prompts (meta-prompting)
 
@@ -609,4 +609,59 @@
 
 - **Fichier** : `skills/1444-chunking-avance-pour-le-rag-2027.md` · **Mot-clé** : « chunking RAG overlap sémantique hiérarchique 200-500 tokens » · **Nom court** : Chunking avancé
 - **Signal** : Choisir la stratégie de chunking d'un corpus pour un RAG en 2027 : taille (200-500 tokens), recouvrement (overlap 10-20 %), découpage sémantique (titres, paragraphes), chunking hiérarchique (résumé parent), métadonnées par chunk. Utilise quand la qualité du retrieval est insuffisante. N'utilise pas sans mesurer (eval retrieval). · **Synonymes** : « découper documents pour RAG », « overlap 20% chunking », « chunking hiérarchique résumé parent » · **Cross-refs** : 690, 1477, 1443 · **Tags** : 2027
+
+## 1621. 🔌 MCP en production 2027 : registry officiel et gouvernance (2027)
+
+- **Fichier** : `skills/1621-mcp-en-production-2027-registry-officiel-et-gouvernance-.md` · **Mot-clé** : « MCP production 2027 registry officiel 40k serveurs gateway gouvernance audit » · **Nom court** : MCP prod
+- **Signal** : Déployer MCP (Model Context Protocol, 97 M de téléchargements mensuels SDK, 40 965 serveurs dans le registry officiel 2026) en production en 2027 : choisir des serveurs du registry officiel (vérifiés), gateway MCP entreprise (audit, scopes, rate limit), ne pas exposer de secrets dans les tools. Utilise pour connecter des agents à des outils. N'utilise pas sans gouvernance (905/723). · **Synonymes** : « registry officiel MCP 40 965 serveurs vérifiés », « gateway MCP entreprise audit scopes rate limit », « MCP 97M téléchargements SDK 2026 » · **Cross-refs** : 77, 905, 723 · **Tags** : 2027
+
+## 1622. 🤝 A2A (Agent2Agent) : agents cross-organisation en 2027
+
+- **Fichier** : `skills/1622-a2a-agent2agent-agents-cross-organisation-en-2027.md` · **Mot-clé** : « A2A agent2agent protocole google linux foundation agent card .well-known/agent.json 2027 » · **Nom court** : A2A
+- **Signal** : Utiliser le protocole A2A (Agent2Agent, Google avril 2025, 50+ partenaires, Linux Foundation/AAIF depuis 2026) en 2027 : des agents de vendeurs différents se découvrent (Agent Card .well-known/agent.json), délèguent des tâches, suivent leur statut. Complément de MCP (agent→outil, 1621) pour l'agent→agent. Utilise pour la coordination inter-entreprises. N'utilise pas en interne (MCP suffit). · **Synonymes** : « protocole A2A agents de fournisseurs différents », « agent card .well-known/agent.json découverte », « A2A vs MCP : agent-agent vs agent-outil » · **Cross-refs** : 711, 1621, 259 · **Tags** : 2027
+
+## 1623. ⚖️ Choisir son protocole agent : MCP vs A2A vs ACP (fusionné) (2027)
+
+- **Fichier** : `skills/1623-choisir-son-protocole-agent-mcp-vs-a2a-vs-acp-fusionne-2.md` · **Mot-clé** : « choisir protocole agent 2027 MCP vs A2A vs ACP fusionné UCP paiement » · **Nom court** : Choisir protocole
+- **Signal** : Choisir le bon protocole d'agents en 2027 : MCP (agent→outil, 97 M téléchargements, standard de fait, 90 % des orgs d'ici 2027), A2A (agent→agent cross-org, 1622), ACP (IBM, fusionné dans A2A août 2025), UCP (paiement/commerce). Règle : MCP pour les outils internes, A2A pour les pairs externes, UCP pour le commerce agentique. N'utilise pas un protocole perso. · **Synonymes** : « MCP ou A2A pour mon agent ? », « ACP fusionné dans A2A août 2025 », « UCP protocole paiement agent 2027 » · **Cross-refs** : 1621, 1622, 711 · **Tags** : 2027
+
+## 1624. 🌐 WebMCP : navigateur agentique (Chrome origin trial, 2027)
+
+- **Fichier** : `skills/1624-webmcp-navigateur-agentique-chrome-origin-trial-2027.md` · **Mot-clé** : « webmcp navigateur agentique origin trial chrome 2026 navigator.modelContext outils page » · **Nom court** : WebMCP
+- **Signal** : Exposer sa page web aux agents en 2027 avec WebMCP (draft W3C, origin trial Chrome 2026) : déclarer des outils JS exécutables par un agent navigateur (navigator.modelContext), au lieu du scraping. Utilise pour rendre son site agent-friendly (réservation, achat). N'utilise pas comme seule interface (garder le HTML accessible 1619). · **Synonymes** : « exposer ma page aux agents IA (WebMCP) », « navigator.modelContext déclarer des outils JS », « site agent-friendly sans scraping » · **Cross-refs** : 803, 1621, 1619 · **Tags** : 2027
+
+## 1626. 🏛 AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A (2027)
+
+- **Fichier** : `skills/1626-aaif-agentic-ai-foundation-gouvernance-ouverte-mcp-a2a-2.md` · **Mot-clé** : « AAIF agentic AI foundation linux foundation gouvernance MCP A2A 2026 2027 lock-in » · **Nom court** : AAIF
+- **Signal** : S'appuyer sur l'AAIF (Agentic AI Foundation, Linux Foundation, co-fondée déc. 2025 par Anthropic/Block/OpenAI, héberge MCP et A2A depuis 2026) en 2027 pour réduire le risque de lock-in : choisir des implémentations sous gouvernance ouverte, contribuer, suivre les specs. Utilise quand on standardise son stack agentique. N'utilise pas pour choisir un framework propriétaire. · **Synonymes** : « AAIF fondation linux héberge MCP et A2A depuis 2026 », « réduire le lock-in : standards ouverts gouvernance AAIF », « anthropic block openai co-fondateurs déc 2025 » · **Cross-refs** : 1621, 1622, 1623 · **Tags** : 2027
+
+## 1628. 💳 Paiement agentique : UCP et mandates signes (2027)
+
+- **Fichier** : `skills/1628-paiement-agentique-ucp-et-mandates-signes-2027.md` · **Mot-clé** : « UCP universal commerce protocol mandat signé paiement agent plafond audit 2027 » · **Nom court** : Paiement agent
+- **Signal** : Laisser un agent acheter pour vous en 2027 avec UCP (Universal Commerce Protocol) : l'agent reçoit un « mandat » signé cryptographiquement (montant max, marchand, durée), présente la preuve au marchand, le paiement est vérifié. Utilise pour le commerce agentique sécurisé. N'utilise pas sans plafond ni audit (1543). · **Synonymes** : « mon agent achète pour moi (UCP mandat signé) », « plafond de dépense par mandat agent », « vérification cryptographique du mandat marchand » · **Cross-refs** : 1622, 1625, 1543 · **Tags** : 2027
+
+## 1629. 🏗️ Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework, 2027)
+
+- **Fichier** : `skills/1629-orchestration-multi-agents-en-production-langgraph-crewa.md` · **Mot-clé** : « orchestration multi-agents production 2027 langgraph crewai microsoft agent framework » · **Nom court** : Orchestration
+- **Signal** : Orchestrer plusieurs agents en production en 2027 avec un framework (LangGraph, CrewAI, Microsoft Agent Framework, OpenAI Agents SDK, Claude Agent SDK) : graphe de tâches, rôles, mémoire partagée, reprise sur erreur, monitoring (1476). Utilise quand une tâche dépasse un agent seul. N'utilise pas si un agent suffit (1627). · **Synonymes** : « plusieurs agents qui collaborent (langgraph crewai) », « graphe de tâches agents avec reprise sur erreur », « mémoire partagée entre agents (1434) » · **Cross-refs** : 259, 820, 1196 · **Tags** : 2027
+
+## 1632. 🧠 Contexte 1M tokens : retrieval cible dans la masse (2027)
+
+- **Fichier** : `skills/1632-contexte-1m-tokens-retrieval-cible-dans-la-masse-2027.md` · **Mot-clé** : « contexte 1M tokens retrieval ciblé k passages embeddings injecter 2027 » · **Nom court** : 1M retrieval
+- **Signal** : Exploiter les contextes 1M tokens des modèles 2027 sans les noyer : ne PAS tout mettre (lost in the middle 1430), mais indexer le corpus (embeddings 1443) et injecter seulement les k passages pertinents (retrieval) + la question en début/fin. Utilise pour codebases/contrats entiers. N'utilise pas pour une conversation courte. · **Synonymes** : « j'ai 1M de tokens de contexte », « quoi y mettre », « lost in the middle : ne pas tout charger », « retrieval : injecter seulement les k passages pertinents » · **Cross-refs** : 1430, 1443, 1444 · **Tags** : 2027
+
+## 1633. 𝼞a🇺 Modeles souverains europeens : Mistral et alternatives UE (2027)
+
+- **Fichier** : `skills/1633-modeles-souverains-europeens-mistral-et-alternatives-ue-.md` · **Mot-clé** : « modèles souverains européens Mistral OVH Scaleway hébergement UE conformité 2027 » · **Nom court** : Modèles UE
+- **Signal** : Choisir un modèle souverain européen en 2027 (Mistral et autres acteurs UE) pour la conformité (données qui restent en UE, AI Act, Cloud Act évité) : comparer qualité/coût vs modèles US, hébergement UE (OVH, Scaleway), API ou self-host (1471). Utilise quand la souveraineté des données IA est requise. N'utilise pas si les données sont publiques. · **Synonymes** : « héberger mon LLM en Europe (Mistral », « OVH) », « données IA qui restent en UE (Cloud Act évité) », « Mistral vs GPT qualité coût 2027 » · **Cross-refs** : 722, 924, 1471 · **Tags** : 2027
+
+## 1636. 🧑‍💻 HITL a l'echelle : files d'approbation et routage (2027)
+
+- **Fichier** : `skills/1636-hitl-a-l-echelle-files-d-approbation-et-routage-2027.md` · **Mot-clé** : « HITL échelle file approbation routage criticité SLA 1 clic audit 2027 » · **Nom court** : HITL échelle
+- **Signal** : Mettre le human-in-the-loop à l'échelle en 2027 : file d'attente d'approbations (UI ou Slack), routage par criticité (montant, risque), SLA de réponse (ex. 15 min), approbation en 1 clic avec contexte, audit des décisions (1433), métriques (taux d'approbation, délai moyen). Utilise quand plusieurs agents agissent sur le monde réel. N'utilise pas pour du 100 % autonome approuvé. · **Synonymes** : « file d'attente des approbations agents (UI/Slack) », « routage par criticité : montant risque SLA 15 min », « approbation en 1 clic avec contexte audit » · **Cross-refs** : 1433, 329, 340 · **Tags** : 2027
+
+## 1637. 🕸️ Memoire graphe d'agent : Zep, Graphiti (2027)
+
+- **Fichier** : `skills/1637-memoire-graphe-d-agent-zep-graphiti-2027.md` · **Mot-clé** : « mémoire graphe agent Zep Graphiti entités relations épisodes temporels neo4j 2027 » · **Nom court** : Mémoire graphe
+- **Signal** : Donner une mémoire graphe à un agent en 2027 (au-delà du vector store 1434) : Zep ou Graphiti stockent entités + relations + épisodes dans un graphe temporel (Neo4j/Kuzu 1478), l'agent raisonne sur les liens ('qui a signé ce contrat lié à X'). Utilise pour des agents personnels/entreprise avec historique riche. N'utilise pas si le vector store suffit. · **Synonymes** : « mémoire graphe agent (Zep », « Graphiti) vs vector store », « entités + relations + épisodes dans un graphe temporel », « l'agent se souvient des liens entre faits (1478) » · **Cross-refs** : 1434, 1478, 1477 · **Tags** : 2027
 

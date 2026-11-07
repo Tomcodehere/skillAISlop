@@ -1,4 +1,4 @@
-# Domaine : Développement (221 skills)
+# Domaine : Développement (240 skills)
 
 ## 9. 💻 Générateur de code commenté
 
@@ -1104,4 +1104,99 @@
 
 - **Fichier** : `skills/1424-validation-des-donnees-et-contraintes-bdd-2027.md` · **Mot-clé** : « validation données pydantic zod contraintes BDD » · **Nom court** : Validation données
 - **Signal** : Sécuriser le modèle de données en 2027 : validation côté app (Pydantic/Zod) + contraintes BDD (NOT NULL, CHECK, FK), requêtes paramétrées uniquement, pas de confiance dans les entrées. Utilise quand on conçoit ou audite un schéma. N'utilise pas pour l'authentification. · **Synonymes** : « valider entrées pydantic zod », « contraintes BDD check fk », « requêtes paramétrées » · **Cross-refs** : 321, 542, 1227 · **Tags** : 2027
+
+## 1600. ⚡ Vite 8 et Rolldown (Rust) : accélérer ses builds (2027)
+
+- **Fichier** : `skills/1600-vite-8-et-rolldown-rust-accelerer-ses-builds-2027.md` · **Mot-clé** : « vite 8 rolldown rust build rapide migration » · **Nom court** : Vite+Rolldown
+- **Signal** : Migrer un projet sur Vite 8 + Rolldown (bundler Rust) en 2027 : builds de production de 2,5 min à ~40 s constatés, Environment API (Vite 6+) pour gérer client/serveur/SSR/workers. Utilise quand les builds CI sont lents. N'utilise pas si le projet est déjà sur Vite récent sans douleur. · **Synonymes** : « accélérer mon build vite rolldown rust », « build 2 », « 5 min à 40 s », « vite 8 environment api 2027 » · **Cross-refs** : 323, 1413, 309 · **Tags** : 2027
+
+## 1601. 🧩 HTMX + backend : UI dynamique sans JavaScript lourd (2027)
+
+- **Fichier** : `skills/1601-htmx-backend-ui-dynamique-sans-javascript-lourd-2027.md` · **Mot-clé** : « htmx UI dynamique sans javascript django-htmx fragments » · **Nom court** : HTMX
+- **Signal** : Construire des interfaces dynamiques en 2027 avec HTMX côté HTML (requêtes AJAX depuis les attributs HTML, mise à jour de fragments de page) + un backend classique (Django django-htmx, Rails, Laravel) : zéro/minimal JS. Utilise pour des apps CRUD/contente-first. N'utilise pas pour des apps très interactives (éditeur riche, jeu). · **Synonymes** : « interface dynamique sans écrire de JS (htmx) », « django-htmx tokens CSRF auto », « remplacer une SPA par du serveur + htmx » · **Cross-refs** : 545, 78, 1268 · **Tags** : 2027
+
+## 1602. ☁️ Retour au serveur : React Server Components et edge (2027)
+
+- **Fichier** : `skills/1602-retour-au-serveur-react-server-components-et-edge-2027.md` · **Mot-clé** : « react server components RSC edge functions streaming SSR 2027 » · **Nom court** : RSC + edge
+- **Signal** : Appliquer le « retour au serveur » en 2027 : React Server Components (RSC) dans Next.js/App Router pour moins de JS envoyé au client, edge functions (Vercel/Cloudflare) pour la latence, streaming SSR. Utilise pour les apps web modernes. N'utilise pas pour du 100 % client (éditeur offline). · **Synonymes** : « moins de JavaScript envoyé au client (RSC) », « edge functions latence 50 ms », « streaming SSR Suspense 2027 » · **Cross-refs** : 1249, 1612, 253 · **Tags** : 2027
+
+## 1603. 🚀 Astro + View Transitions API : site content-first rapide (2027)
+
+- **Fichier** : `skills/1603-astro-view-transitions-api-site-content-first-rapide-202.md` · **Mot-clé** : « astro view transitions API site content-first rapide MPA » · **Nom court** : Astro+VT
+- **Signal** : Construire un site content-first rapide en 2027 avec Astro (îles d'hydratation partielle, 0 JS par défaut) + View Transitions API (transitions animées entre pages MPA, natif Chrome). Utilise pour blogs, docs, marketing. N'utilise pas pour une app web complexe (dashboard). · **Synonymes** : « site rapide sans framework lourd (astro) », « transitions animées entre pages nativement », « astro islands hydratation partielle » · **Cross-refs** : 545, 1615, 1616 · **Tags** : 2027
+
+## 1604. 🔐 TanStack Start + tRPC : full-stack type-safe (2027)
+
+- **Fichier** : `skills/1604-tanstack-start-trpc-full-stack-type-safe-2027.md` · **Mot-clé** : « tanstack start trpc full-stack type-safe zod 2027 » · **Nom court** : TanStack+tRPC
+- **Signal** : Construire une app full-stack type-safe en 2027 avec TanStack Start (React, routing serveur) + tRPC (API typée de bout en bout, sans schéma OpenAPI à maintenir) : types partagés client/serveur, validation zod. Alternative à Next.js + REST. Utilise pour une app métier interne moderne. N'utilise pas pour un site content-first (voir 1603). · **Synonymes** : « API type-safe de bout en bout (tRPC) », « tanstack start react full-stack 2027 », « trpc vs REST vs GraphQL choisir » · **Cross-refs** : 526, 87, 1249 · **Tags** : 2027
+
+## 1605. ⏩ Qwik : reprise instantanée et first-load à l'échelle (2027)
+
+- **Fichier** : `skills/1605-qwik-reprise-instantanee-et-first-load-a-l-echelle-2027.md` · **Mot-clé** : « qwik resumability lazy loading first-load instantané 2027 » · **Nom court** : Qwik
+- **Signal** : Utiliser Qwik en 2027 pour un first-load quasi instantané à grande échelle : resumability (le JS s'exécute là où il s'est arrêté, pas de réhydratation), lazy-loading automatique du code par interaction, optimizer. Utilise pour des apps très lourdes (e-commerce, dashboard). N'utilise pas pour un site simple (Astro 1603 suffit). · **Synonymes** : « app qui charge instantanément (qwik resumability) », « pas de réhydratation (resumability) », « qwik optimizer lazy loading auto » · **Cross-refs** : 1616, 253, 1603 · **Tags** : 2027
+
+## 1606. 🎨 WebGPU cross-browser : 3D et calcul GPU côté client (2027)
+
+- **Fichier** : `skills/1606-webgpu-cross-browser-3d-et-calcul-gpu-cote-client-2027.md` · **Mot-clé** : « webgpu cross-browser 2027 3D calcul GPU compute shaders client » · **Nom court** : WebGPU
+- **Signal** : Exploiter WebGPU en 2027 (déployé cross-browser fin 2025 / WebKit+Firefox début 2026) : accès direct au GPU du navigateur pour du 3D (Three.js/WebGPU, Babylon) ET du calcul général (compute shaders : ML, physique, data viz lourde). Utilise quand WebGL ne suffit plus. N'utilise pas pour du simple 2D (canvas suffit). · **Synonymes** : « webgpu dans tous les navigateurs fin 2025 », « calcul GPU côté client compute shaders », « webgpu vs webgl choisir 2027 » · **Cross-refs** : 1270, 142, 1557 · **Tags** : 2027
+
+## 1607. 🧠 Inference ML côté client : ONNX Runtime Web + WebGPU (2027)
+
+- **Fichier** : `skills/1607-inference-ml-cote-client-onnx-runtime-web-webgpu-2027.md` · **Mot-clé** : « onnx runtime web inference ML navigateur webgpu wasm 2027 » · **Nom court** : ML client
+- **Signal** : Faire tourner un modèle ML directement dans le navigateur en 2027 (inférence client, zéro serveur) : ONNX Runtime Web avec backend WebGPU (1606) ou WASM, modèle converti en ONNX (PyTorch/TF → ONNX), privacy totale + latence nulle. Utilise pour classification d'images, NLP léger, vision. N'utilise pas pour un gros LLM (voir 1438/903). · **Synonymes** : « faire tourner un modèle ML dans le navigateur », « onnx runtime web backend webgpu », « classification image côté client zéro serveur » · **Cross-refs** : 1606, 1608, 943 · **Tags** : 2027
+
+## 1608. 🧱 WebAssembly hors navigateur : WASI 2.0 et composants (2027)
+
+- **Fichier** : `skills/1608-webassembly-hors-navigateur-wasi-2-0-et-composants-2027.md` · **Mot-clé** : « webassembly WASI 2.0 component model hors navigateur CLI plugins edge 2027 » · **Nom court** : Wasm/WASI
+- **Signal** : Faire tourner du code compilé (Rust/C/C++/Go) hors navigateur en 2027 avec WebAssembly + WASI 2.0 (accès fichiers, réseau, horloge standardisés) et le modèle de composants (Component Model : échange de valeurs typées entre langages). Utilise pour CLI, plugins, edge, embarqué. N'utilise pas pour du front (1606/1607). · **Synonymes** : « faire tourner du Rust compilé en wasm partout (WASI) », « component model wasm échange typé entre langages », « wasm sur serveur edge CLI 2027 » · **Cross-refs** : 1607, 1606, 84 · **Tags** : 2027
+
+## 1609. 🖥️ Tauri vs PWA : app desktop légère depuis le web (2027)
+
+- **Fichier** : `skills/1609-tauri-vs-pwa-app-desktop-legere-depuis-le-web-2027.md` · **Mot-clé** : « tauri vs PWA vs electron app desktop légère 2027 » · **Nom court** : Tauri/PWA
+- **Signal** : Choisir en 2027 entre Tauri (app desktop native légère embarquant le webview système + backend Rust, ~600 kB contre 100+ Mo pour Electron) et PWA (installable depuis le navigateur, offline, notifications). Utilise selon le besoin (accès système fort → Tauri, distribution web → PWA). N'utilise pas Electron si la taille compte. · **Synonymes** : « app desktop 600 kB avec tauri (pas electron) », « PWA installable offline notifications push », « tauri backend rust webview système » · **Cross-refs** : 1608, 607, 545 · **Tags** : 2027
+
+## 1610. 🎨 CSS 2027 : :has(), container queries, view transitions natifs
+
+- **Fichier** : `skills/1610-css-2027-has-container-queries-view-transitions-natifs.md` · **Mot-clé** : « css 2027 :has() container queries @container scroll-driven animations » · **Nom court** : CSS 2027
+- **Signal** : Utiliser les nouveautés CSS 2027 : sélecteur :has() (parent selon enfant, cross-browser), container queries (@container, style des composants selon leur conteneur), View Transitions natifs entre pages, scroll-driven animations (@scroll-timeline). Utilise pour du CSS moderne sans JS. N'utilise pas pour de la logique métier. · **Synonymes** : « sélecteur CSS :has() parent selon enfant », « container queries style selon conteneur », « animations pilotées par le scroll @scroll-timeline » · **Cross-refs** : 1268, 1615, 1495 · **Tags** : 2027
+
+## 1611. 💾 Local-first web : CRDT et synchro offline (2027)
+
+- **Fichier** : `skills/1611-local-first-web-crdt-et-synchro-offline-2027.md` · **Mot-clé** : « local-first CRDT replicache livestore yjs synchro offline multi-device » · **Nom court** : Local-first
+- **Signal** : Construire une app local-first en 2027 : données d'abord en local (IndexedDB/SQLite via WASM 1608), synchro en arrière-plan avec CRDT (Replicache, LiveStore, Yjs) pour le multi-device sans conflit, offline total. Utilise pour des apps collaboratives (notes, tableurs, CRM). N'utilise pas pour du temps réel compétitif (serveur autorité 1543). · **Synonymes** : « app qui marche offline puis se synchro (CRDT) », « replicache ou yjs synchro sans conflit », « données en local d'abord IndexedDB » · **Cross-refs** : 1608, 1503, 1539 · **Tags** : 2027
+
+## 1612. 🌍 Edge computing : Cloudflare Workers et Vercel Edge (2027)
+
+- **Fichier** : `skills/1612-edge-computing-cloudflare-workers-et-vercel-edge-2027.md` · **Mot-clé** : « edge computing cloudflare workers vercel edge functions latence 50 ms 2027 » · **Nom court** : Edge
+- **Signal** : Déployer sur l'edge en 2027 (Cloudflare Workers, Vercel Edge Functions, Deno Deploy) : code exécuté dans 300+ datacenters, latence sous 50 ms pour l'utilisateur, pas de serveur à gérer, WASM supporté (1608). Utilise pour API, auth, personnalisation, A/B (1541). N'utilise pas pour du calcul lourd (GPU, batch). · **Synonymes** : « latence sous 50 ms avec cloudflare workers », « vercel edge functions 2027 », « edge vs serveur régional classique » · **Cross-refs** : 1602, 82, 1608 · **Tags** : 2027
+
+## 1613. ⏩ Rolldown en CI : build parallélisé et cache (2027)
+
+- **Fichier** : `skills/1613-rolldown-en-ci-build-parallelise-et-cache-2027.md` · **Mot-clé** : « rolldown CI build parallèle cache turbo remote 2027 » · **Nom court** : CI Rolldown
+- **Signal** : Optimiser la CI front en 2027 avec Rolldown (Rust, multi-cœurs) + cache agressif (node_modules, cache Rolldown, turbo cache distant) : build + tests en parallèle, objectif CI front inf. à  3 min. Utilise quand la CI front bloque les PRs (1413). N'utilise pas sans mesurer le goulot d'abord. · **Synonymes** : « CI front sous 3 min (rolldown + turbo cache) », « build parallèle multi-cœurs rust », « cache distant turbo remote caching » · **Cross-refs** : 1413, 1600, 323 · **Tags** : 2027
+
+## 1614. 🔄 Migration Webpack vers Vite : guide pratique (2027)
+
+- **Fichier** : `skills/1614-migration-webpack-vers-vite-guide-pratique-2027.md` · **Mot-clé** : « migrer webpack vers vite guide loaders plugins alias env proxy » · **Nom court** : Webpack→Vite
+- **Signal** : Migrer un projet Webpack legacy vers Vite en 2027 : mapping des loaders → plugins Vite, config vite.config (alias, define/env, proxy dev), gestion des assets (public/), polyfills, et vérification que le build prod est identique (taille, perfs). Utilise quand Webpack ralentit le dev/CI. N'utilise pas si le projet marche bien (ne pas toucher). · **Synonymes** : « migrer mon projet webpack legacy vers vite », « loaders webpack vers plugins vite équivalent », « vite proxy dev server remplace webpack-dev-server » · **Cross-refs** : 1600, 1413, 545 · **Tags** : 2027
+
+## 1615. 🎬 View Transitions API multi-pages (MPA, 2027)
+
+- **Fichier** : `skills/1615-view-transitions-api-multi-pages-mpa-2027.md` · **Mot-clé** : « view transitions API MPA multi-pages document.startViewTransition ::view-transition » · **Nom court** : View Transitions
+- **Signal** : Ajouter des transitions fluides entre pages d'un site multi-pages (MPA, pas SPA) en 2027 avec la View Transitions API (même origine) : document.startViewTransition() autour du fetch/navigation, animations ::view-transition-old/new, cross-document via meta. Utilise pour des sites sans framework lourd (Astro 1603). N'utilise pas entre origines différentes sans header. · **Synonymes** : « transitions animées entre pages sans SPA (View Transitions) », « document.startViewTransition navigation fluide », « ::view-transition-old new group animation » · **Cross-refs** : 1603, 1610, 1268 · **Tags** : 2027
+
+## 1616. 🏝️ Architecture islands : hydratation partielle (2027)
+
+- **Fichier** : `skills/1616-architecture-islands-hydratation-partielle-2027.md` · **Mot-clé** : « architecture islands hydratation partielle astro client:load idle visible 2027 » · **Nom court** : Islands
+- **Signal** : Concevoir une architecture « islands » en 2027 (Astro 1603, ou islands dans Next.js) : la page est du HTML statique, seules les « îles » interactives sont hydratées (client:load, client:idle, client:visible) avec chacune son framework si besoin. Utilise pour des sites mostly-statiques avec quelques composants dynamiques. N'utilise pas pour une app 100 % interactive (SPA). · **Synonymes** : « page statique + îles interactives hydratées (astro) », « client:load client:idle client:visible choisir », « plusieurs mini-frameworks sur une page (îles) » · **Cross-refs** : 1603, 1605, 545 · **Tags** : 2027
+
+## 1617. ⚖️ Meta-frameworks 2027 : Next.js vs Nuxt vs SvelteKit vs React Router (2027)
+
+- **Fichier** : `skills/1617-meta-frameworks-2027-next-js-vs-nuxt-vs-sveltekit-vs-rea.md` · **Mot-clé** : « choisir meta-framework 2027 next.js nuxt sveltekit react router 7 comparatif » · **Nom court** : Meta-framework
+- **Signal** : Choisir son meta-framework React/Vue en 2027 : Next.js (App Router, RSC 1602, écosystème Vercel), Nuxt 4 (Vue, Nitro), SvelteKit (Svelte, rapide, simple), React Router 7 (framework mode, ex-Remix). Critères : équipe, hébergement (edge 1612), ecosysteme, vitesse de dev. Utilise quand on démarre un projet app. N'utilise pas pour un site statique (Astro 1603). · **Synonymes** : « next.js vs nuxt vs sveltekit choisir 2027 », « react router 7 framework mode ex-remix », « quel framework pour une app métier interne » · **Cross-refs** : 1602, 1604, 1603 · **Tags** : 2027
+
+## 1618. 📊 Core Web Vitals 2027 : INP, LCP, CLS et RUM (2027)
+
+- **Fichier** : `skills/1618-core-web-vitals-2027-inp-lcp-cls-et-rum-2027.md` · **Mot-clé** : « core web vitals 2027 LCP INP CLS RUM real user monitoring CrUX » · **Nom court** : CWV 2027
+- **Signal** : Optimiser les Core Web Vitals en 2027 avec du RUM (Real User Monitoring, données réelles des utilisateurs, pas que labo) : LCP (chargement, objectif sous 2,5 s), INP (interactivité, remplace FID depuis 2024, objectif sous 200 ms), CLS (stabilité, sous 0,1). Utilise quand le SEO/conversion dépend de la vitesse. N'utilise pas sans mesurer le RUM d'abord. · **Synonymes** : « INP interaction to next paint sous 200 ms », « LCP sous 2 », « 5 s chargement plus grand élément », « RUM données réelles utilisateurs vs labo Lighthouse » · **Cross-refs** : 253, 1552, 1603 · **Tags** : 2027
 

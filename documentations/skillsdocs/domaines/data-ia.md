@@ -1,4 +1,4 @@
-# Domaine : Data & IA (45 skills)
+# Domaine : Data & IA (50 skills)
 
 ## 35. 🔗 Pipeline de recommandation
 
@@ -224,4 +224,29 @@
 
 - **Fichier** : `skills/1479-lora-et-qlora-fine-tuner-pour-peu-cher-2027.md` · **Mot-clé** : « LoRA QLoRA fine-tuning pas cher rang faible quantizé » · **Nom court** : LoRA/QLoRA
 - **Signal** : Fine-tuner un LLM à bas coût en 2027 avec LoRA (on n'entraîne que des matrices de rang faible, ~1 % des paramètres, le reste gelé) ou QLoRA (modèle quantizé Q4 en mémoire + LoRA, tient sur 1 GPU 24 Go pour un 70B). Utilise quand un fine-tuning complet est trop cher. N'utilise pas pour l'alignement de préférences (voir DPO 1474). · **Synonymes** : « fine-tuner 70B sur 1 GPU 24 Go », « LoRA rang 8 ou 16 », « QLoRA Q4 + LoRA mémoire » · **Cross-refs** : 691, 1396, 1470 · **Tags** : 2027
+
+## 1630. 📏 Evaluer un agent en production : trajectoires, pas que le prompt (2027)
+
+- **Fichier** : `skills/1630-evaluer-un-agent-en-production-trajectoires-pas-que-le-p.md` · **Mot-clé** : « évaluer agent production trajectoires golden set taux réussite coût escalade 2027 » · **Nom court** : Eval agent prod
+- **Signal** : Évaluer un agent en production en 2027 au-delà du score de prompt : rejouer les trajectoires réelles (1476) sur un golden set (1395), mesurer taux de réussite de la tâche, nombre d'étapes, coût (1491), taux d'escalade HITL, hallucinations (1155). Utilise en continu, pas qu'avant le déploiement. N'utilise pas pour un chatbot simple (693). · **Synonymes** : « mon agent réussit 60% des tâches en prod », « pourquoi », « rejouer les trajectoires réelles sur golden set », « taux d'escalade HITL à surveiller » · **Cross-refs** : 1395, 1476, 693 · **Tags** : 2027
+
+## 1638. 🤖 Agents de data engineering : pipelines auto (Cortex Code, Databricks, BigQuery, 2027)
+
+- **Fichier** : `skills/1638-agents-de-data-engineering-pipelines-auto-cortex-code-da.md` · **Mot-clé** : « agents data engineering 2027 cortex code databricks bigquery pipelines auto debug sandbox » · **Nom court** : Agents data eng
+- **Signal** : Utiliser les agents de data engineering en 2027 (Snowflake Cortex Code, agent Databricks (debug pipeline, fix proposé en sandbox), agent BigQuery) : ils construisent/déboguent des pipelines, comparent old vs new (row counts, schéma) avant validation humaine. Utilise pour accélérer l'ingestion/transformation. N'utilise pas sans revue humaine du diff (1461). · **Synonymes** : « snowflake cortex code génère mes pipelines », « agent databricks débugue mon pipeline et propose un fix en sandbox », « comparer old vs new pipeline (row counts », « schéma) avant merge » · **Cross-refs** : 1460, 1461, 1591 · **Tags** : 2027
+
+## 1671. 🖼️ Multimodal lakehouse : images, embeddings et textes (LanceDB, 2027)
+
+- **Fichier** : `skills/1671-multimodal-lakehouse-images-embeddings-et-textes-lancedb.md` · **Mot-clé** : « lakehouse multimodal LanceDB lance images embeddings texte recherche hybride 2027 » · **Nom court** : Multimodal
+- **Signal** : Stocker des données multimodales (images, embeddings, texte) dans un lakehouse en 2027 avec LanceDB (format Lance, columnnaire, vectoriel natif) ou Iceberg + colonnes vectorielles : recherche hybride sur images+texte (1477). Utilise pour la recherche sémantique sur catalogues, médias, documents scannés. N'utilise pas si texte seul suffit (pgvector 1443). · **Synonymes** : « stocker des images + leurs embeddings + le texte dans un lakehouse », « LanceDB format Lance : vectoriel columnnaire natif 2027 », « recherche hybride image+texte (1477) sur mon catalogue produits » · **Cross-refs** : 1477, 1443, 1662 · **Tags** : 2027
+
+## 1679. 🧮 Choisir sa vector DB en 2027 : pgvector, Qdrant, Milvus, Weaviate, LanceDB (2027)
+
+- **Fichier** : `skills/1679-choisir-sa-vector-db-en-2027-pgvector-qdrant-milvus-weav.md` · **Mot-clé** : « choisir vector DB 2027 pgvector Qdrant Milvus Weaviate LanceDB volume filtres HNSW » · **Nom court** : Choisir vector DB
+- **Signal** : Choisir sa base vectorielle en 2027 selon le volume et le déploiement : pgvector (déjà Postgres 1229, sous 1M vecteurs, zéro infra) ; Qdrant/Milvus/Weaviate (dédié, supérieur à 10M vecteurs, filtres riches, HNSW) ; LanceDB (embarqué/fichier, multimodal 1671) ; Pinecone/Weaviate cloud (managé, cher). Critères : volume, filtres metadata, self-host vs cloud, coût. N'utilise pas si sous 100k vecteurs (pgvector suffit). · **Synonymes** : « pgvector suffit sous 1M de vecteurs (déjà dans Postgres 1229) », « Qdrant ou Milvus pour 100M vecteurs avec filtres metadata », « LanceDB embarqué pour l'edge/offline (1671) » · **Cross-refs** : 1443, 1477, 1662 · **Tags** : 2027
+
+## 1699. 📈 Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda (2027)
+
+- **Fichier** : `skills/1699-data-observability-unifiee-des-pipelines-monte-carlo-dat.md` · **Mot-clé** : « data observability unifiée 2027 Monte Carlo Datafold Soda Cloud OTel 1680 fraîcheur volume schéma lignage alertes » · **Nom court** : Observabilité data
+- **Signal** : Unifier l'observabilité des pipelines data en 2027 (complète 1675/1680) : une plateforme (Monte Carlo, Datafold, ou open source Soda Cloud + OpenTelemetry 1680) couvre fraîcheur, volume, schéma (drift 1461), distribution, lignage (1466), qualité (GX 349) — avec alertes (1417), SLA (1678), et corrélation incident (1096) ↔ trace OTel (1680). Utilise pour ne plus avoir 5 outils qui se contredisent. N'utilise pas pour un pipeline perso. · **Synonymes** : « 5 outils d'observabilité data qui se contredisent », « unifier (2027) », « Monte Carlo ou Datafold : monitoring ML des pipelines », « corrélation incident qualité (1675) ↔ trace OTel (1680) ↔ lineage (1466) » · **Cross-refs** : 1675, 1680, 1466 · **Tags** : 2027
 

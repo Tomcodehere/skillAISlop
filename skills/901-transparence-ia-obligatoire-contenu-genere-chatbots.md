@@ -10,6 +10,7 @@ branche: "D29"
 synonymes: ["contenu généré par ia obligatoire"]
 cross_refs: [900, 561, 389]
 tags: ["2027"]
+depends_on: [1681]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -1,4 +1,4 @@
-# Domaine : Sécurité (71 skills)
+# Domaine : Sécurité (93 skills)
 
 ## 191. 🚔 Détecteur de fraudes & anomalies de logs
 
@@ -354,4 +354,114 @@
 
 - **Fichier** : `skills/1459-se-preparer-a-la-certification-iso-27001-2027.md` · **Mot-clé** : « certification ISO 27001 gap analysis annexe A SMSI audit » · **Nom court** : ISO 27001
 - **Signal** : Se préparer à la certification ISO 27001 en 2027 : écart (gap analysis) vs les 93 mesures de l'annexe A, SMSI (politique, risques, traitement), preuves (logs, revues), audit interne, organisme certificateur, plan de remédiation. Utilise quand un client exige ISO 27001. N'utilise pas pour la conformité RGPD seule (voir 189). · **Synonymes** : « obtenir la certification ISO 27001 », « gap analysis ISO 27001 2027 », « préparer audit certification sécurité » · **Cross-refs** : 507, 197, 243 · **Tags** : 2027
+
+## 1625. 🔐 Identite verifiable des agents : Agent Cards signes et Web Bot Auth (2027)
+
+- **Fichier** : `skills/1625-identite-verifiable-des-agents-agent-cards-signes-et-web.md` · **Mot-clé** : « agent card signé identité vérifiable agent web bot auth requêtes signées 2027 » · **Nom court** : Identité agent
+- **Signal** : Sécuriser l'identité des agents en 2027 : Agent Cards signés (A2A 1622, clés publiques vérifiables), Web Bot Auth (signer les requêtes des bots/agents web, distinct des scrapers), audit de qui appelle quoi. Utilise quand des agents externes appellent votre API. N'utilise pas pour l'auth utilisateur classique (501). · **Synonymes** : « signer son Agent Card A2A (clé publique) », « Web Bot Auth : signer les requêtes agent web », « vérifier l'identité d'un agent appelant (JWK) » · **Cross-refs** : 1622, 1450, 905 · **Tags** : 2027
+
+## 1631. 🛡 Gateway MCP entreprise : audit, scopes, rate limit (2027)
+
+- **Fichier** : `skills/1631-gateway-mcp-entreprise-audit-scopes-rate-limit-2027.md` · **Mot-clé** : « gateway MCP entreprise audit scopes rate limit blocage tools sensibles 2027 » · **Nom court** : Gateway MCP
+- **Signal** : Sécuriser les appels MCP d'une entreprise en 2027 via une gateway unique : un seul point d'entrée pour tous les serveurs MCP (1621), audit log de chaque appel tool (args, user, agent), scopes par agent, rate limit, blocage des tools sensibles (shell, fichiers hors scope), secrets jamais exposés. Utilise quand plusieurs agents utilisent MCP. N'utilise pas sans inventaire des serveurs (1621). · **Synonymes** : « un seul point d'entrée MCP pour toute l'entreprise », « audit log chaque appel tool (args user agent) », « bloquer les tools shell/fichiers sensibles » · **Cross-refs** : 1621, 905, 1476 · **Tags** : 2027
+
+## 1640. 🛡 Securite des agents IA en production : menaces 2027 (injection, exfiltration)
+
+- **Fichier** : `skills/1640-securite-des-agents-ia-en-production-menaces-2027-inject.md` · **Mot-clé** : « sécurité agent IA production 2027 injection indirecte exfiltration mémoire empoisonnée » · **Nom court** : Sécurité agents
+- **Signal** : Sécuriser un agent IA en production en 2027 (2026 = année où les attaquants ont remis les clés volées à des agents) : prompt injection indirecte (via pages web/outils 818), exfiltration de données via tools, mémoire empoisonnée (1637), dépassement de privilèges. Utilise pour tout agent avec outils. N'utilise pas pour un LLM sans outils (moins exposé). · **Synonymes** : « prompt injection indirecte via page web lue par l'agent (818) », « l'agent exfiltre des données via un tool (fichier/email) », « mémoire empoisonnée : l'agent apprend un faux fait (1637) » · **Cross-refs** : 818, 723, 195 · **Tags** : 2027
+
+## 1641. 🔐 Post-quantum (PQC) : inventaire crypto et ML-KEM (2027)
+
+- **Fichier** : `skills/1641-post-quantum-pqc-inventaire-crypto-et-ml-kem-2027.md` · **Mot-clé** : « post-quantum PQC 2027 inventaire crypto CBOM ML-KEM NIST hybrid TLS X25519MLKEM ANSSI » · **Nom court** : PQC 2027
+- **Signal** : Démarrer la migration post-quantique en 2027 (NIST : ML-KEM standardisé, dépréciation RSA-2048/ECC-256 d'ici 2030, interdits après 2035 ; feuilles de route nationales PQC dès 2026 ; ANSSI : PQC obligatoire dès 2027 en France) : inventaire crypto (CBOM : où sont les clés/chiffres), tester hybrid TLS (X25519MLKEM), plan pluriannuel. Utilise maintenant pour les données à long terme. N'utilise pas pour tout remplacer d'un coup. · **Synonymes** : « inventaire de ma cryptographie (CBOM) avant 2027 », « ML-KEM standard NIST 2024 », « migration 2027 », « ANSSI : PQC obligatoire dès 2027 en France » · **Cross-refs** : 506, 1457, 1651 · **Tags** : 2027
+
+## 1642. ⏳ Harvest now, decrypt later : proteger les donnees long terme (2027)
+
+- **Fichier** : `skills/1642-harvest-now-decrypt-later-proteger-les-donnees-long-term.md` · **Mot-clé** : « harvest now decrypt later données long terme chiffrer PQC maintenant rétention minimale 2027 » · **Nom court** : Harvest now
+- **Signal** : Se protéger en 2027 contre « harvest now, decrypt later » (des attaquants volent aujourd'hui des données chiffrées pour les déchiffrer plus tard avec un ordinateur quantique) : identifier les données à très long terme (santé, contrats, secrets industriels, clés racines), les chiffrer en PQC/hybride dès maintenant (1641), minimiser la rétention (189). Utilise pour les données sensibles à 10-30 ans. N'utilise pas pour les données à 1 an (le risque est faible). · **Synonymes** : « données volées aujourd'hui », « déchiffrées en 2035 par quantique », « quelles données protéger en PQC dès maintenant », « réduire la rétention des données sensibles (RGPD) » · **Cross-refs** : 1641, 506, 189 · **Tags** : 2027
+
+## 1643. 🔑 Passkeys a grande echelle : migration massive post-2026 (2027)
+
+- **Fichier** : `skills/1643-passkeys-a-grande-echelle-migration-massive-post-2026-20.md` · **Mot-clé** : « passkeys migration massive 2027 800M comptes mot de passe supprimé fallback MFA adoption » · **Nom court** : Passkeys masse
+- **Signal** : Déployer les passkeys à grande échelle en 2027 (point d'inflexion 2026 : 800M+ comptes chez Google/Amazon/Microsoft, mot de passe sans mot de passe par défaut) : migration progressive des comptes sensibles d'abord (admin, paiement, email), fallback mot de passe + MFA le temps de la transition, metrics d'adoption (objectif sup. à  50 % des connexions). Utilise pour supprimer les mots de passe. N'utilise pas pour les systèmes legacy incompatibles (plan de secours). · **Synonymes** : « déployer les passkeys pour tous les comptes sensibles en 2027 », « 800M+ comptes passkeys en 2026 », « adoption entreprise », « fallback mot de passe + MFA pendant la transition » · **Cross-refs** : 1449, 501, 665 · **Tags** : 2027
+
+## 1644. 📱 Zero trust device-level : IoT et edge en 2027
+
+- **Fichier** : `skills/1644-zero-trust-device-level-iot-et-edge-en-2027.md` · **Mot-clé** : « zero trust IoT edge objets connectés certificats X.509 SPIFFE micro-segmentation OTA signés 2027 » · **Nom court** : ZT IoT
+- **Signal** : Appliquer le zero trust au niveau des objets (IoT/edge) en 2027 (la surface d'attaque explose avec les objets connectés) : identité par objet (certificats X.509 embarqués, SPIFFE 1655), micro-segmentation réseau (1203), mises à jour OTA signées (1457), pas de mot de passe par défaut. Utilise pour tout déploiement IoT/industriel. N'utilise pas pour les postes utilisateurs (zero trust user classique 908). · **Synonymes** : « identité par objet (certificat embarqué) pas de mot de passe par défaut », « micro-segmentation réseau des objets (1203) », « mises à jour OTA signées (SBOM 1457) » · **Cross-refs** : 1315, 1203, 1655 · **Tags** : 2027
+
+## 1645. ⛓️ Supply chain 2027 : SBOM + SLSA niveau 3 en CI (2027)
+
+- **Fichier** : `skills/1645-supply-chain-2027-sbom-slsa-niveau-3-en-ci-2027.md` · **Mot-clé** : « supply chain 2027 SBOM SLSA niveau 3 CI cosign miroir interne quarantaine ENISA +40% » · **Nom court** : Supply chain 2027
+- **Signal** : Sécuriser la supply chain en 2027 (attaques +40 % selon ENISA, OWASP A03) : SBOM à chaque build (Syft), SLSA niveau 3 (build sur infra de confiance, provenance signée), vérification des signatures (cosign 1457), miroir interne avec quarantaine, alertes OSV/GitHub Advisory. Utilise pour tout logiciel publié. N'utilise pas pour du code interne jetable. · **Synonymes** : « attaques supply chain +40% en 2026 (ENISA) », « SLSA niveau 3 : build sur infra de confiance provenance signée », « SBOM Syft à chaque build + cosign signature » · **Cross-refs** : 267, 1457, 1445 · **Tags** : 2027
+
+## 1646. 📜 OWASP Top 10 2026 : nouveautés et code genere par IA (2027)
+
+- **Fichier** : `skills/1646-owasp-top-10-2026-nouveautes-et-code-genere-par-ia-2027.md` · **Mot-clé** : « OWASP Top 10 2026 reshuffle code généré IA blindspot 92% revue systématique SAST » · **Nom court** : OWASP 2026
+- **Signal** : Appliquer l'OWASP Top 10 2026 (reshufflé) en 2027 : le code généré par IA est le blindspot n°1 (92 % des devs utilisent un assistant IA) → revue systématique du code IA (1401), SAST en CI (1659), secrets jamais en clair. Nouvelle catégorie : Software Supply Chain Failures (A03 renforcé, 1645). Utilise pour auditer une app web. N'utilise pas pour l'infra réseau seule. · **Synonymes** : « 92% des devs utilisent l'IA : le code IA est le blindspot n°1 », « OWASP 2026 : nouvelle catégorie supply chain renforcée (A03) », « revue systématique du code généré par IA (1401) » · **Cross-refs** : 70, 1401, 1659 · **Tags** : 2027
+
+## 1647. 🔍 Securite des modeles IA open source : revue avant deploiement (2027)
+
+- **Fichier** : `skills/1647-securite-des-modeles-ia-open-source-revue-avant-deploiem.md` · **Mot-clé** : « sécurité modèle IA open source 2027 provenance licence backdoor pickle scan golden set 1395 » · **Nom court** : Modèle OSS sûr
+- **Signal** : Revoir un modèle IA open source avant déploiement en 2027 (risque de backdoors/weights empoisonnés, licences restrictives 1177) : vérifier la provenance (Hugging Face officiel vs miroir), la licence (Apache/Mistral permissif vs restrictif), scanner le repo (pickle malveillant, code exécuté au chargement), évaluer sur un golden set (1395) avant prod. Utilise pour tout modèle téléchargé. N'utilise pas pour les API managées (contrat fournisseur). · **Synonymes** : « télécharger un modèle Hugging Face : quels risques (backdoor », « pickle) », « vérifier la licence d'un modèle open source (1177) », « scanner un repo de modèle (pickle », « code au chargement) avant déploiement » · **Cross-refs** : 1177, 1395, 1457 · **Tags** : 2027
+
+## 1648. 🎥 Detecter le contenu genere par IA : deepfakes video, voix clonee (2027)
+
+- **Fichier** : `skills/1648-detecter-le-contenu-genere-par-ia-deepfakes-video-voix-c.md` · **Mot-clé** : « détecter deepfake vidéo voix clonée contenu IA 2027 C2PA 1691 FakeCatcher vérification hors bande » · **Nom court** : Détecter IA
+- **Signal** : Détecter en 2027 les contenus générés par IA (deepfakes vidéo 561/840, voix clonée 808, texte 538) : outils de détection (Microsoft Video Authenticator, Intel FakeCatcher, detectors open source), Content Credentials C2PA (1691) quand présents, heuristiques (lèvres, reflet yeux, artefacts), et procédure de vérification hors bande (rappelez la personne sur un canal connu). Utilise pour vérifier un contenu suspect reçu. N'utilise pas pour accuser sans preuve. · **Synonymes** : « cette vidéo est-elle un deepfake ? (détecteurs 2027) », « voix clonée au téléphone : vérifier hors bande (rappeler le numéro connu) », « vérifier les Content Credentials C2PA (1691) d'un média reçu » · **Cross-refs** : 561, 840, 1691 · **Tags** : 2027
+
+## 1649. ⚖️ NIS2, DORA et CMMC actifs en 2026-2027 : obligations (2027)
+
+- **Fichier** : `skills/1649-nis2-dora-et-cmmc-actifs-en-2026-2027-obligations-2027.md` · **Mot-clé** : « NIS2 DORA CMMC 2027 conformité obligations déclaration incident 24h résilience financière DORA » · **Nom court** : NIS2/DORA
+- **Signal** : Se mettre en conformité en 2027 avec les régulations cyber actives en 2026 : NIS2 (entités essentielles/importantes UE : gestion des risques, déclaration d'incidents 24 h, responsabilité des dirigeants), DORA (finance : tests de résilience, registres ICT, contrats fournisseurs testés 1672), CMMC (défense US). Utilise pour les secteurs concernés. N'utilise pas pour une TPE hors scope. · **Synonymes** : « NIS2 : déclarer un incident sous 24 h », « responsabilité dirigeant », « DORA banque/assurance : tests de résilience + registres fournisseurs ICT », « CMMC défense US : certification niveau 2 » · **Cross-refs** : 754, 1454, 1672 · **Tags** : 2027
+
+## 1650. 🔄 Crypto agilite : rotation d'algorithmes sans casser (2027)
+
+- **Fichier** : `skills/1650-crypto-agilite-rotation-d-algorithmes-sans-casser-2027.md` · **Mot-clé** : « crypto agilité 2027 rotation algorithmes trust anchors upgradeables abstraction PKI » · **Nom court** : Crypto agilité
+- **Signal** : Construire la crypto-agilité en 2027 (capacité à changer d'algorithme de chiffrement sans tout casser) : trust anchors upgradeables, abstractions (pas d'appel direct à RSA), inventaire (1641), tests de migration en staging, plan de rotation. Utilise quand on gère des PKI/services long terme. N'utilise pas si tout est déjà centralisé (vault 1656). · **Synonymes** : « changer d'algorithme de chiffrement sans tout casser », « ne pas appeler RSA directement (abstraction vault) », « trust anchors upgradeables (changer la racine de confiance) » · **Cross-refs** : 1641, 506, 306 · **Tags** : 2027
+
+## 1651. 🤖 SOAR et SOC automation en 2026-2027 (2027)
+
+- **Fichier** : `skills/1651-soar-et-soc-automation-en-2026-2027-2027.md` · **Mot-clé** : « SOAR SOC automation 2027 playbooks tines XSOAR shuffle tri auto alertes fatigue alertes » · **Nom court** : SOAR/SOC
+- **Signal** : Automatiser le SOC en 2027 (fatigue d'alertes, 4,8 M de postes de cybersécurité non pourvus) : SOAR (Tines, Palo Alto XSOAR, Shuffle open source) pour trier/corréler/enrichir les alertes automatiquement, playbooks (isoler un poste, bloquer une IP 1451), tout avec revue humaine sur les actions à fort impact (HITL 1636). Utilise quand le SOC est débordé. N'utilise pas sans SIEM propre d'abord (1453). · **Synonymes** : « le SOC est noyé sous les alertes (fatigue) », « playbook SOAR : isolaer le poste », « bloquer l'IP automatiquement », « shuffle SOAR open source 2027 » · **Cross-refs** : 1453, 1417, 1636 · **Tags** : 2027
+
+## 1652. 🧠 Detection comportementale : UEBA et IA cote defense (2027)
+
+- **Fichier** : `skills/1652-detection-comportementale-ueba-et-ia-cote-defense-2027.md` · **Mot-clé** : « UEBA détection comportementale ML anomalies baseline user entité exfiltration lente 2027 » · **Nom court** : UEBA
+- **Signal** : Détecter les menaces avec l'UEBA (User and Entity Behavior Analytics) en 2027 : baseline de comportement par user/entité (horaires, volumes, destinations), détection d'anomalies par ML (impossible à rules seules : exfiltration lente, compte dormant qui se réveille), alertes corrélées au SIEM (1453). Utilise en complément des règles. N'utilise pas comme seule détection. · **Synonymes** : « compte dormant qui se réveille à 3h et télécharge 2 Go », « exfiltration lente indétectable aux règles (quelques Mo/jour) », « baseline de comportement par utilisateur (UEBA) » · **Cross-refs** : 1453, 191, 346 · **Tags** : 2027
+
+## 1653. 💣 Ransomware 2027 : playbook double extorsion et reprise (2027)
+
+- **Fichier** : `skills/1653-ransomware-2027-playbook-double-extorsion-et-reprise-202.md` · **Mot-clé** : « ransomware 2027 playbook double extorsion sauvegardes 3-2-1 immuables Object Lock détection canaris payer ou non NIS2 » · **Nom court** : Ransomware 2027
+- **Signal** : Se préparer au ransomware 2027 (double/triple extorsion : chiffrement + vol de données + menace de publication, RaaS automatisé) : playbook testé (1454), sauvegardes 3-2-1 hors ligne et immuables (Object Lock S3), détection précoce (UEBA 1652, canaris fichiers), procédure de décision (payer ou non — position légale/assurance), reprise depuis les backups vérifiés, déclaration (NIS2 24 h 1649). Utilise pour toute organisation. N'utilise pas qu'en prévention : tester la reprise. · **Synonymes** : « double extorsion : chiffrement + vol de données + publication », « sauvegardes immuables Object Lock S3 (le ransomware les efface sinon) », « décider de payer ou non (assurance », « légal) playbook testé 1454 » · **Cross-refs** : 666, 596, 755 · **Tags** : 2027
+
+## 1654. 🖥️ Identite machine : SPIFFE/SPIRE pour workloads (2027)
+
+- **Fichier** : `skills/1654-identite-machine-spiffe-spire-pour-workloads-2027.md` · **Mot-clé** : « SPIFFE SPIRE identité machine workloads SVID certificat X.509 court mTLS mesh services 2027 » · **Nom court** : Identité machine
+- **Signal** : Gérer l'identité des machines (workloads, conteneurs, services cloud) en 2027 avec SPIFFE/SPIRE : chaque workload a une identité cryptographique (SVID, certificat X.509 court) émise automatiquement, mTLS entre services, pas de clés longue durée (1446). Utilise dans un mesh de services/k8s. N'utilise pas pour l'identité utilisateur (501). · **Synonymes** : « chaque conteneur a son identité crypto (SPIFFE SVID) », « mTLS automatique entre services (SPIRE) », « plus de clés API longue durée entre services (1446) » · **Cross-refs** : 1644, 1446, 609 · **Tags** : 2027
+
+## 1655. 🌐 Securite DNS : DoH/DoT, DNSSEC et blocage malware (2027)
+
+- **Fichier** : `skills/1655-securite-dns-doh-dot-dnssec-et-blocage-malware-2027.md` · **Mot-clé** : « DoH DoT DNS chiffré DNSSEC Quad9 NextDNS Pi-hole filtrage malware phishing 2027 » · **Nom court** : DNS sécurisé
+- **Signal** : Sécuriser la résolution DNS en 2027 : DoH/DoT (chiffrer les requêtes DNS, contre l'espionnage/MITM du FAI), DNSSEC (authentifier les réponses, anti-spoofing), DNS filtrant (Quad9, NextDNS, Pi-hole entreprise) pour bloquer malware/phishing/parkings au niveau DNS (avant même la connexion). Utilise pour tout réseau d'entreprise. N'utilise pas pour les résolveurs internes AD (garder local + forward sécurisé). · **Synonymes** : « chiffrer mes requêtes DNS (DoH Cloudflare 1.1.1.1) », « DNSSEC authentifier les réponses anti-spoofing », « bloquer malware/phishing au niveau DNS (Quad9) » · **Cross-refs** : 510, 502, 509 · **Tags** : 2027
+
+## 1656. 🔑 Secrets dynamiques : Vault transit et DB (2027)
+
+- **Fichier** : `skills/1656-secrets-dynamiques-vault-transit-et-db-2027.md` · **Mot-clé** : « secrets dynamiques vault transit DB credentials temporaires TTL IAM temporaire PKI certificats courts 2027 » · **Nom court** : Secrets dynamiques
+- **Signal** : Éliminer les secrets statiques en 2027 avec les secrets dynamiques : HashiCorp Vault (ou OpenBao) génère des credentials à la demande (DB: user/pass temporaires avec TTL, AWS: IAM role temporaire, PKI: certificats courts), révoqués à l'expiration. Utilise pour BDD, cloud, PKI. N'utilise pas pour les clés API externes sans support (rotation manuelle 1446). · **Synonymes** : « plus de mot de passe de BDD en dur : credential temporaire TTL (Vault) », « IAM AWS temporaire par rôle (pas de clé longue durée) », « certificats PKI courts générés à la demande » · **Cross-refs** : 306, 1446, 1447 · **Tags** : 2027
+
+## 1657. 📧 Securite email 2027 : DMARC strict, BIMI, anti-spoofing (2027)
+
+- **Fichier** : `skills/1657-securite-email-2027-dmarc-strict-bimi-anti-spoofing-2027.md` · **Mot-clé** : « DMARC reject SPF DKIM BIMI MTA-STS DANE anti-spoofing email entreprise 2027 » · **Nom court** : Email sécurisé
+- **Signal** : Sécuriser la messagerie en 2027 contre le spoofing/phishing (509) : SPF + DKIM + DMARC en reject (p=reject, pas none), BIMI (logo certifié dans la boîte de réception), MTA-STS/ DANE pour le chiffrement en transit, filtrage avancé (pièces jointes sandboxées). Utilise pour le domaine de l'entreprise. N'utilise pas pour un perso Gmail (déjà protégé par le fournisseur). · **Synonymes** : « DMARC p=reject pour bloquer le spoofing de notre domaine », « BIMI : notre logo certifié affiché dans Gmail/Outlook », « MTA-STS : chiffrement TLS obligatoire en transit » · **Cross-refs** : 509, 757, 502 · **Tags** : 2027
+
+## 1658. 🔒 DevSecOps 2027 : SAST, DAST, SCA et secrets en CI (2027)
+
+- **Fichier** : `skills/1658-devsecops-2027-sast-dast-sca-et-secrets-en-ci-2027.md` · **Mot-clé** : « DevSecOps 2027 CI SAST semgrep DAST zap SCA grype OSV secrets SBOM cosign bloquant PR » · **Nom court** : DevSecOps CI
+- **Signal** : Intégrer la sécurité dans la CI en 2027 (DevSecOps) : SAST (semgrep/snyk code, bloquant sur high), SCA (dépendances : OSV/grype, blocage CVE critique 1445), DAST (zap sur l'app déployée en staging), secrets (detect-private-key 1403, trufflehog), SBOM (1645), signé (cosign). Utilise dans chaque PR. N'utilise pas sans séparer les seuils (bloquer vs avertir). · **Synonymes** : « SAST semgrep bloquant sur CVE high dans chaque PR », « DAST zap sur le staging à chaque déploiement », « SCA grype/OSV sur les dépendances + SBOM 1645 » · **Cross-refs** : 1592, 1645, 1403 · **Tags** : 2027
+
+## 1659. 🐛 Bug bounty et divulgation responsable (VDP) (2027)
+
+- **Fichier** : `skills/1659-bug-bounty-et-divulgation-responsable-vdp-2027.md` · **Mot-clé** : « bug bounty VDP divulgation responsable 2027 périmètre récompense CVSS délai réponse correction HackerOne » · **Nom court** : Bug bounty
+- **Signal** : Mettre en place un programme de bug bounty ou de divulgation responsable (VDP) en 2027 : périmètre clair (quoi est testable), hors périmètre (DoS, social engineering 907), récompense par criticité (CVSS), délai de réponse (5 j) et de correction (90 j critique), publication après correctif, relation avec les chercheurs (HackerOne/Bugcrowd ou VDP interne). Utilise pour toute app exposée. N'utilise pas sans processus de correction derrière (sinon frustration). · **Synonymes** : « ouvrir un VDP (divulgation responsable) interne 2027 », « récompense par criticité CVSS », « délai 90 j critique », « HackerOne ou Bugcrowd pour un programme payant » · **Cross-refs** : 439, 440, 754 · **Tags** : 2027
 

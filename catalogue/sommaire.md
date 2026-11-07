@@ -1602,6 +1602,106 @@
 | 1597 | Demo Steam Next Fest et salons de jeu (2027) | Game Dev|
 | 1598 | Playtest organise : recruter, questionnaire, synthèse (2027) | Game Dev|
 | 1599 | Accessibilite legale des jeux video en Europe (2027) | Game Dev|
+| 1600 | Vite 8 et Rolldown (Rust) : accélérer ses builds (2027) | Développement|
+| 1601 | HTMX + backend : UI dynamique sans JavaScript lourd (2027) | Développement|
+| 1602 | Retour au serveur : React Server Components et edge (2027) | Développement|
+| 1603 | Astro + View Transitions API : site content-first rapide (2027) | Développement|
+| 1604 | TanStack Start + tRPC : full-stack type-safe (2027) | Développement|
+| 1605 | Qwik : reprise instantanée et first-load à l'échelle (2027) | Développement|
+| 1606 | WebGPU cross-browser : 3D et calcul GPU côté client (2027) | Développement|
+| 1607 | Inference ML côté client : ONNX Runtime Web + WebGPU (2027) | Développement|
+| 1608 | WebAssembly hors navigateur : WASI 2.0 et composants (2027) | Développement|
+| 1609 | Tauri vs PWA : app desktop légère depuis le web (2027) | Développement|
+| 1610 | CSS 2027 : :has(), container queries, view transitions natifs | Développement|
+| 1611 | Local-first web : CRDT et synchro offline (2027) | Développement|
+| 1612 | Edge computing : Cloudflare Workers et Vercel Edge (2027) | Développement|
+| 1613 | Rolldown en CI : build parallélisé et cache (2027) | Développement|
+| 1614 | Migration Webpack vers Vite : guide pratique (2027) | Développement|
+| 1615 | View Transitions API multi-pages (MPA, 2027) | Développement|
+| 1616 | Architecture islands : hydratation partielle (2027) | Développement|
+| 1617 | Meta-frameworks 2027 : Next.js vs Nuxt vs SvelteKit vs React Router (2027) | Développement|
+| 1618 | Core Web Vitals 2027 : INP, LCP, CLS et RUM (2027) | Développement|
+| 1619 | Accessibilite front 2027 : ARIA 1.3, focus-visible, contraste auto (2027) | Design|
+| 1620 | Design tokens multi-plateformes : Style Dictionary, Tokens Studio (2027) | Design|
+| 1621 | MCP en production 2027 : registry officiel et gouvernance (2027) | IA / Prompting|
+| 1622 | A2A (Agent2Agent) : agents cross-organisation en 2027 | IA / Prompting|
+| 1623 | Choisir son protocole agent : MCP vs A2A vs ACP (fusionné) (2027) | IA / Prompting|
+| 1624 | WebMCP : navigateur agentique (Chrome origin trial, 2027) | IA / Prompting|
+| 1625 | Identite verifiable des agents : Agent Cards signes et Web Bot Auth (2027) | Sécurité|
+| 1626 | AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A (2027) | IA / Prompting|
+| 1627 | Business case d'un agent IA : eviter l'annulation (Gartner 2027) (2027) | Produit & IA|
+| 1628 | Paiement agentique : UCP et mandates signes (2027) | IA / Prompting|
+| 1629 | Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework, 2027) | IA / Prompting|
+| 1630 | Evaluer un agent en production : trajectoires, pas que le prompt (2027) | Data & IA|
+| 1631 | Gateway MCP entreprise : audit, scopes, rate limit (2027) | Sécurité|
+| 1632 | Contexte 1M tokens : retrieval cible dans la masse (2027) | IA / Prompting|
+| 1633 | Modeles souverains europeens : Mistral et alternatives UE (2027) | IA / Prompting|
+| 1634 | Agents verticaux specialises vs generalistes (2027) | Produit & IA|
+| 1635 | Controle des couts d'agents : budget par tache et kill switch entreprise (2027) | Produit & IA|
+| 1636 | HITL a l'echelle : files d'approbation et routage (2027) | IA / Prompting|
+| 1637 | Memoire graphe d'agent : Zep, Graphiti (2027) | IA / Prompting|
+| 1638 | Agents de data engineering : pipelines auto (Cortex Code, Databricks, BigQuery, 2027) | Data & IA|
+| 1639 | Prompt-to-prod : de l'idee au deploiement surveille d'un agent (2027) | Produit & IA|
+| 1640 | Securite des agents IA en production : menaces 2027 (injection, exfiltration) | Sécurité|
+| 1641 | Post-quantum (PQC) : inventaire crypto et ML-KEM (2027) | Sécurité|
+| 1642 | Harvest now, decrypt later : proteger les donnees long terme (2027) | Sécurité|
+| 1643 | Passkeys a grande echelle : migration massive post-2026 (2027) | Sécurité|
+| 1644 | Zero trust device-level : IoT et edge en 2027 | Sécurité|
+| 1645 | Supply chain 2027 : SBOM + SLSA niveau 3 en CI (2027) | Sécurité|
+| 1646 | OWASP Top 10 2026 : nouveautés et code genere par IA (2027) | Sécurité|
+| 1647 | Securite des modeles IA open source : revue avant deploiement (2027) | Sécurité|
+| 1648 | Detecter le contenu genere par IA : deepfakes video, voix clonee (2027) | Sécurité|
+| 1649 | NIS2, DORA et CMMC actifs en 2026-2027 : obligations (2027) | Sécurité|
+| 1650 | Crypto agilite : rotation d'algorithmes sans casser (2027) | Sécurité|
+| 1651 | SOAR et SOC automation en 2026-2027 (2027) | Sécurité|
+| 1652 | Detection comportementale : UEBA et IA cote defense (2027) | Sécurité|
+| 1653 | Ransomware 2027 : playbook double extorsion et reprise (2027) | Sécurité|
+| 1654 | Identite machine : SPIFFE/SPIRE pour workloads (2027) | Sécurité|
+| 1655 | Securite DNS : DoH/DoT, DNSSEC et blocage malware (2027) | Sécurité|
+| 1656 | Secrets dynamiques : Vault transit et DB (2027) | Sécurité|
+| 1657 | Securite email 2027 : DMARC strict, BIMI, anti-spoofing (2027) | Sécurité|
+| 1658 | DevSecOps 2027 : SAST, DAST, SCA et secrets en CI (2027) | Sécurité|
+| 1659 | Bug bounty et divulgation responsable (VDP) (2027) | Sécurité|
+| 1660 | DuckDB : le SQLite de l'analytics, requêter Parquet/S3 directement (2027) | Data|
+| 1661 | MotherDuck : DuckDB dans le cloud hybride (2027) | Data|
+| 1662 | Apache Iceberg v3 : deletion vectors et row lineage (2027) | Data|
+| 1663 | Delta Lake vs Iceberg vs Hudi : choisir son open table format (2027) | Data|
+| 1664 | dlt (data load tool) : ingestion as code (2027) | Data|
+| 1665 | Polars vs pandas en 2027 : DataFrame rapide en Rust (2027) | Data|
+| 1666 | Modern data stack 2026-27 : dlt + DuckDB + dbt + Superset (2027) | Data|
+| 1667 | Consolidation du marché data 2026 : Fivetran+dbt, IBM+Confluent, SAP+Dremio (2027) | Data|
+| 1668 | Data Act septembre 2026 : acces aux donnees des produits connectes (2027) | Data|
+| 1669 | Data Act janvier 2027 : fin des frais de switching cloud (2027) | Data|
+| 1670 | Exit strategy cloud et DORA : plans de sortie testes (2027) | Data|
+| 1671 | Multimodal lakehouse : images, embeddings et textes (LanceDB, 2027) | Data & IA|
+| 1672 | Streaming 2026-27 : Flink vs RisingWave vs Bytewax (2027) | Data|
+| 1673 | Kestra : orchestration YAML declarative (2027) | Data|
+| 1674 | Rill : BI as code sur DuckDB (2027) | Data|
+| 1675 | Data quality 2026-27 : Great Expectations, Monte Carlo, alertes auto (2027) | Data|
+| 1676 | Semantic layer 2027 : une metrique, un calcul (dbt Semantic Layer, Cube) (2027) | Data|
+| 1677 | Reverse ETL : pousser les données warehouse vers les SaaS (Hightouch, Census, 2027) | Data|
+| 1678 | Data contracts en prod : enforcement auto en CI (2027) | Data|
+| 1679 | Choisir sa vector DB en 2027 : pgvector, Qdrant, Milvus, Weaviate, LanceDB (2027) | Data & IA|
+| 1680 | OpenTelemetry pour la data : tracer les pipelines (2027) | Data|
+| 1681 | AI Act : calendrier 2026-2028 post-Omnibus (2027) | Juridique|
+| 1682 | GPAI : Code of Practice et obligations fournisseurs (2027) | Juridique|
+| 1683 | Amendes AI Act : 35 M€ ou 7 % du CA (2027) | Juridique|
+| 1684 | Préparer l'Annexe III haut risque : deadline 2 décembre 2027 (2027) | Juridique|
+| 1685 | CADA 2027 : niveaux de souveraineté cloud UE (2027) | Juridique|
+| 1686 | Gaia-X niveau 3 : souveraineté pleine vs CLOUD Act (2027) | Juridique|
+| 1687 | AWS European Sovereign Cloud : évaluer l'offre souveraine US (2027) | Juridique|
+| 1688 | Souveraineté GPU et calcul IA en Europe (2027) | Juridique|
+| 1689 | EUCS : certification cloud européenne (2027) | Juridique|
+| 1690 | Produit IA conforme : transparence art. 50 des août 2026 (2027) | Produit & IA|
+| 1691 | Watermarking du contenu IA : C2PA et Content Credentials (2027) | Produit & IA|
+| 1692 | Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO 2027) | Produit & IA|
+| 1693 | AEO 2027 : structurer son contenu pour être cité par les LLM (2027) | Produit & IA|
+| 1694 | Tendances design web 2027 : bento grids, verre sobre, dark auto (2027) | Design|
+| 1695 | Motion design 2027 : view transitions, micro-interactions, scroll (2027) | Design|
+| 1696 | Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran, 2027) | Produit & IA|
+| 1697 | Signature électronique qualifiée eIDAS 2.0 (2027) | Bureau|
+| 1698 | Dashboard d'usage du catalogue de skills (analytics, 2027) | Routage|
+| 1699 | Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda (2027) | Data & IA|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -2337,6 +2437,6 @@
 | 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
 | 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1599 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1699 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

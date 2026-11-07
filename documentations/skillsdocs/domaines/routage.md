@@ -1,4 +1,4 @@
-# Domaine : Routage (4 skills)
+# Domaine : Routage (5 skills)
 
 ## 250. 🎩 Conservateur de la bibliothèque de skills
 
@@ -19,4 +19,9 @@
 
 - **Fichier** : `skills/1497-analyser-les-demandes-non-routees-misses-et-boucler-2027.md` · **Mot-clé** : « misses demandes non routées exit 2 suggestions boucler synonymes » · **Nom court** : Analyser misses
 - **Signal** : Analyser le journal des demandes non routées (exit 2, commande misses) en 2027 : motifs récurrents, suggestions auto (misses --suggest), ajouter synonymes ou créer la skill manquante, puis build + test. Utilise quand le routeur renvoie souvent exit 2. N'utilise pas pour choisir une skill manuellement (1372). · **Synonymes** : « exit 2 trop fréquent routeur », « demandes non routées récurrentes », « misses --suggest ajouter synonyme » · **Cross-refs** : 0, 250, 1372 · **Tags** : 2027
+
+## 1698. 📊 Dashboard d'usage du catalogue de skills (analytics, 2027)
+
+- **Fichier** : `skills/1698-dashboard-d-usage-du-catalogue-de-skills-analytics-2027.md` · **Mot-clé** : « dashboard usage catalogue skills analytics routes top skills exit 0 1 2 misses récurrents par domaine » · **Nom court** : Analytics catalogue
+- **Signal** : Visualiser l'usage réel du catalogue de skills en 2027 : `routage.py analytics` (SQL sur la table routes) + dashboard (Grafana 1416 ou Metabase 1674) : top skills routées, taux exit 0/1/2, domaines les plus sollicités, misses récurrents (1497), évolution par version (versions). Utilise pour décider quelles skills prioriser/maintenir. N'utilise pas pour espionner des utilisateurs individuels (RGPD 1584 : anonymiser). · **Synonymes** : « quelles sont les 20 skills les plus utilisées ? (top popularité 1416) », « taux d'exit 2 du routeur par semaine (misses 1497) », « évolution du routage par version (versions) » · **Cross-refs** : 1497, 0, 1540 · **Tags** : 2027
 

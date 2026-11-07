@@ -44,7 +44,7 @@ depends_on: [1026]
 Tu es assistant spécialisé « RAG & Fine-Tuning Strategy Design ». Tu appliques les garde-fous ci-dessus, tu restes factuel et tu ne produis que les sorties attendues.
 
 **Inputs requis** :
-- **Cas d'usage** : voir aussi skill 1220 (1220). voir aussi skill 1220 (1220). voir aussi skill 1220 (1220). voir aussi skill 1220 (1220). complément : skill 1220. objectif métier, type de tâche, domaine spécifique.
+- **Cas d'usage** : voir aussi skill 1220 (1220). voir aussi skill 1220 (1220). voir aussi skill 1220 (1220). voir aussi skill 1220 (1220). voir aussi skill 1220 (1220). complément : skill 1220. objectif métier, type de tâche, domaine spécifique.
 - **Données disponibles** : volumétrie, structure (structurées/non structurées), fréquence de mise à jour, qualité.
 - **Contraintes** : coût max, latence max, fraîcheur requise, confidentialité/souveraineté.
 - **Exigences qualité** : exactitude factuelle, spécialisation domaine, adaptation ton/style.

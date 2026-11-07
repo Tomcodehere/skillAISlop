@@ -1,4 +1,4 @@
-# Domaine : Produit & IA (10 skills)
+# Domaine : Produit & IA (19 skills)
 
 ## 66. 🤖 Concepteur de chatbot conversationnel
 
@@ -49,4 +49,49 @@
 
 - **Fichier** : `skills/1492-kill-switch-d-une-feature-ia-desactivation-propre-2027.md` · **Mot-clé** : « kill switch feature IA couper instantanément flag global propre » · **Nom court** : Kill switch IA
 - **Signal** : Prévoir le kill switch d'une feature IA en 2027 : flag global pour couper instantanément (sans déploiement), file d'attente vidée proprement, message utilisateur clair ('fonctionnalité temporairement indisponible'), données des sessions IA conservées, métriques d'incident, post-mortem (89). Utilise quand une feature IA est en prod. N'utilise pas pour une panne infra (256). · **Synonymes** : « couper une feature IA en 1 clic », « désactiver proprement une IA en prod », « message utilisateurs si IA down » · **Cross-refs** : 304, 1418, 89 · **Tags** : 2027
+
+## 1627. 💰 Business case d'un agent IA : eviter l'annulation (Gartner 2027) (2027)
+
+- **Fichier** : `skills/1627-business-case-d-un-agent-ia-eviter-l-annulation-gartner-.md` · **Mot-clé** : « business case agent IA 2027 Gartner 40% annulés coût valeur POC métrique succès » · **Nom court** : BC agent IA
+- **Signal** : Écrire le business case d'un projet agent IA en 2027 pour éviter l'annulation (Gartner prévoit que plus de 40 % des projets agents seront annulés fin 2027 pour coût/valeur floue/mauvais contrôles) : périmètre étroit, métrique de succès chiffrée, coût par tâche (1491), HITL (1433), POC 4 semaines. Utilise avant de lancer un agent. N'utilise pas pour un chatbot simple. · **Synonymes** : « 40% des projets agents annulés fin 2027 (Gartner) », « POC agent 4 semaines avant scale », « coût par tâche agent vs humain » · **Cross-refs** : 1491, 1433, 1395 · **Tags** : 2027
+
+## 1634. 🎯 Agents verticaux specialises vs generalistes (2027)
+
+- **Fichier** : `skills/1634-agents-verticaux-specialises-vs-generalistes-2027.md` · **Mot-clé** : « agent vertical spécialisé vs généraliste 2027 juridique médical réglementé distillation » · **Nom court** : Agent vertical
+- **Signal** : Choisir en 2027 entre agent vertical (spécialisé juridique/médical/finance, données du domaine, réglementé AI Act) et agent généraliste (LLM + outils) : vertical = plus fiable sur son domaine, plus cher à construire (distillation 1473, RAG domaine 1477), conformité spécifique. Utilise pour un usage pro sérieux. N'utilise pas pour une tâche ponctuelle. · **Synonymes** : « agent juridique spécialisé vs ChatGPT généraliste », « domaine médical : agent vertical réglementé (AI Act) », « distillation d'un gros modèle en vertical (1473) » · **Cross-refs** : 1473, 1477, 1681 · **Tags** : 2027
+
+## 1635. 💸 Controle des couts d'agents : budget par tache et kill switch entreprise (2027)
+
+- **Fichier** : `skills/1635-controle-des-couts-d-agents-budget-par-tache-et-kill-swi.md` · **Mot-clé** : « contrôle coûts agents entreprise 2027 budget tokens par tâche alerte 80% kill switch auto » · **Nom court** : Coût agents
+- **Signal** : Contrôler les coûts des agents IA en entreprise en 2027 : budget de tokens par agent/tâche/utilisateur (1491), alertes à 80 %, kill switch automatique si dépassement (couper l'agent), cascade de modèles (1441), cache sémantique (1442). Utilise dès le premier agent en prod. N'utilise pas sans dashboard de coût (1476/1180). · **Synonymes** : « mon agent a coûté 3000€ en une nuit », « budget tokens par agent alerte à 80% », « kill switch auto si dépassement budget » · **Cross-refs** : 1491, 1441, 1442 · **Tags** : 2027
+
+## 1639. 🚀 Prompt-to-prod : de l'idee au deploiement surveille d'un agent (2027)
+
+- **Fichier** : `skills/1639-prompt-to-prod-de-l-idee-au-deploiement-surveille-d-un-a.md` · **Mot-clé** : « prompt-to-prod agent 2027 spec POC golden set canary monitoring kill switch pipeline » · **Nom court** : Prompt-to-prod
+- **Signal** : Passer d'une idée à un agent en production surveillée en 2027 : spec (1480) → POC agent (1627) → golden set (1395) → déploiement canary (1418) → monitoring trajectoires/coût (1476/1491) → kill switch (1635) → itérations. Utilise pour industrialiser les agents. N'utilise pas pour un one-shot. · **Synonymes** : « industrialiser un agent : de l'idée à la prod surveillée », « pipeline agent : POC → golden set → canary → monitoring », « kill switch + rollback automatique agent (1635) » · **Cross-refs** : 1627, 1395, 1418 · **Tags** : 2027
+
+## 1690. 📢 Produit IA conforme : transparence art. 50 des août 2026 (2027)
+
+- **Fichier** : `skills/1690-produit-ia-conforme-transparence-art-50-des-aout-2026-20.md` · **Mot-clé** : « AI Act art 50 transparence 2 août 2026 indiquer interaction IA chatbot marquage contenu généré watermarking » · **Nom court** : Transparence IA
+- **Signal** : Rendre un produit IA conforme à l'article 50 (transparence) applicable depuis le 2 août 2026 : indiquer clairement à l'utilisateur qu'il interagit avec une IA (chatbot 66, voix 288), et pour le contenu généré (texte/image/audio/vidéo) : marquage lisible + détectable (watermarking 1691, déc 2026 pour les systèmes existants). Utilise pour tout produit IA面向 utilisateurs en UE. N'utilise pas pour l'IA interne (employés informés). · **Synonymes** : « indiquer à l'utilisateur qu'il parle à une IA (art 50 », « août 2026) », « contenu généré (texte image vidéo) : marquage lisible + détectable », « watermarking obligatoire pour les systèmes existants depuis déc 2026 (1691) » · **Cross-refs** : 1681, 66, 900 · **Tags** : 2027
+
+## 1691. 🎧 Watermarking du contenu IA : C2PA et Content Credentials (2027)
+
+- **Fichier** : `skills/1691-watermarking-du-contenu-ia-c2pa-et-content-credentials-2.md` · **Mot-clé** : « watermarking C2PA Content Credentials 2027 contenu généré IA signé lisible vérifiable art 50 » · **Nom court** : Watermark C2PA
+- **Signal** : Implémenter le watermarking C2PA (Content Credentials) en 2027 : chaque contenu généré (image 139, vidéo 144, audio 154, texte) embarque des métadonnées signées (qui, quel modèle, quand, prompts) lisibles et vérifiables (C2PA verify), requis par l'AI Act art 50(2) depuis le 2 août 2026 (systèmes existants : 2 décembre 2026). Utilise pour tout générateur de contenu. N'utilise pas pour du contenu interne non publié. · **Synonymes** : « signer mes images générées (C2PA Content Credentials) 2027 », « vérifier si une image est générée par IA (C2PA verify) », « AI Act art 50(2) : watermarking obligatoire », « délai 2 déc 2026 systèmes existants » · **Cross-refs** : 1690, 561, 139 · **Tags** : 2027
+
+## 1692. 🔍 Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO 2027)
+
+- **Fichier** : `skills/1692-visibilite-dans-les-moteurs-ia-mesurer-ses-citations-llm.md` · **Mot-clé** : « GEO 2027 visibilité marque citations réponses LLM Perplexity ChatGPT Gemini mesurer taux de citation » · **Nom court** : GEO 2027
+- **Signal** : Mesurer en 2027 sa visibilité dans les réponses des moteurs IA (ChatGPT, Perplexity, Gemini, Copilot) : suivi des citations de sa marque/site dans les réponses (GEO = Generative Engine Optimization, évolution du SEO 161) — requêtes test régulières, taux de citation, sources citées, sentiment. Utilise quand la visibilité IA devient un canal d'acquisition. N'utilise pas pour le SEO classique (161/748). · **Synonymes** : « ma marque est-elle citée dans les réponses de Perplexity/ChatGPT ? (GEO) », « taux de citation de mon site dans les moteurs IA (suivi hebdo) », « GEO vs SEO 2027 : visibilité dans les réponses générées (161) » · **Cross-refs** : 612, 938, 161 · **Tags** : 2027
+
+## 1693. 📝 AEO 2027 : structurer son contenu pour être cité par les LLM (2027)
+
+- **Fichier** : `skills/1693-aeo-2027-structurer-son-contenu-pour-etre-cite-par-les-l.md` · **Mot-clé** : « AEO 2027 contenu cité par les LLM réponses directes FAQ schema.org E-E-A-T sourcé structuré » · **Nom court** : AEO 2027
+- **Signal** : Optimiser son contenu en 2027 pour être cité par les LLM (AEO = Answer Engine Optimization) : réponses directes en 2-3 phrases en tête de section, FAQ schema.org (FAQPage 161), données chiffrées sourcées (1436), E-E-A-T visible (auteurs, date, sources), structure sémantique (titres H2/H3 clairs), tableaux comparatifs. Les LLM citent les sources claires et fraîches (1692 mesure). N'utilise pas pour le SEO seul (161/748). · **Synonymes** : « être cité par ChatGPT/Perplexity : structurer son contenu (AEO 2027) », « réponse directe en 2-3 phrases en début de section (cité par les LLM) », « FAQ schema.org + E-E-A-T + sources fraîches pour les moteurs IA » · **Cross-refs** : 1692, 161, 1436 · **Tags** : 2027
+
+## 1696. ♿ Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran, 2027)
+
+- **Fichier** : `skills/1696-rendre-un-chatbot-ia-accessible-aria-live-clavier-lecteu.md` · **Mot-clé** : « chatbot IA accessible 2027 aria-live polite clavier lecteur écran contraste alternative humaine EAA » · **Nom court** : Chatbot a11y
+- **Signal** : Rendre un chatbot IA accessible en 2027 (WCAG 2.2 AA + EAA 1599) : région aria-live=polite pour les réponses (annoncées au lecteur d'écran 1619), navigation clavier complète (1571), focus géré à l'envoi, contraste 4,5:1 (1484), option 'réduire le mouvement' (1495), alternative humaine proposée (handoff 251), pas de piège clavier. Utilise pour tout chatbot面向 public. N'utilise pas pour un chatbot interne (employés formés). · **Synonymes** : « les réponses du chatbot annoncées au lecteur d'écran (aria-live polite) », « chatbot navigable au clavier seul (1571) sans piège », « proposer un humain (251) + contraste 4 », « 5:1 (1484) EAA 1599 » · **Cross-refs** : 1619, 1571, 1599 · **Tags** : 2027
 

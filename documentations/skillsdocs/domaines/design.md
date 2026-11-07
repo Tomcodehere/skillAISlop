@@ -1,4 +1,4 @@
-# Domaine : Design (82 skills)
+# Domaine : Design (86 skills)
 
 ## 64. 🧐 Critique UX d'interface
 
@@ -409,4 +409,24 @@
 
 - **Fichier** : `skills/1496-thematisation-produit-light-dark-high-contrast-2027.md` · **Mot-clé** : « dark mode light high-contrast thematisation design tokens sémantiques » · **Nom court** : Thématisation
 - **Signal** : Mettre en place la thématisation d'un produit en 2027 : thème clair/sombre (dark) via les design tokens sémantiques (pas de couleurs en dur), thème high-contrast (WCAG AAA 7:1) pour malvoyants, détection du réglage OS (prefers-color-scheme), persistance du choix utilisateur. Utilise quand on conçoit un design system (455). N'utilise pas pour un site vitrine one-page. · **Synonymes** : « dark mode produit 2027 », « high contrast WCAG AAA 7:1 », « prefers-color-scheme détecter OS » · **Cross-refs** : 455, 149, 1484 · **Tags** : 2027
+
+## 1619. ♿ Accessibilite front 2027 : ARIA 1.3, focus-visible, contraste auto (2027)
+
+- **Fichier** : `skills/1619-accessibilite-front-2027-aria-1-3-focus-visible-contrast.md` · **Mot-clé** : « accessibilité front 2027 ARIA 1.3 focus-visible prefers-contrast WCAG 2.2 » · **Nom court** : A11y front
+- **Signal** : Rendre un front accessible en 2027 (WCAG 2.2 AA + au-delà) : ARIA 1.3 (attributs nouveaux), :focus-visible (focus clavier uniquement, pas au clic), contraste automatique (prefers-contrast: more), réduction de mouvement forcée (1495), lecteurs d'écran testés (NVDA/VoiceOver). Utilise sur tout nouveau composant. N'utilise pas pour l'audit d'un existant (1308/686). · **Synonymes** : « focus clavier visible uniquement :focus-visible », « contraste automatique prefers-contrast more », « ARIA 1.3 nouveaux attributs 2027 » · **Cross-refs** : 1484, 1495, 1308 · **Tags** : 2027
+
+## 1620. 🎨 Design tokens multi-plateformes : Style Dictionary, Tokens Studio (2027)
+
+- **Fichier** : `skills/1620-design-tokens-multi-plateformes-style-dictionary-tokens-.md` · **Mot-clé** : « design tokens multi-plateformes style dictionary tokens studio JSON CSS Swift Kotlin 2027 » · **Nom court** : Design tokens
+- **Signal** : Industrialiser les design tokens en 2027 : tokens en JSON (Style Dictionary) ou Figma Tokens Studio, générés en CSS variables, Swift (iOS), Kotlin (Android), Tailwind config — une seule source, toutes les plateformes. Utilise pour un design system multi-plateforme. N'utilise pas pour un one-page. · **Synonymes** : « une source de tokens pour web iOS Android », « style dictionary génère CSS Swift Kotlin », « tokens studio synchronisé avec Figma » · **Cross-refs** : 455, 732, 1496 · **Tags** : 2027
+
+## 1694. 🎨 Tendances design web 2027 : bento grids, verre sobre, dark auto (2027)
+
+- **Fichier** : `skills/1694-tendances-design-web-2027-bento-grids-verre-sobre-dark-a.md` · **Mot-clé** : « tendances design web 2027 bento grid glassmorphism sobre dark mode auto accessibilité prioritaire » · **Nom court** : Design 2027
+- **Signal** : Appliquer les tendances design web 2027 avec sobriété (pas de mode aveugle) : bento grids (cartes modulaires), glassmorphism sobre (flou léger + bordure fine, lisible), dark mode automatique (1496) + haut contraste (1575), micro-typographie soignée, espaces généreux. Critère : lisibilité et accessibilité (1484) toujours prioritaires sur la tendance. Utilise pour un redesign UI. N'utilise pas au détriment du contraste (1484). · **Synonymes** : « bento grid pour la landing 2027 (cartes modulaires) », « glassmorphism sobre (flou léger », « bordure fine », « lisible) », « dark mode auto + haut contraste (1496/1575) tendances 2027 » · **Cross-refs** : 1496, 1484, 149 · **Tags** : 2027
+
+## 1695. 🎬 Motion design 2027 : view transitions, micro-interactions, scroll (2027)
+
+- **Fichier** : `skills/1695-motion-design-2027-view-transitions-micro-interactions-s.md` · **Mot-clé** : « motion design 2027 view transitions micro-interactions scroll-driven durées 150-300 ms prefers-reduced-motion » · **Nom court** : Motion 2027
+- **Signal** : Concevoir le motion design 2027 : View Transitions entre pages (1615), micro-interactions au hover/focus (boutons, liens), animations au scroll (scroll-driven 1610), durées courtes (150-300 ms), easing naturel (spring), respect de prefers-reduced-motion (1495) — jamais d'animation bloquante ou infinie. Utilise pour rendre l'UI vivante sans la ralentir. N'utilise pas pour masquer un chargement lent (perf d'abord 1618). · **Synonymes** : « animations au scroll natives (scroll-driven 1610) », « micro-interactions hover focus 150-300 ms easing spring », « view transitions entre pages (1615) + prefers-reduced-motion (1495) » · **Cross-refs** : 1615, 1610, 1495 · **Tags** : 2027
 

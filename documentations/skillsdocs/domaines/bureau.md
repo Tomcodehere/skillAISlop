@@ -1,4 +1,4 @@
-# Domaine : Bureau (17 skills)
+# Domaine : Bureau (18 skills)
 
 ## 14. 📽️ Créateur de présentations
 
@@ -84,4 +84,9 @@
 
 - **Fichier** : `skills/1379-gerer-une-procuration-en-ligne-2027.md` · **Mot-clé** : « procuration en ligne démarche 2027 » · **Nom court** : Procuration en ligne
 - **Signal** : Etablir ou gerer une procuration en 2027 : demarche en ligne (tele-procedure), choix du mandataire, duree et perimetre precis, revoquation. Utilise quand on ne peut pas faire une demarche soi-meme. N'utilise pas pour les actes notaries (notaire obligatoire) ni le conseil juridique personnalise. · **Synonymes** : « donner procuration en ligne », « faire une démarche à ma place », « mandat pour démarche administrative » · **Cross-refs** : 664, 955, 217 · **Tags** : 2027
+
+## 1697. ✍️ Signature électronique qualifiée eIDAS 2.0 (2027)
+
+- **Fichier** : `skills/1697-signature-electronique-qualifiee-eidas-2-0-2027.md` · **Mot-clé** : « signature électronique qualifiée eIDAS 2.0 2027 QTSP Docaposte Universign Yousign EUDI Wallet SEQ » · **Nom court** : eIDAS 2.0
+- **Signal** : Utiliser la signature électronique qualifiée (SEQ) en 2027 sous eIDAS 2.0 (réforme en vigueur progressivement 2026-2027) : niveau le plus fort (équivalent signature manuscrite) via un prestataire de confiance qualifié (QTSP : Docaposte, Universign, Yousign, Adobe Sign) + wallet européen d'identité (EUDI Wallet, déploiement 2027). Utilise pour contrats, actes, RH. N'utilise pas pour un email interne (signature simple suffit, 781). · **Synonymes** : « signature qualifiée SEQ pour un contrat (eIDAS 2.0 », « 2027) », « EUDI Wallet européen : l'identité numérique UE en 2027 », « Docaposte/Universign/Yousign : choisir un QTSP qualifié » · **Cross-refs** : 781, 16, 1087 · **Tags** : 2027
 
