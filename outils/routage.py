@@ -2279,6 +2279,11 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             num   INTEGER PRIMARY KEY,
             score REAL NOT NULL DEFAULT 0
         );
+        CREATE TABLE IF NOT EXISTS depends_on (
+            num  INTEGER NOT NULL,
+            next INTEGER NOT NULL,
+            PRIMARY KEY (num, next)
+        ) WITHOUT ROWID;
         CREATE TABLE IF NOT EXISTS tags (
             tag TEXT NOT NULL,
             num INTEGER NOT NULL,
@@ -2341,6 +2346,19 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         db.commit()
     except sqlite3.OperationalError:
         pass
+    # table depends_on (skills composables : chaîne de dépendances) et tags
+    dep = []
+    for f in sorted((RACINE / "skills").glob("*.md")):
+        import re as _re
+        fm = f.read_text(encoding="utf-8").split("---")[1]
+        num = int(_re.search(r"^num: (\d+)$", fm, _re.M).group(1))
+        md = _re.search(r"^depends_on: \[(.*)\]$", fm, _re.M)
+        if md:
+            for x in md.group(1).split(","):
+                x = x.strip()
+                if x: dep.append((num, int(x)))
+    db.executemany("INSERT OR IGNORE INTO depends_on VALUES (?,?)", dep)
+    db.commit()
     # table cross_refs (bonus de classement) et tags (filtre optionnel)
     xr, tg = [], []
     for f in sorted((RACINE / "skills").glob("*.md")):
@@ -2782,6 +2800,15 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
             pass
     candidats = ([res["direct"]] if res["direct"] else []) + res.get("fusion") \
         or ([res["direct"]] if res["direct"] else []) + res["exact"] + res["fts"] + res["vec"] + res["flou"]
+    # chaîne de skills composables : si le gagnant a des depends_on, les proposer ensuite
+    if candidats:
+        try:
+            nxt = [r["next"] for r in db.execute("SELECT next FROM depends_on WHERE num=? ORDER BY next", (candidats[0]["num"],))]
+            if nxt:
+                noms = {r["num"]: r["nom"] for r in db.execute("SELECT num, nom FROM skills WHERE num IN (%s)" % ",".join(map(str, nxt)))}
+                res["chaine"] = [{"num": n, "nom": noms.get(n, "")} for n in nxt]
+        except sqlite3.OperationalError:
+            pass
     pistes_vec = any(p["voie"] == "piste-vec" for p in res["pistes"])
     code = 0 if candidats else (1 if (res["domaines"] or pistes_vec) else 2)
     if code == 2:
@@ -2805,6 +2832,8 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
         d = res["direct"]
         print(f"◆ Skill {d['num']} · {d['nom']} · [{d['domaine']}]")
         print(f"  ↳ renvoi direct — signal : {d['signal']}")
+    if res.get("chaine"):
+        print("  ↳ ensuite : " + " → ".join(f"skill {c['num']} ({c['nom']})" for c in res["chaine"]))
     for r in res["exact"]:
         print(f"◆ Skill {r['num']} · {r['nom']} · [{r['domaine']}]")
         print(f"  ↳ {r['voie']} « {r['cible']} » — signal : {r['signal']}")
@@ -3531,6 +3560,44 @@ def cmd_serve(host: str, port: int) -> int:
     return 0
 
 
+def cmd_evals(num: int | None = None) -> int:
+    """Eval par skill : exécute TESTS_ROUTAGE et rapporte couverture + score par skill.
+    Score /100 = % de tests de la skill passés (ou 100 si aucun test)."""
+    import sqlite3 as _sq
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = _sq.connect(DB_PATH); db.row_factory = _sq.Row
+    db.execute("PRAGMA cache_size=-8000")
+    charger_vec(db)
+    par_skill = {}
+    ok_total = 0
+    for demande, attendu in TESTS_ROUTAGE:
+        if num is not None and attendu != num: continue
+        res = chercher(db, demande, 5)
+        candidats = [res["direct"]] if res["direct"] else res["exact"] + res["fts"] + res["vec"] + res["flou"] + res["fusion"]
+        ok = attendu in [c["num"] for c in candidats if c]
+        if attendu is None: continue
+        par_skill.setdefault(attendu, [0, 0])
+        par_skill[attendu][1] += 1
+        if ok: par_skill[attendu][0] += 1; ok_total += 1
+    lignes = []
+    for n in sorted(par_skill):
+        ok, tot = par_skill[n]
+        score = round(ok / tot * 100) if tot else 100
+        nom = db.execute("SELECT nom FROM skills WHERE num=?", (n,)).fetchone()
+        lignes.append((score, n, nom["nom"] if nom else "?", ok, tot))
+    lignes.sort()
+    total_tests = sum(t for _, _, _, _, t in lignes)
+    print(f"evals : {ok_total}/{total_tests} tests OK · {len(lignes)} skills couvertes · moyenne {sum(s for s,*_ in lignes)/len(lignes):.1f}/100")
+    if num is not None:
+        for s, n, nom, ok, tot in lignes:
+            if n == num: print(f"  skill {n} « {nom} » : {ok}/{tot} = {s}/100")
+        return 0
+    for s, n, nom, ok, tot in lignes[:15]:
+        print(f"  {s:3d}/100  #{n} {nom[:45]}  ({ok}/{tot})")
+    return 0
+
+
 def cmd_top(n: int) -> int:
     """Affiche le top-N des skills les plus routées (table popularite)."""
     import sqlite3 as _sq
@@ -3704,6 +3771,8 @@ def main():
     p_sm = sub.add_parser("skillmd", help="génère un dossier de SKILL.md (standard Agent Skills) depuis skills/*.md")
     p_sm.add_argument("--sortie", type=Path, default=RACINE / "data" / "agent-skills")
     sub.add_parser("top", help="top-N des skills les plus utilisées (popularité)").add_argument("--n", type=int, default=20)
+    p_ev = sub.add_parser("evals", help="exécute les tests de routage et score la couverture par skill (evals)")
+    p_ev.add_argument("--num", type=int, help="une seule skill")
     p_srv = sub.add_parser("serve", help="mini API HTTP locale (127.0.0.1 uniquement) : /route?q= /skills /export.json /health")
     p_srv.add_argument("--port", type=int, default=8765)
     p_srv.add_argument("--host", default="127.0.0.1")
@@ -3753,6 +3822,8 @@ def main():
         raise SystemExit(cmd_pack(args.sortie, args.check))
     elif args.cmd == "skillmd":
         raise SystemExit(cmd_skillmd(args.sortie))
+    elif args.cmd == "evals":
+        raise SystemExit(cmd_evals(getattr(args, "num", None)))
     elif args.cmd == "top":
         raise SystemExit(cmd_top(args.n))
     elif args.cmd == "serve":

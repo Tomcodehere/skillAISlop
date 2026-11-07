@@ -27,7 +27,7 @@ nom_court: "Nom court"
 branche: "Dxx"
 synonymes: ["syn1", "syn2"]
 cross_refs: [12, 34]
-# optionnels : allowed-tools · disable-model-invocation · metadata: {version: "13.0.0"} · evals · tags: ["2027"] (filtre route --tag, table indexée)
+# optionnels : allowed-tools · disable-model-invocation · metadata: {version: "13.0.0"} · evals · tags: ["2027"] · evals: "TESTS_ROUTAGE#NNN" (score par skill, commande evals) · depends_on: [999] (chaîne de skills composables, affichée après le gagnant)
 ---
 
 ## NNN. <emoji> <Nom>

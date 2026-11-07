@@ -10,6 +10,7 @@ branche: "D26"
 synonymes: ["agent voyage ia"]
 cross_refs: [656, 993]
 tags: ["2027"]
+depends_on: [993]
 ---
 
 ## 1323. 🧳 Organisateur de voyage IA (2027)

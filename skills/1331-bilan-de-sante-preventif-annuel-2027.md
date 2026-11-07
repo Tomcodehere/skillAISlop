@@ -10,6 +10,7 @@ branche: "D27"
 synonymes: ["check-up annuel"]
 cross_refs: [975, 917]
 tags: ["2027"]
+depends_on: [1332]
 ---
 
 ## 1331. 🩺 Bilan de santé préventif annuel (2027)

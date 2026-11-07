@@ -10,6 +10,7 @@ branche: "D26"
 synonymes: ["preparation repas semaine"]
 cross_refs: [1313, 216]
 tags: ["2027"]
+depends_on: [1328]
 ---
 
 ## 1314. 🥘 Batch cooking & robot de cuisine (2027)

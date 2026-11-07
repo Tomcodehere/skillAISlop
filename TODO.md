@@ -41,3 +41,5 @@ type: "text/markdown"
 - [ ] Utiliser templateSkills.md du repo cloné tvprodel/SkillsAI (/workspace/github__tvprodel__SkillsAI, 313 *.skill.md, 13 sections standard) pour mettre à jour tous les fichiers agents de ce projet vers le template standard (Objectif, Triggers, Hors périmètre, Inputs, Sorties, Workflow, Garde-fous, Templates, QA, KPI, DoD, Exemples, Sources)
 
 - [ ] Appliquer TEMPLATE-v2 à la vague 14 : maj catalogue/template.md + R2/regles.md + lint spec en CI + migrate_template.py --fix sur les skills existantes
+
+- [ ] Multilingue EN : champ lang dans le frontmatter (fr/en), table lang(num,lang), filtre route --lang en, vague EN (traduction ou rédaction) — catalogue actuellement 100 % FR (1351 skills, 4,09 Mo)

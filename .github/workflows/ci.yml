@@ -41,6 +41,10 @@ jobs:
           canvas/corpus-skills-1201-1500.md
           canvas/corpus-skills-1501-1800.md
 
+      - name: Evals par skill (rapport, non bloquant)
+        run: python3 outils/routage.py evals
+        continue-on-error: true
+
       - name: Score qualité /100 (rapport + seuil 90)
         run: python3 outils/score_skills.py --rapport documentations/skillsdocs/scores.md
 
