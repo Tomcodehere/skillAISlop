@@ -2275,6 +2275,10 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             num  INTEGER PRIMARY KEY,
             refs TEXT NOT NULL DEFAULT ''
         );
+        CREATE TABLE IF NOT EXISTS popularite (
+            num   INTEGER PRIMARY KEY,
+            score REAL NOT NULL DEFAULT 0
+        );
         CREATE TABLE IF NOT EXISTS tags (
             tag TEXT NOT NULL,
             num INTEGER NOT NULL,
@@ -2324,6 +2328,17 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         for syn in syns:
             assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
             db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?)", (syn, num))
+    # popularité : top-N des skills les plus routées (table routes), sert de bonus de classement
+    # et de cache chaud. Recalculée à chaque build si la table routes existe.
+    try:
+        rows = db.execute(
+            "SELECT num, COUNT(*) c, SUM(CASE WHEN code=0 THEN 1 ELSE 0 END) ok "
+            "FROM routes GROUP BY num").fetchall()
+        db.executemany("INSERT OR REPLACE INTO popularite VALUES (?,?)",
+                       [(r["num"], round(r["ok"] * 1.0 + r["c"] * 0.1, 3)) for r in rows])
+        db.commit()
+    except sqlite3.OperationalError:
+        pass
     # table cross_refs (bonus de classement) et tags (filtre optionnel)
     xr, tg = [], []
     for f in sorted((RACINE / "skills").glob("*.md")):
@@ -2667,6 +2682,17 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                                         "mots": sorted(commun)[:4]})
         res["domaines"] = sorted(res["domaines"],
                                  key=lambda x: -len(x["mots"]))[:3]
+
+    # 4b) bonus popularité : les skills du top-N (les plus utilisées) gagnent un léger bonus
+    try:
+        top_pop = {r["num"] for r in db.execute(
+            "SELECT num FROM popularite ORDER BY score DESC LIMIT 20")}
+        for c in (res["exact"] + res["fts"] + res["vec"] + res["flou"] + res["pistes"]):
+            if c["num"] in top_pop and "score" in c:
+                c["score"] = round(c["score"] + 0.05, 3)
+                c["bonus_pop"] = 0.05
+    except sqlite3.OperationalError:
+        pass
 
     # 5) bonus cross-ref : un candidat référencé par un autre candidat bien placé gagne un bonus
     tous = res["exact"] + res["fts"] + res["vec"] + res["flou"] + res["pistes"]
@@ -3477,6 +3503,23 @@ def cmd_serve(host: str, port: int) -> int:
     return 0
 
 
+def cmd_top(n: int) -> int:
+    """Affiche le top-N des skills les plus routées (table popularite)."""
+    import sqlite3 as _sq
+    if not DB_PATH.exists():
+        raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
+    db = _sq.connect(DB_PATH); db.row_factory = _sq.Row
+    try:
+        rows = db.execute(
+            "SELECT p.num, p.score, s.nom, s.domaine FROM popularite p "
+            "JOIN skills s ON s.num = p.num ORDER BY p.score DESC LIMIT ?", (n,)).fetchall()
+    except _sq.OperationalError:
+        print("table popularite absente — aucune session enregistrée"); return 1
+    for r in rows:
+        print(f"{r['score']:6.1f}  #{r['num']}  {r['nom']}  [{r['domaine']}]")
+    return 0
+
+
 def cmd_vocab(limit: int = 30) -> int:
     if not DB_PATH.exists():
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
@@ -3632,6 +3675,7 @@ def main():
     p_pack.add_argument("--check", action="store_true", help="vérifie le pack : extrait, rebuild --from-skills, compare les tables")
     p_sm = sub.add_parser("skillmd", help="génère un dossier de SKILL.md (standard Agent Skills) depuis skills/*.md")
     p_sm.add_argument("--sortie", type=Path, default=RACINE / "data" / "agent-skills")
+    sub.add_parser("top", help="top-N des skills les plus utilisées (popularité)").add_argument("--n", type=int, default=20)
     p_srv = sub.add_parser("serve", help="mini API HTTP locale (127.0.0.1 uniquement) : /route?q= /skills /export.json /health")
     p_srv.add_argument("--port", type=int, default=8765)
     p_srv.add_argument("--host", default="127.0.0.1")
@@ -3681,6 +3725,8 @@ def main():
         raise SystemExit(cmd_pack(args.sortie, args.check))
     elif args.cmd == "skillmd":
         raise SystemExit(cmd_skillmd(args.sortie))
+    elif args.cmd == "top":
+        raise SystemExit(cmd_top(args.n))
     elif args.cmd == "serve":
         raise SystemExit(cmd_serve(args.host, args.port))
     elif args.cmd == "bench":

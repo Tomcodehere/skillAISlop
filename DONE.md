@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Index popularité (top-20) : table popularite calculée au build depuis routes + bonus +0,05 au classement + commande top — template/scripts/docs MAJ pour tags+bonus — 649/649 tests, audit 100 %, pack FIDÈLE
+
 - [x] **2026-11-07** — 3 optimisations routage : bonus cross-ref dans le classement (+0,10 si lié à un top candidat), champ tags optionnel + table indexée + route --tag (551 skills taguées 2027), vec dim 128→64 — audit 1350/1350 (100 %), 649/649 tests, sonde 100 %, pack FIDÈLE, route 11,3 ms
 
 - [x] **2026-11-07** — Nouveau script outils/score_skills.py : score qualité /100 par skill (frontmatter, 12 sections, suffisance de contenu, cross-ref, unicité, spec) — moyenne 99.9/100, 1347 skills >= 90 — + étape CI + 3 signaux vides corrigés (1025/1026/1196)

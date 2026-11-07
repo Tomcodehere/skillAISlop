@@ -27,7 +27,7 @@ nom_court: "Nom court"
 branche: "Dxx"
 synonymes: ["syn1", "syn2"]
 cross_refs: [12, 34]
-# optionnels : allowed-tools · disable-model-invocation · metadata: {version: "13.0.0"} · evals
+# optionnels : allowed-tools · disable-model-invocation · metadata: {version: "13.0.0"} · evals · tags: ["2027"] (filtre route --tag, table indexée)
 ---
 
 ## NNN. <emoji> <Nom>
@@ -73,3 +73,7 @@ Contraintes/triggers/garde-fous **en tête** (primacy), workflow au milieu, exem
 ## Migration
 
 `python3 outils/migrate_template.py` (audit) / `--fix` (insère les placeholders) / `--rapport …` — rapport actuel : `migration-v2.md` (1000 skills à migrer, 7 sections manquantes partout).
+
+## Bonus de classement (routeur)
+
+Deux bonus s'appliquent au score des candidats : **+0,10 cross-ref** (candidat lié à un top candidat) et **+0,05 popularité** (skill dans le top-20 des plus utilisées, table `popularite` calculée au build depuis `routes`). Le champ `tags` reste optionnel et sert uniquement au pré-filtre `route --tag`.

@@ -23,6 +23,7 @@ for f in sorted((RACINE / "skills").glob("*.md")):
         domaine=g("domaine"), signal=g("signal"), mot_cle=g("mot_cle"), nom_court=g("nom_court"),
         syns=[s.strip().strip('"') for s in re.search(r'^synonymes: \[(.*)\]$', fm, re.M).group(1).split(",") if s.strip()],
         refs=[int(x) for x in re.search(r'^cross_refs: \[(.*)\]$', fm, re.M).group(1).split(",") if x.strip()],
+        tags=[s.strip().strip('"') for s in re.search(r'^tags: \[(.*)\]$', fm, re.M).group(1).split(",") if s.strip()] if re.search(r'^tags:', fm, re.M) else [],
         fichier=f.name))
 skills.sort(key=lambda s: s["num"])
 refs = []
@@ -52,8 +53,9 @@ for d, ss in sorted(dom.items()):
     for s in ss:
         refs_l = ", ".join(str(r) for r in s["refs"]) or "—"
         syns = ", ".join(f"« {x} »" for x in s["syns"]) or "—"
+        tags_l = ", ".join(s.get("tags", [])) or "—"
         L += [f"## {s['num']}. {s['emoji']} {s['nom']}", "",
               f"- **Fichier** : `skills/{s['fichier']}` · **Mot-clé** : « {s['mot_cle']} » · **Nom court** : {s['nom_court']}",
-              f"- **Signal** : {s['signal']} · **Synonymes** : {syns} · **Cross-refs** : {refs_l}", ""]
+              f"- **Signal** : {s['signal']} · **Synonymes** : {syns} · **Cross-refs** : {refs_l} · **Tags** : {tags_l}", ""]
     (OUT / "domaines" / f"{slug(d)}.md").write_text("\n".join(L) + "\n", encoding="utf-8")
 print(f"✅ {OUT} : {len(skills)} skills, {len(dom)} domaines, {len(refs)} références")

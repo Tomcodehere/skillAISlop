@@ -35,6 +35,7 @@ SECTIONS_V2 = [
     ("Definition of done", r"^\*\*Definition of done\*\*", "**Definition of done** :\n- [ ] <critère mesurable — à compléter>"),
 ]
 FRONTMATTER = ["num", "nom", "emoji", "domaine", "signal", "mot_cle", "nom_court", "branche", "synonymes", "cross_refs"]
+# "tags" est optionnel (filtre route --tag) — non requis par l'audit
 
 def auditer(txt: str):
     fm = re.match(r"---\n(.*?)\n---", txt, re.S)
