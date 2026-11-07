@@ -8,7 +8,7 @@ mot_cle: "scorer de leads"
 nom_court: "Leads"
 branche: "D21"
 synonymes: []
-cross_refs: [54, 106]
+cross_refs: [54, 106, 780]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

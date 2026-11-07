@@ -8,7 +8,8 @@ mot_cle: "sécurité physique"
 nom_court: "Sécurité physique"
 branche: "D23"
 synonymes: []
-cross_refs: [435, 439]
+cross_refs: [435, 439, 197]
+depends_on: [197]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

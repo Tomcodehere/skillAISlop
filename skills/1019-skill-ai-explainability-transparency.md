@@ -8,7 +8,7 @@ mot_cle: "skill-ai-explainability-transparency"
 nom_court: "Skill: AI Explainability & Tra"
 branche: "D25"
 synonymes: ["evaluer", "opacite", "explicabilite"]
-cross_refs: [1054]
+cross_refs: [1054, 1127, 1119]
 tags: ["2027"]
 ---
 

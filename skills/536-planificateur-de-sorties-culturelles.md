@@ -8,7 +8,8 @@ mot_cle: "sorties culturelles"
 nom_court: "Sorties culturelles"
 branche: "D27"
 synonymes: ["concert", "exposition"]
-cross_refs: [42, 569]
+cross_refs: [42, 569, 568]
+depends_on: [568]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

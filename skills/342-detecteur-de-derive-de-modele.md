@@ -9,6 +9,7 @@ nom_court: "Dérive modèle"
 branche: "D14"
 synonymes: []
 cross_refs: [93, 338, 342]
+depends_on: [337]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

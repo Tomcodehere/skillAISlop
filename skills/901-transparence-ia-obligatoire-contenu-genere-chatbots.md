@@ -8,7 +8,7 @@ mot_cle: "étiquetage contenu ia"
 nom_court: "Étiquetage IA"
 branche: "D29"
 synonymes: ["contenu généré par ia obligatoire"]
-cross_refs: [900, 561]
+cross_refs: [900, 561, 389]
 tags: ["2027"]
 ---
 

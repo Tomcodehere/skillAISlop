@@ -8,7 +8,8 @@ mot_cle: "personas clients"
 nom_court: "Personas"
 branche: "D20"
 synonymes: ["client idéal"]
-cross_refs: [33, 175]
+cross_refs: [33, 175, 373]
+depends_on: [33]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

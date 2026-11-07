@@ -8,8 +8,9 @@ mot_cle: "plan d'urgence maison"
 nom_court: "Plan urgence"
 branche: "D26"
 synonymes: ["numéros d'urgence"]
-cross_refs: [477, 754]
+cross_refs: [477, 754, 1335]
 tags: ["2027"]
+depends_on: [477]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

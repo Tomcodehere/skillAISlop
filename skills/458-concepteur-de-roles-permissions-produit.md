@@ -8,7 +8,8 @@ mot_cle: "rôles & permissions produit"
 nom_court: "Rôles produit"
 branche: "D22"
 synonymes: []
-cross_refs: [434, 447]
+cross_refs: [434, 447, 735]
+depends_on: [735]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

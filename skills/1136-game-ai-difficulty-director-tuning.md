@@ -8,8 +8,9 @@ mot_cle: "game-ai-difficulty-director-tuning"
 nom_court: "Game AI Difficulty & Director"
 branche: "D22"
 synonymes: ["demande", "portant", "difficulty"]
-cross_refs: [732]
+cross_refs: [732, 1137, 1135]
 tags: ["2027"]
+depends_on: [1137]
 ---
 
 ## 1136. 🎨 Game AI Difficulty & Director Tuning

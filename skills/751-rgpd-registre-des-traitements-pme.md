@@ -8,7 +8,8 @@ mot_cle: "conformité rgpd"
 nom_court: "Conformité RGPD"
 branche: "D23"
 synonymes: ["registre des traitements"]
-cross_refs: [190, 695]
+cross_refs: [190, 695, 196]
+depends_on: [196]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

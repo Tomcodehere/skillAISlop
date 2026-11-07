@@ -8,7 +8,7 @@ mot_cle: "relation investisseurs"
 nom_court: "Relation investisseurs"
 branche: "D25"
 synonymes: ["board meeting"]
-cross_refs: [376, 438]
+cross_refs: [376, 438, 172]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

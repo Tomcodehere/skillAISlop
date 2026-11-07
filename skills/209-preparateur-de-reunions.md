@@ -8,7 +8,8 @@ mot_cle: "réunions"
 nom_court: "Réunions"
 branche: "D25"
 synonymes: ["organiser une réunion", "préparer une réunion", "réunion"]
-cross_refs: [24, 72]
+cross_refs: [24, 72, 643]
+depends_on: [285]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

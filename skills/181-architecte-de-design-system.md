@@ -8,7 +8,8 @@ mot_cle: "design system"
 nom_court: "Design system"
 branche: "D22"
 synonymes: []
-cross_refs: [81, 149]
+cross_refs: [81, 149, 732]
+depends_on: [732]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

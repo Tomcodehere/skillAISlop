@@ -8,8 +8,9 @@ mot_cle: "application-diagnostics-troubleshooting"
 nom_court: "Application Diagnostics & Trou"
 branche: "D1"
 synonymes: ["demarre", "erreur", "gitlab"]
-cross_refs: [1270]
+cross_refs: [1270, 1117, 1063]
 tags: ["2027"]
+depends_on: [1117]
 ---
 
 ## 1032. 💻 Application Diagnostics & Troubleshooting

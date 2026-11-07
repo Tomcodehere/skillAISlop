@@ -8,8 +8,9 @@ mot_cle: "séminaire entreprise 2027"
 nom_court: "Séminaire"
 branche: "D25"
 synonymes: ["team building 2027"]
-cross_refs: [877, 972]
+cross_refs: [877, 972, 891]
 tags: ["2027"]
+depends_on: [891]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

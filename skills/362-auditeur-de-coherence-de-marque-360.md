@@ -8,7 +8,8 @@ mot_cle: "cohérence de marque 360"
 nom_court: "Marque 360"
 branche: "D20"
 synonymes: []
-cross_refs: [34, 399]
+cross_refs: [34, 399, 159]
+depends_on: [34]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

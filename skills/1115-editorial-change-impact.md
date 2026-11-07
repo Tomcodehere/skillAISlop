@@ -8,7 +8,7 @@ mot_cle: "editorial-change-impact"
 nom_court: "Editorial Change Impact"
 branche: "D15"
 synonymes: ["demande", "portant", "editorial"]
-cross_refs: [384]
+cross_refs: [384, 135, 1286]
 tags: ["2027"]
 ---
 

@@ -8,8 +8,9 @@ mot_cle: "entretien visio"
 nom_court: "Entretien visio"
 branche: "D6"
 synonymes: ["entretien en ligne"]
-cross_refs: [849, 697]
+cross_refs: [849, 697, 968]
 tags: ["2027"]
+depends_on: [697]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

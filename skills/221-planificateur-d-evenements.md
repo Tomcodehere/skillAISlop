@@ -8,7 +8,7 @@ mot_cle: "événements"
 nom_court: "Événements"
 branche: "D26"
 synonymes: []
-cross_refs: [75, 136]
+cross_refs: [75, 136, 186]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

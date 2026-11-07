@@ -8,8 +8,9 @@ mot_cle: "démarches ants en ligne"
 nom_court: "ANTS en ligne"
 branche: "D25"
 synonymes: ["carte grise en ligne"]
-cross_refs: [664, 471]
+cross_refs: [664, 471, 217]
 tags: ["2027"]
+depends_on: [664]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

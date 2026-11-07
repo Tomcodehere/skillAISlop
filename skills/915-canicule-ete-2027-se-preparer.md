@@ -8,7 +8,7 @@ mot_cle: "canicule 2027"
 nom_court: "Canicule 2027"
 branche: "D26"
 synonymes: ["vague de chaleur 2027"]
-cross_refs: [859, 814]
+cross_refs: [859, 814, 1335]
 tags: ["2027"]
 ---
 

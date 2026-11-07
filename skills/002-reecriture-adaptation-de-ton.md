@@ -8,7 +8,7 @@ mot_cle: "réécriture & adaptation de ton"
 nom_court: ""
 branche: "K"
 synonymes: []
-cross_refs: [8, 30]
+cross_refs: [8, 30, 1187]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

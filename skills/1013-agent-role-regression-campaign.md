@@ -8,7 +8,7 @@ mot_cle: "agent-role-regression-campaign"
 nom_court: "Agent Role Regression Campaign"
 branche: "D25"
 synonymes: ["demande", "portant", "regression"]
-cross_refs: [1054]
+cross_refs: [1054, 939, 335]
 tags: ["2027"]
 ---
 

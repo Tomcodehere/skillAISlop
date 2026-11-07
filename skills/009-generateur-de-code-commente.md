@@ -8,8 +8,9 @@ mot_cle: "code commenté"
 nom_court: ""
 branche: "K"
 synonymes: []
-cross_refs: [10, 21]
+cross_refs: [10, 21, 83]
 tags: ["aihero:implement"]
+depends_on: [83]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

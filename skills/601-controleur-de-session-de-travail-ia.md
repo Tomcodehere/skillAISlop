@@ -8,7 +8,8 @@ mot_cle: "revue de session"
 nom_court: "Revue session"
 branche: "D14"
 synonymes: ["revue de session", "session"]
-cross_refs: [178, 251]
+cross_refs: [178, 251, 807]
+depends_on: [251]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "corporate-litigation-risk-management"
 nom_court: "Corporate & Litigation Risk Ma"
 branche: "D22"
 synonymes: ["constitution", "societe", "redaction"]
-cross_refs: [1070]
+cross_refs: [1070, 555, 759]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "audits internes"
 nom_court: "Audits internes"
 branche: "D16"
 synonymes: []
-cross_refs: [50, 199]
+cross_refs: [50, 199, 113]
+depends_on: [113]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

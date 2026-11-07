@@ -8,8 +8,9 @@ mot_cle: "remboursement anticipé"
 nom_court: "Remb. anticipé"
 branche: "D29"
 synonymes: ["rachat de crédit"]
-cross_refs: [298, 833]
+cross_refs: [298, 833, 966]
 tags: ["2027"]
+depends_on: [966]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

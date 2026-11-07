@@ -8,7 +8,8 @@ mot_cle: "seo technique"
 nom_court: "SEO technique"
 branche: "D20"
 synonymes: ["core web vitals"]
-cross_refs: [161, 253]
+cross_refs: [161, 253, 151]
+depends_on: [161]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

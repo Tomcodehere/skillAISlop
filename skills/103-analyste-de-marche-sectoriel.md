@@ -8,7 +8,8 @@ mot_cle: "marché sectoriel"
 nom_court: "Marché"
 branche: "D17"
 synonymes: []
-cross_refs: [32, 57]
+cross_refs: [32, 57, 613]
+depends_on: [613]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

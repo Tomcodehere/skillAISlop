@@ -8,7 +8,7 @@ mot_cle: "programmes de fidélité"
 nom_court: "Fidélité"
 branche: "D20"
 synonymes: []
-cross_refs: [106, 169]
+cross_refs: [106, 169, 411]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

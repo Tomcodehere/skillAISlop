@@ -8,7 +8,7 @@ mot_cle: "web3 & defi"
 nom_court: "Web3"
 branche: "D29"
 synonymes: ["nft", "wallet", "web3"]
-cross_refs: [247, 512]
+cross_refs: [247, 512, 119]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

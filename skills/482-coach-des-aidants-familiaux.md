@@ -8,7 +8,7 @@ mot_cle: "aidants familiaux"
 nom_court: "Aidants"
 branche: "D26"
 synonymes: ["aidant", "parent age"]
-cross_refs: [481, 483]
+cross_refs: [481, 483, 520]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

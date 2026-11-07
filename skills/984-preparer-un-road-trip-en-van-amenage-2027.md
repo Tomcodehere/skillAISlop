@@ -8,8 +8,9 @@ mot_cle: "road trip van 2027"
 nom_court: "Van 2027"
 branche: "D26"
 synonymes: ["van aménagé 2027"]
-cross_refs: [865, 914]
+cross_refs: [865, 914, 995]
 tags: ["2027"]
+depends_on: [995]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

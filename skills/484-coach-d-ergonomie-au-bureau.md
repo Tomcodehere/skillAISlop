@@ -8,7 +8,8 @@ mot_cle: "ergonomie au bureau"
 nom_court: "Ergonomie"
 branche: "D26"
 synonymes: []
-cross_refs: [485, 489]
+cross_refs: [485, 489, 970]
+depends_on: [970]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

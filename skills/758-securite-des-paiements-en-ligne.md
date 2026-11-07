@@ -8,7 +8,8 @@ mot_cle: "paiement en ligne"
 nom_court: "Paiement en ligne"
 branche: "D23"
 synonymes: ["3-d secure"]
-cross_refs: [685, 530]
+cross_refs: [685, 530, 871]
+depends_on: [871]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "code-architecture-trace-documentation"
 nom_court: "Code Architecture Trace Docume"
 branche: "D1"
 synonymes: ["demande", "portant", "architecture"]
-cross_refs: [1142]
+cross_refs: [1142, 1275, 1112]
 tags: ["2027"]
+depends_on: [1275]
 ---
 
 ## 1075. 💻 Code Architecture Trace Documentation

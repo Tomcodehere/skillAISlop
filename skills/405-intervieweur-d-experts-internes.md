@@ -8,7 +8,7 @@ mot_cle: "experts internes"
 nom_court: "Experts internes"
 branche: "D25"
 synonymes: []
-cross_refs: [388, 426]
+cross_refs: [388, 426, 243]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

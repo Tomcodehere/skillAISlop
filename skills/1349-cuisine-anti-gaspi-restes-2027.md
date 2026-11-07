@@ -8,7 +8,7 @@ mot_cle: "anti-gaspi cuisine"
 nom_court: "Anti-gaspi"
 branche: "D26"
 synonymes: ["cuisiner les restes"]
-cross_refs: [1328, 1314]
+cross_refs: [1328, 1314, 566]
 tags: ["2027"]
 depends_on: [1328]
 ---

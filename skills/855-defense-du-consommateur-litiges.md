@@ -8,8 +8,9 @@ mot_cle: "litige consommateur"
 nom_court: "Défense conso"
 branche: "D29"
 synonymes: ["médiation consommation"]
-cross_refs: [850, 649]
+cross_refs: [850, 649, 529]
 tags: ["2027"]
+depends_on: [529]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

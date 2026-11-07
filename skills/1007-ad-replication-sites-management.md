@@ -8,7 +8,7 @@ mot_cle: "ad-replication-sites-management"
 nom_court: "AD Replication & Sites Managem"
 branche: "D24"
 synonymes: ["replication", "cassee", "troubleshooting"]
-cross_refs: [902]
+cross_refs: [902, 1004, 1005]
 tags: ["2027"]
 ---
 

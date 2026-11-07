@@ -8,7 +8,8 @@ mot_cle: "conflit collègues"
 nom_court: "Médiation interne"
 branche: "D25"
 synonymes: ["désamorcer une tension"]
-cross_refs: [46, 636]
+cross_refs: [46, 636, 971]
+depends_on: [971]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

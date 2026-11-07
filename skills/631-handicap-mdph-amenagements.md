@@ -8,7 +8,8 @@ mot_cle: "mdph"
 nom_court: "MDPH"
 branche: "D26"
 synonymes: ["aménagement logement"]
-cross_refs: [581, 16]
+cross_refs: [581, 16, 630]
+depends_on: [630]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

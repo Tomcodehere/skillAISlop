@@ -8,7 +8,8 @@ mot_cle: "testeur e2e navigateur"
 nom_court: "E2E"
 branche: "D16"
 synonymes: []
-cross_refs: [82, 178]
+cross_refs: [82, 178, 803]
+depends_on: [803]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

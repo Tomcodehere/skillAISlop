@@ -8,7 +8,8 @@ mot_cle: "batch cooking"
 nom_court: "Batch cooking"
 branche: "D26"
 synonymes: ["batchcooking", "meal prep"]
-cross_refs: [478, 489]
+cross_refs: [478, 489, 1314]
+depends_on: [1314]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

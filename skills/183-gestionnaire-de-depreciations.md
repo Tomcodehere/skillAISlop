@@ -8,7 +8,7 @@ mot_cle: "dépréciations"
 nom_court: "Dépréciation"
 branche: "D22"
 synonymes: []
-cross_refs: [129, 176]
+cross_refs: [129, 176, 459]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

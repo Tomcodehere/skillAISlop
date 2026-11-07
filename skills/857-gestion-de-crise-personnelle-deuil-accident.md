@@ -8,7 +8,7 @@ mot_cle: "crise personnelle"
 nom_court: "Crise perso"
 branche: "D26"
 synonymes: ["démarches après décès"]
-cross_refs: [651, 617]
+cross_refs: [651, 617, 235]
 tags: ["2027"]
 ---
 

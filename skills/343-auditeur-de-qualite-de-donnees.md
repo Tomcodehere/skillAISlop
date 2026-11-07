@@ -8,7 +8,8 @@ mot_cle: "qualité de données"
 nom_court: "Qualité données"
 branche: "D15"
 synonymes: []
-cross_refs: [92, 349]
+cross_refs: [92, 349, 95]
+depends_on: [95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

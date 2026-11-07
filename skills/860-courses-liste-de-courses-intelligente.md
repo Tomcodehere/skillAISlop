@@ -8,8 +8,9 @@ mot_cle: "liste de courses"
 nom_court: "Courses"
 branche: "D26"
 synonymes: ["anti gaspi"]
-cross_refs: [541, 486]
+cross_refs: [541, 486, 1328]
 tags: ["2027"]
+depends_on: [1328]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

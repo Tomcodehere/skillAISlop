@@ -8,7 +8,7 @@ mot_cle: "mobilité interne"
 nom_court: "Mobilité"
 branche: "D24"
 synonymes: ["mobilite interne", "mutation"]
-cross_refs: [407, 409]
+cross_refs: [407, 409, 997]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

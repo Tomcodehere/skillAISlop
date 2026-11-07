@@ -8,7 +8,8 @@ mot_cle: "routines d'agents"
 nom_court: "Routines agents"
 branche: "D14"
 synonymes: []
-cross_refs: [71, 224]
+cross_refs: [71, 224, 330]
+depends_on: [330]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "planificateur de projet"
 nom_court: ""
 branche: "K"
 synonymes: []
-cross_refs: [19]
+cross_refs: [19, 425, 794]
+depends_on: [425]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

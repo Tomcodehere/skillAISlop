@@ -8,7 +8,8 @@ mot_cle: "publication mobile"
 nom_court: "Publication mobile"
 branche: "D16"
 synonymes: ["app store", "google play"]
-cross_refs: [82, 525]
+cross_refs: [82, 525, 456]
+depends_on: [525]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

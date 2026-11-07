@@ -8,7 +8,8 @@ mot_cle: "système de lecture personnel"
 nom_court: "Système lecture"
 branche: "D25"
 synonymes: []
-cross_refs: [494, 498]
+cross_refs: [494, 498, 468]
+depends_on: [468]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

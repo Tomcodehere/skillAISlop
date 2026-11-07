@@ -8,8 +8,9 @@ mot_cle: "dispute avec un collègue"
 nom_court: "Conflit collègues"
 branche: "D25"
 synonymes: ["dispute au travail"]
-cross_refs: [762, 649]
+cross_refs: [762, 649, 890]
 tags: ["2027"]
+depends_on: [762]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

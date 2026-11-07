@@ -8,7 +8,7 @@ mot_cle: "relancer"
 nom_court: "Relance"
 branche: "D25"
 synonymes: ["suivi des réponses"]
-cross_refs: [703, 25]
+cross_refs: [703, 25, 832]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

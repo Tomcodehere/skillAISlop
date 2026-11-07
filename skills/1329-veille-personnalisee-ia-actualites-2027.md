@@ -8,8 +8,9 @@ mot_cle: "veille ia personnalisée"
 nom_court: "Veille IA"
 branche: "D17"
 synonymes: ["actualités ia 2027"]
-cross_refs: [708, 944]
+cross_refs: [708, 944, 105]
 tags: ["2027"]
+depends_on: [105]
 ---
 
 ## 1329. 📰 Veille personnalisée IA (actualités 2027)

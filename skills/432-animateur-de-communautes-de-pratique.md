@@ -8,7 +8,7 @@ mot_cle: "communautés de pratique"
 nom_court: "Communautés pratique"
 branche: "D25"
 synonymes: []
-cross_refs: [405, 424]
+cross_refs: [405, 424, 192]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

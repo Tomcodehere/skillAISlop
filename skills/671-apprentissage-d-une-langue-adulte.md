@@ -8,7 +8,8 @@ mot_cle: "apprendre une langue"
 nom_court: "Langue adulte"
 branche: "D28"
 synonymes: ["cours de langue"]
-cross_refs: [212, 493]
+cross_refs: [212, 493, 867]
+depends_on: [867]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

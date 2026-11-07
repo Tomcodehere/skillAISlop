@@ -8,7 +8,7 @@ mot_cle: "advertising-measurement-experimentation"
 nom_court: "Advertising Measurement & Expe"
 branche: "D14"
 synonymes: ["definir", "evenements", "conventions"]
-cross_refs: [733]
+cross_refs: [733, 1216, 1221]
 tags: ["2027"]
 ---
 

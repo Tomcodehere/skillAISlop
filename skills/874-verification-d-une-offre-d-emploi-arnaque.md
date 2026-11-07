@@ -8,8 +8,9 @@ mot_cle: "offre d'emploi frauduleuse"
 nom_court: "Arnaque emploi"
 branche: "D6"
 synonymes: ["arnaque recrutement"]
-cross_refs: [839, 842]
+cross_refs: [839, 842, 875]
 tags: ["2027"]
+depends_on: [875]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

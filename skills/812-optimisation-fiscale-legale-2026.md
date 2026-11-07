@@ -8,7 +8,7 @@ mot_cle: "optimisation fiscale"
 nom_court: "Optimisation fiscale"
 branche: "D29"
 synonymes: ["défiscalisation 2026"]
-cross_refs: [811, 681]
+cross_refs: [811, 681, 835]
 tags: ["2027"]
 ---
 

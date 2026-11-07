@@ -8,7 +8,7 @@ mot_cle: "burn-out"
 nom_court: "Burn-out"
 branche: "D27"
 synonymes: ["épuisement professionnel", "burnout au travail"]
-cross_refs: [511, 465]
+cross_refs: [511, 465, 921]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

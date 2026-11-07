@@ -8,7 +8,8 @@ mot_cle: "droit du travail"
 nom_court: "Droit travail"
 branche: "D29"
 synonymes: ["licenciement", "préavis"]
-cross_refs: [16, 137]
+cross_refs: [16, 137, 531]
+depends_on: [531]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

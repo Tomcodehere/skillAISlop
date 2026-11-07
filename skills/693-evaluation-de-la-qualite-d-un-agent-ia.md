@@ -8,7 +8,8 @@ mot_cle: "évaluer un agent ia"
 nom_court: "Evals"
 branche: "D14"
 synonymes: ["evals", "évaluation llm"]
-cross_refs: [97, 333]
+cross_refs: [97, 333, 819]
+depends_on: [819]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

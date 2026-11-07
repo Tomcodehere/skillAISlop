@@ -8,7 +8,7 @@ mot_cle: "parcours & funnel"
 nom_court: "Funnels"
 branche: "D17"
 synonymes: ["funnel", "tunnel de conversion"]
-cross_refs: [110, 162]
+cross_refs: [110, 162, 373]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

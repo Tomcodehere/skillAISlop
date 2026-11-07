@@ -8,7 +8,8 @@ mot_cle: "atelier de fiction interactive"
 nom_court: "Fiction interactive"
 branche: "D18"
 synonymes: []
-cross_refs: [122, 300]
+cross_refs: [122, 300, 534]
+depends_on: [534]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

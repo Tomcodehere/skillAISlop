@@ -8,8 +8,9 @@ mot_cle: "rupture conventionnelle collective"
 nom_court: "RCC"
 branche: "D29"
 synonymes: ["plan de départs volontaires"]
-cross_refs: [634, 634]
+cross_refs: [634, 969, 950]
 tags: ["2027"]
+depends_on: [969]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

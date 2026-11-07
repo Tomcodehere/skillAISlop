@@ -8,8 +8,9 @@ mot_cle: "powershell-dsc-advanced"
 nom_court: "PowerShell DSC Advanced"
 branche: "D1"
 synonymes: ["configure", "windows", "server"]
-cross_refs: [316]
+cross_refs: [316, 1292, 1063]
 tags: ["2027"]
+depends_on: [1292]
 ---
 
 ## 1231. 💻 PowerShell DSC Advanced

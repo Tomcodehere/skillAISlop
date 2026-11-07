@@ -8,7 +8,7 @@ mot_cle: "atelier d'écriture créative"
 nom_court: "Créative"
 branche: "D18"
 synonymes: []
-cross_refs: [6, 122]
+cross_refs: [6, 122, 534]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

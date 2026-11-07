@@ -8,8 +8,9 @@ mot_cle: "builds & compilation"
 nom_court: "Builds"
 branche: "D16"
 synonymes: []
-cross_refs: [82, 313]
+cross_refs: [82, 313, 84]
 tags: ["aihero:domain-modeling", "aihero:loop-me"]
+depends_on: [84]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

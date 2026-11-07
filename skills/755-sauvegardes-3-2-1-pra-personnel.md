@@ -8,7 +8,8 @@ mot_cle: "sauvegarde 3-2-1"
 nom_court: "Backup 3-2-1"
 branche: "D23"
 synonymes: ["plan de reprise"]
-cross_refs: [596, 273]
+cross_refs: [596, 273, 204]
+depends_on: [596]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

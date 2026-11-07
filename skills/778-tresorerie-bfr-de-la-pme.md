@@ -8,7 +8,8 @@ mot_cle: "trésorerie pme"
 nom_court: "Trésorerie PME"
 branche: "D29"
 synonymes: ["bfr"]
-cross_refs: [638, 230]
+cross_refs: [638, 230, 170]
+depends_on: [638]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

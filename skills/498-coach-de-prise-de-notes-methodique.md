@@ -8,7 +8,8 @@ mot_cle: "prise de notes méthodique"
 nom_court: "Notes méthodiques"
 branche: "D26"
 synonymes: []
-cross_refs: [287, 496]
+cross_refs: [287, 496, 1344]
+depends_on: [1344]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

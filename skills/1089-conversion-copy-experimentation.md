@@ -8,7 +8,7 @@ mot_cle: "conversion-copy-experimentation"
 nom_court: "Conversion Copy Experimentatio"
 branche: "D1"
 synonymes: ["baisse", "conversion", "landing"]
-cross_refs: [733]
+cross_refs: [733, 162, 3]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "changer de banque"
 nom_court: "Changer de banque"
 branche: "D29"
 synonymes: ["mobilité bancaire"]
-cross_refs: [43, 298]
+cross_refs: [43, 298, 650]
+depends_on: [650]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

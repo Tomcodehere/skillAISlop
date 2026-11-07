@@ -8,8 +8,9 @@ mot_cle: "personal-data-flow-and-lawful-basis-mapping"
 nom_court: "Personal Data Flow and Lawful-"
 branche: "D14"
 synonymes: ["demande", "portant", "personal"]
-cross_refs: [1020]
+cross_refs: [1020, 1097, 1234]
 tags: ["2027"]
+depends_on: [1097]
 ---
 
 ## 1226. 🤖 Personal Data Flow and Lawful-Basis Mapping

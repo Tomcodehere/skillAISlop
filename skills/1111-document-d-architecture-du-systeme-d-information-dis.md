@@ -8,8 +8,9 @@ mot_cle: "document-d-architecture-du-systeme-d-information-dis"
 nom_court: "Document d'Architecture du Sys"
 branche: "D1"
 synonymes: ["architecture", "systeme", "information"]
-cross_refs: [1101]
+cross_refs: [1101, 22, 1026]
 tags: ["2027"]
+depends_on: [22]
 ---
 
 ## 1111. 💻 Document d'Architecture du Système d'Information (DIS)

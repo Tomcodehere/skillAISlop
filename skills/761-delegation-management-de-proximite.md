@@ -8,7 +8,7 @@ mot_cle: "déléguer"
 nom_court: "Délégation"
 branche: "D25"
 synonymes: ["confier une mission"]
-cross_refs: [434, 644]
+cross_refs: [434, 644, 788]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

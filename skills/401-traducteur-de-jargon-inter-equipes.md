@@ -8,7 +8,7 @@ mot_cle: "jargon inter-équipes"
 nom_court: "Jargon"
 branche: "D25"
 synonymes: []
-cross_refs: [344, 377]
+cross_refs: [344, 377, 815]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

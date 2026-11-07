@@ -8,7 +8,7 @@ mot_cle: "reçus & factures"
 nom_court: "Reçus"
 branche: "D17"
 synonymes: ["facturation", "facture"]
-cross_refs: [27, 43]
+cross_refs: [27, 43, 543]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

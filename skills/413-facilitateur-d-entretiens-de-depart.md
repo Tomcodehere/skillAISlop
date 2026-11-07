@@ -8,7 +8,8 @@ mot_cle: "entretiens de départ"
 nom_court: "Départs"
 branche: "D24"
 synonymes: ["demission", "quitter l'entreprise"]
-cross_refs: [407, 421]
+cross_refs: [407, 421, 789]
+depends_on: [789]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

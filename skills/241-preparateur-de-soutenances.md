@@ -8,7 +8,8 @@ mot_cle: "soutenances"
 nom_court: "Soutenances"
 branche: "D26"
 synonymes: []
-cross_refs: [14, 41]
+cross_refs: [14, 41, 767]
+depends_on: [767]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

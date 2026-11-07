@@ -8,7 +8,7 @@ mot_cle: "bases de connaissances"
 nom_court: "Bases de connaissances"
 branche: "D25"
 synonymes: []
-cross_refs: [50, 56]
+cross_refs: [50, 56, 784]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

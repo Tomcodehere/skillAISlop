@@ -8,7 +8,7 @@ mot_cle: "tests d'intrusion"
 nom_court: "Pentest"
 branche: "D23"
 synonymes: []
-cross_refs: [440, 445]
+cross_refs: [440, 445, 255]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

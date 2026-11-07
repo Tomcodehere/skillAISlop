@@ -8,7 +8,7 @@ mot_cle: "vision & valeurs"
 nom_court: "Vision"
 branche: "D29"
 synonymes: []
-cross_refs: [57, 74]
+cross_refs: [57, 74, 423]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

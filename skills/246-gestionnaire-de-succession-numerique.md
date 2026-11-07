@@ -8,7 +8,8 @@ mot_cle: "succession numérique"
 nom_court: "Succession"
 branche: "D26"
 synonymes: ["après-décès", "héritage", "hériter", "succession"]
-cross_refs: [217, 247]
+cross_refs: [217, 247, 470]
+depends_on: [470]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

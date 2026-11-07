@@ -8,7 +8,8 @@ mot_cle: "matrice de ton d'équipe"
 nom_court: "Matrice ton"
 branche: "D25"
 synonymes: []
-cross_refs: [34, 362]
+cross_refs: [34, 362, 424]
+depends_on: [707]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

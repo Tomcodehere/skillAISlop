@@ -8,7 +8,7 @@ mot_cle: "cross-artifact-consistency-review"
 nom_court: "Cross-Artifact Consistency Rev"
 branche: "D25"
 synonymes: ["demande", "portant", "cross-artifact"]
-cross_refs: [847]
+cross_refs: [847, 1253, 1088]
 tags: ["2027"]
 ---
 

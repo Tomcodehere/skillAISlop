@@ -8,7 +8,8 @@ mot_cle: "nda sur mesure"
 nom_court: "NDA"
 branche: "D23"
 synonymes: []
-cross_refs: [443, 446]
+cross_refs: [443, 446, 412]
+depends_on: [446]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

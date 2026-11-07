@@ -8,7 +8,8 @@ mot_cle: "animaux de compagnie"
 nom_court: "Animaux"
 branche: "D27"
 synonymes: ["chat", "chien", "vétérinaire"]
-cross_refs: [477, 478]
+cross_refs: [477, 478, 660]
+depends_on: [660]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

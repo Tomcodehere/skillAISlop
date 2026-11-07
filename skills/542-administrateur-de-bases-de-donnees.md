@@ -8,7 +8,8 @@ mot_cle: "administration bdd"
 nom_court: "Admin BDD"
 branche: "D30"
 synonymes: []
-cross_refs: [69, 321]
+cross_refs: [69, 321, 95]
+depends_on: [69]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

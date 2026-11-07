@@ -8,7 +8,7 @@ mot_cle: "ux-microcopy-accessibility"
 nom_court: "UX Microcopy Accessibility"
 branche: "D22"
 synonymes: ["refonte", "onboarding", "formulaires"]
-cross_refs: [151]
+cross_refs: [151, 65, 1163]
 tags: ["2027"]
 ---
 

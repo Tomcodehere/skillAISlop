@@ -8,7 +8,8 @@ mot_cle: "métadonnées youtube"
 nom_court: "Métadonnées YouTube"
 branche: "D18"
 synonymes: []
-cross_refs: [147, 278]
+cross_refs: [147, 278, 391]
+depends_on: [391]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

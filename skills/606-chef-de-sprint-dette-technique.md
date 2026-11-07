@@ -8,7 +8,8 @@ mot_cle: "sprint dette technique"
 nom_court: "Sprint dette"
 branche: "D16"
 synonymes: ["dette"]
-cross_refs: [80, 302]
+cross_refs: [80, 302, 23]
+depends_on: [23]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

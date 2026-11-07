@@ -8,7 +8,8 @@ mot_cle: "obsidian"
 nom_court: "Obsidian"
 branche: "D29"
 synonymes: ["obsidian", "vault"]
-cross_refs: [114, 287]
+cross_refs: [114, 287, 670]
+depends_on: [670]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

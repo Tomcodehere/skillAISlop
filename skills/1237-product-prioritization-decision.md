@@ -8,8 +8,9 @@ mot_cle: "product-prioritization-decision"
 nom_court: "Product Prioritization Decisio"
 branche: "D22"
 synonymes: ["demande", "portant", "product"]
-cross_refs: [1300]
+cross_refs: [1300, 1022, 1023]
 tags: ["2027"]
+depends_on: [1023]
 ---
 
 ## 1237. 📦 Product Prioritization Decision

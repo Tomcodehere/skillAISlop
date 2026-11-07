@@ -8,8 +8,9 @@ mot_cle: "course à pied"
 nom_court: "Running"
 branche: "D27"
 synonymes: ["footing", "marathon"]
-cross_refs: [214, 483]
+cross_refs: [214, 483, 659]
 tags: ["aihero:scaffold-exercises"]
+depends_on: [214]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

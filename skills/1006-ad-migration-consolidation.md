@@ -8,7 +8,7 @@ mot_cle: "ad-migration-consolidation"
 nom_court: "AD Migration & Consolidation"
 branche: "D25"
 synonymes: ["migration", "domaines", "consolidation"]
-cross_refs: [1093]
+cross_refs: [1093, 1004, 1072]
 tags: ["2027"]
 ---
 

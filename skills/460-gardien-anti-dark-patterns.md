@@ -8,7 +8,7 @@ mot_cle: "gardien anti-dark patterns"
 nom_court: "Dark patterns"
 branche: "D22"
 synonymes: []
-cross_refs: [162, 443]
+cross_refs: [162, 443, 1196]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

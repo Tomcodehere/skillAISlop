@@ -8,7 +8,7 @@ mot_cle: "procès-verbaux"
 nom_court: "PV"
 branche: "D25"
 synonymes: ["proces verbal", "proces-verbal", "pv"]
-cross_refs: [24, 190]
+cross_refs: [24, 190, 552]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

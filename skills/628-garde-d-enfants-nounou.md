@@ -8,7 +8,8 @@ mot_cle: "nounou"
 nom_court: "Nounou"
 branche: "D27"
 synonymes: ["garde d'enfants"]
-cross_refs: [533, 520]
+cross_refs: [533, 520, 629]
+depends_on: [629]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

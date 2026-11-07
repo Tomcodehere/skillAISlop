@@ -8,7 +8,8 @@ mot_cle: "recherche approfondie"
 nom_court: "Deep research"
 branche: "D17"
 synonymes: ["rapport de recherche"]
-cross_refs: [18, 700]
+cross_refs: [18, 700, 188]
+depends_on: [18]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "hygiène numérique"
 nom_court: "Hygiène numérique"
 branche: "D26"
 synonymes: []
-cross_refs: [230, 246]
+cross_refs: [230, 246, 441]
+depends_on: [441]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

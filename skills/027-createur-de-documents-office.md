@@ -8,8 +8,9 @@ mot_cle: "créateur de documents office"
 nom_court: "Office"
 branche: "D2"
 synonymes: []
-cross_refs: [1, 14]
+cross_refs: [1, 14, 5]
 tags: ["aihero:handoff"]
+depends_on: [5]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

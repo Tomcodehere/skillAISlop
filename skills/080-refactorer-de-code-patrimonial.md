@@ -8,7 +8,8 @@ mot_cle: "refactorer de code patrimonial"
 nom_court: "Legacy"
 branche: "D16"
 synonymes: []
-cross_refs: [21, 84]
+cross_refs: [21, 84, 83]
+depends_on: [83]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

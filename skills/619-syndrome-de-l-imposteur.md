@@ -8,7 +8,7 @@ mot_cle: "imposteur"
 nom_court: "Imposteur"
 branche: "D26"
 synonymes: ["syndrome imposteur"]
-cross_refs: [46, 204]
+cross_refs: [46, 204, 530]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

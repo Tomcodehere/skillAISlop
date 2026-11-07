@@ -8,7 +8,8 @@ mot_cle: "supervision agents"
 nom_court: "Supervision IA"
 branche: "D30"
 synonymes: ["tracing"]
-cross_refs: [326, 330]
+cross_refs: [326, 330, 820]
+depends_on: [820]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

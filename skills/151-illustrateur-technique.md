@@ -8,7 +8,7 @@ mot_cle: "illustrateur technique"
 nom_court: "Illustrations"
 branche: "D19"
 synonymes: []
-cross_refs: [22, 130]
+cross_refs: [22, 130, 161]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

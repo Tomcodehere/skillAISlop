@@ -8,7 +8,7 @@ mot_cle: "conditions générales de vente"
 nom_court: "CGV"
 branche: "D23"
 synonymes: []
-cross_refs: [190, 370]
+cross_refs: [190, 370, 123]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

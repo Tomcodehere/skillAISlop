@@ -8,7 +8,7 @@ mot_cle: "tableaux de bord"
 nom_court: "Dashboards"
 branche: "D17"
 synonymes: ["dashboard", "tableau de bord"]
-cross_refs: [36, 186]
+cross_refs: [36, 186, 468]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

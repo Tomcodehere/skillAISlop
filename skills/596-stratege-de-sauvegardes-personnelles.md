@@ -8,7 +8,8 @@ mot_cle: "sauvegardes personnelles"
 nom_court: "Sauvegardes"
 branche: "D27"
 synonymes: ["backup", "sauvegarde"]
-cross_refs: [246, 472]
+cross_refs: [246, 472, 755]
+depends_on: [755]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

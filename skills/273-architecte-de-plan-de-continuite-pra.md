@@ -8,7 +8,7 @@ mot_cle: "plan de continuité (pra)"
 nom_court: "PRA"
 branche: "D23"
 synonymes: []
-cross_refs: [198, 199]
+cross_refs: [198, 199, 477]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

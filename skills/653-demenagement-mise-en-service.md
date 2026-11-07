@@ -8,7 +8,8 @@ mot_cle: "déménagement"
 nom_court: "Déménagement"
 branche: "D26"
 synonymes: ["mise en service"]
-cross_refs: [225, 286]
+cross_refs: [225, 286, 1330]
+depends_on: [1330]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

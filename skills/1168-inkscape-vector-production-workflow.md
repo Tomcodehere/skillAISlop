@@ -8,8 +8,9 @@ mot_cle: "inkscape-vector-production-workflow"
 nom_court: "Inkscape Vector Production Wor"
 branche: "D22"
 synonymes: ["demande", "portant", "inkscape"]
-cross_refs: [454]
+cross_refs: [454, 1148, 1174]
 tags: ["2027"]
+depends_on: [1148]
 ---
 
 ## 1168. 🎨 Inkscape Vector Production Workflow

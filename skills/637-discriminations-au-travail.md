@@ -8,7 +8,8 @@ mot_cle: "discrimination"
 nom_court: "Discrimination"
 branche: "D29"
 synonymes: ["sexisme"]
-cross_refs: [636, 410]
+cross_refs: [636, 410, 555]
+depends_on: [636]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

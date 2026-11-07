@@ -8,8 +8,9 @@ mot_cle: "data-visualization-ml-insights"
 nom_court: "Data Visualization & ML Insigh"
 branche: "D14"
 synonymes: ["exploration", "visuelle", "datasets"]
-cross_refs: [598]
+cross_refs: [598, 1192, 1114]
 tags: ["2027"]
+depends_on: [1192]
 ---
 
 ## 1103. 🧠 Data Visualization & ML Insights

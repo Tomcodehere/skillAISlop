@@ -8,7 +8,7 @@ mot_cle: "prairie fleurie jardin"
 nom_court: "Prairie fleurie"
 branche: "D26"
 synonymes: ["pelouse alternative"]
-cross_refs: [915, 958]
+cross_refs: [915, 958, 661]
 tags: ["2027"]
 depends_on: [1312]
 ---

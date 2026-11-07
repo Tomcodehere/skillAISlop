@@ -8,8 +8,9 @@ mot_cle: "rétrospective équipe"
 nom_court: "Rétro"
 branche: "D25"
 synonymes: ["post-mortem blameless"]
-cross_refs: [73, 60]
+cross_refs: [73, 60, 428]
 tags: ["2027"]
+depends_on: [73]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

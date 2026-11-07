@@ -8,7 +8,8 @@ mot_cle: "finances freelance"
 nom_court: "Finances freelance"
 branche: "D29"
 synonymes: []
-cross_refs: [297, 371]
+cross_refs: [297, 371, 811]
+depends_on: [811]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

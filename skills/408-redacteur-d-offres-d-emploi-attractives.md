@@ -8,7 +8,8 @@ mot_cle: "offres d'emploi attractives"
 nom_court: "Offres emploi"
 branche: "D24"
 synonymes: []
-cross_refs: [276, 407]
+cross_refs: [276, 407, 202]
+depends_on: [202]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

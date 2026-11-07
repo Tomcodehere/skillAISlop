@@ -8,7 +8,7 @@ mot_cle: "portfolio créatif"
 nom_court: "Portfolio"
 branche: "D29"
 synonymes: ["portfolio"]
-cross_refs: [44, 128]
+cross_refs: [44, 128, 218]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "programme de mentorat"
 nom_court: "Mentorat"
 branche: "D24"
 synonymes: ["mentor", "mentorat"]
-cross_refs: [204, 205]
+cross_refs: [204, 205, 459]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "handoff de session"
 nom_court: "Handoff"
 branche: "D14"
 synonymes: []
-cross_refs: [209, 236]
+cross_refs: [209, 236, 601]
+depends_on: [601]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

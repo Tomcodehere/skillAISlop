@@ -8,7 +8,7 @@ mot_cle: "processus métier"
 nom_court: "Processus métier"
 branche: "D25"
 synonymes: []
-cross_refs: [373, 420]
+cross_refs: [373, 420, 346]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

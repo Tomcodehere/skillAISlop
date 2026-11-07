@@ -8,7 +8,7 @@ mot_cle: "impayé de loyer"
 nom_court: "Impayé loyer"
 branche: "D29"
 synonymes: ["locataire ne paie plus"]
-cross_refs: [554, 371]
+cross_refs: [554, 371, 683]
 tags: ["2027"]
 ---
 

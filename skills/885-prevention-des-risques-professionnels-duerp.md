@@ -8,8 +8,9 @@ mot_cle: "duerp"
 nom_court: "DUERP"
 branche: "D24"
 synonymes: ["document unique risques"]
-cross_refs: [787, 243]
+cross_refs: [787, 243, 937]
 tags: ["2027"]
+depends_on: [787]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

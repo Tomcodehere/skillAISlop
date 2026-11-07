@@ -8,7 +8,7 @@ mot_cle: "programmes de stage & alternance"
 nom_court: "Stages"
 branche: "D24"
 synonymes: ["alternance", "apprentissage en entreprise", "stage"]
-cross_refs: [407, 408]
+cross_refs: [407, 408, 173]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

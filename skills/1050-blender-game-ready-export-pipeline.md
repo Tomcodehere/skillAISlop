@@ -8,8 +8,9 @@ mot_cle: "blender-game-ready-export-pipeline"
 nom_court: "Blender Game-Ready Export Pipe"
 branche: "D1"
 synonymes: ["demande", "portant", "blender"]
-cross_refs: [1202]
+cross_refs: [1202, 1167, 1224]
 tags: ["2027"]
+depends_on: [1167]
 ---
 
 ## 1050. 💻 Blender Game-Ready Export Pipeline

@@ -8,7 +8,8 @@ mot_cle: "statut juridique"
 nom_court: "Statut juridique"
 branche: "D29"
 synonymes: ["sasu", "eurl"]
-cross_refs: [562, 588]
+cross_refs: [562, 588, 16]
+depends_on: [562]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

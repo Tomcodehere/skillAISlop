@@ -8,7 +8,7 @@ mot_cle: "récits de vie"
 nom_court: "Récits de vie"
 branche: "D29"
 synonymes: ["biographie"]
-cross_refs: [472, 490]
+cross_refs: [472, 490, 241]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

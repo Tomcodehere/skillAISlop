@@ -8,7 +8,8 @@ mot_cle: "contrat client"
 nom_court: "Contrat client"
 branche: "D29"
 synonymes: ["cgv"]
-cross_refs: [370, 281]
+cross_refs: [370, 281, 828]
+depends_on: [828]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

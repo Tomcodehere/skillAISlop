@@ -8,7 +8,7 @@ mot_cle: "ui-transitions-library-transitions-dev"
 nom_court: "UI Transitions Library (Transi"
 branche: "D1"
 synonymes: ["transition", "micro-interaction", "animation"]
-cross_refs: [89]
+cross_refs: [89, 1287, 1263]
 tags: ["2027"]
 ---
 

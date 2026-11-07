@@ -8,7 +8,8 @@ mot_cle: "routines ancrées"
 nom_court: "Routines"
 branche: "D26"
 synonymes: ["rituel du matin", "routine"]
-cross_refs: [468, 488]
+cross_refs: [468, 488, 764]
+depends_on: [764]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

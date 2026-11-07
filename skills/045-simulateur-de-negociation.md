@@ -8,7 +8,8 @@ mot_cle: "négociation"
 nom_court: "Négociation"
 branche: "D6"
 synonymes: []
-cross_refs: [46]
+cross_refs: [46, 773, 882]
+depends_on: [773]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

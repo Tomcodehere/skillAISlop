@@ -8,7 +8,8 @@ mot_cle: "automatisation"
 nom_court: "Automatisation"
 branche: "D16"
 synonymes: ["zapier", "make"]
-cross_refs: [71, 324]
+cross_refs: [71, 324, 78]
+depends_on: [78]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

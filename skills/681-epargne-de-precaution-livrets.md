@@ -8,7 +8,8 @@ mot_cle: "épargne de précaution"
 nom_court: "Épargne"
 branche: "D29"
 synonymes: ["livret a", "pea"]
-cross_refs: [227, 519]
+cross_refs: [227, 519, 835]
+depends_on: [835]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "upsell"
 nom_court: "Upsell"
 branche: "D21"
 synonymes: ["cross-sell"]
-cross_refs: [375, 173]
+cross_refs: [375, 173, 55]
+depends_on: [55]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

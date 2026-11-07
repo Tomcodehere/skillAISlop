@@ -8,7 +8,7 @@ mot_cle: "wbs-and-dependency-planning"
 nom_court: "WBS and Dependency Planning"
 branche: "D25"
 synonymes: ["demande", "portant", "dependency"]
-cross_refs: [1062]
+cross_refs: [1062, 1081, 425]
 tags: ["2027"]
 ---
 

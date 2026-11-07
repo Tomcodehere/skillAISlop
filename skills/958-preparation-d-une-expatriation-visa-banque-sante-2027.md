@@ -8,8 +8,9 @@ mot_cle: "s'expatrier 2027"
 nom_court: "Expatriation"
 branche: "D26"
 synonymes: ["vivre à l'étranger 2027"]
-cross_refs: [933, 656]
+cross_refs: [933, 656, 684]
 tags: ["2027"]
+depends_on: [684]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

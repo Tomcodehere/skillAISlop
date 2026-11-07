@@ -8,8 +8,9 @@ mot_cle: "prévention rps 2027"
 nom_court: "Prévention RPS"
 branche: "D24"
 synonymes: ["bien-être au travail 2027"]
-cross_refs: [787, 921]
+cross_refs: [787, 921, 421]
 tags: ["2027"]
+depends_on: [787]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

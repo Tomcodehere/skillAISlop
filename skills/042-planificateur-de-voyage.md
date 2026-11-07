@@ -8,7 +8,8 @@ mot_cle: "voyage"
 nom_court: "Voyage"
 branche: "D5"
 synonymes: ["itinéraire", "séjour", "vacances", "voyage"]
-cross_refs: [18]
+cross_refs: [18, 656, 1323]
+depends_on: [656]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

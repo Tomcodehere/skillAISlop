@@ -8,8 +8,9 @@ mot_cle: "cost-governance-finops-elargi"
 nom_court: "Cost Governance (FinOps elargi"
 branche: "D14"
 synonymes: ["derive", "budgetaire", "workflow"]
-cross_refs: [1234]
+cross_refs: [1234, 1097, 1180]
 tags: ["2027"]
+depends_on: [1097]
 ---
 
 ## 1092. 🤖 Cost Governance (FinOps elargi)

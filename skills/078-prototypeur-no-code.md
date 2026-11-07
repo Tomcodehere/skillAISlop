@@ -8,7 +8,8 @@ mot_cle: "prototypeur no-code"
 nom_court: "No-code"
 branche: "D16"
 synonymes: ["no-code"]
-cross_refs: [9, 15]
+cross_refs: [9, 15, 669]
+depends_on: [669]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

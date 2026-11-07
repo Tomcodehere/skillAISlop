@@ -8,7 +8,8 @@ mot_cle: "conversion (cro)"
 nom_court: "CRO"
 branche: "D20"
 synonymes: []
-cross_refs: [109, 110]
+cross_refs: [109, 110, 798]
+depends_on: [798]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

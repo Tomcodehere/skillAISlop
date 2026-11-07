@@ -8,8 +8,9 @@ mot_cle: "zero trust agents"
 nom_court: "Zero Trust"
 branche: "D23"
 synonymes: ["gouvernance identités ia"]
-cross_refs: [801, 819]
+cross_refs: [801, 819, 330]
 tags: ["2027"]
+depends_on: [194]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

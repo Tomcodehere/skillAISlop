@@ -8,8 +8,9 @@ mot_cle: "simuler crédit immobilier 2027"
 nom_court: "Simulateur crédit"
 branche: "D29"
 synonymes: ["taux crédit 2027"]
-cross_refs: [298, 833]
+cross_refs: [298, 833, 675]
 tags: ["2027"]
+depends_on: [833]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "architecture-quality-scenario"
 nom_court: "Architecture Quality Scenario"
 branche: "D1"
 synonymes: ["demande", "portant", "architecture"]
-cross_refs: [609]
+cross_refs: [609, 1247, 1277]
 tags: ["2027"]
+depends_on: [1247]
 ---
 
 ## 1037. 💻 Architecture Quality Scenario

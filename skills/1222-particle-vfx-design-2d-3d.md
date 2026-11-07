@@ -8,8 +8,9 @@ mot_cle: "particle-vfx-design-2d-3d"
 nom_court: "Particle VFX Design 2D/3D"
 branche: "D1"
 synonymes: ["demande", "portant", "particle"]
-cross_refs: [1031]
+cross_refs: [1031, 1270, 1053]
 tags: ["2027"]
+depends_on: [1270]
 ---
 
 ## 1222. 💻 Particle VFX Design 2D/3D

@@ -8,7 +8,8 @@ mot_cle: "tarifs freelance"
 nom_court: "Tarifs freelance"
 branche: "D29"
 synonymes: []
-cross_refs: [45, 563]
+cross_refs: [45, 563, 62]
+depends_on: [62]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

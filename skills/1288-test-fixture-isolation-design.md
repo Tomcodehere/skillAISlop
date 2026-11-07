@@ -8,8 +8,9 @@ mot_cle: "test-fixture-isolation-design"
 nom_court: "Test Fixture Isolation Design"
 branche: "D1"
 synonymes: ["demande", "portant", "fixture"]
-cross_refs: [1282]
+cross_refs: [1282, 1121, 526]
 tags: ["2027"]
+depends_on: [1121]
 ---
 
 ## 1288. 💻 Test Fixture Isolation Design

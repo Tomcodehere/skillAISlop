@@ -8,8 +8,9 @@ mot_cle: "music-arrangement-loop-delivery"
 nom_court: "Music Arrangement, Loop & Deli"
 branche: "D1"
 synonymes: ["demande", "portant", "music"]
-cross_refs: [314]
+cross_refs: [314, 1167, 1140]
 tags: ["2027"]
+depends_on: [1167]
 ---
 
 ## 1200. 💻 Music Arrangement, Loop & Delivery

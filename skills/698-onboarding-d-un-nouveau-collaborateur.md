@@ -8,7 +8,8 @@ mot_cle: "onboarding"
 nom_court: "Onboarding"
 branche: "D24"
 synonymes: ["parcours d'intégration"]
-cross_refs: [203, 72]
+cross_refs: [203, 72, 418]
+depends_on: [203]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

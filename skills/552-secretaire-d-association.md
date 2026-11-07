@@ -8,7 +8,8 @@ mot_cle: "vie associative"
 nom_court: "Association"
 branche: "D29"
 synonymes: ["statuts"]
-cross_refs: [240, 532]
+cross_refs: [240, 532, 892]
+depends_on: [892]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

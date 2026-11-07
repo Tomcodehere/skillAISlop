@@ -8,7 +8,7 @@ mot_cle: "employer branding"
 nom_court: "Employer branding"
 branche: "D24"
 synonymes: []
-cross_refs: [34, 202]
+cross_refs: [34, 202, 422]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "jardinage"
 nom_court: "Potager"
 branche: "D26"
 synonymes: ["potager maison", "compostage"]
-cross_refs: [229, 578]
+cross_refs: [229, 578, 1311]
+depends_on: [229]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

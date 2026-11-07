@@ -8,7 +8,8 @@ mot_cle: "arrêt des habitudes"
 nom_court: "Arrêt habitudes"
 branche: "D26"
 synonymes: ["arreter de fumer", "grignoter", "mauvaise habitude"]
-cross_refs: [468, 489]
+cross_refs: [468, 489, 764]
+depends_on: [764]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

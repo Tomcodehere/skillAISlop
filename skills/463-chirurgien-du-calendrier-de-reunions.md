@@ -8,7 +8,8 @@ mot_cle: "chirurgien du calendrier de réunions"
 nom_court: "Calendrier réunions"
 branche: "D25"
 synonymes: ["agenda", "calendrier", "planifier ma semaine"]
-cross_refs: [424, 465]
+cross_refs: [424, 465, 209]
+depends_on: [209]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

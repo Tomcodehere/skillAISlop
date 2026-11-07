@@ -8,7 +8,8 @@ mot_cle: "runbooks de sécurité"
 nom_court: "Runbooks"
 branche: "D16"
 synonymes: []
-cross_refs: [50, 89]
+cross_refs: [50, 89, 244]
+depends_on: [244]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "audit skill"
 nom_court: "Audit skill"
 branche: "D23"
 synonymes: ["skill malveillante"]
-cross_refs: [262, 195]
+cross_refs: [262, 195, 905]
+depends_on: [905]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

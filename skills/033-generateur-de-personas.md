@@ -8,7 +8,8 @@ mot_cle: "personas"
 nom_court: "Personas"
 branche: "D3"
 synonymes: ["persona", "profil cible"]
-cross_refs: []
+cross_refs: [739, 364, 213]
+depends_on: [739]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

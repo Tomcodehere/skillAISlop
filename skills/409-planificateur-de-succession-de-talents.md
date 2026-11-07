@@ -8,7 +8,7 @@ mot_cle: "succession de talents"
 nom_court: "Succession"
 branche: "D24"
 synonymes: []
-cross_refs: [407, 420]
+cross_refs: [407, 420, 246]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "intégration de managers débutants"
 nom_court: "Managers débutants"
 branche: "D24"
 synonymes: []
-cross_refs: [407, 415]
+cross_refs: [407, 415, 698]
+depends_on: [698]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

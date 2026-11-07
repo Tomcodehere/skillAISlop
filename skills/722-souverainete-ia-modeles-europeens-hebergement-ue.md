@@ -8,7 +8,7 @@ mot_cle: "ia souveraine"
 nom_court: "IA souveraine"
 branche: "D23"
 synonymes: ["hébergement ue"]
-cross_refs: [189, 507]
+cross_refs: [189, 507, 924]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

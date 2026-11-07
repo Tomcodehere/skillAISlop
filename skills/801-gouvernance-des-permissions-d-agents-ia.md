@@ -8,8 +8,9 @@ mot_cle: "permissions agent"
 nom_court: "Permissions agent"
 branche: "D23"
 synonymes: ["gouvernance agents ia"]
-cross_refs: [800, 716]
+cross_refs: [800, 716, 197]
 tags: ["2027"]
+depends_on: [197]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

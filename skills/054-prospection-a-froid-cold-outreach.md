@@ -8,7 +8,8 @@ mot_cle: "prospection à froid (cold outreach)"
 nom_court: "Prospection"
 branche: "D9"
 synonymes: ["cold email", "demarchage"]
-cross_refs: [33, 49]
+cross_refs: [33, 49, 165]
+depends_on: [165]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

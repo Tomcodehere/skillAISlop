@@ -8,7 +8,8 @@ mot_cle: "ai act"
 nom_court: "AI Act"
 branche: "D29"
 synonymes: ["règlement ia européen"]
-cross_refs: [239, 271]
+cross_refs: [239, 271, 190]
+depends_on: [190]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

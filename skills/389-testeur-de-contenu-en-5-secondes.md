@@ -8,7 +8,8 @@ mot_cle: "contenu en 5 secondes"
 nom_court: "Test 5 secondes"
 branche: "D18"
 synonymes: []
-cross_refs: [162, 352]
+cross_refs: [162, 352, 280]
+depends_on: [280]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

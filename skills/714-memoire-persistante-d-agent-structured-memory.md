@@ -8,7 +8,8 @@ mot_cle: "mémoire structurée"
 nom_court: "Mémoire structurée"
 branche: "D14"
 synonymes: ["mémoire sémantique"]
-cross_refs: [260, 615]
+cross_refs: [260, 615, 802]
+depends_on: [802]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

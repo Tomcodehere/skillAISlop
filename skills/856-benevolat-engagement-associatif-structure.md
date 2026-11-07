@@ -8,8 +8,9 @@ mot_cle: "bénévolat structuré"
 nom_court: "Bénévolat"
 branche: "D25"
 synonymes: ["s'engager association"]
-cross_refs: [532, 552]
+cross_refs: [532, 552, 892]
 tags: ["2027"]
+depends_on: [532]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

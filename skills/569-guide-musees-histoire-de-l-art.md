@@ -8,7 +8,7 @@ mot_cle: "musées & art"
 nom_court: "Musées"
 branche: "D28"
 synonymes: ["musée"]
-cross_refs: [536, 568]
+cross_refs: [536, 568, 119]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

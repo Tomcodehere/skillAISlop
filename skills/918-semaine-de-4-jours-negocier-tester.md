@@ -8,7 +8,7 @@ mot_cle: "semaine 4 jours"
 nom_court: "Semaine 4j"
 branche: "D6"
 synonymes: ["4 jours par semaine"]
-cross_refs: [884, 877]
+cross_refs: [884, 877, 906]
 tags: ["2027"]
 ---
 

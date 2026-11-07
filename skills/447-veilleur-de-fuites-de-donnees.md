@@ -8,7 +8,7 @@ mot_cle: "fuites de données"
 nom_court: "Fuites données"
 branche: "D23"
 synonymes: []
-cross_refs: [440, 444]
+cross_refs: [440, 444, 95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

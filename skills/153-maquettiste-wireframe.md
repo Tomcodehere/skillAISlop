@@ -8,7 +8,7 @@ mot_cle: "maquettiste wireframe"
 nom_court: "Wireframes"
 branche: "D19"
 synonymes: ["maquette", "mockup d'écran", "wireframe"]
-cross_refs: [64, 81]
+cross_refs: [64, 81, 173]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

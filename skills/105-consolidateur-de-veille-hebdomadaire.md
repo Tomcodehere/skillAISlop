@@ -8,7 +8,8 @@ mot_cle: "veille hebdomadaire"
 nom_court: "Veille"
 branche: "D17"
 synonymes: ["suivre l'actualité", "veille", "veille hebdo"]
-cross_refs: [18, 51]
+cross_refs: [18, 51, 688]
+depends_on: [688]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

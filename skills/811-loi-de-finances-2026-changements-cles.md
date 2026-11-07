@@ -8,8 +8,9 @@ mot_cle: "loi de finances 2026"
 nom_court: "LF 2026"
 branche: "D29"
 synonymes: ["loi 2026-103"]
-cross_refs: [297, 639]
+cross_refs: [297, 639, 563]
 tags: ["2027"]
+depends_on: [563]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

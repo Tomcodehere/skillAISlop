@@ -8,7 +8,7 @@ mot_cle: "gamification"
 nom_court: "Gamification"
 branche: "D22"
 synonymes: []
-cross_refs: [173, 295]
+cross_refs: [173, 295, 457]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

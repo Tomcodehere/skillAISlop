@@ -8,7 +8,7 @@ mot_cle: "éducation crypto"
 nom_court: "Crypto"
 branche: "D29"
 synonymes: ["blockchain", "crypto"]
-cross_refs: [297, 530]
+cross_refs: [297, 530, 1046]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

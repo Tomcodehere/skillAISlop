@@ -8,8 +8,9 @@ mot_cle: "préparer sa retraite 2027"
 nom_court: "Retraite 2027"
 branche: "D29"
 synonymes: ["calcul retraite 2027"]
-cross_refs: [811, 964]
+cross_refs: [811, 964, 682]
 tags: ["2027"]
+depends_on: [682]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

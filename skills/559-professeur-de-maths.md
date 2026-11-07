@@ -8,7 +8,8 @@ mot_cle: "maths"
 nom_court: "Maths"
 branche: "D28"
 synonymes: ["maths", "mathématiques"]
-cross_refs: [39, 496]
+cross_refs: [39, 496, 770]
+depends_on: [770]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "grill me (validation de plan)"
 nom_court: "Grill Me"
 branche: "D1"
 synonymes: []
-cross_refs: [15, 17]
+cross_refs: [15, 17, 720]
 tags: ["aihero:grill-with-docs", "aihero:improve-codebase-architecture", "aihero:to-tickets", "aihero:triage", "aihero:wayfinder", "aihero:loop-me", "aihero:grill-me", "aihero:grilling"]
+depends_on: [720]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

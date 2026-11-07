@@ -8,8 +8,9 @@ mot_cle: "brief-assumption-ledger"
 nom_court: "Brief Assumption Ledger"
 branche: "D22"
 synonymes: ["demande", "portant", "brief"]
-cross_refs: [454]
+cross_refs: [454, 1252, 1302]
 tags: ["2027"]
+depends_on: [1252]
 ---
 
 ## 1057. 🎨 Brief Assumption Ledger

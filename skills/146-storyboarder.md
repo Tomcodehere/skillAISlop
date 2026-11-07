@@ -8,7 +8,7 @@ mot_cle: "storyboarder"
 nom_court: "Storyboard"
 branche: "D19"
 synonymes: []
-cross_refs: [52, 144]
+cross_refs: [52, 144, 728]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

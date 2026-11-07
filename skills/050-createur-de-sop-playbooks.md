@@ -8,7 +8,8 @@ mot_cle: "créateur de sop & playbooks"
 nom_court: "SOP"
 branche: "D7"
 synonymes: ["playbook", "procedure", "sop"]
-cross_refs: [38]
+cross_refs: [38, 299, 27]
+depends_on: [27]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

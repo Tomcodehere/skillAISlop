@@ -8,8 +8,9 @@ mot_cle: "coach sommeil ia"
 nom_court: "Sommeil IA"
 branche: "D27"
 synonymes: ["mieux dormir ia"]
-cross_refs: [483, 814]
+cross_refs: [483, 814, 942]
 tags: ["2027"]
+depends_on: [483]
 ---
 
 ## 1325. 😴 Coach sommeil IA & hygiène de sommeil

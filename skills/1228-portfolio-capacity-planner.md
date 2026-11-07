@@ -8,7 +8,7 @@ mot_cle: "portfolio-capacity-planner"
 nom_court: "Portfolio / Capacity Planner"
 branche: "D22"
 synonymes: ["surcharge", "recurrente", "taches"]
-cross_refs: [572]
+cross_refs: [572, 820, 804]
 tags: ["2027"]
 ---
 

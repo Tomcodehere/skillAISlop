@@ -8,8 +8,9 @@ mot_cle: "créer une association"
 nom_court: "Association"
 branche: "D29"
 synonymes: ["statuts association"]
-cross_refs: [552, 856]
+cross_refs: [552, 856, 980]
 tags: ["2027"]
+depends_on: [552]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

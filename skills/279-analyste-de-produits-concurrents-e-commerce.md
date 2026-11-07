@@ -8,7 +8,8 @@ mot_cle: "produits concurrents e-commerce"
 nom_court: "Concurrents"
 branche: "D20"
 synonymes: ["e-commerce"]
-cross_refs: [32, 118]
+cross_refs: [32, 118, 798]
+depends_on: [118]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

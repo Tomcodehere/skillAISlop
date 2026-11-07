@@ -8,7 +8,7 @@ mot_cle: "pipelines rag"
 nom_court: "RAG"
 branche: "D14"
 synonymes: []
-cross_refs: [102, 114]
+cross_refs: [102, 114, 94]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "scraper données publiques légal"
 nom_court: "Scraping légal"
 branche: "D29"
 synonymes: ["llms.txt 2027"]
-cross_refs: [695, 909]
+cross_refs: [695, 909, 189]
 tags: ["2027"]
+depends_on: [189]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

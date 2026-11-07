@@ -8,7 +8,8 @@ mot_cle: "promotion"
 nom_court: "Promotion"
 branche: "D6"
 synonymes: ["évolution interne"]
-cross_refs: [294, 204]
+cross_refs: [294, 204, 635]
+depends_on: [635]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

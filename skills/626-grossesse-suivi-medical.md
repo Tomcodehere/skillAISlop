@@ -8,7 +8,8 @@ mot_cle: "grossesse"
 nom_court: "Grossesse"
 branche: "D27"
 synonymes: ["maternité"]
-cross_refs: [520, 511]
+cross_refs: [520, 511, 485]
+depends_on: [485]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

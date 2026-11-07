@@ -8,7 +8,8 @@ mot_cle: "répondant aux avis clients en ligne"
 nom_court: "Avis"
 branche: "D21"
 synonymes: ["avis clients negatifs", "avis google"]
-cross_refs: [56, 131]
+cross_refs: [56, 131, 647]
+depends_on: [131]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

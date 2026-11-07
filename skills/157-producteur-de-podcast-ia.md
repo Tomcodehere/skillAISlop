@@ -8,8 +8,9 @@ mot_cle: "podcast ia"
 nom_court: "Podcasts"
 branche: "D19"
 synonymes: ["podcast"]
-cross_refs: [53, 154]
+cross_refs: [53, 154, 384]
 tags: ["aihero:writing-shape"]
+depends_on: [930]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

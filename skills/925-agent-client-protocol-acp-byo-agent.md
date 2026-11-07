@@ -8,8 +8,9 @@ mot_cle: "agent client protocol acp"
 nom_court: "ACP"
 branche: "D14"
 synonymes: ["byo agent"]
-cross_refs: [76, 803]
+cross_refs: [76, 803, 712]
 tags: ["2027"]
+depends_on: [76]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

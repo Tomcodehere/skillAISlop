@@ -8,7 +8,7 @@ mot_cle: "notarial-document-preparation"
 nom_court: "Notarial Document Preparation"
 branche: "D25"
 synonymes: ["utilisateur", "preparer", "pieces"]
-cross_refs: [192]
+cross_refs: [192, 1003, 1205]
 tags: ["2027"]
 ---
 

@@ -8,8 +8,9 @@ mot_cle: "apprendre la guitare adulte"
 nom_court: "Instrument"
 branche: "D28"
 synonymes: ["cours de guitare adulte"]
-cross_refs: [518, 516]
+cross_refs: [518, 516, 671]
 tags: ["2027"]
+depends_on: [671]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

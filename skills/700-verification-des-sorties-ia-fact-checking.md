@@ -8,7 +8,7 @@ mot_cle: "vérifier une ia"
 nom_court: "Fact-check IA"
 branche: "D14"
 synonymes: ["hallucination ia", "vérifier les sources"]
-cross_refs: [37, 18]
+cross_refs: [37, 18, 944]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "chatbot conversationnel"
 nom_court: "Chatbot"
 branche: "D11"
 synonymes: ["assistant conversationnel", "chatbot"]
-cross_refs: [37, 56]
+cross_refs: [37, 56, 461]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

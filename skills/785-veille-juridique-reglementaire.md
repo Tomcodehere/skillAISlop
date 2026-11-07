@@ -8,7 +8,8 @@ mot_cle: "veille juridique"
 nom_court: "Veille juridique"
 branche: "D29"
 synonymes: ["veille réglementaire"]
-cross_refs: [239, 688]
+cross_refs: [239, 688, 16]
+depends_on: [239]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

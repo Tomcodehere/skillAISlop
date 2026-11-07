@@ -8,7 +8,7 @@ mot_cle: "tribunes d'expert"
 nom_court: "Tribunes"
 branche: "D18"
 synonymes: ["ghostwriter", "ghostwriting", "tribune"]
-cross_refs: [31, 386]
+cross_refs: [31, 386, 441]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

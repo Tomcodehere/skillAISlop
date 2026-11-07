@@ -8,7 +8,8 @@ mot_cle: "nettoyage appareils"
 nom_court: "Hygiène numérique"
 branche: "D23"
 synonymes: ["nettoyer mon pc"]
-cross_refs: [247, 665]
+cross_refs: [247, 665, 643]
+depends_on: [247]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

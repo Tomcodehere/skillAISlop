@@ -8,8 +8,9 @@ mot_cle: "data-lake-architecture-storage"
 nom_court: "Data Lake Architecture & Stora"
 branche: "D1"
 synonymes: ["conception", "architecture", "scratch"]
-cross_refs: [1050]
+cross_refs: [1050, 1067, 1281]
 tags: ["2027"]
+depends_on: [1067]
 ---
 
 ## 1098. 💻 Data Lake Architecture & Storage

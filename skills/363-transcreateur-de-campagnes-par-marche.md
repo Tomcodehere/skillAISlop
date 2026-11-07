@@ -8,7 +8,8 @@ mot_cle: "transcréateur de campagnes par marché"
 nom_court: "Transcréation"
 branche: "D20"
 synonymes: []
-cross_refs: [34, 280]
+cross_refs: [34, 280, 103]
+depends_on: [747]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

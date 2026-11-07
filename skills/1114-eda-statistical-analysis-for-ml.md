@@ -8,8 +8,9 @@ mot_cle: "eda-statistical-analysis-for-ml"
 nom_court: "EDA & Statistical Analysis for"
 branche: "D14"
 synonymes: ["phase", "initiale", "projet"]
-cross_refs: [1196]
+cross_refs: [1196, 1103, 1192]
 tags: ["2027"]
+depends_on: [1103]
 ---
 
 ## 1114. 🧠 EDA & Statistical Analysis for ML

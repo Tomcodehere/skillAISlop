@@ -8,7 +8,7 @@ mot_cle: "sous-titreur"
 nom_court: "Sous-titres"
 branche: "D19"
 synonymes: ["sous titrer", "sous-titres"]
-cross_refs: [24, 156]
+cross_refs: [24, 156, 378]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

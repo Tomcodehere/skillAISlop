@@ -8,7 +8,7 @@ mot_cle: "software-boundary-adr"
 nom_court: "Software Boundary ADR"
 branche: "D25"
 synonymes: ["demande", "portant", "software"]
-cross_refs: [210]
+cross_refs: [210, 317, 1246]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,7 @@ mot_cle: "suivi métabolique cgm"
 nom_court: "CGM perso"
 branche: "D27"
 synonymes: ["glycémie continue 2027"]
-cross_refs: [483, 816]
+cross_refs: [483, 816, 626]
 tags: ["2027"]
 ---
 

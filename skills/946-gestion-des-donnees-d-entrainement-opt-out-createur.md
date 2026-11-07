@@ -8,8 +8,9 @@ mot_cle: "opt-out entraînement ia"
 nom_court: "Opt-out IA"
 branche: "D29"
 synonymes: ["ne pas entraîner ia sur mon contenu"]
-cross_refs: [940, 901]
+cross_refs: [940, 901, 280]
 tags: ["2027"]
+depends_on: [940]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "streaming"
 nom_court: "Streamer"
 branche: "D28"
 synonymes: ["stream", "twitch"]
-cross_refs: [52, 157]
+cross_refs: [52, 157, 1053]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

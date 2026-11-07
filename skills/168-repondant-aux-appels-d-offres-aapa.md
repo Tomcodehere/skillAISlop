@@ -8,7 +8,8 @@ mot_cle: "répondant aux appels d'offres (aapa)"
 nom_court: "Appels d'offres"
 branche: "D21"
 synonymes: []
-cross_refs: [57, 62]
+cross_refs: [57, 62, 852]
+depends_on: [852]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

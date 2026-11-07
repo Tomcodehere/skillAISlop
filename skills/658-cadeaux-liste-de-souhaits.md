@@ -8,7 +8,8 @@ mot_cle: "cadeau"
 nom_court: "Cadeau"
 branche: "D26"
 synonymes: ["liste de naissance"]
-cross_refs: [218, 43]
+cross_refs: [218, 43, 1322]
+depends_on: [218]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

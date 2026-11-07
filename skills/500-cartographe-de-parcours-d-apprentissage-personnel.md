@@ -8,7 +8,8 @@ mot_cle: "parcours d'apprentissage personnel"
 nom_court: "Parcours perso"
 branche: "D26"
 synonymes: []
-cross_refs: [407, 497]
+cross_refs: [407, 497, 499]
+depends_on: [499]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "communauté"
 nom_court: "Communauté"
 branche: "D20"
 synonymes: []
-cross_refs: [135, 192]
+cross_refs: [135, 192, 361]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

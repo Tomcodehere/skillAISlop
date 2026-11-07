@@ -8,8 +8,9 @@ mot_cle: "droit à la déconnexion"
 nom_court: "Déconnexion"
 branche: "D29"
 synonymes: ["ne pas répondre le soir"]
-cross_refs: [884, 638]
+cross_refs: [884, 638, 555]
 tags: ["2027"]
+depends_on: [555]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

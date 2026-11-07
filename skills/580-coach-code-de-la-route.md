@@ -8,7 +8,8 @@ mot_cle: "code de la route"
 nom_court: "Code"
 branche: "D28"
 synonymes: ["permis"]
-cross_refs: [41, 496]
+cross_refs: [41, 496, 672]
+depends_on: [672]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

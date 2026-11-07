@@ -8,7 +8,7 @@ mot_cle: "paid-advertising-campaign-planning"
 nom_court: "Paid Advertising Campaign Plan"
 branche: "D22"
 synonymes: ["elaborer", "media", "campagne"]
-cross_refs: [1236]
+cross_refs: [1236, 1217, 1012]
 tags: ["2027"]
 ---
 

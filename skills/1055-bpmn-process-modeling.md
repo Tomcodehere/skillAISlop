@@ -8,8 +8,9 @@ mot_cle: "bpmn-process-modeling"
 nom_court: "BPMN Process Modeling"
 branche: "D14"
 synonymes: ["modelise", "processus", "cartographie"]
-cross_refs: [738]
+cross_refs: [738, 1233, 1129]
 tags: ["2027"]
+depends_on: [1129]
 ---
 
 ## 1055. 🧠 BPMN Process Modeling

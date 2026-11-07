@@ -8,7 +8,7 @@ mot_cle: "infographie animée"
 nom_court: "Infographie"
 branche: "D4"
 synonymes: []
-cross_refs: []
+cross_refs: [728, 1097, 1234]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

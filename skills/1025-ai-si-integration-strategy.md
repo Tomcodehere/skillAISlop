@@ -8,8 +8,9 @@ mot_cle: "ai-si-integration-strategy"
 nom_court: "AI-SI Integration Strategy"
 branche: "D25"
 synonymes: []
-cross_refs: [760]
+cross_refs: [760, 430, 317]
 tags: ["2027"]
+depends_on: [430]
 ---
 
 ## 1025. 📋 AI-SI Integration Strategy

@@ -8,7 +8,7 @@ mot_cle: "avocat du diable"
 nom_court: "Diable"
 branche: "D10"
 synonymes: []
-cross_refs: [19, 60]
+cross_refs: [19, 60, 844]
 tags: ["aihero:wayfinder", "aihero:grilling", "aihero:to-questionnaire"]
 ---
 

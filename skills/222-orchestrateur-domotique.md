@@ -8,7 +8,7 @@ mot_cle: "orchestrateur domotique"
 nom_court: "Domotique"
 branche: "D26"
 synonymes: []
-cross_refs: [71, 72]
+cross_refs: [71, 72, 1315]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

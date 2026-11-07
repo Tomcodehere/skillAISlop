@@ -8,8 +8,9 @@ mot_cle: "billet pas cher"
 nom_court: "Billet low-cost"
 branche: "D26"
 synonymes: ["vol low cost"]
-cross_refs: [656, 42]
+cross_refs: [656, 42, 934]
 tags: ["2027"]
+depends_on: [934]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

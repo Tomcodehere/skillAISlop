@@ -8,8 +8,9 @@ mot_cle: "game-music-composition-themes"
 nom_court: "Game Music Composition & Theme"
 branche: "D14"
 synonymes: ["demande", "portant", "music"]
-cross_refs: [1147]
+cross_refs: [1147, 1138, 1200]
 tags: ["2027"]
+depends_on: [1138]
 ---
 
 ## 1141. 🧠 Game Music Composition & Themes

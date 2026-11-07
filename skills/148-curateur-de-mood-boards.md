@@ -8,7 +8,7 @@ mot_cle: "mood boards"
 nom_court: "Moodboards"
 branche: "D19"
 synonymes: []
-cross_refs: [34, 149]
+cross_refs: [34, 149, 218]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

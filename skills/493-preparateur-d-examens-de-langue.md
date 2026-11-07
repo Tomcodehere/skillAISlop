@@ -8,7 +8,8 @@ mot_cle: "examens de langue"
 nom_court: "Examens langue"
 branche: "D26"
 synonymes: []
-cross_refs: [496, 498]
+cross_refs: [496, 498, 1343]
+depends_on: [1343]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

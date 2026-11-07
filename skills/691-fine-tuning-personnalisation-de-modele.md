@@ -8,7 +8,8 @@ mot_cle: "fine-tuning"
 nom_court: "Fine-tuning"
 branche: "D14"
 synonymes: ["lora", "entraîner un modèle"]
-cross_refs: [266, 689]
+cross_refs: [266, 689, 336]
+depends_on: [266]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

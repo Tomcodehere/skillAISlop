@@ -8,7 +8,8 @@ mot_cle: "entretiens utilisateurs recherche"
 nom_court: "User interviews"
 branche: "D22"
 synonymes: ["retours utilisateurs"]
-cross_refs: [187, 188]
+cross_refs: [187, 188, 130]
+depends_on: [187]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "interviews utilisateurs"
 nom_court: "Interviews"
 branche: "D22"
 synonymes: []
-cross_refs: [12, 188]
+cross_refs: [12, 188, 734]
 tags: ["aihero:to-spec"]
+depends_on: [734]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

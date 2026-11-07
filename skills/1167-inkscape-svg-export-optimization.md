@@ -8,8 +8,9 @@ mot_cle: "inkscape-svg-export-optimization"
 nom_court: "Inkscape SVG Export & Optimiza"
 branche: "D1"
 synonymes: ["demande", "portant", "inkscape"]
-cross_refs: [1026]
+cross_refs: [1026, 1050, 1200]
 tags: ["2027"]
+depends_on: [1050]
 ---
 
 ## 1167. 💻 Inkscape SVG Export & Optimization

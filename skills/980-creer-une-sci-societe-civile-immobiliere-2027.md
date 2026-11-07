@@ -8,8 +8,9 @@ mot_cle: "créer une sci 2027"
 nom_court: "SCI"
 branche: "D29"
 synonymes: ["sci immobilière"]
-cross_refs: [892, 837]
+cross_refs: [892, 837, 552]
 tags: ["2027"]
+depends_on: [892]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

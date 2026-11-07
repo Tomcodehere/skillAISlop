@@ -8,7 +8,7 @@ mot_cle: "tva"
 nom_court: "TVA"
 branche: "D29"
 synonymes: ["déclaration fiscale"]
-cross_refs: [297, 588]
+cross_refs: [297, 588, 403]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

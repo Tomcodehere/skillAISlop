@@ -8,7 +8,8 @@ mot_cle: "tâches (to-do)"
 nom_court: "To-do"
 branche: "D26"
 synonymes: ["liste de taches", "to-do", "todo"]
-cross_refs: [26, 72]
+cross_refs: [26, 72, 269]
+depends_on: [26]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

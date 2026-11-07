@@ -8,8 +8,9 @@ mot_cle: "mariadb-performance-reliability"
 nom_court: "MariaDB Performance & Reliabil"
 branche: "D25"
 synonymes: ["requetes", "lentes", "mariadb"]
-cross_refs: [532]
+cross_refs: [532, 1139, 1099]
 tags: ["2027"]
+depends_on: [1139]
 ---
 
 ## 1184. 📋 MariaDB Performance & Reliability

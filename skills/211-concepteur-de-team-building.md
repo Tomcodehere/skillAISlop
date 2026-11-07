@@ -8,7 +8,7 @@ mot_cle: "team building"
 nom_court: "Team building"
 branche: "D25"
 synonymes: []
-cross_refs: [208, 211]
+cross_refs: [208, 211, 428]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

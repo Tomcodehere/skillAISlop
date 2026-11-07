@@ -8,7 +8,7 @@ mot_cle: "réunions multilingues"
 nom_court: "Multilingue"
 branche: "D25"
 synonymes: []
-cross_refs: [24, 212]
+cross_refs: [24, 212, 209]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

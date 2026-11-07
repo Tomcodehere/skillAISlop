@@ -8,8 +8,9 @@ mot_cle: "hébergement européen souverain"
 nom_court: "Souveraineté UE"
 branche: "D16"
 synonymes: ["données en europe"]
-cross_refs: [841, 841]
+cross_refs: [841, 722, 687]
 tags: ["2027"]
+depends_on: [687]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

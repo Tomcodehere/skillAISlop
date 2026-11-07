@@ -8,8 +8,9 @@ mot_cle: "sécurité enfants en ligne"
 nom_court: "E-sécurité enfants"
 branche: "D23"
 synonymes: ["contrôle parental"]
-cross_refs: [597, 813]
+cross_refs: [597, 813, 758]
 tags: ["2027"]
+depends_on: [597]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

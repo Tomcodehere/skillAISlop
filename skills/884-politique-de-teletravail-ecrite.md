@@ -8,8 +8,9 @@ mot_cle: "accord télétravail"
 nom_court: "Accord TT"
 branche: "D24"
 synonymes: ["charte télétravail"]
-cross_refs: [642, 412]
+cross_refs: [642, 412, 207]
 tags: ["2027"]
+depends_on: [412]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

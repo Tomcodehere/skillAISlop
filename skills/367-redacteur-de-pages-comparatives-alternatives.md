@@ -8,7 +8,8 @@ mot_cle: "pages comparatives & alternatives"
 nom_court: "Alternatives"
 branche: "D20"
 synonymes: []
-cross_refs: [123, 164]
+cross_refs: [123, 164, 128]
+depends_on: [123]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

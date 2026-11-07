@@ -8,7 +8,7 @@ mot_cle: "allaitement"
 nom_court: "Allaitement"
 branche: "D27"
 synonymes: ["diversification"]
-cross_refs: [520, 486]
+cross_refs: [520, 486, 484]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

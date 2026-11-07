@@ -8,8 +8,9 @@ mot_cle: "organiser un evjf 2027"
 nom_court: "EVJF 2027"
 branche: "D26"
 synonymes: ["evg 2027"]
-cross_refs: [972, 863]
+cross_refs: [972, 863, 1323]
 tags: ["2027"]
+depends_on: [863]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

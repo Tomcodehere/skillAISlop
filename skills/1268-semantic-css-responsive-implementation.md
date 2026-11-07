@@ -8,7 +8,7 @@ mot_cle: "semantic-css-responsive-implementation"
 nom_court: "Semantic CSS Responsive Implem"
 branche: "D1"
 synonymes: ["demande", "portant", "semantic"]
-cross_refs: [322]
+cross_refs: [322, 1017, 21]
 tags: ["2027"]
 ---
 

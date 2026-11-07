@@ -8,7 +8,7 @@ mot_cle: "recrutement par compétences"
 nom_court: "Skills-based hiring"
 branche: "D25"
 synonymes: ["marque employeur 2027"]
-cross_refs: [790, 912]
+cross_refs: [790, 912, 362]
 tags: ["2027"]
 ---
 

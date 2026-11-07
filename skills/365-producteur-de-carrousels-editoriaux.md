@@ -8,7 +8,7 @@ mot_cle: "carrousels éditoriaux"
 nom_court: "Carrousels"
 branche: "D20"
 synonymes: []
-cross_refs: [31, 53]
+cross_refs: [31, 53, 728]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

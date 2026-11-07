@@ -8,7 +8,8 @@ mot_cle: "mutuelles & santé"
 nom_court: "Mutuelles"
 branche: "D27"
 synonymes: ["mutuelle"]
-cross_refs: [137, 485]
+cross_refs: [137, 485, 1333]
+depends_on: [1333]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

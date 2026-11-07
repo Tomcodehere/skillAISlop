@@ -8,7 +8,7 @@ mot_cle: "protected-group-evaluation-protocol"
 nom_court: "Protected-Group Evaluation Pro"
 branche: "D14"
 synonymes: ["demande", "portant", "protected-group"]
-cross_refs: [224]
+cross_refs: [224, 1114, 1103]
 tags: ["2027"]
 ---
 

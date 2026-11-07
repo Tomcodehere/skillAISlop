@@ -8,7 +8,8 @@ mot_cle: "cuisine du quotidien"
 nom_court: "Cuisine"
 branche: "D27"
 synonymes: []
-cross_refs: [216, 486]
+cross_refs: [216, 486, 868]
+depends_on: [868]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

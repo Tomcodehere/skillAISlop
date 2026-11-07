@@ -8,7 +8,8 @@ mot_cle: "documents de conformité"
 nom_court: "Conformité"
 branche: "D23"
 synonymes: ["conformité", "données personnelles", "rgpd"]
-cross_refs: [16, 193]
+cross_refs: [16, 193, 753]
+depends_on: [753]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

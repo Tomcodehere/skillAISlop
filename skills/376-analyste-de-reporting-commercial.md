@@ -8,7 +8,8 @@ mot_cle: "reporting commercial"
 nom_court: "Reporting commercial"
 branche: "D21"
 synonymes: []
-cross_refs: [36, 372]
+cross_refs: [36, 372, 896]
+depends_on: [372]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

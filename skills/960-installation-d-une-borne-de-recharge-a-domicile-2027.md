@@ -8,8 +8,9 @@ mot_cle: "borne de recharge domicile"
 nom_court: "Borne recharge"
 branche: "D26"
 synonymes: ["installer wallbox"]
-cross_refs: [959, 935]
+cross_refs: [959, 935, 630]
 tags: ["2027"]
+depends_on: [630]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

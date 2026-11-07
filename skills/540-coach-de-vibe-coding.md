@@ -8,7 +8,8 @@ mot_cle: "vibe coding"
 nom_court: "Vibe coding"
 branche: "D30"
 synonymes: []
-cross_refs: [20, 78]
+cross_refs: [20, 78, 809]
+depends_on: [809]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "restaurateur de photos anciennes"
 nom_court: "Photos"
 branche: "D19"
 synonymes: []
-cross_refs: [28, 139]
+cross_refs: [28, 139, 472]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

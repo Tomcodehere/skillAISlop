@@ -8,7 +8,7 @@ mot_cle: "audiences & listes emailing"
 nom_court: "Audiences"
 branche: "D20"
 synonymes: []
-cross_refs: [189, 357]
+cross_refs: [189, 357, 478]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

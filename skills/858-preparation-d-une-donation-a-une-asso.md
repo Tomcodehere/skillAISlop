@@ -8,7 +8,7 @@ mot_cle: "don association"
 nom_court: "Don asso"
 branche: "D29"
 synonymes: ["mécénat"]
-cross_refs: [812, 856]
+cross_refs: [812, 856, 892]
 tags: ["2027"]
 ---
 

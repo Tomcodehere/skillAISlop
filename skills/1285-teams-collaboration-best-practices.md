@@ -8,7 +8,7 @@ mot_cle: "teams-collaboration-best-practices"
 nom_court: "Teams Collaboration Best Pract"
 branche: "D1"
 synonymes: ["structurer", "equipes", "canaux"]
-cross_refs: [803]
+cross_refs: [803, 1183, 1220]
 tags: ["2027"]
 ---
 

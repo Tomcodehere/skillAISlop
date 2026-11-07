@@ -8,7 +8,8 @@ mot_cle: "données web (scraping)"
 nom_court: "Scraping"
 branche: "D15"
 synonymes: ["scraper", "scraping"]
-cross_refs: [69, 92]
+cross_refs: [69, 92, 95]
+depends_on: [95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

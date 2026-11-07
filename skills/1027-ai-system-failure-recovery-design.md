@@ -8,8 +8,9 @@ mot_cle: "ai-system-failure-recovery-design"
 nom_court: "AI System Failure Recovery Des"
 branche: "D14"
 synonymes: ["demande", "portant", "failure"]
-cross_refs: [719]
+cross_refs: [719, 1108, 1281]
 tags: ["2027"]
+depends_on: [259]
 ---
 
 ## 1027. 🧠 AI System Failure Recovery Design

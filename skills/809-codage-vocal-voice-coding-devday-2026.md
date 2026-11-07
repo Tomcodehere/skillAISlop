@@ -8,8 +8,9 @@ mot_cle: "codage vocal"
 nom_court: "Voice coding"
 branche: "D1"
 synonymes: ["coder à la voix"]
-cross_refs: [76, 471]
+cross_refs: [76, 471, 540]
 tags: ["2027"]
+depends_on: [540]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

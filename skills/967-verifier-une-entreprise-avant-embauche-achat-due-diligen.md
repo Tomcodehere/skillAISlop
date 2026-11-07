@@ -8,8 +8,9 @@ mot_cle: "vérifier une entreprise 2027"
 nom_court: "Due diligence légère"
 branche: "D17"
 synonymes: ["vérifier employeur"]
-cross_refs: [874, 647]
+cross_refs: [874, 647, 842]
 tags: ["2027"]
+depends_on: [842]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

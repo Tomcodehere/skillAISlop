@@ -8,7 +8,8 @@ mot_cle: "messages de changement"
 nom_court: "Messages changement"
 branche: "D25"
 synonymes: []
-cross_refs: [397, 424]
+cross_refs: [397, 424, 423]
+depends_on: [423]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

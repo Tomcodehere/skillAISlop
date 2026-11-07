@@ -8,7 +8,7 @@ mot_cle: "chiffrement & tls"
 nom_court: "Chiffrement"
 branche: "D23"
 synonymes: ["chiffrement", "tls"]
-cross_refs: [189, 306]
+cross_refs: [189, 306, 447]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

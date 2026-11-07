@@ -8,7 +8,8 @@ mot_cle: "registres rgpd"
 nom_court: "Registres"
 branche: "D23"
 synonymes: []
-cross_refs: [189, 190]
+cross_refs: [189, 190, 751]
+depends_on: [189]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

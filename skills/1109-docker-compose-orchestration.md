@@ -8,7 +8,7 @@ mot_cle: "docker-compose-orchestration"
 nom_court: "Docker Compose Orchestration"
 branche: "D1"
 synonymes: ["docker-compose", "orchestration", "locale"]
-cross_refs: [314]
+cross_refs: [314, 1121, 317]
 tags: ["2027", "aihero:software-factory"]
 ---
 

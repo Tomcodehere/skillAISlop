@@ -8,8 +8,9 @@ mot_cle: "organiser un pot de départ"
 nom_court: "Pot de départ"
 branche: "D25"
 synonymes: ["événement équipe 2027"]
-cross_refs: [863, 657]
+cross_refs: [863, 657, 987]
 tags: ["2027"]
+depends_on: [399]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

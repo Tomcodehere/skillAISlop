@@ -8,7 +8,8 @@ mot_cle: "charges de copropriété"
 nom_court: "Copropriété"
 branche: "D29"
 synonymes: ["conseil syndical", "assemblée générale copro"]
-cross_refs: [595, 243]
+cross_refs: [595, 243, 893]
+depends_on: [595]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

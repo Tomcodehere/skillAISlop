@@ -8,7 +8,8 @@ mot_cle: "communicant de crise"
 nom_court: "Crise"
 branche: "D25"
 synonymes: ["bad buzz", "communication de crise", "crise"]
-cross_refs: [46, 89]
+cross_refs: [46, 89, 696]
+depends_on: [696]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

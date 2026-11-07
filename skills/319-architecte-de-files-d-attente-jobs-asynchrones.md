@@ -8,7 +8,7 @@ mot_cle: "files d'attente & jobs asynchrones"
 nom_court: "Jobs async"
 branche: "D15"
 synonymes: []
-cross_refs: [71, 322]
+cross_refs: [71, 322, 313]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

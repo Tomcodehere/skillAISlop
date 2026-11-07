@@ -8,7 +8,8 @@ mot_cle: "négociation d'achats importants"
 nom_court: "Négociation achats"
 branche: "D26"
 synonymes: []
-cross_refs: [473, 474]
+cross_refs: [473, 474, 45]
+depends_on: [219]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

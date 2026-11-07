@@ -8,7 +8,8 @@ mot_cle: "navigation & arborescence produit"
 nom_court: "Navigation"
 branche: "D22"
 synonymes: []
-cross_refs: [433, 456]
+cross_refs: [433, 456, 179]
+depends_on: [179]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "copropriété"
 nom_court: "Copropriété"
 branche: "D29"
 synonymes: ["copropriété", "syndic"]
-cross_refs: [473, 554]
+cross_refs: [473, 554, 677]
+depends_on: [677]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

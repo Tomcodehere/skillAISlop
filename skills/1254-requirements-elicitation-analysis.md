@@ -8,7 +8,7 @@ mot_cle: "requirements-elicitation-analysis"
 nom_court: "Requirements Elicitation & Ana"
 branche: "D22"
 synonymes: ["recueil", "besoins", "ateliers"]
-cross_refs: [1176]
+cross_refs: [1176, 1070, 1161]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "anonymisateur de données (rgpd)"
 nom_court: "Anonymisation"
 branche: "D23"
 synonymes: []
-cross_refs: [92, 196]
+cross_refs: [92, 196, 695]
+depends_on: [695]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

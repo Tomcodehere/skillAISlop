@@ -8,7 +8,8 @@ mot_cle: "sobriété numérique"
 nom_court: "Green IT"
 branche: "D16"
 synonymes: ["empreinte carbone numérique"]
-cross_refs: [470, 90]
+cross_refs: [470, 90, 924]
+depends_on: [924]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "questions-réponses en direct"
 nom_court: "Q&A live"
 branche: "D25"
 synonymes: ["q&a en direct", "questions reponses en direct"]
-cross_refs: [235, 404]
+cross_refs: [235, 404, 73]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

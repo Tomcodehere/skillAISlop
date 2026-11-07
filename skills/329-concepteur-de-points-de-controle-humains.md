@@ -8,7 +8,8 @@ mot_cle: "points de contrôle humains"
 nom_court: "Contrôle humain"
 branche: "D14"
 synonymes: []
-cross_refs: [194, 197]
+cross_refs: [194, 197, 288]
+depends_on: [288]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "arnaque en ligne"
 nom_court: "Arnaques en ligne"
 branche: "D23"
 synonymes: ["faux sms", "usurpation d'identité"]
-cross_refs: [530, 509]
+cross_refs: [530, 509, 1336]
+depends_on: [1336]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

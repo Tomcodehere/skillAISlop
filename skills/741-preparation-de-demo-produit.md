@@ -8,7 +8,8 @@ mot_cle: "démo produit"
 nom_court: "Démo"
 branche: "D21"
 synonymes: ["démo personnalisée"]
-cross_refs: [368, 165]
+cross_refs: [368, 165, 179]
+depends_on: [368]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

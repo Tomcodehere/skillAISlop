@@ -8,7 +8,8 @@ mot_cle: "documentation technique"
 nom_court: "Doc"
 branche: "D1"
 synonymes: []
-cross_refs: [22]
+cross_refs: [22, 180, 606]
+depends_on: [180]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

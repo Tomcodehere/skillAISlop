@@ -8,7 +8,7 @@ mot_cle: "market-competitive-intelligence"
 nom_court: "Market & Competitive Intellige"
 branche: "D17"
 synonymes: ["comprendre", "evolution", "marche"]
-cross_refs: [102]
+cross_refs: [102, 1131, 1041]
 tags: ["2027"]
 ---
 

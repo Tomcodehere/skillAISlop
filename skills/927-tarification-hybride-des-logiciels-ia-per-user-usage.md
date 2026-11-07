@@ -8,7 +8,7 @@ mot_cle: "coût logiciels ia 2027"
 nom_court: "Coût SaaS IA"
 branche: "D25"
 synonymes: ["budget ia 2027"]
-cross_refs: [694, 882]
+cross_refs: [694, 882, 760]
 tags: ["2027"]
 ---
 

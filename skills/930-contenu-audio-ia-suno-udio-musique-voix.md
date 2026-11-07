@@ -8,8 +8,9 @@ mot_cle: "musique ia 2027"
 nom_court: "Musique IA"
 branche: "D19"
 synonymes: ["suno udio"]
-cross_refs: [154, 561]
+cross_refs: [154, 561, 157]
 tags: ["2027"]
+depends_on: [154]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

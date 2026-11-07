@@ -8,7 +8,7 @@ mot_cle: "verbatims à grande échelle"
 nom_court: "Verbatims"
 branche: "D17"
 synonymes: []
-cross_refs: [55, 113]
+cross_refs: [55, 113, 13]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

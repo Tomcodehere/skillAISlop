@@ -8,7 +8,7 @@ mot_cle: "rentabilité unitaire"
 nom_court: "Marges"
 branche: "D21"
 synonymes: []
-cross_refs: [58, 59]
+cross_refs: [58, 59, 831]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "libre-software-advocacy-licensing"
 nom_court: "Libre Software Advocacy & Lice"
 branche: "D14"
 synonymes: ["alternative", "libre", "source"]
-cross_refs: [262]
+cross_refs: [262, 553, 1002]
 tags: ["2027"]
 ---
 

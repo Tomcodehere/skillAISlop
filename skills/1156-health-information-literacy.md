@@ -8,7 +8,7 @@ mot_cle: "health-information-literacy"
 nom_court: "Health Information Literacy"
 branche: "D22"
 synonymes: ["utilisateur", "demande", "explication"]
-cross_refs: [1057]
+cross_refs: [1057, 1028, 374]
 tags: ["2027"]
 ---
 

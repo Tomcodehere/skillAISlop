@@ -8,7 +8,7 @@ mot_cle: "en-têtes http & cookies"
 nom_court: "En-têtes"
 branche: "D23"
 synonymes: ["csp", "en-têtes http", "hsts"]
-cross_refs: [70, 501]
+cross_refs: [70, 501, 508]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

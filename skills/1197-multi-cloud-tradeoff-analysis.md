@@ -8,7 +8,7 @@ mot_cle: "multi-cloud-tradeoff-analysis"
 nom_court: "Multi-Cloud Tradeoff Analysis"
 branche: "D25"
 synonymes: ["compare", "azure", "faut-il"]
-cross_refs: [668]
+cross_refs: [668, 1038, 1074]
 tags: ["2027"]
 ---
 

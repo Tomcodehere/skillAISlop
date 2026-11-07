@@ -8,7 +8,8 @@ mot_cle: "incident de sécurité"
 nom_court: "Incident cyber"
 branche: "D23"
 synonymes: ["cyberattaque"]
-cross_refs: [256, 441]
+cross_refs: [256, 441, 199]
+depends_on: [199]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

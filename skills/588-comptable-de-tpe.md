@@ -8,7 +8,8 @@ mot_cle: "comptabilité tpe"
 nom_court: "Compta TPE"
 branche: "D29"
 synonymes: ["comptabilité"]
-cross_refs: [59, 170]
+cross_refs: [59, 170, 640]
+depends_on: [640]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

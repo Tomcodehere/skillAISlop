@@ -8,8 +8,9 @@ mot_cle: "brand-positioning-strategy"
 nom_court: "Brand Positioning Strategy"
 branche: "D20"
 synonymes: ["definir", "revoir", "positionnement"]
-cross_refs: [360]
+cross_refs: [360, 362, 1271]
 tags: ["2027"]
+depends_on: [362]
 ---
 
 ## 1056. 📣 Brand Positioning Strategy

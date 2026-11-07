@@ -8,7 +8,7 @@ mot_cle: "paliers d'offre"
 nom_court: "Paliers offre"
 branche: "D22"
 synonymes: []
-cross_refs: [353, 369]
+cross_refs: [353, 369, 58]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

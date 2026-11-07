@@ -8,8 +8,9 @@ mot_cle: "premiers secours 2027"
 nom_court: "PSC1"
 branche: "D26"
 synonymes: ["trousse secours"]
-cross_refs: [859, 915]
+cross_refs: [859, 915, 477]
 tags: ["2027"]
+depends_on: [859]
 ---
 
 ## 1335. ⛑️ Premiers secours & trousse d'urgence (2027)

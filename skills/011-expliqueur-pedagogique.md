@@ -8,7 +8,7 @@ mot_cle: "expliqueur pédagogique"
 nom_court: ""
 branche: "K"
 synonymes: []
-cross_refs: [40]
+cross_refs: [40, 201, 295]
 tags: ["aihero:teach"]
 ---
 

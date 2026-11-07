@@ -8,7 +8,8 @@ mot_cle: "horaires atypiques"
 nom_court: "Horaires atypiques"
 branche: "D25"
 synonymes: []
-cross_refs: [420, 421]
+cross_refs: [420, 421, 72]
+depends_on: [72]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

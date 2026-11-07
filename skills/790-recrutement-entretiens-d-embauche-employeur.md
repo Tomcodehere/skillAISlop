@@ -8,7 +8,8 @@ mot_cle: "recruter"
 nom_court: "Recrutement"
 branche: "D24"
 synonymes: ["entretien d'embauche employeur"]
-cross_refs: [276, 408]
+cross_refs: [276, 408, 887]
+depends_on: [887]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

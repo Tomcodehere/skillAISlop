@@ -8,8 +8,9 @@ mot_cle: "metadata-classification-policy"
 nom_court: "Metadata Classification Policy"
 branche: "D14"
 synonymes: ["demande", "portant", "metadata"]
-cross_refs: [1234]
+cross_refs: [1234, 1100, 1101]
 tags: ["2027"]
+depends_on: [1100]
 ---
 
 ## 1190. 🤖 Metadata Classification Policy

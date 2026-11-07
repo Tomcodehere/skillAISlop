@@ -8,7 +8,7 @@ mot_cle: "générateur de noms"
 nom_court: "Naming"
 branche: "D7"
 synonymes: []
-cross_refs: [16]
+cross_refs: [16, 119, 142]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

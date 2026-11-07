@@ -8,7 +8,7 @@ mot_cle: "profileur mémoire & cpu"
 nom_court: "Profileur"
 branche: "D16"
 synonymes: []
-cross_refs: [256, 309]
+cross_refs: [256, 309, 560]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

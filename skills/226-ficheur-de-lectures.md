@@ -8,7 +8,7 @@ mot_cle: "ficheur de lectures"
 nom_court: "Lectures"
 branche: "D18"
 synonymes: []
-cross_refs: [5, 104]
+cross_refs: [5, 104, 464]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

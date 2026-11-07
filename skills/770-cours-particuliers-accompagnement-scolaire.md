@@ -8,7 +8,8 @@ mot_cle: "cours particuliers"
 nom_court: "Cours particuliers"
 branche: "D28"
 synonymes: ["soutien scolaire"]
-cross_refs: [570, 132]
+cross_refs: [570, 132, 571]
+depends_on: [571]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

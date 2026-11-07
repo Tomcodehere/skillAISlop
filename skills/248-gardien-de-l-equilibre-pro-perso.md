@@ -8,7 +8,7 @@ mot_cle: "l'équilibre pro-perso"
 nom_court: "Équilibre"
 branche: "D26"
 synonymes: []
-cross_refs: [72, 223]
+cross_refs: [72, 223, 482]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "hôtel sommeil 2027"
 nom_court: "Sleep tourism"
 branche: "D27"
 synonymes: ["voyage sommeil"]
-cross_refs: [814, 915]
+cross_refs: [814, 915, 1325]
 tags: ["2027"]
+depends_on: [1325]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

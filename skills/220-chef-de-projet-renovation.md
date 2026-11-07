@@ -8,7 +8,8 @@ mot_cle: "chef de projet rénovation"
 nom_court: "Rénovation"
 branche: "D26"
 synonymes: []
-cross_refs: [15, 219]
+cross_refs: [15, 219, 678]
+depends_on: [678]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

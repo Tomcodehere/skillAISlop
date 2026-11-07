@@ -8,7 +8,7 @@ mot_cle: "progression"
 nom_court: "Progression"
 branche: "D24"
 synonymes: []
-cross_refs: [72, 205]
+cross_refs: [72, 205, 407]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

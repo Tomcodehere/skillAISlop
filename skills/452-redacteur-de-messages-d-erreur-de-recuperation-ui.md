@@ -8,7 +8,8 @@ mot_cle: "messages d'erreur & de récupération ui"
 nom_court: "Erreurs UI"
 branche: "D22"
 synonymes: []
-cross_refs: [390, 453]
+cross_refs: [390, 453, 423]
+depends_on: [138]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

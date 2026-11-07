@@ -8,8 +8,9 @@ mot_cle: "ux-researcher-discovery"
 nom_court: "UX Researcher (Discovery)"
 branche: "D22"
 synonymes: ["hypotheses", "produit", "validees"]
-cross_refs: [1079]
+cross_refs: [1079, 1023, 176]
 tags: ["2027"]
+depends_on: [1023]
 ---
 
 ## 1300. 📦 UX Researcher (Discovery)

@@ -8,7 +8,7 @@ mot_cle: "objectifs sli/slo"
 nom_court: "SLI/SLO"
 branche: "D17"
 synonymes: []
-cross_refs: [199, 431]
+cross_refs: [199, 431, 238]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

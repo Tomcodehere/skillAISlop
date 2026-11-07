@@ -8,7 +8,8 @@ mot_cle: "localisateur de contenu & d'app i18n"
 nom_court: "i18n"
 branche: "D18"
 synonymes: []
-cross_refs: [7, 117]
+cross_refs: [7, 117, 389]
+depends_on: [389]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

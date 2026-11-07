@@ -8,7 +8,8 @@ mot_cle: "colocation"
 nom_court: "Colocation"
 branche: "D27"
 synonymes: ["colocation"]
-cross_refs: [46, 554]
+cross_refs: [46, 554, 869]
+depends_on: [869]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

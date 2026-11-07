@@ -8,7 +8,7 @@ mot_cle: "évaluations llm (evals)"
 nom_court: "Evals"
 branche: "D14"
 synonymes: []
-cross_refs: [17, 37]
+cross_refs: [17, 37, 206]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

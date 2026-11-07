@@ -8,7 +8,8 @@ mot_cle: "désencombrement"
 nom_court: "Désencombrement"
 branche: "D27"
 synonymes: ["désencombrement", "rangement"]
-cross_refs: [225, 480]
+cross_refs: [225, 480, 1347]
+depends_on: [1347]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

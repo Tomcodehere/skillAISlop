@@ -8,7 +8,7 @@ mot_cle: "rédiger un testament"
 nom_court: "Testament"
 branche: "D29"
 synonymes: ["faire son testament"]
-cross_refs: [837, 651]
+cross_refs: [837, 651, 1341]
 tags: ["2027"]
 ---
 

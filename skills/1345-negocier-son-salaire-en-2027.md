@@ -8,8 +8,9 @@ mot_cle: "négocier salaire 2027"
 nom_court: "Négocier salaire"
 branche: "D6"
 synonymes: ["augmentation 2027"]
-cross_refs: [875, 912]
+cross_refs: [875, 912, 773]
 tags: ["2027"]
+depends_on: [875]
 ---
 
 ## 1345. 💶 Négocier son salaire en 2027

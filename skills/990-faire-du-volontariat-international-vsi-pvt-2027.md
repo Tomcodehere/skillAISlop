@@ -8,7 +8,7 @@ mot_cle: "volontariat international 2027"
 nom_court: "VSI 2027"
 branche: "D6"
 synonymes: ["pvt 2027"]
-cross_refs: [958, 919]
+cross_refs: [958, 919, 699]
 tags: ["2027"]
 ---
 

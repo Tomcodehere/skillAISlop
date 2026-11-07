@@ -8,7 +8,8 @@ mot_cle: "montée de versions"
 nom_court: "Montée versions"
 branche: "D15"
 synonymes: []
-cross_refs: [86, 267]
+cross_refs: [86, 267, 255]
+depends_on: [255]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

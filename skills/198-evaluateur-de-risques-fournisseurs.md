@@ -8,7 +8,8 @@ mot_cle: "évaluateur de risques fournisseurs"
 nom_court: "Fournisseurs"
 branche: "D23"
 synonymes: []
-cross_refs: [196, 197]
+cross_refs: [196, 197, 431]
+depends_on: [431]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

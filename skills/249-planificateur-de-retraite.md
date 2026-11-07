@@ -8,7 +8,8 @@ mot_cle: "retraite"
 nom_court: "Retraite"
 branche: "D26"
 synonymes: []
-cross_refs: [43, 227]
+cross_refs: [43, 227, 682]
+depends_on: [682]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "génération d'images"
 nom_court: "Images"
 branche: "D19"
 synonymes: []
-cross_refs: [148, 150]
+cross_refs: [148, 150, 546]
+depends_on: [546]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

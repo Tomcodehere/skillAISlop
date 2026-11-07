@@ -8,7 +8,7 @@ mot_cle: "designer sonore de marque"
 nom_court: "Jingles"
 branche: "D19"
 synonymes: []
-cross_refs: [34, 155]
+cross_refs: [34, 155, 362]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

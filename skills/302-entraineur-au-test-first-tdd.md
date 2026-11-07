@@ -8,7 +8,8 @@ mot_cle: "test-first (tdd)"
 nom_court: "TDD"
 branche: "D16"
 synonymes: []
-cross_refs: [21, 67]
+cross_refs: [21, 67, 9]
+depends_on: [9]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

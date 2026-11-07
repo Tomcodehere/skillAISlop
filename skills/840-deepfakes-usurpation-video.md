@@ -8,8 +8,9 @@ mot_cle: "deepfake"
 nom_court: "Deepfake"
 branche: "D23"
 synonymes: ["vidéo truquée"]
-cross_refs: [561, 824]
+cross_refs: [561, 824, 144]
 tags: ["2027"]
+depends_on: [685]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

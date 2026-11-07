@@ -8,7 +8,7 @@ mot_cle: "asp-net-core-api-development"
 nom_court: "ASP.NET Core API Development"
 branche: "D1"
 synonymes: ["controllers", "minimal", "swagger"]
-cross_refs: [1194]
+cross_refs: [1194, 1118, 526]
 tags: ["2027"]
 ---
 

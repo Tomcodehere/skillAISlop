@@ -8,8 +8,9 @@ mot_cle: "déménagement local 2027"
 nom_court: "Déménagement"
 branche: "D26"
 synonymes: ["changer d'appartement"]
-cross_refs: [991, 955]
+cross_refs: [991, 955, 869]
 tags: ["2027"]
+depends_on: [869]
 ---
 
 ## 1330. 📦 Préparation d'un déménagement local (2027)

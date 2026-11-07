@@ -8,7 +8,7 @@ mot_cle: "readme"
 nom_court: "README"
 branche: "D15"
 synonymes: []
-cross_refs: [23, 311]
+cross_refs: [23, 311, 316]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

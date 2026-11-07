@@ -8,7 +8,8 @@ mot_cle: "carnet d'entretien véhicule"
 nom_court: "Auto"
 branche: "D26"
 synonymes: ["entretien auto", "vehicule", "voiture"]
-cross_refs: [43, 219]
+cross_refs: [43, 219, 655]
+depends_on: [655]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

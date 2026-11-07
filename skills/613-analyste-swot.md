@@ -8,7 +8,8 @@ mot_cle: "swot"
 nom_court: "SWOT"
 branche: "D10"
 synonymes: ["swot"]
-cross_refs: [60, 103]
+cross_refs: [60, 103, 112]
+depends_on: [103]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

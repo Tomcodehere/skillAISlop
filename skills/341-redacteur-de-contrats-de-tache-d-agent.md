@@ -8,7 +8,8 @@ mot_cle: "contrats de tâche d'agent"
 nom_court: "Contrats tâche"
 branche: "D14"
 synonymes: []
-cross_refs: [259, 332]
+cross_refs: [259, 332, 947]
+depends_on: [947]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

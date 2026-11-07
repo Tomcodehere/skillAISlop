@@ -8,7 +8,8 @@ mot_cle: "messages d'erreur"
 nom_court: "Messages d erreur"
 branche: "D18"
 synonymes: []
-cross_refs: [394, 452]
+cross_refs: [394, 452, 423]
+depends_on: [379]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

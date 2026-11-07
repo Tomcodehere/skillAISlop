@@ -8,7 +8,8 @@ mot_cle: "maintien à domicile"
 nom_court: "Maintien à domicile"
 branche: "D26"
 synonymes: ["aide à domicile"]
-cross_refs: [581, 482]
+cross_refs: [581, 482, 1332]
+depends_on: [1332]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

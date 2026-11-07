@@ -8,7 +8,7 @@ mot_cle: "optimiseur finops (coûts cloud)"
 nom_court: "FinOps"
 branche: "D16"
 synonymes: []
-cross_refs: [36, 82]
+cross_refs: [36, 82, 507]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

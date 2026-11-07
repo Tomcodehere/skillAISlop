@@ -8,7 +8,8 @@ mot_cle: "stratège de présence locale"
 nom_court: "Présence locale"
 branche: "D20"
 synonymes: []
-cross_refs: [161, 282]
+cross_refs: [161, 282, 163]
+depends_on: [163]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

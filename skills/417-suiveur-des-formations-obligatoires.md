@@ -8,7 +8,8 @@ mot_cle: "formations obligatoires"
 nom_court: "Formations obligatoires"
 branche: "D24"
 synonymes: []
-cross_refs: [190, 411]
+cross_refs: [190, 411, 201]
+depends_on: [883]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

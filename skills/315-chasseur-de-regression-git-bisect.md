@@ -8,7 +8,7 @@ mot_cle: "régression (git bisect)"
 nom_court: "Bisect"
 branche: "D16"
 synonymes: []
-cross_refs: [20, 310]
+cross_refs: [20, 310, 338]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

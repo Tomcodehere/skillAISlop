@@ -8,7 +8,7 @@ mot_cle: "dents"
 nom_court: "Dents"
 branche: "D27"
 synonymes: ["orthodontie"]
-cross_refs: [485, 511]
+cross_refs: [485, 511, 483]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

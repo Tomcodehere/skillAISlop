@@ -8,7 +8,8 @@ mot_cle: "onboarding produit"
 nom_court: "Onboarding"
 branche: "D22"
 synonymes: ["première utilisation"]
-cross_refs: [179, 453]
+cross_refs: [179, 453, 458]
+depends_on: [179]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

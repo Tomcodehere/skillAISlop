@@ -8,7 +8,8 @@ mot_cle: "design to code"
 nom_court: "Design to code"
 branche: "D22"
 synonymes: ["figma", "handoff"]
-cross_refs: [143, 181]
+cross_refs: [143, 181, 83]
+depends_on: [83]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

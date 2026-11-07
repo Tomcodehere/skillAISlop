@@ -8,7 +8,8 @@ mot_cle: "prise de notes"
 nom_court: "Prise de notes"
 branche: "D25"
 synonymes: ["second cerveau"]
-cross_refs: [287, 498]
+cross_refs: [287, 498, 705]
+depends_on: [705]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

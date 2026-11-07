@@ -8,7 +8,7 @@ mot_cle: "conduite du changement"
 nom_court: "Changement"
 branche: "D25"
 synonymes: ["adhésion équipe"]
-cross_refs: [404, 235]
+cross_refs: [404, 235, 635]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "pse licenciement économique"
 nom_court: "PSE"
 branche: "D29"
 synonymes: ["plan de licenciement collectif"]
-cross_refs: [888, 634]
+cross_refs: [888, 634, 755]
 tags: ["2027"]
+depends_on: [888]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "trésorerie"
 nom_court: "Trésorerie"
 branche: "D29"
 synonymes: ["prévisionnel trésorerie"]
-cross_refs: [170, 43]
+cross_refs: [170, 43, 778]
+depends_on: [778]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

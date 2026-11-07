@@ -8,7 +8,8 @@ mot_cle: "potager"
 nom_court: "Potager"
 branche: "D26"
 synonymes: ["jardin", "potager", "semis"]
-cross_refs: [15, 216]
+cross_refs: [15, 216, 661]
+depends_on: [661]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

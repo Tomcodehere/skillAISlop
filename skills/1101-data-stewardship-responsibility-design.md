@@ -8,8 +8,9 @@ mot_cle: "data-stewardship-responsibility-design"
 nom_court: "Data Stewardship Responsibilit"
 branche: "D1"
 synonymes: ["demande", "portant", "stewardship"]
-cross_refs: [1227]
+cross_refs: [1227, 1100, 1288]
 tags: ["2027"]
+depends_on: [1288]
 ---
 
 ## 1101. 💻 Data Stewardship Responsibility Design

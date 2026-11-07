@@ -8,8 +8,9 @@ mot_cle: "excel-advanced-functions"
 nom_court: "Excel Advanced Functions"
 branche: "D14"
 synonymes: ["creer", "formules", "complexes"]
-cross_refs: [615]
+cross_refs: [615, 1103, 903]
 tags: ["2027"]
+depends_on: [1103]
 ---
 
 ## 1123. 🧠 Excel Advanced Functions

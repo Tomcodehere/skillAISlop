@@ -8,7 +8,8 @@ mot_cle: "nps"
 nom_court: "NPS/CX"
 branche: "D9"
 synonymes: ["satisfaction client"]
-cross_refs: [55, 282]
+cross_refs: [55, 282, 880]
+depends_on: [55]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

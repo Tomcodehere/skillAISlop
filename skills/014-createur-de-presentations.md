@@ -8,7 +8,7 @@ mot_cle: "créateur de présentations"
 nom_court: ""
 branche: "K"
 synonymes: ["powerpoint", "presentation", "slides"]
-cross_refs: [5, 27]
+cross_refs: [5, 27, 50]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

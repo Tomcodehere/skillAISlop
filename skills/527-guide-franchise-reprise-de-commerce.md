@@ -8,7 +8,8 @@ mot_cle: "franchise & reprise"
 nom_court: "Franchise"
 branche: "D29"
 synonymes: ["commerçant", "franchise"]
-cross_refs: [170, 427]
+cross_refs: [170, 427, 936]
+depends_on: [936]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "slo-and-error-budget-decision"
 nom_court: "SLO and Error-Budget Decision"
 branche: "D22"
 synonymes: ["demande", "portant", "error-budget"]
-cross_refs: [1057]
+cross_refs: [1057, 88, 1056]
 tags: ["2027"]
 ---
 

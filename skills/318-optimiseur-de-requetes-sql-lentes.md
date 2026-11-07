@@ -8,7 +8,8 @@ mot_cle: "requêtes sql lentes"
 nom_court: "SQL lentes"
 branche: "D15"
 synonymes: []
-cross_refs: [69, 321]
+cross_refs: [69, 321, 1229]
+depends_on: [1229]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

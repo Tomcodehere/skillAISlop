@@ -8,8 +8,9 @@ mot_cle: "régularité du sommeil"
 nom_court: "Régularité sommeil"
 branche: "D27"
 synonymes: ["rythme circadien"]
-cross_refs: [483, 813]
+cross_refs: [483, 813, 1325]
 tags: ["2027"]
+depends_on: [483]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

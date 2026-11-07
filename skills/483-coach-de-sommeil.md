@@ -8,7 +8,8 @@ mot_cle: "sommeil"
 nom_court: "Sommeil"
 branche: "D26"
 synonymes: ["dormir", "insomnie", "sommeil"]
-cross_refs: [468, 489]
+cross_refs: [468, 489, 1325]
+depends_on: [1325]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

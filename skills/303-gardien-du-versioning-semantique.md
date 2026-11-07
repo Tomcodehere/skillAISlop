@@ -8,7 +8,7 @@ mot_cle: "versioning sémantique"
 nom_court: "SemVer"
 branche: "D15"
 synonymes: []
-cross_refs: [129, 183]
+cross_refs: [129, 183, 604]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

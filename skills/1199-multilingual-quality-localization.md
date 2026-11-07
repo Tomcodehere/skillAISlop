@@ -8,8 +8,9 @@ mot_cle: "multilingual-quality-localization"
 nom_court: "Multilingual Quality & Localiz"
 branche: "D15"
 synonymes: ["traduction", "contenus", "metier"]
-cross_refs: [1]
+cross_refs: [1, 1097, 1286]
 tags: ["2027"]
+depends_on: [1286]
 ---
 
 ## 1199. ✍️ Multilingual Quality & Localization

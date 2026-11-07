@@ -8,7 +8,7 @@ mot_cle: "relecture & correction"
 nom_court: ""
 branche: "K"
 synonymes: ["corriger un texte", "fautes", "orthographe"]
-cross_refs: []
+cross_refs: [1201, 17, 1152]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

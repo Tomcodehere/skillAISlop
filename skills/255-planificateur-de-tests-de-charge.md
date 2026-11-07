@@ -8,7 +8,8 @@ mot_cle: "tests de charge"
 nom_court: "Charge"
 branche: "D15"
 synonymes: []
-cross_refs: [82, 253]
+cross_refs: [82, 253, 317]
+depends_on: [317]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

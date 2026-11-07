@@ -8,7 +8,7 @@ mot_cle: "stratégie de prix"
 nom_court: "Prix"
 branche: "D10"
 synonymes: ["pricing", "tarification"]
-cross_refs: [32, 57]
+cross_refs: [32, 57, 567]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

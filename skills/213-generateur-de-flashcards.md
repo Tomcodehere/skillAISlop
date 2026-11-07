@@ -8,7 +8,8 @@ mot_cle: "flashcards"
 nom_court: "Flashcards"
 branche: "D26"
 synonymes: []
-cross_refs: [40, 41]
+cross_refs: [40, 41, 580]
+depends_on: [40]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

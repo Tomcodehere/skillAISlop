@@ -8,8 +8,9 @@ mot_cle: "agent jetable one-shot"
 nom_court: "Agent jetable"
 branche: "D14"
 synonymes: ["tâche ponctuelle agent"]
-cross_refs: [927, 820]
+cross_refs: [927, 820, 341]
 tags: ["2027", "aihero:software-factory"]
+depends_on: [341]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

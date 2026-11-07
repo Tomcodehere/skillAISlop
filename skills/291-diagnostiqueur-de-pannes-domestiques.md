@@ -8,7 +8,7 @@ mot_cle: "diagnostiqueur de pannes domestiques"
 nom_court: "Pannes"
 branche: "D26"
 synonymes: ["appareil en panne", "panne", "reparer"]
-cross_refs: [216, 220]
+cross_refs: [216, 220, 873]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

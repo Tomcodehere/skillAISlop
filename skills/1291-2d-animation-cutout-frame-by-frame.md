@@ -8,8 +8,9 @@ mot_cle: "2d-animation-cutout-frame-by-frame"
 nom_court: "2D Animation Cutout & Frame-by"
 branche: "D22"
 synonymes: ["demande", "portant", "animation"]
-cross_refs: [138]
+cross_refs: [138, 1148, 1048]
 tags: ["2027"]
+depends_on: [1148]
 ---
 
 ## 1291. 🎨 2D Animation Cutout & Frame-by-Frame

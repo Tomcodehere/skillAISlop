@@ -8,7 +8,8 @@ mot_cle: "accessibilité numérique"
 nom_court: "Accessibilité"
 branche: "D22"
 synonymes: ["wcag"]
-cross_refs: [177, 454]
+cross_refs: [177, 454, 1308]
+depends_on: [177]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

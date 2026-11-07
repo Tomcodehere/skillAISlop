@@ -8,7 +8,8 @@ mot_cle: "séparation & divorce"
 nom_court: "Séparation"
 branche: "D29"
 synonymes: ["divorce", "séparation"]
-cross_refs: [16, 589]
+cross_refs: [16, 589, 652]
+depends_on: [652]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

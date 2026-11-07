@@ -8,7 +8,8 @@ mot_cle: "migrations techniques"
 nom_court: "Migrations"
 branche: "D15"
 synonymes: []
-cross_refs: [21, 83]
+cross_refs: [21, 83, 1118]
+depends_on: [1118]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

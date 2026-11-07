@@ -8,7 +8,7 @@ mot_cle: "batch cooking 2027"
 nom_court: "Batch cooking"
 branche: "D26"
 synonymes: ["preparation repas semaine"]
-cross_refs: [1313, 216]
+cross_refs: [1313, 216, 486]
 tags: ["2027"]
 depends_on: [1328]
 ---

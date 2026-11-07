@@ -8,8 +8,9 @@ mot_cle: "commercial-opportunity-segment-mapping"
 nom_court: "Commercial Opportunity & Segme"
 branche: "D1"
 synonymes: ["cartographier", "segments", "territoires"]
-cross_refs: [1004]
+cross_refs: [1004, 1262, 1264]
 tags: ["2027"]
+depends_on: [1262]
 ---
 
 ## 1078. 💻 Commercial Opportunity & Segment Mapping

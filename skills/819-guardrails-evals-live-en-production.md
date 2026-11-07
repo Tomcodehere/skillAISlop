@@ -8,8 +8,9 @@ mot_cle: "guardrails production"
 nom_court: "Guardrails"
 branche: "D14"
 synonymes: ["monitoring agent prod"]
-cross_refs: [693, 713]
+cross_refs: [693, 713, 256]
 tags: ["2027"]
+depends_on: [693]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

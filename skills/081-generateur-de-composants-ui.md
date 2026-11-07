@@ -8,7 +8,8 @@ mot_cle: "composants ui"
 nom_court: "Composants UI"
 branche: "D22"
 synonymes: []
-cross_refs: [65, 181]
+cross_refs: [65, 181, 1049]
+depends_on: [1049]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

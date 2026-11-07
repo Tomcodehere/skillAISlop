@@ -8,8 +8,9 @@ mot_cle: "acceptance-scenario-derivation"
 nom_court: "Acceptance Scenario Derivation"
 branche: "D25"
 synonymes: ["demande", "portant", "acceptance"]
-cross_refs: [847]
+cross_refs: [847, 1072, 1297]
 tags: ["2027"]
+depends_on: [1072]
 ---
 
 ## 1000. 📋 Acceptance Scenario Derivation

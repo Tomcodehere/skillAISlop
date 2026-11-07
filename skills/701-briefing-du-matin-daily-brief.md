@@ -8,7 +8,8 @@ mot_cle: "daily brief"
 nom_court: "Daily brief"
 branche: "D25"
 synonymes: ["résumé de ma journée"]
-cross_refs: [611, 468]
+cross_refs: [611, 468, 209]
+depends_on: [611]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

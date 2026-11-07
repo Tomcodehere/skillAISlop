@@ -8,8 +8,9 @@ mot_cle: "santé cœur 2027 nutrition"
 nom_court: "Nutrition 2027"
 branche: "D27"
 synonymes: ["créatine 2027"]
-cross_refs: [917, 483]
+cross_refs: [917, 483, 593]
 tags: ["2027"]
+depends_on: [593]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

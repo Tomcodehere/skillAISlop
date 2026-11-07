@@ -8,7 +8,7 @@ mot_cle: "programme bêta"
 nom_court: "Bêta"
 branche: "D22"
 synonymes: []
-cross_refs: [179, 355]
+cross_refs: [179, 355, 234]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

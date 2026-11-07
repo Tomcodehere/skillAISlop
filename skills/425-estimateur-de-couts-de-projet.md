@@ -8,7 +8,8 @@ mot_cle: "coûts de projet"
 nom_court: "Coûts projet"
 branche: "D25"
 synonymes: []
-cross_refs: [427, 435]
+cross_refs: [427, 435, 15]
+depends_on: [15]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

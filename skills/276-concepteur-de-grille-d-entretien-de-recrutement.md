@@ -8,7 +8,8 @@ mot_cle: "grille d'entretien de recrutement"
 nom_court: "Grilles entretien"
 branche: "D24"
 synonymes: []
-cross_refs: [12, 274]
+cross_refs: [12, 274, 790]
+depends_on: [790]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "fintech-product-market-strategy"
 nom_court: "FinTech Product & Market Strat"
 branche: "D22"
 synonymes: ["entreprise", "evalue", "opportunite"]
-cross_refs: [179]
+cross_refs: [179, 1129, 1217]
 tags: ["2027"]
+depends_on: [1217]
 ---
 
 ## 1131. 📦 FinTech Product & Market Strategy

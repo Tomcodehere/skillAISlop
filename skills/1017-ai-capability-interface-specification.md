@@ -8,7 +8,7 @@ mot_cle: "ai-capability-interface-specification"
 nom_court: "AI Capability Interface Specif"
 branche: "D22"
 synonymes: ["demande", "portant", "capability"]
-cross_refs: [1028]
+cross_refs: [1028, 87, 1293]
 tags: ["2027"]
 ---
 

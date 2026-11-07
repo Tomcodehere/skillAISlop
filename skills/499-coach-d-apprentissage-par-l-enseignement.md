@@ -8,7 +8,8 @@ mot_cle: "apprentissage par l'enseignement"
 nom_court: "Enseigner"
 branche: "D26"
 synonymes: []
-cross_refs: [295, 432]
+cross_refs: [295, 432, 500]
+depends_on: [500]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

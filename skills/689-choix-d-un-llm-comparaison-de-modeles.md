@@ -8,7 +8,8 @@ mot_cle: "choisir un llm"
 nom_court: "Choisir un LLM"
 branche: "D14"
 synonymes: ["comparatif modèles ia"]
-cross_refs: [331, 333]
+cross_refs: [331, 333, 265]
+depends_on: [333]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "mode caveman"
 nom_court: "Caveman"
 branche: "D14"
 synonymes: ["réponse courte"]
-cross_refs: [327, 694]
+cross_refs: [327, 694, 945]
+depends_on: [327]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

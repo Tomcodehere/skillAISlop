@@ -8,8 +8,9 @@ mot_cle: "modèle ia local slm"
 nom_court: "SLM local"
 branche: "D14"
 synonymes: ["ollama local", "llm local"]
-cross_refs: [688, 802]
+cross_refs: [688, 802, 331]
 tags: ["2027"]
+depends_on: [331]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

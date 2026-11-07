@@ -8,7 +8,7 @@ mot_cle: "licences open source"
 nom_court: "Licences OSS"
 branche: "D29"
 synonymes: ["gpl", "licence", "mit"]
-cross_refs: [88, 267]
+cross_refs: [88, 267, 752]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

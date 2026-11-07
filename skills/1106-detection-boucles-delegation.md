@@ -8,7 +8,7 @@ mot_cle: "detection-boucles-delegation"
 nom_court: "Détection Boucles Délégation"
 branche: "D25"
 synonymes: ["tache", "revenue", "pattern"]
-cross_refs: [1197]
+cross_refs: [1197, 1144, 1093]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "bourse & etf"
 nom_court: "Bourse"
 branche: "D29"
 synonymes: ["bourse", "etf"]
-cross_refs: [43, 227]
+cross_refs: [43, 227, 894]
+depends_on: [227]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

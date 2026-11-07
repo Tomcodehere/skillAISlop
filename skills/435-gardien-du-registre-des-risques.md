@@ -8,7 +8,8 @@ mot_cle: "registre des risques"
 nom_court: "Registre risques"
 branche: "D25"
 synonymes: []
-cross_refs: [273, 427]
+cross_refs: [273, 427, 794]
+depends_on: [794]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

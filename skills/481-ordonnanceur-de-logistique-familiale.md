@@ -8,7 +8,8 @@ mot_cle: "logistique familiale"
 nom_court: "Logistique familiale"
 branche: "D26"
 synonymes: []
-cross_refs: [466, 468]
+cross_refs: [466, 468, 589]
+depends_on: [589]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

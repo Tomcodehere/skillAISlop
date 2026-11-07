@@ -8,7 +8,8 @@ mot_cle: "points presse"
 nom_court: "Points presse"
 branche: "D20"
 synonymes: []
-cross_refs: [235, 403]
+cross_refs: [235, 403, 126]
+depends_on: [126]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

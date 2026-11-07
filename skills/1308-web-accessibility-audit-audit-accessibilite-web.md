@@ -8,7 +8,7 @@ mot_cle: "web-accessibility-audit-audit-accessibilite-web"
 nom_court: "Web Accessibility Audit (Audit"
 branche: "D1"
 synonymes: ["opquast", "section", "accessibilite"]
-cross_refs: [1111]
+cross_refs: [1111, 686, 610]
 tags: ["2027"]
 ---
 

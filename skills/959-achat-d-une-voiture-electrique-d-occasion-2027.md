@@ -8,8 +8,9 @@ mot_cle: "voiture électrique occasion 2027"
 nom_court: "VE occasion"
 branche: "D26"
 synonymes: ["acheter tesla occasion"]
-cross_refs: [541, 298]
+cross_refs: [541, 298, 960]
 tags: ["2027"]
+depends_on: [960]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

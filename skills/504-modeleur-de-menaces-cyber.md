@@ -8,7 +8,8 @@ mot_cle: "modélisation de menaces"
 nom_court: "Menaces"
 branche: "D23"
 synonymes: ["modélisation de menaces"]
-cross_refs: [435, 439]
+cross_refs: [435, 439, 440]
+depends_on: [440]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

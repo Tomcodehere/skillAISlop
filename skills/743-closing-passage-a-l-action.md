@@ -8,7 +8,7 @@ mot_cle: "closer un deal"
 nom_court: "Closing"
 branche: "D21"
 synonymes: ["demander la signature"]
-cross_refs: [168, 370]
+cross_refs: [168, 370, 616]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

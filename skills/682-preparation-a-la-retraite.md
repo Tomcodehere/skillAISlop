@@ -8,7 +8,8 @@ mot_cle: "préparer sa retraite"
 nom_court: "Retraite"
 branche: "D29"
 synonymes: ["relevé de carrière"]
-cross_refs: [249, 59]
+cross_refs: [249, 59, 978]
+depends_on: [978]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

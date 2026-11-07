@@ -8,8 +8,9 @@ mot_cle: "ai act haut risque 2027"
 nom_court: "AI Act HR"
 branche: "D29"
 synonymes: ["conformité ai act"]
-cross_refs: [698, 883]
+cross_refs: [698, 883, 753]
 tags: ["2027"]
+depends_on: [753]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

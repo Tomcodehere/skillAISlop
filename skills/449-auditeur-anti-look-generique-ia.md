@@ -8,7 +8,8 @@ mot_cle: "auditeur anti-look générique ia"
 nom_court: "Anti générique"
 branche: "D22"
 synonymes: []
-cross_refs: [362, 399]
+cross_refs: [362, 399, 805]
+depends_on: [805]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

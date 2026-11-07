@@ -8,8 +8,9 @@ mot_cle: "studio ia"
 nom_court: "Studio IA"
 branche: "D19"
 synonymes: ["studio de jeu ia"]
-cross_refs: [717, 524]
+cross_refs: [717, 524, 145]
 tags: ["2027"]
+depends_on: [145]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

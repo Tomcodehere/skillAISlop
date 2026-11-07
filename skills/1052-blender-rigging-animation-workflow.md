@@ -8,8 +8,9 @@ mot_cle: "blender-rigging-animation-workflow"
 nom_court: "Blender Rigging & Animation Wo"
 branche: "D1"
 synonymes: ["demande", "portant", "blender"]
-cross_refs: [315]
+cross_refs: [315, 1149, 1174]
 tags: ["2027"]
+depends_on: [1149]
 ---
 
 ## 1052. 💻 Blender Rigging & Animation Workflow

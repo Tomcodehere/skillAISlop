@@ -8,7 +8,7 @@ mot_cle: "dégustation"
 nom_court: "Dégustation"
 branche: "D27"
 synonymes: ["dégustation", "vin"]
-cross_refs: [216, 219]
+cross_refs: [216, 219, 592]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

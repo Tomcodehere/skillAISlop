@@ -8,8 +8,9 @@ mot_cle: "skill agent malveillante"
 nom_court: "Skill malveillante"
 branche: "D23"
 synonymes: ["malware clawhub"]
-cross_refs: [716, 818]
+cross_refs: [716, 818, 715]
 tags: ["2027"]
+depends_on: [716]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

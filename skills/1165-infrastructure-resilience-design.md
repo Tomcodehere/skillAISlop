@@ -8,8 +8,9 @@ mot_cle: "infrastructure-resilience-design"
 nom_court: "Infrastructure Resilience Desi"
 branche: "D1"
 synonymes: ["haute", "disponibilite", "on-prem"]
-cross_refs: [604]
+cross_refs: [604, 1108, 1281]
 tags: ["2027"]
+depends_on: [1281]
 ---
 
 ## 1165. 💻 Infrastructure Resilience Design

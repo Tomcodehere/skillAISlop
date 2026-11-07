@@ -8,7 +8,8 @@ mot_cle: "planification par fichiers"
 nom_court: "Fichiers"
 branche: "D2"
 synonymes: []
-cross_refs: [15]
+cross_refs: [15, 286, 468]
+depends_on: [286]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

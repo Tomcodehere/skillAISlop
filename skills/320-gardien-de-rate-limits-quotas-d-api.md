@@ -8,7 +8,7 @@ mot_cle: "rate limits & quotas d'api"
 nom_court: "Rate limits"
 branche: "D15"
 synonymes: []
-cross_refs: [79, 322]
+cross_refs: [79, 322, 20]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

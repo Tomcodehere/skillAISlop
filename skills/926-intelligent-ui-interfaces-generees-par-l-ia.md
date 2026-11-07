@@ -8,8 +8,9 @@ mot_cle: "interface générée par ia"
 nom_court: "Intelligent UI"
 branche: "D22"
 synonymes: ["ui générative"]
-cross_refs: [823, 805]
+cross_refs: [823, 805, 64]
 tags: ["2027"]
+depends_on: [823]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

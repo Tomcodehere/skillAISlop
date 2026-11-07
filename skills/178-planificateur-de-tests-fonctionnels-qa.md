@@ -8,7 +8,8 @@ mot_cle: "tests fonctionnels (qa)"
 nom_court: "QA"
 branche: "D16"
 synonymes: []
-cross_refs: [67, 97]
+cross_refs: [67, 97, 439]
+depends_on: [605]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

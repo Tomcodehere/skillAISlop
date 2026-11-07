@@ -8,7 +8,7 @@ mot_cle: "lettres investisseurs"
 nom_court: "Investisseurs"
 branche: "D21"
 synonymes: []
-cross_refs: [5, 170]
+cross_refs: [5, 170, 422]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

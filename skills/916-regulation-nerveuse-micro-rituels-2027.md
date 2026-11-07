@@ -8,7 +8,7 @@ mot_cle: "régulation nerveuse"
 nom_court: "Régulation nerveuse"
 branche: "D27"
 synonymes: ["micro-rituels anti stress"]
-cross_refs: [813, 617]
+cross_refs: [813, 617, 765]
 tags: ["2027"]
 ---
 

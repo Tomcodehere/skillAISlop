@@ -8,8 +8,9 @@ mot_cle: "reprise entreprise salariés"
 nom_court: "Reprise salariés"
 branche: "D29"
 synonymes: ["pacte papin"]
-cross_refs: [891, 888]
+cross_refs: [891, 888, 527]
 tags: ["2027"]
+depends_on: [891]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

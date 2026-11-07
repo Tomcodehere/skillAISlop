@@ -8,7 +8,8 @@ mot_cle: "campagne ads"
 nom_court: "Campagne ads"
 branche: "D20"
 synonymes: ["google ads", "meta ads"]
-cross_refs: [356, 162]
+cross_refs: [356, 162, 363]
+depends_on: [363]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

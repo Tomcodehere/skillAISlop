@@ -8,7 +8,8 @@ mot_cle: "permis de conduire"
 nom_court: "Permis"
 branche: "D28"
 synonymes: ["conduite accompagnée"]
-cross_refs: [580, 41]
+cross_refs: [580, 41, 866]
+depends_on: [866]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

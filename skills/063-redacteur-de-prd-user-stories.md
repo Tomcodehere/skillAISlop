@@ -8,8 +8,9 @@ mot_cle: "prd & user stories"
 nom_court: "PRD"
 branche: "D11"
 synonymes: []
-cross_refs: [21, 67]
+cross_refs: [21, 67, 1297]
 tags: ["aihero:codebase-design", "aihero:diagnosing-bugs", "aihero:prototype", "aihero:research", "aihero:tdd", "aihero:setup-ts-deep-modules", "aihero:git-guardrails-claude-code", "aihero:migrate-to-shoehorn", "aihero:scaffold-exercises", "aihero:setup-pre-commit", "aihero:teach"]
+depends_on: [1297]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

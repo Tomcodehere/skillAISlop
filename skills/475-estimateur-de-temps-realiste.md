@@ -8,7 +8,8 @@ mot_cle: "temps réaliste"
 nom_court: "Estimation temps"
 branche: "D25"
 synonymes: []
-cross_refs: [421, 425]
+cross_refs: [421, 425, 763]
+depends_on: [763]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "travail profond"
 nom_court: "Travail profond"
 branche: "D25"
 synonymes: ["concentration", "deep work"]
-cross_refs: [463, 489]
+cross_refs: [463, 489, 550]
+depends_on: [704]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

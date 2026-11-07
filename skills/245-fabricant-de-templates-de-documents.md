@@ -8,7 +8,8 @@ mot_cle: "fabricant de templates de documents"
 nom_court: "Templates"
 branche: "D18"
 synonymes: []
-cross_refs: [27, 50]
+cross_refs: [27, 50, 5]
+depends_on: [5]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

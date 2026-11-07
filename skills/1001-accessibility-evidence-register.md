@@ -8,8 +8,9 @@ mot_cle: "accessibility-evidence-register"
 nom_court: "Accessibility Evidence Registe"
 branche: "D17"
 synonymes: ["demande", "portant", "accessibility"]
-cross_refs: [104]
+cross_refs: [104, 610, 1084]
 tags: ["2027"]
+depends_on: [1084]
 ---
 
 ## 1001. 🔬 Accessibility Evidence Register

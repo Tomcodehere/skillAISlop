@@ -8,8 +8,9 @@ mot_cle: "quality-rule-acceptance-design"
 nom_court: "Quality Rule Acceptance Design"
 branche: "D1"
 synonymes: ["demande", "portant", "quality"]
-cross_refs: [524]
+cross_refs: [524, 1277, 1132]
 tags: ["2027"]
+depends_on: [1277]
 ---
 
 ## 1247. 💻 Quality Rule Acceptance Design

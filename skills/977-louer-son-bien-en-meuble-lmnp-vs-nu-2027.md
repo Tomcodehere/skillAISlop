@@ -8,8 +8,9 @@ mot_cle: "lmnp vs location nue 2027"
 nom_court: "LMNP vs nue"
 branche: "D29"
 synonymes: ["meublé ou nu 2027"]
-cross_refs: [894, 935]
+cross_refs: [894, 935, 812]
 tags: ["2027"]
+depends_on: [894]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "acheter à l'étranger 2027"
 nom_court: "Achat étranger"
 branche: "D29"
 synonymes: ["résidence secondaire 2027"]
-cross_refs: [676, 958]
+cross_refs: [676, 958, 976]
 tags: ["2027"]
+depends_on: [976]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

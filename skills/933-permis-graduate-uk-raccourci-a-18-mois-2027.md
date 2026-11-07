@@ -8,7 +8,7 @@ mot_cle: "visa graduate uk 2027"
 nom_court: "Graduate UK"
 branche: "D6"
 synonymes: ["étudier travailler royaume-uni 2027"]
-cross_refs: [656, 830]
+cross_refs: [656, 830, 684]
 tags: ["2027"]
 ---
 

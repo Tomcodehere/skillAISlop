@@ -8,7 +8,7 @@ mot_cle: "cognitive-journey-barrier-review"
 nom_court: "Cognitive Journey Barrier Revi"
 branche: "D24"
 synonymes: ["demande", "portant", "cognitive"]
-cross_refs: [11]
+cross_refs: [11, 1002, 373]
 tags: ["2027"]
 ---
 

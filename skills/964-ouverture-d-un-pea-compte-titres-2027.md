@@ -8,8 +8,9 @@ mot_cle: "ouvrir un pea 2027"
 nom_court: "PEA 2027"
 branche: "D29"
 synonymes: ["compte-titres 2027"]
-cross_refs: [835, 519]
+cross_refs: [835, 519, 680]
 tags: ["2027"]
+depends_on: [680]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "design d'api"
 nom_court: "API design"
 branche: "D30"
 synonymes: []
-cross_refs: [79, 87]
+cross_refs: [79, 87, 1026]
+depends_on: [1026]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

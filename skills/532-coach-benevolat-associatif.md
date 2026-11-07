@@ -8,7 +8,8 @@ mot_cle: "bénévolat associatif"
 nom_court: "Bénévolat"
 branche: "D29"
 synonymes: ["bénévolat"]
-cross_refs: [419, 552]
+cross_refs: [419, 552, 856]
+depends_on: [856]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

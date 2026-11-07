@@ -8,7 +8,8 @@ mot_cle: "release notes"
 nom_court: "Release notes"
 branche: "D18"
 synonymes: []
-cross_refs: [23, 68]
+cross_refs: [23, 68, 498]
+depends_on: [1022]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

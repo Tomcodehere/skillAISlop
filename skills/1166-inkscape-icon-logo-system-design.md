@@ -8,8 +8,9 @@ mot_cle: "inkscape-icon-logo-system-design"
 nom_court: "Inkscape Icon & Logo System De"
 branche: "D1"
 synonymes: ["demande", "portant", "inkscape"]
-cross_refs: [783]
+cross_refs: [783, 1167, 1149]
 tags: ["2027"]
+depends_on: [1167]
 ---
 
 ## 1166. 💻 Inkscape Icon & Logo System Design

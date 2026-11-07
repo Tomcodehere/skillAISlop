@@ -8,8 +8,9 @@ mot_cle: "compte piraté 2027"
 nom_court: "Compte piraté"
 branche: "D23"
 synonymes: ["mon compte a été hacké"]
-cross_refs: [665, 953]
+cross_refs: [665, 953, 839]
 tags: ["2027"]
+depends_on: [665]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

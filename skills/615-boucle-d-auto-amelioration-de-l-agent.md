@@ -8,7 +8,8 @@ mot_cle: "auto-amélioration agent"
 nom_court: "Auto-amélioration"
 branche: "D14"
 synonymes: ["auto-amélioration", "leçons"]
-cross_refs: [38, 260]
+cross_refs: [38, 260, 335]
+depends_on: [335]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

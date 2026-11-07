@@ -8,7 +8,8 @@ mot_cle: "onboarding collaborateurs"
 nom_court: "Onboarding"
 branche: "D24"
 synonymes: ["integration nouvelle equipe", "onboarding"]
-cross_refs: [50, 207]
+cross_refs: [50, 207, 698]
+depends_on: [698]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

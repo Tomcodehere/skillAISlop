@@ -8,7 +8,7 @@ mot_cle: "miniatures"
 nom_court: "Miniatures"
 branche: "D19"
 synonymes: []
-cross_refs: [52, 139]
+cross_refs: [52, 139, 149]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

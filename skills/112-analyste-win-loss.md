@@ -8,7 +8,8 @@ mot_cle: "analyste win/loss"
 nom_court: "Win/loss"
 branche: "D21"
 synonymes: []
-cross_refs: [32, 164]
+cross_refs: [32, 164, 55]
+depends_on: [55]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

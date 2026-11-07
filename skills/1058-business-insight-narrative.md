@@ -8,7 +8,7 @@ mot_cle: "business-insight-narrative"
 nom_court: "Business Insight Narrative"
 branche: "D14"
 synonymes: ["demande", "portant", "business"]
-cross_refs: [38]
+cross_refs: [38, 1236, 816]
 tags: ["2027"]
 ---
 

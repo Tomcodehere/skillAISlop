@@ -8,7 +8,7 @@ mot_cle: "créateur de pas-à-pas illustrés"
 nom_court: "Pas-à-pas"
 branche: "D18"
 synonymes: []
-cross_refs: [48, 130]
+cross_refs: [48, 130, 50]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

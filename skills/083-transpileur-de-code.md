@@ -8,7 +8,8 @@ mot_cle: "transpileur de code"
 nom_court: "Transpile"
 branche: "D15"
 synonymes: []
-cross_refs: [9, 86]
+cross_refs: [9, 86, 85]
+depends_on: [85]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

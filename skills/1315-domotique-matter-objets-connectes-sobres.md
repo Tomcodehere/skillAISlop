@@ -8,7 +8,7 @@ mot_cle: "domotique matter 2027"
 nom_court: "Matter domotique"
 branche: "D16"
 synonymes: ["maison connectée sobre"]
-cross_refs: [903, 841]
+cross_refs: [903, 841, 222]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "automatiseur excel & tableurs"
 nom_court: "Excel"
 branche: "D17"
 synonymes: ["feuille de calcul", "tableur"]
-cross_refs: [13, 92]
+cross_refs: [13, 92, 347]
+depends_on: [347]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

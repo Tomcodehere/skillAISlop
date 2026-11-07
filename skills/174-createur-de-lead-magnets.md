@@ -8,7 +8,8 @@ mot_cle: "créateur de lead magnets"
 nom_court: "Lead magnets"
 branche: "D20"
 synonymes: []
-cross_refs: [51, 125]
+cross_refs: [51, 125, 364]
+depends_on: [364]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

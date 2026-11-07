@@ -8,7 +8,8 @@ mot_cle: "cartographe de données"
 nom_court: "Carto data"
 branche: "D15"
 synonymes: ["cartographie"]
-cross_refs: [189, 196]
+cross_refs: [189, 196, 94]
+depends_on: [94]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

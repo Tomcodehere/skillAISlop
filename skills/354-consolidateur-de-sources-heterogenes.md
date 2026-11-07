@@ -8,7 +8,7 @@ mot_cle: "sources hétérogènes"
 nom_court: "Sources hétérogènes"
 branche: "D15"
 synonymes: []
-cross_refs: [92, 343]
+cross_refs: [92, 343, 95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

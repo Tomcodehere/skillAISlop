@@ -8,7 +8,8 @@ mot_cle: "débogueur de prompts"
 nom_court: "Debug prompts"
 branche: "D14"
 synonymes: []
-cross_refs: [17, 97]
+cross_refs: [17, 97, 338]
+depends_on: [17]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

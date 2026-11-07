@@ -8,7 +8,7 @@ mot_cle: "commits & descriptions de pr"
 nom_court: "Commits/PR"
 branche: "D12"
 synonymes: []
-cross_refs: [10, 21]
+cross_refs: [10, 21, 391]
 tags: ["aihero:setup-pre-commit", "aihero:wait-what"]
 ---
 

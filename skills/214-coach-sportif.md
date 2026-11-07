@@ -8,7 +8,8 @@ mot_cle: "coach sportif"
 nom_court: "Sport"
 branche: "D26"
 synonymes: ["courir", "entraînement", "fitness", "musculation", "sport"]
-cross_refs: [215, 248]
+cross_refs: [215, 248, 1319]
+depends_on: [1319]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

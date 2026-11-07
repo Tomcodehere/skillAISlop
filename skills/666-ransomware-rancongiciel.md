@@ -8,7 +8,7 @@ mot_cle: "ransomware"
 nom_court: "Ransomware"
 branche: "D23"
 synonymes: ["virus", "malware"]
-cross_refs: [509, 596]
+cross_refs: [509, 596, 756]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

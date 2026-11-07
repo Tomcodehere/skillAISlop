@@ -8,7 +8,8 @@ mot_cle: "soc agentique"
 nom_court: "SOC agentique"
 branche: "D23"
 synonymes: ["agents de sécurité"]
-cross_refs: [440, 256]
+cross_refs: [440, 256, 818]
+depends_on: [818]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

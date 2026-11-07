@@ -8,8 +8,9 @@ mot_cle: "data-freshness-incident-triage"
 nom_court: "Data Freshness Incident Triage"
 branche: "D14"
 synonymes: ["demande", "portant", "freshness"]
-cross_refs: [694]
+cross_refs: [694, 1097, 1306]
 tags: ["2027"]
+depends_on: [1097]
 ---
 
 ## 1096. 🤖 Data Freshness Incident Triage

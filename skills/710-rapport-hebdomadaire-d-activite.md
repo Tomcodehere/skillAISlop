@@ -8,7 +8,8 @@ mot_cle: "rapport hebdo"
 nom_court: "Rapport hebdo"
 branche: "D25"
 synonymes: ["bilan de la semaine"]
-cross_refs: [438, 707]
+cross_refs: [438, 707, 273]
+depends_on: [438]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

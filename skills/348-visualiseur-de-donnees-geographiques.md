@@ -8,7 +8,8 @@ mot_cle: "visualiseur de données géographiques"
 nom_court: "Données géo"
 branche: "D17"
 synonymes: []
-cross_refs: [48, 107]
+cross_refs: [48, 107, 263]
+depends_on: [263]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

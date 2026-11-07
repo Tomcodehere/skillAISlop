@@ -8,8 +8,9 @@ mot_cle: "blazor-component-design"
 nom_court: "Blazor Component Design"
 branche: "D1"
 synonymes: ["blazor", "composants", "blazor"]
-cross_refs: [89]
+cross_refs: [89, 81, 1263]
 tags: ["2027"]
+depends_on: [81]
 ---
 
 ## 1049. 💻 Blazor Component Design

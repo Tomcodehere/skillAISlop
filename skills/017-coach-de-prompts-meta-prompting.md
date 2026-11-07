@@ -8,7 +8,8 @@ mot_cle: "prompts (meta-prompting)"
 nom_court: ""
 branche: "K"
 synonymes: ["ameliorer un prompt", "prompt"]
-cross_refs: [38]
+cross_refs: [38, 237, 338]
+depends_on: [237]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

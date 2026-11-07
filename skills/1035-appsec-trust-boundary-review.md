@@ -8,7 +8,7 @@ mot_cle: "appsec-trust-boundary-review"
 nom_court: "AppSec Trust-Boundary Review"
 branche: "D1"
 synonymes: ["demande", "portant", "appsec"]
-cross_refs: [10]
+cross_refs: [10, 1266, 1242]
 tags: ["2027"]
 ---
 

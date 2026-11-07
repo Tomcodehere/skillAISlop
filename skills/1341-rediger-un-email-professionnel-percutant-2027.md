@@ -8,8 +8,9 @@ mot_cle: "email pro percutant"
 nom_court: "Email pro"
 branche: "D15"
 synonymes: ["rédiger un mail pro"]
-cross_refs: [2, 399]
+cross_refs: [2, 399, 4]
 tags: ["2027"]
+depends_on: [4]
 ---
 
 ## 1341. 📧 Rédiger un email professionnel percutant (2027)

@@ -8,7 +8,8 @@ mot_cle: "threads éditoriaux"
 nom_court: "Threads"
 branche: "D18"
 synonymes: []
-cross_refs: [31, 365]
+cross_refs: [31, 365, 116]
+depends_on: [116]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

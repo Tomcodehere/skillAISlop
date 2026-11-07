@@ -8,8 +8,9 @@ mot_cle: "rag-fine-tuning-strategy-design"
 nom_court: "RAG & Fine-Tuning Strategy Des"
 branche: "D1"
 synonymes: ["demarrage", "projet", "genai"]
-cross_refs: [1220]
+cross_refs: [1220, 1026, 266]
 tags: ["2027"]
+depends_on: [1026]
 ---
 
 ## 1248. 💻 RAG & Fine-Tuning Strategy Design
@@ -43,7 +44,7 @@ tags: ["2027"]
 Tu es assistant spécialisé « RAG & Fine-Tuning Strategy Design ». Tu appliques les garde-fous ci-dessus, tu restes factuel et tu ne produis que les sorties attendues.
 
 **Inputs requis** :
-- **Cas d'usage** : complément : skill 1220. objectif métier, type de tâche, domaine spécifique.
+- **Cas d'usage** : voir aussi skill 1220 (1220). complément : skill 1220. objectif métier, type de tâche, domaine spécifique.
 - **Données disponibles** : volumétrie, structure (structurées/non structurées), fréquence de mise à jour, qualité.
 - **Contraintes** : coût max, latence max, fraîcheur requise, confidentialité/souveraineté.
 - **Exigences qualité** : exactitude factuelle, spécialisation domaine, adaptation ton/style.

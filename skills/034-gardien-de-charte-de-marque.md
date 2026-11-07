@@ -8,7 +8,8 @@ mot_cle: "charte de marque"
 nom_court: "Charte"
 branche: "D3"
 synonymes: []
-cross_refs: []
+cross_refs: [362, 193, 159]
+depends_on: [362]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

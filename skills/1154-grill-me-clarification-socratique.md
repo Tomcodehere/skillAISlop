@@ -8,7 +8,7 @@ mot_cle: "grill-me-clarification-socratique"
 nom_court: "Grill Me (Clarification Socrat"
 branche: "D22"
 synonymes: ["grill-me", "grill", "grillme"]
-cross_refs: [143]
+cross_refs: [143, 1028, 1296]
 tags: ["2027"]
 ---
 

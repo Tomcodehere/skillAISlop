@@ -8,8 +8,9 @@ mot_cle: "lire un contrat"
 nom_court: "Lire un contrat"
 branche: "D29"
 synonymes: ["relire un contrat"]
-cross_refs: [750, 281]
+cross_refs: [750, 281, 828]
 tags: ["2027"]
+depends_on: [750]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

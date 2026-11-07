@@ -8,7 +8,8 @@ mot_cle: "text-to-cad"
 nom_court: "Text-to-CAD"
 branche: "D19"
 synonymes: ["modèle 3d par ia"]
-cross_refs: [142, 514]
+cross_refs: [142, 514, 903]
+depends_on: [142]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

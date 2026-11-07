@@ -8,8 +8,9 @@ mot_cle: "diagrammes d'architecture"
 nom_court: "Diagrammes"
 branche: "D1"
 synonymes: []
-cross_refs: [23]
+cross_refs: [23, 88, 1026]
 tags: ["aihero:codebase-design", "aihero:improve-codebase-architecture"]
+depends_on: [88]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

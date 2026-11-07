@@ -8,7 +8,8 @@ mot_cle: "biais de modèle & de données"
 nom_court: "Biais modèles"
 branche: "D14"
 synonymes: []
-cross_refs: [271, 274]
+cross_refs: [271, 274, 342]
+depends_on: [342]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

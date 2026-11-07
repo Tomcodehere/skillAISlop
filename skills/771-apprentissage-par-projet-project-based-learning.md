@@ -8,7 +8,8 @@ mot_cle: "apprendre par projet"
 nom_court: "PBL"
 branche: "D28"
 synonymes: ["apprendre en faisant"]
-cross_refs: [499, 500]
+cross_refs: [499, 500, 671]
+depends_on: [671]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

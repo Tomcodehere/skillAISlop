@@ -8,7 +8,7 @@ mot_cle: "vulgarisateur de contrats en langage clair"
 nom_court: "Contrats clairs"
 branche: "D18"
 synonymes: []
-cross_refs: [16, 190]
+cross_refs: [16, 190, 370]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

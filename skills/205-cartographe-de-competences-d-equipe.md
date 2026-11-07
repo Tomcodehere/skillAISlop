@@ -8,7 +8,8 @@ mot_cle: "compétences d'équipe"
 nom_court: "Compétences"
 branche: "D24"
 synonymes: []
-cross_refs: [201, 204]
+cross_refs: [201, 204, 428]
+depends_on: [791]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

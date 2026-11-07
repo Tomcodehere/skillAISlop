@@ -8,7 +8,8 @@ mot_cle: "surendettement"
 nom_court: "Surendettement"
 branche: "D29"
 synonymes: ["dettes", "surendettement"]
-cross_refs: [43, 298]
+cross_refs: [43, 298, 982]
+depends_on: [982]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

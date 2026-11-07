@@ -8,7 +8,7 @@ mot_cle: "abonnements"
 nom_court: "Abonnements"
 branche: "D26"
 synonymes: ["résilier un abonnement"]
-cross_refs: [230, 648]
+cross_refs: [230, 648, 511]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

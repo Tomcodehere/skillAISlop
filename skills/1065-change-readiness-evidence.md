@@ -8,8 +8,9 @@ mot_cle: "change-readiness-evidence"
 nom_court: "Change Readiness Evidence"
 branche: "D1"
 synonymes: ["demande", "portant", "change"]
-cross_refs: [319]
+cross_refs: [319, 1251, 1271]
 tags: ["2027"]
+depends_on: [1251]
 ---
 
 ## 1065. 💻 Change Readiness Evidence

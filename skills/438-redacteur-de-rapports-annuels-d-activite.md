@@ -8,7 +8,8 @@ mot_cle: "rapports annuels d'activité"
 nom_court: "Rapports annuels"
 branche: "D25"
 synonymes: []
-cross_refs: [376, 400]
+cross_refs: [376, 400, 710]
+depends_on: [710]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

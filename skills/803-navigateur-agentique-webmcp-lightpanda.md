@@ -8,8 +8,9 @@ mot_cle: "navigateur agentique"
 nom_court: "Navigateur agentique"
 branche: "D16"
 synonymes: ["webmcp", "lightpanda"]
-cross_refs: [252, 544]
+cross_refs: [252, 544, 821]
 tags: ["2027"]
+depends_on: [252]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

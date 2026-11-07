@@ -8,7 +8,7 @@ mot_cle: "maladie professionnelle"
 nom_court: "MP"
 branche: "D29"
 synonymes: ["reconnaissance AT MP"]
-cross_refs: [886, 970]
+cross_refs: [886, 970, 231]
 tags: ["2027"]
 ---
 

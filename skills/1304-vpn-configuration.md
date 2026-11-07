@@ -8,7 +8,7 @@ mot_cle: "vpn-configuration"
 nom_court: "VPN Configuration"
 branche: "D25"
 synonymes: ["ipsec", "wireguard", "openvpn"]
-cross_refs: [426]
+cross_refs: [426, 1013, 1229]
 tags: ["2027"]
 ---
 

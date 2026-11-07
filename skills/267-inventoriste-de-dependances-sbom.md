@@ -8,7 +8,7 @@ mot_cle: "inventoriste de dépendances (sbom)"
 nom_court: "SBOM"
 branche: "D15"
 synonymes: []
-cross_refs: [70, 198]
+cross_refs: [70, 198, 553]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

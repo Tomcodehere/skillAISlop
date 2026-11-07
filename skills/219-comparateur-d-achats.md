@@ -8,7 +8,8 @@ mot_cle: "comparateur d'achats"
 nom_court: "Achats"
 branche: "D26"
 synonymes: []
-cross_refs: [32, 219]
+cross_refs: [32, 219, 479]
+depends_on: [479]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

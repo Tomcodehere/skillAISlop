@@ -8,7 +8,7 @@ mot_cle: "raisonnement pas à pas"
 nom_court: "Step-by-step"
 branche: "D14"
 synonymes: ["chaîne de pensée"]
-cross_refs: [11, 21]
+cross_refs: [11, 21, 1064]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

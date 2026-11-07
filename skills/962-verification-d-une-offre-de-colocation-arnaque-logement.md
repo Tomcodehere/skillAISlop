@@ -8,8 +8,9 @@ mot_cle: "arnaque logement location"
 nom_court: "Arnaque logement"
 branche: "D17"
 synonymes: ["fausse annonce immo"]
-cross_refs: [870, 854]
+cross_refs: [870, 854, 874]
 tags: ["2027"]
+depends_on: [870]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "cross-locale-meaning-alignment"
 nom_court: "Cross-Locale Meaning Alignment"
 branche: "D22"
 synonymes: ["demande", "portant", "cross-locale"]
-cross_refs: [1156]
+cross_refs: [1156, 1153, 1223]
 tags: ["2027"]
 ---
 

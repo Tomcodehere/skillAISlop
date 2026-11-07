@@ -8,7 +8,7 @@ mot_cle: "conversations difficiles"
 nom_court: "Conflits"
 branche: "D6"
 synonymes: []
-cross_refs: [45]
+cross_refs: [45, 762, 880]
 tags: ["aihero:to-spec", "aihero:to-tickets", "aihero:claude-handoff", "aihero:handoff"]
 ---
 

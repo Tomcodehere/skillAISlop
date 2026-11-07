@@ -8,8 +8,9 @@ mot_cle: "fraude carte bancaire"
 nom_court: "Fraude CB"
 branche: "D23"
 synonymes: ["carte piratée"]
-cross_refs: [758, 839]
+cross_refs: [758, 839, 824]
 tags: ["2027"]
+depends_on: [758]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

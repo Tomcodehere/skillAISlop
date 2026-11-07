@@ -8,7 +8,8 @@ mot_cle: "management à distance"
 nom_court: "Management remote"
 branche: "D24"
 synonymes: ["équipe remote"]
-cross_refs: [642, 232]
+cross_refs: [642, 232, 205]
+depends_on: [642]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

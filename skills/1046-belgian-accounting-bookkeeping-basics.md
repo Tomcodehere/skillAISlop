@@ -8,7 +8,7 @@ mot_cle: "belgian-accounting-bookkeeping-basics"
 nom_court: "Belgian Accounting & Bookkeepi"
 branche: "D29"
 synonymes: ["utilisateur", "comprendre", "notion"]
-cross_refs: [172]
+cross_refs: [172, 1082, 1047]
 tags: ["2027"]
 ---
 

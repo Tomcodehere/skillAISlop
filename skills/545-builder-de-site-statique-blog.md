@@ -8,7 +8,7 @@ mot_cle: "site statique"
 nom_court: "Site statique"
 branche: "D30"
 synonymes: ["astro", "hugo"]
-cross_refs: [1, 82]
+cross_refs: [1, 82, 909]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

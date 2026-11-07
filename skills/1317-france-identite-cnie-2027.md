@@ -8,7 +8,7 @@ mot_cle: "france identité cnie"
 nom_court: "France Identité"
 branche: "D25"
 synonymes: ["cni électronique"]
-cross_refs: [955, 913]
+cross_refs: [955, 913, 1318]
 tags: ["2027"]
 depends_on: [1318]
 ---

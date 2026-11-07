@@ -8,7 +8,8 @@ mot_cle: "petites créances"
 nom_court: "Petites créances"
 branche: "D29"
 synonymes: ["créance"]
-cross_refs: [137, 529]
+cross_refs: [137, 529, 855]
+depends_on: [855]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

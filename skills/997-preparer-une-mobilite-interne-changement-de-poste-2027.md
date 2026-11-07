@@ -8,8 +8,9 @@ mot_cle: "changer de poste interne 2027"
 nom_court: "Mobilité interne"
 branche: "D6"
 synonymes: ["évolution interne 2027"]
-cross_refs: [919, 876]
+cross_refs: [919, 876, 635]
 tags: ["2027"]
+depends_on: [635]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

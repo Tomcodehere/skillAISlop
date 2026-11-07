@@ -8,8 +8,9 @@ mot_cle: "dynamic-web-scraping-playwright-selenium"
 nom_court: "Dynamic Web Scraping (Playwrig"
 branche: "D1"
 synonymes: ["js-rendered", "playwright", "selenium"]
-cross_refs: [91]
+cross_refs: [91, 1278, 252]
 tags: ["2027"]
+depends_on: [1278]
 ---
 
 ## 1113. 💻 Dynamic Web Scraping (Playwright/Selenium)

@@ -8,7 +8,7 @@ mot_cle: "congé sabbatique 2027"
 nom_court: "Sabbatique"
 branche: "D6"
 synonymes: ["pause carrière 2027"]
-cross_refs: [918, 997]
+cross_refs: [918, 997, 600]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,7 @@ mot_cle: "matrice de décision"
 nom_court: "Matrice décision"
 branche: "D10"
 synonymes: ["pondérer des critères"]
-cross_refs: [61, 266]
+cross_refs: [61, 266, 127]
 tags: ["2027"]
 ---
 

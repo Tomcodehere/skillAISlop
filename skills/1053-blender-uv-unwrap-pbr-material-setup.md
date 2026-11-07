@@ -8,8 +8,9 @@ mot_cle: "blender-uv-unwrap-pbr-material-setup"
 nom_court: "Blender UV Unwrap & PBR Materi"
 branche: "D1"
 synonymes: ["demande", "portant", "blender"]
-cross_refs: [1118]
+cross_refs: [1118, 1052, 1050]
 tags: ["2027", "aihero:writing-shape"]
+depends_on: [1052]
 ---
 
 ## 1053. 💻 Blender UV Unwrap & PBR Material Setup

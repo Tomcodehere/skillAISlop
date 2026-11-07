@@ -8,7 +8,8 @@ mot_cle: "continuité d'équipe"
 nom_court: "Continuité"
 branche: "D24"
 synonymes: []
-cross_refs: [273, 409]
+cross_refs: [273, 409, 205]
+depends_on: [205]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

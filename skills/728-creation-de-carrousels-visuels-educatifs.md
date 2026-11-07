@@ -8,7 +8,7 @@ mot_cle: "carrousel"
 nom_court: "Carrousel"
 branche: "D19"
 synonymes: ["slides éducatifs"]
-cross_refs: [365, 48]
+cross_refs: [365, 48, 146]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

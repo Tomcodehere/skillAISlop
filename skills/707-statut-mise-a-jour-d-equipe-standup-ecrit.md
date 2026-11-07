@@ -8,7 +8,8 @@ mot_cle: "statut d'équipe"
 nom_court: "Status update"
 branche: "D25"
 synonymes: ["point d'avancement"]
-cross_refs: [209, 643]
+cross_refs: [209, 643, 232]
+depends_on: [399]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

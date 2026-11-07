@@ -8,8 +8,9 @@ mot_cle: "game-loop-ecs-architecture"
 nom_court: "Game Loop & ECS Architecture"
 branche: "D1"
 synonymes: ["demande", "portant", "architecture"]
-cross_refs: [1203]
+cross_refs: [1203, 1200, 1051]
 tags: ["2027"]
+depends_on: [1200]
 ---
 
 ## 1140. 💻 Game Loop & ECS Architecture

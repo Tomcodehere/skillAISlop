@@ -8,7 +8,7 @@ mot_cle: "marque personnelle"
 nom_court: "Marque perso"
 branche: "D29"
 synonymes: ["positionnement", "visibilité"]
-cross_refs: [31, 128]
+cross_refs: [31, 128, 362]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

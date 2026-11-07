@@ -8,7 +8,8 @@ mot_cle: "soc 2"
 nom_court: "SOC 2"
 branche: "D23"
 synonymes: ["soc 2", "tsc"]
-cross_refs: [190, 271]
+cross_refs: [190, 271, 1001]
+depends_on: [271]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "concepts"
 nom_court: "Concepts"
 branche: "D17"
 synonymes: []
-cross_refs: [11, 22]
+cross_refs: [11, 22, 95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

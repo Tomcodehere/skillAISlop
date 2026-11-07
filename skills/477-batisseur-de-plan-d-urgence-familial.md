@@ -8,7 +8,8 @@ mot_cle: "plan d'urgence familial"
 nom_court: "Plan urgence"
 branche: "D26"
 synonymes: []
-cross_refs: [474, 480]
+cross_refs: [474, 480, 859]
+depends_on: [859]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

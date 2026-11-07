@@ -8,7 +8,7 @@ mot_cle: "répétition espacée"
 nom_court: "Répétition espacée"
 branche: "D26"
 synonymes: []
-cross_refs: [493, 495]
+cross_refs: [493, 495, 229]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

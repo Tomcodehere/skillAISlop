@@ -8,7 +8,8 @@ mot_cle: "parcours d'activation in-app"
 nom_court: "Activation in-app"
 branche: "D22"
 synonymes: []
-cross_refs: [179, 450]
+cross_refs: [179, 450, 735]
+depends_on: [735]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

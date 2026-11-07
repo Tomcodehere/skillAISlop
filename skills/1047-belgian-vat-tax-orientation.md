@@ -8,8 +8,9 @@ mot_cle: "belgian-vat-tax-orientation"
 nom_court: "Belgian VAT & Tax Orientation"
 branche: "D19"
 synonymes: ["utilisateur", "demande", "explication"]
-cross_refs: [571]
+cross_refs: [571, 1082, 1003]
 tags: ["2027"]
+depends_on: [1082]
 ---
 
 ## 1047. 🎨 Belgian VAT & Tax Orientation

@@ -8,7 +8,8 @@ mot_cle: "coûts & modèles llm"
 nom_court: "Coûts LLM"
 branche: "D17"
 synonymes: []
-cross_refs: [90, 97]
+cross_refs: [90, 97, 333]
+depends_on: [333]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

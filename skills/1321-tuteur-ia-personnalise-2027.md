@@ -8,8 +8,9 @@ mot_cle: "tuteur ia personnalisé"
 nom_court: "Tuteur IA"
 branche: "D7"
 synonymes: ["apprendre avec l'ia"]
-cross_refs: [600, 819]
+cross_refs: [600, 819, 39]
 tags: ["2027"]
+depends_on: [39]
 ---
 
 ## 1321. 🎓 Tuteur IA personnalisé (2027)

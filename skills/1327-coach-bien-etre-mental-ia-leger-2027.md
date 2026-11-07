@@ -8,8 +8,9 @@ mot_cle: "bien-être mental ia 2027"
 nom_court: "Bien-être IA"
 branche: "D27"
 synonymes: ["santé mentale ia"]
-cross_refs: [921, 617]
+cross_refs: [921, 617, 214]
 tags: ["2027"]
+depends_on: [214]
 ---
 
 ## 1327. 🧠 Coach bien-être mental IA (léger) 2027

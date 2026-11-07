@@ -8,7 +8,8 @@ mot_cle: "cadeaux"
 nom_court: "Cadeaux"
 branche: "D26"
 synonymes: ["anniversaire", "cadeau", "idee cadeau"]
-cross_refs: [136, 219]
+cross_refs: [136, 219, 658]
+depends_on: [658]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

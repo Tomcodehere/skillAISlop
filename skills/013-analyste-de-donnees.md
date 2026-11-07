@@ -8,7 +8,8 @@ mot_cle: "analyste de données"
 nom_court: ""
 branche: "K"
 synonymes: []
-cross_refs: [36, 48]
+cross_refs: [36, 48, 95]
+depends_on: [95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

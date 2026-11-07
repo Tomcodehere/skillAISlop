@@ -8,7 +8,7 @@ mot_cle: "scripts cli robustes"
 nom_court: "Scripts CLI"
 branche: "D15"
 synonymes: []
-cross_refs: [199, 269]
+cross_refs: [199, 269, 384]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "modélisateur prédictif"
 nom_court: "Prédictif"
 branche: "D17"
 synonymes: []
-cross_refs: [13, 106]
+cross_refs: [13, 106, 350]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

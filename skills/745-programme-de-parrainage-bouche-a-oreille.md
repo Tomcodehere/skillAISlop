@@ -8,7 +8,7 @@ mot_cle: "parrainage"
 nom_court: "Parrainage"
 branche: "D20"
 synonymes: ["bouche-à-oreille"]
-cross_refs: [173, 174]
+cross_refs: [173, 174, 799]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

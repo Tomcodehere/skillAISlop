@@ -8,7 +8,7 @@ mot_cle: "charte ia d'entreprise"
 nom_court: "Charte IA"
 branche: "D23"
 synonymes: []
-cross_refs: [37, 190]
+cross_refs: [37, 190, 423]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

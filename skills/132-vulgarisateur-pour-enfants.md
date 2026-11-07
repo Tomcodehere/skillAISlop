@@ -8,7 +8,7 @@ mot_cle: "vulgarisateur pour enfants"
 nom_court: "Enfants"
 branche: "D24"
 synonymes: ["contes", "enfants", "vulgariser"]
-cross_refs: [11, 40]
+cross_refs: [11, 40, 871]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

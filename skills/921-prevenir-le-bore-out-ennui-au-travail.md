@@ -8,8 +8,9 @@ mot_cle: "bore-out"
 nom_court: "Bore-out"
 branche: "D25"
 synonymes: ["ennui au travail"]
-cross_refs: [617, 465]
+cross_refs: [617, 465, 970]
 tags: ["2027"]
+depends_on: [970]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "brouillon de mail"
 nom_court: "Brouillon mail"
 branche: "D9"
 synonymes: ["répondre à un email"]
-cross_refs: [4, 2]
+cross_refs: [4, 2, 1341]
+depends_on: [1341]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "pilote d'agents de code cli"
 nom_court: "Agents CLI"
 branche: "D14"
 synonymes: []
-cross_refs: [20, 68]
+cross_refs: [20, 68, 83]
 tags: ["aihero:chief-of-staff"]
+depends_on: [83]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "ia sur téléphone 2027"
 nom_court: "IA on-device"
 branche: "D16"
 synonymes: ["apple intelligence 2027"]
-cross_refs: [903, 841]
+cross_refs: [903, 841, 331]
 tags: ["2027"]
 ---
 

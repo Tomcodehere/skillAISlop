@@ -8,7 +8,8 @@ mot_cle: "rénovation énergétique"
 nom_court: "Rénovation"
 branche: "D26"
 synonymes: ["pompe à chaleur", "panneaux solaires", "dpe"]
-cross_refs: [220, 541]
+cross_refs: [220, 541, 961]
+depends_on: [220]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "implémentation incrémentale"
 nom_court: "Incrémental"
 branche: "D1"
 synonymes: []
-cross_refs: [9]
+cross_refs: [9, 1009, 1268]
 tags: ["aihero:setup-ts-deep-modules"]
 ---
 

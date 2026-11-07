@@ -8,8 +8,9 @@ mot_cle: "package-management-best-practices"
 nom_court: "Package Management Best Practi"
 branche: "D1"
 synonymes: ["installe", "packages", "dependances"]
-cross_refs: [254]
+cross_refs: [254, 1005, 1029]
 tags: ["2027"]
+depends_on: [1029]
 ---
 
 ## 1220. 💻 Package Management Best Practices

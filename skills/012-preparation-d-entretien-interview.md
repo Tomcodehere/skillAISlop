@@ -8,8 +8,9 @@ mot_cle: "préparation d'entretien / interview"
 nom_court: ""
 branche: "K"
 synonymes: ["embauche"]
-cross_refs: [41, 44]
+cross_refs: [41, 44, 772]
 tags: ["aihero:grill-with-docs", "aihero:to-spec", "aihero:grill-me", "aihero:wait-what"]
+depends_on: [772]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

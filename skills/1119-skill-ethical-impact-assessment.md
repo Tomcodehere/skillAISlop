@@ -8,8 +8,9 @@ mot_cle: "skill-ethical-impact-assessment"
 nom_court: "Skill: Ethical Impact Assessme"
 branche: "D14"
 synonymes: ["evaluer", "impacts", "ethiques"]
-cross_refs: [335]
+cross_refs: [335, 1018, 1130]
 tags: ["2027"]
+depends_on: [1018]
 ---
 
 ## 1119. 🧠 Skill: Ethical Impact Assessment

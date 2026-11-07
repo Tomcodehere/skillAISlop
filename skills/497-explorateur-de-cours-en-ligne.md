@@ -8,7 +8,8 @@ mot_cle: "cours en ligne"
 nom_court: "Cours en ligne"
 branche: "D26"
 synonymes: []
-cross_refs: [496, 500]
+cross_refs: [496, 500, 530]
+depends_on: [770]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

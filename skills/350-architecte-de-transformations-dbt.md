@@ -8,7 +8,7 @@ mot_cle: "transformations dbt"
 nom_court: "dbt"
 branche: "D15"
 synonymes: []
-cross_refs: [94, 349]
+cross_refs: [94, 349, 93]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

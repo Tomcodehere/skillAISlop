@@ -8,7 +8,8 @@ mot_cle: "notification de violation de données"
 nom_court: "Violation données"
 branche: "D23"
 synonymes: []
-cross_refs: [235, 441]
+cross_refs: [235, 441, 189]
+depends_on: [189]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

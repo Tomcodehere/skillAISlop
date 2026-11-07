@@ -8,7 +8,8 @@ mot_cle: "garanties & réparations"
 nom_court: "Garanties"
 branche: "D26"
 synonymes: []
-cross_refs: [479, 480]
+cross_refs: [479, 480, 654]
+depends_on: [654]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

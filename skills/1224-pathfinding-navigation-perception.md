@@ -8,8 +8,9 @@ mot_cle: "pathfinding-navigation-perception"
 nom_court: "Pathfinding, Navigation & Perc"
 branche: "D1"
 synonymes: ["demande", "portant", "pathfinding"]
-cross_refs: [301]
+cross_refs: [301, 1050, 1149]
 tags: ["2027"]
+depends_on: [1050]
 ---
 
 ## 1224. 💻 Pathfinding, Navigation & Perception

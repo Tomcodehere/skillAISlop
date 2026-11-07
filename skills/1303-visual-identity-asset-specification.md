@@ -8,7 +8,7 @@ mot_cle: "visual-identity-asset-specification"
 nom_court: "Visual Identity Asset Specific"
 branche: "D25"
 synonymes: ["demande", "portant", "visual"]
-cross_refs: [1025]
+cross_refs: [1025, 142, 1054]
 tags: ["2027"]
 ---
 

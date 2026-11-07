@@ -8,7 +8,8 @@ mot_cle: "numérique seniors"
 nom_court: "Seniors numériques"
 branche: "D27"
 synonymes: ["seniors"]
-cross_refs: [247, 530]
+cross_refs: [247, 530, 246]
+depends_on: [246]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

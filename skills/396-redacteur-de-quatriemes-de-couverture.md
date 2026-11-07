@@ -8,7 +8,7 @@ mot_cle: "quatrièmes de couverture"
 nom_court: "Quatrièmes couverture"
 branche: "D18"
 synonymes: []
-cross_refs: [122, 123]
+cross_refs: [122, 123, 125]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

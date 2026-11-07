@@ -8,7 +8,8 @@ mot_cle: "simulation de phishing"
 nom_court: "Phishing"
 branche: "D23"
 synonymes: ["faux email", "phishing"]
-cross_refs: [200, 244]
+cross_refs: [200, 244, 757]
+depends_on: [757]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

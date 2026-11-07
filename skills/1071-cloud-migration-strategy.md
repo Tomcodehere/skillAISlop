@@ -8,8 +8,9 @@ mot_cle: "cloud-migration-strategy"
 nom_court: "Cloud Migration Strategy"
 branche: "D25"
 synonymes: ["migration", "migre", "cloud"]
-cross_refs: [1013]
+cross_refs: [1013, 1072, 1069]
 tags: ["2027"]
+depends_on: [1072]
 ---
 
 ## 1071. 📋 Cloud Migration Strategy

@@ -8,7 +8,8 @@ mot_cle: "amélioration des prompts"
 nom_court: "Boucle prompts"
 branche: "D30"
 synonymes: []
-cross_refs: [17, 338]
+cross_refs: [17, 338, 237]
+depends_on: [237]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

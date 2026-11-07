@@ -8,8 +8,9 @@ mot_cle: "ai-transparency-audience-plan"
 nom_court: "AI Transparency Audience Plan"
 branche: "D22"
 synonymes: ["demande", "portant", "transparency"]
-cross_refs: [455]
+cross_refs: [455, 1181, 1156]
 tags: ["2027"]
+depends_on: [1181]
 ---
 
 ## 1028. 🎨 AI Transparency Audience Plan

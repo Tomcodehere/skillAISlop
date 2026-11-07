@@ -8,8 +8,9 @@ mot_cle: "ai-adoption-feedback-decision"
 nom_court: "AI Adoption Feedback Decision"
 branche: "D22"
 synonymes: ["demande", "portant", "adoption"]
-cross_refs: [644]
+cross_refs: [644, 1023, 1237]
 tags: ["2027"]
+depends_on: [1023]
 ---
 
 ## 1016. 📦 AI Adoption Feedback Decision

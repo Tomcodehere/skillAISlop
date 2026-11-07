@@ -8,7 +8,7 @@ mot_cle: "operations-strategy-operating-model-design"
 nom_court: "Operations Strategy & Operatin"
 branche: "D14"
 synonymes: ["definir", "strategie", "operations"]
-cross_refs: [1018]
+cross_refs: [1018, 1024, 1145]
 tags: ["2027"]
 ---
 

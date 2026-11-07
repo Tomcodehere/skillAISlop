@@ -8,7 +8,8 @@ mot_cle: "clauses de sous-traitance (dpa)"
 nom_court: "DPA"
 branche: "D23"
 synonymes: []
-cross_refs: [442, 444]
+cross_refs: [442, 444, 448]
+depends_on: [442]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

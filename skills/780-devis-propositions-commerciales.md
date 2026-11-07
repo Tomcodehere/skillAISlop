@@ -8,7 +8,7 @@ mot_cle: "devis commercial"
 nom_court: "Devis"
 branche: "D21"
 synonymes: ["proposition commerciale"]
-cross_refs: [62, 369]
+cross_refs: [62, 369, 742]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

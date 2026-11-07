@@ -8,8 +8,9 @@ mot_cle: "ai-product-strategy-roadmap"
 nom_court: "AI Product Strategy & Roadmap"
 branche: "D14"
 synonymes: ["definir", "vision", "produit"]
-cross_refs: [176]
+cross_refs: [176, 1020, 1192]
 tags: ["2027"]
+depends_on: [1192]
 ---
 
 ## 1024. 🧠 AI Product Strategy & Roadmap

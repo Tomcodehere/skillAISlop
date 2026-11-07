@@ -8,8 +8,9 @@ mot_cle: "tests depuis la doc"
 nom_court: "Doc-to-test"
 branche: "D12"
 synonymes: ["doc to test"]
-cross_refs: [302, 543]
+cross_refs: [302, 543, 67]
 tags: ["2027", "aihero:implement-spec"]
+depends_on: [67]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

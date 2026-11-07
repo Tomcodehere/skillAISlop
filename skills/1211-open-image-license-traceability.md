@@ -8,7 +8,7 @@ mot_cle: "open-image-license-traceability"
 nom_court: "Open Image License Traceabilit"
 branche: "D25"
 synonymes: ["demande", "portant", "image"]
-cross_refs: [1206]
+cross_refs: [1206, 730, 1270]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "instructions d'agent"
 nom_court: "Instructions"
 branche: "D14"
 synonymes: []
-cross_refs: [66, 194]
+cross_refs: [66, 194, 335]
+depends_on: [335]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

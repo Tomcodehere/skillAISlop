@@ -8,7 +8,7 @@ mot_cle: "lisibilité"
 nom_court: "Lisibilité"
 branche: "D18"
 synonymes: []
-cross_refs: [281, 401]
+cross_refs: [281, 401, 327]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

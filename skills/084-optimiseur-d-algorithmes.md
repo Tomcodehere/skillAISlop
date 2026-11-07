@@ -8,7 +8,8 @@ mot_cle: "algorithmes"
 nom_court: "Algos"
 branche: "D15"
 synonymes: []
-cross_refs: [20, 90]
+cross_refs: [20, 90, 323]
+depends_on: [323]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

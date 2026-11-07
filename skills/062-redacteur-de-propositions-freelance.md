@@ -8,7 +8,8 @@ mot_cle: "propositions freelance"
 nom_court: "Propositions"
 branche: "D9"
 synonymes: ["chiffrage", "devis"]
-cross_refs: [16, 58]
+cross_refs: [16, 58, 599]
+depends_on: [599]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

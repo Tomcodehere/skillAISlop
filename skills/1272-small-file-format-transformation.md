@@ -8,7 +8,7 @@ mot_cle: "small-file-format-transformation"
 nom_court: "Small File-Format Transformati"
 branche: "D24"
 synonymes: ["demande", "portant", "small"]
-cross_refs: [11]
+cross_refs: [11, 1031, 1226]
 tags: ["2027"]
 ---
 

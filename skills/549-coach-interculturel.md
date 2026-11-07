@@ -8,7 +8,7 @@ mot_cle: "interculturel"
 nom_court: "Interculturel"
 branche: "D29"
 synonymes: ["interculturel"]
-cross_refs: [289, 399]
+cross_refs: [289, 399, 550]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

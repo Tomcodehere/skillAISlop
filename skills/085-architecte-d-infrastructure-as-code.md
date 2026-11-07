@@ -8,7 +8,8 @@ mot_cle: "infrastructure as code"
 nom_court: "IaC"
 branche: "D15"
 synonymes: []
-cross_refs: [82, 90]
+cross_refs: [82, 90, 83]
+depends_on: [83]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

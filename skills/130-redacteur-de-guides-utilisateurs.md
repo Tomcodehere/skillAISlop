@@ -8,7 +8,7 @@ mot_cle: "guides utilisateurs"
 nom_court: "Guides"
 branche: "D18"
 synonymes: []
-cross_refs: [23, 119]
+cross_refs: [23, 119, 187]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "ad-security-tiering"
 nom_court: "AD Security & Tiering"
 branche: "D14"
 synonymes: ["securite", "tiering", "model"]
-cross_refs: [1055]
+cross_refs: [1055, 1310, 1006]
 tags: ["2027"]
 ---
 

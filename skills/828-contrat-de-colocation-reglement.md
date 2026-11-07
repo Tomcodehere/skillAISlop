@@ -8,8 +8,9 @@ mot_cle: "contrat de colocation"
 nom_court: "Colocation"
 branche: "D29"
 synonymes: ["règlement coloc"]
-cross_refs: [592, 676]
+cross_refs: [592, 676, 750]
 tags: ["2027"]
+depends_on: [750]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

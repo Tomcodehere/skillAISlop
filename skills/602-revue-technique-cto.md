@@ -8,7 +8,7 @@ mot_cle: "revue cto"
 nom_court: "Revue CTO"
 branche: "D10"
 synonymes: ["build vs buy", "cto"]
-cross_refs: [61, 88]
+cross_refs: [61, 88, 821]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

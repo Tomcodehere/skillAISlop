@@ -8,7 +8,8 @@ mot_cle: "maturité d'équipe"
 nom_court: "Maturité équipe"
 branche: "D25"
 synonymes: []
-cross_refs: [421, 424]
+cross_refs: [421, 424, 232]
+depends_on: [424]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

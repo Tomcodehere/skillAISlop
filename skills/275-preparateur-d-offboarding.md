@@ -8,7 +8,8 @@ mot_cle: "offboarding"
 nom_court: "Offboarding"
 branche: "D24"
 synonymes: []
-cross_refs: [197, 203]
+cross_refs: [197, 203, 789]
+depends_on: [789]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

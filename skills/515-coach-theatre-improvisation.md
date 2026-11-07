@@ -8,7 +8,7 @@ mot_cle: "théâtre & impro"
 nom_court: "Théâtre"
 branche: "D28"
 synonymes: ["impro", "théâtre"]
-cross_refs: [208, 293]
+cross_refs: [208, 293, 498]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

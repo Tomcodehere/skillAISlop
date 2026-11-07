@@ -8,7 +8,7 @@ mot_cle: "statistical-inference-protocol"
 nom_court: "Statistical Inference Protocol"
 branche: "D14"
 synonymes: ["demande", "portant", "statistical"]
-cross_refs: [690]
+cross_refs: [690, 1114, 1112]
 tags: ["2027"]
 ---
 

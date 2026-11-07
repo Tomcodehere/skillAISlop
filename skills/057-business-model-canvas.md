@@ -8,8 +8,9 @@ mot_cle: "business model canvas"
 nom_court: "BMC"
 branche: "D10"
 synonymes: ["business model", "business plan"]
-cross_refs: [58, 60]
+cross_refs: [58, 60, 775]
 tags: ["aihero:domain-modeling", "aihero:grill-with-docs", "aihero:prototype", "aihero:to-tickets", "aihero:wayfinder", "aihero:grill-me", "aihero:grilling"]
+depends_on: [775]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

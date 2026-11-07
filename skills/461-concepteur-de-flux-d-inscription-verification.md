@@ -8,7 +8,8 @@ mot_cle: "flux d'inscription & vérification"
 nom_court: "Inscription"
 branche: "D22"
 synonymes: []
-cross_refs: [452, 453]
+cross_refs: [452, 453, 735]
+depends_on: [453]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

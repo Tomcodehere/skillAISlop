@@ -8,8 +8,9 @@ mot_cle: "entity-framework-core-migrations"
 nom_court: "Entity Framework Core Migratio"
 branche: "D1"
 synonymes: ["migrations", "first", "relations"]
-cross_refs: [1083]
+cross_refs: [1083, 86, 309]
 tags: ["2027"]
+depends_on: [86]
 ---
 
 ## 1118. 💻 Entity Framework Core Migrations

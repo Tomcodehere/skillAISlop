@@ -8,7 +8,8 @@ mot_cle: "landing page"
 nom_court: "Landing page"
 branche: "D20"
 synonymes: ["page de conversion"]
-cross_refs: [123, 162]
+cross_refs: [123, 162, 1175]
+depends_on: [1175]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

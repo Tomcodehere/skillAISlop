@@ -8,8 +8,9 @@ mot_cle: "vendre son bien"
 nom_court: "Vendre son bien"
 branche: "D29"
 synonymes: ["estimation immobilière"]
-cross_refs: [675, 45]
+cross_refs: [675, 45, 992]
 tags: ["2027"]
+depends_on: [675]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

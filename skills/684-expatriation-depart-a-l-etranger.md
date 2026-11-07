@@ -8,7 +8,8 @@ mot_cle: "expatriation"
 nom_court: "Expatriation"
 branche: "D26"
 synonymes: ["partir vivre à l'étranger"]
-cross_refs: [476, 656]
+cross_refs: [476, 656, 958]
+depends_on: [958]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

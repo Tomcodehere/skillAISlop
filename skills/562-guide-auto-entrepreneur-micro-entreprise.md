@@ -8,7 +8,8 @@ mot_cle: "auto-entrepreneur"
 nom_court: "Micro-entreprise"
 branche: "D29"
 synonymes: ["entrepreneur", "micro"]
-cross_refs: [297, 563]
+cross_refs: [297, 563, 668]
+depends_on: [668]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

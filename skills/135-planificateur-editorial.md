@@ -8,7 +8,8 @@ mot_cle: "planificateur éditorial"
 nom_court: "Éditorial"
 branche: "D20"
 synonymes: []
-cross_refs: [30, 53]
+cross_refs: [30, 53, 727]
+depends_on: [727]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

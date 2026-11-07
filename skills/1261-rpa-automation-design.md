@@ -8,8 +8,9 @@ mot_cle: "rpa-automation-design"
 nom_court: "RPA Automation Design"
 branche: "D1"
 synonymes: ["uipath", "power", "automate"]
-cross_refs: [1101]
+cross_refs: [1101, 1064, 1121]
 tags: ["2027"]
+depends_on: [1064]
 ---
 
 ## 1261. 💻 RPA Automation Design

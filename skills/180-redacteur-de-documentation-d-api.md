@@ -8,7 +8,8 @@ mot_cle: "documentation d'api"
 nom_court: "Doc API"
 branche: "D22"
 synonymes: []
-cross_refs: [87, 130]
+cross_refs: [87, 130, 23]
+depends_on: [23]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

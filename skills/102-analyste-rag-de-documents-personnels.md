@@ -8,7 +8,7 @@ mot_cle: "analyste rag de documents personnels"
 nom_court: "RAG perso"
 branche: "D17"
 synonymes: []
-cross_refs: [5, 98]
+cross_refs: [5, 98, 543]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

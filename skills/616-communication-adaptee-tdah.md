@@ -8,7 +8,7 @@ mot_cle: "communication tdah"
 nom_court: "TDAH-friendly"
 branche: "D14"
 synonymes: ["préambule", "tdah"]
-cross_refs: [26, 550]
+cross_refs: [26, 550, 1158]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

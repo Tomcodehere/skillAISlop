@@ -8,7 +8,8 @@ mot_cle: "assurance habitation"
 nom_court: "Assurances"
 branche: "D29"
 synonymes: ["protection juridique", "comparatif assurances"]
-cross_refs: [593, 480]
+cross_refs: [593, 480, 786]
+depends_on: [786]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

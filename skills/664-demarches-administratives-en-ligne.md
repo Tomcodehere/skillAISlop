@@ -8,7 +8,8 @@ mot_cle: "démarches en ligne"
 nom_court: "Démarches en ligne"
 branche: "D25"
 synonymes: ["téléservice"]
-cross_refs: [217, 581]
+cross_refs: [217, 581, 955]
+depends_on: [955]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "inclusive-research-protocol"
 nom_court: "Inclusive Research Protocol"
 branche: "D22"
 synonymes: ["demande", "portant", "inclusive"]
-cross_refs: [456]
+cross_refs: [456, 1162, 1299]
 tags: ["2027"]
+depends_on: [1162]
 ---
 
 ## 1163. 🎨 Inclusive Research Protocol

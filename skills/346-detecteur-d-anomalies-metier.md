@@ -8,7 +8,8 @@ mot_cle: "anomalies métier"
 nom_court: "Anomalies"
 branche: "D17"
 synonymes: []
-cross_refs: [109, 191]
+cross_refs: [109, 191, 92]
+depends_on: [92]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

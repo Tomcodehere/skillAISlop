@@ -8,8 +8,9 @@ mot_cle: "godot-export-build-pipeline"
 nom_court: "Godot Export & Build Pipeline"
 branche: "D1"
 synonymes: ["export", "godot", "pipeline"]
-cross_refs: [524]
+cross_refs: [524, 1116, 1050]
 tags: ["2027"]
+depends_on: [1116]
 ---
 
 ## 1150. 💻 Godot Export & Build Pipeline

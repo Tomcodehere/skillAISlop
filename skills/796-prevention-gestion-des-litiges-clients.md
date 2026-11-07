@@ -8,7 +8,8 @@ mot_cle: "client mécontent"
 nom_court: "Litige client"
 branche: "D9"
 synonymes: ["réclamation client"]
-cross_refs: [56, 649]
+cross_refs: [56, 649, 880]
+depends_on: [880]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

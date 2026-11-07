@@ -8,7 +8,7 @@ mot_cle: "panne ordinateur"
 nom_court: "Panne PC"
 branche: "D23"
 synonymes: ["pc ne démarre plus"]
-cross_refs: [291, 755]
+cross_refs: [291, 755, 957]
 tags: ["2027"]
 ---
 

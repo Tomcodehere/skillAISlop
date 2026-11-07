@@ -8,8 +8,9 @@ mot_cle: "meal prep semaine"
 nom_court: "Batch cooking"
 branche: "D27"
 synonymes: ["préparer ses repas de la semaine"]
-cross_refs: [486, 860]
+cross_refs: [486, 860, 1314]
 tags: ["2027"]
+depends_on: [486]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "extraction de documents"
 nom_court: "Extraction OCR"
 branche: "D30"
 synonymes: []
-cross_refs: [92, 268]
+cross_refs: [92, 268, 115]
+depends_on: [91]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

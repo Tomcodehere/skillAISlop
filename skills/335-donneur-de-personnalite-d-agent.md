@@ -8,7 +8,8 @@ mot_cle: "personnalité d'agent"
 nom_court: "Personnalité agent"
 branche: "D14"
 synonymes: []
-cross_refs: [33, 34]
+cross_refs: [33, 34, 288]
+depends_on: [288]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

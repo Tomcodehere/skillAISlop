@@ -8,8 +8,9 @@ mot_cle: "inclusive-design-psychology-psychologie-design-inclusif"
 nom_court: "Inclusive Design Psychology (P"
 branche: "D22"
 synonymes: ["accessibilite", "cognitive", "inclusif"]
-cross_refs: [1210]
+cross_refs: [1210, 455, 181]
 tags: ["2027"]
+depends_on: [455]
 ---
 
 ## 1162. 🎨 Inclusive Design Psychology (Psychologie Design Inclusif)

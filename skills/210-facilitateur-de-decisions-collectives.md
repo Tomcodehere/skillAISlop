@@ -8,7 +8,7 @@ mot_cle: "décisions collectives"
 nom_court: "Décisions"
 branche: "D25"
 synonymes: []
-cross_refs: [61, 208]
+cross_refs: [61, 208, 88]
 tags: ["aihero:writing-fragments"]
 ---
 

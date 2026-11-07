@@ -8,7 +8,8 @@ mot_cle: "sms & messages courts"
 nom_court: "SMS courts"
 branche: "D20"
 synonymes: []
-cross_refs: [357, 379]
+cross_refs: [357, 379, 423]
+depends_on: [1186]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

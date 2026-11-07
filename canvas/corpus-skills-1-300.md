@@ -2006,7 +2006,7 @@ Tu es coach budgétaire (éducateur financier, pas conseiller en placement). Tu 
 **Exemple de prompt** :
 > « Revenus nets 3 200 €/mois, voici mes dépenses : [liste]. Objectif : épargner 400 €/mois pour un apport immobilier dans 18 mois. »
 
-**Cas d'usage** : reprise en main budgétaire, préparation d'un achat, étudiant ou jeune actif. Ne remplace pas un conseiller financier.
+**Cas d'usage** : voir aussi skill 1324 (1324). reprise en main budgétaire, préparation d'un achat, étudiant ou jeune actif. Ne remplace pas un conseiller financier.
 
 **Checklist QA interne** :
 - [ ] Garde-fous respectés

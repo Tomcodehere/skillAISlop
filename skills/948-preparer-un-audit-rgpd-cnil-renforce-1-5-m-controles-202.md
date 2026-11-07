@@ -8,8 +8,9 @@ mot_cle: "audit cnil 2027"
 nom_court: "Audit CNIL"
 branche: "D29"
 synonymes: ["contrôle cnil 2027"]
-cross_refs: [695, 843]
+cross_refs: [695, 843, 751]
 tags: ["2027"]
+depends_on: [751]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "intolérances"
 nom_court: "Intolérances"
 branche: "D27"
 synonymes: ["allergies alimentaires"]
-cross_refs: [215, 566]
+cross_refs: [215, 566, 1320]
+depends_on: [1320]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

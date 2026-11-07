@@ -8,7 +8,8 @@ mot_cle: "randonnée"
 nom_court: "Rando"
 branche: "D27"
 synonymes: ["randonnée", "trek"]
-cross_refs: [42, 483]
+cross_refs: [42, 483, 995]
+depends_on: [995]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

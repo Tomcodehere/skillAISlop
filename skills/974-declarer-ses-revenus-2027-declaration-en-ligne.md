@@ -8,7 +8,7 @@ mot_cle: "déclaration revenus 2027"
 nom_court: "Déclaration 2027"
 branche: "D29"
 synonymes: ["impots.gouv.fr 2027"]
-cross_refs: [811, 973]
+cross_refs: [811, 973, 664]
 tags: ["2027"]
 ---
 

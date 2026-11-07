@@ -8,7 +8,8 @@ mot_cle: "assurance pro"
 nom_court: "Assurance pro"
 branche: "D29"
 synonymes: ["rc pro", "décennale"]
-cross_refs: [683, 198]
+cross_refs: [683, 198, 895]
+depends_on: [683]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

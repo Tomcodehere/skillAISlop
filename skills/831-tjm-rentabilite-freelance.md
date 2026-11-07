@@ -8,7 +8,7 @@ mot_cle: "tjm freelance"
 nom_court: "TJM"
 branche: "D29"
 synonymes: ["tarif journalier freelance"]
-cross_refs: [599, 668]
+cross_refs: [599, 668, 563]
 tags: ["2027"]
 ---
 

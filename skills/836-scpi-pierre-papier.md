@@ -8,7 +8,7 @@ mot_cle: "scpi"
 nom_court: "SCPI"
 branche: "D29"
 synonymes: ["pierre papier"]
-cross_refs: [519, 835]
+cross_refs: [519, 835, 812]
 tags: ["2027"]
 ---
 

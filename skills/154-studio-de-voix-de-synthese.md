@@ -8,7 +8,8 @@ mot_cle: "studio de voix de synthèse"
 nom_court: "Voix"
 branche: "D19"
 synonymes: ["speech"]
-cross_refs: [145, 157]
+cross_refs: [145, 157, 930]
+depends_on: [930]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

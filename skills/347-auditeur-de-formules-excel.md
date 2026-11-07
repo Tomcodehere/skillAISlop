@@ -8,7 +8,8 @@ mot_cle: "formules excel"
 nom_court: "Formules Excel"
 branche: "D17"
 synonymes: []
-cross_refs: [92, 264]
+cross_refs: [92, 264, 1123]
+depends_on: [264]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

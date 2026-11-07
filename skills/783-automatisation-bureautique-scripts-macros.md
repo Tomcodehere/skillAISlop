@@ -8,7 +8,7 @@ mot_cle: "automatiser une tâche"
 nom_court: "Auto bureautique"
 branche: "D16"
 synonymes: ["macro excel"]
-cross_refs: [669, 264]
+cross_refs: [669, 264, 324]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

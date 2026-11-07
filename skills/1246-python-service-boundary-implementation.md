@@ -8,7 +8,7 @@ mot_cle: "python-service-boundary-implementation"
 nom_court: "Python Service Boundary Implem"
 branche: "D1"
 synonymes: ["demande", "portant", "python"]
-cross_refs: [544]
+cross_refs: [544, 1273, 1098]
 tags: ["2027"]
 ---
 

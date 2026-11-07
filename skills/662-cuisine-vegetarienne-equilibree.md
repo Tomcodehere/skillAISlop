@@ -8,7 +8,8 @@ mot_cle: "végétarien"
 nom_court: "Végétarien"
 branche: "D27"
 synonymes: ["vegan"]
-cross_refs: [215, 566]
+cross_refs: [215, 566, 1314]
+depends_on: [1314]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

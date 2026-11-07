@@ -8,8 +8,9 @@ mot_cle: "lore-worldbuilding-bible-localization-prep"
 nom_court: "Lore, Worldbuilding Bible & Lo"
 branche: "D1"
 synonymes: ["demande", "portant", "worldbuilding"]
-cross_refs: [1294]
+cross_refs: [1294, 1107, 1222]
 tags: ["2027"]
+depends_on: [1107]
 ---
 
 ## 1182. 💻 Lore, Worldbuilding Bible & Localization Prep

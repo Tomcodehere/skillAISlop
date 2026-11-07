@@ -8,8 +8,9 @@ mot_cle: "conduite accompagnée"
 nom_court: "AAC"
 branche: "D28"
 synonymes: ["permis 17 ans"]
-cross_refs: [672, 580]
+cross_refs: [672, 580, 41]
 tags: ["2027"]
+depends_on: [672]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

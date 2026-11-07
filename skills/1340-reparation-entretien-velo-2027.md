@@ -8,8 +8,9 @@ mot_cle: "réparer son vélo"
 nom_court: "Vélo entretien"
 branche: "D26"
 synonymes: ["entretien vélo 2027"]
-cross_refs: [988, 959]
+cross_refs: [988, 959, 655]
 tags: ["2027"]
+depends_on: [988]
 ---
 
 ## 1340. 🚲 Réparation & entretien vélo 2027

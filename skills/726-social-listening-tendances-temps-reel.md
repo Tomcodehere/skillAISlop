@@ -8,7 +8,8 @@ mot_cle: "veille réseaux sociaux"
 nom_court: "Social listening"
 branche: "D20"
 synonymes: ["tendances temps réel"]
-cross_refs: [366, 290]
+cross_refs: [366, 290, 30]
+depends_on: [366]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

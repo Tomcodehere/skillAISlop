@@ -8,7 +8,8 @@ mot_cle: "expert forensique numérique"
 nom_court: "Forensique"
 branche: "D23"
 synonymes: []
-cross_refs: [440, 444]
+cross_refs: [440, 444, 247]
+depends_on: [247]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

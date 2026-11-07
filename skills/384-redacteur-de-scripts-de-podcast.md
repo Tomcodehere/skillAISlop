@@ -8,7 +8,8 @@ mot_cle: "scripts de podcast"
 nom_court: "Scripts podcast"
 branche: "D18"
 synonymes: []
-cross_refs: [295, 380]
+cross_refs: [295, 380, 392]
+depends_on: [392]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "éloquence"
 nom_court: "Éloquence"
 branche: "D26"
 synonymes: []
-cross_refs: [75, 154]
+cross_refs: [75, 154, 204]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

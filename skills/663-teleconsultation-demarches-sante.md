@@ -8,7 +8,8 @@ mot_cle: "téléconsultation"
 nom_court: "Téléconsultation"
 branche: "D27"
 synonymes: ["médecin en ligne"]
-cross_refs: [485, 624]
+cross_refs: [485, 624, 1331]
+depends_on: [1331]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

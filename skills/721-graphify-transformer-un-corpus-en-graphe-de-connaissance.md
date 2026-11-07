@@ -8,7 +8,7 @@ mot_cle: "graphe de connaissances"
 nom_court: "Graphify"
 branche: "D15"
 synonymes: ["connaissances en réseau"]
-cross_refs: [287, 95]
+cross_refs: [287, 95, 114]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

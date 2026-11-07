@@ -8,8 +8,9 @@ mot_cle: "dialogue-quest-scripting-workflow"
 nom_court: "Dialogue & Quest Scripting Wor"
 branche: "D1"
 synonymes: ["demande", "portant", "dialogue"]
-cross_refs: [606]
+cross_refs: [606, 1174, 1052]
 tags: ["2027"]
+depends_on: [1174]
 ---
 
 ## 1107. 💻 Dialogue & Quest Scripting Workflow

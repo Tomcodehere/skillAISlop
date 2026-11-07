@@ -8,8 +8,9 @@ mot_cle: "mémoire persistante agent"
 nom_court: "Mémoire persistante"
 branche: "D14"
 synonymes: ["claude-mem"]
-cross_refs: [714, 260]
+cross_refs: [714, 260, 615]
 tags: ["2027"]
+depends_on: [714]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

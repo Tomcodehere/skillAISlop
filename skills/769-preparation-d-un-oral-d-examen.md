@@ -8,7 +8,8 @@ mot_cle: "oral d'examen"
 nom_court: "Oral"
 branche: "D28"
 synonymes: ["grand oral"]
-cross_refs: [41, 293]
+cross_refs: [41, 293, 767]
+depends_on: [41]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

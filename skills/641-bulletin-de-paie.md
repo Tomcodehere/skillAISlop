@@ -8,7 +8,7 @@ mot_cle: "bulletin de paie"
 nom_court: "Bulletin de paie"
 branche: "D29"
 synonymes: ["fiche de paie"]
-cross_refs: [294, 588]
+cross_refs: [294, 588, 973]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

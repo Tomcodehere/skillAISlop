@@ -8,7 +8,8 @@ mot_cle: "demande d'augmentation"
 nom_court: "Augmentation"
 branche: "D26"
 synonymes: ["augmentation de salaire", "negocier une augmentation"]
-cross_refs: [45, 277]
+cross_refs: [45, 277, 633]
+depends_on: [633]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

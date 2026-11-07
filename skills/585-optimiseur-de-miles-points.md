@@ -8,7 +8,7 @@ mot_cle: "miles & points"
 nom_court: "Miles"
 branche: "D27"
 synonymes: ["miles"]
-cross_refs: [42, 173]
+cross_refs: [42, 173, 402]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

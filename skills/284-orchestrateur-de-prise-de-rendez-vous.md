@@ -8,7 +8,7 @@ mot_cle: "orchestrateur de prise de rendez-vous"
 nom_court: "RDV"
 branche: "D25"
 synonymes: ["prendre rendez-vous", "rdv", "rendez-vous"]
-cross_refs: [72, 209]
+cross_refs: [72, 209, 670]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

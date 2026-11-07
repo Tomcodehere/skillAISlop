@@ -8,7 +8,8 @@ mot_cle: "accords de télétravail"
 nom_court: "Télétravail"
 branche: "D24"
 synonymes: ["teletravail", "travail a distance"]
-cross_refs: [404, 424]
+cross_refs: [404, 424, 642]
+depends_on: [642]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

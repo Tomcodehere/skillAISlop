@@ -8,7 +8,8 @@ mot_cle: "courses & garde-manger"
 nom_court: "Garde-manger"
 branche: "D26"
 synonymes: ["courses", "provisions", "supermarche"]
-cross_refs: [468, 486]
+cross_refs: [468, 486, 1328]
+depends_on: [1328]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

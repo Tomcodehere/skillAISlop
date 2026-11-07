@@ -8,7 +8,8 @@ mot_cle: "benchmarkeur de code"
 nom_court: "Bench code"
 branche: "D16"
 synonymes: []
-cross_refs: [84, 308]
+cross_refs: [84, 308, 302]
+depends_on: [302]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

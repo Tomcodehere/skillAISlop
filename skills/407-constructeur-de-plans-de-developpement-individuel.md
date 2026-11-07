@@ -8,7 +8,8 @@ mot_cle: "plans de développement individuel"
 nom_court: "Plans dev"
 branche: "D24"
 synonymes: []
-cross_refs: [277, 415]
+cross_refs: [277, 415, 204]
+depends_on: [791]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

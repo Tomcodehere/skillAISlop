@@ -8,7 +8,8 @@ mot_cle: "auditeur performance web"
 nom_court: "Perfs web"
 branche: "D16"
 synonymes: []
-cross_refs: [84, 110]
+cross_refs: [84, 110, 79]
+depends_on: [79]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

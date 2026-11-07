@@ -8,7 +8,7 @@ mot_cle: "rhel-package-lifecycle-plan"
 nom_court: "RHEL Package Lifecycle Plan"
 branche: "D25"
 synonymes: ["demande", "portant", "package"]
-cross_refs: [466]
+cross_refs: [466, 1326, 1279]
 tags: ["2027"]
 ---
 

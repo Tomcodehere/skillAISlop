@@ -8,7 +8,8 @@ mot_cle: "cgu & mentions légales"
 nom_court: "CGU"
 branche: "D23"
 synonymes: []
-cross_refs: [374, 442]
+cross_refs: [374, 442, 751]
+depends_on: [751]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

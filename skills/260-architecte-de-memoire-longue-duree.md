@@ -8,7 +8,8 @@ mot_cle: "mémoire longue durée"
 nom_court: "Mémoire"
 branche: "D14"
 synonymes: []
-cross_refs: [102, 236]
+cross_refs: [102, 236, 714]
+depends_on: [714]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

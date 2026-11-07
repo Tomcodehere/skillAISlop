@@ -8,8 +8,9 @@ mot_cle: "active-directory-architecture-design"
 nom_court: "Active Directory Architecture"
 branche: "D1"
 synonymes: ["architecture", "multi-sites", "foret"]
-cross_refs: [1111]
+cross_refs: [1111, 1067, 1281]
 tags: ["2027"]
+depends_on: [1067]
 ---
 
 ## 1004. 💻 Active Directory Architecture Design

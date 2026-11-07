@@ -8,7 +8,7 @@ mot_cle: "modérateur de communauté"
 nom_court: "Modération"
 branche: "D23"
 synonymes: []
-cross_refs: [46, 175]
+cross_refs: [46, 175, 406]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

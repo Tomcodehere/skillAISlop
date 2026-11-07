@@ -8,7 +8,8 @@ mot_cle: "décomposition de tâches"
 nom_court: "Découpage"
 branche: "D2"
 synonymes: ["par où commencer", "procrastination", "procrastiner", "remettre à demain"]
-cross_refs: [15]
+cross_refs: [15, 223, 269]
+depends_on: [223]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

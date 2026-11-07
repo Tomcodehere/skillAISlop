@@ -8,7 +8,8 @@ mot_cle: "orientation scolaire"
 nom_court: "Orientation"
 branche: "D28"
 synonymes: ["orientation"]
-cross_refs: [231, 497]
+cross_refs: [231, 497, 770]
+depends_on: [770]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

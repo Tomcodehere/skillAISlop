@@ -8,7 +8,8 @@ mot_cle: "kits d'expatriation"
 nom_court: "Expatriation"
 branche: "D26"
 synonymes: ["expatriation", "expatrie", "vivre a l'etranger"]
-cross_refs: [477, 480]
+cross_refs: [477, 480, 684]
+depends_on: [684]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

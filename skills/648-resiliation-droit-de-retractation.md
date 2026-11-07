@@ -8,7 +8,8 @@ mot_cle: "résiliation"
 nom_court: "Résiliation"
 branche: "D29"
 synonymes: ["délai de rétractation"]
-cross_refs: [374, 16]
+cross_refs: [374, 16, 555]
+depends_on: [555]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

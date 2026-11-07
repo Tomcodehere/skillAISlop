@@ -8,7 +8,7 @@ mot_cle: "variantes créatives publicitaires"
 nom_court: "Variantes"
 branche: "D19"
 synonymes: []
-cross_refs: [110, 139]
+cross_refs: [110, 139, 142]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

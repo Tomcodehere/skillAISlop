@@ -8,7 +8,8 @@ mot_cle: "communication de crise"
 nom_court: "Crise"
 branche: "D25"
 synonymes: ["buzz négatif"]
-cross_refs: [235, 403]
+cross_refs: [235, 403, 766]
+depends_on: [235]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

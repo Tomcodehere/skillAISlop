@@ -8,8 +8,9 @@ mot_cle: "localization-context-adaptation"
 nom_court: "Localization Context Adaptatio"
 branche: "D22"
 synonymes: ["demande", "portant", "localization"]
-cross_refs: [1212]
+cross_refs: [1212, 1028, 2]
 tags: ["2027"]
+depends_on: [1028]
 ---
 
 ## 1181. 🎨 Localization Context Adaptation

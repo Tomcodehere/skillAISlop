@@ -8,8 +8,9 @@ mot_cle: "règlement intérieur"
 nom_court: "RI"
 branche: "D24"
 synonymes: ["charte informatique"]
-cross_refs: [792, 207]
+cross_refs: [792, 207, 193]
 tags: ["2027"]
+depends_on: [417]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

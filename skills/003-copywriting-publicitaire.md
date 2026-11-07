@@ -8,7 +8,8 @@ mot_cle: "copywriting publicitaire"
 nom_court: ""
 branche: "K"
 synonymes: ["ads", "annonce pub", "campagne pub", "publicité"]
-cross_refs: [29, 33]
+cross_refs: [29, 33, 162]
+depends_on: [162]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "humaniseur de texte"
 nom_court: "Humaniseur IA"
 branche: "D29"
 synonymes: ["humaniser"]
-cross_refs: [2, 8]
+cross_refs: [2, 8, 154]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

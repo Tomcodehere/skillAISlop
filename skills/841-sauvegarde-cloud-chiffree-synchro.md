@@ -8,8 +8,9 @@ mot_cle: "sauvegarde cloud"
 nom_court: "Backup cloud"
 branche: "D23"
 synonymes: ["synchronisation appareils"]
-cross_refs: [755, 665]
+cross_refs: [755, 665, 507]
 tags: ["2027"]
+depends_on: [507]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

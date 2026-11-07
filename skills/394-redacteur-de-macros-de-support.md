@@ -8,7 +8,7 @@ mot_cle: "macros de support"
 nom_court: "Macros support"
 branche: "D18"
 synonymes: []
-cross_refs: [138, 390]
+cross_refs: [138, 390, 56]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

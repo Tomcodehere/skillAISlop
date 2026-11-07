@@ -8,8 +8,9 @@ mot_cle: "calibration-confiance-decisionnelle"
 nom_court: "Calibration Confiance Décision"
 branche: "D14"
 synonymes: ["limite", "clarifier", "inferer"]
-cross_refs: [1258]
+cross_refs: [1258, 1014, 335]
 tags: ["2027"]
+depends_on: [1014]
 ---
 
 ## 1060. 🧠 Calibration Confiance Décisionnelle

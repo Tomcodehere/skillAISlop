@@ -8,7 +8,7 @@ mot_cle: "choisir un logiciel"
 nom_court: "Choisir un SaaS"
 branche: "D25"
 synonymes: ["comparer des outils"]
-cross_refs: [32, 219]
+cross_refs: [32, 219, 689]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "test a/b"
 nom_court: "Test A/B"
 branche: "D22"
 synonymes: ["expérimentation"]
-cross_refs: [110, 179]
+cross_refs: [110, 179, 735]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

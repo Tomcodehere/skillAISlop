@@ -8,7 +8,8 @@ mot_cle: "conseiller fine-tuning vs rag"
 nom_court: "FT vs RAG"
 branche: "D17"
 synonymes: []
-cross_refs: [97, 98]
+cross_refs: [97, 98, 691]
+depends_on: [691]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

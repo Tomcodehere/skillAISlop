@@ -8,7 +8,7 @@ mot_cle: "contract-drafting-negotiation"
 nom_court: "Contract Drafting & Negotiatio"
 branche: "D22"
 synonymes: ["nouveau", "contrat", "client"]
-cross_refs: [176]
+cross_refs: [176, 750, 370]
 tags: ["2027"]
 ---
 

@@ -8,8 +8,9 @@ mot_cle: "changer de syndic"
 nom_court: "Changer syndic"
 branche: "D29"
 synonymes: ["syndic défaillant"]
-cross_refs: [677, 595]
+cross_refs: [677, 595, 680]
 tags: ["2027"]
+depends_on: [677]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

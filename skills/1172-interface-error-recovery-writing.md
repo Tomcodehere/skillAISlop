@@ -8,8 +8,9 @@ mot_cle: "interface-error-recovery-writing"
 nom_court: "Interface Error-Recovery Writi"
 branche: "D22"
 synonymes: ["demande", "portant", "interface"]
-cross_refs: [1259]
+cross_refs: [1259, 731, 64]
 tags: ["2027", "aihero:pr"]
+depends_on: [731]
 ---
 
 ## 1172. 🎨 Interface Error-Recovery Writing

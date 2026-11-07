@@ -8,8 +8,9 @@ mot_cle: "préparer un trek 2027"
 nom_court: "Trek 2027"
 branche: "D26"
 synonymes: ["randonnée gr 2027"]
-cross_refs: [914, 915]
+cross_refs: [914, 915, 988]
 tags: ["2027"]
+depends_on: [988]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

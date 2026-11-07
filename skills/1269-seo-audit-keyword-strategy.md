@@ -8,7 +8,7 @@ mot_cle: "seo-audit-keyword-strategy"
 nom_court: "SEO Audit & Keyword Strategy"
 branche: "D14"
 synonymes: ["realiser", "audit", "editorial"]
-cross_refs: [1008]
+cross_refs: [1008, 1217, 1024]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,7 @@ mot_cle: "ingénieur devops & déploiement"
 nom_court: "DevOps"
 branche: "D16"
 synonymes: []
-cross_refs: [85, 89]
+cross_refs: [85, 89, 1117]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

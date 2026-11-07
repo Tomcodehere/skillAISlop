@@ -8,8 +8,9 @@ mot_cle: "dommages-ouvrage"
 nom_court: "DO"
 branche: "D29"
 synonymes: ["assurance décennale"]
-cross_refs: [786, 220]
+cross_refs: [786, 220, 683]
 tags: ["2027"]
+depends_on: [786]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

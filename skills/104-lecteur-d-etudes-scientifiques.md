@@ -8,7 +8,7 @@ mot_cle: "lecteur d'études scientifiques"
 nom_court: "Études"
 branche: "D17"
 synonymes: []
-cross_refs: [18, 226]
+cross_refs: [18, 226, 124]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

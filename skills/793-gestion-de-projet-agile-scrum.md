@@ -8,7 +8,8 @@ mot_cle: "projet agile"
 nom_court: "Agile/Scrum"
 branche: "D25"
 synonymes: ["scrum"]
-cross_refs: [15, 185]
+cross_refs: [15, 185, 425]
+depends_on: [425]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

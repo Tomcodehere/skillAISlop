@@ -8,7 +8,8 @@ mot_cle: "clôture comptable"
 nom_court: "Clôture comptable"
 branche: "D29"
 synonymes: ["bilan comptable"]
-cross_refs: [588, 59]
+cross_refs: [588, 59, 600]
+depends_on: [59]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

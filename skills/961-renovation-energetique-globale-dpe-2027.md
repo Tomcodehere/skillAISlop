@@ -8,8 +8,9 @@ mot_cle: "rénovation énergétique globale"
 nom_court: "Rénovation globale"
 branche: "D29"
 synonymes: ["dpe 2027 interdiction location"]
-cross_refs: [935, 894]
+cross_refs: [935, 894, 979]
 tags: ["2027"]
+depends_on: [935]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

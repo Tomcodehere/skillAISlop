@@ -8,7 +8,7 @@ mot_cle: "négocier une facture"
 nom_court: "Négocier facture"
 branche: "D21"
 synonymes: ["obtenir une remise"]
-cross_refs: [742, 230]
+cross_refs: [742, 230, 45]
 tags: ["2027"]
 ---
 

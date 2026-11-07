@@ -8,8 +8,9 @@ mot_cle: "disaster-recovery-design"
 nom_court: "Disaster Recovery Design"
 branche: "D22"
 synonymes: ["reprise", "cloud", "definis"]
-cross_refs: [1252]
+cross_refs: [1252, 1165, 1027]
 tags: ["2027"]
+depends_on: [1189]
 ---
 
 ## 1108. 🎨 Disaster Recovery Design

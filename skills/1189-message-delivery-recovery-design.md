@@ -8,8 +8,9 @@ mot_cle: "message-delivery-recovery-design"
 nom_court: "Message Delivery Recovery Desi"
 branche: "D22"
 synonymes: ["demande", "portant", "message"]
-cross_refs: [182]
+cross_refs: [182, 1108, 1086]
 tags: ["2027"]
+depends_on: [1108]
 ---
 
 ## 1189. 🎨 Message Delivery Recovery Design

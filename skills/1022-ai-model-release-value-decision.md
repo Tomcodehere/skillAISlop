@@ -8,8 +8,9 @@ mot_cle: "ai-model-release-value-decision"
 nom_court: "AI Model Release Value Decisio"
 branche: "D1"
 synonymes: ["demande", "portant", "model"]
-cross_refs: [1305]
+cross_refs: [1305, 1237, 129]
 tags: ["2027"]
+depends_on: [129]
 ---
 
 ## 1022. 💻 AI Model Release Value Decision

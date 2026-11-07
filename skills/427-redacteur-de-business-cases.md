@@ -8,7 +8,7 @@ mot_cle: "business cases"
 nom_court: "Business cases"
 branche: "D17"
 synonymes: []
-cross_refs: [425, 435]
+cross_refs: [425, 435, 57]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

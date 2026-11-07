@@ -8,7 +8,8 @@ mot_cle: "canaux de feedback anonyme"
 nom_court: "Feedback anonyme"
 branche: "D24"
 synonymes: []
-cross_refs: [399, 413]
+cross_refs: [399, 413, 881]
+depends_on: [881]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

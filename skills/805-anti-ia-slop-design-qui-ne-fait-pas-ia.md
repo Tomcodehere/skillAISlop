@@ -8,8 +8,9 @@ mot_cle: "anti ia slop"
 nom_court: "Anti-IA slop"
 branche: "D22"
 synonymes: ["hallmark design"]
-cross_refs: [449, 686]
+cross_refs: [449, 686, 455]
 tags: ["2027"]
+depends_on: [455]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

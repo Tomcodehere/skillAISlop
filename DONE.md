@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Cross-refs complétées partout (1350/1351, top-3 par cosinus même domaine, outils/enrichir_xrefs.py) + 906 workflows depends_on auto (chaînes affichées après le gagnant) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
+
 - [x] **2026-11-07** — Vérification doublons vs aihero.dev/skills (39 skills MIT, repo mattpocock/skills) : 100 % déjà couvertes → 0 nouvelle, 111 cross-refs tags aihero:<slug> ajoutées — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
 
 - [x] **2026-11-07** — Cache LRU trigrammes de requête (trigrammes_de) → route 4,7 ms (min 2,9) — fautes de frappe OK (organisr→208), anti-bruit OK (IoT→2) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE

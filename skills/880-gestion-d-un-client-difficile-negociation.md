@@ -8,8 +8,9 @@ mot_cle: "client difficile"
 nom_court: "Client difficile"
 branche: "D9"
 synonymes: ["client toxique"]
-cross_refs: [796, 46]
+cross_refs: [796, 46, 797]
 tags: ["2027"]
+depends_on: [796]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

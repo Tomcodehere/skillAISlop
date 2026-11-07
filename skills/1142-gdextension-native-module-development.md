@@ -8,8 +8,9 @@ mot_cle: "gdextension-native-module-development"
 nom_court: "GDExtension & Native Module De"
 branche: "D1"
 synonymes: ["demande", "portant", "gdextension"]
-cross_refs: [1037]
+cross_refs: [1037, 1116, 1174]
 tags: ["2027"]
+depends_on: [1116]
 ---
 
 ## 1142. 💻 GDExtension & Native Module Development

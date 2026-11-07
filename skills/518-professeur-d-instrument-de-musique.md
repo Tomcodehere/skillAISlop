@@ -8,7 +8,7 @@ mot_cle: "apprendre un instrument"
 nom_court: "Instrument"
 branche: "D28"
 synonymes: ["guitare", "piano", "violon"]
-cross_refs: [214, 496]
+cross_refs: [214, 496, 867]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

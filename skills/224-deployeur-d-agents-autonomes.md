@@ -8,7 +8,8 @@ mot_cle: "déployeur d'agents autonomes"
 nom_court: "Autonomes"
 branche: "D14"
 synonymes: []
-cross_refs: [100, 194]
+cross_refs: [100, 194, 330]
+depends_on: [330]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

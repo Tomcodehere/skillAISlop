@@ -8,7 +8,8 @@ mot_cle: "menaces"
 nom_court: "Menaces"
 branche: "D23"
 synonymes: []
-cross_refs: [441, 447]
+cross_refs: [441, 447, 504]
+depends_on: [504]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

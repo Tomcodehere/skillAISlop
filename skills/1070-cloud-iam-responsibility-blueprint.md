@@ -8,7 +8,7 @@ mot_cle: "cloud-iam-responsibility-blueprint"
 nom_court: "Cloud IAM Responsibility Bluep"
 branche: "D22"
 synonymes: ["demande", "portant", "cloud"]
-cross_refs: [1057]
+cross_refs: [1057, 1254, 507]
 tags: ["2027"]
 ---
 

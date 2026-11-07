@@ -8,7 +8,7 @@ mot_cle: "intervieweur par écrit"
 nom_court: "Interview écrit"
 branche: "D18"
 synonymes: []
-cross_refs: [355, 405]
+cross_refs: [355, 405, 119]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

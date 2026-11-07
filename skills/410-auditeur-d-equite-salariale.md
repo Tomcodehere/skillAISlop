@@ -8,7 +8,8 @@ mot_cle: "équité salariale"
 nom_court: "Équité salariale"
 branche: "D24"
 synonymes: []
-cross_refs: [294, 434]
+cross_refs: [294, 434, 912]
+depends_on: [912]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

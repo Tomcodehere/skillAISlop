@@ -8,8 +8,9 @@ mot_cle: "user-stories-acceptance-criteria"
 nom_court: "User Stories & Acceptance Crit"
 branche: "D22"
 synonymes: ["story", "criteres", "acceptation"]
-cross_refs: [460]
+cross_refs: [460, 63, 1000]
 tags: ["2027"]
+depends_on: [63]
 ---
 
 ## 1297. 📦 User Stories & Acceptance Criteria

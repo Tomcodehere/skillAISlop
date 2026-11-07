@@ -8,8 +8,9 @@ mot_cle: "notarial-appointment-preparation"
 nom_court: "Notarial Appointment Preparati"
 branche: "D19"
 synonymes: ["utilisateur", "prepare", "rendez-vous"]
-cross_refs: [228]
+cross_refs: [228, 1003, 1082]
 tags: ["2027"]
+depends_on: [1003]
 ---
 
 ## 1205. 🎨 Notarial Appointment Preparation

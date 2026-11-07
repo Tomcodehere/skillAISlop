@@ -8,7 +8,8 @@ mot_cle: "succession"
 nom_court: "Succession"
 branche: "D29"
 synonymes: ["testament", "héritage familial"]
-cross_refs: [246, 16]
+cross_refs: [246, 16, 837]
+depends_on: [837]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

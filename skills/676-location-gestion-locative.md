@@ -8,7 +8,8 @@ mot_cle: "bail"
 nom_court: "Bail"
 branche: "D29"
 synonymes: ["état des lieux", "quittance de loyer"]
-cross_refs: [554, 595]
+cross_refs: [554, 595, 854]
+depends_on: [554]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

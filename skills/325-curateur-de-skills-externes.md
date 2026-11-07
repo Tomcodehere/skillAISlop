@@ -8,7 +8,8 @@ mot_cle: "skills externes"
 nom_court: "Curateur skills"
 branche: "D14"
 synonymes: []
-cross_refs: [194, 262]
+cross_refs: [194, 262, 261]
+depends_on: [261]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

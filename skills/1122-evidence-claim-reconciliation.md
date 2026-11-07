@@ -8,7 +8,7 @@ mot_cle: "evidence-claim-reconciliation"
 nom_court: "Evidence-Claim Reconciliation"
 branche: "D17"
 synonymes: ["demande", "portant", "evidence-claim"]
-cross_refs: [1061]
+cross_refs: [1061, 270, 24]
 tags: ["2027"]
 ---
 

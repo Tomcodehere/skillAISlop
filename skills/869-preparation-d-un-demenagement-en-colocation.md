@@ -8,8 +8,9 @@ mot_cle: "déménager en colocation"
 nom_court: "Déménagement coloc"
 branche: "D26"
 synonymes: ["check-list déménagement"]
-cross_refs: [653, 828]
+cross_refs: [653, 828, 1330]
 tags: ["2027"]
+depends_on: [1330]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

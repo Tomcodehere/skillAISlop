@@ -8,8 +8,9 @@ mot_cle: "tests unitaires"
 nom_court: "Tests"
 branche: "D12"
 synonymes: ["couverture de tests", "test unitaire"]
-cross_refs: [21, 63]
+cross_refs: [21, 63, 317]
 tags: ["aihero:tdd", "aihero:migrate-to-shoehorn", "aihero:setup-pre-commit"]
+depends_on: [317]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

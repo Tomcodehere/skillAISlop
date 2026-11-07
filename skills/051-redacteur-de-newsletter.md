@@ -8,7 +8,8 @@ mot_cle: "newsletter"
 nom_court: "Newsletter"
 branche: "D8"
 synonymes: ["infolettre", "newsletter"]
-cross_refs: [30, 34]
+cross_refs: [30, 34, 357]
+depends_on: [357]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

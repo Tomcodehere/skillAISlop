@@ -8,7 +8,7 @@ mot_cle: "générateur de faq"
 nom_court: "FAQ"
 branche: "D18"
 synonymes: []
-cross_refs: [56, 130]
+cross_refs: [56, 130, 254]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

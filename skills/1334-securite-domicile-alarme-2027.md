@@ -8,8 +8,9 @@ mot_cle: "sécurité domicile 2027"
 nom_court: "Sécurité domicile"
 branche: "D23"
 synonymes: ["alarme maison"]
-cross_refs: [965, 907]
+cross_refs: [965, 907, 445]
 tags: ["2027"]
+depends_on: [445]
 ---
 
 ## 1334. 🏡 Sécurité domicile & alarme (2027)

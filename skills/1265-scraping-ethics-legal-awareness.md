@@ -8,7 +8,7 @@ mot_cle: "scraping-ethics-legal-awareness"
 nom_court: "Scraping Ethics & Legal Awaren"
 branche: "D1"
 synonymes: ["scraping", "est-il", "legal"]
-cross_refs: [91]
+cross_refs: [91, 940, 1029]
 tags: ["2027"]
 ---
 

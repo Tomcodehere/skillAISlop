@@ -8,7 +8,7 @@ mot_cle: "cookie-consent-evidence-review"
 nom_court: "Cookie Consent Evidence Review"
 branche: "D22"
 synonymes: ["demande", "portant", "cookie"]
-cross_refs: [184]
+cross_refs: [184, 1061, 1131]
 tags: ["2027"]
 ---
 

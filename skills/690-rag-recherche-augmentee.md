@@ -8,7 +8,7 @@ mot_cle: "rag"
 nom_court: "RAG"
 branche: "D14"
 synonymes: ["recherche sémantique", "embeddings"]
-cross_refs: [98, 266]
+cross_refs: [98, 266, 784]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "skill creator (skill.md)"
 nom_court: "Skill Creator"
 branche: "D4"
 synonymes: []
-cross_refs: [17, 37]
+cross_refs: [17, 37, 716]
 tags: ["aihero:setup-ts-deep-modules"]
+depends_on: [715]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

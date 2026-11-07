@@ -8,7 +8,8 @@ mot_cle: "compte rendu de réunion"
 nom_court: "CR"
 branche: "D2"
 synonymes: ["compte rendu", "cr de reunion"]
-cross_refs: [4]
+cross_refs: [4, 705, 702]
+depends_on: [705]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

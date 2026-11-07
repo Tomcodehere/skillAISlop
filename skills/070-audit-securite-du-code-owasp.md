@@ -9,6 +9,7 @@ nom_court: "Sécurité"
 branche: "D12"
 synonymes: []
 cross_refs: [10, 37, 68]
+depends_on: [10]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

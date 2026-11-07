@@ -8,7 +8,8 @@ mot_cle: "design system équipe"
 nom_court: "Design system"
 branche: "D22"
 synonymes: ["bibliothèque de composants"]
-cross_refs: [181, 455]
+cross_refs: [181, 455, 1026]
+depends_on: [181]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

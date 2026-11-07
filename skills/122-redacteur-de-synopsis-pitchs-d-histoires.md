@@ -8,7 +8,7 @@ mot_cle: "synopsis & pitchs d'histoires"
 nom_court: "Pitchs"
 branche: "D18"
 synonymes: []
-cross_refs: [14, 121]
+cross_refs: [14, 121, 386]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

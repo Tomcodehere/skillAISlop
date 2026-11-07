@@ -8,7 +8,8 @@ mot_cle: "neurodiversité"
 nom_court: "Neurodiversité"
 branche: "D29"
 synonymes: ["dyslexie", "neurodiversité"]
-cross_refs: [26, 465]
+cross_refs: [26, 465, 421]
+depends_on: [421]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

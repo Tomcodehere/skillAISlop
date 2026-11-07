@@ -8,7 +8,7 @@ mot_cle: "réunions efficaces"
 nom_court: "Réunions efficaces"
 branche: "D25"
 synonymes: ["réunionite"]
-cross_refs: [209, 463]
+cross_refs: [209, 463, 289]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

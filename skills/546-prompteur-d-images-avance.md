@@ -8,7 +8,8 @@ mot_cle: "prompt d'images"
 nom_court: "Prompt images"
 branche: "D28"
 synonymes: ["midjourney"]
-cross_refs: [139, 150]
+cross_refs: [139, 150, 144]
+depends_on: [139]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

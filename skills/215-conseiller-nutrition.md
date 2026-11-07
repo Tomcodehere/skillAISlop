@@ -8,7 +8,8 @@ mot_cle: "conseiller nutrition"
 nom_court: "Nutrition"
 branche: "D26"
 synonymes: ["calories", "nutrition", "perdre du poids", "regime"]
-cross_refs: [214, 216]
+cross_refs: [214, 216, 266]
+depends_on: [941]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

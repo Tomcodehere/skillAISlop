@@ -8,7 +8,8 @@ mot_cle: "cnv"
 nom_court: "CNV"
 branche: "D6"
 synonymes: ["communication non violente"]
-cross_refs: [46, 644]
+cross_refs: [46, 644, 696]
+depends_on: [696]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

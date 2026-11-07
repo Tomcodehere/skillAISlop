@@ -8,7 +8,7 @@ mot_cle: "experiment-power-planning"
 nom_court: "Experiment Power Planning"
 branche: "D14"
 synonymes: ["demande", "portant", "experiment"]
-cross_refs: [1097]
+cross_refs: [1097, 1036, 1226]
 tags: ["2027"]
 ---
 

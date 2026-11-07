@@ -8,7 +8,8 @@ mot_cle: "créateur de jeux & énigmes"
 nom_court: "Jeux"
 branche: "D26"
 synonymes: []
-cross_refs: [6, 221]
+cross_refs: [6, 221, 567]
+depends_on: [567]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

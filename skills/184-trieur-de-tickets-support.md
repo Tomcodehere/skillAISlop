@@ -8,7 +8,7 @@ mot_cle: "trieur de tickets support"
 nom_court: "Tickets"
 branche: "D16"
 synonymes: []
-cross_refs: [56, 89]
+cross_refs: [56, 89, 394]
 tags: ["aihero:implement-spec", "aihero:triage"]
 ---
 

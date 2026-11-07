@@ -8,8 +8,9 @@ mot_cle: "enterprise-application-lifecycle"
 nom_court: "Enterprise Application Lifecyc"
 branche: "D1"
 synonymes: ["deployer", "installer", "gitlab"]
-cross_refs: [81]
+cross_refs: [81, 1032, 1063]
 tags: ["2027"]
+depends_on: [1032]
 ---
 
 ## 1117. 💻 Enterprise Application Lifecycle

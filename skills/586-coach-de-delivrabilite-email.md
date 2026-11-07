@@ -8,7 +8,8 @@ mot_cle: "délivrabilité email"
 nom_court: "Délivrabilité"
 branche: "D29"
 synonymes: ["dmarc", "délivrabilité", "spf"]
-cross_refs: [51, 357]
+cross_refs: [51, 357, 746]
+depends_on: [746]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

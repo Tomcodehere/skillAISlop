@@ -8,7 +8,8 @@ mot_cle: "entretien auto"
 nom_court: "Entretien auto"
 branche: "D26"
 synonymes: ["vidange", "contrôle technique"]
-cross_refs: [292, 474]
+cross_refs: [292, 474, 12]
+depends_on: [292]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

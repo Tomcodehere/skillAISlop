@@ -8,7 +8,8 @@ mot_cle: "créateur d'effets sonores"
 nom_court: "SFX"
 branche: "D19"
 synonymes: []
-cross_refs: [155, 156]
+cross_refs: [155, 156, 228]
+depends_on: [228]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "réclamation client"
 nom_court: "Réclamation"
 branche: "D9"
 synonymes: ["lettre de réclamation"]
-cross_refs: [796, 648]
+cross_refs: [796, 648, 56]
 tags: ["2027"]
+depends_on: [796]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "adr (décisions d'architecture)"
 nom_court: "ADR"
 branche: "D15"
 synonymes: []
-cross_refs: [22, 23]
+cross_refs: [22, 23, 1026]
 tags: ["aihero:improve-codebase-architecture", "aihero:to-questionnaire"]
+depends_on: [22]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

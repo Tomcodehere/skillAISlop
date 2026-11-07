@@ -8,7 +8,7 @@ mot_cle: "technicien de nettoyage audio"
 nom_court: "Audio"
 branche: "D19"
 synonymes: []
-cross_refs: [157, 158]
+cross_refs: [157, 158, 1009]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

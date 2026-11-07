@@ -8,7 +8,7 @@ mot_cle: "mysql-query-optimization"
 nom_court: "MySQL Query Optimization"
 branche: "D1"
 synonymes: ["requetes", "lentes", "recurrentes"]
-cross_refs: [1166]
+cross_refs: [1166, 79, 542]
 tags: ["2027"]
 ---
 

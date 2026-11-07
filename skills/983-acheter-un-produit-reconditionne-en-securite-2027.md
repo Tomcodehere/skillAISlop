@@ -8,7 +8,7 @@ mot_cle: "acheter reconditionné 2027"
 nom_court: "Reconditionné"
 branche: "D26"
 synonymes: ["back market 2027"]
-cross_refs: [851, 842]
+cross_refs: [851, 842, 976]
 tags: ["2027"]
 ---
 

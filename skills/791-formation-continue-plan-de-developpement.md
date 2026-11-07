@@ -8,7 +8,8 @@ mot_cle: "plan de formation"
 nom_court: "Plan de formation"
 branche: "D24"
 synonymes: ["compétences à développer"]
-cross_refs: [407, 205]
+cross_refs: [407, 205, 416]
+depends_on: [205]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

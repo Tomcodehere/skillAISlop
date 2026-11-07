@@ -8,7 +8,8 @@ mot_cle: "créateur de battlecards commerciaux"
 nom_court: "Battlecards"
 branche: "D21"
 synonymes: []
-cross_refs: [32, 112]
+cross_refs: [32, 112, 165]
+depends_on: [165]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

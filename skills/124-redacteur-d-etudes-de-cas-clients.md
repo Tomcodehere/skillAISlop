@@ -8,7 +8,8 @@ mot_cle: "études de cas clients"
 nom_court: "Cas clients"
 branche: "D20"
 synonymes: []
-cross_refs: [112, 131]
+cross_refs: [112, 131, 462]
+depends_on: [739]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

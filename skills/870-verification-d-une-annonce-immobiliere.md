@@ -8,8 +8,9 @@ mot_cle: "vérifier une annonce immo"
 nom_court: "Vérif annonce immo"
 branche: "D17"
 synonymes: ["arnaque annonce immobilière"]
-cross_refs: [826, 709]
+cross_refs: [826, 709, 962]
 tags: ["2027"]
+depends_on: [962]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "itinéraire"
 nom_court: "Itinéraire"
 branche: "D26"
 synonymes: ["préparer un voyage", "bagages"]
-cross_refs: [42, 476]
+cross_refs: [42, 476, 988]
+depends_on: [42]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

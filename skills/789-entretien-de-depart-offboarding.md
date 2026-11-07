@@ -8,7 +8,8 @@ mot_cle: "départ collaborateur"
 nom_court: "Offboarding"
 branche: "D24"
 synonymes: ["départ d'un salarié"]
-cross_refs: [275, 634]
+cross_refs: [275, 634, 413]
+depends_on: [275]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

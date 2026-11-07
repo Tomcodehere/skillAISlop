@@ -8,7 +8,8 @@ mot_cle: "poésie"
 nom_court: "Poésie"
 branche: "D29"
 synonymes: ["poème", "poésie"]
-cross_refs: [121, 537]
+cross_refs: [121, 537, 382]
+depends_on: [382]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "risques projet"
 nom_court: "Risques projet"
 branche: "D25"
 synonymes: ["registre des risques"]
-cross_refs: [435, 60]
+cross_refs: [435, 60, 425]
+depends_on: [435]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

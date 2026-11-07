@@ -8,8 +8,9 @@ mot_cle: "objectifs 2027"
 nom_court: "Objectifs 2027"
 branche: "D25"
 synonymes: ["bilan 2026 objectifs 2027"]
-cross_refs: [899, 898]
+cross_refs: [899, 898, 1350]
 tags: ["2027"]
+depends_on: [1350]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

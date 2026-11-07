@@ -8,7 +8,8 @@ mot_cle: "migrer mes données"
 nom_court: "Migration données"
 branche: "D15"
 synonymes: ["changer d'outil"]
-cross_refs: [462, 92]
+cross_refs: [462, 92, 95]
+depends_on: [95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

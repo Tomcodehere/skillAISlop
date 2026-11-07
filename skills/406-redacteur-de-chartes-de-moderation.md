@@ -8,7 +8,7 @@ mot_cle: "chartes de modération"
 nom_court: "Chartes modération"
 branche: "D23"
 synonymes: []
-cross_refs: [403, 424]
+cross_refs: [403, 424, 192]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "séquence email"
 nom_court: "Séquence email"
 branche: "D20"
 synonymes: ["campagne emailing"]
-cross_refs: [357, 51]
+cross_refs: [357, 51, 1186]
+depends_on: [357]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

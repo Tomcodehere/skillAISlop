@@ -8,8 +8,9 @@ mot_cle: "acheter en vefa 2027"
 nom_court: "VEFA 2027"
 branche: "D29"
 synonymes: ["acheter neuf 2027"]
-cross_refs: [675, 966]
+cross_refs: [675, 966, 992]
 tags: ["2027"]
+depends_on: [992]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

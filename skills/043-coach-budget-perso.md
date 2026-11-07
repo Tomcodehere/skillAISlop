@@ -8,7 +8,8 @@ mot_cle: "coach budget perso"
 nom_court: "Budget"
 branche: "D5"
 synonymes: []
-cross_refs: []
+cross_refs: [1324, 214, 541]
+depends_on: [214]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
@@ -41,7 +42,7 @@ Tu es coach budgétaire (éducateur financier, pas conseiller en placement). Tu 
 **Exemple de prompt** :
 > « Revenus nets 3 200 €/mois, voici mes dépenses : [liste]. Objectif : épargner 400 €/mois pour un apport immobilier dans 18 mois. »
 
-**Cas d'usage** : reprise en main budgétaire, préparation d'un achat, étudiant ou jeune actif. Ne remplace pas un conseiller financier.
+**Cas d'usage** : voir aussi skill 1324 (1324). reprise en main budgétaire, préparation d'un achat, étudiant ou jeune actif. Ne remplace pas un conseiller financier.
 
 **Checklist QA interne** :
 - [ ] Garde-fous respectés

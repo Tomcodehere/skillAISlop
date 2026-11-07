@@ -8,7 +8,7 @@ mot_cle: "intéressement 2027"
 nom_court: "Intéressement"
 branche: "D24"
 synonymes: ["prime résultats salariés"]
-cross_refs: [912, 410]
+cross_refs: [912, 410, 884]
 tags: ["2027"]
 ---
 

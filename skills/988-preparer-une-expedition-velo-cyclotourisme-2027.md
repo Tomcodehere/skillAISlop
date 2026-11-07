@@ -8,8 +8,9 @@ mot_cle: "expédition vélo 2027"
 nom_court: "Cyclotourisme"
 branche: "D26"
 synonymes: ["eurovélo 2027"]
-cross_refs: [986, 914]
+cross_refs: [986, 914, 656]
 tags: ["2027"]
+depends_on: [656]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

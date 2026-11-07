@@ -8,7 +8,8 @@ mot_cle: "social listening"
 nom_court: "Social listening"
 branche: "D20"
 synonymes: []
-cross_refs: [235, 290]
+cross_refs: [235, 290, 726]
+depends_on: [726]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

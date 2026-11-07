@@ -8,7 +8,7 @@ mot_cle: "séries temporelles"
 nom_court: "Séries temporelles"
 branche: "D17"
 synonymes: []
-cross_refs: [93, 170]
+cross_refs: [93, 170, 372]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

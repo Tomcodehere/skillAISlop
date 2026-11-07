@@ -8,7 +8,8 @@ mot_cle: "entretien d'embauche"
 nom_court: "Entretien embauche"
 branche: "D6"
 synonymes: ["questions entretien"]
-cross_refs: [12, 49]
+cross_refs: [12, 49, 968]
+depends_on: [968]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

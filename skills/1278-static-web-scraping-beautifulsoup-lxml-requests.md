@@ -8,8 +8,9 @@ mot_cle: "static-web-scraping-beautifulsoup-lxml-requests"
 nom_court: "Static Web Scraping (Beautiful"
 branche: "D1"
 synonymes: ["scraper", "statique", "parser"]
-cross_refs: [91]
+cross_refs: [91, 1113, 1309]
 tags: ["2027"]
+depends_on: [1113]
 ---
 
 ## 1278. 💻 Static Web Scraping (BeautifulSoup/lxml/Requests)

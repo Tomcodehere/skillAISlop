@@ -8,7 +8,8 @@ mot_cle: "scripteur d'appels commerciaux"
 nom_court: "Appels"
 branche: "D21"
 synonymes: []
-cross_refs: [49, 54]
+cross_refs: [49, 54, 164]
+depends_on: [164]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

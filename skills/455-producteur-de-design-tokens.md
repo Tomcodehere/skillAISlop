@@ -8,7 +8,8 @@ mot_cle: "design tokens"
 nom_court: "Design tokens"
 branche: "D22"
 synonymes: []
-cross_refs: [64, 362]
+cross_refs: [64, 362, 181]
+depends_on: [181]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

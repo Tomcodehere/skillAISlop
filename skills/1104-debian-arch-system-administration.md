@@ -8,8 +8,9 @@ mot_cle: "debian-arch-system-administration"
 nom_court: "Debian & Arch System Administr"
 branche: "D1"
 synonymes: ["debian", "ubuntu", "linux"]
-cross_refs: [607]
+cross_refs: [607, 1178, 1284]
 tags: ["2027"]
+depends_on: [1178]
 ---
 
 ## 1104. 💻 Debian & Arch System Administration

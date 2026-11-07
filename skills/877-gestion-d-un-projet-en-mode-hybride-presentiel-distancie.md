@@ -8,8 +8,9 @@ mot_cle: "projet hybride"
 nom_court: "Projet hybride"
 branche: "D25"
 synonymes: ["équipe hybride"]
-cross_refs: [760, 788]
+cross_refs: [760, 788, 425]
 tags: ["2027"]
+depends_on: [425]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

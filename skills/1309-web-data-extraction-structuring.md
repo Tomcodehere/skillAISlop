@@ -8,7 +8,7 @@ mot_cle: "web-data-extraction-structuring"
 nom_court: "Web Data Extraction & Structur"
 branche: "D1"
 synonymes: ["structurer", "donnees", "extraites"]
-cross_refs: [1073]
+cross_refs: [1073, 91, 1128]
 tags: ["2027"]
 ---
 

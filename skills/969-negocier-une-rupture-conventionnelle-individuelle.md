@@ -8,8 +8,9 @@ mot_cle: "rupture conventionnelle individuelle"
 nom_court: "RC individuelle"
 branche: "D29"
 synonymes: ["négocier sa rupture"]
-cross_refs: [888, 830]
+cross_refs: [888, 830, 911]
 tags: ["2027"]
+depends_on: [888]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

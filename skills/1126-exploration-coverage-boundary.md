@@ -8,7 +8,7 @@ mot_cle: "exploration-coverage-boundary"
 nom_court: "Exploration Coverage Boundary"
 branche: "D14"
 synonymes: ["demande", "portant", "exploration"]
-cross_refs: [601]
+cross_refs: [601, 1242, 1014]
 tags: ["2027"]
 ---
 

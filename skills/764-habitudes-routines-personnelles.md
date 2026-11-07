@@ -8,7 +8,8 @@ mot_cle: "routine personnelle"
 nom_court: "Habitudes"
 branche: "D26"
 synonymes: ["installer une habitude"]
-cross_refs: [489, 488]
+cross_refs: [489, 488, 1346]
+depends_on: [489]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

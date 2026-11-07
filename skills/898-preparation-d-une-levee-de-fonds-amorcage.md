@@ -8,8 +8,9 @@ mot_cle: "lever des fonds"
 nom_court: "Levée de fonds"
 branche: "D10"
 synonymes: ["levée amorçage 2026"]
-cross_refs: [775, 776]
+cross_refs: [775, 776, 171]
 tags: ["2027", "aihero:writing-beats"]
+depends_on: [776]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

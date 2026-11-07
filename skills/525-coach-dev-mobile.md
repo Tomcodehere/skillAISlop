@@ -8,7 +8,8 @@ mot_cle: "dev mobile"
 nom_court: "Dev mobile"
 branche: "D30"
 synonymes: ["android", "flutter"]
-cross_refs: [79, 178]
+cross_refs: [79, 178, 456]
+depends_on: [607]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

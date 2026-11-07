@@ -8,7 +8,7 @@ mot_cle: "gameplay"
 nom_court: "Gameplay"
 branche: "D30"
 synonymes: ["gameplay", "équilibrage"]
-cross_refs: [300, 524]
+cross_refs: [300, 524, 526]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

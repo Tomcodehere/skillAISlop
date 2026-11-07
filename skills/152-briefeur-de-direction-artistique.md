@@ -8,7 +8,7 @@ mot_cle: "briefeur de direction artistique"
 nom_court: "Briefs DA"
 branche: "D19"
 synonymes: []
-cross_refs: [34, 148]
+cross_refs: [34, 148, 398]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

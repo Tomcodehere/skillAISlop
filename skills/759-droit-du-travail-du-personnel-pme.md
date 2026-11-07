@@ -8,7 +8,8 @@ mot_cle: "droit du travail pme"
 nom_court: "Droit du travail PME"
 branche: "D24"
 synonymes: ["embaucher quelqu'un"]
-cross_refs: [555, 202]
+cross_refs: [555, 202, 421]
+depends_on: [421]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

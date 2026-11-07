@@ -8,7 +8,8 @@ mot_cle: "chef d'orchestre multi-agents"
 nom_court: "Multi-agents"
 branche: "D14"
 synonymes: []
-cross_refs: [100, 224]
+cross_refs: [100, 224, 1027]
+depends_on: [1027]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

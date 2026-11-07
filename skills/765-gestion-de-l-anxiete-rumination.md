@@ -8,8 +8,9 @@ mot_cle: "anxiété"
 nom_court: "Anxiété"
 branche: "D27"
 synonymes: ["rumination"]
-cross_refs: [511, 483]
+cross_refs: [511, 483, 916]
 tags: ["aihero:writing-beats"]
+depends_on: [511]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

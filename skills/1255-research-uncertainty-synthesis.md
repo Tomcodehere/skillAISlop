@@ -8,8 +8,9 @@ mot_cle: "research-uncertainty-synthesis"
 nom_court: "Research Uncertainty Synthesis"
 branche: "D17"
 synonymes: ["demande", "portant", "research"]
-cross_refs: [101]
+cross_refs: [101, 708, 1038]
 tags: ["2027"]
+depends_on: [708]
 ---
 
 ## 1255. 🔬 Research Uncertainty Synthesis

@@ -8,7 +8,8 @@ mot_cle: "entretien annuel"
 nom_court: "Entretien annuel"
 branche: "D24"
 synonymes: ["évaluation annuelle"]
-cross_refs: [415, 204]
+cross_refs: [415, 204, 876]
+depends_on: [876]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

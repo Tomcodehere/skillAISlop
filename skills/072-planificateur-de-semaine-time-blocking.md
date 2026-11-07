@@ -8,7 +8,8 @@ mot_cle: "semaine (time blocking)"
 nom_court: "Semaine"
 branche: "D13"
 synonymes: []
-cross_refs: [26, 28]
+cross_refs: [26, 28, 1326]
+depends_on: [1326]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

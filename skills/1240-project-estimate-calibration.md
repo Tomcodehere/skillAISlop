@@ -8,7 +8,7 @@ mot_cle: "project-estimate-calibration"
 nom_court: "Project Estimate Calibration"
 branche: "D22"
 synonymes: ["demande", "portant", "project"]
-cross_refs: [1230]
+cross_refs: [1230, 1239, 249]
 tags: ["2027"]
 ---
 

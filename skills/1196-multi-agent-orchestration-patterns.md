@@ -8,8 +8,9 @@ mot_cle: "multi-agent-orchestration-patterns"
 nom_court: "Multi-Agent Orchestration Patt"
 branche: "D14"
 synonymes: []
-cross_refs: [1123]
+cross_refs: [1123, 712, 460]
 tags: ["2027"]
+depends_on: [712]
 ---
 
 ## 1196. 🧠 Multi-Agent Orchestration Patterns

@@ -8,7 +8,8 @@ mot_cle: "cahiers des charges de travaux"
 nom_court: "Cahiers travaux"
 branche: "D26"
 synonymes: []
-cross_refs: [474, 479]
+cross_refs: [474, 479, 845]
+depends_on: [479]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

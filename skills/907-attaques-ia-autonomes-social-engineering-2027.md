@@ -8,7 +8,7 @@ mot_cle: "attaque ia autonome"
 nom_court: "Attaque IA"
 branche: "D23"
 synonymes: ["piratage par ia"]
-cross_refs: [839, 840]
+cross_refs: [839, 840, 723]
 tags: ["2027"]
 ---
 

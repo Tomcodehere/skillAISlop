@@ -8,7 +8,8 @@ mot_cle: "communiqués de presse"
 nom_court: "Presse"
 branche: "D20"
 synonymes: []
-cross_refs: [34, 51]
+cross_refs: [34, 51, 402]
+depends_on: [402]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

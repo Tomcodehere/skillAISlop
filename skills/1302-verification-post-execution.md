@@ -8,8 +8,9 @@ mot_cle: "verification-post-execution"
 nom_court: "Verification Post-Execution"
 branche: "D22"
 synonymes: ["apres", "toute", "execution"]
-cross_refs: [1091]
+cross_refs: [1091, 1252, 1298]
 tags: ["2027"]
+depends_on: [1252]
 ---
 
 ## 1302. 🎨 Verification Post-Execution

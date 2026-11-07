@@ -8,7 +8,8 @@ mot_cle: "feedback"
 nom_court: "Feedback"
 branche: "D24"
 synonymes: ["retour d'expérience"]
-cross_refs: [415, 46]
+cross_refs: [415, 46, 419]
+depends_on: [419]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "belgian-notarial-procedures-orientation"
 nom_court: "Belgian Notarial Procedures Or"
 branche: "D17"
 synonymes: ["utilisateur", "demande", "comment"]
-cross_refs: [571]
+cross_refs: [571, 1205, 1047]
 tags: ["2027"]
 ---
 

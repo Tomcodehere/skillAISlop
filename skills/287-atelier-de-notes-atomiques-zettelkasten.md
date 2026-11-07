@@ -8,7 +8,7 @@ mot_cle: "atelier de notes atomiques zettelkasten"
 nom_court: "Zettelkasten"
 branche: "D25"
 synonymes: []
-cross_refs: [114, 226]
+cross_refs: [114, 226, 670]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

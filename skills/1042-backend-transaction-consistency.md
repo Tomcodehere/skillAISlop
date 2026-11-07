@@ -8,7 +8,7 @@ mot_cle: "backend-transaction-consistency"
 nom_court: "Backend Transaction Consistenc"
 branche: "D1"
 synonymes: ["demande", "portant", "backend"]
-cross_refs: [1098]
+cross_refs: [1098, 1034, 1247]
 tags: ["2027"]
 ---
 

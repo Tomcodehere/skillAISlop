@@ -8,7 +8,7 @@ mot_cle: "ees frontière schengen"
 nom_court: "EES"
 branche: "D26"
 synonymes: ["contrôle biométrique aéroport"]
-cross_refs: [913, 656]
+cross_refs: [913, 656, 597]
 tags: ["2027"]
 ---
 

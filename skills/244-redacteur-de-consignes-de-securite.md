@@ -8,7 +8,8 @@ mot_cle: "consignes de sécurité"
 nom_court: "Sécurité atelier"
 branche: "D16"
 synonymes: []
-cross_refs: [50, 200]
+cross_refs: [50, 200, 199]
+depends_on: [199]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

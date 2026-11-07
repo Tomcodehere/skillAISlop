@@ -8,7 +8,8 @@ mot_cle: "analyse de documents financiers"
 nom_court: "Finances"
 branche: "D10"
 synonymes: []
-cross_refs: [36, 43]
+cross_refs: [36, 43, 640]
+depends_on: [640]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

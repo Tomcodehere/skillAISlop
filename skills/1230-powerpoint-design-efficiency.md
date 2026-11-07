@@ -8,8 +8,9 @@ mot_cle: "powerpoint-design-efficiency"
 nom_court: "PowerPoint Design Efficiency"
 branche: "D22"
 synonymes: ["creer", "masques", "themes"]
-cross_refs: [14]
+cross_refs: [14, 732, 150]
 tags: ["2027"]
+depends_on: [732]
 ---
 
 ## 1230. 🎨 PowerPoint Design Efficiency

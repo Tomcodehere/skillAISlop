@@ -8,8 +8,9 @@ mot_cle: "feature-engineering-data-preparation"
 nom_court: "Feature Engineering & Data Pre"
 branche: "D1"
 synonymes: ["preparation", "nouveau", "donnees"]
-cross_refs: [1039]
+cross_refs: [1039, 1194, 1121]
 tags: ["2027"]
+depends_on: [1194]
 ---
 
 ## 1128. 💻 Feature Engineering & Data Preparation

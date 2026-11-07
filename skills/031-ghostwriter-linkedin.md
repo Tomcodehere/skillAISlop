@@ -8,7 +8,7 @@ mot_cle: "ghostwriter linkedin"
 nom_court: "LinkedIn"
 branche: "D3"
 synonymes: ["linkedin"]
-cross_refs: [30]
+cross_refs: [30, 740, 365]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

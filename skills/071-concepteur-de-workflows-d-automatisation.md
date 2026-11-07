@@ -8,7 +8,7 @@ mot_cle: "workflows d'automatisation"
 nom_court: "Workflows"
 branche: "D12"
 synonymes: []
-cross_refs: [15, 50]
+cross_refs: [15, 50, 669]
 tags: ["aihero:loop-me"]
 ---
 

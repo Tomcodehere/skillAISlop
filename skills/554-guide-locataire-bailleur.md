@@ -8,7 +8,8 @@ mot_cle: "locataire & bailleur"
 nom_court: "Location"
 branche: "D29"
 synonymes: ["bailleur", "caution", "locataire"]
-cross_refs: [137, 594]
+cross_refs: [137, 594, 676]
+depends_on: [676]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "protéger son site des bots"
 nom_court: "Anti-bots"
 branche: "D16"
 synonymes: ["scraping ia 2027"]
-cross_refs: [544, 907]
+cross_refs: [544, 907, 1029]
 tags: ["2027"]
+depends_on: [544]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

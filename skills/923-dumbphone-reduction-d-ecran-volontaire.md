@@ -8,8 +8,9 @@ mot_cle: "dumbphone"
 nom_court: "Dumbphone"
 branche: "D27"
 synonymes: ["téléphone sans internet"]
-cross_refs: [813, 871]
+cross_refs: [813, 871, 1314]
 tags: ["2027"]
+depends_on: [813]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "worktrees git"
 nom_court: "Worktrees"
 branche: "D15"
 synonymes: []
-cross_refs: [68, 316]
+cross_refs: [68, 316, 306]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

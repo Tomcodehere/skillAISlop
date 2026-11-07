@@ -8,7 +8,7 @@ mot_cle: "social selling"
 nom_court: "Social selling"
 branche: "D21"
 synonymes: ["prospection linkedin"]
-cross_refs: [54, 111]
+cross_refs: [54, 111, 366]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "script vidéo ugc & pub"
 nom_court: "UGC"
 branche: "D3"
 synonymes: []
-cross_refs: [3]
+cross_refs: [3, 729, 144]
+depends_on: [729]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

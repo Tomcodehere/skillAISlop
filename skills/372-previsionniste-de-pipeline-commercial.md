@@ -8,7 +8,8 @@ mot_cle: "pipeline commercial"
 nom_court: "Pipeline"
 branche: "D21"
 synonymes: []
-cross_refs: [36, 112]
+cross_refs: [36, 112, 376]
+depends_on: [376]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "cloud-migration-wave-acceptance"
 nom_court: "Cloud Migration Wave Acceptanc"
 branche: "D25"
 synonymes: ["demande", "portant", "cloud"]
-cross_refs: [882]
+cross_refs: [882, 1071, 1069]
 tags: ["2027"]
+depends_on: [1071]
 ---
 
 ## 1072. 📋 Cloud Migration Wave Acceptance

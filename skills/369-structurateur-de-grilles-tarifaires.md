@@ -8,7 +8,7 @@ mot_cle: "grilles tarifaires"
 nom_court: "Grilles tarifaires"
 branche: "D21"
 synonymes: []
-cross_refs: [58, 457]
+cross_refs: [58, 457, 790]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

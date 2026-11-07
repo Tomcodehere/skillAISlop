@@ -8,8 +8,9 @@ mot_cle: "présentation orale"
 nom_court: "Présentation orale"
 branche: "D6"
 synonymes: ["préparer un pitch"]
-cross_refs: [75, 293]
+cross_refs: [75, 293, 767]
 tags: ["2027"]
+depends_on: [1342]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "discours de famille"
 nom_court: "Discours famille"
 branche: "D27"
 synonymes: ["toast"]
-cross_refs: [75, 537]
+cross_refs: [75, 537, 565]
+depends_on: [565]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

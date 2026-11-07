@@ -8,7 +8,7 @@ mot_cle: "dockerfile-best-practices"
 nom_court: "Dockerfile Best Practices"
 branche: "D1"
 synonymes: ["dockerfile", "optimise", "image"]
-cross_refs: [79]
+cross_refs: [79, 1220, 1310]
 tags: ["2027"]
 ---
 

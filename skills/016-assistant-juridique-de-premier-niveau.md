@@ -8,8 +8,9 @@ mot_cle: "assistant juridique de premier niveau"
 nom_court: ""
 branche: "K"
 synonymes: ["clause", "contrat"]
-cross_refs: [47]
+cross_refs: [47, 785, 683]
 tags: ["aihero:prototype", "aihero:research", "aihero:wizard"]
+depends_on: [785]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

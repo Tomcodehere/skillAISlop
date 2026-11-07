@@ -8,7 +8,8 @@ mot_cle: "sensibilisation phishing"
 nom_court: "Anti-phishing"
 branche: "D23"
 synonymes: ["mail frauduleux"]
-cross_refs: [509, 200]
+cross_refs: [509, 200, 839]
+depends_on: [839]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

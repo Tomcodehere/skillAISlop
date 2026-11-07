@@ -8,8 +8,9 @@ mot_cle: "assurance emprunteur"
 nom_court: "Assurance emprunteur"
 branche: "D29"
 synonymes: ["loi lemoine"]
-cross_refs: [683, 298]
+cross_refs: [683, 298, 965]
 tags: ["2027"]
+depends_on: [965]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

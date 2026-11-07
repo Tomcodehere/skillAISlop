@@ -8,7 +8,7 @@ mot_cle: "world model simulation"
 nom_court: "World model"
 branche: "D14"
 synonymes: ["simulation ia recherche"]
-cross_refs: [693, 266]
+cross_refs: [693, 266, 508]
 tags: ["2027"]
 ---
 

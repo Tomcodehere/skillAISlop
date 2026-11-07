@@ -8,7 +8,7 @@ mot_cle: "simulateur de rôle"
 nom_court: "Rôle"
 branche: "D6"
 synonymes: []
-cross_refs: [12, 33]
+cross_refs: [12, 33, 45]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

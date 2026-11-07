@@ -8,7 +8,7 @@ mot_cle: "operational-performance-system-governance"
 nom_court: "Operational Performance System"
 branche: "D22"
 synonymes: ["definir", "resultats", "indicateurs"]
-cross_refs: [730]
+cross_refs: [730, 1271, 1215]
 tags: ["2027"]
 ---
 

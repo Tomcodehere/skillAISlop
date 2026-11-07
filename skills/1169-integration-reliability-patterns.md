@@ -8,7 +8,7 @@ mot_cle: "integration-reliability-patterns"
 nom_court: "Integration Reliability Patter"
 branche: "D25"
 synonymes: ["workflows", "multi-systemes", "critiques"]
-cross_refs: [999]
+cross_refs: [999, 1025, 1261]
 tags: ["2027"]
 ---
 

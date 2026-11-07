@@ -8,7 +8,7 @@ mot_cle: "bilan santé préventif"
 nom_court: "Bilan santé"
 branche: "D27"
 synonymes: ["check-up annuel"]
-cross_refs: [975, 917]
+cross_refs: [975, 917, 485]
 tags: ["2027"]
 depends_on: [1332]
 ---

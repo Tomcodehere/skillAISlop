@@ -8,7 +8,7 @@ mot_cle: "regression-risk-selection"
 nom_court: "Regression Risk Selection"
 branche: "D25"
 synonymes: ["demande", "portant", "regression"]
-cross_refs: [562]
+cross_refs: [562, 1069, 1194]
 tags: ["2027"]
 ---
 

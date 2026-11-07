@@ -8,8 +8,9 @@ mot_cle: "data-catalog-lineage"
 nom_court: "Data Catalog & Lineage"
 branche: "D14"
 synonymes: ["place", "catalog", "catalog"]
-cross_refs: [1226]
+cross_refs: [1226, 1097, 1033]
 tags: ["2027"]
+depends_on: [1097]
 ---
 
 ## 1095. 🤖 Data Catalog & Lineage

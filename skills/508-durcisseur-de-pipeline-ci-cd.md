@@ -8,7 +8,7 @@ mot_cle: "pipeline ci/cd"
 nom_court: "CI/CD"
 branche: "D23"
 synonymes: ["ci/cd", "supply chain"]
-cross_refs: [267, 306]
+cross_refs: [267, 306, 372]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "analyseur concurrentiel"
 nom_court: "Benchmark"
 branche: "D3"
 synonymes: []
-cross_refs: [3, 18]
+cross_refs: [3, 18, 709]
+depends_on: [709]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

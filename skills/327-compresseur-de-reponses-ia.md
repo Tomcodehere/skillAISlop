@@ -8,7 +8,8 @@ mot_cle: "réponses ia"
 nom_court: "Compresseur réponses"
 branche: "D14"
 synonymes: []
-cross_refs: [5, 100]
+cross_refs: [5, 100, 719]
+depends_on: [719]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

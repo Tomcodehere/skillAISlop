@@ -8,8 +8,9 @@ mot_cle: "digital detox"
 nom_court: "Digital detox"
 branche: "D27"
 synonymes: ["temps d'écran"]
-cross_refs: [621, 483]
+cross_refs: [621, 483, 923]
 tags: ["2027"]
+depends_on: [923]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

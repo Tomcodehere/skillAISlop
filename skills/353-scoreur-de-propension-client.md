@@ -8,7 +8,7 @@ mot_cle: "propension client"
 nom_court: "Propension"
 branche: "D17"
 synonymes: []
-cross_refs: [93, 111]
+cross_refs: [93, 111, 373]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

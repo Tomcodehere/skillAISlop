@@ -8,7 +8,8 @@ mot_cle: "dossiers de financement de formation"
 nom_court: "Financement formation"
 branche: "D24"
 synonymes: []
-cross_refs: [407, 493]
+cross_refs: [407, 493, 791]
+depends_on: [791]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

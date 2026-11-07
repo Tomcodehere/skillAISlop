@@ -8,7 +8,8 @@ mot_cle: "narrateur de roadmap"
 nom_court: "Roadmap"
 branche: "D22"
 synonymes: ["feuille de route", "roadmap"]
-cross_refs: [63, 74]
+cross_refs: [63, 74, 1236]
+depends_on: [1236]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

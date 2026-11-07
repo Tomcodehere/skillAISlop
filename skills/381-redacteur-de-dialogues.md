@@ -8,7 +8,7 @@ mot_cle: "dialogues"
 nom_court: "Dialogues"
 branche: "D18"
 synonymes: []
-cross_refs: [61, 382]
+cross_refs: [61, 382, 1]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

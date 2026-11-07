@@ -8,7 +8,7 @@ mot_cle: "active-directory-management"
 nom_court: "Active Directory Management"
 branche: "D22"
 synonymes: ["active", "directory", "users"]
-cross_refs: [1181]
+cross_refs: [1181, 1220, 1004]
 tags: ["2027"]
 ---
 

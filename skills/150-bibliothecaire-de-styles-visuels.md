@@ -8,7 +8,7 @@ mot_cle: "bibliothécaire de styles visuels"
 nom_court: "Styles"
 branche: "D19"
 synonymes: []
-cross_refs: [34, 139]
+cross_refs: [34, 139, 1230]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

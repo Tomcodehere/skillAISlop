@@ -8,7 +8,7 @@ mot_cle: "orthotypographic-consistency-review"
 nom_court: "Orthotypographic Consistency R"
 branche: "D15"
 synonymes: ["demande", "portant", "orthotypographic"]
-cross_refs: [1115]
+cross_refs: [1115, 1093, 1002]
 tags: ["2027"]
 ---
 

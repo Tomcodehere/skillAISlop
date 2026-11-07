@@ -8,8 +8,9 @@ mot_cle: "base de code inconnue"
 nom_court: "Explorateur"
 branche: "D15"
 synonymes: []
-cross_refs: [80, 130]
+cross_refs: [80, 130, 83]
 tags: ["aihero:ask-matt", "aihero:setup-matt-pocock-skills"]
+depends_on: [83]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

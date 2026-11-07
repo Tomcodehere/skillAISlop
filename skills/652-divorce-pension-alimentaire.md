@@ -8,7 +8,8 @@ mot_cle: "divorce"
 nom_court: "Divorce"
 branche: "D29"
 synonymes: ["pension alimentaire", "garde alternée"]
-cross_refs: [590, 589]
+cross_refs: [590, 589, 1320]
+depends_on: [590]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

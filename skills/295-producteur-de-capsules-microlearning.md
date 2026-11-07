@@ -8,7 +8,7 @@ mot_cle: "capsules microlearning"
 nom_court: "Microlearning"
 branche: "D24"
 synonymes: []
-cross_refs: [201, 299]
+cross_refs: [201, 299, 11]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "traqueur d'action items de réunions"
 nom_court: "Actions"
 branche: "D25"
 synonymes: []
-cross_refs: [24, 223]
+cross_refs: [24, 223, 705]
+depends_on: [705]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

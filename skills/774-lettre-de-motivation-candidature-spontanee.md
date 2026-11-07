@@ -8,7 +8,8 @@ mot_cle: "lettre de motivation"
 nom_court: "Lettre de motivation"
 branche: "D6"
 synonymes: ["candidature spontanée"]
-cross_refs: [44, 697]
+cross_refs: [44, 697, 850]
+depends_on: [44]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

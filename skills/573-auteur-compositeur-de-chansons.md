@@ -8,7 +8,7 @@ mot_cle: "écriture de chansons"
 nom_court: "Chansons"
 branche: "D28"
 synonymes: []
-cross_refs: [155, 534]
+cross_refs: [155, 534, 6]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

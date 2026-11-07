@@ -8,7 +8,8 @@ mot_cle: "empreinte carbone numérique"
 nom_court: "Empreinte carbone"
 branche: "D26"
 synonymes: []
-cross_refs: [286, 442]
+cross_refs: [286, 442, 687]
+depends_on: [246]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

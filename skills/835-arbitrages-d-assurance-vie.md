@@ -8,8 +8,9 @@ mot_cle: "arbitrage assurance vie"
 nom_court: "Arbitrage AV"
 branche: "D29"
 synonymes: ["fonds euros"]
-cross_refs: [681, 812]
+cross_refs: [681, 812, 833]
 tags: ["2027"]
+depends_on: [681]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

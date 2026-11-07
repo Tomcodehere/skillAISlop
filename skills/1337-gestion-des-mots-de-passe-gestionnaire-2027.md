@@ -8,8 +8,9 @@ mot_cle: "gestionnaire mots de passe 2027"
 nom_court: "Passkeys"
 branche: "D23"
 synonymes: ["passkey fido2"]
-cross_refs: [665, 957]
+cross_refs: [665, 957, 1338]
 tags: ["2027"]
+depends_on: [665]
 ---
 
 ## 1337. 🔑 Gestion des mots de passe & gestionnaire (2027)

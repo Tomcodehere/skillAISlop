@@ -8,7 +8,7 @@ mot_cle: "logistique e-commerce"
 nom_court: "Logistique e-com"
 branche: "D29"
 synonymes: ["expédition", "stock"]
-cross_refs: [118, 273]
+cross_refs: [118, 273, 279]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

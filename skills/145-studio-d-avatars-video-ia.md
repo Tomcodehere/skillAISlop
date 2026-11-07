@@ -8,7 +8,8 @@ mot_cle: "studio d'avatars vidéo ia"
 nom_court: "Avatars"
 branche: "D19"
 synonymes: []
-cross_refs: [154, 201]
+cross_refs: [154, 201, 144]
+depends_on: [144]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

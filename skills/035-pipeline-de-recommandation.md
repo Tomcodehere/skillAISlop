@@ -8,7 +8,7 @@ mot_cle: "pipeline de recommandation"
 nom_court: "Reco"
 branche: "D4"
 synonymes: []
-cross_refs: [13]
+cross_refs: [13, 422, 508]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

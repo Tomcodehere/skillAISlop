@@ -8,7 +8,8 @@ mot_cle: "objections commerciales"
 nom_court: "Objections"
 branche: "D21"
 synonymes: ["c'est trop cher"]
-cross_refs: [166, 45]
+cross_refs: [166, 45, 780]
+depends_on: [166]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

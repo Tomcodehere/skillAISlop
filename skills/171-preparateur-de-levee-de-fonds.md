@@ -8,7 +8,7 @@ mot_cle: "levée de fonds"
 nom_court: "Levée"
 branche: "D21"
 synonymes: []
-cross_refs: [14, 170]
+cross_refs: [14, 170, 898]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "loisirs créatifs manuels"
 nom_court: "Créatifs manuels"
 branche: "D28"
 synonymes: ["couture", "céramique", "tricot"]
-cross_refs: [218, 473]
+cross_refs: [218, 473, 522]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

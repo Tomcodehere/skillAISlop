@@ -8,7 +8,7 @@ mot_cle: "mémoires familiales"
 nom_court: "Mémoires familiales"
 branche: "D26"
 synonymes: ["histoire de famille", "souvenirs de famille"]
-cross_refs: [388, 472]
+cross_refs: [388, 472, 241]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

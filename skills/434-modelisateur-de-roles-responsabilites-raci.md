@@ -8,7 +8,8 @@ mot_cle: "rôles & responsabilités (raci)"
 nom_court: "RACI"
 branche: "D25"
 synonymes: []
-cross_refs: [424, 426]
+cross_refs: [424, 426, 847]
+depends_on: [847]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "audit énergétique 2027"
 nom_court: "Audit éner."
 branche: "D29"
 synonymes: ["dpe 2027 avant travaux"]
-cross_refs: [961, 935]
+cross_refs: [961, 935, 678]
 tags: ["2027"]
+depends_on: [961]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

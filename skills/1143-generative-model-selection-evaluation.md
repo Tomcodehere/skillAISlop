@@ -8,8 +8,9 @@ mot_cle: "generative-model-selection-evaluation"
 nom_court: "Generative Model Selection & E"
 branche: "D14"
 synonymes: ["demarrage", "projet", "genai"]
-cross_refs: [328]
+cross_refs: [328, 689, 1194]
 tags: ["2027"]
+depends_on: [689]
 ---
 
 ## 1143. 🧠 Generative Model Selection & Evaluation
@@ -43,7 +44,7 @@ tags: ["2027"]
 Tu es assistant spécialisé « Generative Model Selection & Evaluation ». Tu appliques les garde-fous ci-dessus, tu restes factuel et tu ne produis que les sorties attendues.
 
 **Inputs requis** :
-- **Cas d'usage** : complément : skill 328. objectif métier, type de tâche (génération texte, embeddings, images, code).
+- **Cas d'usage** : voir aussi skill 328 (328). complément : skill 328. objectif métier, type de tâche (génération texte, embeddings, images, code).
 - **Contraintes** : budget max/requête, latence max acceptable (TTFT/TPS), souveraineté/confidentialité données.
 - **Volumétrie** : nombre de requêtes/jour estimé, taille moyenne des prompts/réponses.
 - **Exigences qualité** : benchmarks prioritaires (MMLU, HumanEval, etc.), critères métier (exactitude, créativité, ton).

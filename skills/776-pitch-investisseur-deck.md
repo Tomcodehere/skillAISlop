@@ -8,7 +8,8 @@ mot_cle: "pitch investisseur"
 nom_court: "Pitch investisseur"
 branche: "D10"
 synonymes: ["deck de levée"]
-cross_refs: [172, 645]
+cross_refs: [172, 645, 171]
+depends_on: [898]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

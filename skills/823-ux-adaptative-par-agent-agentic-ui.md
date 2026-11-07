@@ -8,8 +8,9 @@ mot_cle: "ux adaptative"
 nom_court: "UX adaptative"
 branche: "D22"
 synonymes: ["agentic ui"]
-cross_refs: [735, 300]
+cross_refs: [735, 300, 926]
 tags: ["2027"]
+depends_on: [926]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

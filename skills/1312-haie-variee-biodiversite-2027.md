@@ -8,7 +8,7 @@ mot_cle: "haie variée biodiversité"
 nom_court: "Haie variée"
 branche: "D26"
 synonymes: ["haie fleurie"]
-cross_refs: [1311]
+cross_refs: [1311, 661, 292]
 tags: ["2027"]
 ---
 

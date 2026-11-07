@@ -8,7 +8,7 @@ mot_cle: "prononciation & phonétique"
 nom_court: "Prononciation"
 branche: "D26"
 synonymes: ["accent", "prononcer"]
-cross_refs: [491, 496]
+cross_refs: [491, 496, 483]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

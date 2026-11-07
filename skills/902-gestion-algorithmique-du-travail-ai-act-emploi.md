@@ -8,8 +8,9 @@ mot_cle: "management algorithmique"
 nom_court: "Management algo"
 branche: "D24"
 synonymes: ["ia qui évalue mon travail"]
-cross_refs: [900, 876]
+cross_refs: [900, 876, 642]
 tags: ["2027"]
+depends_on: [642]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "négocier une offre"
 nom_court: "Négocier offre"
 branche: "D6"
 synonymes: ["contre-offre salaire"]
-cross_refs: [773, 697]
+cross_refs: [773, 697, 1345]
 tags: ["2027"]
+depends_on: [1345]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

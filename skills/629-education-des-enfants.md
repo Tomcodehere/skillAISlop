@@ -8,7 +8,8 @@ mot_cle: "éducation"
 nom_court: "Éducation"
 branche: "D27"
 synonymes: ["activités enfants"]
-cross_refs: [570, 132]
+cross_refs: [570, 132, 520]
+depends_on: [520]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

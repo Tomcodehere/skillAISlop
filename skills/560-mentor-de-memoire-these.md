@@ -8,7 +8,8 @@ mot_cle: "mémoire & thèse"
 nom_court: "Thèse"
 branche: "D28"
 synonymes: ["doctorat", "thèse"]
-cross_refs: [104, 133]
+cross_refs: [104, 133, 308]
+depends_on: [768]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

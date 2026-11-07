@@ -8,7 +8,7 @@ mot_cle: "définitions & glossaires"
 nom_court: "Glossaires"
 branche: "D18"
 synonymes: []
-cross_refs: [23, 101]
+cross_refs: [23, 101, 344]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

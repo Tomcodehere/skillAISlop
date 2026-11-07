@@ -8,7 +8,7 @@ mot_cle: "bourses étudiantes"
 nom_court: "Bourses"
 branche: "D28"
 synonymes: []
-cross_refs: [240, 571]
+cross_refs: [240, 571, 124]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

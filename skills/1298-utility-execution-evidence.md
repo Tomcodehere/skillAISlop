@@ -8,8 +8,9 @@ mot_cle: "utility-execution-evidence"
 nom_court: "Utility Execution Evidence"
 branche: "D17"
 synonymes: ["demande", "portant", "utility"]
-cross_refs: [1185]
+cross_refs: [1185, 1054, 1302]
 tags: ["2027"]
+depends_on: [1061]
 ---
 
 ## 1298. 🔬 Utility Execution Evidence

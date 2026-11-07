@@ -8,7 +8,8 @@ mot_cle: "bilans de santé"
 nom_court: "Bilans santé"
 branche: "D26"
 synonymes: ["bilan de sante", "check-up", "checkup"]
-cross_refs: [468, 487]
+cross_refs: [468, 487, 1333]
+depends_on: [1333]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

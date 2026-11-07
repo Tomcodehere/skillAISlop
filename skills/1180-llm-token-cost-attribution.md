@@ -8,8 +8,9 @@ mot_cle: "llm-token-cost-attribution"
 nom_court: "LLM Token Cost Attribution"
 branche: "D14"
 synonymes: ["demande", "portant", "token"]
-cross_refs: [737]
+cross_refs: [737, 689, 1129]
 tags: ["2027"]
+depends_on: [689]
 ---
 
 ## 1180. 🧠 LLM Token Cost Attribution

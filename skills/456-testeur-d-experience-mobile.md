@@ -8,7 +8,8 @@ mot_cle: "expérience mobile"
 nom_court: "Expérience mobile"
 branche: "D22"
 synonymes: []
-cross_refs: [352, 452]
+cross_refs: [352, 452, 525]
+depends_on: [1210]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

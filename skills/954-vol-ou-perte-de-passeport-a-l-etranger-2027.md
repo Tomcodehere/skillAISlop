@@ -8,8 +8,9 @@ mot_cle: "passeport volé étranger"
 nom_court: "Passeport volé"
 branche: "D26"
 synonymes: ["perdu passeport voyage"]
-cross_refs: [913, 932]
+cross_refs: [913, 932, 991]
 tags: ["2027"]
+depends_on: [991]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

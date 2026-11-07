@@ -8,8 +8,9 @@ mot_cle: "expédition kayak 2027"
 nom_court: "Kayak 2027"
 branche: "D26"
 synonymes: ["canoë 2027"]
-cross_refs: [986, 988]
+cross_refs: [986, 988, 995]
 tags: ["2027"]
+depends_on: [988]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

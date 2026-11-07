@@ -8,8 +8,9 @@ mot_cle: "spear phishing"
 nom_court: "Spear phishing"
 branche: "D23"
 synonymes: ["mail ciblé"]
-cross_refs: [685, 757]
+cross_refs: [685, 757, 509]
 tags: ["2027"]
+depends_on: [757]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

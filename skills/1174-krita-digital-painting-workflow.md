@@ -8,8 +8,9 @@ mot_cle: "krita-digital-painting-workflow"
 nom_court: "Krita Digital Painting Workflo"
 branche: "D1"
 synonymes: ["demande", "portant", "krita"]
-cross_refs: [1142]
+cross_refs: [1142, 1052, 1051]
 tags: ["2027"]
+depends_on: [1052]
 ---
 
 ## 1174. 💻 Krita Digital Painting Workflow

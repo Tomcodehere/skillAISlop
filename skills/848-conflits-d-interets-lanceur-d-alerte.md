@@ -8,7 +8,7 @@ mot_cle: "conflit d'intérêts"
 nom_court: "Conflit d'intérêts"
 branche: "D29"
 synonymes: ["déclaration d'intérêt"]
-cross_refs: [191, 637]
+cross_refs: [191, 637, 890]
 tags: ["2027"]
 ---
 

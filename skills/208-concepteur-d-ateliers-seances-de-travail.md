@@ -8,7 +8,8 @@ mot_cle: "ateliers & séances de travail"
 nom_court: "Ateliers"
 branche: "D25"
 synonymes: ["animation de groupe", "atelier", "workshop"]
-cross_refs: [73, 210]
+cross_refs: [73, 210, 421]
+depends_on: [931]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

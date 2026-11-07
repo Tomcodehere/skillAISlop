@@ -8,7 +8,8 @@ mot_cle: "notebooklm"
 nom_court: "NotebookLM"
 branche: "D17"
 synonymes: ["réponses ancrées dans mes documents"]
-cross_refs: [102, 690]
+cross_refs: [102, 690, 944]
+depends_on: [944]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

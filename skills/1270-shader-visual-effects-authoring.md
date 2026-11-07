@@ -8,8 +8,9 @@ mot_cle: "shader-visual-effects-authoring"
 nom_court: "Shader Visual Effects Authorin"
 branche: "D1"
 synonymes: ["demande", "portant", "shader"]
-cross_refs: [1101]
+cross_refs: [1101, 1222, 1050]
 tags: ["2027"]
+depends_on: [1222]
 ---
 
 ## 1270. 💻 Shader Visual Effects Authoring

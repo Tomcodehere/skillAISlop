@@ -8,7 +8,7 @@ mot_cle: "cahier des charges"
 nom_court: "CDC"
 branche: "D22"
 synonymes: ["expression de besoin"]
-cross_refs: [63, 605]
+cross_refs: [63, 605, 473]
 tags: ["2027"]
 ---
 

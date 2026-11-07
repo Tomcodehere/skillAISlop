@@ -8,7 +8,7 @@ mot_cle: "détecteur de bullshit"
 nom_court: "Bullshit detector"
 branche: "D17"
 synonymes: ["bullshit detector"]
-cross_refs: [700, 708]
+cross_refs: [700, 708, 1061]
 tags: ["2027"]
 ---
 

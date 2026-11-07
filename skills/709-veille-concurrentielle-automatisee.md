@@ -8,7 +8,8 @@ mot_cle: "veille concurrentielle"
 nom_court: "Veille concurrents"
 branche: "D20"
 synonymes: ["surveiller mes concurrents"]
-cross_refs: [32, 279]
+cross_refs: [32, 279, 105]
+depends_on: [32]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

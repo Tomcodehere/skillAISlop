@@ -8,7 +8,7 @@ mot_cle: "bilan 2027 objectifs 2028"
 nom_court: "Bilan 2027"
 branche: "D25"
 synonymes: ["objectifs 2028"]
-cross_refs: [999, 949]
+cross_refs: [999, 949, 899]
 tags: ["2027"]
 depends_on: [999]
 ---

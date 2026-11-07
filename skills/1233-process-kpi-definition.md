@@ -8,7 +8,7 @@ mot_cle: "process-kpi-definition"
 nom_court: "Process KPI Definition"
 branche: "D14"
 synonymes: ["processus", "indicateurs", "performance"]
-cross_refs: [939]
+cross_refs: [939, 1055, 433]
 tags: ["2027"]
 ---
 

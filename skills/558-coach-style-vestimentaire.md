@@ -8,7 +8,7 @@ mot_cle: "style vestimentaire"
 nom_court: "Style"
 branche: "D27"
 synonymes: ["garde", "vêtements"]
-cross_refs: [219, 480]
+cross_refs: [219, 480, 483]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

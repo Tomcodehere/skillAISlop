@@ -8,7 +8,7 @@ mot_cle: "data storyteller"
 nom_court: "Storytelling"
 branche: "D17"
 synonymes: []
-cross_refs: [13, 48]
+cross_refs: [13, 48, 816]
 tags: ["aihero:migrate-to-shoehorn"]
 ---
 

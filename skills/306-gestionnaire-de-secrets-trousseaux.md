@@ -8,7 +8,7 @@ mot_cle: "secrets & trousseaux"
 nom_court: "Secrets"
 branche: "D15"
 synonymes: []
-cross_refs: [70, 197]
+cross_refs: [70, 197, 301]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

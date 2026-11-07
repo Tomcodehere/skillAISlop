@@ -8,7 +8,7 @@ mot_cle: "statistiques"
 nom_court: "Stats"
 branche: "D30"
 synonymes: ["significativité", "statistique"]
-cross_refs: [93, 110]
+cross_refs: [93, 110, 88]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

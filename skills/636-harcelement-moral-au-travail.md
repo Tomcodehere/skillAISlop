@@ -8,7 +8,8 @@ mot_cle: "harcèlement"
 nom_court: "Harcèlement"
 branche: "D29"
 synonymes: ["harcèlement moral"]
-cross_refs: [46, 555]
+cross_refs: [46, 555, 637]
+depends_on: [637]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

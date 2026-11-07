@@ -8,8 +8,9 @@ mot_cle: "fraude au président"
 nom_court: "BEC"
 branche: "D23"
 synonymes: ["business email compromise"]
-cross_refs: [757, 758]
+cross_refs: [757, 758, 953]
 tags: ["2027"]
+depends_on: [953]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

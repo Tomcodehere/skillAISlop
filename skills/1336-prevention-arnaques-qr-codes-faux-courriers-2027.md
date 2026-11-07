@@ -8,8 +8,9 @@ mot_cle: "arnaque qr code 2027"
 nom_court: "QR arnaque"
 branche: "D23"
 synonymes: ["faux courrier impôts"]
-cross_refs: [839, 953]
+cross_refs: [839, 953, 685]
 tags: ["2027"]
+depends_on: [685]
 ---
 
 ## 1336. 📱 Prévention arnaques QR codes & faux courriers (2027)

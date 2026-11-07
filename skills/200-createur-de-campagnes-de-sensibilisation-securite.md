@@ -8,7 +8,7 @@ mot_cle: "créateur de campagnes de sensibilisation sécurité"
 nom_court: "Sensibilisation"
 branche: "D23"
 synonymes: []
-cross_refs: [199, 201]
+cross_refs: [199, 201, 757]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "notifications & push"
 nom_court: "Notifications"
 branche: "D18"
 synonymes: []
-cross_refs: [138, 359]
+cross_refs: [138, 359, 390]
 tags: ["aihero:git-guardrails-claude-code"]
+depends_on: [390]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

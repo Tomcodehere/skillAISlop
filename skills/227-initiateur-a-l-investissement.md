@@ -8,7 +8,8 @@ mot_cle: "initiateur à l'investissement"
 nom_court: "Investissement"
 branche: "D26"
 synonymes: []
-cross_refs: [43, 249]
+cross_refs: [43, 249, 519]
+depends_on: [519]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

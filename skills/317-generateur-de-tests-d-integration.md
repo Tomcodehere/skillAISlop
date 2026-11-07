@@ -8,8 +8,9 @@ mot_cle: "tests d'intégration"
 nom_court: "Tests intégration"
 branche: "D16"
 synonymes: []
-cross_refs: [67, 252]
+cross_refs: [67, 252, 255]
 tags: ["aihero:software-factory"]
+depends_on: [67]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

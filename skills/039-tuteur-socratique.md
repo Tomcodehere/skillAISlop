@@ -8,8 +8,9 @@ mot_cle: "tuteur socratique"
 nom_court: "Socrate"
 branche: "D5"
 synonymes: []
-cross_refs: [11]
+cross_refs: [11, 1321, 499]
 tags: ["aihero:teach"]
+depends_on: [1321]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

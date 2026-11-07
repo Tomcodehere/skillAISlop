@@ -8,7 +8,8 @@ mot_cle: "montage vidéo débutant"
 nom_court: "Montage vidéo"
 branche: "D28"
 synonymes: ["capcut", "imovie", "montage"]
-cross_refs: [144, 158]
+cross_refs: [144, 158, 145]
+depends_on: [144]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

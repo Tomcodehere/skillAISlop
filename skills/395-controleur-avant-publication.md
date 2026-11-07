@@ -8,7 +8,7 @@ mot_cle: "contrôleur avant publication"
 nom_court: "Pré-publication"
 branche: "D18"
 synonymes: []
-cross_refs: [134, 235]
+cross_refs: [134, 235, 1084]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

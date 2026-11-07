@@ -8,7 +8,8 @@ mot_cle: "business reviews clients"
 nom_court: "Reviews"
 branche: "D21"
 synonymes: []
-cross_refs: [14, 55]
+cross_refs: [14, 55, 131]
+depends_on: [131]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Cas d'usage

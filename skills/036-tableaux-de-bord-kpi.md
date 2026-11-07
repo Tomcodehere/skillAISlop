@@ -8,8 +8,9 @@ mot_cle: "tableaux de bord & kpi"
 nom_court: "KPI"
 branche: "D4"
 synonymes: []
-cross_refs: [13]
+cross_refs: [13, 107, 468]
 tags: ["aihero:wizard"]
+depends_on: [1059]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

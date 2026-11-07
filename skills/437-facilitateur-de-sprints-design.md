@@ -8,7 +8,7 @@ mot_cle: "sprints design"
 nom_court: "Sprints design"
 branche: "D25"
 synonymes: []
-cross_refs: [162, 429]
+cross_refs: [162, 429, 455]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

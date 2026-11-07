@@ -8,7 +8,7 @@ mot_cle: "foundation-model-support-watch"
 nom_court: "Foundation Model Support Watch"
 branche: "D14"
 synonymes: ["demande", "portant", "foundation"]
-cross_refs: [334]
+cross_refs: [334, 394, 1193]
 tags: ["2027"]
 ---
 

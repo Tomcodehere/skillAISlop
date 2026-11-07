@@ -8,7 +8,7 @@ mot_cle: "builder mcp (model context protocol)"
 nom_court: "MCP"
 branche: "D14"
 synonymes: []
-cross_refs: [71, 99]
+cross_refs: [71, 99, 925]
 tags: ["aihero:domain-modeling"]
 ---
 

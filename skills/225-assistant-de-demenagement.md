@@ -8,7 +8,8 @@ mot_cle: "assistant de déménagement"
 nom_court: "Déménagement"
 branche: "D26"
 synonymes: ["demenagement", "demenager"]
-cross_refs: [72, 217]
+cross_refs: [72, 217, 653]
+depends_on: [653]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

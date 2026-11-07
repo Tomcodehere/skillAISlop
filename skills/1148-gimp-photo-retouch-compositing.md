@@ -8,8 +8,9 @@ mot_cle: "gimp-photo-retouch-compositing"
 nom_court: "GIMP Photo Retouch & Compositi"
 branche: "D22"
 synonymes: ["demande", "portant", "photo"]
-cross_refs: [1045]
+cross_refs: [1045, 1291, 1168]
 tags: ["2027"]
+depends_on: [1291]
 ---
 
 ## 1148. 🎨 GIMP Photo Retouch & Compositing

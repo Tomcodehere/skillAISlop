@@ -8,7 +8,7 @@ mot_cle: "monorepo"
 nom_court: "Monorepo"
 branche: "D15"
 synonymes: []
-cross_refs: [88, 323]
+cross_refs: [88, 323, 85]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

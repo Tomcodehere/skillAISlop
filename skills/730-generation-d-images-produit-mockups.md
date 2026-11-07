@@ -8,7 +8,8 @@ mot_cle: "packshot ia"
 nom_court: "Packshot IA"
 branche: "D19"
 synonymes: ["photo produit ia"]
-cross_refs: [139, 143]
+cross_refs: [139, 143, 163]
+depends_on: [143]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

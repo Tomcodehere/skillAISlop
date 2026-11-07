@@ -8,8 +8,9 @@ mot_cle: "typescript-advanced-types"
 nom_court: "TypeScript Advanced Types"
 branche: "D1"
 synonymes: ["typescript", "types", "avances"]
-cross_refs: [1067]
+cross_refs: [1067, 1231, 1284]
 tags: ["2027"]
+depends_on: [1231]
 ---
 
 ## 1292. 💻 TypeScript Advanced Types

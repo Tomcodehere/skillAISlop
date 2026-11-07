@@ -8,7 +8,7 @@ mot_cle: "retouche photo"
 nom_court: "Retouche"
 branche: "D28"
 synonymes: ["lightroom", "retouche"]
-cross_refs: [140, 522]
+cross_refs: [140, 522, 667]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

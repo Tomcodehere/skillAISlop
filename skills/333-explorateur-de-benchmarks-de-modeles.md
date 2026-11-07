@@ -8,7 +8,8 @@ mot_cle: "benchmarks de modèles"
 nom_court: "Benchmarks"
 branche: "D14"
 synonymes: []
-cross_refs: [97, 265]
+cross_refs: [97, 265, 689]
+depends_on: [689]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

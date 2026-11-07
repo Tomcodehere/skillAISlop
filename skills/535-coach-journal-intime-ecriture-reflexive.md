@@ -8,7 +8,8 @@ mot_cle: "journal intime"
 nom_court: "Journal intime"
 branche: "D29"
 synonymes: ["journal"]
-cross_refs: [287, 498]
+cross_refs: [287, 498, 534]
+depends_on: [534]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

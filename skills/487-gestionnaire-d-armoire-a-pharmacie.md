@@ -8,7 +8,7 @@ mot_cle: "armoire à pharmacie"
 nom_court: "Pharmacie"
 branche: "D26"
 synonymes: ["medicaments", "pharmacie maison"]
-cross_refs: [477, 485]
+cross_refs: [477, 485, 478]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

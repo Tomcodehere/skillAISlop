@@ -8,8 +8,9 @@ mot_cle: "fx-performance-budget-optimization"
 nom_court: "FX Performance Budget Optimiza"
 branche: "D22"
 synonymes: ["demande", "portant", "performance"]
-cross_refs: [1212]
+cross_refs: [1212, 1137, 1136]
 tags: ["2027"]
+depends_on: [1137]
 ---
 
 ## 1135. 🎨 FX Performance Budget Optimization

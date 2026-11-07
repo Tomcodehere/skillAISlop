@@ -8,7 +8,8 @@ mot_cle: "auditeur d'api"
 nom_court: "API"
 branche: "D15"
 synonymes: []
-cross_refs: [70, 87]
+cross_refs: [70, 87, 253]
+depends_on: [253]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

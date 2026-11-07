@@ -8,7 +8,7 @@ mot_cle: "cohortes & rétention"
 nom_court: "Cohortes"
 branche: "D17"
 synonymes: ["churn", "cohortes", "rétention"]
-cross_refs: [36, 93]
+cross_refs: [36, 93, 112]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

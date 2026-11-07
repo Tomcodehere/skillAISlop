@@ -8,7 +8,8 @@ mot_cle: "veilleur réglementaire"
 nom_court: "Réglementaire"
 branche: "D23"
 synonymes: []
-cross_refs: [105, 196]
+cross_refs: [105, 196, 785]
+depends_on: [785]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

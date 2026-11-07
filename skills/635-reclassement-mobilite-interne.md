@@ -8,7 +8,8 @@ mot_cle: "reclassement"
 nom_court: "Reclassement"
 branche: "D6"
 synonymes: ["changement de poste en interne"]
-cross_refs: [231, 204]
+cross_refs: [231, 204, 997]
+depends_on: [997]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

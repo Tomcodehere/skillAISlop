@@ -8,7 +8,7 @@ mot_cle: "gpo-advanced-design-troubleshooting"
 nom_court: "GPO Advanced Design & Troubles"
 branche: "D14"
 synonymes: ["complexe", "filtrage", "heritage"]
-cross_refs: [1055]
+cross_refs: [1055, 1108, 1027]
 tags: ["2027"]
 ---
 

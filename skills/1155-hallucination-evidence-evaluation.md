@@ -8,8 +8,9 @@ mot_cle: "hallucination-evidence-evaluation"
 nom_court: "Hallucination Evidence Evaluat"
 branche: "D14"
 synonymes: ["demande", "portant", "hallucination"]
-cross_refs: [339]
+cross_refs: [339, 1242, 1147]
 tags: ["2027"]
+depends_on: [1242]
 ---
 
 ## 1155. 🧠 Hallucination Evidence Evaluation

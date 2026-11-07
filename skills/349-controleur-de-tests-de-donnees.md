@@ -8,7 +8,8 @@ mot_cle: "tests de données"
 nom_court: "Tests données"
 branche: "D15"
 synonymes: []
-cross_refs: [343, 350]
+cross_refs: [343, 350, 263]
+depends_on: [263]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

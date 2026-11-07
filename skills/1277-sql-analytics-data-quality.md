@@ -8,8 +8,9 @@ mot_cle: "sql-analytics-data-quality"
 nom_court: "SQL Analytics & Data Quality"
 branche: "D1"
 synonymes: []
-cross_refs: [1128]
+cross_refs: [1128, 1247, 1099]
 tags: ["2027"]
+depends_on: [1247]
 ---
 
 ## 1277. 💻 SQL Analytics & Data Quality

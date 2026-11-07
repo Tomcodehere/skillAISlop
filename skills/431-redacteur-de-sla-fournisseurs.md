@@ -8,7 +8,8 @@ mot_cle: "sla fournisseurs"
 nom_court: "SLA fournisseurs"
 branche: "D25"
 synonymes: []
-cross_refs: [351, 370]
+cross_refs: [351, 370, 198]
+depends_on: [198]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "achat en ligne sécurisé"
 nom_court: "Achat en ligne"
 branche: "D26"
 synonymes: ["arnaque leboncoin"]
-cross_refs: [842, 758]
+cross_refs: [842, 758, 530]
 tags: ["2027"]
+depends_on: [530]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

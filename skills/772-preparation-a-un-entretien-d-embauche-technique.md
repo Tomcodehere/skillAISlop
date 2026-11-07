@@ -8,7 +8,8 @@ mot_cle: "entretien technique"
 nom_court: "Entretien tech"
 branche: "D6"
 synonymes: ["live coding"]
-cross_refs: [697, 12]
+cross_refs: [697, 12, 872]
+depends_on: [872]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "fiches produits e-commerce"
 nom_court: "Fiches"
 branche: "D18"
 synonymes: []
-cross_refs: [1, 3]
+cross_refs: [1, 3, 279]
+depends_on: [279]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

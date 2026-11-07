@@ -8,8 +8,9 @@ mot_cle: "api-and-webhook-contract-mapping"
 nom_court: "API and Webhook Contract Mappi"
 branche: "D1"
 synonymes: ["demande", "portant", "webhook"]
-cross_refs: [1099]
+cross_refs: [1099, 1305, 1272]
 tags: ["2027"]
+depends_on: [1305]
 ---
 
 ## 1031. 💻 API and Webhook Contract Mapping

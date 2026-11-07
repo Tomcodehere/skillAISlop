@@ -8,7 +8,7 @@ mot_cle: "outlook-productivity-automation"
 nom_court: "Outlook Productivity Automatio"
 branche: "D15"
 synonymes: ["automatiser", "emails", "regles"]
-cross_refs: [766]
+cross_refs: [766, 696, 357]
 tags: ["2027"]
 ---
 

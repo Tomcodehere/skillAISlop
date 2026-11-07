@@ -8,7 +8,7 @@ mot_cle: "authentification web"
 nom_court: "Auth"
 branche: "D23"
 synonymes: ["authentification", "mfa", "sso"]
-cross_refs: [197, 502]
+cross_refs: [197, 502, 350]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

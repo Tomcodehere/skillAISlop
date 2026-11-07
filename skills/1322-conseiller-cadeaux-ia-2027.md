@@ -8,8 +8,9 @@ mot_cle: "trouver un cadeau ia"
 nom_court: "Cadeau IA"
 branche: "D26"
 synonymes: ["idée cadeau ia"]
-cross_refs: [644, 541]
+cross_refs: [644, 541, 658]
 tags: ["2027"]
+depends_on: [658]
 ---
 
 ## 1322. 🎁 Conseiller cadeaux IA (2027)

@@ -8,7 +8,8 @@ mot_cle: "régression de prompts"
 nom_court: "Régression prompts"
 branche: "D14"
 synonymes: []
-cross_refs: [97, 334]
+cross_refs: [97, 334, 237]
+depends_on: [237]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

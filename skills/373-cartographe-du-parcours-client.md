@@ -8,8 +8,9 @@ mot_cle: "parcours client"
 nom_court: "Parcours client"
 branche: "D20"
 synonymes: []
-cross_refs: [109, 352]
+cross_refs: [109, 352, 797]
 tags: ["aihero:writing-beats"]
+depends_on: [739]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "achat immobilier"
 nom_court: "Achat immo"
 branche: "D29"
 synonymes: ["offre d'achat", "crédit immobilier"]
-cross_refs: [296, 45]
+cross_refs: [296, 45, 966]
+depends_on: [966]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

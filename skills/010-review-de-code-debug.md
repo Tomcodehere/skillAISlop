@@ -8,8 +8,9 @@ mot_cle: "review de code & debug"
 nom_court: ""
 branche: "K"
 synonymes: ["code review", "revue de code"]
-cross_refs: [20]
+cross_refs: [20, 70, 83]
 tags: ["aihero:diagnosing-bugs", "aihero:implement"]
+depends_on: [70]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

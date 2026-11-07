@@ -8,7 +8,7 @@ mot_cle: "formations"
 nom_court: "Formations"
 branche: "D24"
 synonymes: []
-cross_refs: [40, 41]
+cross_refs: [40, 41, 417]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

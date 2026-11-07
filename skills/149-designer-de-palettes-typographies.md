@@ -8,7 +8,7 @@ mot_cle: "palettes & typographies"
 nom_court: "Palettes"
 branche: "D19"
 synonymes: []
-cross_refs: [34, 181]
+cross_refs: [34, 181, 147]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "apprendre à cuisiner"
 nom_court: "Cours cuisine"
 branche: "D27"
 synonymes: ["cuisine italienne"]
-cross_refs: [566, 662]
+cross_refs: [566, 662, 1349]
 tags: ["2027"]
+depends_on: [566]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "bilan de compétences"
 nom_court: "Bilan"
 branche: "D29"
 synonymes: []
-cross_refs: [204, 231]
+cross_refs: [204, 231, 674]
+depends_on: [674]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "panier & d'upsell"
 nom_court: "Upsell"
 branche: "D20"
 synonymes: []
-cross_refs: [162, 169]
+cross_refs: [162, 169, 744]
+depends_on: [798]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

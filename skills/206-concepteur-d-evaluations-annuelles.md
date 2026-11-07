@@ -8,7 +8,8 @@ mot_cle: "évaluations annuelles"
 nom_court: "Évaluations"
 branche: "D24"
 synonymes: []
-cross_refs: [202, 204]
+cross_refs: [202, 204, 632]
+depends_on: [632]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

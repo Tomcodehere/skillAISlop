@@ -8,7 +8,7 @@ mot_cle: "dictée vocale"
 nom_court: "Dictée vocale"
 branche: "D25"
 synonymes: []
-cross_refs: [24, 378]
+cross_refs: [24, 378, 516]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

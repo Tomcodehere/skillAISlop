@@ -8,8 +8,9 @@ mot_cle: "vérifier sortie agent ia"
 nom_court: "Vérif agent"
 branche: "D14"
 synonymes: ["verifiability karpathy"]
-cross_refs: [819, 693]
+cross_refs: [819, 693, 1020]
 tags: ["2027"]
+depends_on: [1020]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

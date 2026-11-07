@@ -8,8 +8,9 @@ mot_cle: "arnaque site de rencontre"
 nom_court: "Love scam"
 branche: "D23"
 synonymes: ["love scam"]
-cross_refs: [842, 839]
+cross_refs: [842, 839, 685]
 tags: ["2027"]
+depends_on: [685]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

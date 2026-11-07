@@ -8,7 +8,7 @@ mot_cle: "intellectual-property-protection"
 nom_court: "Intellectual Property Protecti"
 branche: "D17"
 synonymes: ["depot", "marque", "brevet"]
-cross_refs: [1068]
+cross_refs: [1068, 752, 553]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,7 @@ mot_cle: "red-team de prompts"
 nom_court: "Red-team"
 branche: "D4"
 synonymes: []
-cross_refs: []
+cross_refs: [237, 17, 338]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

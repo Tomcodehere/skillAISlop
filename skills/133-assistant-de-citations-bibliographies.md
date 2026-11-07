@@ -8,7 +8,7 @@ mot_cle: "assistant de citations & bibliographies"
 nom_court: "Citations"
 branche: "D18"
 synonymes: []
-cross_refs: [104, 116]
+cross_refs: [104, 116, 225]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

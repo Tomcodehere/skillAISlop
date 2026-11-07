@@ -8,7 +8,8 @@ mot_cle: "base de connaissances"
 nom_court: "Wiki interne"
 branche: "D25"
 synonymes: ["documenter un processus"]
-cross_refs: [114, 23]
+cross_refs: [114, 23, 113]
+depends_on: [113]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

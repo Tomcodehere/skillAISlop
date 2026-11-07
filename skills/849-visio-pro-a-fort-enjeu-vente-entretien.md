@@ -8,7 +8,7 @@ mot_cle: "préparer une visio"
 nom_court: "Visio pro"
 branche: "D25"
 synonymes: ["visio importante"]
-cross_refs: [760, 702]
+cross_refs: [760, 702, 872]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "fichiers & arborescences"
 nom_court: "Nettoyage"
 branche: "D25"
 synonymes: []
-cross_refs: [28, 245]
+cross_refs: [28, 245, 92]
+depends_on: [28]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "quiz marketing interactifs"
 nom_court: "Quiz marketing"
 branche: "D20"
 synonymes: []
-cross_refs: [111, 174]
+cross_refs: [111, 174, 40]
+depends_on: [174]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "contrats d'api"
 nom_court: "Contrats d'API"
 branche: "D16"
 synonymes: ["breaking change", "compatibilité"]
-cross_refs: [322, 526]
+cross_refs: [322, 526, 370]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

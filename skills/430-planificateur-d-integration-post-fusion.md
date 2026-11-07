@@ -8,7 +8,8 @@ mot_cle: "intégration post-fusion"
 nom_court: "Post-fusion"
 branche: "D25"
 synonymes: []
-cross_refs: [404, 426]
+cross_refs: [404, 426, 1025]
+depends_on: [1025]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

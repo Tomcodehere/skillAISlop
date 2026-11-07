@@ -8,7 +8,8 @@ mot_cle: "déclarations officielles"
 nom_court: "Déclarations"
 branche: "D20"
 synonymes: []
-cross_refs: [190, 235]
+cross_refs: [190, 235, 126]
+depends_on: [126]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "sélecteur de candidatures (screening structuré)"
 nom_court: "Screening"
 branche: "D24"
 synonymes: ["screening cv", "trier les cv"]
-cross_refs: [202, 276]
+cross_refs: [202, 276, 6]
 tags: ["aihero:writing-fragments"]
 ---
 

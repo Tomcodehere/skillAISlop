@@ -8,8 +8,9 @@ mot_cle: "enquêtes internes"
 nom_court: "Enquêtes"
 branche: "D17"
 synonymes: []
-cross_refs: [55, 73]
+cross_refs: [55, 73, 243]
 tags: ["aihero:to-questionnaire"]
+depends_on: [243]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "aipd (analyse d'impact)"
 nom_court: "AIPD"
 branche: "D23"
 synonymes: []
-cross_refs: [189, 196]
+cross_refs: [189, 196, 448]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

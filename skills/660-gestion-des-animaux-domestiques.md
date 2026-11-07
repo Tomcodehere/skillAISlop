@@ -8,7 +8,8 @@ mot_cle: "animaux"
 nom_court: "Animaux"
 branche: "D27"
 synonymes: ["vaccination chien", "stérilisation", "toilettage"]
-cross_refs: [556, 533]
+cross_refs: [556, 533, 1333]
+depends_on: [556]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

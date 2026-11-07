@@ -8,7 +8,7 @@ mot_cle: "source-authority-comparison"
 nom_court: "Source Authority Comparison"
 branche: "D17"
 synonymes: ["demande", "portant", "source"]
-cross_refs: [1066]
+cross_refs: [1066, 708, 944]
 tags: ["2027"]
 ---
 

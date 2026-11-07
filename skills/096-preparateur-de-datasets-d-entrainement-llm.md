@@ -8,7 +8,7 @@ mot_cle: "datasets d'entraînement llm"
 nom_court: "Datasets"
 branche: "D14"
 synonymes: []
-cross_refs: [97, 238]
+cross_refs: [97, 238, 582]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "documentation-example-verification"
 nom_court: "Documentation Example Verifica"
 branche: "D1"
 synonymes: ["demande", "portant", "documentation"]
-cross_refs: [68]
+cross_refs: [68, 180, 1275]
 tags: ["2027"]
+depends_on: [180]
 ---
 
 ## 1112. 💻 Documentation Example Verification

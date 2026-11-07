@@ -8,7 +8,8 @@ mot_cle: "conventions de code d'équipe"
 nom_court: "Conventions code"
 branche: "D15"
 synonymes: []
-cross_refs: [10, 68]
+cross_refs: [10, 68, 83]
+depends_on: [83]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

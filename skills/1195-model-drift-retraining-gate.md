@@ -8,8 +8,9 @@ mot_cle: "model-drift-retraining-gate"
 nom_court: "Model Drift Retraining Gate"
 branche: "D14"
 synonymes: ["demande", "portant", "model"]
-cross_refs: [820]
+cross_refs: [820, 342, 1193]
 tags: ["2027"]
+depends_on: [342]
 ---
 
 ## 1195. 🧠 Model Drift Retraining Gate

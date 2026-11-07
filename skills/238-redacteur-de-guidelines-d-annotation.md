@@ -8,7 +8,7 @@ mot_cle: "guidelines d'annotation"
 nom_court: "Annotation"
 branche: "D14"
 synonymes: []
-cross_refs: [23, 96]
+cross_refs: [23, 96, 351]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

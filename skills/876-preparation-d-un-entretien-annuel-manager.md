@@ -8,8 +8,9 @@ mot_cle: "entretien annuel manager"
 nom_court: "Entretien annuel mgr"
 branche: "D24"
 synonymes: ["évaluation annuelle équipe"]
-cross_refs: [632, 644]
+cross_refs: [632, 644, 1348]
 tags: ["2027"]
+depends_on: [632]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "prévisionnel financier"
 nom_court: "Prévisionnel"
 branche: "D21"
 synonymes: []
-cross_refs: [43, 59]
+cross_refs: [43, 59, 638]
+depends_on: [638]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

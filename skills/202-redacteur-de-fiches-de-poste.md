@@ -8,7 +8,8 @@ mot_cle: "fiches de poste"
 nom_court: "Postes"
 branche: "D24"
 synonymes: []
-cross_refs: [44, 206]
+cross_refs: [44, 206, 408]
+depends_on: [408]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

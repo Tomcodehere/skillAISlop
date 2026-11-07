@@ -8,7 +8,8 @@ mot_cle: "témoignages clients"
 nom_court: "Témoignages"
 branche: "D21"
 synonymes: []
-cross_refs: [55, 124]
+cross_refs: [55, 124, 282]
+depends_on: [282]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

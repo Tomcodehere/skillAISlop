@@ -8,7 +8,8 @@ mot_cle: "données publiques"
 nom_court: "Open data"
 branche: "D15"
 synonymes: []
-cross_refs: [13, 103]
+cross_refs: [13, 103, 95]
+depends_on: [95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

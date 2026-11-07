@@ -8,7 +8,7 @@ mot_cle: "articles seo"
 nom_court: ""
 branche: "K"
 synonymes: []
-cross_refs: [8, 34]
+cross_refs: [8, 34, 381]
 tags: ["aihero:writing-shape"]
 ---
 

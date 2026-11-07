@@ -8,7 +8,8 @@ mot_cle: "télétravail"
 nom_court: "Télétravail"
 branche: "D24"
 synonymes: ["full remote"]
-cross_refs: [412, 72]
+cross_refs: [412, 72, 788]
+depends_on: [412]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

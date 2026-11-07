@@ -8,7 +8,8 @@ mot_cle: "déclenchement de skills"
 nom_court: "Déclenchement"
 branche: "D14"
 synonymes: []
-cross_refs: [97, 262]
+cross_refs: [97, 262, 325]
+depends_on: [325]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "lire sa fiche de paie"
 nom_court: "Fiche de paie"
 branche: "D29"
 synonymes: ["comprendre bulletin salaire"]
-cross_refs: [297, 639]
+cross_refs: [297, 639, 641]
 tags: ["2027"]
 ---
 

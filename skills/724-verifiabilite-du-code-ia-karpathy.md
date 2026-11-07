@@ -8,7 +8,8 @@ mot_cle: "code vérifiable"
 nom_court: "Vérifiabilité"
 branche: "D12"
 synonymes: ["règles karpathy"]
-cross_refs: [302, 67]
+cross_refs: [302, 67, 76]
+depends_on: [76]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

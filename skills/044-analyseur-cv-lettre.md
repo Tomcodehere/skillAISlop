@@ -8,7 +8,8 @@ mot_cle: "analyseur cv & lettre"
 nom_court: "CV"
 branche: "D6"
 synonymes: ["curriculum", "resume"]
-cross_refs: [12]
+cross_refs: [12, 774, 32]
+depends_on: [774]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

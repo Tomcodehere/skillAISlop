@@ -8,7 +8,7 @@ mot_cle: "perfectionnisme"
 nom_court: "Perfectionnisme"
 branche: "D26"
 synonymes: []
-cross_refs: [26, 61]
+cross_refs: [26, 61, 621]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "wordpress & cms"
 nom_court: "WordPress"
 branche: "D23"
 synonymes: ["cms", "wordpress"]
-cross_refs: [447, 505]
+cross_refs: [447, 505, 818]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "préparer un audit"
 nom_court: "Audit interne"
 branche: "D25"
 synonymes: ["check-list audit"]
-cross_refs: [243, 614]
+cross_refs: [243, 614, 610]
 tags: ["2027"]
+depends_on: [243]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "neutral-document-condensation"
 nom_court: "Neutral Document Condensation"
 branche: "D22"
 synonymes: ["demande", "portant", "neutral"]
-cross_refs: [1108]
+cross_refs: [1108, 1271, 1080]
 tags: ["2027"]
 ---
 

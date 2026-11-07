@@ -8,7 +8,7 @@ mot_cle: "tracking analytics"
 nom_court: "Tracking"
 branche: "D17"
 synonymes: []
-cross_refs: [107, 109]
+cross_refs: [107, 109, 221]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

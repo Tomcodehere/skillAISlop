@@ -8,8 +8,9 @@ mot_cle: "apprendre une langue ia"
 nom_court: "Langue IA"
 branche: "D7"
 synonymes: ["espagnol ia"]
-cross_refs: [1321, 708]
+cross_refs: [1321, 708, 493]
 tags: ["2027"]
+depends_on: [493]
 ---
 
 ## 1343. 🗣️ Apprendre une langue avec l'IA (2027)

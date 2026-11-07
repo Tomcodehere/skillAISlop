@@ -8,7 +8,8 @@ mot_cle: "bilan de compétences financé"
 nom_court: "Bilan de compétences"
 branche: "D6"
 synonymes: ["changer de voie professionnelle"]
-cross_refs: [231, 600]
+cross_refs: [231, 600, 205]
+depends_on: [600]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

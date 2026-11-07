@@ -8,7 +8,8 @@ mot_cle: "emails transactionnels"
 nom_court: "Emails transactionnels"
 branche: "D22"
 synonymes: []
-cross_refs: [4, 65]
+cross_refs: [4, 65, 357]
+depends_on: [452]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

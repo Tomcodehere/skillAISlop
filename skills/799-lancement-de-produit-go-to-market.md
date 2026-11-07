@@ -8,7 +8,8 @@ mot_cle: "lancer un produit"
 nom_court: "Lancement"
 branche: "D20"
 synonymes: ["go-to-market"]
-cross_refs: [163, 696]
+cross_refs: [163, 696, 179]
+depends_on: [163]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

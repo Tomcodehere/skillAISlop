@@ -8,7 +8,8 @@ mot_cle: "charge de travail d'équipe"
 nom_court: "Charge travail"
 branche: "D24"
 synonymes: ["burnout", "surcharge de travail"]
-cross_refs: [420, 475]
+cross_refs: [420, 475, 787]
+depends_on: [787]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

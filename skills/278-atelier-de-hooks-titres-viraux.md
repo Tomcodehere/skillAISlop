@@ -8,8 +8,9 @@ mot_cle: "atelier de hooks & titres viraux"
 nom_court: "Hooks"
 branche: "D20"
 synonymes: []
-cross_refs: [3, 147]
+cross_refs: [3, 147, 729]
 tags: ["aihero:git-guardrails-claude-code"]
+depends_on: [729]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

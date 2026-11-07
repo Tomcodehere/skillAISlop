@@ -8,7 +8,8 @@ mot_cle: "trouver une skill"
 nom_court: "Find-skills"
 branche: "D14"
 synonymes: ["installer une skill"]
-cross_refs: [38, 325]
+cross_refs: [38, 325, 905]
+depends_on: [38]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

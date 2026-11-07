@@ -8,7 +8,8 @@ mot_cle: "injection de prompt"
 nom_court: "Injection prompt"
 branche: "D23"
 synonymes: ["prompt injection", "jailbreak"]
-cross_refs: [195, 37]
+cross_refs: [195, 37, 818]
+depends_on: [818]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

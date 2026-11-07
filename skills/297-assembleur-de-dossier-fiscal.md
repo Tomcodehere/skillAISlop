@@ -8,7 +8,7 @@ mot_cle: "assembleur de dossier fiscal"
 nom_court: "Fiscal"
 branche: "D26"
 synonymes: ["declaration", "fiscalite", "impot", "impots"]
-cross_refs: [43, 115]
+cross_refs: [43, 115, 639]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

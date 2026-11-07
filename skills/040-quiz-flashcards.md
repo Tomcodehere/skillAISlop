@@ -8,7 +8,8 @@ mot_cle: "quiz & flashcards"
 nom_court: "Quiz"
 branche: "D5"
 synonymes: ["qcm", "quiz"]
-cross_refs: []
+cross_refs: [213, 364, 1321]
+depends_on: [213]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

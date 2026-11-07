@@ -8,7 +8,8 @@ mot_cle: "audit de budget"
 nom_court: "Audit budget"
 branche: "D29"
 synonymes: []
-cross_refs: [107, 170]
+cross_refs: [107, 170, 1324]
+depends_on: [1324]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

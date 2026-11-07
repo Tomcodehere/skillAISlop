@@ -8,7 +8,8 @@ mot_cle: "pitches médias"
 nom_court: "Pitches médias"
 branche: "D18"
 synonymes: []
-cross_refs: [387, 393]
+cross_refs: [387, 393, 126]
+depends_on: [387]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

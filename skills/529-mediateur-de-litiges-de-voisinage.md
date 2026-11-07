@@ -8,7 +8,8 @@ mot_cle: "litiges voisinage"
 nom_court: "Voisinage"
 branche: "D29"
 synonymes: ["voisin", "voisinage"]
-cross_refs: [46, 137]
+cross_refs: [46, 137, 864]
+depends_on: [864]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

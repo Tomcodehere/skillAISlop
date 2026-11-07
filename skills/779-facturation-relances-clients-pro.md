@@ -8,7 +8,8 @@ mot_cle: "facture conforme"
 nom_court: "Facturation"
 branche: "D21"
 synonymes: ["relance impayé"]
-cross_refs: [371, 706]
+cross_refs: [371, 706, 832]
+depends_on: [832]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

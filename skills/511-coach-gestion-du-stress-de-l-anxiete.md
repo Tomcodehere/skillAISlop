@@ -8,7 +8,8 @@ mot_cle: "gestion du stress"
 nom_court: "Stress"
 branche: "D27"
 synonymes: ["anxiété", "respiration", "stress"]
-cross_refs: [72, 483]
+cross_refs: [72, 483, 765]
+depends_on: [765]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

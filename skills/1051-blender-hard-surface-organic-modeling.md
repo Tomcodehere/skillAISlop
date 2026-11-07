@@ -8,8 +8,9 @@ mot_cle: "blender-hard-surface-organic-modeling"
 nom_court: "Blender Hard Surface & Organic"
 branche: "D1"
 synonymes: ["demande", "portant", "blender"]
-cross_refs: [1198]
+cross_refs: [1198, 1174, 1053]
 tags: ["2027"]
+depends_on: [1174]
 ---
 
 ## 1051. 💻 Blender Hard Surface & Organic Modeling

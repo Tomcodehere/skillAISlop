@@ -8,8 +8,9 @@ mot_cle: "préparer entretien embauche 2027"
 nom_court: "Entretien STAR"
 branche: "D6"
 synonymes: ["méthode star entretien"]
-cross_refs: [872, 875]
+cross_refs: [872, 875, 697]
 tags: ["2027"]
+depends_on: [697]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

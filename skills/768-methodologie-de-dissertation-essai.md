@@ -8,7 +8,8 @@ mot_cle: "dissertation"
 nom_court: "Dissertation"
 branche: "D28"
 synonymes: ["plan dialectique"]
-cross_refs: [560, 377]
+cross_refs: [560, 377, 775]
+depends_on: [560]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "cartes de modèle"
 nom_court: "Cartes modèle"
 branche: "D14"
 synonymes: []
-cross_refs: [97, 332]
+cross_refs: [97, 332, 342]
+depends_on: [342]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

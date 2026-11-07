@@ -8,8 +8,9 @@ mot_cle: "vendre son entreprise"
 nom_court: "Cession entreprise"
 branche: "D29"
 synonymes: ["transmission entreprise"]
-cross_refs: [527, 837]
+cross_refs: [527, 837, 936]
 tags: ["2027"]
+depends_on: [936]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

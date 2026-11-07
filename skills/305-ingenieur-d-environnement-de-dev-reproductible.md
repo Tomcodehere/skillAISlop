@@ -8,7 +8,8 @@ mot_cle: "environnement de dev reproductible"
 nom_court: "Env reproductible"
 branche: "D16"
 synonymes: []
-cross_refs: [203, 314]
+cross_refs: [203, 314, 85]
+depends_on: [85]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

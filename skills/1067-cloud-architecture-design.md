@@ -8,8 +8,9 @@ mot_cle: "cloud-architecture-design"
 nom_court: "Cloud Architecture Design"
 branche: "D1"
 synonymes: ["concois", "architecture", "propose"]
-cross_refs: [1203]
+cross_refs: [1203, 1281, 1098]
 tags: ["2027"]
+depends_on: [1281]
 ---
 
 ## 1067. 💻 Cloud Architecture Design

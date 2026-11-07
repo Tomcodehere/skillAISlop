@@ -8,7 +8,8 @@ mot_cle: "recommandations culturelles"
 nom_court: "Culture"
 branche: "D27"
 synonymes: ["film", "série"]
-cross_refs: [494, 536]
+cross_refs: [494, 536, 64]
+depends_on: [536]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

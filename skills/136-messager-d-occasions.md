@@ -8,7 +8,7 @@ mot_cle: "messager d'occasions"
 nom_court: "Occasions"
 branche: "D20"
 synonymes: ["carte de vœux", "occasions spéciales", "vœux"]
-cross_refs: [2, 75]
+cross_refs: [2, 75, 1322]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

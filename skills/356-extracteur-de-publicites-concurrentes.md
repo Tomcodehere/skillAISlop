@@ -8,7 +8,7 @@ mot_cle: "publicités concurrentes"
 nom_court: "Ads concurrentes"
 branche: "D20"
 synonymes: []
-cross_refs: [32, 279]
+cross_refs: [32, 279, 747]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "appel d'offres"
 nom_court: "AAP"
 branche: "D21"
 synonymes: ["répondre à un aap"]
-cross_refs: [168, 780]
+cross_refs: [168, 780, 408]
 tags: ["2027"]
+depends_on: [168]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

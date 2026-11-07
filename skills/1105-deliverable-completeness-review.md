@@ -8,7 +8,7 @@ mot_cle: "deliverable-completeness-review"
 nom_court: "Deliverable Completeness Revie"
 branche: "D25"
 synonymes: ["demande", "portant", "deliverable"]
-cross_refs: [760]
+cross_refs: [760, 1040, 1301]
 tags: ["2027"]
 ---
 

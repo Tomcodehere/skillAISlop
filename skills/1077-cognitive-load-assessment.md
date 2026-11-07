@@ -8,7 +8,7 @@ mot_cle: "cognitive-load-assessment"
 nom_court: "Cognitive Load Assessment"
 branche: "D1"
 synonymes: ["charge", "cognitive", "elevee"]
-cross_refs: [1107]
+cross_refs: [1107, 618, 421]
 tags: ["2027"]
 ---
 

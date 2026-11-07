@@ -8,7 +8,8 @@ mot_cle: "fêtes de famille"
 nom_court: "Fêtes famille"
 branche: "D27"
 synonymes: ["réception"]
-cross_refs: [221, 564]
+cross_refs: [221, 564, 863]
+depends_on: [564]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

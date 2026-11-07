@@ -8,7 +8,7 @@ mot_cle: "tendances & signaux faibles"
 nom_court: "Signaux faibles"
 branche: "D20"
 synonymes: []
-cross_refs: [32, 103]
+cross_refs: [32, 103, 726]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

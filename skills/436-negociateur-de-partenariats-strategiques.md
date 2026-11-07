@@ -8,7 +8,7 @@ mot_cle: "partenariats stratégiques"
 nom_court: "Partenariats"
 branche: "D25"
 synonymes: []
-cross_refs: [370, 427]
+cross_refs: [370, 427, 551]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

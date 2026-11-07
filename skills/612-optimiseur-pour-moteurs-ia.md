@@ -8,7 +8,8 @@ mot_cle: "moteurs ia"
 nom_court: "GEO moteurs IA"
 branche: "D20"
 synonymes: ["geo", "perplexity"]
-cross_refs: [161, 367]
+cross_refs: [161, 367, 938]
+depends_on: [938]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

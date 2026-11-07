@@ -8,7 +8,8 @@ mot_cle: "tokens & budget de contexte"
 nom_court: "Budget tokens"
 branche: "D14"
 synonymes: []
-cross_refs: [236, 265]
+cross_refs: [236, 265, 455]
+depends_on: [236]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

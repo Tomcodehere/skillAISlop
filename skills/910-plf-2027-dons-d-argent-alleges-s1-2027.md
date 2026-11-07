@@ -8,7 +8,7 @@ mot_cle: "don argent 2027 6%"
 nom_court: "Don 2027"
 branche: "D29"
 synonymes: ["plf 2027"]
-cross_refs: [811, 837]
+cross_refs: [811, 837, 638]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "cycles de feedback 360"
 nom_court: "Feedback 360"
 branche: "D24"
 synonymes: []
-cross_refs: [407, 418]
+cross_refs: [407, 418, 419]
+depends_on: [419]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

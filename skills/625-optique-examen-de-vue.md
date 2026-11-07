@@ -8,7 +8,7 @@ mot_cle: "opticien"
 nom_court: "Opticien"
 branche: "D27"
 synonymes: ["lunettes"]
-cross_refs: [485, 511]
+cross_refs: [485, 511, 41]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

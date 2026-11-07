@@ -8,8 +8,9 @@ mot_cle: "ai literacy"
 nom_court: "AI literacy"
 branche: "D28"
 synonymes: ["comprendre l'ia"]
-cross_refs: [700, 336]
+cross_refs: [700, 336, 816]
 tags: ["2027"]
+depends_on: [816]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

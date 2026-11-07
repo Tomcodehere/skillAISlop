@@ -8,7 +8,7 @@ mot_cle: "game dev"
 nom_court: "Game dev"
 branche: "D30"
 synonymes: ["godot", "unity"]
-cross_refs: [9, 575]
+cross_refs: [9, 575, 521]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "guide de reconversion professionnelle"
 nom_court: "Reconversion"
 branche: "D24"
 synonymes: ["changer de metier", "reconversion"]
-cross_refs: [44, 204]
+cross_refs: [44, 204, 674]
+depends_on: [674]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

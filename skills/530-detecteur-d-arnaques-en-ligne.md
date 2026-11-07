@@ -8,7 +8,8 @@ mot_cle: "arnaques en ligne"
 nom_court: "Arnaques"
 branche: "D27"
 synonymes: ["arnaque", "escroquerie"]
-cross_refs: [247, 513]
+cross_refs: [247, 513, 685]
+depends_on: [851]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

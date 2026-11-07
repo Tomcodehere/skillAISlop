@@ -8,7 +8,7 @@ mot_cle: "critiques & comparatifs produits"
 nom_court: "Comparatifs"
 branche: "D18"
 synonymes: []
-cross_refs: [123, 367]
+cross_refs: [123, 367, 143]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

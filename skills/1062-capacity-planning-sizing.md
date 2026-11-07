@@ -8,7 +8,7 @@ mot_cle: "capacity-planning-sizing"
 nom_court: "Capacity Planning & Sizing"
 branche: "D25"
 synonymes: ["capacity", "planning", "dimensionnement"]
-cross_refs: [710]
+cross_refs: [710, 1067, 1281]
 tags: ["2027"]
 ---
 

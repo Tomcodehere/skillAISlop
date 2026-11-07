@@ -8,7 +8,8 @@ mot_cle: "soutenance orale"
 nom_court: "Soutenance"
 branche: "D28"
 synonymes: ["defense de mémoire"]
-cross_refs: [241, 75]
+cross_refs: [241, 75, 879]
+depends_on: [241]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

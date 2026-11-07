@@ -8,7 +8,7 @@ mot_cle: "auto-évaluation annuelle"
 nom_court: "Auto-éval"
 branche: "D24"
 synonymes: []
-cross_refs: [204, 294]
+cross_refs: [204, 294, 438]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

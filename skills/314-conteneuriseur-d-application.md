@@ -8,7 +8,7 @@ mot_cle: "conteneuriseur d'application"
 nom_court: "Conteneurisation"
 branche: "D16"
 synonymes: ["conteneur", "conteneurisation", "docker"]
-cross_refs: [82, 305]
+cross_refs: [82, 305, 1035]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

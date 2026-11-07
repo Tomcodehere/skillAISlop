@@ -8,7 +8,8 @@ mot_cle: "coach danse"
 nom_court: "Danse"
 branche: "D28"
 synonymes: ["chorégraphie", "danser"]
-cross_refs: [214, 565]
+cross_refs: [214, 565, 516]
+depends_on: [516]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

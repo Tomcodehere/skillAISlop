@@ -8,7 +8,7 @@ mot_cle: "enquêteur d'incidents production"
 nom_court: "Incidents"
 branche: "D16"
 synonymes: ["crash", "incident production", "panne prod"]
-cross_refs: [89, 199]
+cross_refs: [89, 199, 819]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

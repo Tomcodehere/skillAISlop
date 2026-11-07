@@ -8,8 +8,9 @@ mot_cle: "contexte de conversation"
 nom_court: "Contexte"
 branche: "D14"
 synonymes: []
-cross_refs: [17, 237]
+cross_refs: [17, 237, 326]
 tags: ["aihero:claude-handoff"]
+depends_on: [326]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

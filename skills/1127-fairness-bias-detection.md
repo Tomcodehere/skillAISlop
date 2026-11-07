@@ -8,7 +8,7 @@ mot_cle: "fairness-bias-detection"
 nom_court: "Fairness & Bias Detection"
 branche: "D22"
 synonymes: ["auditer", "donnees", "predictions"]
-cross_refs: [150]
+cross_refs: [150, 1019, 1119]
 tags: ["2027"]
 ---
 

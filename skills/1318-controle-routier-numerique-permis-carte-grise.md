@@ -8,7 +8,7 @@ mot_cle: "contrôle routier numérique"
 nom_court: "Contrôle numérique"
 branche: "D29"
 synonymes: ["permis numérique contrôle"]
-cross_refs: [1317, 866]
+cross_refs: [1317, 866, 955]
 tags: ["2027"]
 ---
 

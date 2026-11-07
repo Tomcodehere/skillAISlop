@@ -8,8 +8,9 @@ mot_cle: "rhel-selinux-diagnosis"
 nom_court: "RHEL SELinux Diagnosis"
 branche: "D1"
 synonymes: ["demande", "portant", "selinux"]
-cross_refs: [22]
+cross_refs: [22, 1178, 1082]
 tags: ["2027"]
+depends_on: [1178]
 ---
 
 ## 1257. 💻 RHEL SELinux Diagnosis

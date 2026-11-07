@@ -8,7 +8,8 @@ mot_cle: "feedback client"
 nom_court: "Feedback"
 branche: "D9"
 synonymes: []
-cross_refs: [13, 63]
+cross_refs: [13, 63, 797]
+depends_on: [797]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

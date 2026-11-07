@@ -8,7 +8,8 @@ mot_cle: "génération vidéo"
 nom_court: "Vidéo"
 branche: "D19"
 synonymes: []
-cross_refs: [52, 146]
+cross_refs: [52, 146, 139]
+depends_on: [139]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "adaptive-interactive-music-stems"
 nom_court: "Adaptive Interactive Music & S"
 branche: "D19"
 synonymes: ["demande", "portant", "adaptive"]
-cross_refs: [567]
+cross_refs: [567, 1009, 1171]
 tags: ["2027"]
+depends_on: [1171]
 ---
 
 ## 1010. 🎨 Adaptive Interactive Music & Stems

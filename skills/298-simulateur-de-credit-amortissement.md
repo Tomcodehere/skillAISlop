@@ -8,7 +8,8 @@ mot_cle: "crédit & amortissement"
 nom_court: "Crédit"
 branche: "D21"
 synonymes: []
-cross_refs: [43, 227]
+cross_refs: [43, 227, 966]
+depends_on: [966]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

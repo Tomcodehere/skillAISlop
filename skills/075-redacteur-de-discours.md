@@ -8,7 +8,7 @@ mot_cle: "discours"
 nom_court: "Discours"
 branche: "D8"
 synonymes: ["discours", "prise de parole"]
-cross_refs: [12]
+cross_refs: [12, 564, 400]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "préparer une réunion"
 nom_court: "Meeting prep"
 branche: "D25"
 synonymes: ["prépa call"]
-cross_refs: [209, 611]
+cross_refs: [209, 611, 24]
+depends_on: [24]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

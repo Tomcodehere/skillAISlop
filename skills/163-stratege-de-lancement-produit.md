@@ -8,7 +8,8 @@ mot_cle: "stratège de lancement produit"
 nom_court: "Lancement"
 branche: "D20"
 synonymes: []
-cross_refs: [123, 135]
+cross_refs: [123, 135, 799]
+depends_on: [799]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

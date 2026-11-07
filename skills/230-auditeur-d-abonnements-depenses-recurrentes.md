@@ -8,7 +8,7 @@ mot_cle: "abonnements & dépenses récurrentes"
 nom_court: "Abonnements"
 branche: "D26"
 synonymes: ["abonnement", "desabonnement", "resilier"]
-cross_refs: [43, 115]
+cross_refs: [43, 115, 679]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

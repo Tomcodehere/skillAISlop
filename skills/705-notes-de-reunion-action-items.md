@@ -8,7 +8,8 @@ mot_cle: "notes de réunion"
 nom_court: "Notes de réunion"
 branche: "D25"
 synonymes: ["action items"]
-cross_refs: [24, 285]
+cross_refs: [24, 285, 702]
+depends_on: [24]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

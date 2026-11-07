@@ -8,7 +8,7 @@ mot_cle: "grammatical-ambiguity-resolution"
 nom_court: "Grammatical Ambiguity Resoluti"
 branche: "D22"
 synonymes: ["demande", "portant", "grammatical"]
-cross_refs: [1154]
+cross_refs: [1154, 1187, 749]
 tags: ["2027"]
 ---
 

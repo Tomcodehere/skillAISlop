@@ -8,7 +8,7 @@ mot_cle: "backlog"
 nom_court: "Backlog"
 branche: "D22"
 synonymes: ["backlog", "tickets a faire"]
-cross_refs: [26, 63]
+cross_refs: [26, 63, 223]
 tags: ["aihero:implement-spec", "aihero:triage"]
 ---
 

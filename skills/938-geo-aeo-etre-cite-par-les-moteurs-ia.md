@@ -8,8 +8,9 @@ mot_cle: "être cité par chatgpt"
 nom_court: "GEO AEO"
 branche: "D20"
 synonymes: ["geo moteurs ia"]
-cross_refs: [735, 647]
+cross_refs: [735, 647, 612]
 tags: ["2027"]
+depends_on: [612]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "etl-pipeline-design-orchestration"
 nom_court: "ETL Pipeline Design & Orchestr"
 branche: "D1"
 synonymes: ["conception", "pipeline", "ingestion"]
-cross_refs: [1165]
+cross_refs: [1165, 1099, 1280]
 tags: ["2027"]
+depends_on: [1099]
 ---
 
 ## 1121. 💻 ETL Pipeline Design & Orchestration

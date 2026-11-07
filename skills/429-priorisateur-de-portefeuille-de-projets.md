@@ -8,7 +8,7 @@ mot_cle: "portefeuille de projets"
 nom_court: "Portefeuille"
 branche: "D25"
 synonymes: []
-cross_refs: [426, 427]
+cross_refs: [426, 427, 643]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

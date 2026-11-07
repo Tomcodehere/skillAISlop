@@ -8,8 +8,9 @@ mot_cle: "data literacy"
 nom_court: "Data literacy"
 branche: "D28"
 synonymes: ["lire les statistiques"]
-cross_refs: [547, 806]
+cross_refs: [547, 806, 815]
 tags: ["2027"]
+depends_on: [815]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

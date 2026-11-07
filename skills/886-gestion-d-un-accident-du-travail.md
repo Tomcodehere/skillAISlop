@@ -8,8 +8,9 @@ mot_cle: "accident du travail"
 nom_court: "AT"
 branche: "D29"
 synonymes: ["déclaration accident travail"]
-cross_refs: [885, 634]
+cross_refs: [885, 634, 555]
 tags: ["2027"]
+depends_on: [555]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

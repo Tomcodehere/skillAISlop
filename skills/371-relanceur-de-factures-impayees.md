@@ -8,7 +8,8 @@ mot_cle: "factures impayées"
 nom_court: "Factures impayées"
 branche: "D21"
 synonymes: ["impaye", "relance paiement"]
-cross_refs: [45, 115]
+cross_refs: [45, 115, 832]
+depends_on: [832]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

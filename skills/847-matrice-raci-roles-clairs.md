@@ -8,8 +8,9 @@ mot_cle: "matrice raci"
 nom_court: "RACI"
 branche: "D25"
 synonymes: ["qui fait quoi"]
-cross_refs: [434, 761]
+cross_refs: [434, 761, 458]
 tags: ["2027"]
+depends_on: [434]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

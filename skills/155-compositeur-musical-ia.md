@@ -8,7 +8,7 @@ mot_cle: "compositeur musical ia"
 nom_court: "Musique"
 branche: "D19"
 synonymes: ["chanson", "composer"]
-cross_refs: [159, 160]
+cross_refs: [159, 160, 573]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

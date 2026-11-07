@@ -8,7 +8,7 @@ mot_cle: "troubleshooting-decision-tree"
 nom_court: "Troubleshooting Decision Tree"
 branche: "D24"
 synonymes: ["demande", "portant", "troubleshooting"]
-cross_refs: [200]
+cross_refs: [200, 109, 1016]
 tags: ["2027"]
 ---
 

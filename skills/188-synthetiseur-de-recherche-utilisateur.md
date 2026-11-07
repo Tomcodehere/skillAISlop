@@ -8,7 +8,8 @@ mot_cle: "synthétiseur de recherche utilisateur"
 nom_court: "Synthèse UX"
 branche: "D22"
 synonymes: []
-cross_refs: [55, 187]
+cross_refs: [55, 187, 734]
+depends_on: [734]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

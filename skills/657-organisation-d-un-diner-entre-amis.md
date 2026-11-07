@@ -8,7 +8,8 @@ mot_cle: "dîner entre amis"
 nom_court: "Dîner entre amis"
 branche: "D26"
 synonymes: ["organiser un repas"]
-cross_refs: [221, 566]
+cross_refs: [221, 566, 863]
+depends_on: [863]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

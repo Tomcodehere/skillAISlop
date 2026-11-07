@@ -8,7 +8,8 @@ mot_cle: "données synthétiques"
 nom_court: "Synthétiques"
 branche: "D15"
 synonymes: []
-cross_refs: [96, 191]
+cross_refs: [96, 191, 349]
+depends_on: [349]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

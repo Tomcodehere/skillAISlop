@@ -8,7 +8,8 @@ mot_cle: "négocier son salaire"
 nom_court: "Négociation salariale"
 branche: "D6"
 synonymes: ["demande d'augmentation"]
-cross_refs: [45, 294]
+cross_refs: [45, 294, 875]
+depends_on: [875]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

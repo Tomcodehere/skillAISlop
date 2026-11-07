@@ -8,7 +8,8 @@ mot_cle: "dépannage"
 nom_court: "Dépannage"
 branche: "D26"
 synonymes: ["bricolage"]
-cross_refs: [291, 474]
+cross_refs: [291, 474, 220]
+depends_on: [474]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

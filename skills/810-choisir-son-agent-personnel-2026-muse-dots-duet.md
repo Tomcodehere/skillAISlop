@@ -8,8 +8,9 @@ mot_cle: "choisir son agent personnel"
 nom_court: "Choisir agent perso"
 branche: "D26"
 synonymes: ["muse vs dots"]
-cross_refs: [800, 688]
+cross_refs: [800, 688, 335]
 tags: ["2027"]
+depends_on: [800]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

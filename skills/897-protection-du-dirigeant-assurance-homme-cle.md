@@ -8,8 +8,9 @@ mot_cle: "assurance homme clé"
 nom_court: "Homme clé"
 branche: "D29"
 synonymes: ["rc dirigeant"]
-cross_refs: [786, 891]
+cross_refs: [786, 891, 965]
 tags: ["2027"]
+depends_on: [965]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

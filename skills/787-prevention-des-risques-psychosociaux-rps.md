@@ -8,7 +8,8 @@ mot_cle: "rps"
 nom_court: "RPS"
 branche: "D24"
 synonymes: ["risques psychosociaux"]
-cross_refs: [617, 421]
+cross_refs: [617, 421, 937]
+depends_on: [937]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

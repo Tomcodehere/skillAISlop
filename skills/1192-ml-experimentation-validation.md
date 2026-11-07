@@ -8,8 +8,9 @@ mot_cle: "ml-experimentation-validation"
 nom_court: "ML Experimentation & Validatio"
 branche: "D14"
 synonymes: ["comparaison", "performance", "plusieurs"]
-cross_refs: [733]
+cross_refs: [733, 1103, 1024]
 tags: ["2027"]
+depends_on: [1103]
 ---
 
 ## 1192. 🧠 ML Experimentation & Validation

@@ -8,7 +8,8 @@ mot_cle: "conformité ai act"
 nom_court: "AI Act"
 branche: "D23"
 synonymes: []
-cross_refs: [193, 239]
+cross_refs: [193, 239, 610]
+depends_on: [610]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

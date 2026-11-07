@@ -8,8 +8,9 @@ mot_cle: "prompt itératif"
 nom_court: "Prompt itératif"
 branche: "D14"
 synonymes: ["affiner un prompt"]
-cross_refs: [737, 338]
+cross_refs: [737, 338, 945]
 tags: ["2027"]
+depends_on: [737]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

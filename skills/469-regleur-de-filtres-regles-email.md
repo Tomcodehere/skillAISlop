@@ -8,7 +8,7 @@ mot_cle: "filtres & règles email"
 nom_court: "Filtres email"
 branche: "D25"
 synonymes: []
-cross_refs: [463, 465]
+cross_refs: [463, 465, 51]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

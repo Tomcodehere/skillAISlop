@@ -8,7 +8,7 @@ mot_cle: "e-réputation"
 nom_court: "E-réputation"
 branche: "D20"
 synonymes: ["avis google maps"]
-cross_refs: [55, 282]
+cross_refs: [55, 282, 747]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

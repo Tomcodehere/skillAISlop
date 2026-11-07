@@ -8,7 +8,8 @@ mot_cle: "parentalité"
 nom_court: "Parentalité"
 branche: "D27"
 synonymes: ["parentalité", "punir"]
-cross_refs: [132, 483]
+cross_refs: [132, 483, 629]
+depends_on: [629]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

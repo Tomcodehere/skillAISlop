@@ -8,8 +8,9 @@ mot_cle: "rétrospective"
 nom_court: "Rétro"
 branche: "D13"
 synonymes: ["retro", "retrospective"]
-cross_refs: [24, 74]
+cross_refs: [24, 74, 846]
 tags: ["aihero:retro"]
+depends_on: [846]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

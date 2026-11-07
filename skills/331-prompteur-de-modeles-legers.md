@@ -8,7 +8,8 @@ mot_cle: "modèles légers"
 nom_court: "Modèles légers"
 branche: "D14"
 synonymes: []
-cross_refs: [100, 265]
+cross_refs: [100, 265, 903]
+depends_on: [903]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

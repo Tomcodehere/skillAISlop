@@ -8,8 +8,9 @@ mot_cle: "content-approval-evidence"
 nom_court: "Content Approval Evidence"
 branche: "D17"
 synonymes: ["demande", "portant", "content"]
-cross_refs: [105]
+cross_refs: [105, 395, 1061]
 tags: ["2027"]
+depends_on: [1061]
 ---
 
 ## 1084. 🔬 Content Approval Evidence

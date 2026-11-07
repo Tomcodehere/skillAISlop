@@ -8,7 +8,7 @@ mot_cle: "application-synchronization-conflict-policy"
 nom_court: "Application Synchronization Co"
 branche: "D25"
 synonymes: ["demande", "portant", "application"]
-cross_refs: [1273]
+cross_refs: [1273, 1042, 1093]
 tags: ["2027"]
 ---
 

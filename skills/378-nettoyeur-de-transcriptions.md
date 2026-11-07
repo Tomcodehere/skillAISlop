@@ -8,7 +8,7 @@ mot_cle: "transcriptions"
 nom_court: "Transcriptions"
 branche: "D18"
 synonymes: ["transcription", "transcrire"]
-cross_refs: [134, 355]
+cross_refs: [134, 355, 388]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

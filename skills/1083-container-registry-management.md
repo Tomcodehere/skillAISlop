@@ -8,7 +8,7 @@ mot_cle: "container-registry-management"
 nom_court: "Container Registry Management"
 branche: "D1"
 synonymes: ["image", "registry", "configure"]
-cross_refs: [1216]
+cross_refs: [1216, 1220, 1063]
 tags: ["2027", "aihero:pr"]
 ---
 

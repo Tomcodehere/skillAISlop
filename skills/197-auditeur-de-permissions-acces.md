@@ -8,7 +8,8 @@ mot_cle: "permissions & accès"
 nom_court: "Permissions"
 branche: "D23"
 synonymes: []
-cross_refs: [70, 191]
+cross_refs: [70, 191, 445]
+depends_on: [445]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

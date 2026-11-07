@@ -8,7 +8,7 @@ mot_cle: "plantes d'intérieur"
 nom_court: "Plantes"
 branche: "D27"
 synonymes: ["arrosage", "plantes"]
-cross_refs: [229, 291]
+cross_refs: [229, 291, 883]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

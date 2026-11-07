@@ -8,8 +8,9 @@ mot_cle: "location saisonnière"
 nom_court: "Location saisonnière"
 branche: "D29"
 synonymes: ["arnaque airbnb"]
-cross_refs: [851, 676]
+cross_refs: [851, 676, 554]
 tags: ["2027"]
+depends_on: [676]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

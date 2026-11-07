@@ -8,7 +8,7 @@ mot_cle: "cauchemars"
 nom_court: "Cauchemars"
 branche: "D27"
 synonymes: ["réveils nocturnes"]
-cross_refs: [483, 511]
+cross_refs: [483, 511, 620]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

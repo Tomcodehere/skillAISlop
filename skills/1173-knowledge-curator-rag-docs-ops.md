@@ -8,7 +8,7 @@ mot_cle: "knowledge-curator-rag-docs-ops"
 nom_court: "Knowledge Curator (RAG / Docs"
 branche: "D14"
 synonymes: ["reponses", "obsoletes", "hallucinees"]
-cross_refs: [1055]
+cross_refs: [1055, 330, 224]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,7 @@ mot_cle: "nouveau train europe 2027"
 nom_court: "Train Europe 2027"
 branche: "D26"
 synonymes: ["ligne munich rome"]
-cross_refs: [865, 913]
+cross_refs: [865, 913, 924]
 tags: ["2027"]
 ---
 

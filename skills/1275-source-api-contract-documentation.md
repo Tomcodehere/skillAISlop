@@ -8,8 +8,9 @@ mot_cle: "source-api-contract-documentation"
 nom_court: "Source API Contract Documentat"
 branche: "D1"
 synonymes: ["demande", "portant", "source"]
-cross_refs: [1309]
+cross_refs: [1309, 1075, 1112]
 tags: ["2027"]
+depends_on: [1075]
 ---
 
 ## 1275. 💻 Source API Contract Documentation

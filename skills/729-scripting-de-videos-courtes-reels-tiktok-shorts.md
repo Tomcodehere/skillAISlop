@@ -8,7 +8,8 @@ mot_cle: "script vidéo courte"
 nom_court: "Script short"
 branche: "D20"
 synonymes: ["script tiktok"]
-cross_refs: [29, 278]
+cross_refs: [29, 278, 258]
+depends_on: [29]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

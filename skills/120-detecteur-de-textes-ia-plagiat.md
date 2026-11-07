@@ -8,7 +8,7 @@ mot_cle: "textes ia & plagiat"
 nom_court: "Plagiat"
 branche: "D18"
 synonymes: []
-cross_refs: [8, 34]
+cross_refs: [8, 34, 191]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

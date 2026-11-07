@@ -8,8 +8,9 @@ mot_cle: "game-audio-mixing-loudness"
 nom_court: "Game Audio Mixing & Loudness"
 branche: "D22"
 synonymes: ["demande", "portant", "audio"]
-cross_refs: [143]
+cross_refs: [143, 1136, 1135]
 tags: ["2027"]
+depends_on: [1136]
 ---
 
 ## 1137. 🎨 Game Audio Mixing & Loudness

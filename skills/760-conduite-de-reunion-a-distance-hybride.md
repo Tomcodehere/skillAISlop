@@ -8,7 +8,8 @@ mot_cle: "réunion à distance"
 nom_court: "Visio efficace"
 branche: "D25"
 synonymes: ["visioconférence"]
-cross_refs: [209, 642]
+cross_refs: [209, 642, 877]
+depends_on: [877]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "audit session agent"
 nom_court: "Audit session"
 branche: "D14"
 synonymes: ["agenttrace"]
-cross_refs: [713, 694]
+cross_refs: [713, 694, 601]
 tags: ["2027"]
+depends_on: [693]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

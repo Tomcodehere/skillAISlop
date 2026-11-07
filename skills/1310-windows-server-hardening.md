@@ -8,8 +8,9 @@ mot_cle: "windows-server-hardening"
 nom_court: "Windows Server Hardening"
 branche: "D1"
 synonymes: ["securise", "windows", "server"]
-cross_refs: [1067]
+cross_refs: [1067, 1178, 1220]
 tags: ["2027"]
+depends_on: [1178]
 ---
 
 ## 1310. 💻 Windows Server Hardening

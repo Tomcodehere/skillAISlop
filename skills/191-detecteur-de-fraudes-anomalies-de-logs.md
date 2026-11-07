@@ -8,7 +8,7 @@ mot_cle: "fraudes & anomalies de logs"
 nom_court: "Fraudes"
 branche: "D23"
 synonymes: []
-cross_refs: [93, 197]
+cross_refs: [93, 197, 346]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "lecteur de heatmaps & sessions"
 nom_court: "Heatmaps"
 branche: "D17"
 synonymes: []
-cross_refs: [64, 162]
+cross_refs: [64, 162, 104]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

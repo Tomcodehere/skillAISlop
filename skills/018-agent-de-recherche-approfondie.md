@@ -8,8 +8,9 @@ mot_cle: "agent de recherche approfondie"
 nom_court: ""
 branche: "K"
 synonymes: ["etat de l'art", "recherche approfondie"]
-cross_refs: [32, 42]
+cross_refs: [32, 42, 708]
 tags: ["aihero:research"]
+depends_on: [708]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

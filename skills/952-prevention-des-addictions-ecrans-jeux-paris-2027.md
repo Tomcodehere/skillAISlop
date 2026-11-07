@@ -8,7 +8,7 @@ mot_cle: "addiction écrans jeux 2027"
 nom_court: "Prévention addiction"
 branche: "D27"
 synonymes: ["addiction paris en ligne"]
-cross_refs: [923, 813]
+cross_refs: [923, 813, 567]
 tags: ["2027"]
 ---
 

@@ -8,7 +8,8 @@ mot_cle: "assistant sql & modélisation de données"
 nom_court: "SQL"
 branche: "D12"
 synonymes: []
-cross_refs: [13, 36]
+cross_refs: [13, 36, 542]
+depends_on: [542]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "mariage écolo 2027"
 nom_court: "Mariage écolo"
 branche: "D26"
 synonymes: ["mariage pas cher 2027"]
-cross_refs: [863, 541]
+cross_refs: [863, 541, 658]
 tags: ["2027"]
+depends_on: [658]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "regex"
 nom_court: "Regex"
 branche: "D30"
 synonymes: ["regex"]
-cross_refs: [67, 91]
+cross_refs: [67, 91, 1196]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

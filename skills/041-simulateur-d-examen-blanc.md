@@ -8,7 +8,8 @@ mot_cle: "examen blanc"
 nom_court: "Examen"
 branche: "D5"
 synonymes: ["examen"]
-cross_refs: [5]
+cross_refs: [5, 769, 866]
+depends_on: [769]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

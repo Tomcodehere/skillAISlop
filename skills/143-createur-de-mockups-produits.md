@@ -8,7 +8,8 @@ mot_cle: "créateur de mockups produits"
 nom_court: "Mockups"
 branche: "D19"
 synonymes: ["mockup", "prototype"]
-cross_refs: [118, 139]
+cross_refs: [118, 139, 141]
+depends_on: [141]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

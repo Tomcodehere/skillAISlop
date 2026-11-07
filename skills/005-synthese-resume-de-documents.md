@@ -8,8 +8,9 @@ mot_cle: "synthèse & résumé de documents"
 nom_court: ""
 branche: "K"
 synonymes: ["condenser", "faire court", "résumer", "synthétiser"]
-cross_refs: [14, 24]
+cross_refs: [14, 24, 245]
 tags: ["aihero:handoff"]
+depends_on: [245]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

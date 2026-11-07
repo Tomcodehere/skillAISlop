@@ -8,7 +8,7 @@ mot_cle: "pré-déploiement"
 nom_court: "Pré-déploiement"
 branche: "D16"
 synonymes: ["not ready", "preflight"]
-cross_refs: [467, 508]
+cross_refs: [467, 508, 395]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

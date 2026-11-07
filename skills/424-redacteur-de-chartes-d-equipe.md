@@ -8,7 +8,8 @@ mot_cle: "chartes d'équipe"
 nom_court: "Chartes équipe"
 branche: "D25"
 synonymes: []
-cross_refs: [404, 463]
+cross_refs: [404, 463, 428]
+depends_on: [428]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

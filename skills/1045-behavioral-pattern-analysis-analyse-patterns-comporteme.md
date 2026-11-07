@@ -8,7 +8,7 @@ mot_cle: "behavioral-pattern-analysis-analyse-patterns-comportementaux"
 nom_court: "Behavioral Pattern Analysis (A"
 branche: "D22"
 synonymes: ["utilisateurs", "adoptent", "feature"]
-cross_refs: [1108]
+cross_refs: [1108, 460, 1114]
 tags: ["2027"]
 ---
 

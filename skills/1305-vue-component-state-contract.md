@@ -8,8 +8,9 @@ mot_cle: "vue-component-state-contract"
 nom_court: "Vue Component State Contract"
 branche: "D1"
 synonymes: ["demande", "portant", "component"]
-cross_refs: [809]
+cross_refs: [809, 1293, 1031]
 tags: ["2027"]
+depends_on: [1031]
 ---
 
 ## 1305. 💻 Vue Component State Contract

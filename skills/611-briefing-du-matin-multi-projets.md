@@ -8,7 +8,8 @@ mot_cle: "briefing du matin"
 nom_court: "Briefing du matin"
 branche: "D13"
 synonymes: ["briefing", "standup"]
-cross_refs: [209, 463]
+cross_refs: [209, 463, 701]
+depends_on: [701]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

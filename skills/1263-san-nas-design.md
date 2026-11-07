@@ -8,8 +8,9 @@ mot_cle: "san-nas-design"
 nom_court: "SAN/NAS Design"
 branche: "D1"
 synonymes: ["fibre", "channel", "iscsi"]
-cross_refs: [1098]
+cross_refs: [1098, 1067, 1281]
 tags: ["2027"]
+depends_on: [1067]
 ---
 
 ## 1263. 💻 SAN/NAS Design

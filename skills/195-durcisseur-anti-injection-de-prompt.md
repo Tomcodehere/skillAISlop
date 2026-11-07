@@ -8,7 +8,8 @@ mot_cle: "durcisseur anti-injection de prompt"
 nom_court: "Injection"
 branche: "D23"
 synonymes: []
-cross_refs: [37, 194]
+cross_refs: [37, 194, 692]
+depends_on: [692]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Cas d'usage

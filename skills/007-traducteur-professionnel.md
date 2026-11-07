@@ -8,7 +8,7 @@ mot_cle: "traducteur professionnel"
 nom_court: ""
 branche: "K"
 synonymes: ["traduction", "traduire"]
-cross_refs: [8]
+cross_refs: [8, 4, 1341]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

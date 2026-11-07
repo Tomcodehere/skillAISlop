@@ -8,7 +8,8 @@ mot_cle: "messages d'entreprise"
 nom_court: "Messages entreprise"
 branche: "D25"
 synonymes: []
-cross_refs: [403, 404]
+cross_refs: [403, 404, 359]
+depends_on: [404]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

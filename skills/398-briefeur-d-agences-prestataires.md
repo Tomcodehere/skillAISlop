@@ -8,7 +8,7 @@ mot_cle: "briefeur d'agences & prestataires"
 nom_court: "Briefs agences"
 branche: "D25"
 synonymes: []
-cross_refs: [370, 431]
+cross_refs: [370, 431, 152]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

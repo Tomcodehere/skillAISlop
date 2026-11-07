@@ -8,7 +8,7 @@ mot_cle: "réseau & wi-fi"
 nom_court: "Réseau"
 branche: "D23"
 synonymes: ["vpn", "wi-fi", "wifi"]
-cross_refs: [222, 247]
+cross_refs: [222, 247, 445]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

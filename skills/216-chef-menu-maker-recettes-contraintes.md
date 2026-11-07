@@ -8,7 +8,8 @@ mot_cle: "chef menu-maker (recettes contraintes)"
 nom_court: "Recettes"
 branche: "D26"
 synonymes: ["cuisiner", "menu", "recette"]
-cross_refs: [215, 229]
+cross_refs: [215, 229, 220]
+depends_on: [220]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

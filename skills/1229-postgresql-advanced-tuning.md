@@ -8,8 +8,9 @@ mot_cle: "postgresql-advanced-tuning"
 nom_court: "PostgreSQL Advanced Tuning"
 branche: "D1"
 synonymes: ["latence", "elevee", "requetes"]
-cross_refs: [253]
+cross_refs: [253, 318, 1231]
 tags: ["2027"]
+depends_on: [318]
 ---
 
 ## 1229. 💻 PostgreSQL Advanced Tuning

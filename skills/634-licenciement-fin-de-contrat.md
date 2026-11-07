@@ -8,7 +8,8 @@ mot_cle: "licenciement"
 nom_court: "Licenciement"
 branche: "D29"
 synonymes: ["rupture conventionnelle"]
-cross_refs: [555, 46]
+cross_refs: [555, 46, 950]
+depends_on: [950]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

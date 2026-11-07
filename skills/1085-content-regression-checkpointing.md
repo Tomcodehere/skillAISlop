@@ -8,8 +8,9 @@ mot_cle: "content-regression-checkpointing"
 nom_court: "Content Regression Checkpointi"
 branche: "D15"
 synonymes: ["audit", "mensuel", "grammaire"]
-cross_refs: [382]
+cross_refs: [382, 1152, 749]
 tags: ["2027"]
+depends_on: [1152]
 ---
 
 ## 1085. ✍️ Content Regression Checkpointing

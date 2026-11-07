@@ -8,7 +8,8 @@ mot_cle: "pages de vente"
 nom_court: "Pages de vente"
 branche: "D20"
 synonymes: ["landing page", "page d'atterrissage"]
-cross_refs: [3, 110]
+cross_refs: [3, 110, 367]
+depends_on: [367]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

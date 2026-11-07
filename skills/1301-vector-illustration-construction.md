@@ -8,7 +8,7 @@ mot_cle: "vector-illustration-construction"
 nom_court: "Vector Illustration Constructi"
 branche: "D19"
 synonymes: ["demande", "portant", "vector"]
-cross_refs: [141]
+cross_refs: [141, 1105, 150]
 tags: ["2027"]
 ---
 

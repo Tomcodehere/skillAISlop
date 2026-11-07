@@ -8,8 +8,9 @@ mot_cle: "etias 2027"
 nom_court: "ETIAS"
 branche: "D26"
 synonymes: ["autorisation voyage europe"]
-cross_refs: [865, 656]
+cross_refs: [865, 656, 42]
 tags: ["2027"]
+depends_on: [656]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

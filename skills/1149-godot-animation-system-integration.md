@@ -8,8 +8,9 @@ mot_cle: "godot-animation-system-integration"
 nom_court: "Godot Animation System Integra"
 branche: "D1"
 synonymes: ["demande", "portant", "godot"]
-cross_refs: [524]
+cross_refs: [524, 1052, 1050]
 tags: ["2027"]
+depends_on: [1052]
 ---
 
 ## 1149. 💻 Godot Animation System Integration

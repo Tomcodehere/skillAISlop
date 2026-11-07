@@ -8,7 +8,8 @@ mot_cle: "deepfakes"
 nom_court: "Deepfakes"
 branche: "D30"
 synonymes: ["deepfake", "désinformation"]
-cross_refs: [200, 530]
+cross_refs: [200, 530, 840]
+depends_on: [840]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

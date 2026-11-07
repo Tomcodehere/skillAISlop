@@ -8,7 +8,7 @@ mot_cle: "entretien annuel 2027"
 nom_court: "Entretien annuel"
 branche: "D6"
 synonymes: ["revue annuelle évaluation"]
-cross_refs: [876, 1345]
+cross_refs: [876, 1345, 632]
 tags: ["2027"]
 depends_on: [1345]
 ---

@@ -8,7 +8,8 @@ mot_cle: "tableau de bord personnel"
 nom_court: "Dashboard perso"
 branche: "D25"
 synonymes: []
-cross_refs: [489, 494]
+cross_refs: [489, 494, 36]
+depends_on: [464]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

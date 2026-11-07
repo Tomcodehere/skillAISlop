@@ -8,7 +8,7 @@ mot_cle: "security-remediation-verification"
 nom_court: "Security Remediation Verificat"
 branche: "D25"
 synonymes: ["demande", "portant", "security"]
-cross_refs: [928]
+cross_refs: [928, 700, 256]
 tags: ["2027"]
 ---
 

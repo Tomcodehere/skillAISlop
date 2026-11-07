@@ -8,7 +8,8 @@ mot_cle: "archiviste familial"
 nom_court: "Archiviste familial"
 branche: "D26"
 synonymes: []
-cross_refs: [480, 490]
+cross_refs: [480, 490, 589]
+depends_on: [589]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

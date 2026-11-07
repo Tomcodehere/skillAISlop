@@ -8,8 +8,9 @@ mot_cle: "ui-tone-of-voice-specification"
 nom_court: "UI Tone-of-Voice Specification"
 branche: "D22"
 synonymes: ["demande", "portant", "tone-of-voice"]
-cross_refs: [1131]
+cross_refs: [1131, 1305, 1236]
 tags: ["2027"]
+depends_on: [1236]
 ---
 
 ## 1293. 📦 UI Tone-of-Voice Specification

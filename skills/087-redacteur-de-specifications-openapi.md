@@ -8,7 +8,8 @@ mot_cle: "spécifications openapi"
 nom_court: "OpenAPI"
 branche: "D15"
 synonymes: []
-cross_refs: [79, 180]
+cross_refs: [79, 180, 254]
+depends_on: [254]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "indemnisation vol retardé 2027"
 nom_court: "Litige avion"
 branche: "D29"
 synonymes: ["vol annulé remboursement"]
-cross_refs: [865, 855]
+cross_refs: [865, 855, 981]
 tags: ["2027"]
+depends_on: [981]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

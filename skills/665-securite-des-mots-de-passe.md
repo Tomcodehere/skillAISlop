@@ -8,7 +8,8 @@ mot_cle: "mots de passe"
 nom_court: "Mots de passe"
 branche: "D23"
 synonymes: ["gestionnaire de mots de passe"]
-cross_refs: [501, 506]
+cross_refs: [501, 506, 1337]
+depends_on: [1337]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

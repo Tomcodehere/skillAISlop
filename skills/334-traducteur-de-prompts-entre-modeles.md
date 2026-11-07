@@ -8,7 +8,8 @@ mot_cle: "prompts entre modèles"
 nom_court: "Traducteur prompts"
 branche: "D14"
 synonymes: []
-cross_refs: [17, 338]
+cross_refs: [17, 338, 237]
+depends_on: [237]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

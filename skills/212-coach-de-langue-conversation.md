@@ -8,8 +8,9 @@ mot_cle: "langue (conversation)"
 nom_court: "Langues"
 branche: "D26"
 synonymes: []
-cross_refs: [7, 40]
+cross_refs: [7, 40, 671]
 tags: ["aihero:claude-handoff"]
+depends_on: [671]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

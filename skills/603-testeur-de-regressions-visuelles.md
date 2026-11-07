@@ -8,7 +8,7 @@ mot_cle: "régressions visuelles"
 nom_court: "Régressions visuelles"
 branche: "D16"
 synonymes: ["captures"]
-cross_refs: [252, 456]
+cross_refs: [252, 456, 389]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

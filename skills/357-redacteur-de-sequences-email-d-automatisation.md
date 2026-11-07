@@ -8,7 +8,8 @@ mot_cle: "séquences email d'automatisation"
 nom_court: "Séquences email"
 branche: "D20"
 synonymes: []
-cross_refs: [138, 179]
+cross_refs: [138, 179, 51]
+depends_on: [51]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

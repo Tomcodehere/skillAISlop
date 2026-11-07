@@ -8,7 +8,8 @@ mot_cle: "contrats commerciaux"
 nom_court: "Contrats commerciaux"
 branche: "D21"
 synonymes: []
-cross_refs: [45, 374]
+cross_refs: [45, 374, 750]
+depends_on: [164]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

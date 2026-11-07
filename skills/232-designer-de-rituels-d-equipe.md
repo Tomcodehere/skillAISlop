@@ -8,7 +8,8 @@ mot_cle: "rituels d'équipe"
 nom_court: "Rituels"
 branche: "D25"
 synonymes: []
-cross_refs: [73, 209]
+cross_refs: [73, 209, 428]
+depends_on: [428]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

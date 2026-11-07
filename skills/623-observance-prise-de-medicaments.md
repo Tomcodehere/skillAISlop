@@ -8,7 +8,7 @@ mot_cle: "observance"
 nom_court: "Observance"
 branche: "D27"
 synonymes: ["prise de médicaments"]
-cross_refs: [487, 511]
+cross_refs: [487, 511, 488]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

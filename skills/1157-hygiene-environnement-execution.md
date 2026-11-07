@@ -8,7 +8,7 @@ mot_cle: "hygiene-environnement-execution"
 nom_court: "Hygiene Environnement Executio"
 branche: "D17"
 synonymes: ["avant", "toute", "execution"]
-cross_refs: [1185]
+cross_refs: [1185, 305, 1252]
 tags: ["2027"]
 ---
 

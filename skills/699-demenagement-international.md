@@ -8,7 +8,8 @@ mot_cle: "déménagement international"
 nom_court: "Déménagement international"
 branche: "D26"
 synonymes: ["douane déménagement", "conteneur maritime"]
-cross_refs: [684, 653]
+cross_refs: [684, 653, 991]
+depends_on: [991]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

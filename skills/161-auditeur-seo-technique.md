@@ -8,7 +8,8 @@ mot_cle: "auditeur seo technique"
 nom_court: "SEO"
 branche: "D20"
 synonymes: ["référencement", "seo"]
-cross_refs: [1, 36]
+cross_refs: [1, 36, 748]
+depends_on: [748]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

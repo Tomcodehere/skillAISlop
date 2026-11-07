@@ -8,8 +8,9 @@ mot_cle: "documents longs"
 nom_court: "Longs"
 branche: "D18"
 synonymes: []
-cross_refs: [5, 27]
+cross_refs: [5, 27, 117]
 tags: ["aihero:chief-of-staff"]
+depends_on: [117]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

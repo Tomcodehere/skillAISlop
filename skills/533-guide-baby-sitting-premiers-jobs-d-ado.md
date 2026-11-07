@@ -8,7 +8,8 @@ mot_cle: "baby-sitting"
 nom_court: "Baby-sitting"
 branche: "D27"
 synonymes: ["baby", "sitter"]
-cross_refs: [43, 132]
+cross_refs: [43, 132, 628]
+depends_on: [628]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

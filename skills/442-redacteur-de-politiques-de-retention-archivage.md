@@ -8,7 +8,8 @@ mot_cle: "politiques de rétention & archivage"
 nom_court: "Archivage"
 branche: "D23"
 synonymes: []
-cross_refs: [189, 443]
+cross_refs: [189, 443, 446]
+depends_on: [446]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "veille technologique"
 nom_court: "Veille tech"
 branche: "D17"
 synonymes: ["veille ia"]
-cross_refs: [105, 18]
+cross_refs: [105, 18, 1329]
+depends_on: [105]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

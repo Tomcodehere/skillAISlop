@@ -8,7 +8,8 @@ mot_cle: "alt-text & descriptions d'images"
 nom_court: "Alt-text"
 branche: "D18"
 synonymes: []
-cross_refs: [377, 454]
+cross_refs: [377, 454, 68]
+depends_on: [385]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

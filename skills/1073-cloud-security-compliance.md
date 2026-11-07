@@ -8,8 +8,9 @@ mot_cle: "cloud-security-compliance"
 nom_court: "Cloud Security & Compliance"
 branche: "D1"
 synonymes: ["verifie", "conformite", "audit"]
-cross_refs: [1104]
+cross_refs: [1104, 1067, 507]
 tags: ["2027"]
+depends_on: [1067]
 ---
 
 ## 1073. 💻 Cloud Security & Compliance

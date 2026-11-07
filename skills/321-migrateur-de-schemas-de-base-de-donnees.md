@@ -8,7 +8,8 @@ mot_cle: "schémas de base de données"
 nom_court: "Schémas BDD"
 branche: "D15"
 synonymes: []
-cross_refs: [86, 318]
+cross_refs: [86, 318, 542]
+depends_on: [542]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

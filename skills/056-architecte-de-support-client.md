@@ -8,7 +8,8 @@ mot_cle: "support client"
 nom_court: "Support"
 branche: "D9"
 synonymes: []
-cross_refs: [24, 49]
+cross_refs: [24, 49, 904]
+depends_on: [797]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

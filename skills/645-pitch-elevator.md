@@ -8,7 +8,7 @@ mot_cle: "pitch elevator"
 nom_court: "Pitch elevator"
 branche: "D6"
 synonymes: ["se présenter brièvement"]
-cross_refs: [293, 75]
+cross_refs: [293, 75, 776]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

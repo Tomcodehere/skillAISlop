@@ -8,7 +8,8 @@ mot_cle: "mocks d'api"
 nom_court: "Mocks"
 branche: "D15"
 synonymes: []
-cross_refs: [87, 178]
+cross_refs: [87, 178, 317]
+depends_on: [87]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

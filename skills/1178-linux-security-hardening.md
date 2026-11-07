@@ -8,8 +8,9 @@ mot_cle: "linux-security-hardening"
 nom_court: "Linux Security Hardening"
 branche: "D1"
 synonymes: ["securise", "linux", "hardening"]
-cross_refs: [9]
+cross_refs: [9, 1310, 1104]
 tags: ["2027"]
+depends_on: [1310]
 ---
 
 ## 1178. 💻 Linux Security Hardening

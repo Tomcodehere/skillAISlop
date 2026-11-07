@@ -8,7 +8,8 @@ mot_cle: "posts sociaux"
 nom_court: "Social"
 branche: "D3"
 synonymes: ["post instagram", "réseaux sociaux", "social media"]
-cross_refs: [31]
+cross_refs: [31, 726, 162]
+depends_on: [726]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

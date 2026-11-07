@@ -8,7 +8,7 @@ mot_cle: "vocabulaire thématique"
 nom_court: "Vocabulaire"
 branche: "D26"
 synonymes: []
-cross_refs: [492, 496]
+cross_refs: [492, 496, 218]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

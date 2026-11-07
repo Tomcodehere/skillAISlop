@@ -8,8 +8,9 @@ mot_cle: "claim-source-evidence-matrix"
 nom_court: "Claim-Source Evidence Matrix"
 branche: "D17"
 synonymes: ["demande", "portant", "claim-source"]
-cross_refs: [967]
+cross_refs: [967, 1001, 1207]
 tags: ["2027"]
+depends_on: [1001]
 ---
 
 ## 1066. 🔬 Claim-Source Evidence Matrix

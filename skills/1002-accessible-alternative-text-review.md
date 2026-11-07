@@ -8,8 +8,9 @@ mot_cle: "accessible-alternative-text-review"
 nom_court: "Accessible Alternative Text Re"
 branche: "D14"
 synonymes: ["demande", "portant", "accessible"]
-cross_refs: [98]
+cross_refs: [98, 1130, 1076]
 tags: ["2027"]
+depends_on: [1130]
 ---
 
 ## 1002. 🧠 Accessible Alternative Text Review

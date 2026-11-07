@@ -8,7 +8,7 @@ mot_cle: "i-have-adhd-output-mode-neurodivergent"
 nom_court: "I Have ADHD (Output Mode Neuro"
 branche: "D25"
 synonymes: ["i-have-adhd", "ultra", "clair"]
-cross_refs: [287]
+cross_refs: [287, 616, 1157]
 tags: ["2027"]
 ---
 

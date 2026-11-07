@@ -8,7 +8,8 @@ mot_cle: "plans de test manuels"
 nom_court: "Plans de test"
 branche: "D16"
 synonymes: ["critères d'acceptation"]
-cross_refs: [67, 178]
+cross_refs: [67, 178, 494]
+depends_on: [178]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "pipelines de données"
 nom_court: "Pipelines"
 branche: "D15"
 synonymes: []
-cross_refs: [71, 107]
+cross_refs: [71, 107, 95]
+depends_on: [95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "photographie"
 nom_court: "Photo"
 branche: "D28"
 synonymes: ["cadrage", "photographie"]
-cross_refs: [42, 574]
+cross_refs: [42, 574, 567]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

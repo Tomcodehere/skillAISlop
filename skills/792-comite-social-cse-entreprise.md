@@ -8,7 +8,7 @@ mot_cle: "cse"
 nom_court: "CSE"
 branche: "D24"
 synonymes: ["comité social"]
-cross_refs: [207, 413]
+cross_refs: [207, 413, 366]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

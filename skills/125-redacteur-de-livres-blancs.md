@@ -8,7 +8,7 @@ mot_cle: "livres blancs"
 nom_court: "Livres blancs"
 branche: "D20"
 synonymes: []
-cross_refs: [116, 174]
+cross_refs: [116, 174, 130]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "bash-exit-and-signal-safety"
 nom_court: "Bash Exit and Signal Safety"
 branche: "D1"
 synonymes: ["demande", "portant", "signal"]
-cross_refs: [1183]
+cross_refs: [1183, 9, 1264]
 tags: ["2027"]
 ---
 

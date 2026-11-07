@@ -8,7 +8,8 @@ mot_cle: "droit à l'image"
 nom_court: "Droit image"
 branche: "D29"
 synonymes: ["photographier"]
-cross_refs: [137, 189]
+cross_refs: [137, 189, 667]
+depends_on: [667]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "vérifier un influenceur"
 nom_court: "Vérif influenceur"
 branche: "D20"
 synonymes: ["arnaque influenceur"]
-cross_refs: [647, 709]
+cross_refs: [647, 709, 967]
 tags: ["2027"]
+depends_on: [967]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

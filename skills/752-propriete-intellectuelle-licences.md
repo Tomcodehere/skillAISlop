@@ -8,7 +8,7 @@ mot_cle: "propriété intellectuelle"
 nom_court: "PI"
 branche: "D29"
 synonymes: ["droit d'auteur"]
-cross_refs: [553, 120]
+cross_refs: [553, 120, 1170]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

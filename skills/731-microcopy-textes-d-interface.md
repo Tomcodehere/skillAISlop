@@ -8,7 +8,8 @@ mot_cle: "microcopy ui"
 nom_court: "Microcopy UI"
 branche: "D22"
 synonymes: ["texte bouton"]
-cross_refs: [65, 450]
+cross_refs: [65, 450, 1172]
+depends_on: [65]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

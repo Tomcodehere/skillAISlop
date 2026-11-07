@@ -8,7 +8,7 @@ mot_cle: "dépôt git"
 nom_court: "Jardinier Git"
 branche: "D15"
 synonymes: []
-cross_refs: [68, 301]
+cross_refs: [68, 301, 312]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

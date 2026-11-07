@@ -8,8 +8,9 @@ mot_cle: "conflit salarial"
 nom_court: "Conflit salarial"
 branche: "D29"
 synonymes: ["grève entreprise"]
-cross_refs: [762, 410]
+cross_refs: [762, 410, 649]
 tags: ["2027"]
+depends_on: [649]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

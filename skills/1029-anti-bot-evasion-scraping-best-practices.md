@@ -8,8 +8,9 @@ mot_cle: "anti-bot-evasion-scraping-best-practices"
 nom_court: "Anti-Bot Evasion & Scraping Be"
 branche: "D1"
 synonymes: ["anti-bot", "limiting", "rotation"]
-cross_refs: [91]
+cross_refs: [91, 1220, 909]
 tags: ["2027"]
+depends_on: [1220]
 ---
 
 ## 1029. 💻 Anti-Bot Evasion & Scraping Best Practices

@@ -8,7 +8,8 @@ mot_cle: "jeux de stratégie"
 nom_court: "Stratégie jeux"
 branche: "D28"
 synonymes: ["échec", "échecs"]
-cross_refs: [228, 496]
+cross_refs: [228, 496, 58]
+depends_on: [228]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

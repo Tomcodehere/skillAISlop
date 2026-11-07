@@ -8,7 +8,7 @@ mot_cle: "prompt-versioning-testing"
 nom_court: "Prompt Versioning & Testing"
 branche: "D1"
 synonymes: ["modification", "substantielle", "prompt"]
-cross_refs: [17, 110]
+cross_refs: [17, 110, 1241]
 tags: ["2027"]
 ---
 

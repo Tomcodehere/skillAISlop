@@ -8,7 +8,7 @@ mot_cle: "correctifs & cve"
 nom_court: "Correctifs"
 branche: "D23"
 synonymes: ["correctifs", "cve"]
-cross_refs: [267, 507]
+cross_refs: [267, 507, 454]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

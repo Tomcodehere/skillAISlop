@@ -8,8 +8,9 @@ mot_cle: "ai-ethical-impact-decision-record"
 nom_court: "AI Ethical Impact Decision Rec"
 branche: "D14"
 synonymes: ["demande", "portant", "ethical"]
-cross_refs: [98]
+cross_refs: [98, 1119, 1016]
 tags: ["2027"]
+depends_on: [1119]
 ---
 
 ## 1018. 🧠 AI Ethical Impact Decision Record

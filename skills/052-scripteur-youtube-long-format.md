@@ -8,8 +8,9 @@ mot_cle: "scripteur youtube long format"
 nom_court: "YouTube"
 branche: "D8"
 synonymes: []
-cross_refs: [29, 53]
+cross_refs: [29, 53, 385]
 tags: ["aihero:chief-of-staff"]
+depends_on: [29]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "ai-system-architecture-design"
 nom_court: "AI System Architecture Design"
 branche: "D1"
 synonymes: []
-cross_refs: [1077]
+cross_refs: [1077, 181, 88]
 tags: ["2027"]
+depends_on: [88]
 ---
 
 ## 1026. 💻 AI System Architecture Design

@@ -8,7 +8,8 @@ mot_cle: "business plan"
 nom_court: "Business plan"
 branche: "D10"
 synonymes: ["prévisionnel 3 ans"]
-cross_refs: [57, 170]
+cross_refs: [57, 170, 898]
+depends_on: [57]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

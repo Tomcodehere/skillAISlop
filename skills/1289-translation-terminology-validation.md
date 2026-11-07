@@ -8,7 +8,7 @@ mot_cle: "translation-terminology-validation"
 nom_court: "Translation Terminology Valida"
 branche: "D22"
 synonymes: ["demande", "portant", "translation"]
-cross_refs: [1204]
+cross_refs: [1204, 1286, 1181]
 tags: ["2027"]
 ---
 

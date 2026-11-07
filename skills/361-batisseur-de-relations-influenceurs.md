@@ -8,7 +8,7 @@ mot_cle: "relations influenceurs"
 nom_court: "Influenceurs"
 branche: "D20"
 synonymes: ["relation presse"]
-cross_refs: [53, 364]
+cross_refs: [53, 364, 200]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

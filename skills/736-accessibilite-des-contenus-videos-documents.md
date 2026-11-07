@@ -8,7 +8,8 @@ mot_cle: "contenu accessible"
 nom_court: "Contenu accessible"
 branche: "D22"
 synonymes: ["sous-titres vidéo"]
-cross_refs: [158, 686]
+cross_refs: [158, 686, 454]
+depends_on: [454]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

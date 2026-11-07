@@ -8,7 +8,8 @@ mot_cle: "optimiser mon agenda"
 nom_court: "Agenda optimisé"
 branche: "D25"
 synonymes: ["protéger mon focus"]
-cross_refs: [72, 465]
+cross_refs: [72, 465, 1326]
+depends_on: [1326]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

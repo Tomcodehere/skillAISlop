@@ -8,7 +8,8 @@ mot_cle: "autorisation photo"
 nom_court: "Droit à l'image"
 branche: "D29"
 synonymes: ["photo de quelqu'un", "publier une photo"]
-cross_refs: [531, 189]
+cross_refs: [531, 189, 574]
+depends_on: [531]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

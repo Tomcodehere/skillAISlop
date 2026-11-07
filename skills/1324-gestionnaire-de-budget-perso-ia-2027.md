@@ -8,8 +8,9 @@ mot_cle: "budget perso ia 2027"
 nom_court: "Budget IA"
 branche: "D29"
 synonymes: ["gestionnaire dépenses ia"]
-cross_refs: [541, 297]
+cross_refs: [541, 297, 43]
 tags: ["2027"]
+depends_on: [541]
 ---
 
 ## 1324. 🧮 Gestionnaire de budget perso IA (2027)

@@ -8,7 +8,8 @@ mot_cle: "calendrier éditorial"
 nom_court: "Calendrier éditorial"
 branche: "D20"
 synonymes: ["planifier mes contenus"]
-cross_refs: [135, 53]
+cross_refs: [135, 53, 463]
+depends_on: [135]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

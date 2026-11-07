@@ -8,8 +8,9 @@ mot_cle: "sales-pipeline-opportunity-management"
 nom_court: "Sales Pipeline & Opportunity M"
 branche: "D1"
 synonymes: ["definir", "etapes", "pipeline"]
-cross_refs: [311]
+cross_refs: [311, 1078, 1264]
 tags: ["2027"]
+depends_on: [1078]
 ---
 
 ## 1262. 💻 Sales Pipeline & Opportunity Management

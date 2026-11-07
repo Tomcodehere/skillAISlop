@@ -8,7 +8,7 @@ mot_cle: "charge mentale"
 nom_court: "Charge mentale"
 branche: "D27"
 synonymes: ["charge mentale parentale"]
-cross_refs: [26, 489]
+cross_refs: [26, 489, 1077]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

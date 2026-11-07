@@ -8,7 +8,7 @@ mot_cle: "data-storytelling-insights-communication"
 nom_court: "Data Storytelling & Insights C"
 branche: "D14"
 synonymes: ["presentation", "resultats", "analyse"]
-cross_refs: [1059]
+cross_refs: [1059, 1277, 108]
 tags: ["2027"]
 ---
 

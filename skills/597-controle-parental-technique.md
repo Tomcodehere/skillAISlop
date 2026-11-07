@@ -8,7 +8,8 @@ mot_cle: "contrôle parental"
 nom_court: "Contrôle parental"
 branche: "D27"
 synonymes: ["filtrage"]
-cross_refs: [247, 520]
+cross_refs: [247, 520, 871]
+depends_on: [871]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

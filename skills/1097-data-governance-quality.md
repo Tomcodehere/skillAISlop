@@ -8,8 +8,9 @@ mot_cle: "data-governance-quality"
 nom_court: "Data Governance & Quality"
 branche: "D14"
 synonymes: ["incoherents", "incidents", "repetes"]
-cross_refs: [1058]
+cross_refs: [1058, 1099, 1095]
 tags: ["2027"]
+depends_on: [1095]
 ---
 
 ## 1097. 🤖 Data Governance & Quality

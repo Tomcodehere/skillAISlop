@@ -8,8 +8,9 @@ mot_cle: "road trip moto 2027"
 nom_court: "Moto 2027"
 branche: "D26"
 synonymes: ["voyage moto 2027"]
-cross_refs: [866, 984]
+cross_refs: [866, 984, 989]
 tags: ["2027"]
+depends_on: [984]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

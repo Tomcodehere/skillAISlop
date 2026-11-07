@@ -8,8 +8,9 @@ mot_cle: "agent vocal"
 nom_court: "Agent vocal"
 branche: "D14"
 synonymes: ["voicebox"]
-cross_refs: [288, 154]
+cross_refs: [288, 154, 335]
 tags: ["2027"]
+depends_on: [288]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

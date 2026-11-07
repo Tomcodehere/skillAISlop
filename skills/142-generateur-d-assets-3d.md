@@ -8,7 +8,8 @@ mot_cle: "assets 3d"
 nom_court: "3D"
 branche: "D19"
 synonymes: []
-cross_refs: [139, 143]
+cross_refs: [139, 143, 718]
+depends_on: [718]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

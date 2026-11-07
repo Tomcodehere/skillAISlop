@@ -8,7 +8,7 @@ mot_cle: "biens du foyer"
 nom_court: "Inventaire foyer"
 branche: "D26"
 synonymes: ["assurance habitation"]
-cross_refs: [472, 474]
+cross_refs: [472, 474, 991]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

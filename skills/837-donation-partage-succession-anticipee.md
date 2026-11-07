@@ -8,8 +8,9 @@ mot_cle: "préparer sa succession"
 nom_court: "Succession préparée"
 branche: "D29"
 synonymes: ["donation partage"]
-cross_refs: [651, 812]
+cross_refs: [651, 812, 409]
 tags: ["2027"]
+depends_on: [651]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "déco 2027 vert saule"
 nom_court: "Déco 2027"
 branche: "D26"
 synonymes: ["tendance déco 2027"]
-cross_refs: [926, 141]
+cross_refs: [926, 141, 490]
 tags: ["2027"]
 ---
 

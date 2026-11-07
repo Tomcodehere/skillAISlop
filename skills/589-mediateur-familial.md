@@ -8,7 +8,8 @@ mot_cle: "médiation familiale"
 nom_court: "Médiation famille"
 branche: "D27"
 synonymes: ["fratrie"]
-cross_refs: [46, 246]
+cross_refs: [46, 246, 481]
+depends_on: [481]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

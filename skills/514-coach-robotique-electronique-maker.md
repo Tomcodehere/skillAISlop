@@ -8,7 +8,7 @@ mot_cle: "robotique maker"
 nom_court: "Robotique"
 branche: "D30"
 synonymes: ["arduino", "raspberry", "robotique"]
-cross_refs: [9, 222]
+cross_refs: [9, 222, 525]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

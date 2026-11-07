@@ -8,7 +8,7 @@ mot_cle: "scene-and-signal-architecture"
 nom_court: "Scene and Signal Architecture"
 branche: "D1"
 synonymes: ["demande", "portant", "scene"]
-cross_refs: [10]
+cross_refs: [10, 1149, 1111]
 tags: ["2027"]
 ---
 

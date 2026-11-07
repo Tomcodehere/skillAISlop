@@ -8,8 +8,9 @@ mot_cle: "ml-error-cohort-analysis"
 nom_court: "ML Error Cohort Analysis"
 branche: "D14"
 synonymes: ["demande", "portant", "error"]
-cross_refs: [1138]
+cross_refs: [1138, 1232, 93]
 tags: ["2027"]
+depends_on: [1232]
 ---
 
 ## 1191. 🧠 ML Error Cohort Analysis

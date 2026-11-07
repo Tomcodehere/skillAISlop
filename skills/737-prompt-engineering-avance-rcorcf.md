@@ -8,7 +8,8 @@ mot_cle: "prompt structuré"
 nom_court: "Prompt structuré"
 branche: "D14"
 synonymes: ["rcorcf"]
-cross_refs: [17, 334]
+cross_refs: [17, 334, 817]
+depends_on: [817]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

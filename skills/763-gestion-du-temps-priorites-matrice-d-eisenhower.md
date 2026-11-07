@@ -8,7 +8,8 @@ mot_cle: "prioriser mes tâches"
 nom_court: "Priorisation"
 branche: "D25"
 synonymes: ["matrice eisenhower"]
-cross_refs: [26, 72]
+cross_refs: [26, 72, 475]
+depends_on: [475]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

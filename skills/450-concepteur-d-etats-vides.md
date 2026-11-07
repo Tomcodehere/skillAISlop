@@ -8,7 +8,8 @@ mot_cle: "états vides"
 nom_court: "États vides"
 branche: "D22"
 synonymes: []
-cross_refs: [390, 453]
+cross_refs: [390, 453, 1208]
+depends_on: [1208]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "créateur d'illustrations vectorielles"
 nom_court: "Vectoriel"
 branche: "D19"
 synonymes: ["illustration", "logo", "vectoriel"]
-cross_refs: [34, 149]
+cross_refs: [34, 149, 143]
+depends_on: [143]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

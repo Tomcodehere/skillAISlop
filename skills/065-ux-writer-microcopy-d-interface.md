@@ -8,7 +8,8 @@ mot_cle: "ux writer (microcopy d'interface)"
 nom_court: "Microcopy"
 branche: "D11"
 synonymes: []
-cross_refs: [64, 66]
+cross_refs: [64, 66, 731]
+depends_on: [731]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

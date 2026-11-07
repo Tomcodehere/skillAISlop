@@ -8,7 +8,7 @@ mot_cle: "moteur de repurposing de contenu"
 nom_court: "Repurposing"
 branche: "D8"
 synonymes: []
-cross_refs: []
+cross_refs: [389, 280, 901]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

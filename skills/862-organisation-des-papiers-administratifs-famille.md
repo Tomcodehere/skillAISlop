@@ -8,8 +8,9 @@ mot_cle: "classer ses papiers"
 nom_court: "Papiers admin"
 branche: "D25"
 synonymes: ["archivage familial"]
-cross_refs: [472, 664]
+cross_refs: [472, 664, 1338]
 tags: ["2027"]
+depends_on: [1338]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

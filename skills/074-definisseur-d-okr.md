@@ -8,7 +8,7 @@ mot_cle: "définisseur d'okr"
 nom_court: "OKR"
 branche: "D10"
 synonymes: ["objectifs trimestriels", "okr"]
-cross_refs: [36, 73]
+cross_refs: [36, 73, 351]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

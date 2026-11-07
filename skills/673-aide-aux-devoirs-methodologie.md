@@ -8,7 +8,8 @@ mot_cle: "méthodologie de travail"
 nom_court: "Méthodologie"
 branche: "D28"
 synonymes: ["réviser efficacement"]
-cross_refs: [570, 498]
+cross_refs: [570, 498, 886]
+depends_on: [570]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "documents formatés"
 nom_court: "Traduction"
 branche: "D18"
 synonymes: []
-cross_refs: [7, 28]
+cross_refs: [7, 28, 116]
+depends_on: [116]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

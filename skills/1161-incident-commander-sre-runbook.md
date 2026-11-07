@@ -8,7 +8,7 @@ mot_cle: "incident-commander-sre-runbook"
 nom_court: "Incident Commander (SRE / Runb"
 branche: "D22"
 synonymes: ["incident", "degradation", "majeure"]
-cross_refs: [452]
+cross_refs: [452, 199, 754]
 tags: ["2027"]
 ---
 

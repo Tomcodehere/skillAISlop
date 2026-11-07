@@ -8,7 +8,8 @@ mot_cle: "optimisation seo"
 nom_court: "SEO contenu"
 branche: "D18"
 synonymes: ["référencement naturel"]
-cross_refs: [1, 377]
+cross_refs: [1, 377, 1085]
+depends_on: [1085]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "atelier de mémorisation & mnémotechnie"
 nom_court: "Mémorisation"
 branche: "D26"
 synonymes: ["memorisation", "memoriser", "retenir par coeur"]
-cross_refs: [496, 498]
+cross_refs: [496, 498, 1344]
+depends_on: [1344]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

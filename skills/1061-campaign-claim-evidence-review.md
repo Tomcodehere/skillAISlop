@@ -8,8 +8,9 @@ mot_cle: "campaign-claim-evidence-review"
 nom_court: "Campaign Claim Evidence Review"
 branche: "D17"
 synonymes: ["demande", "portant", "campaign"]
-cross_refs: [101]
+cross_refs: [101, 1084, 1298]
 tags: ["2027"]
+depends_on: [1084]
 ---
 
 ## 1061. 🔬 Campaign Claim Evidence Review

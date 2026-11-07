@@ -8,7 +8,7 @@ mot_cle: "lettres de recommandation"
 nom_court: "Recommandations"
 branche: "D24"
 synonymes: []
-cross_refs: [276, 407]
+cross_refs: [276, 407, 172]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

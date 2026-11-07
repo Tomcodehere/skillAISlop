@@ -8,7 +8,8 @@ mot_cle: "la gestion d'objections"
 nom_court: "Objections"
 branche: "D21"
 synonymes: []
-cross_refs: [49, 58]
+cross_refs: [49, 58, 742]
+depends_on: [742]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "generative-capability-benchmark-design"
 nom_court: "Generative Capability Benchmar"
 branche: "D14"
 synonymes: ["demande", "portant", "generative"]
-cross_refs: [1021]
+cross_refs: [1021, 689, 333]
 tags: ["2027"]
+depends_on: [689]
 ---
 
 ## 1145. 🧠 Generative Capability Benchmark Design

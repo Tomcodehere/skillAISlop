@@ -10,6 +10,7 @@ branche: "D14"
 synonymes: []
 cross_refs: [97, 256, 330]
 tags: ["aihero:code-review", "aihero:writing-for-agents"]
+depends_on: [340]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

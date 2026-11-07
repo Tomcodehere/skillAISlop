@@ -8,7 +8,8 @@ mot_cle: "cas limites & fuzzing"
 nom_court: "Fuzzing"
 branche: "D16"
 synonymes: []
-cross_refs: [67, 317]
+cross_refs: [67, 317, 9]
+depends_on: [9]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

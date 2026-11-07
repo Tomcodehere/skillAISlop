@@ -8,7 +8,7 @@ mot_cle: "application-migration-data-transfer"
 nom_court: "Application Migration Data Tra"
 branche: "D14"
 synonymes: ["migrer", "nouveau", "serveur"]
-cross_refs: [1233]
+cross_refs: [1233, 1095, 1097]
 tags: ["2027"]
 ---
 

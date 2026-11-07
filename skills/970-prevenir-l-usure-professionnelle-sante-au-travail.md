@@ -8,8 +8,9 @@ mot_cle: "usure professionnelle"
 nom_court: "Usure pro"
 branche: "D25"
 synonymes: ["tms bureau 2027"]
-cross_refs: [484, 937]
+cross_refs: [484, 937, 921]
 tags: ["2027"]
+depends_on: [484]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

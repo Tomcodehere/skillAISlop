@@ -8,7 +8,8 @@ mot_cle: "interdit bancaire"
 nom_court: "Interdit bancaire"
 branche: "D29"
 synonymes: ["fichage banque de france"]
-cross_refs: [528, 43]
+cross_refs: [528, 43, 982]
+depends_on: [982]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "prompt caveman"
 nom_court: "Caveman"
 branche: "D14"
 synonymes: ["réduire tokens ia"]
-cross_refs: [817, 694]
+cross_refs: [817, 694, 719]
 tags: ["2027"]
+depends_on: [719]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

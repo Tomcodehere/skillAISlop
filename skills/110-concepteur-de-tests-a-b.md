@@ -8,8 +8,9 @@ mot_cle: "tests a/b"
 nom_court: "A/B"
 branche: "D17"
 synonymes: ["a/b test", "split test", "testing"]
-cross_refs: [109, 162]
+cross_refs: [109, 162, 349]
 tags: ["aihero:tdd"]
+depends_on: [349]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

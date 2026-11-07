@@ -8,7 +8,7 @@ mot_cle: "product-opportunity-assessment"
 nom_court: "Product Opportunity Assessment"
 branche: "D1"
 synonymes: ["demande", "portant", "product"]
-cross_refs: [256]
+cross_refs: [256, 1237, 1236]
 tags: ["2027"]
 ---
 

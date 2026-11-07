@@ -8,7 +8,8 @@ mot_cle: "rgpd quotidien"
 nom_court: "RGPD perso"
 branche: "D23"
 synonymes: ["mes données personnelles", "gestion des cookies"]
-cross_refs: [189, 444]
+cross_refs: [189, 444, 196]
+depends_on: [189]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

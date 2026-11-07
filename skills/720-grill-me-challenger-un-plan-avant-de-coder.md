@@ -8,7 +8,8 @@ mot_cle: "challenger mon plan"
 nom_court: "Grill Me"
 branche: "D1"
 synonymes: ["critiquer mon approche"]
-cross_refs: [19, 61]
+cross_refs: [19, 61, 273]
+depends_on: [19]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

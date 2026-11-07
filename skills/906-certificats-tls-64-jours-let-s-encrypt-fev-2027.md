@@ -8,7 +8,7 @@ mot_cle: "certificat tls 64 jours"
 nom_court: "TLS 64j"
 branche: "D16"
 synonymes: ["lets encrypt 2027"]
-cross_refs: [507, 512]
+cross_refs: [507, 512, 918]
 tags: ["2027"]
 ---
 

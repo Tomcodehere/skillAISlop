@@ -8,7 +8,7 @@ mot_cle: "agent vocal support client"
 nom_court: "Voice agent support"
 branche: "D14"
 synonymes: ["standard ia 2027"]
-cross_refs: [808, 901]
+cross_refs: [808, 901, 288]
 tags: ["2027"]
 ---
 

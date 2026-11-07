@@ -8,7 +8,7 @@ mot_cle: "contrôleur qualité de skill.md"
 nom_court: "Audit skills"
 branche: "D14"
 synonymes: []
-cross_refs: [38, 250]
+cross_refs: [38, 250, 716]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

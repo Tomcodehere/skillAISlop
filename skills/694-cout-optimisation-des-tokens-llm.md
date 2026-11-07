@@ -8,7 +8,8 @@ mot_cle: "coût tokens llm"
 nom_court: "Coût LLM"
 branche: "D14"
 synonymes: ["optimiser les tokens"]
-cross_refs: [326, 265]
+cross_refs: [326, 265, 713]
+depends_on: [713]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

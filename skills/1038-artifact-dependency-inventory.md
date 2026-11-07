@@ -8,7 +8,7 @@ mot_cle: "artifact-dependency-inventory"
 nom_court: "Artifact Dependency Inventory"
 branche: "D25"
 synonymes: ["demande", "portant", "artifact"]
-cross_refs: [429]
+cross_refs: [429, 1197, 1255]
 tags: ["2027"]
 ---
 

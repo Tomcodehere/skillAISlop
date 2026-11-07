@@ -8,8 +8,9 @@ mot_cle: "organiser une fête"
 nom_court: "Fête familiale"
 branche: "D26"
 synonymes: ["organiser un mariage"]
-cross_refs: [565, 657]
+cross_refs: [565, 657, 987]
 tags: ["2027"]
+depends_on: [657]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "assistant email professionnel"
 nom_court: ""
 branche: "K"
 synonymes: []
-cross_refs: [24, 25]
+cross_refs: [24, 25, 1341]
 tags: ["aihero:wizard", "aihero:wait-what"]
+depends_on: [1341]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

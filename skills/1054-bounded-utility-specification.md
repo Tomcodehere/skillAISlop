@@ -8,8 +8,9 @@ mot_cle: "bounded-utility-specification"
 nom_court: "Bounded Utility Specification"
 branche: "D25"
 synonymes: ["demande", "portant", "bounded"]
-cross_refs: [1013]
+cross_refs: [1013, 1144, 1298]
 tags: ["2027"]
+depends_on: [1144]
 ---
 
 ## 1054. 📋 Bounded Utility Specification

@@ -8,7 +8,8 @@ mot_cle: "automatiseur de tâches web répétitives"
 nom_court: "Web répétitif"
 branche: "D15"
 synonymes: []
-cross_refs: [71, 91]
+cross_refs: [71, 91, 223]
+depends_on: [223]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

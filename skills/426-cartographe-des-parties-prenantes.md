@@ -8,7 +8,7 @@ mot_cle: "parties prenantes"
 nom_court: "Parties prenantes"
 branche: "D25"
 synonymes: []
-cross_refs: [405, 429]
+cross_refs: [405, 429, 1161]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

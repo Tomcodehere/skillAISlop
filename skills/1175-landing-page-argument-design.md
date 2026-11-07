@@ -8,8 +8,9 @@ mot_cle: "landing-page-argument-design"
 nom_court: "Landing Page Argument Design"
 branche: "D20"
 synonymes: ["demande", "portant", "landing"]
-cross_refs: [358]
+cross_refs: [358, 646, 123]
 tags: ["2027"]
+depends_on: [646]
 ---
 
 ## 1175. 📣 Landing Page Argument Design

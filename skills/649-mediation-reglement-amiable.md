@@ -8,7 +8,8 @@ mot_cle: "médiation"
 nom_court: "Médiation"
 branche: "D29"
 synonymes: ["règlement amiable"]
-cross_refs: [529, 590]
+cross_refs: [529, 590, 864]
+depends_on: [864]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

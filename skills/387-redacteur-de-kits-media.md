@@ -8,7 +8,8 @@ mot_cle: "kits média"
 nom_court: "Kits média"
 branche: "D18"
 synonymes: []
-cross_refs: [137, 386]
+cross_refs: [137, 386, 476]
+depends_on: [386]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,7 @@ mot_cle: "débogage systématique"
 nom_court: "Debug"
 branche: "D1"
 synonymes: ["bug", "debug", "erreur de code", "ça marche pas"]
-cross_refs: [10]
+cross_refs: [10, 320, 324]
 tags: ["aihero:diagnosing-bugs", "aihero:implement"]
 ---
 

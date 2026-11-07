@@ -8,7 +8,7 @@ mot_cle: "mémos décision"
 nom_court: "Mémos"
 branche: "D18"
 synonymes: []
-cross_refs: [5, 15]
+cross_refs: [5, 15, 844]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

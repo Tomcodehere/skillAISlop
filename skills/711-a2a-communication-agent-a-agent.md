@@ -8,7 +8,8 @@ mot_cle: "protocole a2a"
 nom_court: "A2A"
 branche: "D14"
 synonymes: ["agent-to-agent"]
-cross_refs: [77, 259]
+cross_refs: [77, 259, 330]
+depends_on: [330]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

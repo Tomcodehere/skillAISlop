@@ -8,7 +8,7 @@ mot_cle: "tri & priorisation d'emails"
 nom_court: "Inbox"
 branche: "D2"
 synonymes: []
-cross_refs: [4]
+cross_refs: [4, 138, 223]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

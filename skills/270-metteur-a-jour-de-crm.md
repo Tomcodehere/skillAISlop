@@ -8,7 +8,8 @@ mot_cle: "metteur à jour de crm"
 nom_court: "CRM"
 branche: "D21"
 synonymes: []
-cross_refs: [111, 167]
+cross_refs: [111, 167, 832]
+depends_on: [832]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

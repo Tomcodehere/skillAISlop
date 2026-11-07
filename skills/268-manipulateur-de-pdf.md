@@ -8,7 +8,7 @@ mot_cle: "manipulateur de pdf"
 nom_court: "PDF"
 branche: "D18"
 synonymes: []
-cross_refs: [5, 115]
+cross_refs: [5, 115, 107]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

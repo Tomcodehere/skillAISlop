@@ -8,7 +8,8 @@ mot_cle: "scripts de webinaire"
 nom_court: "Webinaires"
 branche: "D18"
 synonymes: []
-cross_refs: [295, 384]
+cross_refs: [295, 384, 324]
+depends_on: [384]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

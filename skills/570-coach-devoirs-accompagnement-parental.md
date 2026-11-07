@@ -8,7 +8,8 @@ mot_cle: "devoirs"
 nom_court: "Devoirs"
 branche: "D28"
 synonymes: ["devoirs"]
-cross_refs: [39, 520]
+cross_refs: [39, 520, 673]
+depends_on: [673]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

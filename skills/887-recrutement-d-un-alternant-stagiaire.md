@@ -8,8 +8,9 @@ mot_cle: "recruter un alternant"
 nom_court: "Alternant"
 branche: "D24"
 synonymes: ["contrat apprentissage"]
-cross_refs: [790, 411]
+cross_refs: [790, 411, 276]
 tags: ["2027"]
+depends_on: [790]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

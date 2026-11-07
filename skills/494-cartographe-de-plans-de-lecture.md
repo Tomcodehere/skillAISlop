@@ -8,7 +8,8 @@ mot_cle: "plans de lecture"
 nom_court: "Plans lecture"
 branche: "D26"
 synonymes: []
-cross_refs: [464, 498]
+cross_refs: [464, 498, 1344]
+depends_on: [1344]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

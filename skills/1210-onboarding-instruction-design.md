@@ -8,8 +8,9 @@ mot_cle: "onboarding-instruction-design"
 nom_court: "Onboarding Instruction Design"
 branche: "D22"
 synonymes: ["demande", "portant", "onboarding"]
-cross_refs: [203, 698]
+cross_refs: [203, 698, 456]
 tags: ["2027"]
+depends_on: [456]
 ---
 
 ## 1210. 🎨 Onboarding Instruction Design

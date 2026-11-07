@@ -8,7 +8,7 @@ mot_cle: "guide de visites immobilières"
 nom_court: "Immobilier"
 branche: "D26"
 synonymes: []
-cross_refs: [225, 298]
+cross_refs: [225, 298, 217]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

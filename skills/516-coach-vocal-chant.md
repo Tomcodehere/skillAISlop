@@ -8,7 +8,8 @@ mot_cle: "coach chant"
 nom_court: "Chant"
 branche: "D28"
 synonymes: ["chanter", "karaoké"]
-cross_refs: [75, 155]
+cross_refs: [75, 155, 517]
+depends_on: [517]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

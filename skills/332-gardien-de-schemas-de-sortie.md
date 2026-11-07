@@ -8,7 +8,7 @@ mot_cle: "schémas de sortie"
 nom_court: "Schémas sortie"
 branche: "D14"
 synonymes: []
-cross_refs: [99, 338]
+cross_refs: [99, 338, 321]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

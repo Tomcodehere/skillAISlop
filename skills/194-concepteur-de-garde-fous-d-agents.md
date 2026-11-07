@@ -8,7 +8,8 @@ mot_cle: "garde-fous d'agents"
 nom_court: "Garde-fous"
 branche: "D23"
 synonymes: []
-cross_refs: [100, 195]
+cross_refs: [100, 195, 330]
+depends_on: [908]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

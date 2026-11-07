@@ -8,7 +8,8 @@ mot_cle: "observabilité agents"
 nom_court: "Observabilité"
 branche: "D14"
 synonymes: ["traces llm"]
-cross_refs: [186, 694]
+cross_refs: [186, 694, 330]
+depends_on: [694]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

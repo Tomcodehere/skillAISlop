@@ -8,7 +8,8 @@ mot_cle: "activation produit"
 nom_court: "Activation"
 branche: "D22"
 synonymes: []
-cross_refs: [106, 109]
+cross_refs: [106, 109, 735]
+depends_on: [735]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,8 +8,9 @@ mot_cle: "streaming-data-processing"
 nom_court: "Streaming Data Processing"
 branche: "D1"
 synonymes: ["traitement", "evenements", "temps"]
-cross_refs: [576]
+cross_refs: [576, 1121, 1099]
 tags: ["2027"]
+depends_on: [1121]
 ---
 
 ## 1280. 💻 Streaming Data Processing

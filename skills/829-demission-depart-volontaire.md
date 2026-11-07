@@ -8,7 +8,7 @@ mot_cle: "démissionner"
 nom_court: "Démission"
 branche: "D6"
 synonymes: ["lettre de démission"]
-cross_refs: [634, 789]
+cross_refs: [634, 789, 774]
 tags: ["2027"]
 ---
 

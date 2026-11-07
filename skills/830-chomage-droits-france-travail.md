@@ -8,7 +8,7 @@ mot_cle: "chômage"
 nom_court: "Chômage"
 branche: "D29"
 synonymes: ["are pôle emploi"]
-cross_refs: [634, 829]
+cross_refs: [634, 829, 637]
 tags: ["2027"]
 ---
 

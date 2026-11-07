@@ -8,7 +8,7 @@ mot_cle: "bios & pages « à propos »"
 nom_court: "Bios"
 branche: "D18"
 synonymes: []
-cross_refs: [31, 44]
+cross_refs: [31, 44, 123]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

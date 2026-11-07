@@ -8,7 +8,8 @@ mot_cle: "vidéo programmatique"
 nom_court: "Vidéo code"
 branche: "D19"
 synonymes: ["remotion"]
-cross_refs: [258, 144]
+cross_refs: [258, 144, 145]
+depends_on: [258]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

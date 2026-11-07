@@ -8,7 +8,7 @@ mot_cle: "execution-commande-shell"
 nom_court: "Execution Commande Shell"
 branche: "D25"
 synonymes: ["execution", "commandes", "shell"]
-cross_refs: [527]
+cross_refs: [527, 1302, 1112]
 tags: ["2027"]
 ---
 

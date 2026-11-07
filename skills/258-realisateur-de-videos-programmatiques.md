@@ -8,7 +8,8 @@ mot_cle: "réalisateur de vidéos programmatiques"
 nom_court: "Vidéo programmatique"
 branche: "D19"
 synonymes: []
-cross_refs: [107, 144]
+cross_refs: [107, 144, 717]
+depends_on: [717]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

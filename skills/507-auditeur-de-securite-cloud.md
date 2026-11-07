@@ -8,7 +8,8 @@ mot_cle: "sécurité cloud"
 nom_court: "Cloud"
 branche: "D23"
 synonymes: ["sécurité cloud"]
-cross_refs: [85, 197]
+cross_refs: [85, 197, 841]
+depends_on: [841]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

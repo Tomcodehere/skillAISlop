@@ -8,8 +8,9 @@ mot_cle: "revue de pr auto"
 nom_court: "PR review auto"
 branche: "D12"
 synonymes: ["coderabbit", "agent hq"]
-cross_refs: [10, 68]
+cross_refs: [10, 68, 925]
 tags: ["2027"]
+depends_on: [925]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -8,7 +8,8 @@ mot_cle: "guide de démarches administratives"
 nom_court: "Démarches"
 branche: "D26"
 synonymes: ["demarches administratives", "papiers"]
-cross_refs: [16, 137]
+cross_refs: [16, 137, 664]
+depends_on: [664]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

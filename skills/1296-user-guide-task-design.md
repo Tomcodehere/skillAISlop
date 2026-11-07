@@ -8,7 +8,7 @@ mot_cle: "user-guide-task-design"
 nom_court: "User Guide Task Design"
 branche: "D22"
 synonymes: ["demande", "portant", "livrable"]
-cross_refs: [1271]
+cross_refs: [1271, 1175, 130]
 tags: ["2027"]
 ---
 

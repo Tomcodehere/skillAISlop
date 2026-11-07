@@ -8,7 +8,8 @@ mot_cle: "panier abandonné"
 nom_court: "Tunnel e-com"
 branche: "D20"
 synonymes: ["taux de conversion e-commerce"]
-cross_refs: [162, 586]
+cross_refs: [162, 586, 279]
+depends_on: [162]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

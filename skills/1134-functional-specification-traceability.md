@@ -8,8 +8,9 @@ mot_cle: "functional-specification-traceability"
 nom_court: "Functional Specification & Tra"
 branche: "D1"
 synonymes: ["specification", "fonctionnelle", "exigences"]
-cross_refs: [255]
+cross_refs: [255, 87, 1254]
 tags: ["2027"]
+depends_on: [87]
 ---
 
 ## 1134. 💻 Functional Specification & Traceability

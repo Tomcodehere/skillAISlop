@@ -8,7 +8,7 @@ mot_cle: "brainstorming structuré"
 nom_court: ""
 branche: "K"
 synonymes: []
-cross_refs: [19]
+cross_refs: [19, 274, 573]
 tags: ["aihero:writing-fragments"]
 ---
 

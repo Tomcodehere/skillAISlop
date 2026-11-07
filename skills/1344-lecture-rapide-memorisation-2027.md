@@ -8,8 +8,9 @@ mot_cle: "lecture rapide mémorisation"
 nom_court: "Lecture active"
 branche: "D7"
 synonymes: ["mémoriser un livre"]
-cross_refs: [1321, 465]
+cross_refs: [1321, 465, 494]
 tags: ["2027"]
+depends_on: [494]
 ---
 
 ## 1344. 📖 Lecture rapide & mémorisation (2027)

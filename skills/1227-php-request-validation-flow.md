@@ -8,8 +8,9 @@ mot_cle: "php-request-validation-flow"
 nom_court: "PHP Request Validation Flow"
 branche: "D1"
 synonymes: ["demande", "portant", "request"]
-cross_refs: [1117]
+cross_refs: [1117, 19, 1261]
 tags: ["2027", "aihero:pr"]
+depends_on: [19]
 ---
 
 ## 1227. 💻 PHP Request Validation Flow

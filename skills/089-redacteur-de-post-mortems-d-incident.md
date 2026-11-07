@@ -8,7 +8,7 @@ mot_cle: "post-mortems d'incident"
 nom_court: "Post-mortem"
 branche: "D16"
 synonymes: ["post-mortem", "postmortem"]
-cross_refs: [73, 199]
+cross_refs: [73, 199, 754]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Cas d'usage

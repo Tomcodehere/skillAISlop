@@ -8,7 +8,8 @@ mot_cle: "nettoyeur de données"
 nom_court: "Nettoyage"
 branche: "D15"
 synonymes: []
-cross_refs: [13, 91]
+cross_refs: [13, 91, 95]
+depends_on: [95]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

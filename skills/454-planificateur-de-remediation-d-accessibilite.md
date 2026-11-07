@@ -8,7 +8,8 @@ mot_cle: "remédiation d'accessibilité"
 nom_court: "Accessibilité"
 branche: "D22"
 synonymes: []
-cross_refs: [377, 391]
+cross_refs: [377, 391, 177]
+depends_on: [177]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

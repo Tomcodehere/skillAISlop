@@ -8,8 +8,9 @@ mot_cle: "data-quality-monitoring"
 nom_court: "Data Quality Monitoring"
 branche: "D1"
 synonymes: ["place", "quality", "checks"]
-cross_refs: [1280]
+cross_refs: [1280, 1121, 1277]
 tags: ["2027"]
+depends_on: [1121]
 ---
 
 ## 1099. 💻 Data Quality Monitoring

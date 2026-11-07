@@ -8,7 +8,8 @@ mot_cle: "politiques internes rh"
 nom_court: "Politiques RH"
 branche: "D24"
 synonymes: []
-cross_refs: [190, 203]
+cross_refs: [190, 203, 412]
+depends_on: [412]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
