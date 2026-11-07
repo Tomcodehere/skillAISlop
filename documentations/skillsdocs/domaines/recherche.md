@@ -1,4 +1,4 @@
-# Domaine : Recherche (29 skills)
+# Domaine : Recherche (30 skills)
 
 ## 18. 🔎 Agent de recherche approfondie
 
@@ -144,4 +144,9 @@
 
 - **Fichier** : `skills/1306-vulnerability-evidence-triage.md` · **Mot-clé** : « vulnerability-evidence-triage » · **Nom court** : Vulnerability Evidence Triage
 - **Signal** : Qualifier un signal de vulnérabilité selon sa reproductibilité et son impact démontré. · **Synonymes** : « demande », « portant », « vulnerability » · **Cross-refs** : 1122
+
+## 1329. 📰 Veille personnalisée IA (actualités 2027)
+
+- **Fichier** : `skills/1329-veille-personnalisee-ia-actualites-2027.md` · **Mot-clé** : « veille ia personnalisée » · **Nom court** : Veille IA
+- **Signal** : Veille personnalisée avec un agent IA 2027 : sujets choisis, synthèse quotidienne sourcée, alertes événements importants, anti-bulles · **Synonymes** : « actualités ia 2027 » · **Cross-refs** : 708, 944
 

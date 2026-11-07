@@ -1,4 +1,4 @@
-# Domaine : Communication (30 skills)
+# Domaine : Communication (32 skills)
 
 ## 4. 📧 Assistant Email professionnel
 
@@ -149,4 +149,14 @@
 
 - **Fichier** : `skills/1219-outlook-productivity-automation.md` · **Mot-clé** : « outlook-productivity-automation » · **Nom court** : Outlook Productivity Automatio
 - **Signal** : Maximiser productivité Outlook via : - Automatisation tri emails (règles, Quick Steps) - Optimisation gestion agenda (délégations, salles) - Communication professionnelle (signatures, templates) - Ret · **Synonymes** : « automatiser », « emails », « regles » · **Cross-refs** : 766
+
+## 1341. 📧 Rédiger un email professionnel percutant (2027)
+
+- **Fichier** : `skills/1341-rediger-un-email-professionnel-percutant-2027.md` · **Mot-clé** : « email pro percutant » · **Nom court** : Email pro
+- **Signal** : Rédiger un email professionnel clair et percutant en 2027 : objet parlant, accroche, 1 demande, CTA, relances efficaces · **Synonymes** : « rédiger un mail pro » · **Cross-refs** : 2, 399
+
+## 1342. 🎤 Prise de parole en public & gestion du stress (2027)
+
+- **Fichier** : `skills/1342-prise-de-parole-en-public-gestion-du-stress-2027.md` · **Mot-clé** : « prise de parole public » · **Nom court** : Oral
+- **Signal** : Prendre la parole en public en 2027 sans paniquer : préparation, respiration, voix, gestion du trac, Q&R, support visuel sobre · **Synonymes** : « parler en public » · **Cross-refs** : 916, 617
 

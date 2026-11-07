@@ -1313,6 +1313,46 @@
 | 1308 | Web Accessibility Audit (Audit Accessibilité Web) | Développement|
 | 1309 | Web Data Extraction & Structuring | Développement|
 | 1310 | Windows Server Hardening | Développement|
+| 1311 | Jardin en prairie fleurie (2027) | Personnel|
+| 1312 | Haie variée & biodiversité (2027) | Personnel|
+| 1313 | Cuisine connectée sobre (2027) | Personnel|
+| 1314 | Batch cooking & robot de cuisine (2027) | Personnel|
+| 1315 | Domotique Matter & objets connectés sobres | Développement|
+| 1316 | Déco 2027 : vert Saule & matières durables | Personnel|
+| 1317 | France Identité & CNIe (2027) | Bureau|
+| 1318 | Contrôle routier numérique (permis/carte grise) | Juridique|
+| 1319 | Coach sportif personnel IA (2027) | Personnel|
+| 1320 | Diététicien IA & journal alimentaire | Personnel|
+| 1321 | Tuteur IA personnalisé (2027) | Apprentissage|
+| 1322 | Conseiller cadeaux IA (2027) | Personnel|
+| 1323 | Organisateur de voyage IA (2027) | Personnel|
+| 1324 | Gestionnaire de budget perso IA (2027) | Finance|
+| 1325 | Coach sommeil IA & hygiène de sommeil | Personnel|
+| 1326 | Planificateur de semaine IA (2027) | Productivité|
+| 1327 | Coach bien-être mental IA (léger) 2027 | Personnel|
+| 1328 | Assistant courses & anti-gaspi IA (2027) | Personnel|
+| 1329 | Veille personnalisée IA (actualités 2027) | Recherche|
+| 1330 | Préparation d'un déménagement local (2027) | Personnel|
+| 1331 | Bilan de santé préventif annuel (2027) | Personnel|
+| 1332 | Bien vieillir & autonomie (2027) | Personnel|
+| 1333 | Santé de son animal (chien/chat) 2027 | Personnel|
+| 1334 | Sécurité domicile & alarme (2027) | Sécurité|
+| 1335 | Premiers secours & trousse d'urgence (2027) | Personnel|
+| 1336 | Prévention arnaques QR codes & faux courriers (2027) | Sécurité|
+| 1337 | Gestion des mots de passe & gestionnaire (2027) | Sécurité|
+| 1338 | Coffre-fort numérique familial (2027) | Bureau|
+| 1339 | Prévention cambriolage & vacances tranquilles (2027) | Sécurité|
+| 1340 | Réparation & entretien vélo 2027 | Personnel|
+| 1341 | Rédiger un email professionnel percutant (2027) | Communication|
+| 1342 | Prise de parole en public & gestion du stress (2027) | Communication|
+| 1343 | Apprendre une langue avec l'IA (2027) | Langues|
+| 1344 | Lecture rapide & mémorisation (2027) | Apprentissage|
+| 1345 | Négocier son salaire en 2027 | Carrière|
+| 1346 | Créer une routine matinale efficace (2027) | Productivité|
+| 1347 | Désencombrement & minimalisme (2027) | Personnel|
+| 1348 | Préparer un entretien annuel d'évaluation (2027) | Carrière|
+| 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
+| 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -2007,7 +2047,47 @@
 | 1308 | Web Accessibility Audit (Audit Accessibilité Web) | Développement|
 | 1309 | Web Data Extraction & Structuring | Développement|
 | 1310 | Windows Server Hardening | Développement|
+| 1311 | Jardin en prairie fleurie (2027) | Personnel|
+| 1312 | Haie variée & biodiversité (2027) | Personnel|
+| 1313 | Cuisine connectée sobre (2027) | Personnel|
+| 1314 | Batch cooking & robot de cuisine (2027) | Personnel|
+| 1315 | Domotique Matter & objets connectés sobres | Développement|
+| 1316 | Déco 2027 : vert Saule & matières durables | Personnel|
+| 1317 | France Identité & CNIe (2027) | Bureau|
+| 1318 | Contrôle routier numérique (permis/carte grise) | Juridique|
+| 1319 | Coach sportif personnel IA (2027) | Personnel|
+| 1320 | Diététicien IA & journal alimentaire | Personnel|
+| 1321 | Tuteur IA personnalisé (2027) | Apprentissage|
+| 1322 | Conseiller cadeaux IA (2027) | Personnel|
+| 1323 | Organisateur de voyage IA (2027) | Personnel|
+| 1324 | Gestionnaire de budget perso IA (2027) | Finance|
+| 1325 | Coach sommeil IA & hygiène de sommeil | Personnel|
+| 1326 | Planificateur de semaine IA (2027) | Productivité|
+| 1327 | Coach bien-être mental IA (léger) 2027 | Personnel|
+| 1328 | Assistant courses & anti-gaspi IA (2027) | Personnel|
+| 1329 | Veille personnalisée IA (actualités 2027) | Recherche|
+| 1330 | Préparation d'un déménagement local (2027) | Personnel|
+| 1331 | Bilan de santé préventif annuel (2027) | Personnel|
+| 1332 | Bien vieillir & autonomie (2027) | Personnel|
+| 1333 | Santé de son animal (chien/chat) 2027 | Personnel|
+| 1334 | Sécurité domicile & alarme (2027) | Sécurité|
+| 1335 | Premiers secours & trousse d'urgence (2027) | Personnel|
+| 1336 | Prévention arnaques QR codes & faux courriers (2027) | Sécurité|
+| 1337 | Gestion des mots de passe & gestionnaire (2027) | Sécurité|
+| 1338 | Coffre-fort numérique familial (2027) | Bureau|
+| 1339 | Prévention cambriolage & vacances tranquilles (2027) | Sécurité|
+| 1340 | Réparation & entretien vélo 2027 | Personnel|
+| 1341 | Rédiger un email professionnel percutant (2027) | Communication|
+| 1342 | Prise de parole en public & gestion du stress (2027) | Communication|
+| 1343 | Apprendre une langue avec l'IA (2027) | Langues|
+| 1344 | Lecture rapide & mémorisation (2027) | Apprentissage|
+| 1345 | Négocier son salaire en 2027 | Carrière|
+| 1346 | Créer une routine matinale efficace (2027) | Productivité|
+| 1347 | Désencombrement & minimalisme (2027) | Personnel|
+| 1348 | Préparer un entretien annuel d'évaluation (2027) | Carrière|
+| 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
+| 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1310 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1350 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

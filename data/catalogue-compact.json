@@ -3,10 +3,10 @@
   "genere_le": "2026-11-07",
   "mode": "compact",
   "stats": {
-    "sections": 1311,
+    "sections": 1351,
     "domaines": 28,
-    "synonymes": 1218,
-    "tests_routage": 609
+    "synonymes": 1258,
+    "tests_routage": 649
   },
   "domaines": [
     {
@@ -22565,6 +22565,723 @@
         1067
       ],
       "synonymes": [],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1311,
+      "emoji": "🌼",
+      "nom": "Jardin en prairie fleurie (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Transformer sa pelouse en prairie fleurie, moins d'arrosage, plus de biodiversité, entretien simplifié 2027",
+      "mot_cle_index": "prairie fleurie jardin",
+      "nom_court": "Prairie fleurie",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        915,
+        958
+      ],
+      "synonymes": [
+        "pelouse alternative"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1312,
+      "emoji": "🌳",
+      "nom": "Haie variée & biodiversité (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Remplacer une haie de thuyas monospécifique par une haie variée, accueillir oiseaux et insectes, entretien haie 2027",
+      "mot_cle_index": "haie variée biodiversité",
+      "nom_court": "Haie variée",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        1311
+      ],
+      "synonymes": [
+        "haie fleurie"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1313,
+      "emoji": "🍳",
+      "nom": "Cuisine connectée sobre (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Équiper sa cuisine d'appareils connectés sobres en énergie 2027, économies jusqu'à 35 %, thermomètre connecté, robot cuisine programmable",
+      "mot_cle_index": "cuisine connectée 2027",
+      "nom_court": "Cuisine connectée",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        903,
+        960
+      ],
+      "synonymes": [
+        "smart cooking"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1314,
+      "emoji": "🥘",
+      "nom": "Batch cooking & robot de cuisine (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Batch cooking, kits repas, robot de cuisine connecté pour préparer ses repas de la semaine en 2027, gagner du temps sans mal manger",
+      "mot_cle_index": "batch cooking 2027",
+      "nom_court": "Batch cooking",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        216
+      ],
+      "synonymes": [
+        "preparation repas semaine"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1315,
+      "emoji": "🏠",
+      "nom": "Domotique Matter & objets connectés sobres",
+      "domaine": "Développement",
+      "signal_routage": "Domotique 2027 avec le protocole Matter, objets connectés interopérables, économies d'énergie, installation simple sans cloud obligatoire",
+      "mot_cle_index": "domotique matter 2027",
+      "nom_court": "Matter domotique",
+      "branche_arbre": "D16",
+      "cross_refs": [
+        841,
+        903
+      ],
+      "synonymes": [
+        "maison connectée sobre"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1316,
+      "emoji": "🎨",
+      "nom": "Déco 2027 : vert Saule & matières durables",
+      "domaine": "Personnel",
+      "signal_routage": "Décoration 2027 : vert Saule couleur de l'année Dulux, matériaux durables (bambou, liège, rotin), pièces à histoire, fin des intérieurs tout blancs",
+      "mot_cle_index": "déco 2027 vert saule",
+      "nom_court": "Déco 2027",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        141,
+        926
+      ],
+      "synonymes": [
+        "tendance déco 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1317,
+      "emoji": "🪪",
+      "nom": "France Identité & CNIe (2027)",
+      "domaine": "Bureau",
+      "signal_routage": "France Identité 2027, carte d'identité électronique CNIe gratuite, identité numérique, permis de conduire numérique, contrôle routier QR code",
+      "mot_cle_index": "france identité cnie",
+      "nom_court": "France Identité",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        913,
+        955
+      ],
+      "synonymes": [
+        "cni électronique"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1318,
+      "emoji": "🚔",
+      "nom": "Contrôle routier numérique (permis/carte grise)",
+      "domaine": "Juridique",
+      "signal_routage": "Présenter son permis de conduire et sa carte grise numériques lors d'un contrôle routier en 2027, QR code dynamique France Identité",
+      "mot_cle_index": "contrôle routier numérique",
+      "nom_court": "Contrôle numérique",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        866
+      ],
+      "synonymes": [
+        "permis numérique contrôle"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1319,
+      "emoji": "🏋️",
+      "nom": "Coach sportif personnel IA (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Coach sportif IA personnalisé 2027, programme d'entraînement adapté, suivi récupération, wearable, sans remplacer le coach humain",
+      "mot_cle_index": "coach sportif ia",
+      "nom_court": "Coach IA sport",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        916,
+        917
+      ],
+      "synonymes": [
+        "programme sport ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1320,
+      "emoji": "🥗",
+      "nom": "Diététicien IA & journal alimentaire",
+      "domaine": "Personnel",
+      "signal_routage": "Diététicien IA 2027, journal alimentaire photo, équilibrage des repas, alertes excès, sans régime restrictif, médecin si trouble",
+      "mot_cle_index": "diététicien ia 2027",
+      "nom_court": "Diété IA",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        917,
+        941
+      ],
+      "synonymes": [
+        "nutrition ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1321,
+      "emoji": "🎓",
+      "nom": "Tuteur IA personnalisé (2027)",
+      "domaine": "Apprentissage",
+      "signal_routage": "Tuteur IA personnalisé 2027, apprendre une compétence avec un agent qui s'adapte, quiz, plan de révision espacée",
+      "mot_cle_index": "tuteur ia personnalisé",
+      "nom_court": "Tuteur IA",
+      "branche_arbre": "D7",
+      "cross_refs": [
+        600,
+        819
+      ],
+      "synonymes": [
+        "apprendre avec l'ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1322,
+      "emoji": "🎁",
+      "nom": "Conseiller cadeaux IA (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Trouver un cadeau pertinent avec un agent IA 2027 : profil du destinataire, budget, occasion, explication du raisonnement",
+      "mot_cle_index": "trouver un cadeau ia",
+      "nom_court": "Cadeau IA",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        541,
+        644
+      ],
+      "synonymes": [
+        "idée cadeau ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1323,
+      "emoji": "🧳",
+      "nom": "Organisateur de voyage IA (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Organiser un voyage avec un agent IA 2027 : itinéraire personnalisé selon météo/budget, réservations, annulation multi-agents (vol+hôtel+activités)",
+      "mot_cle_index": "organiser voyage ia 2027",
+      "nom_court": "Voyage IA",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        656,
+        993
+      ],
+      "synonymes": [
+        "agent voyage ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1324,
+      "emoji": "🧮",
+      "nom": "Gestionnaire de budget perso IA (2027)",
+      "domaine": "Finance",
+      "signal_routage": "Faire son budget avec un agent IA 2027 : catégorisation auto des dépenses, alertes dépassement, enveloppes, objectif d'épargne",
+      "mot_cle_index": "budget perso ia 2027",
+      "nom_court": "Budget IA",
+      "branche_arbre": "D29",
+      "cross_refs": [
+        297,
+        541
+      ],
+      "synonymes": [
+        "gestionnaire dépenses ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1325,
+      "emoji": "😴",
+      "nom": "Coach sommeil IA & hygiène de sommeil",
+      "domaine": "Personnel",
+      "signal_routage": "Améliorer son sommeil avec un coach IA 2027 : analyse wearable, routine du soir, lumière, caféine, lever fixe, objectif 8 h",
+      "mot_cle_index": "coach sommeil ia",
+      "nom_court": "Sommeil IA",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        483,
+        814
+      ],
+      "synonymes": [
+        "mieux dormir ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1326,
+      "emoji": "🗓️",
+      "nom": "Planificateur de semaine IA (2027)",
+      "domaine": "Productivité",
+      "signal_routage": "Planifier sa semaine avec un agent IA 2027 : blocs de deep work, réunions regroupées, tâches selon énergie, rappels intelligents",
+      "mot_cle_index": "planifier semaine ia",
+      "nom_court": "Semaine IA",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        465,
+        813
+      ],
+      "synonymes": [
+        "agenda intelligent 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1327,
+      "emoji": "🧠",
+      "nom": "Coach bien-être mental IA (léger) 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Coach bien-être mental IA léger 2027 : check-in quotidien, exercices respiration, détection signaux, orientation psy si besoin — pas un thérapeute",
+      "mot_cle_index": "bien-être mental ia 2027",
+      "nom_court": "Bien-être IA",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        617,
+        921
+      ],
+      "synonymes": [
+        "santé mentale ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1328,
+      "emoji": "🛒",
+      "nom": "Assistant courses & anti-gaspi IA (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Faire ses courses avec un agent IA 2027 : liste selon le frigo/placards, anti-gaspi, comparaison prix, drive optimisé",
+      "mot_cle_index": "courses ia 2027",
+      "nom_court": "Courses IA",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        216,
+        1314
+      ],
+      "synonymes": [
+        "liste de courses ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1329,
+      "emoji": "📰",
+      "nom": "Veille personnalisée IA (actualités 2027)",
+      "domaine": "Recherche",
+      "signal_routage": "Veille personnalisée avec un agent IA 2027 : sujets choisis, synthèse quotidienne sourcée, alertes événements importants, anti-bulles",
+      "mot_cle_index": "veille ia personnalisée",
+      "nom_court": "Veille IA",
+      "branche_arbre": "D17",
+      "cross_refs": [
+        708,
+        944
+      ],
+      "synonymes": [
+        "actualités ia 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1330,
+      "emoji": "📦",
+      "nom": "Préparation d'un déménagement local (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Déménager localement en 2027 : camion, volume, cartons, démarches changement d'adresse, faire le tri avant, budget déménagement",
+      "mot_cle_index": "déménagement local 2027",
+      "nom_court": "Déménagement",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        955,
+        991
+      ],
+      "synonymes": [
+        "changer d'appartement"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1331,
+      "emoji": "🩺",
+      "nom": "Bilan de santé préventif annuel (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Préparer son bilan de santé préventif 2027 : examen annuel, dépistages selon âge, vaccins, dossier médical, questions pour le médecin",
+      "mot_cle_index": "bilan santé préventif",
+      "nom_court": "Bilan santé",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        917,
+        975
+      ],
+      "synonymes": [
+        "check-up annuel"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1332,
+      "emoji": "🦯",
+      "nom": "Bien vieillir & autonomie (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Préparer le bien vieillir 2027 : prévention chutes, aménagement logement, aide à domicile, aidant familial,APA, téléassistance",
+      "mot_cle_index": "bien vieillir 2027",
+      "nom_court": "Bien vieillir",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        859,
+        915
+      ],
+      "synonymes": [
+        "autonomie senior"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1333,
+      "emoji": "🐾",
+      "nom": "Santé de son animal (chien/chat) 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Suivi santé de son chien/chat en 2027 : vaccins, vermifuge, alimentation, signes d'alerte, veto, assurance animale",
+      "mot_cle_index": "santé animale 2027",
+      "nom_court": "Santé animale",
+      "branche_arbre": "D27",
+      "cross_refs": [
+        683,
+        1331
+      ],
+      "synonymes": [
+        "vaccins chien chat"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1334,
+      "emoji": "🏡",
+      "nom": "Sécurité domicile & alarme (2027)",
+      "domaine": "Sécurité",
+      "signal_routage": "Sécuriser son domicile en 2027 : alarme connectée, détecteurs fumée, serrure renforcée, voisinage, télésurveillance, assurance à jour",
+      "mot_cle_index": "sécurité domicile 2027",
+      "nom_court": "Sécurité domicile",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        907,
+        965
+      ],
+      "synonymes": [
+        "alarme maison"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1335,
+      "emoji": "⛑️",
+      "nom": "Premiers secours & trousse d'urgence (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Se former aux premiers secours 2027 (PSC1), trousse d'urgence, numéros d'urgence, appli Sauv'Vie, plan canicule/inondation",
+      "mot_cle_index": "premiers secours 2027",
+      "nom_court": "PSC1",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        859,
+        915
+      ],
+      "synonymes": [
+        "trousse secours"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1336,
+      "emoji": "📱",
+      "nom": "Prévention arnaques QR codes & faux courriers (2027)",
+      "domaine": "Sécurité",
+      "signal_routage": "Arnaques 2027 : faux QR codes (impôts, amendes, colis), faux courriers, smishing, ne jamais scanner un QR non demandé, vérifier l'expéditeur",
+      "mot_cle_index": "arnaque qr code 2027",
+      "nom_court": "QR arnaque",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        839,
+        953
+      ],
+      "synonymes": [
+        "faux courrier impôts"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1337,
+      "emoji": "🔑",
+      "nom": "Gestion des mots de passe & gestionnaire (2027)",
+      "domaine": "Sécurité",
+      "signal_routage": "Gérer ses mots de passe en 2027 : gestionnaire de mots de passe, passkeys FIDO2, mots uniques, 2FA partout, coffre numérique pour proches",
+      "mot_cle_index": "gestionnaire mots de passe 2027",
+      "nom_court": "Passkeys",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        665,
+        957
+      ],
+      "synonymes": [
+        "passkey fido2"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1338,
+      "emoji": "🗄️",
+      "nom": "Coffre-fort numérique familial (2027)",
+      "domaine": "Bureau",
+      "signal_routage": "Organiser son coffre-fort numérique familial 2027 : documents importants chiffrés, accès héritiers, notaire, mots de passe, photos",
+      "mot_cle_index": "coffre numérique familial",
+      "nom_court": "Coffre numérique",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        841,
+        963
+      ],
+      "synonymes": [
+        "dossier vital numérique"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1339,
+      "emoji": "✈️",
+      "nom": "Prévention cambriolage & vacances tranquilles (2027)",
+      "domaine": "Sécurité",
+      "signal_routage": "Partir en vacances tranquilles en 2027 : simuler une présence, fermer volets, vider la boîte aux lettres, alarme, assurance, contacts de confiance",
+      "mot_cle_index": "vacances tranquilles 2027",
+      "nom_court": "Vacances sûres",
+      "branche_arbre": "D23",
+      "cross_refs": [
+        994,
+        1334
+      ],
+      "synonymes": [
+        "prévenir cambriolage vacances"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1340,
+      "emoji": "🚲",
+      "nom": "Réparation & entretien vélo 2027",
+      "domaine": "Personnel",
+      "signal_routage": "Entretenir et réparer son vélo en 2027 : crevaison, chaîne, freins, réglage dérailleur, révisions saisonnières, atelier associatif",
+      "mot_cle_index": "réparer son vélo",
+      "nom_court": "Vélo entretien",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        959,
+        988
+      ],
+      "synonymes": [
+        "entretien vélo 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1341,
+      "emoji": "📧",
+      "nom": "Rédiger un email professionnel percutant (2027)",
+      "domaine": "Communication",
+      "signal_routage": "Rédiger un email professionnel clair et percutant en 2027 : objet parlant, accroche, 1 demande, CTA, relances efficaces",
+      "mot_cle_index": "email pro percutant",
+      "nom_court": "Email pro",
+      "branche_arbre": "D15",
+      "cross_refs": [
+        2,
+        399
+      ],
+      "synonymes": [
+        "rédiger un mail pro"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1342,
+      "emoji": "🎤",
+      "nom": "Prise de parole en public & gestion du stress (2027)",
+      "domaine": "Communication",
+      "signal_routage": "Prendre la parole en public en 2027 sans paniquer : préparation, respiration, voix, gestion du trac, Q&R, support visuel sobre",
+      "mot_cle_index": "prise de parole public",
+      "nom_court": "Oral",
+      "branche_arbre": "D15",
+      "cross_refs": [
+        617,
+        916
+      ],
+      "synonymes": [
+        "parler en public"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1343,
+      "emoji": "🗣️",
+      "nom": "Apprendre une langue avec l'IA (2027)",
+      "domaine": "Langues",
+      "signal_routage": "Apprendre une langue en 2027 avec l'IA : 15 min/jour de conversation vocale, correction immédiate, vocabulaire utile, examen de langue",
+      "mot_cle_index": "apprendre une langue ia",
+      "nom_court": "Langue IA",
+      "branche_arbre": "D7",
+      "cross_refs": [
+        708,
+        1321
+      ],
+      "synonymes": [
+        "espagnol ia"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1344,
+      "emoji": "📖",
+      "nom": "Lecture rapide & mémorisation (2027)",
+      "domaine": "Apprentissage",
+      "signal_routage": "Lire plus vite et mémoriser en 2027 : lecture active, méthode SQ3R, fiches, révision espacée, prise de notes Cornell",
+      "mot_cle_index": "lecture rapide mémorisation",
+      "nom_court": "Lecture active",
+      "branche_arbre": "D7",
+      "cross_refs": [
+        465,
+        1321
+      ],
+      "synonymes": [
+        "mémoriser un livre"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1345,
+      "emoji": "💶",
+      "nom": "Négocier son salaire en 2027",
+      "domaine": "Carrière",
+      "signal_routage": "Négocier son salaire en 2027 : benchmark marché, arguments chiffrés, timing (entretien annuel, offre), contre-offre, package complet",
+      "mot_cle_index": "négocier salaire 2027",
+      "nom_court": "Négocier salaire",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        875,
+        912
+      ],
+      "synonymes": [
+        "augmentation 2027"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1346,
+      "emoji": "🌅",
+      "nom": "Créer une routine matinale efficace (2027)",
+      "domaine": "Productivité",
+      "signal_routage": "Créer une routine matinale 2027 qui tient : réveil fixe, lumière, hydratation, mouvement 10 min, 1 priorité avant les écrans",
+      "mot_cle_index": "routine matinale 2027",
+      "nom_court": "Routine matin",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        1325,
+        1326
+      ],
+      "synonymes": [
+        "morning routine"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1347,
+      "emoji": "🧹",
+      "nom": "Désencombrement & minimalisme (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Désencombrer sa maison en 2027 : méthode KonMari, règle 1 entré = 1 sorti, vente/don, rangement par catégorie, garde-robe capsule",
+      "mot_cle_index": "désencombrer 2027",
+      "nom_court": "Désencombrement",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        1316,
+        1330
+      ],
+      "synonymes": [
+        "faire le tri"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1348,
+      "emoji": "📊",
+      "nom": "Préparer un entretien annuel d'évaluation (2027)",
+      "domaine": "Carrière",
+      "signal_routage": "Préparer son entretien annuel 2027 : bilan chiffré de l'année, 3 réussites, axes de progrès, demande de formation, objectifs SMART année suivante",
+      "mot_cle_index": "entretien annuel 2027",
+      "nom_court": "Entretien annuel",
+      "branche_arbre": "D6",
+      "cross_refs": [
+        876,
+        1345
+      ],
+      "synonymes": [
+        "revue annuelle évaluation"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1349,
+      "emoji": "♻️",
+      "nom": "Cuisine anti-gaspi & restes (2027)",
+      "domaine": "Personnel",
+      "signal_routage": "Cuisiner les restes et éviter le gaspillage en 2027 : recettes anti-gaspi, conservation, congélation, appli Too Good To Go, compost",
+      "mot_cle_index": "anti-gaspi cuisine",
+      "nom_court": "Anti-gaspi",
+      "branche_arbre": "D26",
+      "cross_refs": [
+        1314,
+        1328
+      ],
+      "synonymes": [
+        "cuisiner les restes"
+      ],
+      "fichier": "canvas"
+    },
+    {
+      "num": 1350,
+      "emoji": "✅",
+      "nom": "Bilan de fin d'année 2027 (tous domaines)",
+      "domaine": "Gestion",
+      "signal_routage": "Faire son bilan de l'année 2027 et poser ses objectifs 2028, revue mensuelle, 3 objectifs max SMART, célébrer les réussites",
+      "mot_cle_index": "bilan 2027 objectifs 2028",
+      "nom_court": "Bilan 2027",
+      "branche_arbre": "D25",
+      "cross_refs": [
+        949,
+        999
+      ],
+      "synonymes": [
+        "objectifs 2028"
+      ],
       "fichier": "canvas"
     }
   ]

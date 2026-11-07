@@ -39,6 +39,7 @@ jobs:
           canvas/corpus-skills-601-900.md
           canvas/corpus-skills-901-1200.md
           canvas/corpus-skills-1201-1500.md
+          canvas/corpus-skills-1501-1800.md
 
       - name: Sonde de couverture (bloquante, 100 % attendu)
         run: python3 outils/routage.py sonde

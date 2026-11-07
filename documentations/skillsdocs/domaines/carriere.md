@@ -1,4 +1,4 @@
-# Domaine : Carrière (32 skills)
+# Domaine : Carrière (34 skills)
 
 ## 12. 🤝 Préparation d'entretien / interview
 
@@ -159,4 +159,14 @@
 
 - **Fichier** : `skills/998-faire-une-pause-carriere-conge-sabbatique-2027.md` · **Mot-clé** : « congé sabbatique 2027 » · **Nom court** : Sabbatique
 - **Signal** : Congé sabbatique 2027, demander un congé sans solde ou sabbatique, économies nécessaires, projet personnel, retour garanti selon entreprise · **Synonymes** : « pause carrière 2027 » · **Cross-refs** : 918, 997
+
+## 1345. 💶 Négocier son salaire en 2027
+
+- **Fichier** : `skills/1345-negocier-son-salaire-en-2027.md` · **Mot-clé** : « négocier salaire 2027 » · **Nom court** : Négocier salaire
+- **Signal** : Négocier son salaire en 2027 : benchmark marché, arguments chiffrés, timing (entretien annuel, offre), contre-offre, package complet · **Synonymes** : « augmentation 2027 » · **Cross-refs** : 875, 912
+
+## 1348. 📊 Préparer un entretien annuel d'évaluation (2027)
+
+- **Fichier** : `skills/1348-preparer-un-entretien-annuel-d-evaluation-2027.md` · **Mot-clé** : « entretien annuel 2027 » · **Nom court** : Entretien annuel
+- **Signal** : Préparer son entretien annuel 2027 : bilan chiffré de l'année, 3 réussites, axes de progrès, demande de formation, objectifs SMART année suivante · **Synonymes** : « revue annuelle évaluation » · **Cross-refs** : 876, 1345
 

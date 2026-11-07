@@ -1,4 +1,4 @@
-# Domaine : Bureau (9 skills)
+# Domaine : Bureau (11 skills)
 
 ## 14. 📽️ Créateur de présentations
 
@@ -44,4 +44,14 @@
 
 - **Fichier** : `skills/955-demarches-administratives-en-ligne-ants-ants-2027.md` · **Mot-clé** : « démarches ants en ligne » · **Nom court** : ANTS en ligne
 - **Signal** : Démarches ANTS en ligne 2027 (carte grise, passeport, permis), France Identité,ANTS, délais 2027, rdv agence · **Synonymes** : « carte grise en ligne » · **Cross-refs** : 664, 471
+
+## 1317. 🪪 France Identité & CNIe (2027)
+
+- **Fichier** : `skills/1317-france-identite-cnie-2027.md` · **Mot-clé** : « france identité cnie » · **Nom court** : France Identité
+- **Signal** : France Identité 2027, carte d'identité électronique CNIe gratuite, identité numérique, permis de conduire numérique, contrôle routier QR code · **Synonymes** : « cni électronique » · **Cross-refs** : 955, 913
+
+## 1338. 🗄️ Coffre-fort numérique familial (2027)
+
+- **Fichier** : `skills/1338-coffre-fort-numerique-familial-2027.md` · **Mot-clé** : « coffre numérique familial » · **Nom court** : Coffre numérique
+- **Signal** : Organiser son coffre-fort numérique familial 2027 : documents importants chiffrés, accès héritiers, notaire, mots de passe, photos · **Synonymes** : « dossier vital numérique » · **Cross-refs** : 841, 963
 

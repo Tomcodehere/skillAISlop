@@ -83,6 +83,7 @@ CANVAS_CORPUS = [
     RACINE / "canvas/corpus-skills-601-900.md",
     RACINE / "canvas/corpus-skills-901-1200.md",
     RACINE / "canvas/corpus-skills-1201-1500.md",
+    RACINE / "canvas/corpus-skills-1501-1800.md",
 ]
 
 # ---------------------------------------------------------------------------
@@ -1287,6 +1288,48 @@ SYNONYMES = [
     ("refonte", 1299),
     ("hypotheses", 1300),
     ("opquast", 1308),
+    # --- Vague 14 (skills 1311-1350) ---
+    ("pelouse alternative", 1311),
+    ("haie fleurie", 1312),
+    ("smart cooking", 1313),
+    ("preparation repas semaine", 1314),
+    ("maison connectée sobre", 1315),
+    ("tendance déco 2027", 1316),
+    ("cni électronique", 1317),
+    ("permis numérique contrôle", 1318),
+    ("programme sport ia", 1319),
+    ("nutrition ia", 1320),
+    ("apprendre avec l'ia", 1321),
+    ("idée cadeau ia", 1322),
+    ("agent voyage ia", 1323),
+    ("gestionnaire dépenses ia", 1324),
+    ("mieux dormir ia", 1325),
+    ("agenda intelligent 2027", 1326),
+    ("santé mentale ia", 1327),
+    ("liste de courses ia", 1328),
+    ("actualités ia 2027", 1329),
+    ("changer d'appartement", 1330),
+    ("check-up annuel", 1331),
+    ("autonomie senior", 1332),
+    ("vaccins chien chat", 1333),
+    ("alarme maison", 1334),
+    ("trousse secours", 1335),
+    ("faux courrier impôts", 1336),
+    ("passkey fido2", 1337),
+    ("dossier vital numérique", 1338),
+    ("prévenir cambriolage vacances", 1339),
+    ("entretien vélo 2027", 1340),
+    ("rédiger un mail pro", 1341),
+    ("parler en public", 1342),
+    ("espagnol ia", 1343),
+    ("mémoriser un livre", 1344),
+    ("augmentation 2027", 1345),
+    ("morning routine", 1346),
+    ("faire le tri", 1347),
+    ("revue annuelle évaluation", 1348),
+    ("cuisiner les restes", 1349),
+    ("objectifs 2028", 1350),
+
 ]
 
 # ---------------------------------------------------------------------------
@@ -1921,6 +1964,48 @@ TESTS_ROUTAGE = [
     ("business-insight-narrative", 1058),
     ("business-kpi-analysis-dashboard-design", 1059),
 
+    # --- Vague 14 (skills 1311-1350) ---
+    ("prairie fleurie jardin", 1311),
+    ("haie variée biodiversité", 1312),
+    ("cuisine connectée 2027", 1313),
+    ("batch cooking 2027", 1314),
+    ("domotique matter 2027", 1315),
+    ("déco 2027 vert saule", 1316),
+    ("france identité cnie", 1317),
+    ("contrôle routier numérique", 1318),
+    ("coach sportif ia", 1319),
+    ("diététicien ia 2027", 1320),
+    ("tuteur ia personnalisé", 1321),
+    ("trouver un cadeau ia", 1322),
+    ("organiser voyage ia 2027", 1323),
+    ("budget perso ia 2027", 1324),
+    ("coach sommeil ia", 1325),
+    ("planifier semaine ia", 1326),
+    ("bien-être mental ia 2027", 1327),
+    ("courses ia 2027", 1328),
+    ("veille ia personnalisée", 1329),
+    ("déménagement local 2027", 1330),
+    ("bilan santé préventif", 1331),
+    ("bien vieillir 2027", 1332),
+    ("santé animale 2027", 1333),
+    ("sécurité domicile 2027", 1334),
+    ("premiers secours 2027", 1335),
+    ("arnaque qr code 2027", 1336),
+    ("gestionnaire mots de passe 2027", 1337),
+    ("coffre numérique familial", 1338),
+    ("vacances tranquilles 2027", 1339),
+    ("réparer son vélo", 1340),
+    ("email pro percutant", 1341),
+    ("prise de parole public", 1342),
+    ("apprendre une langue ia", 1343),
+    ("lecture rapide mémorisation", 1344),
+    ("négocier salaire 2027", 1345),
+    ("routine matinale 2027", 1346),
+    ("désencombrer 2027", 1347),
+    ("entretien annuel 2027", 1348),
+    ("anti-gaspi cuisine", 1349),
+    ("bilan 2027 objectifs 2028", 1350),
+
 ]
 
 # ---------------------------------------------------------------------------
@@ -1994,7 +2079,7 @@ def extraire(canvas: str):
     sommaire = {}
     for num, nom, dom in RE_SOMMAIRE.findall(canvas):
         sommaire[int(num)] = [nom.strip(), dom.strip()]
-    assert len(sommaire) == 1311, f"sommaire : {len(sommaire)} lignes"
+    assert len(sommaire) == 1351, f"sommaire : {len(sommaire)} lignes"
 
     signaux = {}
     for sig, num, dom in RE_ROUTAGE.findall(canvas):
@@ -2002,7 +2087,7 @@ def extraire(canvas: str):
         assert n not in signaux, f"signal dupliqué pour {n}"
         signaux[n] = sig.strip()
         assert sommaire[n][1] == dom.strip(), f"domaine incohérent pour {n}"
-    assert len(signaux) == 1310
+    assert len(signaux) == 1350
 
     mot_cles, cartes, bullets = {}, [], False
     dans_carte = False
@@ -2035,7 +2120,7 @@ def extraire(canvas: str):
         elif bullets and s and not s.startswith("- **"):
             bullets = False
     assert len(cartes) == 28, f"carte : {len(cartes)}"
-    assert len(mot_cles) == 1310, f"index : {len(mot_cles)}"
+    assert len(mot_cles) == 1350, f"index : {len(mot_cles)}"
 
     branches, noms_courts = {}, {}
     for m in RE_Q6.finditer(canvas):
@@ -2047,7 +2132,7 @@ def extraire(canvas: str):
             noms_courts[n] = mi.group(2).strip()
     for n in RE_KNODE.findall(canvas):
         branches.setdefault(int(n), "K")
-    assert len(branches) == 1310, f"arbre : {len(branches)} skills couvertes"
+    assert len(branches) == 1350, f"arbre : {len(branches)} skills couvertes"
     return sommaire, signaux, mot_cles, branches, noms_courts, cartes
 
 

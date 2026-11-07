@@ -1,4 +1,4 @@
-# Domaine : Finance (51 skills)
+# Domaine : Finance (52 skills)
 
 ## 59. 📈 Analyse de documents financiers
 
@@ -254,4 +254,9 @@
 
 - **Fichier** : `skills/1046-belgian-accounting-bookkeeping-basics.md` · **Mot-clé** : « belgian-accounting-bookkeeping-basics » · **Nom court** : Belgian Accounting & Bookkeepi
 - **Signal** : Aider à comprendre les notions et workflows comptables courants en Belgique et à organiser des informations comptables, sans certifier les comptes ni remplacer un professionnel agréé. · **Synonymes** : « utilisateur », « comprendre », « notion » · **Cross-refs** : 172
+
+## 1324. 🧮 Gestionnaire de budget perso IA (2027)
+
+- **Fichier** : `skills/1324-gestionnaire-de-budget-perso-ia-2027.md` · **Mot-clé** : « budget perso ia 2027 » · **Nom court** : Budget IA
+- **Signal** : Faire son budget avec un agent IA 2027 : catégorisation auto des dépenses, alertes dépassement, enveloppes, objectif d'épargne · **Synonymes** : « gestionnaire dépenses ia » · **Cross-refs** : 541, 297
 

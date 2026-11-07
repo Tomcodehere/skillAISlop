@@ -1,4 +1,4 @@
-# Domaine : Juridique (73 skills)
+# Domaine : Juridique (74 skills)
 
 ## 16. ⚖️ Assistant juridique de premier niveau
 
@@ -364,4 +364,9 @@
 
 - **Fichier** : `skills/993-gerer-un-litige-avec-une-compagnie-aerienne-2027.md` · **Mot-clé** : « indemnisation vol retardé 2027 » · **Nom court** : Litige avion
 - **Signal** : Litige compagnie aérienne 2027 (retard, annulation, bagage perdu), règlement UE 261/2004, indemnisation 250-600 €, médiation, tribunal · **Synonymes** : « vol annulé remboursement » · **Cross-refs** : 865, 855
+
+## 1318. 🚔 Contrôle routier numérique (permis/carte grise)
+
+- **Fichier** : `skills/1318-controle-routier-numerique-permis-carte-grise.md` · **Mot-clé** : « contrôle routier numérique » · **Nom court** : Contrôle numérique
+- **Signal** : Présenter son permis de conduire et sa carte grise numériques lors d'un contrôle routier en 2027, QR code dynamique France Identité · **Synonymes** : « permis numérique contrôle » · **Cross-refs** : 1317, 866
 

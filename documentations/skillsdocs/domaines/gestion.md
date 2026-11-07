@@ -1,4 +1,4 @@
-# Domaine : Gestion (98 skills)
+# Domaine : Gestion (99 skills)
 
 ## 15. 🗂️ Planificateur de projet
 
@@ -489,4 +489,9 @@
 
 - **Fichier** : `skills/1307-wbs-and-dependency-planning.md` · **Mot-clé** : « wbs-and-dependency-planning » · **Nom court** : WBS and Dependency Planning
 - **Signal** : Décomposer un livrable projet en lots vérifiables et ordonner leurs dépendances réelles. · **Synonymes** : « demande », « portant », « dependency » · **Cross-refs** : 1062
+
+## 1350. ✅ Bilan de fin d'année 2027 (tous domaines)
+
+- **Fichier** : `skills/1350-bilan-de-fin-d-annee-2027-tous-domaines.md` · **Mot-clé** : « bilan 2027 objectifs 2028 » · **Nom court** : Bilan 2027
+- **Signal** : Faire son bilan de l'année 2027 et poser ses objectifs 2028, revue mensuelle, 3 objectifs max SMART, célébrer les réussites · **Synonymes** : « objectifs 2028 » · **Cross-refs** : 999, 949
 

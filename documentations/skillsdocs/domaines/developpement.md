@@ -1,4 +1,4 @@
-# Domaine : Développement (195 skills)
+# Domaine : Développement (196 skills)
 
 ## 9. 💻 Générateur de code commenté
 
@@ -974,4 +974,9 @@
 
 - **Fichier** : `skills/1310-windows-server-hardening.md` · **Mot-clé** : « windows-server-hardening » · **Nom court** : Windows Server Hardening
 - **Signal** : Sécuriser Windows Server selon CIS Benchmarks et best practices Microsoft (attack surface reduction, least privilege, audits). · **Synonymes** : « securise », « windows », « server » · **Cross-refs** : 1067
+
+## 1315. 🏠 Domotique Matter & objets connectés sobres
+
+- **Fichier** : `skills/1315-domotique-matter-objets-connectes-sobres.md` · **Mot-clé** : « domotique matter 2027 » · **Nom court** : Matter domotique
+- **Signal** : Domotique 2027 avec le protocole Matter, objets connectés interopérables, économies d'énergie, installation simple sans cloud obligatoire · **Synonymes** : « maison connectée sobre » · **Cross-refs** : 903, 841
 

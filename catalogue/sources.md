@@ -124,3 +124,12 @@ Les skills 19-50 s'inspirent des skills, prompts et workflows les plus populaire
 **Merge SkillsAI (skills 1000-1310, 2026-11-06)** :
 
 - [tvprodel/SkillsAI — 311 skills *.skill.md + templateSkills.md (13 sections)](https://github.com/tvprodel/SkillsAI) — mergées au format TEMPLATE-v2 dans skills 1000-1310
+
+**Vague 14 (skills 1311-1350) — veille novembre 2026 / tendances 2027 pratiques** :
+
+- [servitech.fr / entretiendejardin.com — tendances jardin 2027 (prairie fleurie, haies variées, sobre en eau)](https://www.servitech.fr/quelles-tendances-jardin-2027-adopter-pour-simplifier-lentretien/) → skills 1311, 1312
+- [home20.fr / had-mp.fr — cuisine connectée & batch cooking 2027, -35 % énergie](https://home20.fr/tendances-cuisine-2027-innovations-revolution/) → skills 1313, 1314
+- [lesbellesvies.fr — déco 2027, vert Saule couleur de l'année Dulux](https://www.lesbellesvies.fr/post/tendances-d%C3%A9co-2027) → skill 1316
+- [france-identite.gouv.fr / ants.gouv.fr — France Identité, CNIe gratuite, permis numérique, contrôle routier QR code](https://france-identite.gouv.fr/) → skills 1317, 1318
+- [xpert.digital / intelli.gift — agents IA personnels 2027 : tuteur, cadeaux, voyage, budget, coach sport](https://xpert.digital/fr/exemples-d-application-pour-l-ia-agentique-et-les-agents-d-ia/) → skills 1319-1326, 1329
+- [master-ia.fr / cidfp.fr — agents IA entreprise 2027, AI Act annexe III déc. 2027](https://www.master-ia.fr/agents-ia-entreprise) → skills 1319-1327

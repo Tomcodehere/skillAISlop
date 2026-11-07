@@ -1,4 +1,4 @@
-# Domaine : Personnel (130 skills)
+# Domaine : Personnel (150 skills)
 
 ## 42. 🧳 Planificateur de voyage
 
@@ -649,4 +649,104 @@
 
 - **Fichier** : `skills/995-preparer-un-road-trip-moto-2027.md` · **Mot-clé** : « road trip moto 2027 » · **Nom court** : Moto 2027
 - **Signal** : Road-trip moto 2027, permis A, équipement de sécurité (casque, airbag, gants), itinéraire sinueux, entretien, assurance, bagages · **Synonymes** : « voyage moto 2027 » · **Cross-refs** : 866, 984
+
+## 1311. 🌼 Jardin en prairie fleurie (2027)
+
+- **Fichier** : `skills/1311-jardin-en-prairie-fleurie-2027.md` · **Mot-clé** : « prairie fleurie jardin » · **Nom court** : Prairie fleurie
+- **Signal** : Transformer sa pelouse en prairie fleurie, moins d'arrosage, plus de biodiversité, entretien simplifié 2027 · **Synonymes** : « pelouse alternative » · **Cross-refs** : 915, 958
+
+## 1312. 🌳 Haie variée & biodiversité (2027)
+
+- **Fichier** : `skills/1312-haie-variee-biodiversite-2027.md` · **Mot-clé** : « haie variée biodiversité » · **Nom court** : Haie variée
+- **Signal** : Remplacer une haie de thuyas monospécifique par une haie variée, accueillir oiseaux et insectes, entretien haie 2027 · **Synonymes** : « haie fleurie » · **Cross-refs** : 1311
+
+## 1313. 🍳 Cuisine connectée sobre (2027)
+
+- **Fichier** : `skills/1313-cuisine-connectee-sobre-2027.md` · **Mot-clé** : « cuisine connectée 2027 » · **Nom court** : Cuisine connectée
+- **Signal** : Équiper sa cuisine d'appareils connectés sobres en énergie 2027, économies jusqu'à 35 %, thermomètre connecté, robot cuisine programmable · **Synonymes** : « smart cooking » · **Cross-refs** : 960, 903
+
+## 1314. 🥘 Batch cooking & robot de cuisine (2027)
+
+- **Fichier** : `skills/1314-batch-cooking-robot-de-cuisine-2027.md` · **Mot-clé** : « batch cooking 2027 » · **Nom court** : Batch cooking
+- **Signal** : Batch cooking, kits repas, robot de cuisine connecté pour préparer ses repas de la semaine en 2027, gagner du temps sans mal manger · **Synonymes** : « preparation repas semaine » · **Cross-refs** : 1313, 216
+
+## 1316. 🎨 Déco 2027 : vert Saule & matières durables
+
+- **Fichier** : `skills/1316-deco-2027-vert-saule-matieres-durables.md` · **Mot-clé** : « déco 2027 vert saule » · **Nom court** : Déco 2027
+- **Signal** : Décoration 2027 : vert Saule couleur de l'année Dulux, matériaux durables (bambou, liège, rotin), pièces à histoire, fin des intérieurs tout blancs · **Synonymes** : « tendance déco 2027 » · **Cross-refs** : 926, 141
+
+## 1319. 🏋️ Coach sportif personnel IA (2027)
+
+- **Fichier** : `skills/1319-coach-sportif-personnel-ia-2027.md` · **Mot-clé** : « coach sportif ia » · **Nom court** : Coach IA sport
+- **Signal** : Coach sportif IA personnalisé 2027, programme d'entraînement adapté, suivi récupération, wearable, sans remplacer le coach humain · **Synonymes** : « programme sport ia » · **Cross-refs** : 917, 916
+
+## 1320. 🥗 Diététicien IA & journal alimentaire
+
+- **Fichier** : `skills/1320-dieteticien-ia-journal-alimentaire.md` · **Mot-clé** : « diététicien ia 2027 » · **Nom court** : Diété IA
+- **Signal** : Diététicien IA 2027, journal alimentaire photo, équilibrage des repas, alertes excès, sans régime restrictif, médecin si trouble · **Synonymes** : « nutrition ia » · **Cross-refs** : 941, 917
+
+## 1322. 🎁 Conseiller cadeaux IA (2027)
+
+- **Fichier** : `skills/1322-conseiller-cadeaux-ia-2027.md` · **Mot-clé** : « trouver un cadeau ia » · **Nom court** : Cadeau IA
+- **Signal** : Trouver un cadeau pertinent avec un agent IA 2027 : profil du destinataire, budget, occasion, explication du raisonnement · **Synonymes** : « idée cadeau ia » · **Cross-refs** : 644, 541
+
+## 1323. 🧳 Organisateur de voyage IA (2027)
+
+- **Fichier** : `skills/1323-organisateur-de-voyage-ia-2027.md` · **Mot-clé** : « organiser voyage ia 2027 » · **Nom court** : Voyage IA
+- **Signal** : Organiser un voyage avec un agent IA 2027 : itinéraire personnalisé selon météo/budget, réservations, annulation multi-agents (vol+hôtel+activités) · **Synonymes** : « agent voyage ia » · **Cross-refs** : 656, 993
+
+## 1325. 😴 Coach sommeil IA & hygiène de sommeil
+
+- **Fichier** : `skills/1325-coach-sommeil-ia-hygiene-de-sommeil.md` · **Mot-clé** : « coach sommeil ia » · **Nom court** : Sommeil IA
+- **Signal** : Améliorer son sommeil avec un coach IA 2027 : analyse wearable, routine du soir, lumière, caféine, lever fixe, objectif 8 h · **Synonymes** : « mieux dormir ia » · **Cross-refs** : 483, 814
+
+## 1327. 🧠 Coach bien-être mental IA (léger) 2027
+
+- **Fichier** : `skills/1327-coach-bien-etre-mental-ia-leger-2027.md` · **Mot-clé** : « bien-être mental ia 2027 » · **Nom court** : Bien-être IA
+- **Signal** : Coach bien-être mental IA léger 2027 : check-in quotidien, exercices respiration, détection signaux, orientation psy si besoin — pas un thérapeute · **Synonymes** : « santé mentale ia » · **Cross-refs** : 921, 617
+
+## 1328. 🛒 Assistant courses & anti-gaspi IA (2027)
+
+- **Fichier** : `skills/1328-assistant-courses-anti-gaspi-ia-2027.md` · **Mot-clé** : « courses ia 2027 » · **Nom court** : Courses IA
+- **Signal** : Faire ses courses avec un agent IA 2027 : liste selon le frigo/placards, anti-gaspi, comparaison prix, drive optimisé · **Synonymes** : « liste de courses ia » · **Cross-refs** : 1314, 216
+
+## 1330. 📦 Préparation d'un déménagement local (2027)
+
+- **Fichier** : `skills/1330-preparation-d-un-demenagement-local-2027.md` · **Mot-clé** : « déménagement local 2027 » · **Nom court** : Déménagement
+- **Signal** : Déménager localement en 2027 : camion, volume, cartons, démarches changement d'adresse, faire le tri avant, budget déménagement · **Synonymes** : « changer d'appartement » · **Cross-refs** : 991, 955
+
+## 1331. 🩺 Bilan de santé préventif annuel (2027)
+
+- **Fichier** : `skills/1331-bilan-de-sante-preventif-annuel-2027.md` · **Mot-clé** : « bilan santé préventif » · **Nom court** : Bilan santé
+- **Signal** : Préparer son bilan de santé préventif 2027 : examen annuel, dépistages selon âge, vaccins, dossier médical, questions pour le médecin · **Synonymes** : « check-up annuel » · **Cross-refs** : 975, 917
+
+## 1332. 🦯 Bien vieillir & autonomie (2027)
+
+- **Fichier** : `skills/1332-bien-vieillir-autonomie-2027.md` · **Mot-clé** : « bien vieillir 2027 » · **Nom court** : Bien vieillir
+- **Signal** : Préparer le bien vieillir 2027 : prévention chutes, aménagement logement, aide à domicile, aidant familial,APA, téléassistance · **Synonymes** : « autonomie senior » · **Cross-refs** : 915, 859
+
+## 1333. 🐾 Santé de son animal (chien/chat) 2027
+
+- **Fichier** : `skills/1333-sante-de-son-animal-chien-chat-2027.md` · **Mot-clé** : « santé animale 2027 » · **Nom court** : Santé animale
+- **Signal** : Suivi santé de son chien/chat en 2027 : vaccins, vermifuge, alimentation, signes d'alerte, veto, assurance animale · **Synonymes** : « vaccins chien chat » · **Cross-refs** : 1331, 683
+
+## 1335. ⛑️ Premiers secours & trousse d'urgence (2027)
+
+- **Fichier** : `skills/1335-premiers-secours-trousse-d-urgence-2027.md` · **Mot-clé** : « premiers secours 2027 » · **Nom court** : PSC1
+- **Signal** : Se former aux premiers secours 2027 (PSC1), trousse d'urgence, numéros d'urgence, appli Sauv'Vie, plan canicule/inondation · **Synonymes** : « trousse secours » · **Cross-refs** : 859, 915
+
+## 1340. 🚲 Réparation & entretien vélo 2027
+
+- **Fichier** : `skills/1340-reparation-entretien-velo-2027.md` · **Mot-clé** : « réparer son vélo » · **Nom court** : Vélo entretien
+- **Signal** : Entretenir et réparer son vélo en 2027 : crevaison, chaîne, freins, réglage dérailleur, révisions saisonnières, atelier associatif · **Synonymes** : « entretien vélo 2027 » · **Cross-refs** : 988, 959
+
+## 1347. 🧹 Désencombrement & minimalisme (2027)
+
+- **Fichier** : `skills/1347-desencombrement-minimalisme-2027.md` · **Mot-clé** : « désencombrer 2027 » · **Nom court** : Désencombrement
+- **Signal** : Désencombrer sa maison en 2027 : méthode KonMari, règle 1 entré = 1 sorti, vente/don, rangement par catégorie, garde-robe capsule · **Synonymes** : « faire le tri » · **Cross-refs** : 1330, 1316
+
+## 1349. ♻️ Cuisine anti-gaspi & restes (2027)
+
+- **Fichier** : `skills/1349-cuisine-anti-gaspi-restes-2027.md` · **Mot-clé** : « anti-gaspi cuisine » · **Nom court** : Anti-gaspi
+- **Signal** : Cuisiner les restes et éviter le gaspillage en 2027 : recettes anti-gaspi, conservation, congélation, appli Too Good To Go, compost · **Synonymes** : « cuisiner les restes » · **Cross-refs** : 1328, 1314
 

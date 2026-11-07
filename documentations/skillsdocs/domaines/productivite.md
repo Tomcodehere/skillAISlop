@@ -1,4 +1,4 @@
-# Domaine : Productivité (37 skills)
+# Domaine : Productivité (39 skills)
 
 ## 5. 📄 Synthèse & résumé de documents
 
@@ -184,4 +184,14 @@
 
 - **Fichier** : `skills/1266-security-engineering-appsec-automation.md` · **Mot-clé** : « security-engineering-appsec-automation » · **Nom court** : Security Engineering (AppSec A
 - **Signal** : Industrialiser les controles securite dans le cycle de delivery. · **Synonymes** : « vulnerabilites », « repetitives », « secrets » · **Cross-refs** : 27
+
+## 1326. 🗓️ Planificateur de semaine IA (2027)
+
+- **Fichier** : `skills/1326-planificateur-de-semaine-ia-2027.md` · **Mot-clé** : « planifier semaine ia » · **Nom court** : Semaine IA
+- **Signal** : Planifier sa semaine avec un agent IA 2027 : blocs de deep work, réunions regroupées, tâches selon énergie, rappels intelligents · **Synonymes** : « agenda intelligent 2027 » · **Cross-refs** : 465, 813
+
+## 1346. 🌅 Créer une routine matinale efficace (2027)
+
+- **Fichier** : `skills/1346-creer-une-routine-matinale-efficace-2027.md` · **Mot-clé** : « routine matinale 2027 » · **Nom court** : Routine matin
+- **Signal** : Créer une routine matinale 2027 qui tient : réveil fixe, lumière, hydratation, mouvement 10 min, 1 priorité avant les écrans · **Synonymes** : « morning routine » · **Cross-refs** : 1325, 1326
 

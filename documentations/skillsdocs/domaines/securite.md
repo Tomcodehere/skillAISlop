@@ -1,4 +1,4 @@
-# Domaine : Sécurité (52 skills)
+# Domaine : Sécurité (56 skills)
 
 ## 191. 🚔 Détecteur de fraudes & anomalies de logs
 
@@ -259,4 +259,24 @@
 
 - **Fichier** : `skills/957-gestion-d-un-piratage-de-compte-mail-reseau-social.md` · **Mot-clé** : « compte piraté 2027 » · **Nom court** : Compte piraté
 - **Signal** : Compte piraté (mail, Instagram, banque) 2027, récupération, 2FA, changement mots de passe, sessions actives, signalement · **Synonymes** : « mon compte a été hacké » · **Cross-refs** : 665, 953
+
+## 1334. 🏡 Sécurité domicile & alarme (2027)
+
+- **Fichier** : `skills/1334-securite-domicile-alarme-2027.md` · **Mot-clé** : « sécurité domicile 2027 » · **Nom court** : Sécurité domicile
+- **Signal** : Sécuriser son domicile en 2027 : alarme connectée, détecteurs fumée, serrure renforcée, voisinage, télésurveillance, assurance à jour · **Synonymes** : « alarme maison » · **Cross-refs** : 965, 907
+
+## 1336. 📱 Prévention arnaques QR codes & faux courriers (2027)
+
+- **Fichier** : `skills/1336-prevention-arnaques-qr-codes-faux-courriers-2027.md` · **Mot-clé** : « arnaque qr code 2027 » · **Nom court** : QR arnaque
+- **Signal** : Arnaques 2027 : faux QR codes (impôts, amendes, colis), faux courriers, smishing, ne jamais scanner un QR non demandé, vérifier l'expéditeur · **Synonymes** : « faux courrier impôts » · **Cross-refs** : 839, 953
+
+## 1337. 🔑 Gestion des mots de passe & gestionnaire (2027)
+
+- **Fichier** : `skills/1337-gestion-des-mots-de-passe-gestionnaire-2027.md` · **Mot-clé** : « gestionnaire mots de passe 2027 » · **Nom court** : Passkeys
+- **Signal** : Gérer ses mots de passe en 2027 : gestionnaire de mots de passe, passkeys FIDO2, mots uniques, 2FA partout, coffre numérique pour proches · **Synonymes** : « passkey fido2 » · **Cross-refs** : 665, 957
+
+## 1339. ✈️ Prévention cambriolage & vacances tranquilles (2027)
+
+- **Fichier** : `skills/1339-prevention-cambriolage-vacances-tranquilles-2027.md` · **Mot-clé** : « vacances tranquilles 2027 » · **Nom court** : Vacances sûres
+- **Signal** : Partir en vacances tranquilles en 2027 : simuler une présence, fermer volets, vider la boîte aux lettres, alarme, assurance, contacts de confiance · **Synonymes** : « prévenir cambriolage vacances » · **Cross-refs** : 1334, 994
 
