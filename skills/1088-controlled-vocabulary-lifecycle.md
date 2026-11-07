@@ -9,6 +9,7 @@ nom_court: "Controlled Vocabulary Lifecycl"
 branche: "D25"
 synonymes: ["demande", "portant", "controlled"]
 cross_refs: [891]
+tags: ["2027"]
 ---
 
 ## 1088. 📋 Controlled Vocabulary Lifecycle

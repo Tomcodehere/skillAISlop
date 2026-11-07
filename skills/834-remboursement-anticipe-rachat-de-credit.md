@@ -9,6 +9,7 @@ nom_court: "Remb. anticipé"
 branche: "D29"
 synonymes: ["rachat de crédit"]
 cross_refs: [298, 833]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

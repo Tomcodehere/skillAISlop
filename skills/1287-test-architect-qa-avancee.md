@@ -9,6 +9,7 @@ nom_court: "Test Architect (QA avancee)"
 branche: "D1"
 synonymes: ["defauts", "production", "malgre"]
 cross_refs: [308]
+tags: ["2027"]
 ---
 
 ## 1287. 💻 Test Architect (QA avancee)

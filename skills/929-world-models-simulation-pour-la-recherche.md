@@ -9,6 +9,7 @@ nom_court: "World model"
 branche: "D14"
 synonymes: ["simulation ia recherche"]
 cross_refs: [693, 266]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

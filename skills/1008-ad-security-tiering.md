@@ -9,6 +9,7 @@ nom_court: "AD Security & Tiering"
 branche: "D14"
 synonymes: ["securite", "tiering", "model"]
 cross_refs: [1055]
+tags: ["2027"]
 ---
 
 ## 1008. 🧠 AD Security & Tiering

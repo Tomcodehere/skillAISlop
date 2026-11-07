@@ -9,6 +9,7 @@ nom_court: "Documentation Example Verifica"
 branche: "D1"
 synonymes: ["demande", "portant", "documentation"]
 cross_refs: [68]
+tags: ["2027"]
 ---
 
 ## 1112. 💻 Documentation Example Verification

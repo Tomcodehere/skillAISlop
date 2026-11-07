@@ -9,6 +9,7 @@ nom_court: "Small File-Format Transformati"
 branche: "D24"
 synonymes: ["demande", "portant", "small"]
 cross_refs: [11]
+tags: ["2027"]
 ---
 
 ## 1272. 🎓 Small File-Format Transformation

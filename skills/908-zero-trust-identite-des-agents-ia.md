@@ -9,6 +9,7 @@ nom_court: "Zero Trust"
 branche: "D23"
 synonymes: ["gouvernance identités ia"]
 cross_refs: [801, 819]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

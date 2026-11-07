@@ -9,6 +9,7 @@ nom_court: "RI"
 branche: "D24"
 synonymes: ["charte informatique"]
 cross_refs: [792, 207]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "2D Animation Cutout & Frame-by"
 branche: "D22"
 synonymes: ["demande", "portant", "animation"]
 cross_refs: [138]
+tags: ["2027"]
 ---
 
 ## 1291. 🎨 2D Animation Cutout & Frame-by-Frame

@@ -9,6 +9,7 @@ nom_court: "Bilan 2027"
 branche: "D25"
 synonymes: ["nouvelle année 2027 résolutions"]
 cross_refs: [949, 899]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

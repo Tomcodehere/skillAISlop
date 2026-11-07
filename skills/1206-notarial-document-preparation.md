@@ -9,6 +9,7 @@ nom_court: "Notarial Document Preparation"
 branche: "D25"
 synonymes: ["utilisateur", "preparer", "pieces"]
 cross_refs: [192]
+tags: ["2027"]
 ---
 
 ## 1206. 📋 Notarial Document Preparation

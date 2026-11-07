@@ -9,6 +9,7 @@ nom_court: "Impayé loyer"
 branche: "D29"
 synonymes: ["locataire ne paie plus"]
 cross_refs: [554, 371]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

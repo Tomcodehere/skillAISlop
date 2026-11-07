@@ -9,6 +9,7 @@ nom_court: "Krita Digital Painting Workflo"
 branche: "D1"
 synonymes: ["demande", "portant", "krita"]
 cross_refs: [1142]
+tags: ["2027"]
 ---
 
 ## 1174. 💻 Krita Digital Painting Workflow

@@ -9,6 +9,7 @@ nom_court: "Testament"
 branche: "D29"
 synonymes: ["faire son testament"]
 cross_refs: [837, 651]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

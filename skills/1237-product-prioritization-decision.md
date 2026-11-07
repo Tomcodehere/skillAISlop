@@ -9,6 +9,7 @@ nom_court: "Product Prioritization Decisio"
 branche: "D22"
 synonymes: ["demande", "portant", "product"]
 cross_refs: [1300]
+tags: ["2027"]
 ---
 
 ## 1237. 📦 Product Prioritization Decision

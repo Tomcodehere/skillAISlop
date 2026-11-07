@@ -9,6 +9,7 @@ nom_court: "Réclamation"
 branche: "D9"
 synonymes: ["lettre de réclamation"]
 cross_refs: [796, 648]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

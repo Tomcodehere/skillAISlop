@@ -9,6 +9,7 @@ nom_court: "Déco 2027"
 branche: "D26"
 synonymes: ["tendance déco 2027"]
 cross_refs: [926, 141]
+tags: ["2027"]
 ---
 
 ## 1316. 🎨 Déco 2027 : vert Saule & matières durables

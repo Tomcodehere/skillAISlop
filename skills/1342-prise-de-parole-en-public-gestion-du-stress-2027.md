@@ -9,6 +9,7 @@ nom_court: "Oral"
 branche: "D15"
 synonymes: ["parler en public"]
 cross_refs: [916, 617]
+tags: ["2027"]
 ---
 
 ## 1342. 🎤 Prise de parole en public & gestion du stress (2027)

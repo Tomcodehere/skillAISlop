@@ -9,6 +9,7 @@ nom_court: "Multi-OS Integration Strategy"
 branche: "D1"
 synonymes: ["integration", "windows", "linux"]
 cross_refs: [253]
+tags: ["2027"]
 ---
 
 ## 1198. 💻 Multi-OS Integration Strategy

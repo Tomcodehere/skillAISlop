@@ -9,6 +9,7 @@ nom_court: "Blender Hard Surface & Organic"
 branche: "D1"
 synonymes: ["demande", "portant", "blender"]
 cross_refs: [1198]
+tags: ["2027"]
 ---
 
 ## 1051. 💻 Blender Hard Surface & Organic Modeling

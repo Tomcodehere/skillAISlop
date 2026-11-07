@@ -9,6 +9,7 @@ nom_court: "Achat en ligne"
 branche: "D26"
 synonymes: ["arnaque leboncoin"]
 cross_refs: [842, 758]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "RACI"
 branche: "D25"
 synonymes: ["qui fait quoi"]
 cross_refs: [434, 761]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

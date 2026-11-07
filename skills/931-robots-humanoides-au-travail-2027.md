@@ -9,6 +9,7 @@ nom_court: "Robot humanoïde"
 branche: "D25"
 synonymes: ["robot usine 2027"]
 cross_refs: [907, 259]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

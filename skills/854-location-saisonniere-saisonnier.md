@@ -9,6 +9,7 @@ nom_court: "Location saisonnière"
 branche: "D29"
 synonymes: ["arnaque airbnb"]
 cross_refs: [851, 676]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

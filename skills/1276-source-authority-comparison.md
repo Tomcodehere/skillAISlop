@@ -9,6 +9,7 @@ nom_court: "Source Authority Comparison"
 branche: "D17"
 synonymes: ["demande", "portant", "source"]
 cross_refs: [1066]
+tags: ["2027"]
 ---
 
 ## 1276. 🔬 Source Authority Comparison

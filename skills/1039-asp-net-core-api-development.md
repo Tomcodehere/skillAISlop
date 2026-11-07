@@ -9,6 +9,7 @@ nom_court: "ASP.NET Core API Development"
 branche: "D1"
 synonymes: ["controllers", "minimal", "swagger"]
 cross_refs: [1194]
+tags: ["2027"]
 ---
 
 ## 1039. 💻 ASP.NET Core API Development

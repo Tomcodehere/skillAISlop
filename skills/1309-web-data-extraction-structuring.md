@@ -9,6 +9,7 @@ nom_court: "Web Data Extraction & Structur"
 branche: "D1"
 synonymes: ["structurer", "donnees", "extraites"]
 cross_refs: [1073]
+tags: ["2027"]
 ---
 
 ## 1309. 💻 Web Data Extraction & Structuring

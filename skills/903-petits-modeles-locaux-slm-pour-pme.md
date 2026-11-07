@@ -9,6 +9,7 @@ nom_court: "SLM local"
 branche: "D14"
 synonymes: ["ollama local", "llm local"]
 cross_refs: [688, 802]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

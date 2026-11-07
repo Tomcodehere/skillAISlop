@@ -9,6 +9,7 @@ nom_court: "Business Insight Narrative"
 branche: "D14"
 synonymes: ["demande", "portant", "business"]
 cross_refs: [38]
+tags: ["2027"]
 ---
 
 ## 1058. 🤖 Business Insight Narrative

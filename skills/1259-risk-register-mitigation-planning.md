@@ -9,6 +9,7 @@ nom_court: "Risk Register & Mitigation Pla"
 branche: "D22"
 synonymes: ["registre", "risques", "register"]
 cross_refs: [456]
+tags: ["2027"]
 ---
 
 ## 1259. 🎨 Risk Register & Mitigation Planning

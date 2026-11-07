@@ -9,6 +9,7 @@ nom_court: "Medical Consultation Preparati"
 branche: "D19"
 synonymes: ["utilisateur", "prepare", "rendez-vous"]
 cross_refs: [728]
+tags: ["2027"]
 ---
 
 ## 1082. 🎨 Medical Consultation Preparation

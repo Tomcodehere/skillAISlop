@@ -9,6 +9,7 @@ nom_court: "Shader Visual Effects Authorin"
 branche: "D1"
 synonymes: ["demande", "portant", "shader"]
 cross_refs: [1101]
+tags: ["2027"]
 ---
 
 ## 1270. 💻 Shader Visual Effects Authoring

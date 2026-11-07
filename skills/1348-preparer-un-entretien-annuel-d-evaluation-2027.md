@@ -9,6 +9,7 @@ nom_court: "Entretien annuel"
 branche: "D6"
 synonymes: ["revue annuelle évaluation"]
 cross_refs: [876, 1345]
+tags: ["2027"]
 ---
 
 ## 1348. 📊 Préparer un entretien annuel d'évaluation (2027)

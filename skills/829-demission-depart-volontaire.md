@@ -9,6 +9,7 @@ nom_court: "Démission"
 branche: "D6"
 synonymes: ["lettre de démission"]
 cross_refs: [634, 789]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

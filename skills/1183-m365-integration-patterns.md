@@ -9,6 +9,7 @@ nom_court: "M365 Integration Patterns"
 branche: "D1"
 synonymes: ["integrer", "sharepoint", "onedrive"]
 cross_refs: [1063]
+tags: ["2027"]
 ---
 
 ## 1183. 💻 M365 Integration Patterns

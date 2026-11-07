@@ -9,6 +9,7 @@ nom_court: "Producer-Consumer Data Contrac"
 branche: "D14"
 synonymes: ["demande", "portant", "producer-consumer"]
 cross_refs: [1033]
+tags: ["2027"]
 ---
 
 ## 1234. 🤖 Producer-Consumer Data Contracts

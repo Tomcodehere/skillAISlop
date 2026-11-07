@@ -9,6 +9,7 @@ nom_court: "Skills-based hiring"
 branche: "D25"
 synonymes: ["marque employeur 2027"]
 cross_refs: [790, 912]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Borne recharge"
 branche: "D26"
 synonymes: ["installer wallbox"]
 cross_refs: [959, 935]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

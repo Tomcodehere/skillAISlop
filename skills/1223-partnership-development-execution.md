@@ -9,6 +9,7 @@ nom_court: "Partnership Development & Exec"
 branche: "D22"
 synonymes: ["preparer", "approche", "partenaire"]
 cross_refs: [152]
+tags: ["2027"]
 ---
 
 ## 1223. 🎨 Partnership Development & Execution

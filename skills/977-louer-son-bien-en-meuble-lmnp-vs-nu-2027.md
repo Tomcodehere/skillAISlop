@@ -9,6 +9,7 @@ nom_court: "LMNP vs nue"
 branche: "D29"
 synonymes: ["meublé ou nu 2027"]
 cross_refs: [894, 935]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

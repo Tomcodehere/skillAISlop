@@ -9,6 +9,7 @@ nom_court: "Association"
 branche: "D29"
 synonymes: ["statuts association"]
 cross_refs: [552, 856]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

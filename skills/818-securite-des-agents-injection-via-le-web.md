@@ -9,6 +9,7 @@ nom_court: "Injection web"
 branche: "D23"
 synonymes: ["page web malveillante agent"]
 cross_refs: [692, 803]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

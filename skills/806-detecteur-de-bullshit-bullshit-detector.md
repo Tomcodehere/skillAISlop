@@ -9,6 +9,7 @@ nom_court: "Bullshit detector"
 branche: "D17"
 synonymes: ["bullshit detector"]
 cross_refs: [700, 708]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

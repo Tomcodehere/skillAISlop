@@ -9,6 +9,7 @@ nom_court: "Roast My Idea (Feedback Tough"
 branche: "D14"
 synonymes: ["roast-my-idea", "roast", "projet"]
 cross_refs: [644]
+tags: ["2027"]
 ---
 
 ## 1260. 🧠 Roast My Idea (Feedback Tough Love)

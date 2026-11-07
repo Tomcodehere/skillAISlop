@@ -9,6 +9,7 @@ nom_court: "AI-SI Integration Strategy"
 branche: "D25"
 synonymes: []
 cross_refs: [760]
+tags: ["2027"]
 ---
 
 ## 1025. 📋 AI-SI Integration Strategy

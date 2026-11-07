@@ -9,6 +9,7 @@ nom_court: "Functional Specification & Tra"
 branche: "D1"
 synonymes: ["specification", "fonctionnelle", "exigences"]
 cross_refs: [255]
+tags: ["2027"]
 ---
 
 ## 1134. 💻 Functional Specification & Traceability

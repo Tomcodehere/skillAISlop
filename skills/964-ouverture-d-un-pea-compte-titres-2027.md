@@ -9,6 +9,7 @@ nom_court: "PEA 2027"
 branche: "D29"
 synonymes: ["compte-titres 2027"]
 cross_refs: [835, 519]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

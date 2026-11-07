@@ -9,6 +9,7 @@ nom_court: "Bail 3/6/9"
 branche: "D29"
 synonymes: ["révision loyer commercial"]
 cross_refs: [676, 853]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

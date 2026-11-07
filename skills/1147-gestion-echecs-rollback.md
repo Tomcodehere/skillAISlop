@@ -9,6 +9,7 @@ nom_court: "Gestion Echecs & Rollback"
 branche: "D14"
 synonymes: ["echec", "execution", "retour"]
 cross_refs: [567]
+tags: ["2027"]
 ---
 
 ## 1147. 🧠 Gestion Echecs & Rollback

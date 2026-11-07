@@ -9,6 +9,7 @@ nom_court: "Santé animale"
 branche: "D27"
 synonymes: ["vaccins chien chat"]
 cross_refs: [1331, 683]
+tags: ["2027"]
 ---
 
 ## 1333. 🐾 Santé de son animal (chien/chat) 2027

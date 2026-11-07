@@ -9,6 +9,7 @@ nom_court: "RAG & Fine-Tuning Strategy Des"
 branche: "D1"
 synonymes: ["demarrage", "projet", "genai"]
 cross_refs: [1220]
+tags: ["2027"]
 ---
 
 ## 1248. 💻 RAG & Fine-Tuning Strategy Design

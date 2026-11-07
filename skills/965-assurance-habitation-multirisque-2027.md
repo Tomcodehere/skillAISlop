@@ -9,6 +9,7 @@ nom_court: "Assurance habitation"
 branche: "D29"
 synonymes: ["multirisque habitation"]
 cross_refs: [683, 895]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

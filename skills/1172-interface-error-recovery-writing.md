@@ -9,6 +9,7 @@ nom_court: "Interface Error-Recovery Writi"
 branche: "D22"
 synonymes: ["demande", "portant", "interface"]
 cross_refs: [1259]
+tags: ["2027"]
 ---
 
 ## 1172. 🎨 Interface Error-Recovery Writing

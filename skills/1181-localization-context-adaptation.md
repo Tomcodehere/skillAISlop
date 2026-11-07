@@ -9,6 +9,7 @@ nom_court: "Localization Context Adaptatio"
 branche: "D22"
 synonymes: ["demande", "portant", "localization"]
 cross_refs: [1212]
+tags: ["2027"]
 ---
 
 ## 1181. 🎨 Localization Context Adaptation

@@ -9,6 +9,7 @@ nom_court: "EES"
 branche: "D26"
 synonymes: ["contrôle biométrique aéroport"]
 cross_refs: [913, 656]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

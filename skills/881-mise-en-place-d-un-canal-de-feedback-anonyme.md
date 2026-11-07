@@ -9,6 +9,7 @@ nom_court: "Feedback anonyme"
 branche: "D24"
 synonymes: ["enquête anonyme"]
 cross_refs: [419, 787]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Semaine IA"
 branche: "D25"
 synonymes: ["agenda intelligent 2027"]
 cross_refs: [465, 813]
+tags: ["2027"]
 ---
 
 ## 1326. 🗓️ Planificateur de semaine IA (2027)

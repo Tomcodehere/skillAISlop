@@ -9,6 +9,7 @@ nom_court: "Adaptive Audio Implementation"
 branche: "D1"
 synonymes: ["demande", "portant", "adaptive"]
 cross_refs: [603]
+tags: ["2027"]
 ---
 
 ## 1009. 💻 Adaptive Audio Implementation

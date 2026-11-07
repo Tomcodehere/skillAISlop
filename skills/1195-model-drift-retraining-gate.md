@@ -9,6 +9,7 @@ nom_court: "Model Drift Retraining Gate"
 branche: "D14"
 synonymes: ["demande", "portant", "model"]
 cross_refs: [820]
+tags: ["2027"]
 ---
 
 ## 1195. 🧠 Model Drift Retraining Gate

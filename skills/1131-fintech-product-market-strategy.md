@@ -9,6 +9,7 @@ nom_court: "FinTech Product & Market Strat"
 branche: "D22"
 synonymes: ["entreprise", "evalue", "opportunite"]
 cross_refs: [179]
+tags: ["2027"]
 ---
 
 ## 1131. 📦 FinTech Product & Market Strategy

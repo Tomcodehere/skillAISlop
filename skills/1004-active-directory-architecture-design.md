@@ -9,6 +9,7 @@ nom_court: "Active Directory Architecture"
 branche: "D1"
 synonymes: ["architecture", "multi-sites", "foret"]
 cross_refs: [1111]
+tags: ["2027"]
 ---
 
 ## 1004. 💻 Active Directory Architecture Design

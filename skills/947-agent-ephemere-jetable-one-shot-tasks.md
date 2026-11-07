@@ -9,6 +9,7 @@ nom_court: "Agent jetable"
 branche: "D14"
 synonymes: ["tâche ponctuelle agent"]
 cross_refs: [927, 820]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

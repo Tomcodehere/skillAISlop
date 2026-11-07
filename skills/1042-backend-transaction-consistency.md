@@ -9,6 +9,7 @@ nom_court: "Backend Transaction Consistenc"
 branche: "D1"
 synonymes: ["demande", "portant", "backend"]
 cross_refs: [1098]
+tags: ["2027"]
 ---
 
 ## 1042. 💻 Backend Transaction Consistency

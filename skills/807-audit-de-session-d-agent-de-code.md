@@ -9,6 +9,7 @@ nom_court: "Audit session"
 branche: "D14"
 synonymes: ["agenttrace"]
 cross_refs: [713, 694]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

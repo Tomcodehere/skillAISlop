@@ -9,6 +9,7 @@ nom_court: "RHEL Package Lifecycle Plan"
 branche: "D25"
 synonymes: ["demande", "portant", "package"]
 cross_refs: [466]
+tags: ["2027"]
 ---
 
 ## 1256. ⚡ RHEL Package Lifecycle Plan

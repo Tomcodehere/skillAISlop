@@ -9,6 +9,7 @@ nom_court: "Courses"
 branche: "D26"
 synonymes: ["anti gaspi"]
 cross_refs: [541, 486]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

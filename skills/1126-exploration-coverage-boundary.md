@@ -9,6 +9,7 @@ nom_court: "Exploration Coverage Boundary"
 branche: "D14"
 synonymes: ["demande", "portant", "exploration"]
 cross_refs: [601]
+tags: ["2027"]
 ---
 
 ## 1126. 🧠 Exploration Coverage Boundary

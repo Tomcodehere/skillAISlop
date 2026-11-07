@@ -9,6 +9,7 @@ nom_court: "Active Directory Management"
 branche: "D22"
 synonymes: ["active", "directory", "users"]
 cross_refs: [1181]
+tags: ["2027"]
 ---
 
 ## 1005. 🎨 Active Directory Management

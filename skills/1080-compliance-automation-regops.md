@@ -9,6 +9,7 @@ nom_court: "Compliance Automation (RegOps)"
 branche: "D22"
 synonymes: ["audits", "conformite", "frequents"]
 cross_refs: [1223]
+tags: ["2027"]
 ---
 
 ## 1080. 🎨 Compliance Automation (RegOps)

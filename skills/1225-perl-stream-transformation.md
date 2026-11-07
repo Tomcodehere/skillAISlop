@@ -9,6 +9,7 @@ nom_court: "Perl Stream Transformation"
 branche: "D22"
 synonymes: ["demande", "portant", "stream"]
 cross_refs: [576]
+tags: ["2027"]
 ---
 
 ## 1225. 🎨 Perl Stream Transformation

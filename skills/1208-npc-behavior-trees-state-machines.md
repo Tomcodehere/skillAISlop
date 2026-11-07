@@ -9,6 +9,7 @@ nom_court: "NPC Behavior Trees & State Mac"
 branche: "D22"
 synonymes: ["demande", "portant", "behavior"]
 cross_refs: [1189]
+tags: ["2027"]
 ---
 
 ## 1208. 🎨 NPC Behavior Trees & State Machines

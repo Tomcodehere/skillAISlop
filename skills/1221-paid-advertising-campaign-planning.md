@@ -9,6 +9,7 @@ nom_court: "Paid Advertising Campaign Plan"
 branche: "D22"
 synonymes: ["elaborer", "media", "campagne"]
 cross_refs: [1236]
+tags: ["2027"]
 ---
 
 ## 1221. 📦 Paid Advertising Campaign Planning

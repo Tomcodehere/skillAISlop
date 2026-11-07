@@ -9,6 +9,7 @@ nom_court: "API Documentation & OpenAPI Sp"
 branche: "D1"
 synonymes: ["documentation", "openapi", "swagger"]
 cross_refs: [1257]
+tags: ["2027"]
 ---
 
 ## 1030. 💻 API Documentation & OpenAPI Specification

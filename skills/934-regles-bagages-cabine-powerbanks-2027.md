@@ -9,6 +9,7 @@ nom_court: "Powerbank avion"
 branche: "D26"
 synonymes: ["batterie avion 2027"]
 cross_refs: [865, 914]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

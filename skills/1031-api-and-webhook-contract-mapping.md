@@ -9,6 +9,7 @@ nom_court: "API and Webhook Contract Mappi"
 branche: "D1"
 synonymes: ["demande", "portant", "webhook"]
 cross_refs: [1099]
+tags: ["2027"]
 ---
 
 ## 1031. 💻 API and Webhook Contract Mapping

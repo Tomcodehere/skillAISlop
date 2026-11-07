@@ -9,6 +9,7 @@ nom_court: "Accessible Alternative Text Re"
 branche: "D14"
 synonymes: ["demande", "portant", "accessible"]
 cross_refs: [98]
+tags: ["2027"]
 ---
 
 ## 1002. 🧠 Accessible Alternative Text Review

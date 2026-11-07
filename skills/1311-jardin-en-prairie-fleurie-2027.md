@@ -9,6 +9,7 @@ nom_court: "Prairie fleurie"
 branche: "D26"
 synonymes: ["pelouse alternative"]
 cross_refs: [915, 958]
+tags: ["2027"]
 ---
 
 ## 1311. 🌼 Jardin en prairie fleurie (2027)

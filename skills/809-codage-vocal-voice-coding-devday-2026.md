@@ -9,6 +9,7 @@ nom_court: "Voice coding"
 branche: "D1"
 synonymes: ["coder à la voix"]
 cross_refs: [76, 471]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

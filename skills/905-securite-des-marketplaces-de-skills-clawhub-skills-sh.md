@@ -9,6 +9,7 @@ nom_court: "Skill malveillante"
 branche: "D23"
 synonymes: ["malware clawhub"]
 cross_refs: [716, 818]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

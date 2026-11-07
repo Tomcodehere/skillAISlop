@@ -9,6 +9,7 @@ nom_court: "Trek 2027"
 branche: "D26"
 synonymes: ["randonnée gr 2027"]
 cross_refs: [914, 915]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

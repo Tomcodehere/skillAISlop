@@ -9,6 +9,7 @@ nom_court: "Language Correction Regression"
 branche: "D22"
 synonymes: ["demande", "portant", "language"]
 cross_refs: [1153]
+tags: ["2027"]
 ---
 
 ## 1176. 🎨 Language Correction Regression Suite

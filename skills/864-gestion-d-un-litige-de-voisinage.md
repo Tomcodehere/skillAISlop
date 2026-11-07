@@ -9,6 +9,7 @@ nom_court: "Voisinage"
 branche: "D29"
 synonymes: ["nuisances sonores voisin"]
 cross_refs: [649, 529]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

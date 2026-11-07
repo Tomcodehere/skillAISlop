@@ -9,6 +9,7 @@ nom_court: "Mobilité interne"
 branche: "D6"
 synonymes: ["évolution interne 2027"]
 cross_refs: [919, 876]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

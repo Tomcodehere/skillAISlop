@@ -9,6 +9,7 @@ nom_court: "Intelligent UI"
 branche: "D22"
 synonymes: ["ui générative"]
 cross_refs: [823, 805]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

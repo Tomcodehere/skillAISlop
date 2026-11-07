@@ -9,6 +9,7 @@ nom_court: "Marketing Email Sequence Draft"
 branche: "D20"
 synonymes: ["demande", "portant", "marketing"]
 cross_refs: [612]
+tags: ["2027"]
 ---
 
 ## 1186. 📣 Marketing Email Sequence Drafting

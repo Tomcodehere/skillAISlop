@@ -9,6 +9,7 @@ nom_court: "Generative Model Selection & E"
 branche: "D14"
 synonymes: ["demarrage", "projet", "genai"]
 cross_refs: [328]
+tags: ["2027"]
 ---
 
 ## 1143. 🧠 Generative Model Selection & Evaluation

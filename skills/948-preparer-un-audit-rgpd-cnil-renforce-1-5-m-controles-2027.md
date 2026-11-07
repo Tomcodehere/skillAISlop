@@ -9,6 +9,7 @@ nom_court: "Audit CNIL"
 branche: "D29"
 synonymes: ["contrôle cnil 2027"]
 cross_refs: [695, 843]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

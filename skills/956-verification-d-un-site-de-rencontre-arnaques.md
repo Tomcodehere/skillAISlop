@@ -9,6 +9,7 @@ nom_court: "Love scam"
 branche: "D23"
 synonymes: ["love scam"]
 cross_refs: [842, 839]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

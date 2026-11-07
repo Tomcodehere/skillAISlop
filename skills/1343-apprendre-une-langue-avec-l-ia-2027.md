@@ -9,6 +9,7 @@ nom_court: "Langue IA"
 branche: "D7"
 synonymes: ["espagnol ia"]
 cross_refs: [1321, 708]
+tags: ["2027"]
 ---
 
 ## 1343. 🗣️ Apprendre une langue avec l'IA (2027)

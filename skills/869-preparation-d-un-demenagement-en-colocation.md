@@ -9,6 +9,7 @@ nom_court: "Déménagement coloc"
 branche: "D26"
 synonymes: ["check-list déménagement"]
 cross_refs: [653, 828]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "MySQL Query Optimization"
 branche: "D1"
 synonymes: ["requetes", "lentes", "recurrentes"]
 cross_refs: [1166]
+tags: ["2027"]
 ---
 
 ## 1201. 💻 MySQL Query Optimization

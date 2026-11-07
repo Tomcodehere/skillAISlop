@@ -9,6 +9,7 @@ nom_court: "Adversarial Testing & Robustne"
 branche: "D1"
 synonymes: ["campagnes", "mensuelles", "robustesse"]
 cross_refs: [110]
+tags: ["2027"]
 ---
 
 ## 1011. 💻 Adversarial Testing & Robustness

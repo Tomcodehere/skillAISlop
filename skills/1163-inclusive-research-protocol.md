@@ -9,6 +9,7 @@ nom_court: "Inclusive Research Protocol"
 branche: "D22"
 synonymes: ["demande", "portant", "inclusive"]
 cross_refs: [456]
+tags: ["2027"]
 ---
 
 ## 1163. 🎨 Inclusive Research Protocol

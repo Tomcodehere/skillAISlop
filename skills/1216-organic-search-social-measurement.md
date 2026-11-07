@@ -9,6 +9,7 @@ nom_court: "Organic Search & Social Measur"
 branche: "D1"
 synonymes: ["definir", "organiques", "strategie"]
 cross_refs: [821]
+tags: ["2027"]
 ---
 
 ## 1216. 💻 Organic Search & Social Measurement

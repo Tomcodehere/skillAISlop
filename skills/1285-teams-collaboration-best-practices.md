@@ -9,6 +9,7 @@ nom_court: "Teams Collaboration Best Pract"
 branche: "D1"
 synonymes: ["structurer", "equipes", "canaux"]
 cross_refs: [803]
+tags: ["2027"]
 ---
 
 ## 1285. 💻 Teams Collaboration Best Practices

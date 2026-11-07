@@ -9,6 +9,7 @@ nom_court: "Certificate Management Applica"
 branche: "D1"
 synonymes: ["certificat", "expire", "configurer"]
 cross_refs: [1146]
+tags: ["2027"]
 ---
 
 ## 1063. 💻 Certificate Management Applications

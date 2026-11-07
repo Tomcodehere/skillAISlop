@@ -9,6 +9,7 @@ nom_court: "Inclusive Design Psychology (P"
 branche: "D22"
 synonymes: ["accessibilite", "cognitive", "inclusif"]
 cross_refs: [1210]
+tags: ["2027"]
 ---
 
 ## 1162. 🎨 Inclusive Design Psychology (Psychologie Design Inclusif)

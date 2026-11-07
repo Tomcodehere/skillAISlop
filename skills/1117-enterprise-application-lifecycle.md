@@ -9,6 +9,7 @@ nom_court: "Enterprise Application Lifecyc"
 branche: "D1"
 synonymes: ["deployer", "installer", "gitlab"]
 cross_refs: [81]
+tags: ["2027"]
 ---
 
 ## 1117. 💻 Enterprise Application Lifecycle

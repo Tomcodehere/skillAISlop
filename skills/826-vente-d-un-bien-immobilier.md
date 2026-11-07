@@ -9,6 +9,7 @@ nom_court: "Vendre son bien"
 branche: "D29"
 synonymes: ["estimation immobilière"]
 cross_refs: [675, 45]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

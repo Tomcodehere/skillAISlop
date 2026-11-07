@@ -9,6 +9,7 @@ nom_court: "Conflit collègues"
 branche: "D25"
 synonymes: ["dispute au travail"]
 cross_refs: [762, 649]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

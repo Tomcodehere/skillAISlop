@@ -9,6 +9,7 @@ nom_court: "Multi-Cloud Tradeoff Analysis"
 branche: "D25"
 synonymes: ["compare", "azure", "faut-il"]
 cross_refs: [668]
+tags: ["2027"]
 ---
 
 ## 1197. 📋 Multi-Cloud Tradeoff Analysis

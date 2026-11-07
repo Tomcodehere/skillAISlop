@@ -9,6 +9,7 @@ nom_court: "Anti-Bot Evasion & Scraping Be"
 branche: "D1"
 synonymes: ["anti-bot", "limiting", "rotation"]
 cross_refs: [91]
+tags: ["2027"]
 ---
 
 ## 1029. 💻 Anti-Bot Evasion & Scraping Best Practices

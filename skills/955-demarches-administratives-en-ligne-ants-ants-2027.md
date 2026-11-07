@@ -9,6 +9,7 @@ nom_court: "ANTS en ligne"
 branche: "D25"
 synonymes: ["carte grise en ligne"]
 cross_refs: [664, 471]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

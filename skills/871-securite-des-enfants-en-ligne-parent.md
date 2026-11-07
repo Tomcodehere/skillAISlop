@@ -9,6 +9,7 @@ nom_court: "E-sécurité enfants"
 branche: "D23"
 synonymes: ["contrôle parental"]
 cross_refs: [597, 813]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

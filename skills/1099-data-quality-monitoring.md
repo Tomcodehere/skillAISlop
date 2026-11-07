@@ -9,6 +9,7 @@ nom_court: "Data Quality Monitoring"
 branche: "D1"
 synonymes: ["place", "quality", "checks"]
 cross_refs: [1280]
+tags: ["2027"]
 ---
 
 ## 1099. 💻 Data Quality Monitoring

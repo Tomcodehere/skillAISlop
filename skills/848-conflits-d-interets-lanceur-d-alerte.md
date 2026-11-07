@@ -9,6 +9,7 @@ nom_court: "Conflit d'intérêts"
 branche: "D29"
 synonymes: ["déclaration d'intérêt"]
 cross_refs: [191, 637]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

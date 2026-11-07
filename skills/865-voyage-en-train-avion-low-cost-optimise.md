@@ -9,6 +9,7 @@ nom_court: "Billet low-cost"
 branche: "D26"
 synonymes: ["vol low cost"]
 cross_refs: [656, 42]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

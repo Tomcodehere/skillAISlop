@@ -9,6 +9,7 @@ nom_court: "Foundation Model Support Watch"
 branche: "D14"
 synonymes: ["demande", "portant", "foundation"]
 cross_refs: [334]
+tags: ["2027"]
 ---
 
 ## 1133. 🧠 Foundation Model Support Watch

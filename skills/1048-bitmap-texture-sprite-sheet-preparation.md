@@ -9,6 +9,7 @@ nom_court: "Bitmap Texture & Sprite Sheet"
 branche: "D22"
 synonymes: ["demande", "portant", "bitmap"]
 cross_refs: [1295]
+tags: ["2027"]
 ---
 
 ## 1048. 🎨 Bitmap Texture & Sprite Sheet Preparation

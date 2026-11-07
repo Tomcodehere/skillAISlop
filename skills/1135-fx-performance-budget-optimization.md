@@ -9,6 +9,7 @@ nom_court: "FX Performance Budget Optimiza"
 branche: "D22"
 synonymes: ["demande", "portant", "performance"]
 cross_refs: [1212]
+tags: ["2027"]
 ---
 
 ## 1135. 🎨 FX Performance Budget Optimization

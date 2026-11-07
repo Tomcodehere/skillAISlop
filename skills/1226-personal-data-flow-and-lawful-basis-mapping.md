@@ -9,6 +9,7 @@ nom_court: "Personal Data Flow and Lawful-"
 branche: "D14"
 synonymes: ["demande", "portant", "personal"]
 cross_refs: [1020]
+tags: ["2027"]
 ---
 
 ## 1226. 🤖 Personal Data Flow and Lawful-Basis Mapping

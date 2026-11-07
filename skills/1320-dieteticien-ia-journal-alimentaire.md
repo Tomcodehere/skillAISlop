@@ -9,6 +9,7 @@ nom_court: "Diété IA"
 branche: "D27"
 synonymes: ["nutrition ia"]
 cross_refs: [941, 917]
+tags: ["2027"]
 ---
 
 ## 1320. 🥗 Diététicien IA & journal alimentaire

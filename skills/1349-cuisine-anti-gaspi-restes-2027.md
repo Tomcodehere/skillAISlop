@@ -9,6 +9,7 @@ nom_court: "Anti-gaspi"
 branche: "D26"
 synonymes: ["cuisiner les restes"]
 cross_refs: [1328, 1314]
+tags: ["2027"]
 ---
 
 ## 1349. ♻️ Cuisine anti-gaspi & restes (2027)

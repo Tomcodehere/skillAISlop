@@ -9,6 +9,7 @@ nom_court: "Quality Rule Acceptance Design"
 branche: "D1"
 synonymes: ["demande", "portant", "quality"]
 cross_refs: [524]
+tags: ["2027"]
 ---
 
 ## 1247. 💻 Quality Rule Acceptance Design

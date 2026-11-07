@@ -9,6 +9,7 @@ nom_court: "Blender Game-Ready Export Pipe"
 branche: "D1"
 synonymes: ["demande", "portant", "blender"]
 cross_refs: [1202]
+tags: ["2027"]
 ---
 
 ## 1050. 💻 Blender Game-Ready Export Pipeline

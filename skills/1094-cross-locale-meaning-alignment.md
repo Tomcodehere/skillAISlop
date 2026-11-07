@@ -9,6 +9,7 @@ nom_court: "Cross-Locale Meaning Alignment"
 branche: "D22"
 synonymes: ["demande", "portant", "cross-locale"]
 cross_refs: [1156]
+tags: ["2027"]
 ---
 
 ## 1094. 🎨 Cross-Locale Meaning Alignment

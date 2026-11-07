@@ -9,6 +9,7 @@ nom_court: "UX Researcher (Discovery)"
 branche: "D22"
 synonymes: ["hypotheses", "produit", "validees"]
 cross_refs: [1079]
+tags: ["2027"]
 ---
 
 ## 1300. 📦 UX Researcher (Discovery)

@@ -9,6 +9,7 @@ nom_court: "Rénovation globale"
 branche: "D29"
 synonymes: ["dpe 2027 interdiction location"]
 cross_refs: [935, 894]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

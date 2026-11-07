@@ -9,6 +9,7 @@ nom_court: "Désencombrement"
 branche: "D26"
 synonymes: ["faire le tri"]
 cross_refs: [1330, 1316]
+tags: ["2027"]
 ---
 
 ## 1347. 🧹 Désencombrement & minimalisme (2027)

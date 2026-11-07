@@ -9,6 +9,7 @@ nom_court: "MLOps & Model Lifecycle Manage"
 branche: "D14"
 synonymes: ["production", "premier", "modele"]
 cross_refs: [1119]
+tags: ["2027"]
 ---
 
 ## 1193. 🧠 MLOps & Model Lifecycle Management

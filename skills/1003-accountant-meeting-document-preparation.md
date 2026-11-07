@@ -9,6 +9,7 @@ nom_court: "Accountant Meeting & Document"
 branche: "D19"
 synonymes: ["utilisateur", "prepare", "rendez-vous"]
 cross_refs: [155]
+tags: ["2027"]
 ---
 
 ## 1003. 🎨 Accountant Meeting & Document Preparation

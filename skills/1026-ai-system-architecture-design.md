@@ -9,6 +9,7 @@ nom_court: "AI System Architecture Design"
 branche: "D1"
 synonymes: []
 cross_refs: [1077]
+tags: ["2027"]
 ---
 
 ## 1026. 💻 AI System Architecture Design

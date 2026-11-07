@@ -9,6 +9,7 @@ nom_court: "Alternant"
 branche: "D24"
 synonymes: ["contrat apprentissage"]
 cross_refs: [790, 411]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

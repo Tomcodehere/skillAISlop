@@ -9,6 +9,7 @@ nom_court: "Content Approval Evidence"
 branche: "D17"
 synonymes: ["demande", "portant", "content"]
 cross_refs: [105]
+tags: ["2027"]
 ---
 
 ## 1084. 🔬 Content Approval Evidence

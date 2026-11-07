@@ -9,6 +9,7 @@ nom_court: "Meaning-Preserving Reformulati"
 branche: "D25"
 synonymes: ["demande", "portant", "meaning-preserving"]
 cross_refs: [1307]
+tags: ["2027"]
 ---
 
 ## 1187. 📋 Meaning-Preserving Reformulation

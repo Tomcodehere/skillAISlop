@@ -9,6 +9,7 @@ nom_court: "System Monitoring & Observabil"
 branche: "D1"
 synonymes: ["monitoring", "systeme", "observabilite"]
 cross_refs: [1083]
+tags: ["2027"]
 ---
 
 ## 1282. 💻 System Monitoring & Observability

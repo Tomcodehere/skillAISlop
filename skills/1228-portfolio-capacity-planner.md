@@ -9,6 +9,7 @@ nom_court: "Portfolio / Capacity Planner"
 branche: "D22"
 synonymes: ["surcharge", "recurrente", "taches"]
 cross_refs: [572]
+tags: ["2027"]
 ---
 
 ## 1228. 🎨 Portfolio / Capacity Planner

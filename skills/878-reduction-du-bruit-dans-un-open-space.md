@@ -9,6 +9,7 @@ nom_court: "Open space"
 branche: "D25"
 synonymes: ["concentration bureau"]
 cross_refs: [465, 813]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

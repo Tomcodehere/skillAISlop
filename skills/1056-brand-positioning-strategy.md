@@ -9,6 +9,7 @@ nom_court: "Brand Positioning Strategy"
 branche: "D20"
 synonymes: ["definir", "revoir", "positionnement"]
 cross_refs: [360]
+tags: ["2027"]
 ---
 
 ## 1056. 📣 Brand Positioning Strategy

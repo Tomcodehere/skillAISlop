@@ -9,6 +9,7 @@ nom_court: "VEFA 2027"
 branche: "D29"
 synonymes: ["acheter neuf 2027"]
 cross_refs: [675, 966]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

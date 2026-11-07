@@ -9,6 +9,7 @@ nom_court: "Prompt Engineer & Guardrails"
 branche: "D14"
 synonymes: ["reponses", "perimetre", "frequentes"]
 cross_refs: [17]
+tags: ["2027"]
 ---
 
 ## 1241. 🧠 Prompt Engineer & Guardrails

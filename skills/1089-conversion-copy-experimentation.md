@@ -9,6 +9,7 @@ nom_court: "Conversion Copy Experimentatio"
 branche: "D1"
 synonymes: ["baisse", "conversion", "landing"]
 cross_refs: [733]
+tags: ["2027"]
 ---
 
 ## 1089. 💻 Conversion Copy Experimentation

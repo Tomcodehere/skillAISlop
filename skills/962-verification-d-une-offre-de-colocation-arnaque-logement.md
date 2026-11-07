@@ -9,6 +9,7 @@ nom_court: "Arnaque logement"
 branche: "D17"
 synonymes: ["fausse annonce immo"]
 cross_refs: [870, 854]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

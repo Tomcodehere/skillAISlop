@@ -9,6 +9,7 @@ nom_court: "ML Pipeline Design & Evaluatio"
 branche: "D1"
 synonymes: ["demarrage", "nouveau", "usage"]
 cross_refs: [1222]
+tags: ["2027"]
 ---
 
 ## 1194. 💻 ML Pipeline Design & Evaluation

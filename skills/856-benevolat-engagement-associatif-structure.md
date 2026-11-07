@@ -9,6 +9,7 @@ nom_court: "Bénévolat"
 branche: "D25"
 synonymes: ["s'engager association"]
 cross_refs: [532, 552]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

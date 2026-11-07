@@ -9,6 +9,7 @@ nom_court: "Crise perso"
 branche: "D26"
 synonymes: ["démarches après décès"]
 cross_refs: [651, 617]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Repository Entry-Point Survey"
 branche: "D25"
 synonymes: ["demande", "portant", "repository"]
 cross_refs: [1211]
+tags: ["2027"]
 ---
 
 ## 1253. 📋 Repository Entry-Point Survey

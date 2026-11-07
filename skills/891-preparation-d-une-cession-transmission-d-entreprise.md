@@ -9,6 +9,7 @@ nom_court: "Cession entreprise"
 branche: "D29"
 synonymes: ["transmission entreprise"]
 cross_refs: [527, 837]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

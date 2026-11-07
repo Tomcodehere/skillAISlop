@@ -9,6 +9,7 @@ nom_court: "IA on-device"
 branche: "D16"
 synonymes: ["apple intelligence 2027"]
 cross_refs: [903, 841]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

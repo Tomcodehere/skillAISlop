@@ -9,6 +9,7 @@ nom_court: "Grammar & Orthography Complian"
 branche: "D15"
 synonymes: ["relecture", "documentation", "utilisateur"]
 cross_refs: [120]
+tags: ["2027"]
 ---
 
 ## 1152. ✍️ Grammar & Orthography Compliance Audit

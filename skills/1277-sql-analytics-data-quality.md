@@ -9,6 +9,7 @@ nom_court: "SQL Analytics & Data Quality"
 branche: "D1"
 synonymes: []
 cross_refs: [1128]
+tags: ["2027"]
 ---
 
 ## 1277. 💻 SQL Analytics & Data Quality

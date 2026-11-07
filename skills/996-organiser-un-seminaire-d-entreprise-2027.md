@@ -9,6 +9,7 @@ nom_court: "Séminaire"
 branche: "D25"
 synonymes: ["team building 2027"]
 cross_refs: [877, 972]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

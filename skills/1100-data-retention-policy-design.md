@@ -9,6 +9,7 @@ nom_court: "Data Retention Policy Design"
 branche: "D14"
 synonymes: ["demande", "portant", "retention"]
 cross_refs: [106]
+tags: ["2027"]
 ---
 
 ## 1100. 🤖 Data Retention Policy Design

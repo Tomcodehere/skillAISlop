@@ -9,6 +9,7 @@ nom_court: "Software Boundary ADR"
 branche: "D25"
 synonymes: ["demande", "portant", "software"]
 cross_refs: [210]
+tags: ["2027"]
 ---
 
 ## 1273. 📋 Software Boundary ADR

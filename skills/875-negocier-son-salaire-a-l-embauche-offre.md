@@ -9,6 +9,7 @@ nom_court: "Négocier offre"
 branche: "D6"
 synonymes: ["contre-offre salaire"]
 cross_refs: [773, 697]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

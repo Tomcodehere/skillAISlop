@@ -9,6 +9,7 @@ nom_court: "Élections CSE"
 branche: "D24"
 synonymes: ["protocole préélectoral"]
 cross_refs: [792, 883]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

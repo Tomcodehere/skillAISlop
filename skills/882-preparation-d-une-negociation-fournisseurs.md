@@ -9,6 +9,7 @@ nom_court: "Négociation fourn."
 branche: "D25"
 synonymes: ["renégocier contrat fournisseur"]
 cross_refs: [825, 198]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

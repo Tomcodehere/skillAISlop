@@ -9,6 +9,7 @@ nom_court: "Component Dependency Conforman"
 branche: "D1"
 synonymes: ["demande", "portant", "component"]
 cross_refs: [1277]
+tags: ["2027"]
 ---
 
 ## 1081. 💻 Component Dependency Conformance

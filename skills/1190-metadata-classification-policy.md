@@ -9,6 +9,7 @@ nom_court: "Metadata Classification Policy"
 branche: "D14"
 synonymes: ["demande", "portant", "metadata"]
 cross_refs: [1234]
+tags: ["2027"]
 ---
 
 ## 1190. 🤖 Metadata Classification Policy

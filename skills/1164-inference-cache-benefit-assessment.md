@@ -9,6 +9,7 @@ nom_court: "Inference Cache Benefit Assess"
 branche: "D14"
 synonymes: ["demande", "portant", "inference"]
 cross_refs: [96]
+tags: ["2027"]
 ---
 
 ## 1164. 🧠 Inference Cache Benefit Assessment

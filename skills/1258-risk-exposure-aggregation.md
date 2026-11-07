@@ -9,6 +9,7 @@ nom_court: "Risk Exposure Aggregation"
 branche: "D14"
 synonymes: ["demande", "portant", "exposure"]
 cross_refs: [338]
+tags: ["2027"]
 ---
 
 ## 1258. 🧠 Risk Exposure Aggregation

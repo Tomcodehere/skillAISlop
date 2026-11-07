@@ -9,6 +9,7 @@ nom_court: "Audit Cohérence Logique Brief"
 branche: "D25"
 synonymes: ["brief", "incomplet", "ambigu"]
 cross_refs: [1273]
+tags: ["2027"]
 ---
 
 ## 1040. 📋 Audit Cohérence Logique Brief

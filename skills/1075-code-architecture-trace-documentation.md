@@ -9,6 +9,7 @@ nom_court: "Code Architecture Trace Docume"
 branche: "D1"
 synonymes: ["demande", "portant", "architecture"]
 cross_refs: [1142]
+tags: ["2027"]
 ---
 
 ## 1075. 💻 Code Architecture Trace Documentation

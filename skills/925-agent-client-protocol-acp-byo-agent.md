@@ -9,6 +9,7 @@ nom_court: "ACP"
 branche: "D14"
 synonymes: ["byo agent"]
 cross_refs: [76, 803]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

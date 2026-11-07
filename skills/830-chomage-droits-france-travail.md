@@ -9,6 +9,7 @@ nom_court: "Chômage"
 branche: "D29"
 synonymes: ["are pôle emploi"]
 cross_refs: [634, 829]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

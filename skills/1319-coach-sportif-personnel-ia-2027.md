@@ -9,6 +9,7 @@ nom_court: "Coach IA sport"
 branche: "D27"
 synonymes: ["programme sport ia"]
 cross_refs: [917, 916]
+tags: ["2027"]
 ---
 
 ## 1319. 🏋️ Coach sportif personnel IA (2027)

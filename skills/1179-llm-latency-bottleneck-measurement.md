@@ -9,6 +9,7 @@ nom_court: "LLM Latency Bottleneck Measure"
 branche: "D14"
 synonymes: ["demande", "portant", "latency"]
 cross_refs: [737]
+tags: ["2027"]
 ---
 
 ## 1179. 🧠 LLM Latency Bottleneck Measurement

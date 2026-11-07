@@ -9,6 +9,7 @@ nom_court: "Détection Boucles Délégation"
 branche: "D25"
 synonymes: ["tache", "revenue", "pattern"]
 cross_refs: [1197]
+tags: ["2027"]
 ---
 
 ## 1106. 📋 Détection Boucles Délégation

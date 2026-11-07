@@ -9,6 +9,7 @@ nom_court: "AI Feature Prioritization & Me"
 branche: "D14"
 synonymes: ["prioriser", "backlog", "features"]
 cross_refs: [1058]
+tags: ["2027"]
 ---
 
 ## 1020. 🤖 AI Feature Prioritization & Metrics

@@ -9,6 +9,7 @@ nom_court: "AI Model Release Value Decisio"
 branche: "D1"
 synonymes: ["demande", "portant", "model"]
 cross_refs: [1305]
+tags: ["2027"]
 ---
 
 ## 1022. 💻 AI Model Release Value Decision

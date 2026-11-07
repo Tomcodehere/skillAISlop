@@ -9,6 +9,7 @@ nom_court: "Colocation"
 branche: "D29"
 synonymes: ["règlement coloc"]
 cross_refs: [592, 676]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

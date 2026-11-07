@@ -9,6 +9,7 @@ nom_court: "Reprise salariés"
 branche: "D29"
 synonymes: ["pacte papin"]
 cross_refs: [891, 888]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

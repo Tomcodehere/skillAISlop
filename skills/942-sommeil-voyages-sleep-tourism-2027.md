@@ -9,6 +9,7 @@ nom_court: "Sleep tourism"
 branche: "D27"
 synonymes: ["voyage sommeil"]
 cross_refs: [814, 915]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

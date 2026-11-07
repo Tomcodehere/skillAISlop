@@ -9,6 +9,7 @@ nom_court: "Droit à l'oubli"
 branche: "D29"
 synonymes: ["déréférencement"]
 cross_refs: [695, 189]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

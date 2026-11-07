@@ -9,6 +9,7 @@ nom_court: "Game Economy Sources & Sinks M"
 branche: "D14"
 synonymes: ["demande", "portant", "economy"]
 cross_refs: [337]
+tags: ["2027"]
 ---
 
 ## 1138. 🧠 Game Economy Sources & Sinks Modeling

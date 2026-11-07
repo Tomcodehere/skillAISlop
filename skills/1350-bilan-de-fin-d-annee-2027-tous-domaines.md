@@ -9,6 +9,7 @@ nom_court: "Bilan 2027"
 branche: "D25"
 synonymes: ["objectifs 2028"]
 cross_refs: [999, 949]
+tags: ["2027"]
 ---
 
 ## 1350. ✅ Bilan de fin d'année 2027 (tous domaines)

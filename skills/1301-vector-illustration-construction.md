@@ -9,6 +9,7 @@ nom_court: "Vector Illustration Constructi"
 branche: "D19"
 synonymes: ["demande", "portant", "vector"]
 cross_refs: [141]
+tags: ["2027"]
 ---
 
 ## 1301. 🎨 Vector Illustration Construction

@@ -9,6 +9,7 @@ nom_court: "Reconversion"
 branche: "D6"
 synonymes: ["changer de métier 2027"]
 cross_refs: [790, 867]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "NotebookLM ancré"
 branche: "D17"
 synonymes: ["fact-check ia sources"]
 cross_refs: [806, 700]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

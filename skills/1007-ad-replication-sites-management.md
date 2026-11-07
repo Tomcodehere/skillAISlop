@@ -9,6 +9,7 @@ nom_court: "AD Replication & Sites Managem"
 branche: "D24"
 synonymes: ["replication", "cassee", "troubleshooting"]
 cross_refs: [902]
+tags: ["2027"]
 ---
 
 ## 1007. 🧑‍🏫 AD Replication & Sites Management

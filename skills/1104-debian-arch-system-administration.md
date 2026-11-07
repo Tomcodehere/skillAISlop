@@ -9,6 +9,7 @@ nom_court: "Debian & Arch System Administr"
 branche: "D1"
 synonymes: ["debian", "ubuntu", "linux"]
 cross_refs: [607]
+tags: ["2027"]
 ---
 
 ## 1104. 💻 Debian & Arch System Administration

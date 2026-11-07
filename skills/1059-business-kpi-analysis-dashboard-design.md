@@ -9,6 +9,7 @@ nom_court: "Business KPI Analysis & Dashbo"
 branche: "D14"
 synonymes: ["construction", "tableau", "decisionnel"]
 cross_refs: [107]
+tags: ["2027"]
 ---
 
 ## 1059. 🤖 Business KPI Analysis & Dashboard Design

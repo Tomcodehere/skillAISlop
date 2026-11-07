@@ -9,6 +9,7 @@ nom_court: "Observability Engineer"
 branche: "D14"
 synonymes: ["pannes", "difficiles", "diagnostiquer"]
 cross_refs: [36]
+tags: ["2027"]
 ---
 
 ## 1209. 🤖 Observability Engineer

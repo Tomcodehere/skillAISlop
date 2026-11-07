@@ -9,6 +9,7 @@ nom_court: "Régulation nerveuse"
 branche: "D27"
 synonymes: ["micro-rituels anti stress"]
 cross_refs: [813, 617]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

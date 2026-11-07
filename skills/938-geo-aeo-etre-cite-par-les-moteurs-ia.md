@@ -9,6 +9,7 @@ nom_court: "GEO AEO"
 branche: "D20"
 synonymes: ["geo moteurs ia"]
 cross_refs: [735, 647]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "MariaDB Performance & Reliabil"
 branche: "D25"
 synonymes: ["requetes", "lentes", "mariadb"]
 cross_refs: [532]
+tags: ["2027"]
 ---
 
 ## 1184. 📋 MariaDB Performance & Reliability

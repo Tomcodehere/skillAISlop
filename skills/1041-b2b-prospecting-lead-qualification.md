@@ -9,6 +9,7 @@ nom_court: "B2B Prospecting & Lead Qualifi"
 branche: "D21"
 synonymes: ["construire", "liste", "comptes"]
 cross_refs: [167]
+tags: ["2027"]
 ---
 
 ## 1041. 💼 B2B Prospecting & Lead Qualification

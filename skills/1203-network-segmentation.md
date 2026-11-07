@@ -9,6 +9,7 @@ nom_court: "Network Segmentation"
 branche: "D1"
 synonymes: ["segmentation", "reseau", "micro-segmentation"]
 cross_refs: [21]
+tags: ["2027"]
 ---
 
 ## 1203. 💻 Network Segmentation

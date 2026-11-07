@@ -9,6 +9,7 @@ nom_court: "LF 2026"
 branche: "D29"
 synonymes: ["loi 2026-103"]
 cross_refs: [297, 639]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

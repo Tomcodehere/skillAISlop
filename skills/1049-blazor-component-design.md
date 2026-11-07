@@ -9,6 +9,7 @@ nom_court: "Blazor Component Design"
 branche: "D1"
 synonymes: ["blazor", "composants", "blazor"]
 cross_refs: [89]
+tags: ["2027"]
 ---
 
 ## 1049. 💻 Blazor Component Design

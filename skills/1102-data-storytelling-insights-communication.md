@@ -9,6 +9,7 @@ nom_court: "Data Storytelling & Insights C"
 branche: "D14"
 synonymes: ["presentation", "resultats", "analyse"]
 cross_refs: [1059]
+tags: ["2027"]
 ---
 
 ## 1102. 🤖 Data Storytelling & Insights Communication

@@ -9,6 +9,7 @@ nom_court: "Operational Runbook Acceptance"
 branche: "D14"
 synonymes: ["demande", "portant", "operational"]
 cross_refs: [1018]
+tags: ["2027"]
 ---
 
 ## 1213. 🧠 Operational Runbook Acceptance

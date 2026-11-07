@@ -9,6 +9,7 @@ nom_court: "Contingency Trigger Design"
 branche: "D22"
 synonymes: ["demande", "portant", "contingency"]
 cross_refs: [1274]
+tags: ["2027"]
 ---
 
 ## 1086. 🎨 Contingency Trigger Design

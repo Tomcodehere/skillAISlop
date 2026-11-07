@@ -9,6 +9,7 @@ nom_court: "AI Act HR"
 branche: "D29"
 synonymes: ["conformité ai act"]
 cross_refs: [698, 883]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

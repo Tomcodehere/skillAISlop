@@ -9,6 +9,7 @@ nom_court: "Predictive Temporal Validation"
 branche: "D14"
 synonymes: ["demande", "portant", "predictive"]
 cross_refs: [251]
+tags: ["2027"]
 ---
 
 ## 1232. 🧠 Predictive Temporal Validation

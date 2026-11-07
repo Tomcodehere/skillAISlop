@@ -9,6 +9,7 @@ nom_court: "Engine Profiling & Build Pipel"
 branche: "D1"
 synonymes: ["demande", "portant", "engine"]
 cross_refs: [1120]
+tags: ["2027"]
 ---
 
 ## 1116. 💻 Engine Profiling & Build Pipeline

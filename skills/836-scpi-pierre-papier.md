@@ -9,6 +9,7 @@ nom_court: "SCPI"
 branche: "D29"
 synonymes: ["pierre papier"]
 cross_refs: [519, 835]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

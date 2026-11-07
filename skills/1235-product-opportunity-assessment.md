@@ -9,6 +9,7 @@ nom_court: "Product Opportunity Assessment"
 branche: "D1"
 synonymes: ["demande", "portant", "product"]
 cross_refs: [256]
+tags: ["2027"]
 ---
 
 ## 1235. 💻 Product Opportunity Assessment

@@ -9,6 +9,7 @@ nom_court: "Market & Competitive Intellige"
 branche: "D17"
 synonymes: ["comprendre", "evolution", "marche"]
 cross_refs: [102]
+tags: ["2027"]
 ---
 
 ## 1185. 🔬 Market & Competitive Intelligence

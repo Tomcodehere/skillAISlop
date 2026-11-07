@@ -9,6 +9,7 @@ nom_court: "Incident Commander (SRE / Runb"
 branche: "D22"
 synonymes: ["incident", "degradation", "majeure"]
 cross_refs: [452]
+tags: ["2027"]
 ---
 
 ## 1161. 🎨 Incident Commander (SRE / Runbook)

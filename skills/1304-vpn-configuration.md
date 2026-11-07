@@ -9,6 +9,7 @@ nom_court: "VPN Configuration"
 branche: "D25"
 synonymes: ["ipsec", "wireguard", "openvpn"]
 cross_refs: [426]
+tags: ["2027"]
 ---
 
 ## 1304. 📋 VPN Configuration

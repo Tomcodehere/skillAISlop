@@ -9,6 +9,7 @@ nom_court: "RPA Automation Design"
 branche: "D1"
 synonymes: ["uipath", "power", "automate"]
 cross_refs: [1101]
+tags: ["2027"]
 ---
 
 ## 1261. 💻 RPA Automation Design

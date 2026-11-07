@@ -9,6 +9,7 @@ nom_court: "Multi-Agent Orchestration Patt"
 branche: "D14"
 synonymes: []
 cross_refs: [1123]
+tags: ["2027"]
 ---
 
 ## 1196. 🧠 Multi-Agent Orchestration Patterns

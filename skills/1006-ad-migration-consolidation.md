@@ -9,6 +9,7 @@ nom_court: "AD Migration & Consolidation"
 branche: "D25"
 synonymes: ["migration", "domaines", "consolidation"]
 cross_refs: [1093]
+tags: ["2027"]
 ---
 
 ## 1006. 📋 AD Migration & Consolidation

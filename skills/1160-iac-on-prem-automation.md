@@ -9,6 +9,7 @@ nom_court: "IaC On-Prem Automation"
 branche: "D1"
 synonymes: ["automatise", "provisioning", "strategie"]
 cross_refs: [1281]
+tags: ["2027"]
 ---
 
 ## 1160. 💻 IaC On-Prem Automation

@@ -9,6 +9,7 @@ nom_court: "Due diligence légère"
 branche: "D17"
 synonymes: ["vérifier employeur"]
 cross_refs: [874, 647]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Canicule 2027"
 branche: "D26"
 synonymes: ["vague de chaleur 2027"]
 cross_refs: [859, 814]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

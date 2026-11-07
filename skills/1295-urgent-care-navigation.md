@@ -9,6 +9,7 @@ nom_court: "Urgent Care Navigation"
 branche: "D22"
 synonymes: ["utilisateur", "demande", "situation"]
 cross_refs: [147]
+tags: ["2027"]
 ---
 
 ## 1295. 🎨 Urgent Care Navigation

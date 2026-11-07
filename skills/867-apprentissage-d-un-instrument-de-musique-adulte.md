@@ -9,6 +9,7 @@ nom_court: "Instrument"
 branche: "D28"
 synonymes: ["cours de guitare adulte"]
 cross_refs: [518, 516]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

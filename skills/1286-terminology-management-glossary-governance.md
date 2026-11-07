@@ -9,6 +9,7 @@ nom_court: "Terminology Management & Gloss"
 branche: "D15"
 synonymes: ["glossaire", "gestion", "terminologique"]
 cross_refs: [395]
+tags: ["2027"]
 ---
 
 ## 1286. ✍️ Terminology Management & Glossary Governance

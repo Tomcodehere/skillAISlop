@@ -9,6 +9,7 @@ nom_court: "Product Outcome Roadmap"
 branche: "D22"
 synonymes: ["demande", "portant", "product"]
 cross_refs: [176]
+tags: ["2027"]
 ---
 
 ## 1236. 📦 Product Outcome Roadmap

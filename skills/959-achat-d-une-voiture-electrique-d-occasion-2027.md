@@ -9,6 +9,7 @@ nom_court: "VE occasion"
 branche: "D26"
 synonymes: ["acheter tesla occasion"]
 cross_refs: [541, 298]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

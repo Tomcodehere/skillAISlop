@@ -9,6 +9,7 @@ nom_court: "Sound Effects Design & Recordi"
 branche: "D22"
 synonymes: ["demande", "portant", "sound"]
 cross_refs: [1070]
+tags: ["2027"]
 ---
 
 ## 1274. 🎨 Sound Effects Design & Recording

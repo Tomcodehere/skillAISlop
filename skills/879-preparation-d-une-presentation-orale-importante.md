@@ -9,6 +9,7 @@ nom_court: "Présentation orale"
 branche: "D6"
 synonymes: ["préparer un pitch"]
 cross_refs: [75, 293]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

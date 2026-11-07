@@ -9,6 +9,7 @@ nom_court: "Generative Capability Benchmar"
 branche: "D14"
 synonymes: ["demande", "portant", "generative"]
 cross_refs: [1021]
+tags: ["2027"]
 ---
 
 ## 1145. 🧠 Generative Capability Benchmark Design

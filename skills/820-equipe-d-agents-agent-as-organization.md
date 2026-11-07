@@ -9,6 +9,7 @@ nom_court: "Équipe d'agents"
 branche: "D14"
 synonymes: ["agent as organization"]
 cross_refs: [712, 259]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

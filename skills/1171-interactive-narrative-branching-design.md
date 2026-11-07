@@ -9,6 +9,7 @@ nom_court: "Interactive Narrative & Branch"
 branche: "D19"
 synonymes: ["demande", "portant", "interactive"]
 cross_refs: [804]
+tags: ["2027"]
 ---
 
 ## 1171. 🎨 Interactive Narrative & Branching Design

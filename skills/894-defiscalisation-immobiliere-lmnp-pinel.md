@@ -9,6 +9,7 @@ nom_court: "LMNP"
 branche: "D29"
 synonymes: ["pinel 2026"]
 cross_refs: [812, 836]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

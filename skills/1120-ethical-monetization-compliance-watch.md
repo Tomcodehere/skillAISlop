@@ -9,6 +9,7 @@ nom_court: "Ethical Monetization & Complia"
 branche: "D1"
 synonymes: ["demande", "portant", "ethical"]
 cross_refs: [724]
+tags: ["2027"]
 ---
 
 ## 1120. 💻 Ethical Monetization & Compliance Watch

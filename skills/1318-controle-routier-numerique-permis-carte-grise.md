@@ -9,6 +9,7 @@ nom_court: "Contrôle numérique"
 branche: "D29"
 synonymes: ["permis numérique contrôle"]
 cross_refs: [1317, 866]
+tags: ["2027"]
 ---
 
 ## 1318. 🚔 Contrôle routier numérique (permis/carte grise)

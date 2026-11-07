@@ -9,6 +9,7 @@ nom_court: "Meeting Decision Extraction"
 branche: "D15"
 synonymes: ["demande", "portant", "meeting"]
 cross_refs: [879]
+tags: ["2027"]
 ---
 
 ## 1188. 💬 Meeting Decision Extraction

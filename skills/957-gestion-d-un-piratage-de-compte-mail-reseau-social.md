@@ -9,6 +9,7 @@ nom_court: "Compte piraté"
 branche: "D23"
 synonymes: ["mon compte a été hacké"]
 cross_refs: [665, 953]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

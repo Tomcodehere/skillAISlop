@@ -9,6 +9,7 @@ nom_court: "Litige avion"
 branche: "D29"
 synonymes: ["vol annulé remboursement"]
 cross_refs: [865, 855]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

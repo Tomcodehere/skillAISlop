@@ -9,6 +9,7 @@ nom_court: "Étiquetage IA"
 branche: "D29"
 synonymes: ["contenu généré par ia obligatoire"]
 cross_refs: [900, 561]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

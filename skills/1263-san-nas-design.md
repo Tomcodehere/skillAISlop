@@ -9,6 +9,7 @@ nom_court: "SAN/NAS Design"
 branche: "D1"
 synonymes: ["fibre", "channel", "iscsi"]
 cross_refs: [1098]
+tags: ["2027"]
 ---
 
 ## 1263. 💻 SAN/NAS Design

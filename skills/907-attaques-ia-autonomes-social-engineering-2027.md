@@ -9,6 +9,7 @@ nom_court: "Attaque IA"
 branche: "D23"
 synonymes: ["piratage par ia"]
 cross_refs: [839, 840]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Cognitive Load Assessment"
 branche: "D1"
 synonymes: ["charge", "cognitive", "elevee"]
 cross_refs: [1107]
+tags: ["2027"]
 ---
 
 ## 1077. 💻 Cognitive Load Assessment

@@ -9,6 +9,7 @@ nom_court: "Matrice décision"
 branche: "D10"
 synonymes: ["pondérer des critères"]
 cross_refs: [61, 266]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

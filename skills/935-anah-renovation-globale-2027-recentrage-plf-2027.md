@@ -9,6 +9,7 @@ nom_court: "Anah 2027"
 branche: "D29"
 synonymes: ["maprimerenov 2027"]
 cross_refs: [894, 811]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Game Engine Performance & Prof"
 branche: "D25"
 synonymes: ["chutes", "stutters", "freeze"]
 cross_refs: [426]
+tags: ["2027"]
 ---
 
 ## 1139. 📋 Game Engine Performance & Profiling

@@ -9,6 +9,7 @@ nom_court: "Agent State Boundary Design"
 branche: "D14"
 synonymes: ["demande", "portant", "state"]
 cross_refs: [338]
+tags: ["2027"]
 ---
 
 ## 1014. 🧠 Agent State Boundary Design

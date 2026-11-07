@@ -9,6 +9,7 @@ nom_court: "Shadow IA"
 branche: "D25"
 synonymes: ["ia non déclarée entreprise"]
 cross_refs: [900, 695]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

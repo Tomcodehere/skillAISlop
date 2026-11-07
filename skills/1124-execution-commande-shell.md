@@ -9,6 +9,7 @@ nom_court: "Execution Commande Shell"
 branche: "D25"
 synonymes: ["execution", "commandes", "shell"]
 cross_refs: [527]
+tags: ["2027"]
 ---
 
 ## 1124. 📋 Execution Commande Shell

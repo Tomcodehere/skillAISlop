@@ -9,6 +9,7 @@ nom_court: "Progression & Loot Table Balan"
 branche: "D22"
 synonymes: ["demande", "portant", "progression"]
 cross_refs: [204]
+tags: ["2027"]
 ---
 
 ## 1238. 🎨 Progression & Loot Table Balancing

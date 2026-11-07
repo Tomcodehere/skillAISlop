@@ -9,6 +9,7 @@ nom_court: "TJM"
 branche: "D29"
 synonymes: ["tarif journalier freelance"]
 cross_refs: [599, 668]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

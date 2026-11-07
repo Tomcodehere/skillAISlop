@@ -9,6 +9,7 @@ nom_court: "Anti-bots"
 branche: "D16"
 synonymes: ["scraping ia 2027"]
 cross_refs: [544, 907]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Godot Animation System Integra"
 branche: "D1"
 synonymes: ["demande", "portant", "godot"]
 cross_refs: [524]
+tags: ["2027"]
 ---
 
 ## 1149. 💻 Godot Animation System Integration

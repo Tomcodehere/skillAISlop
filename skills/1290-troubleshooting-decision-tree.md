@@ -9,6 +9,7 @@ nom_court: "Troubleshooting Decision Tree"
 branche: "D24"
 synonymes: ["demande", "portant", "troubleshooting"]
 cross_refs: [200]
+tags: ["2027"]
 ---
 
 ## 1290. 🎓 Troubleshooting Decision Tree

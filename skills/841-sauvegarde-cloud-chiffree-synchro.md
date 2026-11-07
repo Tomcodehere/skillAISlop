@@ -9,6 +9,7 @@ nom_court: "Backup cloud"
 branche: "D23"
 synonymes: ["synchronisation appareils"]
 cross_refs: [755, 665]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

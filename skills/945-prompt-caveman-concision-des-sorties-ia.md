@@ -9,6 +9,7 @@ nom_court: "Caveman"
 branche: "D14"
 synonymes: ["réduire tokens ia"]
 cross_refs: [817, 694]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

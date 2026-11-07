@@ -9,6 +9,7 @@ nom_court: "Data Governance & Quality"
 branche: "D14"
 synonymes: ["incoherents", "incidents", "repetes"]
 cross_refs: [1058]
+tags: ["2027"]
 ---
 
 ## 1097. 🤖 Data Governance & Quality

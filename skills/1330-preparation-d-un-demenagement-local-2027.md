@@ -9,6 +9,7 @@ nom_court: "Déménagement"
 branche: "D26"
 synonymes: ["changer d'appartement"]
 cross_refs: [991, 955]
+tags: ["2027"]
 ---
 
 ## 1330. 📦 Préparation d'un déménagement local (2027)

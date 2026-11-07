@@ -9,6 +9,7 @@ nom_court: "Train Europe 2027"
 branche: "D26"
 synonymes: ["ligne munich rome"]
 cross_refs: [865, 913]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Backup Recovery Automation"
 branche: "D1"
 synonymes: ["backups", "veeam", "bacula"]
 cross_refs: [596]
+tags: ["2027"]
 ---
 
 ## 1043. 💻 Backup Recovery Automation

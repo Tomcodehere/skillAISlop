@@ -9,6 +9,7 @@ nom_court: "QR arnaque"
 branche: "D23"
 synonymes: ["faux courrier impôts"]
 cross_refs: [839, 953]
+tags: ["2027"]
 ---
 
 ## 1336. 📱 Prévention arnaques QR codes & faux courriers (2027)

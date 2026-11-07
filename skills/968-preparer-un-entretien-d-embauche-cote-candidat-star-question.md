@@ -9,6 +9,7 @@ nom_court: "Entretien STAR"
 branche: "D6"
 synonymes: ["méthode star entretien"]
 cross_refs: [872, 875]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

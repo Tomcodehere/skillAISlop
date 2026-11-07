@@ -9,6 +9,7 @@ nom_court: "Competitive Landscape & Positi"
 branche: "D22"
 synonymes: ["comparer", "offres", "concurrents"]
 cross_refs: [457]
+tags: ["2027"]
 ---
 
 ## 1079. 📦 Competitive Landscape & Positioning Analysis

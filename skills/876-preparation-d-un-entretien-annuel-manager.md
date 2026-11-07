@@ -9,6 +9,7 @@ nom_court: "Entretien annuel mgr"
 branche: "D24"
 synonymes: ["évaluation annuelle équipe"]
 cross_refs: [632, 644]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

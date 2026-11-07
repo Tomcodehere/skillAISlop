@@ -9,6 +9,7 @@ nom_court: "Project Baseline Change Assess"
 branche: "D25"
 synonymes: ["demande", "portant", "project"]
 cross_refs: [931]
+tags: ["2027"]
 ---
 
 ## 1239. 📋 Project Baseline Change Assessment

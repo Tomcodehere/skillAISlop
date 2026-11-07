@@ -9,6 +9,7 @@ nom_court: "Choisir agent perso"
 branche: "D26"
 synonymes: ["muse vs dots"]
 cross_refs: [800, 688]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

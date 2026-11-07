@@ -9,6 +9,7 @@ nom_court: "Graduate UK"
 branche: "D6"
 synonymes: ["étudier travailler royaume-uni 2027"]
 cross_refs: [656, 830]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

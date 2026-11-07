@@ -9,6 +9,7 @@ nom_court: "Generative Output Quality Benc"
 branche: "D1"
 synonymes: ["validation", "systeme", "genai"]
 cross_refs: [943]
+tags: ["2027"]
 ---
 
 ## 1146. 💻 Generative Output Quality Benchmarking

@@ -9,6 +9,7 @@ nom_court: "Audit interne"
 branche: "D25"
 synonymes: ["check-list audit"]
 cross_refs: [243, 614]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

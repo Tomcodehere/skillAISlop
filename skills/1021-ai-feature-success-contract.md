@@ -9,6 +9,7 @@ nom_court: "AI Feature Success Contract"
 branche: "D14"
 synonymes: ["demande", "portant", "feature"]
 cross_refs: [1151]
+tags: ["2027"]
 ---
 
 ## 1021. 🧠 AI Feature Success Contract

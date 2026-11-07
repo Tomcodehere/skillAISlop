@@ -9,6 +9,7 @@ nom_court: "Lore, Worldbuilding Bible & Lo"
 branche: "D1"
 synonymes: ["demande", "portant", "worldbuilding"]
 cross_refs: [1294]
+tags: ["2027"]
 ---
 
 ## 1182. 💻 Lore, Worldbuilding Bible & Localization Prep

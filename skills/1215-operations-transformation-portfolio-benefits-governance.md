@@ -9,6 +9,7 @@ nom_court: "Operations Transformation Port"
 branche: "D22"
 synonymes: ["prioriser", "plusieurs", "initiatives"]
 cross_refs: [572]
+tags: ["2027"]
 ---
 
 ## 1215. 🎨 Operations Transformation Portfolio & Benefits Governance

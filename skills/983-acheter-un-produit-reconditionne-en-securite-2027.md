@@ -9,6 +9,7 @@ nom_court: "Reconditionné"
 branche: "D26"
 synonymes: ["back market 2027"]
 cross_refs: [851, 842]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

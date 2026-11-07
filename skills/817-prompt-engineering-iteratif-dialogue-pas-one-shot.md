@@ -9,6 +9,7 @@ nom_court: "Prompt itératif"
 branche: "D14"
 synonymes: ["affiner un prompt"]
 cross_refs: [737, 338]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

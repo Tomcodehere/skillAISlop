@@ -9,6 +9,7 @@ nom_court: "Vérif agent"
 branche: "D14"
 synonymes: ["verifiability karpathy"]
 cross_refs: [819, 693]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

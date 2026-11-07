@@ -9,6 +9,7 @@ nom_court: "Arbitrage AV"
 branche: "D29"
 synonymes: ["fonds euros"]
 cross_refs: [681, 812]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

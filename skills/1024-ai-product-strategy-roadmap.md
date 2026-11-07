@@ -9,6 +9,7 @@ nom_court: "AI Product Strategy & Roadmap"
 branche: "D14"
 synonymes: ["definir", "vision", "produit"]
 cross_refs: [176]
+tags: ["2027"]
 ---
 
 ## 1024. 🧠 AI Product Strategy & Roadmap

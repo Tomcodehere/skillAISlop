@@ -9,6 +9,7 @@ nom_court: "Opt-out IA"
 branche: "D29"
 synonymes: ["ne pas entraîner ia sur mon contenu"]
 cross_refs: [940, 901]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

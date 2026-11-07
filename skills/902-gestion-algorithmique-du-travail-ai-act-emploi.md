@@ -9,6 +9,7 @@ nom_court: "Management algo"
 branche: "D24"
 synonymes: ["ia qui évalue mon travail"]
 cross_refs: [900, 876]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "RC individuelle"
 branche: "D29"
 synonymes: ["négocier sa rupture"]
 cross_refs: [888, 830]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

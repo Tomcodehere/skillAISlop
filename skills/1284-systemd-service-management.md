@@ -9,6 +9,7 @@ nom_court: "Systemd Service Management"
 branche: "D1"
 synonymes: ["service", "systemd", "configure"]
 cross_refs: [1032]
+tags: ["2027"]
 ---
 
 ## 1284. 💻 Systemd Service Management

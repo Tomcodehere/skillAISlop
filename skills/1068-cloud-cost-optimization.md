@@ -9,6 +9,7 @@ nom_court: "Cloud Cost Optimization"
 branche: "D17"
 synonymes: ["optimise", "couts", "audit"]
 cross_refs: [290]
+tags: ["2027"]
 ---
 
 ## 1068. 🔬 Cloud Cost Optimization

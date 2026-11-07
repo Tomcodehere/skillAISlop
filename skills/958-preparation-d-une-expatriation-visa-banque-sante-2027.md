@@ -9,6 +9,7 @@ nom_court: "Expatriation"
 branche: "D26"
 synonymes: ["vivre à l'étranger 2027"]
 cross_refs: [933, 656]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Dialogue & Quest Scripting Wor"
 branche: "D1"
 synonymes: ["demande", "portant", "dialogue"]
 cross_refs: [606]
+tags: ["2027"]
 ---
 
 ## 1107. 💻 Dialogue & Quest Scripting Workflow

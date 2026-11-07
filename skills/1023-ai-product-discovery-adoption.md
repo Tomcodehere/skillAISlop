@@ -9,6 +9,7 @@ nom_court: "AI Product Discovery & Adoptio"
 branche: "D22"
 synonymes: ["valider", "opportunite", "product-market"]
 cross_refs: [1016]
+tags: ["2027"]
 ---
 
 ## 1023. 📦 AI Product Discovery & Adoption

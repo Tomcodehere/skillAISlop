@@ -9,6 +9,7 @@ nom_court: "Régularité sommeil"
 branche: "D27"
 synonymes: ["rythme circadien"]
 cross_refs: [483, 813]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

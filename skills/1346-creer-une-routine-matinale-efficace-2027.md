@@ -9,6 +9,7 @@ nom_court: "Routine matin"
 branche: "D25"
 synonymes: ["morning routine"]
 cross_refs: [1325, 1326]
+tags: ["2027"]
 ---
 
 ## 1346. 🌅 Créer une routine matinale efficace (2027)

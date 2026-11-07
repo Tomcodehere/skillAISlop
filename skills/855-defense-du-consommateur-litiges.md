@@ -9,6 +9,7 @@ nom_court: "Défense conso"
 branche: "D29"
 synonymes: ["médiation consommation"]
 cross_refs: [850, 649]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

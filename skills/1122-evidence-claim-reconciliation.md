@@ -9,6 +9,7 @@ nom_court: "Evidence-Claim Reconciliation"
 branche: "D17"
 synonymes: ["demande", "portant", "evidence-claim"]
 cross_refs: [1061]
+tags: ["2027"]
 ---
 
 ## 1122. 🔬 Evidence-Claim Reconciliation

@@ -9,6 +9,7 @@ nom_court: "Transparence salariale"
 branche: "D24"
 synonymes: ["directive salaire 2027"]
 cross_refs: [875, 410]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

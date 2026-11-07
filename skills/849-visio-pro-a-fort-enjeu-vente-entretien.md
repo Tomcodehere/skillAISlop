@@ -9,6 +9,7 @@ nom_court: "Visio pro"
 branche: "D25"
 synonymes: ["visio importante"]
 cross_refs: [760, 702]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

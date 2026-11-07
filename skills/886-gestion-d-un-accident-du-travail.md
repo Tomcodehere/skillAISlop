@@ -9,6 +9,7 @@ nom_court: "AT"
 branche: "D29"
 synonymes: ["déclaration accident travail"]
 cross_refs: [885, 634]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

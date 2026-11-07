@@ -9,6 +9,7 @@ nom_court: "Déménagement inter."
 branche: "D26"
 synonymes: ["déménagement international 2027"]
 cross_refs: [958, 954]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "PR review auto"
 branche: "D12"
 synonymes: ["coderabbit", "agent hq"]
 cross_refs: [10, 68]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

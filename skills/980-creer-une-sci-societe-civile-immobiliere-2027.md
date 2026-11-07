@@ -9,6 +9,7 @@ nom_court: "SCI"
 branche: "D29"
 synonymes: ["sci immobilière"]
 cross_refs: [892, 837]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

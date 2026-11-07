@@ -9,6 +9,7 @@ nom_court: "Linux Security Hardening"
 branche: "D1"
 synonymes: ["securise", "linux", "hardening"]
 cross_refs: [9]
+tags: ["2027"]
 ---
 
 ## 1178. 💻 Linux Security Hardening

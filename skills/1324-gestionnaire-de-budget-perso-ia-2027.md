@@ -9,6 +9,7 @@ nom_court: "Budget IA"
 branche: "D29"
 synonymes: ["gestionnaire dépenses ia"]
 cross_refs: [541, 297]
+tags: ["2027"]
 ---
 
 ## 1324. 🧮 Gestionnaire de budget perso IA (2027)

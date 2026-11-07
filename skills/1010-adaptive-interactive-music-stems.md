@@ -9,6 +9,7 @@ nom_court: "Adaptive Interactive Music & S"
 branche: "D19"
 synonymes: ["demande", "portant", "adaptive"]
 cross_refs: [567]
+tags: ["2027"]
 ---
 
 ## 1010. 🎨 Adaptive Interactive Music & Stems

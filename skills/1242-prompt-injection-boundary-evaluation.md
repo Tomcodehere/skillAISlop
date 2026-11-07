@@ -9,6 +9,7 @@ nom_court: "Prompt Injection Boundary Eval"
 branche: "D14"
 synonymes: ["demande", "portant", "prompt"]
 cross_refs: [17]
+tags: ["2027"]
 ---
 
 ## 1242. 🧠 Prompt Injection Boundary Evaluation

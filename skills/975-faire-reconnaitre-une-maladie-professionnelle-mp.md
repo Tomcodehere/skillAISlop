@@ -9,6 +9,7 @@ nom_court: "MP"
 branche: "D29"
 synonymes: ["reconnaissance AT MP"]
 cross_refs: [886, 970]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

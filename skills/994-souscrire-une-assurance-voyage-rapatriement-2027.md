@@ -9,6 +9,7 @@ nom_court: "Assurance voyage"
 branche: "D26"
 synonymes: ["rapatriement sanitaire"]
 cross_refs: [683, 954]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

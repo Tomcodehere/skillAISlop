@@ -9,6 +9,7 @@ nom_court: "Arnaque emploi"
 branche: "D6"
 synonymes: ["arnaque recrutement"]
 cross_refs: [839, 842]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

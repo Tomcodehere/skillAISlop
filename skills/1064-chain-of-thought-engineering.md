@@ -9,6 +9,7 @@ nom_court: "Chain of Thought Engineering"
 branche: "D1"
 synonymes: ["taches", "necessitant", "raisonnement"]
 cross_refs: [321]
+tags: ["2027"]
 ---
 
 ## 1064. 💻 Chain of Thought Engineering

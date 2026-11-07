@@ -9,6 +9,7 @@ nom_court: "Don asso"
 branche: "D29"
 synonymes: ["mécénat"]
 cross_refs: [812, 856]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

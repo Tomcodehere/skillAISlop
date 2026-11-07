@@ -2141,7 +2141,7 @@ def _json_dumps(x) -> str:
     return json.dumps(x, ensure_ascii=False)
 
 
-VEC_DIM = 128  # dimension des embeddings locaux (hash bag-of-words normalisé)
+VEC_DIM = 64  # dimension des embeddings locaux (hash bag-of-words normalisé) — 64 suffit à 1350 skills, 2x plus rapide
 CATALOGUE_VERSION = "12.0.0"  # version sémantique du catalogue (vague 12 = 900 sections)
 VEC_SEUIL = 0.80  # cosinus min pour qu'une candidate vectorielle compte (secours sémantique)
 VEC_PISTE = 0.80  # au-dessus, la meilleure candidate vec devient piste (exit 1) — même seuil que les candidats
@@ -2271,6 +2271,15 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             k TEXT PRIMARY KEY,
             v TEXT NOT NULL
         );
+        CREATE TABLE IF NOT EXISTS cross_refs (
+            num  INTEGER PRIMARY KEY,
+            refs TEXT NOT NULL DEFAULT ''
+        );
+        CREATE TABLE IF NOT EXISTS tags (
+            tag TEXT NOT NULL,
+            num INTEGER NOT NULL,
+            PRIMARY KEY (tag, num)
+        ) WITHOUT ROWID;
         CREATE TABLE IF NOT EXISTS mots_cles (
             mot_cle_norm TEXT NOT NULL,
             num          INTEGER NOT NULL,
@@ -2315,6 +2324,22 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         for syn in syns:
             assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
             db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?)", (syn, num))
+    # table cross_refs (bonus de classement) et tags (filtre optionnel)
+    xr, tg = [], []
+    for f in sorted((RACINE / "skills").glob("*.md")):
+        import re as _re
+        fm = f.read_text(encoding="utf-8").split("---")[1]
+        num = int(_re.search(r"^num: (\d+)$", fm, _re.M).group(1))
+        cr = _re.search(r"^cross_refs: \[(.*)\]$", fm, _re.M).group(1)
+        xr.append((num, cr))
+        mt = _re.search(r"^tags: \[(.*)\]$", fm, _re.M)
+        if mt:
+            for t in mt.group(1).split(","):
+                t = t.strip().strip('"')
+                if t: tg.append((norm(t), num))
+    db.executemany("INSERT OR REPLACE INTO cross_refs VALUES (?,?)", xr)
+    db.executemany("INSERT OR IGNORE INTO tags VALUES (?,?)", tg)
+    db.commit()
     # table des mots-clés normalisés (voie mot-clé en SQL, indexée)
     mcs = []
     for r in db.execute("SELECT num, mot_cle FROM skills WHERE mot_cle != ''"):
@@ -2642,6 +2667,33 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                                         "mots": sorted(commun)[:4]})
         res["domaines"] = sorted(res["domaines"],
                                  key=lambda x: -len(x["mots"]))[:3]
+
+    # 5) bonus cross-ref : un candidat référencé par un autre candidat bien placé gagne un bonus
+    tous = res["exact"] + res["fts"] + res["vec"] + res["flou"] + res["pistes"]
+    if tous:
+        refs = {}
+        for c in tous:
+            for r in db.execute("SELECT refs FROM cross_refs WHERE num=?", (c["num"],)):
+                pass
+        # lire cross_refs depuis la table dédiée (créée au build) ou le champ texte
+        try:
+            rows = db.execute("SELECT num, refs FROM cross_refs").fetchall()
+            for row in rows:
+                refs[row["num"]] = {int(x) for x in row["refs"].split(",") if x.strip()}
+        except sqlite3.OperationalError:
+            pass
+        top_nums = {c["num"] for c in (res["exact"][:2] + res["fts"][:2])}
+        for c in tous:
+            bonus = 0.0
+            for t in top_nums:
+                if c["num"] in refs.get(t, set()) or t in refs.get(c["num"], set()):
+                    bonus += 0.10
+            if bonus and "score" in c:
+                c["score"] = round(c["score"] + bonus, 3)
+                c["bonus_xref"] = round(bonus, 3)
+        # re-trier les listes principales par score décroissant
+        for k in ("exact", "fts", "vec", "flou"):
+            res[k] = sorted(res[k], key=lambda c: -(c.get("score") or 0))[:top]
     return res
 
 
@@ -2658,7 +2710,7 @@ def _journaliser(db: sqlite3.Connection, query: str) -> None:
         pass  # base ancienne sans journal
 
 
-def cmd_route(query: str, top: int, as_json: bool) -> int:
+def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> int:
     if not DB_PATH.exists():
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
     db = sqlite3.connect(DB_PATH)
@@ -2666,6 +2718,14 @@ def cmd_route(query: str, top: int, as_json: bool) -> int:
     db.execute("PRAGMA cache_size=-8000")
     charger_vec(db)
     res = chercher(db, query, top)
+    if tag:
+        # pré-filtre optionnel par tag : ne garder que les skills taguées
+        try:
+            tag_nums = {r["num"] for r in db.execute("SELECT num FROM tags WHERE tag=?", (norm(tag),))}
+            for k in ("exact", "fts", "vec", "flou", "pistes"):
+                res[k] = [c for c in res[k] if c["num"] in tag_nums]
+        except sqlite3.OperationalError:
+            pass
     candidats = ([res["direct"]] if res["direct"] else []) + res["exact"] \
         + res["fts"] + res["vec"] + res["flou"]
     pistes_vec = any(p["voie"] == "piste-vec" for p in res["pistes"])
@@ -3536,6 +3596,8 @@ def main():
 
     p_route = sub.add_parser("route", help="recherche rapide d'une skill")
     p_route.add_argument("query")
+    p_route.add_argument("--tag", help="pré-filtre optionnel par tag (ex. --tag 2027)")
+
     p_route.add_argument("--top", type=int, default=5)
     p_route.add_argument("--json", action="store_true")
 
@@ -3594,7 +3656,7 @@ def main():
     if args.cmd == "build":
         cmd_build(args.canvas, from_skills=args.from_skills)
     elif args.cmd == "route":
-        raise SystemExit(cmd_route(args.query, args.top, args.json))
+        raise SystemExit(cmd_route(args.query, args.top, args.json, getattr(args, "tag", None)))
     elif args.cmd == "generate":
         raise SystemExit(cmd_generate(args.canvas, args.check))
     elif args.cmd == "test":

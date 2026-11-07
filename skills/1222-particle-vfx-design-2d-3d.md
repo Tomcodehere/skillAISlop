@@ -9,6 +9,7 @@ nom_court: "Particle VFX Design 2D/3D"
 branche: "D1"
 synonymes: ["demande", "portant", "particle"]
 cross_refs: [1031]
+tags: ["2027"]
 ---
 
 ## 1222. 💻 Particle VFX Design 2D/3D

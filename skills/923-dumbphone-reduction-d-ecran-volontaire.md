@@ -9,6 +9,7 @@ nom_court: "Dumbphone"
 branche: "D27"
 synonymes: ["téléphone sans internet"]
 cross_refs: [813, 871]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

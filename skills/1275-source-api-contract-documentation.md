@@ -9,6 +9,7 @@ nom_court: "Source API Contract Documentat"
 branche: "D1"
 synonymes: ["demande", "portant", "source"]
 cross_refs: [1309]
+tags: ["2027"]
 ---
 
 ## 1275. 💻 Source API Contract Documentation

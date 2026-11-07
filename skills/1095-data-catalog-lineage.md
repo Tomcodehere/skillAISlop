@@ -9,6 +9,7 @@ nom_court: "Data Catalog & Lineage"
 branche: "D14"
 synonymes: ["place", "catalog", "catalog"]
 cross_refs: [1226]
+tags: ["2027"]
 ---
 
 ## 1095. 🤖 Data Catalog & Lineage

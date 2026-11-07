@@ -9,6 +9,7 @@ nom_court: "Papiers admin"
 branche: "D25"
 synonymes: ["archivage familial"]
 cross_refs: [472, 664]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Grammatical Ambiguity Resoluti"
 branche: "D22"
 synonymes: ["demande", "portant", "grammatical"]
 cross_refs: [1154]
+tags: ["2027"]
 ---
 
 ## 1153. 🎨 Grammatical Ambiguity Resolution

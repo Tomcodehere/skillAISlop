@@ -9,6 +9,7 @@ nom_court: "Operational Performance System"
 branche: "D22"
 synonymes: ["definir", "resultats", "indicateurs"]
 cross_refs: [730]
+tags: ["2027"]
 ---
 
 ## 1212. 🎨 Operational Performance System & Governance

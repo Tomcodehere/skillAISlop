@@ -9,6 +9,7 @@ nom_court: "Van 2027"
 branche: "D26"
 synonymes: ["van aménagé 2027"]
 cross_refs: [865, 914]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

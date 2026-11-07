@@ -9,6 +9,7 @@ nom_court: "Bash Exit and Signal Safety"
 branche: "D1"
 synonymes: ["demande", "portant", "signal"]
 cross_refs: [1183]
+tags: ["2027"]
 ---
 
 ## 1044. 💻 Bash Exit and Signal Safety

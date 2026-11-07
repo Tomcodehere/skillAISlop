@@ -9,6 +9,7 @@ nom_court: "Health Information Literacy"
 branche: "D22"
 synonymes: ["utilisateur", "demande", "explication"]
 cross_refs: [1057]
+tags: ["2027"]
 ---
 
 ## 1156. 🎨 Health Information Literacy

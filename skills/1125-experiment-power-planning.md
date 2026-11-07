@@ -9,6 +9,7 @@ nom_court: "Experiment Power Planning"
 branche: "D14"
 synonymes: ["demande", "portant", "experiment"]
 cross_refs: [1097]
+tags: ["2027"]
 ---
 
 ## 1125. 🤖 Experiment Power Planning

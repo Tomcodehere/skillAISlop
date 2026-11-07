@@ -9,6 +9,7 @@ nom_court: "Game Loop & ECS Architecture"
 branche: "D1"
 synonymes: ["demande", "portant", "architecture"]
 cross_refs: [1203]
+tags: ["2027"]
 ---
 
 ## 1140. 💻 Game Loop & ECS Architecture

@@ -9,6 +9,7 @@ nom_court: "Achat étranger"
 branche: "D29"
 synonymes: ["résidence secondaire 2027"]
 cross_refs: [676, 958]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

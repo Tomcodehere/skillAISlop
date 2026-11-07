@@ -9,6 +9,7 @@ nom_court: "Prévention addiction"
 branche: "D27"
 synonymes: ["addiction paris en ligne"]
 cross_refs: [923, 813]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

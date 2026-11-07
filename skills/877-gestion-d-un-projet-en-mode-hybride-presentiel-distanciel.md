@@ -9,6 +9,7 @@ nom_court: "Projet hybride"
 branche: "D25"
 synonymes: ["équipe hybride"]
 cross_refs: [760, 788]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

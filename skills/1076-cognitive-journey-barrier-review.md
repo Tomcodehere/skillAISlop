@@ -9,6 +9,7 @@ nom_court: "Cognitive Journey Barrier Revi"
 branche: "D24"
 synonymes: ["demande", "portant", "cognitive"]
 cross_refs: [11]
+tags: ["2027"]
 ---
 
 ## 1076. 🎓 Cognitive Journey Barrier Review

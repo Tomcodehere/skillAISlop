@@ -9,6 +9,7 @@ nom_court: "Optimisation fiscale"
 branche: "D29"
 synonymes: ["défiscalisation 2026"]
 cross_refs: [811, 681]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

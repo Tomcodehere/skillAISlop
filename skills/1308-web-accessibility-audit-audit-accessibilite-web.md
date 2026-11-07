@@ -9,6 +9,7 @@ nom_court: "Web Accessibility Audit (Audit"
 branche: "D1"
 synonymes: ["opquast", "section", "accessibilite"]
 cross_refs: [1111]
+tags: ["2027"]
 ---
 
 ## 1308. 💻 Web Accessibility Audit (Audit Accessibilité Web)

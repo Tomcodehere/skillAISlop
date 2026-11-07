@@ -9,6 +9,7 @@ nom_court: "Batch cooking"
 branche: "D27"
 synonymes: ["préparer ses repas de la semaine"]
 cross_refs: [486, 860]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

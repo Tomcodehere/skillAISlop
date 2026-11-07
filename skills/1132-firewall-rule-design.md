@@ -9,6 +9,7 @@ nom_court: "Firewall Rule Design"
 branche: "D1"
 synonymes: ["regles", "firewall", "iptables"]
 cross_refs: [909]
+tags: ["2027"]
 ---
 
 ## 1132. 💻 Firewall Rule Design

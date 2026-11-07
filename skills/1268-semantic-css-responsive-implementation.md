@@ -9,6 +9,7 @@ nom_court: "Semantic CSS Responsive Implem"
 branche: "D1"
 synonymes: ["demande", "portant", "semantic"]
 cross_refs: [322]
+tags: ["2027"]
 ---
 
 ## 1268. 💻 Semantic CSS Responsive Implementation

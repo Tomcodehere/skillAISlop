@@ -9,6 +9,7 @@ nom_court: "CDC"
 branche: "D22"
 synonymes: ["expression de besoin"]
 cross_refs: [63, 605]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

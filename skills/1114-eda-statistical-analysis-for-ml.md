@@ -9,6 +9,7 @@ nom_court: "EDA & Statistical Analysis for"
 branche: "D14"
 synonymes: ["phase", "initiale", "projet"]
 cross_refs: [1196]
+tags: ["2027"]
 ---
 
 ## 1114. 🧠 EDA & Statistical Analysis for ML

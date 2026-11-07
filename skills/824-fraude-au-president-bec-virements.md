@@ -9,6 +9,7 @@ nom_court: "BEC"
 branche: "D23"
 synonymes: ["business email compromise"]
 cross_refs: [757, 758]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

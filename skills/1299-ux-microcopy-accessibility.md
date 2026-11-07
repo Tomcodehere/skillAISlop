@@ -9,6 +9,7 @@ nom_court: "UX Microcopy Accessibility"
 branche: "D22"
 synonymes: ["refonte", "onboarding", "formulaires"]
 cross_refs: [151]
+tags: ["2027"]
 ---
 
 ## 1299. 🎨 UX Microcopy Accessibility

@@ -9,6 +9,7 @@ nom_court: "React Hooks Patterns"
 branche: "D1"
 synonymes: ["react", "hooks", "usestate"]
 cross_refs: [1265]
+tags: ["2027"]
 ---
 
 ## 1249. 💻 React Hooks Patterns

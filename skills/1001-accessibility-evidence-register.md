@@ -9,6 +9,7 @@ nom_court: "Accessibility Evidence Registe"
 branche: "D17"
 synonymes: ["demande", "portant", "accessibility"]
 cross_refs: [104]
+tags: ["2027"]
 ---
 
 ## 1001. 🔬 Accessibility Evidence Register

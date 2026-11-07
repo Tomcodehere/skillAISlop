@@ -9,6 +9,7 @@ nom_court: "Fraude CB"
 branche: "D23"
 synonymes: ["carte piratée"]
 cross_refs: [758, 839]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

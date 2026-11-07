@@ -9,6 +9,7 @@ nom_court: "NestJS Architecture"
 branche: "D1"
 synonymes: ["nestjs", "architecture", "nestjs"]
 cross_refs: [1288]
+tags: ["2027"]
 ---
 
 ## 1202. 💻 NestJS Architecture

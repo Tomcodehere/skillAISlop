@@ -9,6 +9,7 @@ nom_court: "Négocier facture"
 branche: "D21"
 synonymes: ["obtenir une remise"]
 cross_refs: [742, 230]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

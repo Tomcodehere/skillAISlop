@@ -9,6 +9,7 @@ nom_court: "Déconnexion"
 branche: "D29"
 synonymes: ["ne pas répondre le soir"]
 cross_refs: [884, 638]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

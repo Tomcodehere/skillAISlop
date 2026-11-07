@@ -9,6 +9,7 @@ nom_court: "Feature Engineering & Data Pre"
 branche: "D1"
 synonymes: ["preparation", "nouveau", "donnees"]
 cross_refs: [1039]
+tags: ["2027"]
 ---
 
 ## 1128. 💻 Feature Engineering & Data Preparation

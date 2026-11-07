@@ -9,6 +9,7 @@ nom_court: "PHP Request Validation Flow"
 branche: "D1"
 synonymes: ["demande", "portant", "request"]
 cross_refs: [1117]
+tags: ["2027"]
 ---
 
 ## 1227. 💻 PHP Request Validation Flow

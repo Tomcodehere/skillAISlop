@@ -9,6 +9,7 @@ nom_court: "Lecture active"
 branche: "D7"
 synonymes: ["mémoriser un livre"]
 cross_refs: [1321, 465]
+tags: ["2027"]
 ---
 
 ## 1344. 📖 Lecture rapide & mémorisation (2027)

@@ -9,6 +9,7 @@ nom_court: "PowerShell DSC Advanced"
 branche: "D1"
 synonymes: ["configure", "windows", "server"]
 cross_refs: [316]
+tags: ["2027"]
 ---
 
 ## 1231. 💻 PowerShell DSC Advanced

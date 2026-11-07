@@ -9,6 +9,7 @@ nom_court: "SEO Audit & Keyword Strategy"
 branche: "D14"
 synonymes: ["realiser", "audit", "editorial"]
 cross_refs: [1008]
+tags: ["2027"]
 ---
 
 ## 1269. 🧠 SEO Audit & Keyword Strategy

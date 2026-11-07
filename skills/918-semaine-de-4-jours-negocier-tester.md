@@ -9,6 +9,7 @@ nom_court: "Semaine 4j"
 branche: "D6"
 synonymes: ["4 jours par semaine"]
 cross_refs: [884, 877]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

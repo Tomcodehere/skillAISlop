@@ -9,6 +9,7 @@ nom_court: "RHEL SELinux Diagnosis"
 branche: "D1"
 synonymes: ["demande", "portant", "selinux"]
 cross_refs: [22]
+tags: ["2027"]
 ---
 
 ## 1257. 💻 RHEL SELinux Diagnosis

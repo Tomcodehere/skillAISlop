@@ -9,6 +9,7 @@ nom_court: "AI literacy"
 branche: "D28"
 synonymes: ["comprendre l'ia"]
 cross_refs: [700, 336]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

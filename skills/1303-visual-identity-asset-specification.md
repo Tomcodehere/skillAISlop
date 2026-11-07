@@ -9,6 +9,7 @@ nom_court: "Visual Identity Asset Specific"
 branche: "D25"
 synonymes: ["demande", "portant", "visual"]
 cross_refs: [1025]
+tags: ["2027"]
 ---
 
 ## 1303. 📋 Visual Identity Asset Specification

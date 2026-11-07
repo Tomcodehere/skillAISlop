@@ -9,6 +9,7 @@ nom_court: "Belgian Notarial Procedures Or"
 branche: "D17"
 synonymes: ["utilisateur", "demande", "comment"]
 cross_refs: [571]
+tags: ["2027"]
 ---
 
 ## 1207. 🔬 Belgian Notarial Procedures Orientation

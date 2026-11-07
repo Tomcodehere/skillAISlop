@@ -9,6 +9,7 @@ nom_court: "Fairness & Bias Detection"
 branche: "D22"
 synonymes: ["auditer", "donnees", "predictions"]
 cross_refs: [150]
+tags: ["2027"]
 ---
 
 ## 1127. 🎨 Fairness & Bias Detection

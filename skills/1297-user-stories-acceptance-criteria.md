@@ -9,6 +9,7 @@ nom_court: "User Stories & Acceptance Crit"
 branche: "D22"
 synonymes: ["story", "criteres", "acceptation"]
 cross_refs: [460]
+tags: ["2027"]
 ---
 
 ## 1297. 📦 User Stories & Acceptance Criteria

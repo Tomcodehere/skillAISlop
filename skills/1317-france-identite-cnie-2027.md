@@ -9,6 +9,7 @@ nom_court: "France Identité"
 branche: "D25"
 synonymes: ["cni électronique"]
 cross_refs: [955, 913]
+tags: ["2027"]
 ---
 
 ## 1317. 🪪 France Identité & CNIe (2027)

@@ -9,6 +9,7 @@ nom_court: "Guardrails"
 branche: "D14"
 synonymes: ["monitoring agent prod"]
 cross_refs: [693, 713]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

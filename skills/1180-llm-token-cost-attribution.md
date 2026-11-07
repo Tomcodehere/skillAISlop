@@ -9,6 +9,7 @@ nom_court: "LLM Token Cost Attribution"
 branche: "D14"
 synonymes: ["demande", "portant", "token"]
 cross_refs: [737]
+tags: ["2027"]
 ---
 
 ## 1180. 🧠 LLM Token Cost Attribution

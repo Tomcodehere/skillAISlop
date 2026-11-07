@@ -9,6 +9,7 @@ nom_court: "Coffre numérique"
 branche: "D25"
 synonymes: ["dossier vital numérique"]
 cross_refs: [841, 963]
+tags: ["2027"]
 ---
 
 ## 1338. 🗄️ Coffre-fort numérique familial (2027)

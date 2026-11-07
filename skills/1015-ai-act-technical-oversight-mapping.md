@@ -9,6 +9,7 @@ nom_court: "AI Act Technical Oversight Map"
 branche: "D22"
 synonymes: ["demande", "portant", "technical"]
 cross_refs: [143]
+tags: ["2027"]
 ---
 
 ## 1015. 🎨 AI Act Technical Oversight Mapping

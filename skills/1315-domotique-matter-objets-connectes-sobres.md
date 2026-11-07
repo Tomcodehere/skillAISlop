@@ -9,6 +9,7 @@ nom_court: "Matter domotique"
 branche: "D16"
 synonymes: ["maison connectée sobre"]
 cross_refs: [903, 841]
+tags: ["2027"]
 ---
 
 ## 1315. 🏠 Domotique Matter & objets connectés sobres

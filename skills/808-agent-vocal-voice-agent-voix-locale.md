@@ -9,6 +9,7 @@ nom_court: "Agent vocal"
 branche: "D14"
 synonymes: ["voicebox"]
 cross_refs: [288, 154]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Cours cuisine"
 branche: "D27"
 synonymes: ["cuisine italienne"]
 cross_refs: [566, 662]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Vacances sûres"
 branche: "D23"
 synonymes: ["prévenir cambriolage vacances"]
 cross_refs: [1334, 994]
+tags: ["2027"]
 ---
 
 ## 1339. ✈️ Prévention cambriolage & vacances tranquilles (2027)

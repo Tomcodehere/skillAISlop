@@ -9,6 +9,7 @@ nom_court: "Security Remediation Verificat"
 branche: "D25"
 synonymes: ["demande", "portant", "security"]
 cross_refs: [928]
+tags: ["2027"]
 ---
 
 ## 1267. 📋 Security Remediation Verification

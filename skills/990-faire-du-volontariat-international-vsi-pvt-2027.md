@@ -9,6 +9,7 @@ nom_court: "VSI 2027"
 branche: "D6"
 synonymes: ["pvt 2027"]
 cross_refs: [958, 919]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

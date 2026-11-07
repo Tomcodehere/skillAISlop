@@ -9,6 +9,7 @@ nom_court: "Intéressement"
 branche: "D24"
 synonymes: ["prime résultats salariés"]
 cross_refs: [912, 410]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "TypeScript Advanced Types"
 branche: "D1"
 synonymes: ["typescript", "types", "avances"]
 cross_refs: [1067]
+tags: ["2027"]
 ---
 
 ## 1292. 💻 TypeScript Advanced Types

@@ -9,6 +9,7 @@ nom_court: "Regression Risk Selection"
 branche: "D25"
 synonymes: ["demande", "portant", "regression"]
 cross_refs: [562]
+tags: ["2027"]
 ---
 
 ## 1250. 📋 Regression Risk Selection

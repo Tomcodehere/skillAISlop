@@ -9,6 +9,7 @@ nom_court: "Vérif annonce immo"
 branche: "D17"
 synonymes: ["arnaque annonce immobilière"]
 cross_refs: [826, 709]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

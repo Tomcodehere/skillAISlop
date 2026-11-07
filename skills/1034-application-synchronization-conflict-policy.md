@@ -9,6 +9,7 @@ nom_court: "Application Synchronization Co"
 branche: "D25"
 synonymes: ["demande", "portant", "application"]
 cross_refs: [1273]
+tags: ["2027"]
 ---
 
 ## 1034. 📋 Application Synchronization Conflict Policy

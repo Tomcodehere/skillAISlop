@@ -9,6 +9,7 @@ nom_court: "Multilingual Quality & Localiz"
 branche: "D15"
 synonymes: ["traduction", "contenus", "metier"]
 cross_refs: [1]
+tags: ["2027"]
 ---
 
 ## 1199. ✍️ Multilingual Quality & Localization

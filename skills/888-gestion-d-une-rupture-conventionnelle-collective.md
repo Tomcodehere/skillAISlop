@@ -9,6 +9,7 @@ nom_court: "RCC"
 branche: "D29"
 synonymes: ["plan de départs volontaires"]
 cross_refs: [634, 634]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

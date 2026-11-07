@@ -9,6 +9,7 @@ nom_court: "Change Readiness Evidence"
 branche: "D1"
 synonymes: ["demande", "portant", "change"]
 cross_refs: [319]
+tags: ["2027"]
 ---
 
 ## 1065. 💻 Change Readiness Evidence

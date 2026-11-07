@@ -9,6 +9,7 @@ nom_court: "System Architecture Design"
 branche: "D1"
 synonymes: ["concois", "architecture", "systeme"]
 cross_refs: [1287]
+tags: ["2027"]
 ---
 
 ## 1281. 💻 System Architecture Design

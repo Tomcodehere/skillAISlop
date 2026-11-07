@@ -9,6 +9,7 @@ nom_court: "Plan urgence"
 branche: "D26"
 synonymes: ["numéros d'urgence"]
 cross_refs: [477, 754]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

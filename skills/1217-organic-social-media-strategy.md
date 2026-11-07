@@ -9,6 +9,7 @@ nom_court: "Organic Social Media Strategy"
 branche: "D22"
 synonymes: ["definir", "strategie", "organique"]
 cross_refs: [605]
+tags: ["2027"]
 ---
 
 ## 1217. 📦 Organic Social Media Strategy

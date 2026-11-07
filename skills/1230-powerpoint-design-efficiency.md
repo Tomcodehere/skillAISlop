@@ -9,6 +9,7 @@ nom_court: "PowerPoint Design Efficiency"
 branche: "D22"
 synonymes: ["creer", "masques", "themes"]
 cross_refs: [14]
+tags: ["2027"]
 ---
 
 ## 1230. 🎨 PowerPoint Design Efficiency

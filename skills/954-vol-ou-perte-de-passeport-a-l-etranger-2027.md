@@ -9,6 +9,7 @@ nom_court: "Passeport volé"
 branche: "D26"
 synonymes: ["perdu passeport voyage"]
 cross_refs: [913, 932]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

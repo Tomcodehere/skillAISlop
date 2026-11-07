@@ -9,6 +9,7 @@ nom_court: "Hallucination Evidence Evaluat"
 branche: "D14"
 synonymes: ["demande", "portant", "hallucination"]
 cross_refs: [339]
+tags: ["2027"]
 ---
 
 ## 1155. 🧠 Hallucination Evidence Evaluation

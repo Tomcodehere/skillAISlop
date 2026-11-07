@@ -9,6 +9,7 @@ nom_court: "Capacity Planning & Sizing"
 branche: "D25"
 synonymes: ["capacity", "planning", "dimensionnement"]
 cross_refs: [710]
+tags: ["2027"]
 ---
 
 ## 1062. 📋 Capacity Planning & Sizing

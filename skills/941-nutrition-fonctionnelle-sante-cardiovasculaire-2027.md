@@ -9,6 +9,7 @@ nom_court: "Nutrition 2027"
 branche: "D27"
 synonymes: ["créatine 2027"]
 cross_refs: [917, 483]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "WBS and Dependency Planning"
 branche: "D25"
 synonymes: ["demande", "portant", "dependency"]
 cross_refs: [1062]
+tags: ["2027"]
 ---
 
 ## 1307. 📋 WBS and Dependency Planning

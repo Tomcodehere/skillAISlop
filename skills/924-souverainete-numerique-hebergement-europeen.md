@@ -9,6 +9,7 @@ nom_court: "Souveraineté UE"
 branche: "D16"
 synonymes: ["données en europe"]
 cross_refs: [841, 841]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

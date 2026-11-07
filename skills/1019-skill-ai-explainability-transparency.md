@@ -9,6 +9,7 @@ nom_court: "Skill: AI Explainability & Tra"
 branche: "D25"
 synonymes: ["evaluer", "opacite", "explicabilite"]
 cross_refs: [1054]
+tags: ["2027"]
 ---
 
 ## 1019. 📋 Skill: AI Explainability & Transparency

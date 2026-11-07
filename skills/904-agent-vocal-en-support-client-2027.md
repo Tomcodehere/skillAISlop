@@ -9,6 +9,7 @@ nom_court: "Voice agent support"
 branche: "D14"
 synonymes: ["standard ia 2027"]
 cross_refs: [808, 901]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

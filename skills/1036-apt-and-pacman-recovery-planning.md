@@ -9,6 +9,7 @@ nom_court: "APT and Pacman Recovery Planni"
 branche: "D25"
 synonymes: ["demande", "portant", "pacman"]
 cross_refs: [1124]
+tags: ["2027"]
 ---
 
 ## 1036. 📋 APT and Pacman Recovery Planning

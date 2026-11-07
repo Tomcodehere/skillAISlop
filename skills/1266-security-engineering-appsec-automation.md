@@ -9,6 +9,7 @@ nom_court: "Security Engineering (AppSec A"
 branche: "D25"
 synonymes: ["vulnerabilites", "repetitives", "secrets"]
 cross_refs: [27]
+tags: ["2027"]
 ---
 
 ## 1266. ⚡ Security Engineering (AppSec Automation)

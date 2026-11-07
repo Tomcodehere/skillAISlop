@@ -9,6 +9,7 @@ nom_court: "FinTech Business Model Strateg"
 branche: "D14"
 synonymes: ["entreprise", "explore", "nouveau"]
 cross_refs: [1177]
+tags: ["2027"]
 ---
 
 ## 1129. 🧠 FinTech Business Model Strategy

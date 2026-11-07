@@ -9,6 +9,7 @@ nom_court: "Prompt Structure Optimization"
 branche: "D14"
 synonymes: ["reponses", "frequemment", "perimetre"]
 cross_refs: [17]
+tags: ["2027"]
 ---
 
 ## 1243. 🧠 Prompt Structure Optimization

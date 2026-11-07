@@ -9,6 +9,7 @@ nom_court: "PSE"
 branche: "D29"
 synonymes: ["plan de licenciement collectif"]
 cross_refs: [888, 634]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Process KPI Definition"
 branche: "D14"
 synonymes: ["processus", "indicateurs", "performance"]
 cross_refs: [939]
+tags: ["2027"]
 ---
 
 ## 1233. 🤖 Process KPI Definition

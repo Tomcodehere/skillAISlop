@@ -9,6 +9,7 @@ nom_court: "IaC Blueprint Generation"
 branche: "D1"
 synonymes: ["genere", "terraform", "template"]
 cross_refs: [313]
+tags: ["2027"]
 ---
 
 ## 1159. 💻 IaC Blueprint Generation

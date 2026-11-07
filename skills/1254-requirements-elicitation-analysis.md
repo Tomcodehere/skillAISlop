@@ -9,6 +9,7 @@ nom_court: "Requirements Elicitation & Ana"
 branche: "D22"
 synonymes: ["recueil", "besoins", "ateliers"]
 cross_refs: [1176]
+tags: ["2027"]
 ---
 
 ## 1254. 🎨 Requirements Elicitation & Analysis

@@ -9,6 +9,7 @@ nom_court: "Agent personnel"
 branche: "D27"
 synonymes: ["déléguer à un agent ia"]
 cross_refs: [701, 704]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

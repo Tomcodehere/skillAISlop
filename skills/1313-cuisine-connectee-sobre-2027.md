@@ -9,6 +9,7 @@ nom_court: "Cuisine connectée"
 branche: "D26"
 synonymes: ["smart cooking"]
 cross_refs: [960, 903]
+tags: ["2027"]
 ---
 
 ## 1313. 🍳 Cuisine connectée sobre (2027)

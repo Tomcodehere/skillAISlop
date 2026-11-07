@@ -9,6 +9,7 @@ nom_court: "ETL Pipeline Design & Orchestr"
 branche: "D1"
 synonymes: ["conception", "pipeline", "ingestion"]
 cross_refs: [1165]
+tags: ["2027"]
 ---
 
 ## 1121. 💻 ETL Pipeline Design & Orchestration

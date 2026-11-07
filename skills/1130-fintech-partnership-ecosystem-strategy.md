@@ -9,6 +9,7 @@ nom_court: "FinTech Partnership & Ecosyste"
 branche: "D14"
 synonymes: ["entreprise", "envisage", "partenariat"]
 cross_refs: [1103]
+tags: ["2027"]
 ---
 
 ## 1130. 🧠 FinTech Partnership & Ecosystem Strategy

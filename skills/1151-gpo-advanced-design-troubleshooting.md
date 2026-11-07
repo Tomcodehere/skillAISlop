@@ -9,6 +9,7 @@ nom_court: "GPO Advanced Design & Troubles"
 branche: "D14"
 synonymes: ["complexe", "filtrage", "heritage"]
 cross_refs: [1055]
+tags: ["2027"]
 ---
 
 ## 1151. 🧠 GPO Advanced Design & Troubleshooting

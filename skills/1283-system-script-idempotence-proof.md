@@ -9,6 +9,7 @@ nom_court: "System Script Idempotence Proo"
 branche: "D1"
 synonymes: ["demande", "portant", "script"]
 cross_refs: [256]
+tags: ["2027"]
 ---
 
 ## 1283. 💻 System Script Idempotence Proof

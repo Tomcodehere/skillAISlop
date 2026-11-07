@@ -9,6 +9,7 @@ nom_court: "Homme clé"
 branche: "D29"
 synonymes: ["rc dirigeant"]
 cross_refs: [786, 891]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Application Migration Data Tra"
 branche: "D14"
 synonymes: ["migrer", "nouveau", "serveur"]
 cross_refs: [1233]
+tags: ["2027"]
 ---
 
 ## 1033. 🤖 Application Migration Data Transfer

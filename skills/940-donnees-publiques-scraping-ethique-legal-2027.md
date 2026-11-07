@@ -9,6 +9,7 @@ nom_court: "Scraping légal"
 branche: "D29"
 synonymes: ["llms.txt 2027"]
 cross_refs: [695, 909]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

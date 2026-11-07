@@ -9,6 +9,7 @@ nom_court: "Statistical Inference Protocol"
 branche: "D14"
 synonymes: ["demande", "portant", "statistical"]
 cross_refs: [690]
+tags: ["2027"]
 ---
 
 ## 1279. 🤖 Statistical Inference Protocol

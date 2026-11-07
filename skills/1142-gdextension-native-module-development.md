@@ -9,6 +9,7 @@ nom_court: "GDExtension & Native Module De"
 branche: "D1"
 synonymes: ["demande", "portant", "gdextension"]
 cross_refs: [1037]
+tags: ["2027"]
 ---
 
 ## 1142. 💻 GDExtension & Native Module Development

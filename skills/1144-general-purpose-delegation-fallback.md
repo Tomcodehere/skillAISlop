@@ -9,6 +9,7 @@ nom_court: "General Purpose Delegation Fal"
 branche: "D25"
 synonymes: ["toute", "demande", "domaine"]
 cross_refs: [527]
+tags: ["2027"]
 ---
 
 ## 1144. 📋 General Purpose Delegation Fallback

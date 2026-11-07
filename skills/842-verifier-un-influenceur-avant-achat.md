@@ -9,6 +9,7 @@ nom_court: "Vérif influenceur"
 branche: "D20"
 synonymes: ["arnaque influenceur"]
 cross_refs: [647, 709]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

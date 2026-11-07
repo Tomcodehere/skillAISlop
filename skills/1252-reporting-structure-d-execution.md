@@ -9,6 +9,7 @@ nom_court: "Reporting Structure d'Exécutio"
 branche: "D22"
 synonymes: ["execution", "tache", "systeme"]
 cross_refs: [1127]
+tags: ["2027"]
 ---
 
 ## 1252. 🎨 Reporting Structure d'Exécution

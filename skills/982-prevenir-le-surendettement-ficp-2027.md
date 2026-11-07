@@ -9,6 +9,7 @@ nom_court: "Surendettement"
 branche: "D29"
 synonymes: ["ficp inscription"]
 cross_refs: [371, 832]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

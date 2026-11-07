@@ -9,6 +9,7 @@ nom_court: "Pathfinding, Navigation & Perc"
 branche: "D1"
 synonymes: ["demande", "portant", "pathfinding"]
 cross_refs: [301]
+tags: ["2027"]
 ---
 
 ## 1224. 💻 Pathfinding, Navigation & Perception

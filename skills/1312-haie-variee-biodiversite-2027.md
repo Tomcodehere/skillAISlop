@@ -9,6 +9,7 @@ nom_court: "Haie variée"
 branche: "D26"
 synonymes: ["haie fleurie"]
 cross_refs: [1311]
+tags: ["2027"]
 ---
 
 ## 1312. 🌳 Haie variée & biodiversité (2027)

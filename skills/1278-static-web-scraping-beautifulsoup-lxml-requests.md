@@ -9,6 +9,7 @@ nom_court: "Static Web Scraping (Beautiful"
 branche: "D1"
 synonymes: ["scraper", "statique", "parser"]
 cross_refs: [91]
+tags: ["2027"]
 ---
 
 ## 1278. 💻 Static Web Scraping (BeautifulSoup/lxml/Requests)

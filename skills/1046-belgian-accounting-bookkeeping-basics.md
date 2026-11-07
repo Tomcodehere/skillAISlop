@@ -9,6 +9,7 @@ nom_court: "Belgian Accounting & Bookkeepi"
 branche: "D29"
 synonymes: ["utilisateur", "comprendre", "notion"]
 cross_refs: [172]
+tags: ["2027"]
 ---
 
 ## 1046. 💰 Belgian Accounting & Bookkeeping Basics

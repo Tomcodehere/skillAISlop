@@ -9,6 +9,7 @@ nom_court: "Panne PC"
 branche: "D23"
 synonymes: ["pc ne démarre plus"]
 cross_refs: [291, 755]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

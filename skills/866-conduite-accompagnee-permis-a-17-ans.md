@@ -9,6 +9,7 @@ nom_court: "AAC"
 branche: "D28"
 synonymes: ["permis 17 ans"]
 cross_refs: [672, 580]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

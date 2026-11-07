@@ -9,6 +9,7 @@ nom_court: "Bilan annuel"
 branche: "D25"
 synonymes: ["rétrospective perso"]
 cross_refs: [600, 846]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

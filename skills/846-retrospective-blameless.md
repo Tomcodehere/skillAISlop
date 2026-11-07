@@ -9,6 +9,7 @@ nom_court: "Rétro"
 branche: "D25"
 synonymes: ["post-mortem blameless"]
 cross_refs: [73, 60]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

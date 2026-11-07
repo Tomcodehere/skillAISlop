@@ -9,6 +9,7 @@ nom_court: "Cookie Consent Evidence Review"
 branche: "D22"
 synonymes: ["demande", "portant", "cookie"]
 cross_refs: [184]
+tags: ["2027"]
 ---
 
 ## 1090. 📦 Cookie Consent Evidence Review

@@ -9,6 +9,7 @@ nom_court: "CGM perso"
 branche: "D27"
 synonymes: ["glycémie continue 2027"]
 cross_refs: [483, 816]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

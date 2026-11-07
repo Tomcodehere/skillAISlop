@@ -9,6 +9,7 @@ nom_court: "Docker Compose Orchestration"
 branche: "D1"
 synonymes: ["docker-compose", "orchestration", "locale"]
 cross_refs: [314]
+tags: ["2027"]
 ---
 
 ## 1109. 💻 Docker Compose Orchestration

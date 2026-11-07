@@ -9,6 +9,7 @@ nom_court: "Bien vieillir"
 branche: "D27"
 synonymes: ["autonomie senior"]
 cross_refs: [915, 859]
+tags: ["2027"]
 ---
 
 ## 1332. 🦯 Bien vieillir & autonomie (2027)

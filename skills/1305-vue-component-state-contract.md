@@ -9,6 +9,7 @@ nom_court: "Vue Component State Contract"
 branche: "D1"
 synonymes: ["demande", "portant", "component"]
 cross_refs: [809]
+tags: ["2027"]
 ---
 
 ## 1305. 💻 Vue Component State Contract

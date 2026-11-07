@@ -9,6 +9,7 @@ nom_court: "Scene and Signal Architecture"
 branche: "D1"
 synonymes: ["demande", "portant", "scene"]
 cross_refs: [10]
+tags: ["2027"]
 ---
 
 ## 1264. 💻 Scene and Signal Architecture

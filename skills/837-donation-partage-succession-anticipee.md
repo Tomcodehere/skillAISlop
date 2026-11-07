@@ -9,6 +9,7 @@ nom_court: "Succession préparée"
 branche: "D29"
 synonymes: ["donation partage"]
 cross_refs: [651, 812]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

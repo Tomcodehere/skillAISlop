@@ -9,6 +9,7 @@ nom_court: "Hygiene Environnement Executio"
 branche: "D17"
 synonymes: ["avant", "toute", "execution"]
 cross_refs: [1185]
+tags: ["2027"]
 ---
 
 ## 1157. 🔬 Hygiene Environnement Execution

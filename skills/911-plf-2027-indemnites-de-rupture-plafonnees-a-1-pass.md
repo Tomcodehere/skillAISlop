@@ -9,6 +9,7 @@ nom_court: "Indemnité rupture"
 branche: "D29"
 synonymes: ["plf 2027 licenciement"]
 cross_refs: [634, 830]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Mémoire persistante"
 branche: "D14"
 synonymes: ["claude-mem"]
 cross_refs: [714, 260]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

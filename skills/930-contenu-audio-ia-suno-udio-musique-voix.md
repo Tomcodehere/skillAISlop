@@ -9,6 +9,7 @@ nom_court: "Musique IA"
 branche: "D19"
 synonymes: ["suno udio"]
 cross_refs: [154, 561]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

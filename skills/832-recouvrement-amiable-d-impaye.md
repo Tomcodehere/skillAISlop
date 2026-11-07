@@ -9,6 +9,7 @@ nom_court: "Relance amiable"
 branche: "D21"
 synonymes: ["client en retard de paiement"]
 cross_refs: [779, 706]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

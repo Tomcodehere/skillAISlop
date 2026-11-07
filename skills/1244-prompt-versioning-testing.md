@@ -9,6 +9,7 @@ nom_court: "Prompt Versioning & Testing"
 branche: "D1"
 synonymes: ["modification", "substantielle", "prompt"]
 cross_refs: [17, 110]
+tags: ["2027"]
 ---
 
 ## 1244. 💻 Prompt Versioning & Testing

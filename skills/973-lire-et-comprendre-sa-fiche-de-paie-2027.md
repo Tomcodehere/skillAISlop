@@ -9,6 +9,7 @@ nom_court: "Fiche de paie"
 branche: "D29"
 synonymes: ["comprendre bulletin salaire"]
 cross_refs: [297, 639]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

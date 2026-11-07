@@ -9,6 +9,7 @@ nom_court: "Kayak 2027"
 branche: "D26"
 synonymes: ["canoë 2027"]
 cross_refs: [986, 988]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

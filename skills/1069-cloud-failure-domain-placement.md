@@ -9,6 +9,7 @@ nom_court: "Cloud Failure-Domain Placement"
 branche: "D25"
 synonymes: ["demande", "portant", "cloud"]
 cross_refs: [1158]
+tags: ["2027"]
 ---
 
 ## 1069. 📋 Cloud Failure-Domain Placement

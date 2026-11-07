@@ -9,6 +9,7 @@ nom_court: "Cloud Storage Strategies"
 branche: "D14"
 synonymes: ["azure", "cloud", "storage"]
 cross_refs: [903]
+tags: ["2027"]
 ---
 
 ## 1074. 🧠 Cloud Storage Strategies

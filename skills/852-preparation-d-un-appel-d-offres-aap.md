@@ -9,6 +9,7 @@ nom_court: "AAP"
 branche: "D21"
 synonymes: ["répondre à un aap"]
 cross_refs: [168, 780]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Courses IA"
 branche: "D26"
 synonymes: ["liste de courses ia"]
 cross_refs: [1314, 216]
+tags: ["2027"]
 ---
 
 ## 1328. 🛒 Assistant courses & anti-gaspi IA (2027)

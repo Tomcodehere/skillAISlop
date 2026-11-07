@@ -9,6 +9,7 @@ nom_court: "Research Uncertainty Synthesis"
 branche: "D17"
 synonymes: ["demande", "portant", "research"]
 cross_refs: [101]
+tags: ["2027"]
 ---
 
 ## 1255. 🔬 Research Uncertainty Synthesis

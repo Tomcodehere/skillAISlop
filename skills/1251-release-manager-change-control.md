@@ -9,6 +9,7 @@ nom_court: "Release Manager & Change Contr"
 branche: "D1"
 synonymes: ["preparation", "release", "mineure"]
 cross_refs: [1275]
+tags: ["2027"]
 ---
 
 ## 1251. 💻 Release Manager & Change Control

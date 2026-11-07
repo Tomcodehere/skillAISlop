@@ -9,6 +9,7 @@ nom_court: "Entretien visio"
 branche: "D6"
 synonymes: ["entretien en ligne"]
 cross_refs: [849, 697]
+tags: ["2027"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
