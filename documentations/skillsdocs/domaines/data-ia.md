@@ -1,4 +1,4 @@
-# Domaine : Data & IA (56 skills)
+# Domaine : Data & IA (57 skills)
 
 ## 35. 🔗 Pipeline de recommandation
 
@@ -279,4 +279,9 @@
 
 - **Fichier** : `skills/1767-tracing-llm-tokens-appels-d-outils-et-cout-par-requete-2.md` · **Mot-clé** : « tracing LLM tokens cout par requete gen_ai.usage OpenTelemetry cost attribution dollars 2027 » · **Nom court** : Coût LLM par requête
 - **Signal** : Tracer en 2027 le coût réel d'une feature IA : tokens d'entrée/sortie, appels de fonctions (tool calls), latence, coût en dollars par requête via les attributs sémantiques gen_ai.* d'OpenTelemetry (gen_ai.usage.input_tokens, output_tokens, gen_ai.request.model) et le cost attribution (OpenObserve). Utilise pour facturer, optimiser (cache, modèle plus petit) ou couper une feature non rentable. · **Synonymes** : « combien coute chaque appel LLM en tokens entree sortie et dollars », « gen_ai.usage.input_tokens output_tokens attributs OTel sémantiques », « cost attribution : quel parcours utilisateur coute le plus cher en IA » · **Cross-refs** : 1750, 1751, 1765 · **Tags** : 2027
+
+## 1800. 🚪 AI Gateway 2027 : router et plafonner les appels LLM multi-fournisseurs
+
+- **Fichier** : `skills/1800-ai-gateway-2027-router-et-plafonner-les-appels-llm-multi.md` · **Mot-clé** : « AI gateway LLM gateway 2027 LiteLLM Bifrost Portkey Kong Cloudflare routing fallback cache sémantique budget clé virtuelle chargeback » · **Nom court** : AI Gateway 2027
+- **Signal** : Mettre en place une AI Gateway en 2027 devant les fournisseurs LLM : point unique compatible API OpenAI avec routing, fallback, cache sémantique (-20 à 40 % de dépenses sur workloads répétitifs), budgets par clé/équipe et chargeback. Options : LiteLLM (self-host, 100+ providers, clés virtuelles, budgets OSS), Bifrost (Go, 11 µs d'overhead à 5 000 RPS), Portkey (guardrails, cache sémantique, PII), Kong AI Gateway (LLM+MCP+A2A), Cloudflare AI Gateway (gratuit, spend limits en dollars depuis juin 2026 avec fallback dynamique), Vercel, OpenRouter (managé, ~5,5 % de frais). Utilise dès 2 fournisseurs ou des données sensibles. N'utilise pas pour un seul appel ponctuel (overkill). · **Synonymes** : « mettre une gateway LLM devant mes appels IA (LiteLLM Bifrost Portkey Kong Cloudflare) », « plafonner la conso tokens IA par équipe : budget spend limit clés virtuelles », « cache sémantique gateway LLM : moins 20 à 40 % de dépenses sur requêtes répétées » · **Cross-refs** : 1750, 1765, 1767 · **Tags** : 2027
 

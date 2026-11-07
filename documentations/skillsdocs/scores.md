@@ -1,6 +1,6 @@
 # Scores de qualité des skills (/100)
 
-Moyenne globale : **100.0/100** sur 1799 skills · <70 : 0 · >=90 : 1799
+Moyenne globale : **100.0/100** sur 1800 skills · <70 : 0 · >=90 : 1800
 
 | Score | # | Skill | Détails |
 |---|---|---|---|
@@ -985,6 +985,7 @@ Moyenne globale : **100.0/100** sur 1799 skills · <70 : 0 · >=90 : 1799
 | 100 | 1798 | DevEx 2027 : métriques SPACE + DORA et harness engineering | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1799 | Tech radar interne 2027 : quoi adopter, tester, évaluer, abandonner | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 180 | Rédacteur de documentation d'API | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1800 | AI Gateway 2027 : router et plafonner les appels LLM multi-fournisseurs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 181 | Architecte de design system | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 182 | Concepteur de formulaires | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 183 | Gestionnaire de dépréciations | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |

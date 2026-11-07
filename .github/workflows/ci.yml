@@ -43,6 +43,7 @@ jobs:
           canvas/corpus-skills-901-1200.md
           canvas/corpus-skills-1201-1500.md
           canvas/corpus-skills-1501-1800.md
+          canvas/corpus-skills-1801-2100.md
 
       - name: Evals par skill (rapport, non bloquant)
         run: python3 outils/routage.py evals

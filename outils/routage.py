@@ -84,6 +84,7 @@ CANVAS_CORPUS = [
     RACINE / "canvas/corpus-skills-901-1200.md",
     RACINE / "canvas/corpus-skills-1201-1500.md",
     RACINE / "canvas/corpus-skills-1501-1800.md",
+    RACINE / "canvas/corpus-skills-1801-2100.md",
 ]
 
 # ---------------------------------------------------------------------------
@@ -2675,6 +2676,9 @@ SYNONYMES = [
     ("créer index composite explain analyze", 1419),
     ("mesurer ARPU rétention D7 p-value ship kill", 1540),
     ("compare les forfaits mobiles 2027", 219),
+    ("mettre une gateway LLM devant mes appels IA (LiteLLM Bifrost Portkey Kong Cloudflare)", 1800),
+    ("plafonner la conso tokens IA par équipe : budget spend limit clés virtuelles", 1800),
+    ("cache sémantique gateway LLM : moins 20 à 40 % de dépenses sur requêtes répétées", 1800),
 
 ]
 
@@ -4249,6 +4253,8 @@ TESTS_ROUTAGE = [
     ("harness engineering note : flow ameliore/degrade documente + jamais de metrique individuelle", 1798),
     ("radar interne a jour : eBPF 1720 Assess->Adopt + Wasm 1793 Trial->Adopt + framework Y Hold traces", 1799),
     ("revue semestrielle compte-rendu avec responsables par blip + justification ecrite", 1799),
+    ("LiteLLM déployé endpoint unique OpenAI + clés virtuelles équipe budget 500 $/mois + fallback 429 teste", 1800),
+    ("cache sémantique mesuré -31 % tokens + dashboard coût/équipe + spend limit hard bloque au plafond", 1800),
 
 ]
 
@@ -4330,7 +4336,7 @@ def extraire(canvas: str):
     sommaire = {}
     for num, nom, dom in RE_SOMMAIRE.findall(canvas):
         sommaire[int(num)] = [nom.strip(), dom.strip()]
-    assert len(sommaire) == 1800, f"sommaire : {len(sommaire)} lignes"
+    assert len(sommaire) == 1801, f"sommaire : {len(sommaire)} lignes"
 
     signaux = {}
     for sig, num, dom in RE_ROUTAGE.findall(canvas):
@@ -4338,7 +4344,7 @@ def extraire(canvas: str):
         assert n not in signaux, f"signal dupliqué pour {n}"
         signaux[n] = sig.strip()
         assert sommaire[n][1] == dom.strip(), f"domaine incohérent pour {n}"
-    assert len(signaux) == 1799
+    assert len(signaux) == 1800
 
     mot_cles, cartes, bullets = {}, [], False
     dans_carte = False
@@ -4371,7 +4377,7 @@ def extraire(canvas: str):
         elif bullets and s and not s.startswith("- **"):
             bullets = False
     assert len(cartes) == 29, f"carte : {len(cartes)}"
-    assert len(mot_cles) == 1799, f"index : {len(mot_cles)}"
+    assert len(mot_cles) == 1800, f"index : {len(mot_cles)}"
 
     branches, noms_courts = {}, {}
     for m in RE_Q6.finditer(canvas):
@@ -4383,7 +4389,7 @@ def extraire(canvas: str):
             noms_courts[n] = mi.group(2).strip()
     for n in RE_KNODE.findall(canvas):
         branches.setdefault(int(n), "K")
-    assert len(branches) == 1799, f"arbre : {len(branches)} skills couvertes"
+    assert len(branches) == 1800, f"arbre : {len(branches)} skills couvertes"
     return sommaire, signaux, mot_cles, branches, noms_courts, cartes
 
 
@@ -4393,7 +4399,7 @@ def _json_dumps(x) -> str:
 
 
 VEC_DIM = 32  # 32 suffit à 1 351 skills (hash bag-of-words) — 2x moins de calcul vec
-CATALOGUE_VERSION = "18.0.0"  # version sémantique du catalogue (vague 19 = 1800 sections)
+CATALOGUE_VERSION = "19.0.0"  # version sémantique du catalogue (vague 20 = 1801 sections)
 VEC_SEUIL = 0.95  # seuil très strict : hash 32 dims monte les cosinus sur requêtes courtes
 VEC_PISTE = 0.86  # P0-2 : relevé de 0.80 (faux positifs à 0.803) + au moins un token commun avec la requête requis ci-dessous
 
@@ -5753,7 +5759,8 @@ def cmd_sonde(fichier, top):
     sujets = []
     for d in db.execute('SELECT domaine, mots_cles FROM domaines ORDER BY domaine'):
         for kw in re.findall('[a-z0-9-]+', norm(d['mots_cles'])):
-            if len(kw) >= 4:  # sujets < 4 lettres = artefacts de sonde (ex. « ton »)
+            # sujets < 4 lettres ou stopwords = artefacts de sonde (ex. « ton », « pour »)
+            if len(kw) >= 4 and kw not in STOPWORDS:
                 sujets.append((kw, d['domaine']))
     for r in db.execute('SELECT num, signal, domaine FROM skills WHERE signal != "" ORDER BY num'):
         sujets.append((r['signal'], r['domaine']))

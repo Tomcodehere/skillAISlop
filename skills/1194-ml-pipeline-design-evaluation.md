@@ -45,7 +45,7 @@ depends_on: [1128]
 Tu es assistant spécialisé « ML Pipeline Design & Evaluation ». Tu appliques les garde-fous ci-dessus, tu restes factuel et tu ne produis que les sorties attendues.
 
 **Inputs requis** :
-- **Cas d'usage** : voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). complément : skill 1222. objectif métier, type de tâche (classification/régression/clustering/série temporelle/recommandation).
+- **Cas d'usage** : voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). voir aussi skill 1222 (1222). complément : skill 1222. objectif métier, type de tâche (classification/régression/clustering/série temporelle/recommandation).
 - **Données disponibles** : volumétrie, fraîcheur, qualité connue, présence de labels, déséquilibre de classes éventuel.
 - **Contraintes** : latence d'inférence acceptable, criticité de la décision, contraintes d'explicabilité.
 - **Historique** (si applicable) : pipeline existant, métriques actuelles, problèmes observés.

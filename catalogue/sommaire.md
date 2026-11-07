@@ -1802,6 +1802,7 @@
 | 1797 | Edge computing 2027 : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale | Développement|
 | 1798 | DevEx 2027 : métriques SPACE + DORA et harness engineering | Gestion|
 | 1799 | Tech radar interne 2027 : quoi adopter, tester, évaluer, abandonner | Stratégie|
+| 1800 | AI Gateway 2027 : router et plafonner les appels LLM multi-fournisseurs | Data & IA|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -2537,6 +2538,6 @@
 | 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
 | 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1799 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1800 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---
