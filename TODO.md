@@ -43,3 +43,5 @@ type: "text/markdown"
 - [ ] Appliquer TEMPLATE-v2 à la vague 14 : maj catalogue/template.md + R2/regles.md + lint spec en CI + migrate_template.py --fix sur les skills existantes
 
 - [ ] Multilingue EN : champ lang dans le frontmatter (fr/en), table lang(num,lang), filtre route --lang en, vague EN (traduction ou rédaction) — catalogue actuellement 100 % FR (1351 skills, 4,09 Mo)
+
+- [ ] HNSW (index vectoriel approché) : NON supporté par sqlite-vec 0.1.9 (testé) — à activer si upgrade sqlite-vec ≥ version avec hnsw ET catalogue > 5 000 skills ; à 1 351 skills la recherche vec linéaire suffit (~1 ms). Pack : deflate retenu (1,93 Mo), LZMA testé moins bon sur markdown (2,2 Mo)

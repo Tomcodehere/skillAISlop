@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Pack : deflate conservé (1,93 Mo, meilleur que LZMA 2,2 Mo sur markdown), skills.db exclu (régénéré par build --from-skills) — HNSW documenté en TODO (non supporté sqlite-vec 0.1.9, utile > 5 000 skills) — 649/649 tests, sonde 100 %, pack FIDÈLE
+
 - [x] **2026-11-07** — Evals par skill (commande evals : 648/648 tests, 517 skills, 100/100) + skills composables depends_on (table + chaîne affichée, ex. 1350→999) + TODO multilingue EN (champ lang, route --lang) — 649/649 tests, audit 100 %, pack FIDÈLE
 
 - [x] **2026-11-07** — Pertinence 2026 : fusion RRF k=60 des voies + contextual enrichment des embeddings ([domaine|branche]) + bonus freshness (tag=année) + bonus xref/popularité existants + conformité kebab-case (9 slugs tronqués) + seuil vec 0,88 — 649/649 tests, audit 1350/1350 (100 %), score 99,9/100, pack FIDÈLE

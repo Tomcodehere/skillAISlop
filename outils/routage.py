@@ -3450,8 +3450,11 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             print("pack check:", "✅ FIDÈLE" if ok else f"❌ écart {got} vs {attendu}, hash_ok={hash_ok}")
             return 0 if ok else 1
     sortie.parent.mkdir(parents=True, exist_ok=True)
-    with zipfile.ZipFile(sortie, "w", zipfile.ZIP_DEFLATED) as z:
+    # deflate reste le meilleur sur du markdown (testé : LZMA 2,2 Mo vs deflate 1,93 Mo) ;
+    # aucun impact runtime — la décompression ne se fait qu'à l'extraction du pack
+    with zipfile.ZipFile(sortie, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         for f in sorted((RACINE / "skills").glob("*.md")):
+            # (skills.db est régénéré par build --from-skills : exclu du pack)
             z.write(f, f"skills/{f.name}")
         z.write(RACINE / "outils" / "routage.py", "routage.py")
         z.writestr("manifeste.json", json.dumps(manifeste, ensure_ascii=False, indent=2))
