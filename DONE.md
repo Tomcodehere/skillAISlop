@@ -4,6 +4,7 @@ title: "DONE — skillAISlop"
 type: "text/markdown"
 ---
 
+- [x] **2026-11-07** — Doc installation : section « Brancher sur ton agent » ajoutée au README du dépôt et au README embarqué dans le pack (ligne à copier dans le SKILL.md/AGENTS.md/.cursorrules du projet hôte pour appeler `routage.py route "..."`, exit 0/1/2) + alternative Agent Skills (`skillmd --sortie` + `npx skills add`) — pack régénéré FIDÈLE, test 1147/1147 ✅, golden 198/198 ✅
 # DONE — skillAISlop
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)

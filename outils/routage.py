@@ -4736,6 +4736,18 @@ python3 routage.py build --from-skills   # construit skills.db depuis skills/*.m
 python3 routage.py route "ma demande"   # route vers la bonne skill (exit 0/1/2)
 ```
 
+## Brancher sur ton agent (SKILL.md / AGENTS.md du projet hôte)
+Ajoute cette section dans le SKILL.md (ou AGENTS.md / .cursorrules) de ton projet :
+```markdown
+## skillAISlop — routeur de skills
+Avant de choisir une skill toi-même, lance le routeur :
+`python3 <chemin-vers-ce-pack>/routage.py route "<demande de l'utilisateur>"`
+- exit 0 → skill trouvée : lire `skills/NNN-*.md` et appliquer sa méthode
+- exit 1 → piste affichée, à confirmer
+- exit 2 → aucune skill : répondre en direct (`misses --suggest` si récurrent)
+```
+Alternative standard Agent Skills (sans routeur) : `python3 routage.py skillmd --sortie agent-skills` puis `npx skills add ./agent-skills`.
+
 ## Contenu
 - `skills/` — {nb} skills + routeur 0, soit {nbf} fichiers `NNN-slug.md` (frontmatter YAML complet : num, nom, domaine, signal, mot_cle, synonymes, cross_refs)
 - `routage.py` — routeur autonome (build, route, test, lint, export, sonde, vocab, versions, analytics)

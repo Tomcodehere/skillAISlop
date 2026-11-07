@@ -2,6 +2,29 @@
 
 Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-17 du 2026-11-02 au 2026-11-07) : **1600 sections** (1599 skills + routeur 0, numérotées 0-1599) organisées en **29 domaines**, avec catalogue, routeur SQL et outils d'audit.
 
+## Installation rapide & branchement sur ton agent
+
+```bash
+python3 outils/routage.py build        # ~2 s, une seule fois (skills.db est gitignoré)
+python3 outils/routage.py route "ma demande"   # exit 0 = skill trouvée, 1 = piste, 2 = rien
+```
+Prérequis : Python 3.12+ (stdlib seule suffit). Optionnel mais recommandé : `pip install sqlite-vec` (voie vectorielle ; sinon repli gracieux FTS5 seul).
+
+**⭐ À ajouter dans le SKILL.md / AGENTS.md / .cursorrules de ton projet hôte** (pour que l'agent pense à consulter le routeur) :
+
+```markdown
+## skillAISlop — routeur de skills
+Avant de choisir une skill toi-même, lance le routeur :
+`python3 <chemin-vers-ce-dépôt>/outils/routage.py route "<demande de l'utilisateur>"`
+- exit 0 → skill trouvée : lire `skills/NNN-*.md` correspondant et appliquer sa méthode
+- exit 1 → piste affichée, à confirmer
+- exit 2 → aucune skill : répondre en direct (`misses --suggest` si la demande revient souvent)
+```
+
+Alternative standard Agent Skills (sans routeur) : `python3 outils/routage.py skillmd --sortie agent-skills` génère 1600 dossiers `SKILL.md` + `skills.json`, installables via `npx skills add ./agent-skills` (ou copie dans `.agent/skills/`).
+
+Pour un **pack autonome** distribuable à d'autres projets : `data/skillaislop-pack.zip` (dézipper, `python3 routage.py build --from-skills`, même ligne à ajouter avec `python3 routage.py route "..."`).
+
 ## Structure
 
 | Chemin | Contenu |
