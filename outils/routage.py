@@ -2163,6 +2163,12 @@ def charger_vec(db: sqlite3.Connection) -> bool:
         return False
 
 
+def _embed_texte(item):
+    """Worker multiprocessing : (num, texte) -> (num, embedding)."""
+    num, texte = item
+    return (num, embed_hash(texte))
+
+
 def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
     """Embedding local déterministe et sans dépendance externe : chaque token
     est hashé (sha256) dans un vecteur de `dim` cases, pondéré, puis normalisé
@@ -2326,11 +2332,17 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         nc = noms_courts.get(num, "")
         db.execute("INSERT INTO skills VALUES (?,?,?,?,?,?,?)",
                    (num, nom, dom, sig, mc, br, nc))
-        if vec_ok:
-            # contextual enrichment : préfixer par domaine + branche avant l'embedding
+    # embeddings : séquentiel suffit à 1 351 skills (hash rapide) — le multiprocessing
+    # (testé) coûte plus cher en spawn de workers qu'il ne gagne. À paralléliser > ~20 000 skills.
+    if vec_ok:
+        vecs = []
+        for num in sorted(sommaire):
+            nom, dom = sommaire[num]
+            sig = signaux.get(num, ""); mc = mot_cles.get(num, "")
+            br = branches.get(num, ""); nc = noms_courts.get(num, "")
             ctx = f"[{dom} | {br}] " if (dom or br) else ""
-            db.execute("INSERT INTO skills_vec(num, embedding) VALUES (?,?)",
-                       (num, embed_hash(ctx + " ".join(x for x in (nom, sig, mc, nc) if x))))
+            vecs.append((num, embed_hash(ctx + " ".join(x for x in (nom, sig, mc, nc) if x))))
+        db.executemany("INSERT INTO skills_vec(num, embedding) VALUES (?,?)", vecs)
     connus = {n for (n,) in db.execute("SELECT num FROM skills")}
     if 0 not in connus:  # pack autonome : recréer la skill 0 (routeur)
         db.execute("INSERT INTO skills VALUES (0, '🧭 Routeur de skills', 'Routage', '', '', '', '')")
