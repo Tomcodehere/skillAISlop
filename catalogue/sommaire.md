@@ -1353,6 +1353,55 @@
 | 1348 | Préparer un entretien annuel d'évaluation (2027) | Carrière|
 | 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
 | 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
+| 1351 | Routine d'immersion linguistique quotidienne (2027) | Langues|
+| 1352 | Shadowing : repeter a voix haute en direct (2027) | Langues|
+| 1353 | Repetition espacee du vocabulaire (SRS, 2027) | Langues|
+| 1354 | Langue des affaires et communication professionnelle (2027) | Langues|
+| 1355 | Plan polyglotte : plusieurs langues en parallele (2027) | Langues|
+| 1356 | Comprehension orale : podcasts et series sans sous-titres (2027) | Langues|
+| 1357 | Lecture en langue etrangere : romans et graded readers (2027) | Langues|
+| 1358 | Preparer un entretien d'embauche en langue etrangere (2027) | Langues|
+| 1359 | Financer sa formation IA avec le CPF (2027) | Formation|
+| 1360 | Choisir une formation IA certifiante en 2027 | Formation|
+| 1361 | Concevoir un parcours de formation blended (2027) | Formation|
+| 1362 | Former ses equipes a l'IA en interne (atelier 2027) | Formation|
+| 1363 | Evaluer l efficacite d une formation (Kirkpatrick, 2027) | Formation|
+| 1364 | Auto-formation a l'IA : parcours personnel 2027 | Formation|
+| 1365 | Construire un arbre de decision (2027) | Décision|
+| 1366 | Decider en equipe : DACI et RACI appliques (2027) | Décision|
+| 1367 | La regle 10-10-10 pour decider (2027) | Décision|
+| 1368 | Eviter les biais cognitifs de decision (2027) | Décision|
+| 1369 | Ecrire la vision produit d'une feature IA (2027) | Produit & IA|
+| 1370 | Concevoir l'onboarding d'une feature IA (2027) | Produit & IA|
+| 1371 | Mesurer l'adoption d'une feature IA (2027) | Produit & IA|
+| 1372 | Choisir la bonne skill pour une tache (dispatch manuel, 2027) | Routage|
+| 1373 | Composer plusieurs skills en workflow (2027) | Routage|
+| 1374 | Organiser son bureau physique : les 3 zones (2027) | Bureau|
+| 1375 | La regle des 5 minutes pour le courrier (2027) | Bureau|
+| 1376 | Dematérialiser ses documents (scan, coffre-fort, 2027) | Bureau|
+| 1377 | Session hebdomadaire de classement papier (15 min, 2027) | Bureau|
+| 1378 | Preparer une visioconference hybride bien equipee (2027) | Bureau|
+| 1379 | Gerer une procuration en ligne (2027) | Bureau|
+| 1380 | Choisir son modele economique (SaaS, licence, usage, 2027) | Stratégie|
+| 1381 | Strategie de croissance : acquisition vs retention (2027) | Stratégie|
+| 1382 | Rediger un plan strategique a 3 ans (2027-2029) | Stratégie|
+| 1383 | Preparer une strategie d'export a l'international (2027) | Stratégie|
+| 1384 | Evaluer une cible pour une acquisition (M&A, 2027) | Stratégie|
+| 1385 | Integrer l'ESG et la RSE au business model (2027) | Stratégie|
+| 1386 | Construire une bibliographie académique (Zotero, 2027) | Recherche|
+| 1387 | Lire et critiquer une etude scientifique (2027) | Recherche|
+| 1388 | Faire une revue de litterature systematique (PRISMA, 2027) | Recherche|
+| 1389 | Eviter les biais de confirmation dans sa recherche d'info (2027) | Recherche|
+| 1390 | Rechercher dans les textes officiels (Legifrance, JO, 2027) | Recherche|
+| 1391 | Modeliser un schema en etoile (dimensions et faits, 2027) | Data|
+| 1392 | Choisir le bon graphique pour ses donnees (2027) | Data|
+| 1393 | Documenter un dataset (data card, 2027) | Data|
+| 1394 | Benchmarker des datasets publics pour son cas d'usage (2027) | Data|
+| 1395 | Construire un golden set d'evaluations pour un agent IA (2027) | Data & IA|
+| 1396 | Preparer un dataset propre pour le fine-tuning (2027) | Data & IA|
+| 1397 | Mesurer la qualite d'un RAG (fidelite, pertinence, 2027) | Data & IA|
+| 1398 | Gerer une question piege en interview ou en media (2027) | Communication|
+| 1399 | Annoncer un changement sensible avec humanite (2027) | Communication|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -2088,6 +2137,6 @@
 | 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
 | 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1350 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1399 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

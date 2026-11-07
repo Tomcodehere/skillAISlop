@@ -9,6 +9,7 @@ nom_court: "Vision"
 branche: "D29"
 synonymes: []
 cross_refs: [57, 74, 423]
+depends_on: [1382]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

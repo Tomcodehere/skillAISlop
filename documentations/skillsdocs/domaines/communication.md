@@ -1,4 +1,4 @@
-# Domaine : Communication (32 skills)
+# Domaine : Communication (34 skills)
 
 ## 4. 📧 Assistant Email professionnel
 
@@ -159,4 +159,14 @@
 
 - **Fichier** : `skills/1342-prise-de-parole-en-public-gestion-du-stress-2027.md` · **Mot-clé** : « prise de parole public » · **Nom court** : Oral
 - **Signal** : Prendre la parole en public en 2027 sans paniquer : préparation, respiration, voix, gestion du trac, Q&R, support visuel sobre · **Synonymes** : « parler en public » · **Cross-refs** : 916, 617, 879 · **Tags** : 2027
+
+## 1398. 🎤 Gerer une question piege en interview ou en media (2027)
+
+- **Fichier** : `skills/1398-gerer-une-question-piege-en-interview-ou-en-media-2027.md` · **Mot-clé** : « question piège interview média répondre » · **Nom court** : Question piège
+- **Signal** : Repondre a une question piege en interview, conference ou face aux medias en 2027 : pont (revenir a son message), reformulation de la question hostile, « je ne sais pas mais je reviens vers vous », ne jamais repeter l'accusation. Utilise quand on est interviewe sur un sujet sensible. N'utilise pas pour une crise de communication geree (voir skill 235). · **Synonymes** : « question hostile journaliste technique du pont », « ne pas répondre à une accusation en interview », « interview difficile 2027 » · **Cross-refs** : 1342, 235, 397 · **Tags** : 2027
+
+## 1399. 📣 Annoncer un changement sensible avec humanite (2027)
+
+- **Fichier** : `skills/1399-annoncer-un-changement-sensible-avec-humanite-2027.md` · **Mot-clé** : « annoncer un changement sensible fusion licenciement humanité » · **Nom court** : Annonce sensible
+- **Signal** : Annoncer un changement difficile (fusion, demenagement, licenciement, arret d'un produit) avec humanite en 2027 : dire les faits rapidement, nommer l'impact sur les personnes, expliquer le pourquoi, dire ce qui est prévu pour accompagner, laisser du temps pour les questions. Utilise quand une annonce touche des personnes. N'utilise pas pour une annonce marketing positive (voir Marketing). · **Synonymes** : « annoncer un licenciement avec humanité », « communiquer une fusion difficile 2027 », « message de changement douloureux » · **Cross-refs** : 404, 235, 696 · **Tags** : 2027
 

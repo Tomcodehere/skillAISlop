@@ -9,6 +9,7 @@ nom_court: "Formations"
 branche: "D24"
 synonymes: []
 cross_refs: [40, 41, 417]
+depends_on: [1360]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

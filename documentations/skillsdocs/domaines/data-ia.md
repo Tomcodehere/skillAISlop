@@ -1,4 +1,4 @@
-# Domaine : Data & IA (32 skills)
+# Domaine : Data & IA (35 skills)
 
 ## 35. 🔗 Pipeline de recommandation
 
@@ -159,4 +159,19 @@
 
 - **Fichier** : `skills/1279-statistical-inference-protocol.md` · **Mot-clé** : « statistical-inference-protocol » · **Nom court** : Statistical Inference Protocol
 - **Signal** : Choisir une analyse statistique compatible avec la question, l'échantillonnage et les hypothèses. · **Synonymes** : « demande », « portant », « statistical » · **Cross-refs** : 690, 1114, 1112 · **Tags** : 2027
+
+## 1395. 🥇 Construire un golden set d'evaluations pour un agent IA (2027)
+
+- **Fichier** : `skills/1395-construire-un-golden-set-d-evaluations-pour-un-agent-ia-.md` · **Mot-clé** : « golden set évaluations agent ia 2027 » · **Nom court** : Golden set evals
+- **Signal** : Construire un golden set (jeu de test de reference) pour evaluer un agent IA en 2027 : 50-200 cas reels anonymises avec entrees, sorties attendues et criteres de reussite, couvrant les cas nominaux, limites et pièges. Utilise quand on deploie un agent en production. N'utilise pas pour le fine-tuning (voir skill 1396) ni le prompt engineering seul. · **Synonymes** : « jeu de test référence agent ia », « evals agent ia golden dataset », « bench de prompts 2027 » · **Cross-refs** : 693, 97, 1245 · **Tags** : 2027
+
+## 1396. 🧹 Preparer un dataset propre pour le fine-tuning (2027)
+
+- **Fichier** : `skills/1396-preparer-un-dataset-propre-pour-le-fine-tuning-2027.md` · **Mot-clé** : « préparer dataset propre fine-tuning jsonl » · **Nom court** : Dataset fine-tuning
+- **Signal** : Preparer un dataset de fine-tuning propre en 2027 : collecte de couples instruction/reponse de qualite, nettoyage (doublons, toxicite, donnees perso RGPD), formatage (JSONL, chat template), repartition train/val/test, et controle de fuite (pas de test dans le train). Utilise quand on fine-tune un modele. N'utilise pas pour l'evaluation seule (voir golden set, skill 1395). · **Synonymes** : « nettoyer données entraînement llm », « format jsonl chat template 2027 », « détecter les fuites train test » · **Cross-refs** : 691, 238, 92 · **Tags** : 2027
+
+## 1397. 📏 Mesurer la qualite d'un RAG (fidelite, pertinence, 2027)
+
+- **Fichier** : `skills/1397-mesurer-la-qualite-d-un-rag-fidelite-pertinence-2027.md` · **Mot-clé** : « mesurer qualité rag faithfulness ragas 2027 » · **Nom court** : Qualité RAG
+- **Signal** : Mesurer la qualite d'un systeme RAG en 2027 avec des metriques standard : fidelite (faithfulness : la reponse est-elle fondee sur les documents recuperes ?), pertinence du contexte (context relevance/precision/recall), pertinence de la reponse (answer relevancy). Frameworks : Ragas, DeepEval, TruLens. Utilise quand un RAG est en production. N'utilise pas pour evaluer un agent complet (skills 693/1395). · **Synonymes** : « évaluer un rag fidélité pertinence », « métriques ragas deepeval 2027 », « context precision recall rag » · **Cross-refs** : 690, 693, 1248 · **Tags** : 2027
 

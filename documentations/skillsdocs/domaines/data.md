@@ -1,4 +1,4 @@
-# Domaine : Data (32 skills)
+# Domaine : Data (36 skills)
 
 ## 13. 📊 Analyste de données
 
@@ -159,4 +159,24 @@
 
 - **Fichier** : `skills/782-migration-de-donnees-changement-d-outil.md` · **Mot-clé** : « migrer mes données » · **Nom court** : Migration données
 - **Signal** : Migrer ses données d'un outil à un autre, export/import, changement de logiciel, transfert de contacts, historique · **Synonymes** : « changer d'outil » · **Cross-refs** : 462, 92, 95 · **Tags** : —
+
+## 1391. ⭐ Modeliser un schema en etoile (dimensions et faits, 2027)
+
+- **Fichier** : `skills/1391-modeliser-un-schema-en-etoile-dimensions-et-faits-2027.md` · **Mot-clé** : « schéma en étoile table de faits dimensions » · **Nom court** : Schéma en étoile
+- **Signal** : Modeliser un entrepot de donnees en schema en etoile en 2027 : une table de faits (mesures numeriques : ventes, clics) entouree de tables de dimensions (date, produit, client, magasin). Alternative au schema en flocon. Utilise quand on construit un data warehouse ou un modele BI. N'utilise pas pour une base operationnelle (OLTP, voir skill 321). · **Synonymes** : « modèle en étoile data warehouse », « table de faits et dimensions », « star schema 2027 » · **Cross-refs** : 350, 95, 94 · **Tags** : 2027
+
+## 1392. 📉 Choisir le bon graphique pour ses donnees (2027)
+
+- **Fichier** : `skills/1392-choisir-le-bon-graphique-pour-ses-donnees-2027.md` · **Mot-clé** : « choisir le bon graphique dataviz données » · **Nom court** : Bon graphique
+- **Signal** : Choisir le graphique adapte a ses donnees en 2027 : comparaison (barres), tendance (courbe), repartition (camembert à moins de 5 parts, sinon barres), correlation (nuage de points), distribution (histogramme), composition dans le temps (barres empilees). Regle : une question = un graphique, axes nommes, pas de 3D. Utilise quand on prepare un rapport ou un dashboard. N'utilise pas pour l'analyse exploratoire (voir skill 1114). · **Synonymes** : « quel graphique pour mes données », « barres camembert courbe 2027 », « visualisation de données claire » · **Cross-refs** : 107, 348, 108 · **Tags** : 2027
+
+## 1393. 🏷 Documenter un dataset (data card, 2027)
+
+- **Fichier** : `skills/1393-documenter-un-dataset-data-card-2027.md` · **Mot-clé** : « documenter un dataset data card 2027 » · **Nom court** : Data card
+- **Signal** : Documenter un dataset avec une data card en 2027 : origine et licence, collecte (qui, quand, comment), contenu (colonnes, types, exemples), limites et biais connus, usage prevu et interdit, contact. Inspire des Data Cards de Google et des datasheets de Gebru et al. Utilise quand on partage ou publie un dataset. N'utilise pas pour la documentation d'une API (voir skill 180). · **Synonymes** : « fiche dataset documentation », « datasheet données biais licence », « documenter avant de partager un csv » · **Cross-refs** : 238, 343, 1095 · **Tags** : 2027
+
+## 1394. 🏁 Benchmarker des datasets publics pour son cas d'usage (2027)
+
+- **Fichier** : `skills/1394-benchmarker-des-datasets-publics-pour-son-cas-d-usage-20.md` · **Mot-clé** : « benchmark datasets publics data.gouv kaggle hugging face » · **Nom court** : Datasets publics
+- **Signal** : Trouver et comparer des datasets publics pour son cas d'usage en 2027 : data.gouv.fr, INSEE, Eurostat, Kaggle, Hugging Face Datasets, UCI, Google Dataset Search ; criteres : fraicheur, licence, qualite, taille, pertinence metier. Utilise quand on demarre un projet data/ML sans données internes. N'utilise pas pour des données internes sensibles (voir gouvernance, skill 1097). · **Synonymes** : « trouver un dataset public 2027 », « data.gouv insee eurostat », « dataset hugging face licence » · **Cross-refs** : 242, 263, 96 · **Tags** : 2027
 

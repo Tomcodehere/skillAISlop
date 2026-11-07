@@ -1,4 +1,4 @@
-# Domaine : Recherche (30 skills)
+# Domaine : Recherche (35 skills)
 
 ## 18. 🔎 Agent de recherche approfondie
 
@@ -149,4 +149,29 @@
 
 - **Fichier** : `skills/1329-veille-personnalisee-ia-actualites-2027.md` · **Mot-clé** : « veille ia personnalisée » · **Nom court** : Veille IA
 - **Signal** : Veille personnalisée avec un agent IA 2027 : sujets choisis, synthèse quotidienne sourcée, alertes événements importants, anti-bulles · **Synonymes** : « actualités ia 2027 » · **Cross-refs** : 708, 944, 105 · **Tags** : 2027
+
+## 1386. 📚 Construire une bibliographie académique (Zotero, 2027)
+
+- **Fichier** : `skills/1386-construire-une-bibliographie-academique-zotero-2027.md` · **Mot-clé** : « bibliographie académique zotero style apa » · **Nom court** : Bibliographie Zotero
+- **Signal** : Construire une bibliographie académique propre en 2027 : rassembler les sources (Google Scholar, HAL, PubMed), les gerer dans Zotero, dedupliquer, citer dans le bon style (APA, Vancouver, Chicago) et exporter la bibliographie. Utilise quand on rédige un mémoire, une thèse ou un article. N'utilise pas pour la veille d'actualité (voir skill 105). · **Synonymes** : « gérer ses références zotero », « citer en apa vancouver », « bibliographie mémoire propre » · **Cross-refs** : 104, 725, 238 · **Tags** : 2027
+
+## 1387. 🔬 Lire et critiquer une etude scientifique (2027)
+
+- **Fichier** : `skills/1387-lire-et-critiquer-une-etude-scientifique-2027.md` · **Mot-clé** : « critiquer étude scientifique méthodologie biais p-value » · **Nom court** : Critique d'étude
+- **Signal** : Lire une etude scientifique de maniere critique en 2027 : design de l'etude (RCT, observationnelle, meta-analyse), taille d'echantillon, p-value et intervalles de confiance, biais (selection, publication), reproductibilite, conflits d'interets des auteurs. Utilise quand on evalue une affirmation appuyée sur une étude. N'utilise pas pour lire un rapport d'entreprise. · **Synonymes** : « lire un papier scientifique critique », « p-value intervalle de confiance expliqué », « biais de publication étude » · **Cross-refs** : 104, 1276, 547 · **Tags** : 2027
+
+## 1388. 🧾 Faire une revue de litterature systematique (PRISMA, 2027)
+
+- **Fichier** : `skills/1388-faire-une-revue-de-litterature-systematique-prisma-2027.md` · **Mot-clé** : « revue de littérature systématique prisma » · **Nom court** : Revue PRISMA
+- **Signal** : Realiser une revue de litterature systematique selon PRISMA en 2027 : protocole ecrit (PICO), recherche multi-bases avec equation de recherche, criteres d'inclusion/exclusion, selection en double aveugle, extraction des donnees, synthese (narrative ou meta-analyse), diagramme PRISMA. Utilise quand on prepare une these, un article ou un etat de l'art rigoureux. N'utilise pas pour une simple bibliographie (voir skill 1386). · **Synonymes** : « systematic review prisma 2027 », « protocole pico revue littérature », « diagramme prisma sélection études » · **Cross-refs** : 1386, 1387, 708 · **Tags** : 2027
+
+## 1389. 🪞 Eviter les biais de confirmation dans sa recherche d'info (2027)
+
+- **Fichier** : `skills/1389-eviter-les-biais-de-confirmation-dans-sa-recherche-d-inf.md` · **Mot-clé** : « biais de confirmation recherche d'information objective » · **Nom court** : Anti-confirmation
+- **Signal** : Structurer sa recherche d'information pour eviter le biais de confirmation en 2027 : chercher d'abord les sources CONTRAIRES a son hypothese, varier les sources (academia/presse, FR/EN), noter ce qui infirme, utiliser la méthode du contradicteur. Utilise quand on doit prendre une decision importante sur un sujet debattu. N'utilise pas pour la simple curiosite. · **Synonymes** : « chercher les sources contraires », « recherche d'information sans biais », « méthode du contradicteur recherche » · **Cross-refs** : 1368, 806, 61 · **Tags** : 2027
+
+## 1390. ⚖ Rechercher dans les textes officiels (Legifrance, JO, 2027)
+
+- **Fichier** : `skills/1390-rechercher-dans-les-textes-officiels-legifrance-jo-2027.md` · **Mot-clé** : « recherche textes officiels légifrance journal officiel » · **Nom court** : Textes officiels
+- **Signal** : Trouver et comprendre un texte officiel en 2027 : lois, decrets, arretes, circulaires sur Legifrance, Journal officiel (JO), codes consolides, dates d'entree en vigueur, jurisprudence. Utilise quand une question a une reponse legale. N'utilise pas pour un conseil juridique personnalise (avocat). · **Synonymes** : « trouver un décret au journal officiel », « loi en vigueur 2027 légifrance », « code consolidé article » · **Cross-refs** : 239, 664, 1207 · **Tags** : 2027
 

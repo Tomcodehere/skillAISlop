@@ -8,6 +8,7 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Vague 15 : 49 skills (1351-1399, TEMPLATE-v2) dans les 11 domaines les moins remplis (Langues +8, Formation +6, Bureau +6, Stratégie +6, Recherche +5, Décision +4, Data +4, Produit & IA +3, Data & IA +3, Communication +2, Routage +2) — catalogue à **1400 sections** (1399 skills + routeur) · build ✅ 1400 skills · 28 domaines · 1397 synonymes · 747/747 tests ✅ · lint ✅ · audit ✅ 1399/1399 (100 %) · sonde 100 % (1558 sujets, 0 gap) · score 100,0/100 · evals 746/746 (566 skills) · exports 1400 · pack FIDÈLE (2,27 Mo) · gen_docs (70 références) · cross-refs enrichies (enrichir_xrefs.py)
 - [x] **2026-11-07** — Cross-refs complétées partout (1350/1351, top-3 par cosinus même domaine, outils/enrichir_xrefs.py) + 906 workflows depends_on auto (chaînes affichées après le gagnant) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
 
 - [x] **2026-11-07** — Vérification doublons vs aihero.dev/skills (39 skills MIT, repo mattpocock/skills) : 100 % déjà couvertes → 0 nouvelle, 111 cross-refs tags aihero:<slug> ajoutées — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE

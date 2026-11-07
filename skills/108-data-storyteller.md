@@ -10,6 +10,7 @@ branche: "D17"
 synonymes: []
 cross_refs: [13, 48, 816]
 tags: ["aihero:migrate-to-shoehorn"]
+depends_on: [1393]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "Prononciation"
 branche: "D26"
 synonymes: ["accent", "prononcer"]
 cross_refs: [491, 496, 483]
+depends_on: [1352]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

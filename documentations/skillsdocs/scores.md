@@ -1,6 +1,6 @@
 # Scores de qualité des skills (/100)
 
-Moyenne globale : **99.9/100** sur 1350 skills · <70 : 0 · >=90 : 1350
+Moyenne globale : **100.0/100** sur 1399 skills · <70 : 0 · >=90 : 1399
 
 | Score | # | Skill | Détails |
 |---|---|---|---|
@@ -8,14 +8,6 @@ Moyenne globale : **99.9/100** sur 1350 skills · <70 : 0 · >=90 : 1350
 | 90 | 1026 | AI System Architecture Design | frontmatter 10/10, sections 12/12, contenu 9/12 sections suffisantes, cross-ref oui, unicité oui |
 | 90 | 1196 | Multi-Agent Orchestration Patterns | frontmatter 10/10, sections 12/12, contenu 9/12 sections suffisantes, cross-ref oui, unicité oui |
 | 93 | 1277 | SQL Analytics & Data Quality | frontmatter 10/10, sections 12/12, contenu 10/12 sections suffisantes, cross-ref oui, unicité oui |
-| 94 | 8 | Relecture & correction | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, unicité oui |
-| 94 | 33 | Générateur de personas | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, unicité oui |
-| 94 | 34 | Gardien de charte de marque | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, unicité oui |
-| 94 | 37 | Red-team de prompts | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, unicité oui |
-| 94 | 40 | Quiz & flashcards | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, unicité oui |
-| 94 | 43 | Coach budget perso | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, unicité oui |
-| 94 | 48 | Infographie animée | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, unicité oui |
-| 94 | 53 | Moteur de repurposing de contenu | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, unicité oui |
 | 95 | 814 | Régularité du sommeil (circadien) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 97 | 1099 | Data Quality Monitoring | frontmatter 10/10, sections 12/12, contenu 11/12 sections suffisantes, cross-ref oui, unicité oui |
 | 97 | 910 | PLF 2027 : dons d'argent allégés S1 2027 | frontmatter 10/10, sections 12/12, contenu 11/12 sections suffisantes, cross-ref oui, unicité oui |
@@ -26,6 +18,7 @@ Moyenne globale : **99.9/100** sur 1350 skills · <70 : 0 · >=90 : 1350
 | 100 | 5 | Synthèse & résumé de documents | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 6 | Brainstorming structuré | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 7 | Traducteur professionnel | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 8 | Relecture & correction | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 9 | Générateur de code commenté | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 10 | Review de code & debug | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 11 | Expliqueur pédagogique | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
@@ -50,20 +43,27 @@ Moyenne globale : **99.9/100** sur 1350 skills · <70 : 0 · >=90 : 1350
 | 100 | 30 | Optimiseur de posts sociaux | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 31 | Ghostwriter LinkedIn | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 32 | Analyseur concurrentiel | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 33 | Générateur de personas | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 34 | Gardien de charte de marque | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 35 | Pipeline de recommandation | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 36 | Tableaux de bord & KPI | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 37 | Red-team de prompts | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 38 | Skill Creator (SKILL.md) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 39 | Tuteur socratique | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 40 | Quiz & flashcards | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 41 | Simulateur d'examen blanc | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 42 | Planificateur de voyage | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 43 | Coach budget perso | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 44 | Analyseur CV & lettre | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 45 | Simulateur de négociation | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 46 | Conversations difficiles | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 47 | Générateur de noms | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 48 | Infographie animée | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 49 | Simulateur de rôle | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 50 | Créateur de SOP & playbooks | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 51 | Rédacteur de newsletter | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 52 | Scripteur YouTube long format | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 53 | Moteur de repurposing de contenu | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 54 | Prospection à froid (cold outreach) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 55 | Analyste de feedback client | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 56 | Architecte de support client | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
@@ -492,10 +492,59 @@ Moyenne globale : **99.9/100** sur 1350 skills · <70 : 0 · >=90 : 1350
 | 100 | 1349 | Cuisine anti-gaspi & restes (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 135 | Planificateur éditorial | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1350 | Bilan de fin d'année 2027 (tous domaines) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1351 | Routine d'immersion linguistique quotidienne (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1352 | Shadowing : repeter a voix haute en direct (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1353 | Repetition espacee du vocabulaire (SRS, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1354 | Langue des affaires et communication professionnelle (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1355 | Plan polyglotte : plusieurs langues en parallele (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1356 | Comprehension orale : podcasts et series sans sous-titres (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1357 | Lecture en langue etrangere : romans et graded readers (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1358 | Preparer un entretien d'embauche en langue etrangere (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1359 | Financer sa formation IA avec le CPF (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 136 | Messager d'occasions | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1360 | Choisir une formation IA certifiante en 2027 | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1361 | Concevoir un parcours de formation blended (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1362 | Former ses equipes a l'IA en interne (atelier 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1363 | Evaluer l efficacite d une formation (Kirkpatrick, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1364 | Auto-formation a l'IA : parcours personnel 2027 | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1365 | Construire un arbre de decision (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1366 | Decider en equipe : DACI et RACI appliques (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1367 | La regle 10-10-10 pour decider (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1368 | Eviter les biais cognitifs de decision (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1369 | Ecrire la vision produit d'une feature IA (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 137 | Rédacteur de courriers officiels & réclamations | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1370 | Concevoir l'onboarding d'une feature IA (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1371 | Mesurer l'adoption d'une feature IA (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1372 | Choisir la bonne skill pour une tache (dispatch manuel, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1373 | Composer plusieurs skills en workflow (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1374 | Organiser son bureau physique : les 3 zones (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1375 | La regle des 5 minutes pour le courrier (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1376 | Dematérialiser ses documents (scan, coffre-fort, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1377 | Session hebdomadaire de classement papier (15 min, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1378 | Preparer une visioconference hybride bien equipee (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1379 | Gerer une procuration en ligne (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 138 | Rédacteur d'emails transactionnels | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1380 | Choisir son modele economique (SaaS, licence, usage, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1381 | Strategie de croissance : acquisition vs retention (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1382 | Rediger un plan strategique a 3 ans (2027-2029) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1383 | Preparer une strategie d'export a l'international (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1384 | Evaluer une cible pour une acquisition (M&A, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1385 | Integrer l'ESG et la RSE au business model (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1386 | Construire une bibliographie académique (Zotero, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1387 | Lire et critiquer une etude scientifique (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1388 | Faire une revue de litterature systematique (PRISMA, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1389 | Eviter les biais de confirmation dans sa recherche d'info (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 139 | Prompteur de génération d'images | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1390 | Rechercher dans les textes officiels (Legifrance, JO, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1391 | Modeliser un schema en etoile (dimensions et faits, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1392 | Choisir le bon graphique pour ses donnees (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1393 | Documenter un dataset (data card, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1394 | Benchmarker des datasets publics pour son cas d'usage (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1395 | Construire un golden set d'evaluations pour un agent IA (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1396 | Preparer un dataset propre pour le fine-tuning (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1397 | Mesurer la qualite d'un RAG (fidelite, pertinence, 2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1398 | Gerer une question piege en interview ou en media (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1399 | Annoncer un changement sensible avec humanite (2027) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 140 | Restaurateur de photos anciennes | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 141 | Créateur d'illustrations vectorielles | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 142 | Générateur d'assets 3D | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |

@@ -9,6 +9,7 @@ nom_court: "Vocabulaire"
 branche: "D26"
 synonymes: []
 cross_refs: [492, 496, 218]
+depends_on: [1353]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
