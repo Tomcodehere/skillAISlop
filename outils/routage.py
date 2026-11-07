@@ -2012,6 +2012,9 @@ TESTS_ROUTAGE = [
 # Outils communs
 # ---------------------------------------------------------------------------
 
+from functools import lru_cache
+
+@lru_cache(maxsize=200_000)
 def norm(s: str) -> str:
     s = unicodedata.normalize("NFKD", s)
     return "".join(c for c in s if not unicodedata.combining(c)).lower()
@@ -2026,6 +2029,7 @@ besoin aide peux peut pour svp et
 """.split())
 
 
+@lru_cache(maxsize=100_000)
 def tokens(s: str) -> list:
     return [t for t in re.findall(r"[a-z0-9]+", norm(s)) if t not in STOPWORDS]
 
@@ -2232,9 +2236,11 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             mots_cles TEXT NOT NULL
         );
         CREATE TABLE synonymes (
-            synonyme TEXT PRIMARY KEY,
-            num      INTEGER NOT NULL
+            synonyme      TEXT PRIMARY KEY,
+            synonyme_norm TEXT NOT NULL DEFAULT '',
+            num           INTEGER NOT NULL
         );
+        CREATE INDEX IF NOT EXISTS idx_synonymes_norm ON synonymes(synonyme_norm);
         CREATE TABLE non_routees (
             demande TEXT PRIMARY KEY,
             nb      INTEGER NOT NULL DEFAULT 1,
@@ -2334,7 +2340,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
     for num, syns in SYN_A_UTILISER.items():
         for syn in syns:
             assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
-            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?)", (syn, num))
+            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?)", (syn, norm(syn), num))
     # popularité : top-N des skills les plus routées (table routes), sert de bonus de classement
     # et de cache chaud. Recalculée à chaque build si la table routes existe.
     try:
@@ -2582,20 +2588,22 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             vus.add(r["num"])
     res["exact"] = res["exact"][:top]
 
-    # 2) synonymes (mots simples par token, expressions par inclusion)
-    for r in db.execute("SELECT s.synonyme, k.num, k.nom, k.domaine, k.signal "
-                        "FROM synonymes s JOIN skills k ON k.num = s.num"):
-        sn = norm(r["synonyme"])
-        simple = sn.isalnum() and " " not in sn
-        if simple:
-            # tolérance aux conjugaisons : préfixe commun >= 7 caractères
-            # (à 6, des faux amis passaient : persona/personnel)
-            touche = (sn in qt or (len(sn) >= 6 and sn in q)
-                      or any(len(t) >= 7 and len(sn) >= 7
-                             and t[:7] == sn[:7] for t in qt))
-        else:
-            touche = sn in q
-        if touche and r["num"] not in vus:
+    # 2) synonymes : d'abord en SQL (inclusion dans la requête normalisée), puis
+    #    affinage Python uniquement sur les candidats SQL (évite de scanner 1258 lignes en Python)
+    if qn:
+        rows_syn = db.execute(
+            "SELECT s.synonyme, k.num, k.nom, k.domaine, k.signal FROM synonymes s "
+            "JOIN skills k ON k.num = s.num "
+            "WHERE instr(?, s.synonyme_norm) > 0 OR instr(s.synonyme_norm, ?) > 0",
+            (qn, qn)).fetchall()
+    else:
+        rows_syn = []
+    for r in rows_syn:
+        sn = r["synonyme_norm"] if "synonyme_norm" in r.keys() else norm(r["synonyme"])
+        if r["num"] in vus:
+            continue
+        touche = sn in qn or (len(sn) >= 6 and any(len(t) >= 7 and t[:7] == sn[:7] for t in qt))
+        if touche:
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "synonyme", r["synonyme"]))
             vus.add(r["num"])

@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Perf profilée : cache LRU norm/tokens + passe synonymes en SQL (synonyme_norm indexé) → route 11,3 → 4,8 ms (−58 %) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
+
 - [x] **2026-11-07** — Pack : deflate conservé (1,93 Mo, meilleur que LZMA 2,2 Mo sur markdown), skills.db exclu (régénéré par build --from-skills) — HNSW documenté en TODO (non supporté sqlite-vec 0.1.9, utile > 5 000 skills) — 649/649 tests, sonde 100 %, pack FIDÈLE
 
 - [x] **2026-11-07** — Evals par skill (commande evals : 648/648 tests, 517 skills, 100/100) + skills composables depends_on (table + chaîne affichée, ex. 1350→999) + TODO multilingue EN (champ lang, route --lang) — 649/649 tests, audit 100 %, pack FIDÈLE
