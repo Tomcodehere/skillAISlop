@@ -1,4 +1,4 @@
-# Domaine : Routage (3 skills)
+# Domaine : Routage (4 skills)
 
 ## 250. 🎩 Conservateur de la bibliothèque de skills
 
@@ -14,4 +14,9 @@
 
 - **Fichier** : `skills/1373-composer-plusieurs-skills-en-workflow-2027.md` · **Mot-clé** : « composer skills workflow enchaînement depends_on » · **Nom court** : Workflow de skills
 - **Signal** : Enchainer plusieurs skills en workflow coherent grace aux cross-refs et au champ depends_on : identifier la skill d'entree, suivre la chaine, verifier les entrees/sorties de chaque etape. Utilise quand une tache demande plusieurs competences successives. N'utilise pas pour une skill isolee. · **Synonymes** : « enchaîner plusieurs skills », « chaîne de skills », « dépendances entre skills » · **Cross-refs** : 1372, 250, 0 · **Tags** : 2027
+
+## 1497. 📊 Analyser les demandes non routees (misses) et boucler (2027)
+
+- **Fichier** : `skills/1497-analyser-les-demandes-non-routees-misses-et-boucler-2027.md` · **Mot-clé** : « misses demandes non routées exit 2 suggestions boucler synonymes » · **Nom court** : Analyser misses
+- **Signal** : Analyser le journal des demandes non routées (exit 2, commande misses) en 2027 : motifs récurrents, suggestions auto (misses --suggest), ajouter synonymes ou créer la skill manquante, puis build + test. Utilise quand le routeur renvoie souvent exit 2. N'utilise pas pour choisir une skill manuellement (1372). · **Synonymes** : « exit 2 trop fréquent routeur », « demandes non routées récurrentes », « misses --suggest ajouter synonyme » · **Cross-refs** : 0, 250, 1372 · **Tags** : 2027
 

@@ -9,6 +9,7 @@ nom_court: "Secrets"
 branche: "D15"
 synonymes: []
 cross_refs: [70, 197, 301]
+depends_on: [1412]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -1,4 +1,4 @@
-# Domaine : Design (78 skills)
+# Domaine : Design (82 skills)
 
 ## 64. 🧐 Critique UX d'interface
 
@@ -389,4 +389,24 @@
 
 - **Fichier** : `skills/1302-verification-post-execution.md` · **Mot-clé** : « verification-post-execution » · **Nom court** : Verification Post-Execution
 - **Signal** : Verifier systematiquement que les resultats d'une execution correspondent aux criteres de succes definis par l'agent de coordination, avec preuves objectives et statut global justifie. · **Synonymes** : « apres », « toute », « execution » · **Cross-refs** : 1091, 1252, 1298 · **Tags** : 2027
+
+## 1493. 🔍 Audit de coherence visuelle d'un produit (2027)
+
+- **Fichier** : `skills/1493-audit-de-coherence-visuelle-d-un-produit-2027.md` · **Mot-clé** : « audit cohérence visuelle produit composants vs design system écarts » · **Nom court** : Audit visuel
+- **Signal** : Auditer la cohérence visuelle d'un produit existant en 2027 : inventaire des composants (boutons, couleurs, typos, espacements, icônes) réellement utilisés vs le design system (455/732), écarts trouvés, plan de convergence. Utilise quand l'UI est devenue incohérente. N'utilise pas pour créer le design system (voir 455). · **Synonymes** : « notre UI est incohérente audit », « composants réels vs design system », « combien de boutons différents avons-nous ? » · **Cross-refs** : 455, 732, 64 · **Tags** : 2027
+
+## 1494. ⚡ Prototype cliquable en 1 jour avec l'IA (2027)
+
+- **Fichier** : `skills/1494-prototype-cliquable-en-1-jour-avec-l-ia-2027.md` · **Mot-clé** : « prototype cliquable 1 jour v0 lovable bolt figma make IA » · **Nom court** : Proto IA 1 jour
+- **Signal** : Créer un prototype cliquable en 1 jour en 2027 avec l'IA : v0, Lovable, Bolt.new (prompt → app React fonctionnelle), ou Figma Make (maquette → interactif). Utilise pour tester une idée avant dev. N'utilise pas pour de la prod (code IA à revoir, 724). · **Synonymes** : « v0 ou lovable pour prototyper », « maquette en app cliquable en 1 jour », « tester une idée sans dev » · **Cross-refs** : 608, 540, 724 · **Tags** : 2027
+
+## 1495. 🎬 Accessibilite des animations (prefers-reduced-motion, 2027)
+
+- **Fichier** : `skills/1495-accessibilite-des-animations-prefers-reduced-motion-2027.md` · **Mot-clé** : « prefers-reduced-motion animations accessibles WCAG flash épilepsie » · **Nom court** : Animations a11y
+- **Signal** : Rendre les animations accessibles en 2027 : respecter prefers-reduced-motion (désactiver/réduire les animations si l'OS demande), éviter les flashs (plus de 3 par seconde, risque épilepsie), durées courtes, alternative statique. Utilise quand on anime une interface. N'utilise pas pour les vidéos (158 sous-titres). · **Synonymes** : « désactiver animations si OS demande », « pas de flash plus de 3 par seconde », « animation réduite accessible » · **Cross-refs** : 1484, 1294, 1308 · **Tags** : 2027
+
+## 1496. 🌓 Thematisation produit : light, dark, high-contrast (2027)
+
+- **Fichier** : `skills/1496-thematisation-produit-light-dark-high-contrast-2027.md` · **Mot-clé** : « dark mode light high-contrast thematisation design tokens sémantiques » · **Nom court** : Thématisation
+- **Signal** : Mettre en place la thématisation d'un produit en 2027 : thème clair/sombre (dark) via les design tokens sémantiques (pas de couleurs en dur), thème high-contrast (WCAG AAA 7:1) pour malvoyants, détection du réglage OS (prefers-color-scheme), persistance du choix utilisateur. Utilise quand on conçoit un design system (455). N'utilise pas pour un site vitrine one-page. · **Synonymes** : « dark mode produit 2027 », « high contrast WCAG AAA 7:1 », « prefers-color-scheme détecter OS » · **Cross-refs** : 455, 149, 1484 · **Tags** : 2027
 

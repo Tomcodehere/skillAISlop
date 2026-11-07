@@ -1,4 +1,4 @@
-# Domaine : Data (36 skills)
+# Domaine : Data (46 skills)
 
 ## 13. 📊 Analyste de données
 
@@ -179,4 +179,54 @@
 
 - **Fichier** : `skills/1394-benchmarker-des-datasets-publics-pour-son-cas-d-usage-20.md` · **Mot-clé** : « benchmark datasets publics data.gouv kaggle hugging face » · **Nom court** : Datasets publics
 - **Signal** : Trouver et comparer des datasets publics pour son cas d'usage en 2027 : data.gouv.fr, INSEE, Eurostat, Kaggle, Hugging Face Datasets, UCI, Google Dataset Search ; criteres : fraicheur, licence, qualite, taille, pertinence metier. Utilise quand on demarre un projet data/ML sans données internes. N'utilise pas pour des données internes sensibles (voir gouvernance, skill 1097). · **Synonymes** : « trouver un dataset public 2027 », « data.gouv insee eurostat », « dataset hugging face licence » · **Cross-refs** : 242, 263, 96 · **Tags** : 2027
+
+## 1460. 🎠 Orchestrer des pipelines avec Airflow, Prefect ou Dagster (2027)
+
+- **Fichier** : `skills/1460-orchestrer-des-pipelines-avec-airflow-prefect-ou-dagster.md` · **Mot-clé** : « airflow prefect dagster orchestrateur pipelines data » · **Nom court** : Orchestrateur
+- **Signal** : Choisir et déployer un orchestrateur de pipelines data en 2027 : Apache Airflow (mature, scheduler central), Prefect (Python moderne, flows), Dagster (assets, data-aware, tests). Critères : taille équipe, complexité, monitoring, coûts. Utilise quand des pipelines ETL grandissent. N'utilise pas pour un simple cron. · **Synonymes** : « airflow ou prefect choisir 2027 », « dagster assets data-aware », « orchestrer ETL complexe » · **Cross-refs** : 94, 1121, 1461 · **Tags** : 2027
+
+## 1461. 💥 Detecter le schema drift (rupture de schema, 2027)
+
+- **Fichier** : `skills/1461-detecter-le-schema-drift-rupture-de-schema-2027.md` · **Mot-clé** : « schema drift détection contrat données soda dbt tests » · **Nom court** : Schema drift
+- **Signal** : Détecter automatiquement un schema drift en 2027 (une colonne supprimée/renommée en amont casse le pipeline) : contrats de données (data contracts), monitoring des schémas (Soda, Great Expectations, dbt tests), alertes avant casse en prod. Utilise quand des producteurs changent le schéma sans prévenir. N'utilise pas pour la qualité des valeurs (voir 343). · **Synonymes** : « colonne supprimée en amont casse mon ETL », « data contracts entre producteurs et consommateurs », « monitoring schéma Soda 2027 » · **Cross-refs** : 1234, 343, 349 · **Tags** : 2027
+
+## 1462. ⏱️ TSDB et series temporelles : InfluxDB, TimescaleDB (2027)
+
+- **Fichier** : `skills/1462-tsdb-et-series-temporelles-influxdb-timescaledb-2027.md` · **Mot-clé** : « TSDB timescaledb influxdb victoria metrics séries temporelles » · **Nom court** : TSDB
+- **Signal** : Stocker et requêter des séries temporelles en 2027 dans une TSDB : InfluxDB (Flux/InfluxQL), TimescaleDB (PostgreSQL + hypertables, SQL standard), VictoriaMetrics (rapide, peu de RAM). Critères : volumétrie, requêtes (downsampling, agrégation), rétention. Utilise pour métriques, capteurs IoT, logs temporels. N'utilise pas pour des données non temporelles. · **Synonymes** : « influxdb ou timescaledb 2027 », « hypertable postgresql séries temps », « downsampling agrégation métriques » · **Cross-refs** : 345, 346, 1416 · **Tags** : 2027
+
+## 1463. 🏔️ Warehouse vs data lake vs lakehouse (2027)
+
+- **Fichier** : `skills/1463-warehouse-vs-data-lake-vs-lakehouse-2027.md` · **Mot-clé** : « data warehouse lake lakehouse delta iceberg choisir 2027 » · **Nom court** : Archi data
+- **Signal** : Choisir l'architecture de stockage data en 2027 : data warehouse (Snowflake/BigQuery/Redshift : SQL, structuré, cher), data lake (S3/ADLS brut : pas cher, flexible, risque 'marécage'), lakehouse (Databricks/Delta Lake/Iceberg : le meilleur des deux, ACID, time travel). Utilise quand on (re)construit la plateforme data. N'utilise pas pour une petite BDD applicative. · **Synonymes** : « snowflake ou databricks 2027 », « delta lake iceberg lakehouse », « éviter le data swamp » · **Cross-refs** : 1098, 94, 350 · **Tags** : 2027
+
+## 1464. 🂬 Kafka : topics, partitions et consumer groups (2027)
+
+- **Fichier** : `skills/1464-kafka-topics-partitions-et-consumer-groups-2027.md` · **Mot-clé** : « kafka topics partitions consumer groups lag idempotent » · **Nom court** : Kafka
+- **Signal** : Concevoir Kafka en 2027 : topics (nommage, rétention), partitions (parallélisme, clé de partitionnement pour l'ordre), consumer groups (rééquilibrage), idempotence, exactly-once, surveillance du lag. Utilise quand on streame des événements à grande échelle. N'utilise pas pour des messages simples (voir files d'attente 319). · **Synonymes** : « consumer group kafka lag », « combien de partitions topic », « exactly-once kafka 2027 » · **Cross-refs** : 319, 1280, 1234 · **Tags** : 2027
+
+## 1465. 🎭 Anonymisation et pseudonymisation des donnees (RGPD, 2027)
+
+- **Fichier** : `skills/1465-anonymisation-et-pseudonymisation-des-donnees-rgpd-2027.md` · **Mot-clé** : « anonymisation pseudonymisation k-anonymat RGPD dataset partager » · **Nom court** : Anonymisation
+- **Signal** : Anonymiser/pseudonymiser un dataset en 2027 pour le RGPD : pseudonymisation (id hashé avec sel, réversible sur autorisation), k-anonymat (k supérieur ou égal à 5), généralisation (tranches d'âge, départements), suppression des quasi-identifiants, test de ré-identification. Utilise quand on partage/publie des données avec données perso. N'utilise pas pour le PII en direct dans les prompts (voir 1440). · **Synonymes** : « k-anonymat k=5 dataset », « hash avec sel pseudonymisation », « test ré-identification risque » · **Cross-refs** : 1226, 189, 1440 · **Tags** : 2027
+
+## 1466. 🧬 Provenance et lineage des donnees (2027)
+
+- **Fichier** : `skills/1466-provenance-et-lineage-des-donnees-2027.md` · **Mot-clé** : « lineage provenance données openlineage datahub impact analysis » · **Nom court** : Lineage
+- **Signal** : Documenter la provenance (lineage) des données en 2027 : d'où vient chaque table/colonne (source, ETL, propriétaire), graphe de dépendances amont/aval, impact analysis (si cette source casse, quoi est touché ?). Outils : OpenLineage, Marquez, DataHub, dbt docs. Utilise quand on a un pipeline complexe. N'utilise pas pour une petite BDD. · **Synonymes** : « d'où vient cette colonne », « impact analysis si source casse », « OpenLineage Marquez 2027 » · **Cross-refs** : 1095, 95, 1461 · **Tags** : 2027
+
+## 1467. 💸 Reduire sa facture cloud data (BigQuery, Snowflake, 2027)
+
+- **Fichier** : `skills/1467-reduire-sa-facture-cloud-data-bigquery-snowflake-2027.md` · **Mot-clé** : « réduire facture BigQuery Snowflake partitionnement clustering coût » · **Nom court** : FinOps data
+- **Signal** : Réduire la facture cloud data en 2027 (BigQuery, Snowflake, Redshift) : partitionnement + clustering des grosses tables, requêtes qui ne scannent que les partitions utiles, cache des résultats, réservation vs on-demand, archivage froid (S3 Glacier), quotas par équipe. Utilise quand la facture data dépasse le budget. N'utilise pas pour l'optimisation applicative (voir 318). · **Synonymes** : « baisser coût requêtes BigQuery », « partitionnement clustering Snowflake », « archivage froid Glacier » · **Cross-refs** : 1092, 1463, 318 · **Tags** : 2027
+
+## 1468. 🏪 Feature store pour le ML en production (2027)
+
+- **Fichier** : `skills/1468-feature-store-pour-le-ml-en-production-2027.md` · **Mot-clé** : « feature store feast tecton ML train serving cohérence » · **Nom court** : Feature store
+- **Signal** : Mettre en place un feature store en 2027 (Feast, Tecton, Databricks Feature Store) : features calculées une fois, réutilisées en training ET en serving (cohérence train/serve skew), online (low latency) vs offline (batch), gouvernance. Utilise quand plusieurs modèles partagent les mêmes features. N'utilise pas pour un modèle unique simple. · **Synonymes** : « feast ou tecton 2027 », « éviter le train/serve skew », « features ML réutilisables online offline » · **Cross-refs** : 1128, 1194, 1193 · **Tags** : 2027
+
+## 1469. 📚 Centraliser et requeter ses logs applicatifs (ELK, Loki, 2027)
+
+- **Fichier** : `skills/1469-centraliser-et-requeter-ses-logs-applicatifs-elk-loki-20.md` · **Mot-clé** : « centraliser logs ELK Loki ClickHouse requêter grep distribué » · **Nom court** : Logs centralisés
+- **Signal** : Centraliser les logs applicatifs en 2027 et les requêter : stack ELK (Elasticsearch+Logstash+Kibana, puissant mais lourd), Grafana Loki (léger, label-based, peu cher), ou ClickHouse (très rapide, SQL). Critères : volume, recherche full-text vs métriques de logs, coût. Utilise quand les logs sont sur 50 serveurs. N'utilise pas pour la sécurité (voir SIEM 1453). · **Synonymes** : « ELK ou Loki choisir 2027 », « rechercher dans tous les logs d'un coup », « logs distribués ClickHouse rapide » · **Cross-refs** : 1409, 1453, 1282 · **Tags** : 2027
 

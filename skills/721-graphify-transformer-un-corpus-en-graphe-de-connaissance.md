@@ -9,6 +9,7 @@ nom_court: "Graphify"
 branche: "D15"
 synonymes: ["connaissances en réseau"]
 cross_refs: [287, 95, 114]
+depends_on: [1478]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

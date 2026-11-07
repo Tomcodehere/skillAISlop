@@ -8,6 +8,7 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Vague 16 : 100 skills IT (1400-1499, TEMPLATE-v2, 1 fichier par skill) — Développement +25, IA/Prompting +20, Sécurité +15, Data +10, Data & IA +10, Produit +8, Produit & IA +5, Design +4, Routage +1, Productivité +2 — catalogue à **1500 sections** (1499 skills + routeur) · corpus 1201-1500 complété (299/300) · build ✅ 1499 skills + routeur · 28 domaines · 1697 synonymes · 947/947 tests ✅ · lint ✅ · audit ✅ 1499/1499 (100 %) · sonde 100 % (1658 sujets, 0 gap) · score 100,0/100 · evals 946/946 (666 skills) · pack FIDÈLE (2,45 Mo) · gen_docs · version 15.0.0
 - [x] **2026-11-07** — Vague 15 : 49 skills (1351-1399, TEMPLATE-v2) dans les 11 domaines les moins remplis (Langues +8, Formation +6, Bureau +6, Stratégie +6, Recherche +5, Décision +4, Data +4, Produit & IA +3, Data & IA +3, Communication +2, Routage +2) — catalogue à **1400 sections** (1399 skills + routeur) · build ✅ 1399 skills + routeur · 28 domaines · 1397 synonymes · 747/747 tests ✅ · lint ✅ · audit ✅ 1399/1399 (100 %) · sonde 100 % (1558 sujets, 0 gap) · score 100,0/100 · evals 746/746 (566 skills) · exports 1400 · pack FIDÈLE (2,27 Mo) · gen_docs (70 références) · cross-refs enrichies (enrichir_xrefs.py)
 - [x] **2026-11-07** — Cross-refs complétées partout (1350/1351, top-3 par cosinus même domaine, outils/enrichir_xrefs.py) + 906 workflows depends_on auto (chaînes affichées après le gagnant) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
 

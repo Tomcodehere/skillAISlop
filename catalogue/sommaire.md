@@ -1402,6 +1402,106 @@
 | 1397 | Mesurer la qualite d'un RAG (fidelite, pertinence, 2027) | Data & IA|
 | 1398 | Gerer une question piege en interview ou en media (2027) | Communication|
 | 1399 | Annoncer un changement sensible avec humanite (2027) | Communication|
+| 1400 | Git rebase interactif et historique propre (2027) | Développement|
+| 1401 | Revue de code constructive (2027) | Développement|
+| 1402 | Gerer les conflits de merge (2027) | Développement|
+| 1403 | Hooks Git et pre-commit (2027) | Développement|
+| 1404 | Strategie de branching : GitFlow vs trunk-based (2027) | Développement|
+| 1405 | Refactoring en securite : petits pas et tests (2027) | Développement|
+| 1406 | Documentation vivante (docs-as-code, 2027) | Développement|
+| 1407 | Commentaires utiles dans le code (2027) | Développement|
+| 1408 | Gestion propre des erreurs et exceptions (2027) | Développement|
+| 1409 | Logging structure et niveaux de log (2027) | Développement|
+| 1410 | Configuration par environnement (12-factor, 2027) | Développement|
+| 1411 | Docker multi-stage et images legeres (2027) | Développement|
+| 1412 | Kubernetes : ConfigMaps, secrets et deploiement (2027) | Développement|
+| 1413 | Pipeline CI rapide : cache et parallelisation (2027) | Développement|
+| 1414 | Tests de contrat consommateur (Pact, 2027) | Développement|
+| 1415 | Tests de performance avec k6 ou Locust (2027) | Développement|
+| 1416 | Monitoring applicatif Prometheus et Grafana (2027) | Développement|
+| 1417 | Alerting sans bruit : alert fatigue (2027) | Développement|
+| 1418 | Rollout progressif et deploiement canary (2027) | Développement|
+| 1419 | Indexation avancee des bases de donnees (2027) | Développement|
+| 1420 | SQL avance : fonctions fenetres (window functions, 2027) | Développement|
+| 1421 | Transactions, verrouillage et deadlocks (2027) | Développement|
+| 1422 | Choisir sa base NoSQL : MongoDB, Redis, Cassandra (2027) | Développement|
+| 1423 | Cache applicatif et invalidation (2027) | Développement|
+| 1424 | Validation des donnees et contraintes BDD (2027) | Développement|
+| 1425 | Systeme de prompts modulaire (bibliotheque, 2027) | IA / Prompting|
+| 1426 | Few-shot : exemples dans les prompts (2027) | IA / Prompting|
+| 1427 | Sortie JSON fiable et validee (2027) | IA / Prompting|
+| 1428 | Agents en boucle ReAct et planification (2027) | IA / Prompting|
+| 1429 | Concevoir les outils (tools) d'un agent (2027) | IA / Prompting|
+| 1430 | Gerer le contexte long (200k tokens, 2027) | IA / Prompting|
+| 1431 | Compaction et resume de conversation (2027) | IA / Prompting|
+| 1432 | Equipe d'agents specialises par domaine (2027) | IA / Prompting|
+| 1433 | Human-in-the-loop multi-niveaux (2027) | IA / Prompting|
+| 1434 | Memoire d'agent : episodique vs semantique (2027) | IA / Prompting|
+| 1435 | A/B testing de prompts en production (2027) | IA / Prompting|
+| 1436 | Grounding : ancrer les reponses sur des sources (2027) | IA / Prompting|
+| 1437 | Auto-verification multi-passes (self-check, 2027) | IA / Prompting|
+| 1438 | Deployer un SLM on-device (mobile/edge, 2027) | IA / Prompting|
+| 1439 | UX du streaming des reponses LLM (2027) | IA / Prompting|
+| 1440 | Detecter PII et donnees sensibles dans les prompts (2027) | IA / Prompting|
+| 1441 | Cascade de modeles : router chaque tache au bon LLM (2027) | IA / Prompting|
+| 1442 | Cache semantique des reponses LLM (2027) | IA / Prompting|
+| 1443 | Choisir son modele d'embeddings (2027) | IA / Prompting|
+| 1444 | Chunking avance pour le RAG (2027) | IA / Prompting|
+| 1445 | Mise a jour automatique des dependances (2027) | Sécurité|
+| 1446 | Rotation automatique des secrets et cles API (2027) | Sécurité|
+| 1447 | IAM cloud : auditer et reduire les permissions (2027) | Sécurité|
+| 1448 | Messagerie chiffree de bout en bout (E2EE, 2027) | Sécurité|
+| 1449 | Deployer les passkeys (FIDO2) en entreprise (2027) | Sécurité|
+| 1450 | OAuth2 et OIDC : flows et securite PKCE (2027) | Sécurité|
+| 1451 | Protection DDoS applicative (WAF, 2027) | Sécurité|
+| 1452 | CSP stricte contre les attaques XSS (2027) | Sécurité|
+| 1453 | SIEM open source : centraliser les logs de securite (2027) | Sécurité|
+| 1454 | Exercice de crise cyber : tabletop (2027) | Sécurité|
+| 1455 | Privacy by design : RGPD dans le code (2027) | Sécurité|
+| 1456 | Securiser une app mobile (pinning, stockage, 2027) | Sécurité|
+| 1457 | Integrite des paquets : signatures et SLSA (2027) | Sécurité|
+| 1458 | Honeypot pour detecter les scans et attaques (2027) | Sécurité|
+| 1459 | Se preparer a la certification ISO 27001 (2027) | Sécurité|
+| 1460 | Orchestrer des pipelines avec Airflow, Prefect ou Dagster (2027) | Data|
+| 1461 | Detecter le schema drift (rupture de schema, 2027) | Data|
+| 1462 | TSDB et series temporelles : InfluxDB, TimescaleDB (2027) | Data|
+| 1463 | Warehouse vs data lake vs lakehouse (2027) | Data|
+| 1464 | Kafka : topics, partitions et consumer groups (2027) | Data|
+| 1465 | Anonymisation et pseudonymisation des donnees (RGPD, 2027) | Data|
+| 1466 | Provenance et lineage des donnees (2027) | Data|
+| 1467 | Reduire sa facture cloud data (BigQuery, Snowflake, 2027) | Data|
+| 1468 | Feature store pour le ML en production (2027) | Data|
+| 1469 | Centraliser et requeter ses logs applicatifs (ELK, Loki, 2027) | Data|
+| 1470 | Versionner modeles et donnees avec DVC et MLflow (2027) | Data & IA|
+| 1471 | Servir un LLM en API interne avec vLLM (2027) | Data & IA|
+| 1472 | Servir un modele local quantize (Ollama, llama.cpp, 2027) | Data & IA|
+| 1473 | Distillation : entrainer un petit modele a partir d'un grand (2027) | Data & IA|
+| 1474 | Alignement leger d'un modele : DPO et RLHF (2027) | Data & IA|
+| 1475 | Sandboxing des agents IA (execution isolee, 2027) | Data & IA|
+| 1476 | Tracer et deboguer un agent IA (traces, 2027) | Data & IA|
+| 1477 | Recherche hybride BM25 + embeddings (2027) | Data & IA|
+| 1478 | GraphRAG : interroger un graphe de connaissances (2027) | Data & IA|
+| 1479 | LoRA et QLoRA : fine-tuner pour peu cher (2027) | Data & IA|
+| 1480 | Rediger une spec produit legere d'une feature (2027) | Produit|
+| 1481 | North Star et arbre de metriques produit (2027) | Produit|
+| 1482 | Mesurer l'impact metier d'une feature (2027) | Produit|
+| 1483 | Tests utilisateurs a distance (Maze, Useberry, 2027) | Produit|
+| 1484 | Concevoir accessible des le depart (a11y by design, 2027) | Produit|
+| 1485 | Preparer son produit au multilingue (i18n/l10n, 2027) | Produit|
+| 1486 | Fermer la boucle des feedbacks utilisateurs (2027) | Produit|
+| 1487 | Deprecier une feature sans perdre ses utilisateurs (sunsetting, 2027) | Produit|
+| 1488 | Integrer un copilote IA dans son produit (in-app, 2027) | Produit & IA|
+| 1489 | UX de l'incertitude : afficher la confiance de l'IA (2027) | Produit & IA|
+| 1490 | Moderation hybride des sorties IA (humain + LLM, 2027) | Produit & IA|
+| 1491 | Budgeter une feature IA : cout par requete et par utilisateur (2027) | Produit & IA|
+| 1492 | Kill switch d'une feature IA (desactivation propre, 2027) | Produit & IA|
+| 1493 | Audit de coherence visuelle d'un produit (2027) | Design|
+| 1494 | Prototype cliquable en 1 jour avec l'IA (2027) | Design|
+| 1495 | Accessibilite des animations (prefers-reduced-motion, 2027) | Design|
+| 1496 | Thematisation produit : light, dark, high-contrast (2027) | Design|
+| 1497 | Analyser les demandes non routees (misses) et boucler (2027) | Routage|
+| 1498 | Automatisations souveraines avec n8n auto-heberge (2027) | Productivité|
+| 1499 | Resumer automatiquement une reunion avec actions (2027) | Productivité|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -2137,6 +2237,6 @@
 | 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
 | 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1399 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1499 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

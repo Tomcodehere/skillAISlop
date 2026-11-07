@@ -9,6 +9,7 @@ nom_court: "Kubernetes"
 branche: "D16"
 synonymes: ["k8s", "kubernetes", "pods"]
 cross_refs: [85, 314, 82]
+depends_on: [1412]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

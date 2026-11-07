@@ -1,4 +1,4 @@
-# Domaine : Sécurité (56 skills)
+# Domaine : Sécurité (71 skills)
 
 ## 191. 🚔 Détecteur de fraudes & anomalies de logs
 
@@ -279,4 +279,79 @@
 
 - **Fichier** : `skills/1339-prevention-cambriolage-vacances-tranquilles-2027.md` · **Mot-clé** : « vacances tranquilles 2027 » · **Nom court** : Vacances sûres
 - **Signal** : Partir en vacances tranquilles en 2027 : simuler une présence, fermer volets, vider la boîte aux lettres, alarme, assurance, contacts de confiance · **Synonymes** : « prévenir cambriolage vacances » · **Cross-refs** : 1334, 994, 966 · **Tags** : 2027
+
+## 1445. 🔄 Mise a jour automatique des dependances (2027)
+
+- **Fichier** : `skills/1445-mise-a-jour-automatique-des-dependances-2027.md` · **Mot-clé** : « dependabot renovate mise à jour dépendances PR auto CVE » · **Nom court** : MAJ dépendances
+- **Signal** : Gérer les mises à jour de dépendances en sécurité en 2027 : Dependabot ou Renovate (PR auto, groupées, tests CI), revue des changelogs des versions majeures, correctifs de sécurité prioritaires (CVE). Utilise quand on maintient une app avec dépendances. N'utilise pas pour le scan de vulnérabilités lui-même (voir SBOM 267). · **Synonymes** : « PR auto dépendances Dependabot », « renovate bot mises à jour », « CVE corriger en priorité » · **Cross-refs** : 267, 505, 308 · **Tags** : 2027
+
+## 1446. 🔑 Rotation automatique des secrets et cles API (2027)
+
+- **Fichier** : `skills/1446-rotation-automatique-des-secrets-et-cles-api-2027.md` · **Mot-clé** : « rotation automatique secrets clés API vault 90 jours » · **Nom court** : Rotation secrets
+- **Signal** : Mettre en place la rotation automatique des secrets et clés API en 2027 : vault (HashiCorp Vault, AWS/GCP Secrets Manager) avec renouvellement périodique (90 jours), double clé pendant la transition (ancienne + nouvelle), alerte si fuite. Utilise quand des clés sont en dur ou partagées. N'utilise pas pour les mots de passe utilisateurs (voir MFA). · **Synonymes** : « renouveler clés API automatiquement », « vault hashicorp rotation 90 jours », « fuite de clé détection » · **Cross-refs** : 306, 267, 1337 · **Tags** : 2027
+
+## 1447. 🚡 IAM cloud : auditer et reduire les permissions (2027)
+
+- **Fichier** : `skills/1447-iam-cloud-auditer-et-reduire-les-permissions-2027.md` · **Mot-clé** : « IAM cloud moindre privilège audit permissions AWS GCP Azure » · **Nom court** : IAM cloud
+- **Signal** : Auditer et réduire les permissions IAM cloud en 2027 (AWS/GCP/Azure) selon le moindre privilège : inventaire des rôles/policies, détection des admins, des clés longue durée, des ressources publiques, rotation des credentials, IaC pour les droits. Utilise quand on durcit un compte cloud. N'utilise pas pour l'IAM applicatif interne (voir 458). · **Synonymes** : « réduire permissions admin cloud », « audit accès AWS trop larges », « clés longue durée supprimer » · **Cross-refs** : 1070, 197, 507 · **Tags** : 2027
+
+## 1448. 🔒 Messagerie chiffree de bout en bout (E2EE, 2027)
+
+- **Fichier** : `skills/1448-messagerie-chiffree-de-bout-en-bout-e2ee-2027.md` · **Mot-clé** : « messagerie E2EE chiffrée bout en bout Signal Proton Matrix » · **Nom court** : Messagerie E2EE
+- **Signal** : Choisir et déployer une messagerie chiffrée de bout en bout (E2EE) en 2027 : Signal, WhatsApp (E2EE par défaut), Proton Mail, Matrix (Element), avec vérification des clés, appareils liés, groupes. Utilise quand la confidentialité des échanges est critique. N'utilise pas pour la messagerie d'entreprise classique (admin). · **Synonymes** : « Signal ou Proton Mail 2027 », « vérifier les clés E2EE », « messagerie confidentielle équipe » · **Cross-refs** : 506, 841, 1337 · **Tags** : 2027
+
+## 1449. 🔑 Deployer les passkeys (FIDO2) en entreprise (2027)
+
+- **Fichier** : `skills/1449-deployer-les-passkeys-fido2-en-entreprise-2027.md` · **Mot-clé** : « passkeys FIDO2 WebAuthn YubiKey entreprise déploiement » · **Nom court** : Passkeys FIDO2
+- **Signal** : Déployer les passkeys (FIDO2/WebAuthn) en 2027 pour remplacer les mots de passe : clés matérielles (YubiKey) ou plateforme (iCloud/Google), enregistrement des appareils, politique de secours (codes de récupération), compatibilité. Utilise quand on renforce l'authentification. N'utilise pas pour remplacer la MFA sur des systèmes legacy incompatibles. · **Synonymes** : « déployer passkeys entreprise 2027 », « YubiKey clés matérielles », « remplacer mot de passe par passkey » · **Cross-refs** : 501, 1337, 665 · **Tags** : 2027
+
+## 1450. 🔐 OAuth2 et OIDC : flows et securite PKCE (2027)
+
+- **Fichier** : `skills/1450-oauth2-et-oidc-flows-et-securite-pkce-2027.md` · **Mot-clé** : « oauth2 oidc flow PKCE authorization code sécurité » · **Nom court** : OAuth2/OIDC
+- **Signal** : Implémenter OAuth2/OIDC en sécurité en 2027 : choisir le flow (Authorization Code + PKCE pour les apps mobiles/SPA, jamais Implicit), valider redirect_uri, state anti-CSRF, scopes minimaux, tokens courts + refresh rotation. Utilise quand on connecte une app à un fournisseur d'identité. N'utilise pas pour l'authentification interne maison. · **Synonymes** : « authorization code PKCE 2027 », « jamais le flow implicit », « scopes OAuth minimaux » · **Cross-refs** : 501, 526, 604 · **Tags** : 2027
+
+## 1451. 🛡 Protection DDoS applicative (WAF, 2027)
+
+- **Fichier** : `skills/1451-protection-ddos-applicative-waf-2027.md` · **Mot-clé** : « WAF protection DDoS applicative Cloudflare rate limiting bots » · **Nom court** : WAF anti-DDoS
+- **Signal** : Protéger une application web des attaques DDoS applicatives (couche 7) en 2027 avec un WAF (Cloudflare, AWS WAF, Azure Front Door) : règles managées OWASP, rate limiting par IP/endpoint, blocage des bots, challenge JS, monitoring. Utilise quand un site public subit des pics anormaux. N'utilise pas pour le réseau (couche 3/4, voir opérateur). · **Synonymes** : « protéger mon site d'une attaque DDoS », « Cloudflare WAF règles OWASP », « rate limiting par IP 2027 » · **Cross-refs** : 909, 502, 320 · **Tags** : 2027
+
+## 1452. 🧵 CSP stricte contre les attaques XSS (2027)
+
+- **Fichier** : `skills/1452-csp-stricte-contre-les-attaques-xss-2027.md` · **Mot-clé** : « CSP content security policy nonce anti-XSS report-only » · **Nom court** : CSP stricte
+- **Signal** : Déployer une Content Security Policy (CSP) stricte en 2027 pour bloquer les XSS : default-src 'self', script-src sans unsafe-inline (nonce ou hash), object-src 'none', report-uri/report-only d'abord, puis enforcement. Utilise quand on durcit un front web. N'utilise pas seule (complète l'échappement de sortie). · **Synonymes** : « content security policy 2027 », « script-src nonce hash », « bloquer XSS avec CSP » · **Cross-refs** : 502, 70, 1451 · **Tags** : 2027
+
+## 1453. 🔎 SIEM open source : centraliser les logs de securite (2027)
+
+- **Fichier** : `skills/1453-siem-open-source-centraliser-les-logs-de-securite-2027.md` · **Mot-clé** : « SIEM open source Wazuh ELK Graylog détection alertes logs » · **Nom court** : SIEM
+- **Signal** : Centraliser et corréler les logs de sécurité en 2027 avec un SIEM open source (Wazuh, ELK Security, Graylog) : collecte des logs (serveurs, firewall, AD, cloud), règles de détection (brute force, exfiltration), alertes, tableaux de bord, rétention. Utilise quand on a plusieurs sources de logs à surveiller. N'utilise pas pour les logs applicatifs métier (voir 1469). · **Synonymes** : « centraliser logs sécurité Wazuh », « détecter brute force dans les logs », « corrélation alertes sécurité » · **Cross-refs** : 191, 1409, 1469 · **Tags** : 2027
+
+## 1454. 🎯 Exercice de crise cyber : tabletop (2027)
+
+- **Fichier** : `skills/1454-exercice-de-crise-cyber-tabletop-2027.md` · **Mot-clé** : « tabletop exercise crise cyber scénario ransomware débrief » · **Nom court** : Tabletop
+- **Signal** : Organiser un exercice de crise cyber (tabletop exercise) en 2027 : scénario réaliste (ransomware, fuite de données, DDoS), rôles (crise, comm, juridique, technique, direction), timeline, décisions sous pression, débrief avec plan d'action. Utilise quand on teste le plan de réponse à incident (754). N'utilise pas pour un vrai incident (crise réelle). · **Synonymes** : « exercice de crise sécurité informatique », « simuler un ransomware en interne », « tester le plan de réponse incident » · **Cross-refs** : 754, 256, 89 · **Tags** : 2027
+
+## 1455. ⚖️ Privacy by design : RGPD dans le code (2027)
+
+- **Fichier** : `skills/1455-privacy-by-design-rgpd-dans-le-code-2027.md` · **Mot-clé** : « privacy by design RGPD art 25 minimisation rétention pseudonymisation » · **Nom court** : Privacy by design
+- **Signal** : Appliquer le privacy by design en 2027 (RGPD art. 25) : minimisation des données collectées, finalité déclarée, durée de conservation limitée, pseudonymisation, chiffrement, droits des personnes (accès, effacement) faciles à exercer, registre des traitements. Utilise quand on conçoit une nouvelle fonctionnalité avec données perso. N'utilise pas pour l'audit RGPD global (189). · **Synonymes** : « RGPD dès la conception », « minimiser données collectées », « droit à l'effacement facile » · **Cross-refs** : 189, 1226, 1440 · **Tags** : 2027
+
+## 1456. 📱 Securiser une app mobile (pinning, stockage, 2027)
+
+- **Fichier** : `skills/1456-securiser-une-app-mobile-pinning-stockage-2027.md` · **Mot-clé** : « sécurité app mobile certificate pinning Keychain root jailbreak » · **Nom court** : Sécurité mobile
+- **Signal** : Sécuriser une application mobile en 2027 : certificate pinning (TLS), stockage des secrets dans le Keychain/Keystore (jamais en clair), obfuscation/anti-tamper, détection de root/jailbreak, mise à jour forcée des versions vulnérables. Utilise quand on publie une app mobile. N'utilise pas pour une app web (voir 502/1452). · **Synonymes** : « certificate pinning mobile », « stockage sécurisé Keychain Android Keystore », « détecter root jailbreak » · **Cross-refs** : 525, 607, 501 · **Tags** : 2027
+
+## 1457. ✅ Integrite des paquets : signatures et SLSA (2027)
+
+- **Fichier** : `skills/1457-integrite-des-paquets-signatures-et-slsa-2027.md` · **Mot-clé** : « signature paquets cosign sigstore SLSA lockfile hash supply chain » · **Nom court** : Supply chain
+- **Signal** : Vérifier l'intégrité et la provenance des paquets en 2027 (supply chain) : signatures (Sigstore/cosign, GPG), niveaux SLSA (build traçable, provenance), lockfile + hash (npm ci, pip --require-hashes), miroirs internes vérifiés. Utilise quand on installe des dépendances tierces. N'utilise pas pour ses propres paquets internes. · **Synonymes** : « vérifier signature paquet npm pip », « SLSA niveau 3 provenance build », « --require-hashes pip » · **Cross-refs** : 267, 1445, 306 · **Tags** : 2027
+
+## 1458. 🍯️ Honeypot pour detecter les scans et attaques (2027)
+
+- **Fichier** : `skills/1458-honeypot-pour-detecter-les-scans-et-attaques-2027.md` · **Mot-clé** : « honeypot cowrie détection scans canary tokens leurre » · **Nom court** : Honeypot
+- **Signal** : Déployer un honeypot en 2027 pour détecter les scans et attaques précoces : honeypot bas interaction (SSH/HTTP factice, Cowrie) ou haut interaction, alertes en temps réel, logs pour l'analyse, leurre de données (canary tokens). Utilise quand on veut détecter un attaquant avant qu'il ne touche le vrai SI. N'utilise pas comme seule défense. · **Synonymes** : « détecter les scans sur mon réseau », « cowrie honeypot SSH », « canary token faux fichier » · **Cross-refs** : 440, 1453, 191 · **Tags** : 2027
+
+## 1459. 🏆 Se preparer a la certification ISO 27001 (2027)
+
+- **Fichier** : `skills/1459-se-preparer-a-la-certification-iso-27001-2027.md` · **Mot-clé** : « certification ISO 27001 gap analysis annexe A SMSI audit » · **Nom court** : ISO 27001
+- **Signal** : Se préparer à la certification ISO 27001 en 2027 : écart (gap analysis) vs les 93 mesures de l'annexe A, SMSI (politique, risques, traitement), preuves (logs, revues), audit interne, organisme certificateur, plan de remédiation. Utilise quand un client exige ISO 27001. N'utilise pas pour la conformité RGPD seule (voir 189). · **Synonymes** : « obtenir la certification ISO 27001 », « gap analysis ISO 27001 2027 », « préparer audit certification sécurité » · **Cross-refs** : 507, 197, 243 · **Tags** : 2027
 

@@ -9,6 +9,7 @@ nom_court: "Schémas sortie"
 branche: "D14"
 synonymes: []
 cross_refs: [99, 338, 321]
+depends_on: [1427]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

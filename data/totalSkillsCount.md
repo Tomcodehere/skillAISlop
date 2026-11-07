@@ -2,29 +2,29 @@
 
 > 🔎 **Index** : Total · Répartition par domaine · Génération
 
-**Total : 1400 sections (0-1399)** — **1399 skills opérationnelles** + 1 routeur (skill 0).
+**Total : 1500 sections (0-1499)** — **1499 skills opérationnelles** + 1 routeur (skill 0).
 
 ## Répartition par domaine
 
 | Domaine | Skills |
 |---|---|
-| Développement | 196 |
+| Développement | 221 |
 | Personnel | 150 |
-| IA / Prompting | 102 |
+| IA / Prompting | 122 |
 | Gestion | 99 |
-| Design | 78 |
+| Design | 82 |
 | Juridique | 74 |
+| Sécurité | 71 |
 | Marketing | 56 |
-| Sécurité | 56 |
 | Finance | 52 |
 | RH & formation | 52 |
+| Produit | 47 |
+| Data | 46 |
+| Data & IA | 45 |
 | Créativité | 44 |
 | Rédaction | 44 |
-| Productivité | 39 |
-| Produit | 39 |
+| Productivité | 41 |
 | Apprentissage | 36 |
-| Data | 36 |
-| Data & IA | 35 |
 | Recherche | 35 |
 | Carrière | 34 |
 | Communication | 34 |
@@ -33,9 +33,9 @@
 | Stratégie | 17 |
 | Formation | 13 |
 | Langues | 13 |
+| Produit & IA | 10 |
 | Décision | 6 |
-| Produit & IA | 5 |
-| Routage | 3 |
+| Routage | 4 |
 
 ## Génération
 

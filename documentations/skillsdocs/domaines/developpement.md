@@ -1,4 +1,4 @@
-# Domaine : Développement (196 skills)
+# Domaine : Développement (221 skills)
 
 ## 9. 💻 Générateur de code commenté
 
@@ -979,4 +979,129 @@
 
 - **Fichier** : `skills/1315-domotique-matter-objets-connectes-sobres.md` · **Mot-clé** : « domotique matter 2027 » · **Nom court** : Matter domotique
 - **Signal** : Domotique 2027 avec le protocole Matter, objets connectés interopérables, économies d'énergie, installation simple sans cloud obligatoire · **Synonymes** : « maison connectée sobre » · **Cross-refs** : 903, 841, 222 · **Tags** : 2027
+
+## 1400. 🔀 Git rebase interactif et historique propre (2027)
+
+- **Fichier** : `skills/1400-git-rebase-interactif-et-historique-propre-2027.md` · **Mot-clé** : « git rebase interactif squash commits » · **Nom court** : Rebase interactif
+- **Signal** : Reorganiser son historique Git proprement en 2027 : rebase interactif (squash, reword, reorder) avant de pousser. Utilise quand une branche a 15 commits brouillons. N'utilise pas sur une branche deja partagee sans accord. · **Synonymes** : « squash mes commits », « historique git propre », « rebase avant push » · **Cross-refs** : 301, 316, 68 · **Tags** : 2027
+
+## 1401. 🔍 Revue de code constructive (2027)
+
+- **Fichier** : `skills/1401-revue-de-code-constructive-2027.md` · **Mot-clé** : « revue de code code review PR constructive » · **Nom court** : Code review
+- **Signal** : Faire une revue de code (code review) utile en 2027 : quoi regarder en priorité (bugs, sécurité, lisibilité), comment formuler ses commentaires, approuver vs demander des changements. Utilise quand tu reviewes une PR. N'utilise pas pour relire ton propre code. · **Synonymes** : « review une PR », « donner du feedback code », « approuver une pull request » · **Cross-refs** : 10, 821, 68 · **Tags** : 2027
+
+## 1402. ⚔️ Gerer les conflits de merge (2027)
+
+- **Fichier** : `skills/1402-gerer-les-conflits-de-merge-2027.md` · **Mot-clé** : « résoudre conflit de merge git » · **Nom court** : Conflit merge
+- **Signal** : Résoudre un conflit de merge en 2027 : comprendre le conflit, choisir quoi garder ligne par ligne (ours/theirs), valider avec les tests, ne jamais résoudre à l'aveugle. Utilise quand git signale un conflit. N'utilise pas pour du rebase complexe. · **Synonymes** : « git conflict », « merge conflict », « résoudre un conflit git » · **Cross-refs** : 301, 316, 10 · **Tags** : 2027
+
+## 1403. 🪝 Hooks Git et pre-commit (2027)
+
+- **Fichier** : `skills/1403-hooks-git-et-pre-commit-2027.md` · **Mot-clé** : « hooks git pre-commit framework lint auto » · **Nom court** : Pre-commit
+- **Signal** : Automatiser les vérifications avant chaque commit en 2027 avec les hooks Git et pre-commit (lint, tests rapides, détection de secrets) : pre-commit framework ou husky côté front. Utilise quand on veut un filet de sécurité local. N'utilise pas pour remplacer la CI. · **Synonymes** : « pre-commit automatique », « hook git avant commit », « husky precommit » · **Cross-refs** : 311, 308, 67 · **Tags** : 2027
+
+## 1404. 🌳 Strategie de branching : GitFlow vs trunk-based (2027)
+
+- **Fichier** : `skills/1404-strategie-de-branching-gitflow-vs-trunk-based-2027.md` · **Mot-clé** : « stratégie de branching gitflow trunk-based github flow » · **Nom court** : Branching
+- **Signal** : Choisir et appliquer une stratégie de branching en 2027 : GitFlow (feature/release/hotfix), trunk-based (commits sur main avec feature flags), GitHub Flow (PR courtes). Utilise quand l'équipe débat du workflow Git. N'utilise pas pour un dépôt perso. · **Synonymes** : « gitflow ou trunk based », « workflow git équipe », « github flow vs gitflow » · **Cross-refs** : 301, 304, 316 · **Tags** : 2027
+
+## 1405. 🧰 Refactoring en securite : petits pas et tests (2027)
+
+- **Fichier** : `skills/1405-refactoring-en-securite-petits-pas-et-tests-2027.md` · **Mot-clé** : « refactoring sécurisé petits pas tests legacy » · **Nom court** : Refactoring sûr
+- **Signal** : Refactorer du code legacy en sécurité en 2027 : petites étapes testées (characterization tests), un changement à la fois, sans casser le comportement. Utilise quand on touche du code ancien sans tests. N'utilise pas pour une réécriture complète. · **Synonymes** : « refactorer code legacy », « petits pas refactoring », « characterization tests » · **Cross-refs** : 80, 67, 302 · **Tags** : 2027
+
+## 1406. 📖 Documentation vivante (docs-as-code, 2027)
+
+- **Fichier** : `skills/1406-documentation-vivante-docs-as-code-2027.md` · **Mot-clé** : « documentation vivante docs-as-code markdown docusaurus » · **Nom court** : Docs-as-code
+- **Signal** : Maintenir une documentation technique vivante en 2027 (docs-as-code) : doc dans le dépôt (Markdown, MkDocs/Docusaurus), générée depuis le code (docstrings, OpenAPI), testée en CI (liens morts). Utilise quand la doc dérive du code. N'utilise pas pour la doc marketing. · **Synonymes** : « doc qui colle au code », « documentation dans le repo », « mkdocs docusaurus 2027 » · **Cross-refs** : 23, 312, 1030 · **Tags** : 2027
+
+## 1407. 💬 Commentaires utiles dans le code (2027)
+
+- **Fichier** : `skills/1407-commentaires-utiles-dans-le-code-2027.md` · **Mot-clé** : « commentaires code utiles pourquoi pas quoi » · **Nom court** : Bons commentaires
+- **Signal** : Écrire des commentaires de code utiles en 2027 : expliquer le POURQUOI (décision, contrainte, piège), pas le QUOI (évident), supprimer les commentaires morts. Utilise quand on relit du code commenté. N'utilise pas pour remplacer un bon nommage. · **Synonymes** : « quand commenter le code », « pourquoi pas quoi commentaire », « commentaires morts » · **Cross-refs** : 9, 311, 10 · **Tags** : 2027
+
+## 1408. ⚠️ Gestion propre des erreurs et exceptions (2027)
+
+- **Fichier** : `skills/1408-gestion-propre-des-erreurs-et-exceptions-2027.md` · **Mot-clé** : « gestion des erreurs exceptions try catch proprement » · **Nom court** : Gestion erreurs
+- **Signal** : Gérer les erreurs proprement en 2027 : try/catch ciblés, exceptions métier nommées, messages actionnables pour l'utilisateur, log avec contexte côté serveur (jamais de stack trace exposée en prod). Utilise quand on écrit du code qui peut échouer. N'utilise pas pour le monitoring. · **Synonymes** : « try catch ciblé », « exceptions métier », « message erreur actionnable » · **Cross-refs** : 20, 1409, 89 · **Tags** : 2027
+
+## 1409. 📝 Logging structure et niveaux de log (2027)
+
+- **Fichier** : `skills/1409-logging-structure-et-niveaux-de-log-2027.md` · **Mot-clé** : « logging structuré JSON niveaux request_id » · **Nom court** : Logging structuré
+- **Signal** : Mettre en place un logging structuré en 2027 : niveaux (DEBUG/INFO/WARN/ERROR), logs JSON avec contexte (request_id), jamais de données perso en clair, corrélation de bout en bout. Utilise quand on instrumente une app. N'utilise pas pour les métriques. · **Synonymes** : « logs en JSON structurés », « niveaux de log debug info warn error », « correlation id log » · **Cross-refs** : 191, 1282, 1469 · **Tags** : 2027
+
+## 1410. ⚙️ Configuration par environnement (12-factor, 2027)
+
+- **Fichier** : `skills/1410-configuration-par-environnement-12-factor-2027.md` · **Mot-clé** : « configuration 12-factor variables environnement » · **Nom court** : Config 12-factor
+- **Signal** : Gérer la configuration d'une app selon la méthode 12-factor en 2027 : jamais de config dans le code, variables d'environnement, .env par environnement, secrets hors du dépôt. Utilise quand on déploie sur plusieurs environnements. N'utilise pas pour les secrets eux-mêmes. · **Synonymes** : « variables d'environnement app », « config par environnement dev prod », « 12 factor app » · **Cross-refs** : 305, 306, 82 · **Tags** : 2027
+
+## 1411. 📦 Docker multi-stage et images legeres (2027)
+
+- **Fichier** : `skills/1411-docker-multi-stage-et-images-legeres-2027.md` · **Mot-clé** : « docker multi-stage image légère distroless » · **Nom court** : Docker léger
+- **Signal** : Construire des images Docker légères en 2027 avec les builds multi-stage : étape de build séparée de l'image finale, base distroless ou alpine, utilisateur non-root, .dockerignore. Utilise quand on dockerise une app. N'utilise pas pour Kubernetes (voir déploiement). · **Synonymes** : « image docker petite taille », « multi-stage build docker », « dockerfile optimisé 2027 » · **Cross-refs** : 314, 1110, 1109 · **Tags** : 2027
+
+## 1412. ☸️ Kubernetes : ConfigMaps, secrets et deploiement (2027)
+
+- **Fichier** : `skills/1412-kubernetes-configmaps-secrets-et-deploiement-2027.md` · **Mot-clé** : « kubernetes deployment configmap secret manifests » · **Nom court** : K8s deploy
+- **Signal** : Déployer sur Kubernetes en 2027 : manifestes YAML (Deployment, Service, Ingress), ConfigMaps pour la config, Secrets pour les credentials, sondes liveness/readiness, limites de ressources. Utilise quand on met une app sur un cluster K8s. N'utilise pas en local (voir Docker). · **Synonymes** : « déployer sur kubernetes », « manifests yaml k8s », « configmap secret k8s 2027 » · **Cross-refs** : 609, 614, 85 · **Tags** : 2027
+
+## 1413. ⏩ Pipeline CI rapide : cache et parallelisation (2027)
+
+- **Fichier** : `skills/1413-pipeline-ci-rapide-cache-et-parallelisation-2027.md` · **Mot-clé** : « pipeline CI rapide cache parallèle matrix » · **Nom court** : CI rapide
+- **Signal** : Accélérer une pipeline CI lente en 2027 : cache des dépendances (actions/cache, Docker layers), parallélisation (matrix), tests shardés, early-exit sur échec. Utilise quand la CI met 25 min. N'utilise pas pour réduire la couverture de tests. · **Synonymes** : « accélérer github actions », « cache dépendances CI », « jobs parallèles matrix » · **Cross-refs** : 508, 323, 317 · **Tags** : 2027
+
+## 1414. 🤝 Tests de contrat consommateur (Pact, 2027)
+
+- **Fichier** : `skills/1414-tests-de-contrat-consommateur-pact-2027.md` · **Mot-clé** : « tests de contrat pact consumer driven API » · **Nom court** : Tests Pact
+- **Signal** : Écrire des tests de contrat (consumer-driven contracts) avec Pact en 2027 : le consommateur décrit ses attentes, le provider les valide en CI, évitant les ruptures d'API entre microservices. Utilise quand plusieurs services communiquent par API. N'utilise pas pour les tests internes. · **Synonymes** : « consumer contract testing », « pact tests API microservices », « éviter rupture API entre services » · **Cross-refs** : 604, 526, 87 · **Tags** : 2027
+
+## 1415. 🚀 Tests de performance avec k6 ou Locust (2027)
+
+- **Fichier** : `skills/1415-tests-de-performance-avec-k6-ou-locust-2027.md` · **Mot-clé** : « test de charge k6 locust p95 seuils » · **Nom court** : Test de charge
+- **Signal** : Écrire un test de charge en 2027 avec k6 (script JS, seuils) ou Locust (Python) : scénario réaliste, montée en charge progressive, métriques (p95, taux d'erreur), seuils de réussite en CI. Utilise quand on prépare un pic de trafic. N'utilise pas pour du profiling local. · **Synonymes** : « k6 test de performance », « locust charge test », « p95 latence seuil CI » · **Cross-refs** : 255, 309, 253 · **Tags** : 2027
+
+## 1416. 📈 Monitoring applicatif Prometheus et Grafana (2027)
+
+- **Fichier** : `skills/1416-monitoring-applicatif-prometheus-et-grafana-2027.md` · **Mot-clé** : « prometheus grafana monitoring métriques promql » · **Nom court** : Prom+Grafana
+- **Signal** : Mettre en place le monitoring applicatif en 2027 avec Prometheus (métriques, PromQL) et Grafana (dashboards, alertes) : instrumenter l'app (compteurs, histogrammes), scraping, alertes sur SLO. Utilise quand une app part en prod. N'utilise pas pour les logs. · **Synonymes** : « monitoring app prometheus », « dashboards grafana alertes », « métriques custom promql 2027 » · **Cross-refs** : 1282, 1209, 351 · **Tags** : 2027
+
+## 1417. 🔔 Alerting sans bruit : alert fatigue (2027)
+
+- **Fichier** : `skills/1417-alerting-sans-bruit-alert-fatigue-2027.md` · **Mot-clé** : « alerting sans bruit alert fatigue SLO runbook » · **Nom court** : Alerting sain
+- **Signal** : Concevoir des alertes qui ne créent pas de fatigue (alert fatigue) en 2027 : alertes actionnables uniquement, seuils sur erreurs utilisateur/SLO (pas CPU), regroupement, runbook attaché à chaque alerte. Utilise quand on met en place l'alerting. N'utilise pas pour le monitoring lui-même. · **Synonymes** : « alertes qui ne spamment pas », « réduire le bruit des alertes », « alert fatigue 2027 » · **Cross-refs** : 1416, 256, 89 · **Tags** : 2027
+
+## 1418. 🚩 Rollout progressif et deploiement canary (2027)
+
+- **Fichier** : `skills/1418-rollout-progressif-et-deploiement-canary-2027.md` · **Mot-clé** : « déploiement canary rollout progressif 5% » · **Nom court** : Canary
+- **Signal** : Déployer en canary en 2027 : 5 % du trafic sur la nouvelle version, surveiller erreurs/latence, puis monter (25, 50, 100 %) ou rollback auto. Utilise quand on déploie un changement risqué. N'utilise pas pour un hotfix urgent. · **Synonymes** : « canary deployment », « rollout 5 25 50 100% », « flagger nouvelle version » · **Cross-refs** : 304, 614, 1147 · **Tags** : 2027
+
+## 1419. 🗃️ Indexation avancee des bases de donnees (2027)
+
+- **Fichier** : `skills/1419-indexation-avancee-des-bases-de-donnees-2027.md` · **Mot-clé** : « index base de données composite covering explain analyze » · **Nom court** : Indexation
+- **Signal** : Concevoir des index efficaces en 2027 : B-tree vs composite vs partiel, covering index, éviter la sur-indexation (coût en écriture), EXPLAIN ANALYZE pour vérifier. Utilise quand une requête est lente. N'utilise pas pour le tuning global du SGBD. · **Synonymes** : « créer un index composite », « covering index », « explain analyze requête lente » · **Cross-refs** : 318, 1201, 1229 · **Tags** : 2027
+
+## 1420. 🪟 SQL avance : fonctions fenetres (window functions, 2027)
+
+- **Fichier** : `skills/1420-sql-avance-fonctions-fenetres-window-functions-2027.md` · **Mot-clé** : « sql window functions partition by row_number lag » · **Nom court** : Window functions
+- **Signal** : Utiliser les fonctions fenêtres SQL en 2027 (ROW_NUMBER, RANK, LAG, SUM OVER, PARTITION BY) pour des analytics directement en SQL, sans exporter les données. Utilise pour cumuls, classements, deltas ligne à ligne. N'utilise pas pour un simple GROUP BY. · **Synonymes** : « partition by sql », « row_number rank sql », « lag lead sql » · **Cross-refs** : 318, 69, 1277 · **Tags** : 2027
+
+## 1421. 🔒 Transactions, verrouillage et deadlocks (2027)
+
+- **Fichier** : `skills/1421-transactions-verrouillage-et-deadlocks-2027.md` · **Mot-clé** : « transactions ACID isolation deadlock verrouillage » · **Nom court** : Transactions
+- **Signal** : Comprendre et gérer les transactions en 2027 : propriétés ACID, niveaux d'isolation (READ COMMITTED vs SERIALIZABLE), verrouillage, détecter et éviter les deadlocks. Utilise quand des données sont modifiées concurremment. N'utilise pas pour la modélisation. · **Synonymes** : « niveau isolation read committed serializable », « deadlock base de données », « éviter les deadlocks » · **Cross-refs** : 321, 542, 1042 · **Tags** : 2027
+
+## 1422. 🗄️ Choisir sa base NoSQL : MongoDB, Redis, Cassandra (2027)
+
+- **Fichier** : `skills/1422-choisir-sa-base-nosql-mongodb-redis-cassandra-2027.md` · **Mot-clé** : « choisir base nosql mongodb redis cassandra » · **Nom court** : Choisir NoSQL
+- **Signal** : Choisir la bonne base NoSQL en 2027 : MongoDB (documents flexibles, requêtes riches), Redis (cache, temps réel, files), Cassandra/Scylla (écritures massives distribuées). Utilise quand le besoin n'est pas relationnel. N'utilise pas par défaut (le SQL suffit souvent). · **Synonymes** : « mongodb ou redis », « cassandra scylla écriture massive », « base NoSQL choisir 2027 » · **Cross-refs** : 321, 542, 94 · **Tags** : 2027
+
+## 1423. ⏱️ Cache applicatif et invalidation (2027)
+
+- **Fichier** : `skills/1423-cache-applicatif-et-invalidation-2027.md` · **Mot-clé** : « cache redis TTL invalidation cache-aside » · **Nom court** : Cache app
+- **Signal** : Mettre en place un cache applicatif en 2027 (Redis/Memcached) : cache-aside, TTL, invalidation à l'écriture, éviter le cache stale. Utilise quand une donnée est lue souvent et change peu. N'utilise pas pour du temps réel strict. · **Synonymes** : « mettre en cache avec redis », « TTL invalidation cache », « cache-aside lazy loading » · **Cross-refs** : 542, 1422, 318 · **Tags** : 2027
+
+## 1424. 🛡 Validation des donnees et contraintes BDD (2027)
+
+- **Fichier** : `skills/1424-validation-des-donnees-et-contraintes-bdd-2027.md` · **Mot-clé** : « validation données pydantic zod contraintes BDD » · **Nom court** : Validation données
+- **Signal** : Sécuriser le modèle de données en 2027 : validation côté app (Pydantic/Zod) + contraintes BDD (NOT NULL, CHECK, FK), requêtes paramétrées uniquement, pas de confiance dans les entrées. Utilise quand on conçoit ou audite un schéma. N'utilise pas pour l'authentification. · **Synonymes** : « valider entrées pydantic zod », « contraintes BDD check fk », « requêtes paramétrées » · **Cross-refs** : 321, 542, 1227 · **Tags** : 2027
 

@@ -9,6 +9,7 @@ nom_court: "Séries temporelles"
 branche: "D17"
 synonymes: []
 cross_refs: [93, 170, 372]
+depends_on: [1462]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

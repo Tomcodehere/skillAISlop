@@ -1,4 +1,4 @@
-# Domaine : Data & IA (35 skills)
+# Domaine : Data & IA (45 skills)
 
 ## 35. 🔗 Pipeline de recommandation
 
@@ -174,4 +174,54 @@
 
 - **Fichier** : `skills/1397-mesurer-la-qualite-d-un-rag-fidelite-pertinence-2027.md` · **Mot-clé** : « mesurer qualité rag faithfulness ragas 2027 » · **Nom court** : Qualité RAG
 - **Signal** : Mesurer la qualite d'un systeme RAG en 2027 avec des metriques standard : fidelite (faithfulness : la reponse est-elle fondee sur les documents recuperes ?), pertinence du contexte (context relevance/precision/recall), pertinence de la reponse (answer relevancy). Frameworks : Ragas, DeepEval, TruLens. Utilise quand un RAG est en production. N'utilise pas pour evaluer un agent complet (skills 693/1395). · **Synonymes** : « évaluer un rag fidélité pertinence », « métriques ragas deepeval 2027 », « context precision recall rag » · **Cross-refs** : 690, 693, 1248 · **Tags** : 2027
+
+## 1470. 📂 Versionner modeles et donnees avec DVC et MLflow (2027)
+
+- **Fichier** : `skills/1470-versionner-modeles-et-donnees-avec-dvc-et-mlflow-2027.md` · **Mot-clé** : « DVC MLflow versionner modèles données registry ML » · **Nom court** : DVC/MLflow
+- **Signal** : Versionner les modèles ML et leurs données en 2027 comme du code : DVC (données + modèles dans Git-like, stockage S3), MLflow (experiments, registry de modèles, déploiement), ou les deux. Utilise quand on entraîne des modèles en équipe. N'utilise pas pour le code applicatif (voir Git). · **Synonymes** : « versionner un modèle ML », « MLflow model registry 2027 », « DVC données versionnées S3 » · **Cross-refs** : 1193, 1194, 96 · **Tags** : 2027
+
+## 1471. ⚡ Servir un LLM en API interne avec vLLM (2027)
+
+- **Fichier** : `skills/1471-servir-un-llm-en-api-interne-avec-vllm-2027.md` · **Mot-clé** : « vLLM servir LLM API interne self-host GPU PagedAttention » · **Nom court** : vLLM self-host
+- **Signal** : Déployer un LLM en API interne en 2027 avec vLLM (haut débit : continuous batching, PagedAttention, quantization AWQ/GPTQ) ou Ollama (simplicité) : endpoint /v1/chat/completions compatible OpenAI, load balancing, monitoring GPU, coûts. Utilise quand on self-host un modèle. N'utilise pas pour appeler un API cloud externe. · **Synonymes** : « déployer LLM interne vLLM 2027 », « endpoint OpenAI compatible local », « Ollama vs vLLM débit » · **Cross-refs** : 1472, 903, 694 · **Tags** : 2027
+
+## 1472. 🏠 Servir un modele local quantize (Ollama, llama.cpp, 2027)
+
+- **Fichier** : `skills/1472-servir-un-modele-local-quantize-ollama-llama-cpp-2027.md` · **Mot-clé** : « ollama llama.cpp GGUF quantize Q4 servir modèle local CPU » · **Nom court** : Ollama local
+- **Signal** : Servir un modèle LLM localement en 2027 sans GPU dédié : Ollama (simple, API REST, modèles GGUF), llama.cpp (léger, CPU, embarqué), LM Studio (GUI). Quantization Q4/Q5/Q8 selon RAM. Utilise pour du dev local, de la privacy, ou un petit serveur CPU. N'utilise pas pour du haut débit (voir vLLM GPU 1471). · **Synonymes** : « faire tourner LLM en local 2027 », « ollama pull mistral Q4 », « llama.cpp CPU embarqué » · **Cross-refs** : 1471, 903, 1438 · **Tags** : 2027
+
+## 1473. 🧪 Distillation : entrainer un petit modele a partir d'un grand (2027)
+
+- **Fichier** : `skills/1473-distillation-entrainer-un-petit-modele-a-partir-d-un-gra.md` · **Mot-clé** : « distillation LLM petit modèle imite grand SFT 2027 » · **Nom court** : Distillation
+- **Signal** : Distiller un grand LLM en un petit en 2027 : le grand génère des données d'entraînement de qualité (chain-of-thought incluses), le petit apprend à les imiter (SFT), puis on évalue vs le grand. Utilise quand on veut un SLM maison spécialisé. N'utilise pas pour remplacer le fine-tuning sur données métier (1479). · **Synonymes** : « entraîner petit modèle qui imite GPT », « distillation chain-of-thought », « SLM maison spécialisé » · **Cross-refs** : 691, 1396, 1395 · **Tags** : 2027
+
+## 1474. 🧭 Alignement leger d'un modele : DPO et RLHF (2027)
+
+- **Fichier** : `skills/1474-alignement-leger-d-un-modele-dpo-et-rlhf-2027.md` · **Mot-clé** : « DPO RLHF alignement modèle préférences humaines 2027 » · **Nom court** : Alignement DPO
+- **Signal** : Aligner un modèle sur des préférences humaines en 2027 sans RLHF lourd : DPO (Direct Preference Optimization, plus simple, 2 étapes : SFT puis paires préférées/non préférées), ou RLHF classique (reward model + PPO). Utilise quand un modèle répond mal au ton/sécurité. N'utilise pas si le fine-tuning métier suffit (1479). · **Synonymes** : « DPO vs RLHF choisir 2027 », « paires préférées non préférées », « aligner un modèle sur le ton sécurité » · **Cross-refs** : 691, 1479, 1473 · **Tags** : 2027
+
+## 1475. 🏖️ Sandboxing des agents IA (execution isolee, 2027)
+
+- **Fichier** : `skills/1475-sandboxing-des-agents-ia-execution-isolee-2027.md` · **Mot-clé** : « sandbox agent IA conteneur jetable gVisor firecracker réseau restreint » · **Nom court** : Sandbox agent
+- **Signal** : Exécuter les actions d'un agent IA dans un bac à sable (sandbox) en 2027 : conteneur jetable par tâche (Docker/gVisor/Firecracker), réseau restreint (allowlist), pas de secrets, filesystem éphémère, timeout, logs. Utilise quand un agent exécute du code ou touche des fichiers. N'utilise pas pour un agent 100 % lecture seule. · **Synonymes** : « exécuter code agent en sécurité », « conteneur jetable par tâche agent », « réseau allowlist agent IA » · **Cross-refs** : 818, 194, 723 · **Tags** : 2027
+
+## 1476. 🔍 Tracer et deboguer un agent IA (traces, 2027)
+
+- **Fichier** : `skills/1476-tracer-et-deboguer-un-agent-ia-traces-2027.md` · **Mot-clé** : « traces agent IA logger outils appels Langfuse LangSmith Phoenix debug » · **Nom court** : Traces agent
+- **Signal** : Tracer l'exécution d'un agent en 2027 pour le déboguer : quoi logger à chaque étape (prompt envoyé, outils appelés avec args, réponses, tokens, coût, durée, décision), format structuré, visualisation (Langfuse, LangSmith, Phoenix), recherche dans les traces. Utilise quand un agent échoue bizarrement. N'utilise pas pour la conformité seule. · **Synonymes** : « pourquoi mon agent a échoué », « logger chaque appel d'outil », « Langfuse LangSmith tracer agent » · **Cross-refs** : 713, 807, 1428 · **Tags** : 2027
+
+## 1477. 🔍 Recherche hybride BM25 + embeddings (2027)
+
+- **Fichier** : `skills/1477-recherche-hybride-bm25-embeddings-2027.md` · **Mot-clé** : « recherche hybride BM25 embeddings RRF fusion retrieval » · **Nom court** : Hybride BM25+vec
+- **Signal** : Combiner recherche lexicale (BM25) et sémantique (embeddings) en 2027 pour un meilleur retrieval : BM25 attrape les termes exacts (codes, noms propres), les embeddings le sens ; fusion par RRF ou score pondéré. Utilise quand le RAG pur vectoriel rate les requêtes précises. N'utilise pas si le lexical seul suffit. · **Synonymes** : « BM25 plus embeddings combinés », « fusion RRF scores retrieval », « RAG hybride lexical sémantique » · **Cross-refs** : 690, 1443, 1444 · **Tags** : 2027
+
+## 1478. 🕸️ GraphRAG : interroger un graphe de connaissances (2027)
+
+- **Fichier** : `skills/1478-graphrag-interroger-un-graphe-de-connaissances-2027.md` · **Mot-clé** : « graphrag neo4j kuzu graphe connaissances text2cypher entités relations » · **Nom court** : GraphRAG
+- **Signal** : Construire un GraphRAG en 2027 : extraire entités et relations d'un corpus (LLM + NER) dans un graphe (Neo4j, Kuzu, NetworkX), requêter en Cypher/Gremlin ou via le LLM (text2cypher), combiner avec du vectoriel. Utilise quand les réponses nécessitent des relations multi-sauts (qui a travaillé avec qui, chaîne logistique). N'utilise pas si un RAG classique suffit. · **Synonymes** : « extraire graphe de connaissances corpus », « Neo4j ou Kuzu 2027 », « requêtes multi-sauts RAG graphe » · **Cross-refs** : 721, 690, 1477 · **Tags** : 2027
+
+## 1479. 💰 LoRA et QLoRA : fine-tuner pour peu cher (2027)
+
+- **Fichier** : `skills/1479-lora-et-qlora-fine-tuner-pour-peu-cher-2027.md` · **Mot-clé** : « LoRA QLoRA fine-tuning pas cher rang faible quantizé » · **Nom court** : LoRA/QLoRA
+- **Signal** : Fine-tuner un LLM à bas coût en 2027 avec LoRA (on n'entraîne que des matrices de rang faible, ~1 % des paramètres, le reste gelé) ou QLoRA (modèle quantizé Q4 en mémoire + LoRA, tient sur 1 GPU 24 Go pour un 70B). Utilise quand un fine-tuning complet est trop cher. N'utilise pas pour l'alignement de préférences (voir DPO 1474). · **Synonymes** : « fine-tuner 70B sur 1 GPU 24 Go », « LoRA rang 8 ou 16 », « QLoRA Q4 + LoRA mémoire » · **Cross-refs** : 691, 1396, 1470 · **Tags** : 2027
 

@@ -10,6 +10,7 @@ branche: "D1"
 synonymes: ["react", "hooks", "usestate"]
 cross_refs: [1265, 1284, 1231]
 tags: ["2027"]
+depends_on: [1403]
 ---
 
 ## 1249. 💻 React Hooks Patterns

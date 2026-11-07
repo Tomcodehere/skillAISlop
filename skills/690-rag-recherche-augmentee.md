@@ -9,6 +9,7 @@ nom_court: "RAG"
 branche: "D14"
 synonymes: ["recherche sémantique", "embeddings"]
 cross_refs: [98, 266, 784]
+depends_on: [1477]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

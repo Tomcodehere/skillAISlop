@@ -9,6 +9,7 @@ nom_court: "Feature flags"
 branche: "D15"
 synonymes: []
 cross_refs: [110, 163, 301]
+depends_on: [1404]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

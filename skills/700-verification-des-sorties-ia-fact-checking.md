@@ -9,6 +9,7 @@ nom_court: "Fact-check IA"
 branche: "D14"
 synonymes: ["hallucination ia", "vérifier les sources"]
 cross_refs: [37, 18, 944]
+depends_on: [1437]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
