@@ -3,7 +3,7 @@ num: 1026
 nom: "AI System Architecture Design"
 emoji: "💻"
 domaine: "Développement"
-signal: ""
+signal: "ai system architecture design"
 mot_cle: "ai-system-architecture-design"
 nom_court: "AI System Architecture Design"
 branche: "D1"

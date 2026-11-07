@@ -41,6 +41,9 @@ jobs:
           canvas/corpus-skills-1201-1500.md
           canvas/corpus-skills-1501-1800.md
 
+      - name: Score qualité /100 (rapport + seuil 90)
+        run: python3 outils/score_skills.py --rapport documentations/skillsdocs/scores.md
+
       - name: Sonde de couverture (bloquante, 100 % attendu)
         run: python3 outils/routage.py sonde
 

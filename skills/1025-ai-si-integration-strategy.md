@@ -3,7 +3,7 @@ num: 1025
 nom: "AI-SI Integration Strategy"
 emoji: "📋"
 domaine: "Gestion"
-signal: ""
+signal: "ai-si integration strategy"
 mot_cle: "ai-si-integration-strategy"
 nom_court: "AI-SI Integration Strategy"
 branche: "D25"

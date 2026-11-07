@@ -458,7 +458,7 @@
 ## 1196. 🧠 Multi-Agent Orchestration Patterns
 
 - **Fichier** : `skills/1196-multi-agent-orchestration-patterns.md` · **Mot-clé** : « multi-agent-orchestration-patterns » · **Nom court** : Multi-Agent Orchestration Patt
-- **Signal** :  · **Synonymes** : — · **Cross-refs** : 1123
+- **Signal** : multi-agent orchestration patterns · **Synonymes** : — · **Cross-refs** : 1123
 
 ## 1213. 🧠 Operational Runbook Acceptance
 

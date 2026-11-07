@@ -458,7 +458,7 @@
 ## 1026. 💻 AI System Architecture Design
 
 - **Fichier** : `skills/1026-ai-system-architecture-design.md` · **Mot-clé** : « ai-system-architecture-design » · **Nom court** : AI System Architecture Design
-- **Signal** :  · **Synonymes** : — · **Cross-refs** : 1077
+- **Signal** : ai system architecture design · **Synonymes** : — · **Cross-refs** : 1077
 
 ## 1029. 💻 Anti-Bot Evasion & Scraping Best Practices
 

@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Nouveau script outils/score_skills.py : score qualité /100 par skill (frontmatter, 12 sections, suffisance de contenu, cross-ref, unicité, spec) — moyenne 99.9/100, 1347 skills >= 90 — + étape CI + 3 signaux vides corrigés (1025/1026/1196)
+
 - [x] **2026-11-07** — Vague 14 : 40 skills (1311-1350, format TEMPLATE-v2 complet, sourcées veille nov. 2026) — catalogue à 1351 sections (1350 skills + routeur) · build ✅ 1351 skills · 1258 synonymes · 649/649 tests ✅ · lint ✅ · audit ✅ 1350/1350 (100 %) · sonde 100 % · exports 1351 · pack FIDÈLE
 
 - [x] **2026-11-07** — Migration TEMPLATE-v2 lancée et terminée : les 1310 skills ont désormais les 12 sections v2 (0 manquante) — contenu uniforme — audit 1310/1310 (100 %) · 609/609 tests · sonde 100 % · pack FIDÈLE

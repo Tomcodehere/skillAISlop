@@ -333,7 +333,7 @@
 ## 1025. 📋 AI-SI Integration Strategy
 
 - **Fichier** : `skills/1025-ai-si-integration-strategy.md` · **Mot-clé** : « ai-si-integration-strategy » · **Nom court** : AI-SI Integration Strategy
-- **Signal** :  · **Synonymes** : — · **Cross-refs** : 760
+- **Signal** : ai-si integration strategy · **Synonymes** : — · **Cross-refs** : 760
 
 ## 1034. 📋 Application Synchronization Conflict Policy
 

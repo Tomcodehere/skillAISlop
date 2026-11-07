@@ -3,7 +3,7 @@ num: 1196
 nom: "Multi-Agent Orchestration Patterns"
 emoji: "🧠"
 domaine: "IA / Prompting"
-signal: ""
+signal: "multi-agent orchestration patterns"
 mot_cle: "multi-agent-orchestration-patterns"
 nom_court: "Multi-Agent Orchestration Patt"
 branche: "D14"
