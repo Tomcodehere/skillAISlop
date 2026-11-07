@@ -3,7 +3,7 @@
 ## 4. 📧 Assistant Email professionnel
 
 - **Fichier** : `skills/004-assistant-email-professionnel.md` · **Mot-clé** : « assistant email professionnel » · **Nom court** : 
-- **Signal** : Email, lettre, message professionnel · **Synonymes** : — · **Cross-refs** : 24, 25 · **Tags** : —
+- **Signal** : Email, lettre, message professionnel · **Synonymes** : — · **Cross-refs** : 24, 25 · **Tags** : aihero:wizard, aihero:wait-what
 
 ## 75. 🎤 Rédacteur de discours
 

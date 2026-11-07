@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: ["embauche"]
 cross_refs: [41, 44]
+tags: ["aihero:grill-with-docs", "aihero:to-spec", "aihero:grill-me", "aihero:wait-what"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

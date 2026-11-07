@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: []
 cross_refs: [10, 21]
+tags: ["aihero:implement"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

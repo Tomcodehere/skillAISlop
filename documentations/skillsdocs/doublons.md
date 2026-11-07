@@ -23,3 +23,8 @@
 
 ## Décision
 Aucun doublon à supprimer dans notre catalogue (R6 propre). Les 33 candidats cross-repo sont des **compléments**, pas des doublons : on garde nos skills, et on peut reprendre les sections fortes de SkillsAI (garde-fous, QA, DoD) via TEMPLATE-v2 à la vague 14. Aucun merge de contenu nécessaire.
+
+## 3. Cross-repo vs aihero.dev/skills (Matt Pocock, 39 skills, MIT, 2026-11-07)
+- 39 skills analysées (repo mattpocock/skills cloné) : **100 % déjà couvertes** par notre catalogue → 0 nouvelle skill créée
+- 111 tags `aihero:<slug>` ajoutés en cross-ref sur nos skills équivalentes (filtre `route --tag aihero:grill-me`)
+- Aucune fusion de contenu nécessaire ; les skills aihero restent installables via `npx skills add mattpocock/skills`

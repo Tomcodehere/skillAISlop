@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: ["condenser", "faire court", "résumer", "synthétiser"]
 cross_refs: [14, 24]
+tags: ["aihero:handoff"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

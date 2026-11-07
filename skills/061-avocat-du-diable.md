@@ -9,6 +9,7 @@ nom_court: "Diable"
 branche: "D10"
 synonymes: []
 cross_refs: [19, 60]
+tags: ["aihero:wayfinder", "aihero:grilling", "aihero:to-questionnaire"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

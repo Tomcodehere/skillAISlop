@@ -9,6 +9,7 @@ nom_court: "Décisions"
 branche: "D25"
 synonymes: []
 cross_refs: [61, 208]
+tags: ["aihero:writing-fragments"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: ["etat de l'art", "recherche approfondie"]
 cross_refs: [32, 42]
+tags: ["aihero:research"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

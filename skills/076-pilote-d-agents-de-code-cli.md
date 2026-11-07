@@ -9,6 +9,7 @@ nom_court: "Agents CLI"
 branche: "D14"
 synonymes: []
 cross_refs: [20, 68]
+tags: ["aihero:chief-of-staff"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -43,7 +43,7 @@
 ## 108. 🗣️ Data storyteller
 
 - **Fichier** : `skills/108-data-storyteller.md` · **Mot-clé** : « data storyteller » · **Nom court** : Storytelling
-- **Signal** : Data storytelling, chiffres en récit · **Synonymes** : — · **Cross-refs** : 13, 48 · **Tags** : —
+- **Signal** : Data storytelling, chiffres en récit · **Synonymes** : — · **Cross-refs** : 13, 48 · **Tags** : aihero:migrate-to-shoehorn
 
 ## 109. 🪢 Analyste de parcours & funnel
 
@@ -53,7 +53,7 @@
 ## 110. 🎚️ Concepteur de tests A/B
 
 - **Fichier** : `skills/110-concepteur-de-tests-a-b.md` · **Mot-clé** : « tests a/b » · **Nom court** : A/B
-- **Signal** : Test A/B, protocole d'expérimentation · **Synonymes** : « a/b test », « split test », « testing » · **Cross-refs** : 109, 162 · **Tags** : —
+- **Signal** : Test A/B, protocole d'expérimentation · **Synonymes** : « a/b test », « split test », « testing » · **Cross-refs** : 109, 162 · **Tags** : aihero:tdd
 
 ## 186. 🔭 Planificateur de tracking analytics
 

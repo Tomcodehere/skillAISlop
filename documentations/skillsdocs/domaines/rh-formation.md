@@ -38,7 +38,7 @@
 ## 274. 📒 Sélecteur de candidatures (screening structuré)
 
 - **Fichier** : `skills/274-selecteur-de-candidatures-screening-structure.md` · **Mot-clé** : « sélecteur de candidatures (screening structuré) » · **Nom court** : Screening
-- **Signal** : Screening de CV, short-list de candidatures · **Synonymes** : « screening cv », « trier les cv » · **Cross-refs** : 202, 276 · **Tags** : —
+- **Signal** : Screening de CV, short-list de candidatures · **Synonymes** : « screening cv », « trier les cv » · **Cross-refs** : 202, 276 · **Tags** : aihero:writing-fragments
 
 ## 275. 🚪 Préparateur d'offboarding
 

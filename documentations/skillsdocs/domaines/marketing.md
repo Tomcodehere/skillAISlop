@@ -43,7 +43,7 @@
 ## 52. 🎬 Scripteur YouTube long format
 
 - **Fichier** : `skills/052-scripteur-youtube-long-format.md` · **Mot-clé** : « scripteur youtube long format » · **Nom court** : YouTube
-- **Signal** : Script vidéo long format, chaîne YouTube · **Synonymes** : — · **Cross-refs** : 29, 53 · **Tags** : —
+- **Signal** : Script vidéo long format, chaîne YouTube · **Synonymes** : — · **Cross-refs** : 29, 53 · **Tags** : aihero:chief-of-staff
 
 ## 53. ♻️ Moteur de repurposing de contenu
 
@@ -108,7 +108,7 @@
 ## 278. 🪝 Atelier de hooks & titres viraux
 
 - **Fichier** : `skills/278-atelier-de-hooks-titres-viraux.md` · **Mot-clé** : « atelier de hooks & titres viraux » · **Nom court** : Hooks
-- **Signal** : Hook TikTok, titre viral, trois premières secondes · **Synonymes** : — · **Cross-refs** : 3, 147 · **Tags** : —
+- **Signal** : Hook TikTok, titre viral, trois premières secondes · **Synonymes** : — · **Cross-refs** : 3, 147 · **Tags** : aihero:git-guardrails-claude-code
 
 ## 279. 💱 Analyste de produits concurrents e-commerce
 
@@ -178,7 +178,7 @@
 ## 373. 🌽 Cartographe du parcours client
 
 - **Fichier** : `skills/373-cartographe-du-parcours-client.md` · **Mot-clé** : « parcours client » · **Nom court** : Parcours client
-- **Signal** : Parcours client, journey map · **Synonymes** : — · **Cross-refs** : 109, 352 · **Tags** : —
+- **Signal** : Parcours client, journey map · **Synonymes** : — · **Cross-refs** : 109, 352 · **Tags** : aihero:writing-beats
 
 ## 375. 🛵 Analyste de panier & d'upsell
 

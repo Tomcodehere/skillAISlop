@@ -9,6 +9,7 @@ nom_court: "Observateur agents"
 branche: "D14"
 synonymes: []
 cross_refs: [97, 256, 330]
+tags: ["aihero:code-review", "aihero:writing-for-agents"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

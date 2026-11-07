@@ -9,7 +9,7 @@ nom_court: "Container Registry Management"
 branche: "D1"
 synonymes: ["image", "registry", "configure"]
 cross_refs: [1216]
-tags: ["2027"]
+tags: ["2027", "aihero:pr"]
 ---
 
 ## 1083. 💻 Container Registry Management

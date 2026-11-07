@@ -9,6 +9,7 @@ nom_court: "Sport"
 branche: "D26"
 synonymes: ["préparer un marathon", "musculation maison", "yoga débutant", "programme vélo"]
 cross_refs: [214, 483]
+tags: ["aihero:scaffold-exercises"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

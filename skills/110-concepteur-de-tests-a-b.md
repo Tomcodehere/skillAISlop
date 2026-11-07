@@ -9,6 +9,7 @@ nom_court: "A/B"
 branche: "D17"
 synonymes: ["a/b test", "split test", "testing"]
 cross_refs: [109, 162]
+tags: ["aihero:tdd"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

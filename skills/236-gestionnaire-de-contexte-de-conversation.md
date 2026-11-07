@@ -9,6 +9,7 @@ nom_court: "Contexte"
 branche: "D14"
 synonymes: []
 cross_refs: [17, 237]
+tags: ["aihero:claude-handoff"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

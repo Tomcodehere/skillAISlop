@@ -9,6 +9,7 @@ nom_court: "Running"
 branche: "D27"
 synonymes: ["footing", "marathon"]
 cross_refs: [214, 483]
+tags: ["aihero:scaffold-exercises"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

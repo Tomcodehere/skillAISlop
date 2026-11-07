@@ -9,6 +9,7 @@ nom_court: "ADR"
 branche: "D15"
 synonymes: []
 cross_refs: [22, 23]
+tags: ["aihero:improve-codebase-architecture", "aihero:to-questionnaire"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

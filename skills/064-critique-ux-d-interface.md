@@ -9,6 +9,7 @@ nom_court: "Critique UX"
 branche: "D11"
 synonymes: ["audit ux", "critique ux"]
 cross_refs: [55, 65]
+tags: ["aihero:codebase-design"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

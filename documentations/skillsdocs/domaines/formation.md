@@ -3,7 +3,7 @@
 ## 11. 🎓 Expliqueur pédagogique
 
 - **Fichier** : `skills/011-expliqueur-pedagogique.md` · **Mot-clé** : « expliqueur pédagogique » · **Nom court** : 
-- **Signal** : Comprendre un concept, apprendre · **Synonymes** : — · **Cross-refs** : 40 · **Tags** : —
+- **Signal** : Comprendre un concept, apprendre · **Synonymes** : — · **Cross-refs** : 40 · **Tags** : aihero:teach
 
 ## 200. 👮 Créateur de campagnes de sensibilisation sécurité
 

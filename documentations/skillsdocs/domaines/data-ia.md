@@ -8,7 +8,7 @@
 ## 36. 📺 Tableaux de bord & KPI
 
 - **Fichier** : `skills/036-tableaux-de-bord-kpi.md` · **Mot-clé** : « tableaux de bord & kpi » · **Nom court** : KPI
-- **Signal** : Dashboard, KPI, indicateurs de suivi · **Synonymes** : — · **Cross-refs** : 13 · **Tags** : —
+- **Signal** : Dashboard, KPI, indicateurs de suivi · **Synonymes** : — · **Cross-refs** : 13 · **Tags** : aihero:wizard
 
 ## 37. 🛡️ Red-team de prompts
 
@@ -18,7 +18,7 @@
 ## 38. 🧩 Skill Creator (SKILL.md)
 
 - **Fichier** : `skills/038-skill-creator-skill-md.md` · **Mot-clé** : « skill creator (skill.md) » · **Nom court** : Skill Creator
-- **Signal** : Créer un package de skill SKILL.md · **Synonymes** : — · **Cross-refs** : 17, 37 · **Tags** : —
+- **Signal** : Créer un package de skill SKILL.md · **Synonymes** : — · **Cross-refs** : 17, 37 · **Tags** : aihero:setup-ts-deep-modules
 
 ## 48. 🖼️ Infographie animée
 

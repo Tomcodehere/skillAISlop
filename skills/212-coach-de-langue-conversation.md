@@ -9,6 +9,7 @@ nom_court: "Langues"
 branche: "D26"
 synonymes: []
 cross_refs: [7, 40]
+tags: ["aihero:claude-handoff"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

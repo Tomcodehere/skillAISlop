@@ -9,6 +9,7 @@ nom_court: "Longs"
 branche: "D18"
 synonymes: []
 cross_refs: [5, 27]
+tags: ["aihero:chief-of-staff"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

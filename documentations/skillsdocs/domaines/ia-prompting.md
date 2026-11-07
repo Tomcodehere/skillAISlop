@@ -38,7 +38,7 @@
 ## 236. 🪟 Gestionnaire de contexte de conversation
 
 - **Fichier** : `skills/236-gestionnaire-de-contexte-de-conversation.md` · **Mot-clé** : « contexte de conversation » · **Nom court** : Contexte
-- **Signal** : Contexte de conversation longue, compaction · **Synonymes** : — · **Cross-refs** : 17, 237 · **Tags** : —
+- **Signal** : Contexte de conversation longue, compaction · **Synonymes** : — · **Cross-refs** : 17, 237 · **Tags** : aihero:claude-handoff
 
 ## 237. 🪛 Débogueur de prompts
 
@@ -113,7 +113,7 @@
 ## 330. 🌞 Observateur d'agents
 
 - **Fichier** : `skills/330-observateur-d-agents.md` · **Mot-clé** : « agents » · **Nom court** : Observateur agents
-- **Signal** : Tracer un agent, journal d'exécution d'agent · **Synonymes** : — · **Cross-refs** : 97, 256, 330 · **Tags** : —
+- **Signal** : Tracer un agent, journal d'exécution d'agent · **Synonymes** : — · **Cross-refs** : 97, 256, 330 · **Tags** : aihero:code-review, aihero:writing-for-agents
 
 ## 331. 🐇 Prompteur de modèles légers
 
@@ -278,7 +278,7 @@
 ## 947. 🧨 Agent éphémère jetable (one-shot tasks)
 
 - **Fichier** : `skills/947-agent-ephemere-jetable-one-shot-tasks.md` · **Mot-clé** : « agent jetable one-shot » · **Nom court** : Agent jetable
-- **Signal** : Lancer un agent jetable pour une tâche ponctuelle 2027 (one-shot), ne pas garder d'agent permanent inutile, coût par tâche · **Synonymes** : « tâche ponctuelle agent » · **Cross-refs** : 927, 820 · **Tags** : 2027
+- **Signal** : Lancer un agent jetable pour une tâche ponctuelle 2027 (one-shot), ne pas garder d'agent permanent inutile, coût par tâche · **Synonymes** : « tâche ponctuelle agent » · **Cross-refs** : 927, 820 · **Tags** : 2027, aihero:software-factory
 
 ## 1002. 🧠 Accessible Alternative Text Review
 

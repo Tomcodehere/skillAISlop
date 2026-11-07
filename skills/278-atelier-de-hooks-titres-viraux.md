@@ -9,6 +9,7 @@ nom_court: "Hooks"
 branche: "D20"
 synonymes: []
 cross_refs: [3, 147]
+tags: ["aihero:git-guardrails-claude-code"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

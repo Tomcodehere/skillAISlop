@@ -3,7 +3,7 @@
 ## 63. 📌 Rédacteur de PRD & user stories
 
 - **Fichier** : `skills/063-redacteur-de-prd-user-stories.md` · **Mot-clé** : « prd & user stories » · **Nom court** : PRD
-- **Signal** : PRD, user stories, exigences produit, backlog · **Synonymes** : — · **Cross-refs** : 21, 67 · **Tags** : —
+- **Signal** : PRD, user stories, exigences produit, backlog · **Synonymes** : — · **Cross-refs** : 21, 67 · **Tags** : aihero:codebase-design, aihero:diagnosing-bugs, aihero:prototype, aihero:research, aihero:tdd, aihero:setup-ts-deep-modules, aihero:git-guardrails-claude-code, aihero:migrate-to-shoehorn, aihero:scaffold-exercises, aihero:setup-pre-commit, aihero:teach
 
 ## 176. 🛰️ Narrateur de roadmap
 
@@ -28,17 +28,17 @@
 ## 184. 🚦 Trieur de tickets support
 
 - **Fichier** : `skills/184-trieur-de-tickets-support.md` · **Mot-clé** : « trieur de tickets support » · **Nom court** : Tickets
-- **Signal** : Tri de tickets support, file de demandes · **Synonymes** : — · **Cross-refs** : 56, 89 · **Tags** : —
+- **Signal** : Tri de tickets support, file de demandes · **Synonymes** : — · **Cross-refs** : 56, 89 · **Tags** : aihero:implement-spec, aihero:triage
 
 ## 185. 🔢 Priorisateur de backlog
 
 - **Fichier** : `skills/185-priorisateur-de-backlog.md` · **Mot-clé** : « backlog » · **Nom court** : Backlog
-- **Signal** : Priorisation de backlog, ordre de travail · **Synonymes** : « backlog », « tickets a faire » · **Cross-refs** : 26, 63 · **Tags** : —
+- **Signal** : Priorisation de backlog, ordre de travail · **Synonymes** : « backlog », « tickets a faire » · **Cross-refs** : 26, 63 · **Tags** : aihero:implement-spec, aihero:triage
 
 ## 187. 🗨️ Préparateur d'interviews utilisateurs
 
 - **Fichier** : `skills/187-preparateur-d-interviews-utilisateurs.md` · **Mot-clé** : « interviews utilisateurs » · **Nom court** : Interviews
-- **Signal** : Interview utilisateur, guide d'entretien · **Synonymes** : — · **Cross-refs** : 12, 188 · **Tags** : —
+- **Signal** : Interview utilisateur, guide d'entretien · **Synonymes** : — · **Cross-refs** : 12, 188 · **Tags** : aihero:to-spec
 
 ## 188. 🧿 Synthétiseur de recherche utilisateur
 

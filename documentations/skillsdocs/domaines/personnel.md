@@ -253,7 +253,7 @@
 ## 582. 🏃 Planificateur d'entraînement course à pied
 
 - **Fichier** : `skills/582-planificateur-d-entrainement-course-a-pied.md` · **Mot-clé** : « course à pied » · **Nom court** : Running
-- **Signal** : Course à pied, plan d'entraînement, 10 km, semi-marathon · **Synonymes** : « footing », « marathon » · **Cross-refs** : 214, 483 · **Tags** : —
+- **Signal** : Course à pied, plan d'entraînement, 10 km, semi-marathon · **Synonymes** : « footing », « marathon » · **Cross-refs** : 214, 483 · **Tags** : aihero:scaffold-exercises
 
 ## 583. 🥾 Guide randonnée & outdoor
 
@@ -393,7 +393,7 @@
 ## 659. 🏃 Programme sportif débutant
 
 - **Fichier** : `skills/659-programme-sportif-debutant.md` · **Mot-clé** : « sport » · **Nom court** : Sport
-- **Signal** : Se remettre au sport, programme débutant, course à pied, musculation maison, marathon, yoga, vélo · **Synonymes** : « préparer un marathon », « musculation maison », « yoga débutant », « programme vélo » · **Cross-refs** : 214, 483 · **Tags** : —
+- **Signal** : Se remettre au sport, programme débutant, course à pied, musculation maison, marathon, yoga, vélo · **Synonymes** : « préparer un marathon », « musculation maison », « yoga débutant », « programme vélo » · **Cross-refs** : 214, 483 · **Tags** : aihero:scaffold-exercises
 
 ## 660. 🐕 Gestion des animaux domestiques
 
@@ -443,7 +443,7 @@
 ## 765. 🌤️ Gestion de l'anxiété & rumination
 
 - **Fichier** : `skills/765-gestion-de-l-anxiete-rumination.md` · **Mot-clé** : « anxiété » · **Nom court** : Anxiété
-- **Signal** : Anxiété, ruminer, pensées anxieuses, inquiétude permanente, technique de grounding, respiration 4-7-8 · **Synonymes** : « rumination » · **Cross-refs** : 511, 483 · **Tags** : —
+- **Signal** : Anxiété, ruminer, pensées anxieuses, inquiétude permanente, technique de grounding, respiration 4-7-8 · **Synonymes** : « rumination » · **Cross-refs** : 511, 483 · **Tags** : aihero:writing-beats
 
 ## 800. 🤖 Délégation à un agent personnel (Muse, Dots…)
 

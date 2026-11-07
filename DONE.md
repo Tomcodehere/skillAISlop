@@ -8,6 +8,8 @@ type: "text/markdown"
 
 > 🔎 **Index** : historique des tâches terminées (les plus récentes en premier)
 
+- [x] **2026-11-07** — Vérification doublons vs aihero.dev/skills (39 skills MIT, repo mattpocock/skills) : 100 % déjà couvertes → 0 nouvelle, 111 cross-refs tags aihero:<slug> ajoutées — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
+
 - [x] **2026-11-07** — Cache LRU trigrammes de requête (trigrammes_de) → route 4,7 ms (min 2,9) — fautes de frappe OK (organisr→208), anti-bruit OK (IoT→2) — 649/649 tests, sonde 100 %, audit 100 %, pack FIDÈLE
 
 - [x] **2026-11-07** — Perf finale 1+3+5 + garde-fous anti-faux-positifs (vec: token>=5 lettres + seuil 0,95) → route 4,8 ms (min 3,0), IoT/zzz → exit 2 — 649/649 tests, sonde 100 %, audit 100 %, evals 99,9, pack FIDÈLE

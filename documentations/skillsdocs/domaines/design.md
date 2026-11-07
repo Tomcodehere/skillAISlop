@@ -3,7 +3,7 @@
 ## 64. 🧐 Critique UX d'interface
 
 - **Fichier** : `skills/064-critique-ux-d-interface.md` · **Mot-clé** : « critique ux d'interface » · **Nom court** : Critique UX
-- **Signal** : Audit UX, heuristiques, friction de parcours · **Synonymes** : « audit ux », « critique ux » · **Cross-refs** : 55, 65 · **Tags** : —
+- **Signal** : Audit UX, heuristiques, friction de parcours · **Synonymes** : « audit ux », « critique ux » · **Cross-refs** : 55, 65 · **Tags** : aihero:codebase-design
 
 ## 65. ✏️ UX writer (microcopy d'interface)
 
@@ -263,7 +263,7 @@
 ## 1172. 🎨 Interface Error-Recovery Writing
 
 - **Fichier** : `skills/1172-interface-error-recovery-writing.md` · **Mot-clé** : « interface-error-recovery-writing » · **Nom court** : Interface Error-Recovery Writi
-- **Signal** : Rédiger des erreurs d'interface qui expliquent le problème et une reprise réellement possible. · **Synonymes** : « demande », « portant », « interface » · **Cross-refs** : 1259 · **Tags** : 2027
+- **Signal** : Rédiger des erreurs d'interface qui expliquent le problème et une reprise réellement possible. · **Synonymes** : « demande », « portant », « interface » · **Cross-refs** : 1259 · **Tags** : 2027, aihero:pr
 
 ## 1176. 🎨 Language Correction Regression Suite
 

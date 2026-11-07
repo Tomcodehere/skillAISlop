@@ -9,6 +9,7 @@ nom_court: "KPI"
 branche: "D4"
 synonymes: []
 cross_refs: [13]
+tags: ["aihero:wizard"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

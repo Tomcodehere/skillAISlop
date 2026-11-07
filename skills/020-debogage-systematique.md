@@ -9,6 +9,7 @@ nom_court: "Debug"
 branche: "D1"
 synonymes: ["bug", "debug", "erreur de code", "ça marche pas"]
 cross_refs: [10]
+tags: ["aihero:diagnosing-bugs", "aihero:implement"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

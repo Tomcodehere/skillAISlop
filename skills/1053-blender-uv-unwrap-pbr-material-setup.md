@@ -9,7 +9,7 @@ nom_court: "Blender UV Unwrap & PBR Materi"
 branche: "D1"
 synonymes: ["demande", "portant", "blender"]
 cross_refs: [1118]
-tags: ["2027"]
+tags: ["2027", "aihero:writing-shape"]
 ---
 
 ## 1053. 💻 Blender UV Unwrap & PBR Material Setup

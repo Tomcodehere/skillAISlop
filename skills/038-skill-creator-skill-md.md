@@ -9,6 +9,7 @@ nom_court: "Skill Creator"
 branche: "D4"
 synonymes: []
 cross_refs: [17, 37]
+tags: ["aihero:setup-ts-deep-modules"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -3,7 +3,7 @@
 ## 5. 📄 Synthèse & résumé de documents
 
 - **Fichier** : `skills/005-synthese-resume-de-documents.md` · **Mot-clé** : « synthèse & résumé de documents » · **Nom court** : 
-- **Signal** : Résumer, condenser un document · **Synonymes** : « condenser », « faire court », « résumer », « synthétiser » · **Cross-refs** : 14, 24 · **Tags** : —
+- **Signal** : Résumer, condenser un document · **Synonymes** : « condenser », « faire court », « résumer », « synthétiser » · **Cross-refs** : 14, 24 · **Tags** : aihero:handoff
 
 ## 24. 🗒️ Compte rendu de réunion
 
@@ -23,7 +23,7 @@
 ## 27. 📎 Créateur de documents Office
 
 - **Fichier** : `skills/027-createur-de-documents-office.md` · **Mot-clé** : « créateur de documents office » · **Nom court** : Office
-- **Signal** : Document Word / Excel / PowerPoint à produire · **Synonymes** : — · **Cross-refs** : 1, 14 · **Tags** : —
+- **Signal** : Document Word / Excel / PowerPoint à produire · **Synonymes** : — · **Cross-refs** : 1, 14 · **Tags** : aihero:handoff
 
 ## 28. 📋 Planification par fichiers
 
@@ -38,7 +38,7 @@
 ## 71. ⚙️ Concepteur de workflows d'automatisation
 
 - **Fichier** : `skills/071-concepteur-de-workflows-d-automatisation.md` · **Mot-clé** : « workflows d'automatisation » · **Nom court** : Workflows
-- **Signal** : Automatisation, workflow entre outils, n8n/Make/Zapier · **Synonymes** : — · **Cross-refs** : 15, 50 · **Tags** : —
+- **Signal** : Automatisation, workflow entre outils, n8n/Make/Zapier · **Synonymes** : — · **Cross-refs** : 15, 50 · **Tags** : aihero:loop-me
 
 ## 72. 📅 Planificateur de semaine (time blocking)
 

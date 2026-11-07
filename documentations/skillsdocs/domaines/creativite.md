@@ -3,7 +3,7 @@
 ## 6. 💡 Brainstorming structuré
 
 - **Fichier** : `skills/006-brainstorming-structure.md` · **Mot-clé** : « brainstorming structuré » · **Nom court** : 
-- **Signal** : Idées, créativité, atelier, naming · **Synonymes** : — · **Cross-refs** : 19 · **Tags** : —
+- **Signal** : Idées, créativité, atelier, naming · **Synonymes** : — · **Cross-refs** : 19 · **Tags** : aihero:writing-fragments
 
 ## 47. 🏷️ Générateur de noms
 
@@ -68,7 +68,7 @@
 ## 157. 🎧 Producteur de podcast IA
 
 - **Fichier** : `skills/157-producteur-de-podcast-ia.md` · **Mot-clé** : « podcast ia » · **Nom court** : Podcasts
-- **Signal** : Podcast IA, article en dialogue audio · **Synonymes** : « podcast » · **Cross-refs** : 53, 154 · **Tags** : —
+- **Signal** : Podcast IA, article en dialogue audio · **Synonymes** : « podcast » · **Cross-refs** : 53, 154 · **Tags** : aihero:writing-shape
 
 ## 158. 📑 Sous-titreur
 

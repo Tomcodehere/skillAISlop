@@ -3,7 +3,7 @@
 ## 61. 😈 Avocat du diable
 
 - **Fichier** : `skills/061-avocat-du-diable.md` · **Mot-clé** : « avocat du diable » · **Nom court** : Diable
-- **Signal** : Avocat du diable, contredire, challenger une décision · **Synonymes** : — · **Cross-refs** : 19, 60 · **Tags** : —
+- **Signal** : Avocat du diable, contredire, challenger une décision · **Synonymes** : — · **Cross-refs** : 19, 60 · **Tags** : aihero:wayfinder, aihero:grilling, aihero:to-questionnaire
 
 ## 844. ⚖️ Matrice de décision multicritères
 

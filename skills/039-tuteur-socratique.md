@@ -9,6 +9,7 @@ nom_court: "Socrate"
 branche: "D5"
 synonymes: []
 cross_refs: [11]
+tags: ["aihero:teach"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

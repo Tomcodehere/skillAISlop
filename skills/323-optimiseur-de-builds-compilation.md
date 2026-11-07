@@ -9,6 +9,7 @@ nom_court: "Builds"
 branche: "D16"
 synonymes: []
 cross_refs: [82, 313]
+tags: ["aihero:domain-modeling", "aihero:loop-me"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -3,7 +3,7 @@
 ## 12. 🤝 Préparation d'entretien / interview
 
 - **Fichier** : `skills/012-preparation-d-entretien-interview.md` · **Mot-clé** : « préparation d'entretien / interview » · **Nom court** : 
-- **Signal** : Entretien, simulation, pitch oral · **Synonymes** : « embauche » · **Cross-refs** : 41, 44 · **Tags** : —
+- **Signal** : Entretien, simulation, pitch oral · **Synonymes** : « embauche » · **Cross-refs** : 41, 44 · **Tags** : aihero:grill-with-docs, aihero:to-spec, aihero:grill-me, aihero:wait-what
 
 ## 44. 📃 Analyseur CV & lettre
 
@@ -18,7 +18,7 @@
 ## 46. 🎙️ Conversations difficiles
 
 - **Fichier** : `skills/046-conversations-difficiles.md` · **Mot-clé** : « conversations difficiles » · **Nom court** : Conflits
-- **Signal** : Conversation difficile, conflit, feedback dur · **Synonymes** : — · **Cross-refs** : 45 · **Tags** : —
+- **Signal** : Conversation difficile, conflit, feedback dur · **Synonymes** : — · **Cross-refs** : 45 · **Tags** : aihero:to-spec, aihero:to-tickets, aihero:claude-handoff, aihero:handoff
 
 ## 49. 🎭 Simulateur de rôle
 

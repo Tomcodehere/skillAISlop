@@ -9,6 +9,7 @@ nom_court: "Interviews"
 branche: "D22"
 synonymes: []
 cross_refs: [12, 188]
+tags: ["aihero:to-spec"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -9,6 +9,7 @@ nom_court: "MCP"
 branche: "D14"
 synonymes: []
 cross_refs: [71, 99]
+tags: ["aihero:domain-modeling"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

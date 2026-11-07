@@ -9,6 +9,7 @@ nom_court: "Enquêtes"
 branche: "D17"
 synonymes: []
 cross_refs: [55, 73]
+tags: ["aihero:to-questionnaire"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

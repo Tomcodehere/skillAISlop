@@ -9,6 +9,7 @@ nom_court: "Backlog"
 branche: "D22"
 synonymes: ["backlog", "tickets a faire"]
 cross_refs: [26, 63]
+tags: ["aihero:implement-spec", "aihero:triage"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

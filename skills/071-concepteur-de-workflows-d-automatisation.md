@@ -9,6 +9,7 @@ nom_court: "Workflows"
 branche: "D12"
 synonymes: []
 cross_refs: [15, 50]
+tags: ["aihero:loop-me"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

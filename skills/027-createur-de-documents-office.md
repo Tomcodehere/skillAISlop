@@ -9,6 +9,7 @@ nom_court: "Office"
 branche: "D2"
 synonymes: []
 cross_refs: [1, 14]
+tags: ["aihero:handoff"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

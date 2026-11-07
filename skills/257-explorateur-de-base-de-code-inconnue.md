@@ -9,6 +9,7 @@ nom_court: "Explorateur"
 branche: "D15"
 synonymes: []
 cross_refs: [80, 130]
+tags: ["aihero:ask-matt", "aihero:setup-matt-pocock-skills"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

@@ -3,32 +3,32 @@
 ## 9. 💻 Générateur de code commenté
 
 - **Fichier** : `skills/009-generateur-de-code-commente.md` · **Mot-clé** : « code commenté » · **Nom court** : 
-- **Signal** : Écrire du code / script neuf · **Synonymes** : — · **Cross-refs** : 10, 21 · **Tags** : —
+- **Signal** : Écrire du code / script neuf · **Synonymes** : — · **Cross-refs** : 10, 21 · **Tags** : aihero:implement
 
 ## 10. 🐞 Review de code & debug
 
 - **Fichier** : `skills/010-review-de-code-debug.md` · **Mot-clé** : « review de code & debug » · **Nom court** : 
-- **Signal** : Bug, review, sécurité, audit de code · **Synonymes** : « code review », « revue de code » · **Cross-refs** : 20 · **Tags** : —
+- **Signal** : Bug, review, sécurité, audit de code · **Synonymes** : « code review », « revue de code » · **Cross-refs** : 20 · **Tags** : aihero:diagnosing-bugs, aihero:implement
 
 ## 19. 🔥 Grill Me (validation de plan)
 
 - **Fichier** : `skills/019-grill-me-validation-de-plan.md` · **Mot-clé** : « grill me (validation de plan) » · **Nom court** : Grill Me
-- **Signal** : Stress-tester un plan avant de coder, « grill me » · **Synonymes** : — · **Cross-refs** : 15, 17 · **Tags** : —
+- **Signal** : Stress-tester un plan avant de coder, « grill me » · **Synonymes** : — · **Cross-refs** : 15, 17 · **Tags** : aihero:grill-with-docs, aihero:improve-codebase-architecture, aihero:to-tickets, aihero:triage, aihero:wayfinder, aihero:loop-me, aihero:grill-me, aihero:grilling
 
 ## 20. 🐛 Débogage systématique
 
 - **Fichier** : `skills/020-debogage-systematique.md` · **Mot-clé** : « débogage systématique » · **Nom court** : Debug
-- **Signal** : Erreur complexe, investigation de bug · **Synonymes** : « bug », « debug », « erreur de code », « ça marche pas » · **Cross-refs** : 10 · **Tags** : —
+- **Signal** : Erreur complexe, investigation de bug · **Synonymes** : « bug », « debug », « erreur de code », « ça marche pas » · **Cross-refs** : 10 · **Tags** : aihero:diagnosing-bugs, aihero:implement
 
 ## 21. 🪜 Implémentation incrémentale
 
 - **Fichier** : `skills/021-implementation-incrementale.md` · **Mot-clé** : « implémentation incrémentale » · **Nom court** : Incrémental
-- **Signal** : Grosse fonctionnalité à découper, pas-à-pas · **Synonymes** : — · **Cross-refs** : 9 · **Tags** : —
+- **Signal** : Grosse fonctionnalité à découper, pas-à-pas · **Synonymes** : — · **Cross-refs** : 9 · **Tags** : aihero:setup-ts-deep-modules
 
 ## 22. 🏗️ Diagrammes d'architecture
 
 - **Fichier** : `skills/022-diagrammes-d-architecture.md` · **Mot-clé** : « diagrammes d'architecture » · **Nom court** : Diagrammes
-- **Signal** : Schéma d'architecture, diagramme de système · **Synonymes** : — · **Cross-refs** : 23 · **Tags** : —
+- **Signal** : Schéma d'architecture, diagramme de système · **Synonymes** : — · **Cross-refs** : 23 · **Tags** : aihero:codebase-design, aihero:improve-codebase-architecture
 
 ## 23. 📚 Documentation technique
 
@@ -38,12 +38,12 @@
 ## 67. 🧪 Générateur de tests unitaires
 
 - **Fichier** : `skills/067-generateur-de-tests-unitaires.md` · **Mot-clé** : « tests unitaires » · **Nom court** : Tests
-- **Signal** : Tests unitaires, TDD, couverture · **Synonymes** : « couverture de tests », « test unitaire » · **Cross-refs** : 21, 63 · **Tags** : —
+- **Signal** : Tests unitaires, TDD, couverture · **Synonymes** : « couverture de tests », « test unitaire » · **Cross-refs** : 21, 63 · **Tags** : aihero:tdd, aihero:migrate-to-shoehorn, aihero:setup-pre-commit
 
 ## 68. 🧾 Commits & descriptions de PR
 
 - **Fichier** : `skills/068-commits-descriptions-de-pr.md` · **Mot-clé** : « commits & descriptions de pr » · **Nom court** : Commits/PR
-- **Signal** : Message de commit, description de PR · **Synonymes** : — · **Cross-refs** : 10, 21 · **Tags** : —
+- **Signal** : Message de commit, description de PR · **Synonymes** : — · **Cross-refs** : 10, 21 · **Tags** : aihero:setup-pre-commit, aihero:wait-what
 
 ## 69. 🗃️ Assistant SQL & modélisation de données
 
@@ -58,12 +58,12 @@
 ## 76. 🖥️ Pilote d'agents de code CLI
 
 - **Fichier** : `skills/076-pilote-d-agents-de-code-cli.md` · **Mot-clé** : « pilote d'agents de code cli » · **Nom court** : Agents CLI
-- **Signal** : Agent de code CLI, session de pilotage terminal · **Synonymes** : — · **Cross-refs** : 20, 68 · **Tags** : —
+- **Signal** : Agent de code CLI, session de pilotage terminal · **Synonymes** : — · **Cross-refs** : 20, 68 · **Tags** : aihero:chief-of-staff
 
 ## 77. 🔌 Builder MCP (Model Context Protocol)
 
 - **Fichier** : `skills/077-builder-mcp-model-context-protocol.md` · **Mot-clé** : « builder mcp (model context protocol) » · **Nom court** : MCP
-- **Signal** : Serveur MCP, connecter une IA à un outil externe · **Synonymes** : — · **Cross-refs** : 71, 99 · **Tags** : —
+- **Signal** : Serveur MCP, connecter une IA à un outil externe · **Synonymes** : — · **Cross-refs** : 71, 99 · **Tags** : aihero:domain-modeling
 
 ## 78. 🚀 Prototypeur no-code
 
@@ -118,7 +118,7 @@
 ## 88. 🏛️ Rédacteur d'ADR (décisions d'architecture)
 
 - **Fichier** : `skills/088-redacteur-d-adr-decisions-d-architecture.md` · **Mot-clé** : « adr (décisions d'architecture) » · **Nom court** : ADR
-- **Signal** : ADR, décision d'architecture consignée · **Synonymes** : — · **Cross-refs** : 22, 23 · **Tags** : —
+- **Signal** : ADR, décision d'architecture consignée · **Synonymes** : — · **Cross-refs** : 22, 23 · **Tags** : aihero:improve-codebase-architecture, aihero:to-questionnaire
 
 ## 89. 🚨 Rédacteur de post-mortems d'incident
 
@@ -163,7 +163,7 @@
 ## 257. 🤠 Explorateur de base de code inconnue
 
 - **Fichier** : `skills/257-explorateur-de-base-de-code-inconnue.md` · **Mot-clé** : « base de code inconnue » · **Nom court** : Explorateur
-- **Signal** : Découvrir une base de code inconnue, onboarding repo · **Synonymes** : — · **Cross-refs** : 80, 130 · **Tags** : —
+- **Signal** : Découvrir une base de code inconnue, onboarding repo · **Synonymes** : — · **Cross-refs** : 80, 130 · **Tags** : aihero:ask-matt, aihero:setup-matt-pocock-skills
 
 ## 301. 🌿 Gestionnaire de worktrees Git
 
@@ -248,7 +248,7 @@
 ## 317. 🌔 Générateur de tests d'intégration
 
 - **Fichier** : `skills/317-generateur-de-tests-d-integration.md` · **Mot-clé** : « tests d'intégration » · **Nom court** : Tests intégration
-- **Signal** : Test d'intégration, contrat entre services · **Synonymes** : — · **Cross-refs** : 67, 252 · **Tags** : —
+- **Signal** : Test d'intégration, contrat entre services · **Synonymes** : — · **Cross-refs** : 67, 252 · **Tags** : aihero:software-factory
 
 ## 318. 🐢 Optimiseur de requêtes SQL lentes
 
@@ -278,7 +278,7 @@
 ## 323. 🌘 Optimiseur de builds & compilation
 
 - **Fichier** : `skills/323-optimiseur-de-builds-compilation.md` · **Mot-clé** : « builds & compilation » · **Nom court** : Builds
-- **Signal** : Build lent, temps de compilation · **Synonymes** : — · **Cross-refs** : 82, 313 · **Tags** : —
+- **Signal** : Build lent, temps de compilation · **Synonymes** : — · **Cross-refs** : 82, 313 · **Tags** : aihero:domain-modeling, aihero:loop-me
 
 ## 324. 🌙 Rédacteur de scripts CLI robustes
 
@@ -408,7 +408,7 @@
 ## 822. 🧪 Génération de tests depuis la doc (doc-to-test)
 
 - **Fichier** : `skills/822-generation-de-tests-depuis-la-doc-doc-to-test.md` · **Mot-clé** : « tests depuis la doc » · **Nom court** : Doc-to-test
-- **Signal** : Générer des tests depuis la documentation API, doc-to-test, tests auto depuis un PDF de spec · **Synonymes** : « doc to test » · **Cross-refs** : 302, 543 · **Tags** : 2027
+- **Signal** : Générer des tests depuis la documentation API, doc-to-test, tests auto depuis un PDF de spec · **Synonymes** : « doc to test » · **Cross-refs** : 302, 543 · **Tags** : 2027, aihero:implement-spec
 
 ## 906. 🔒 Certificats TLS 64 jours (Let's Encrypt, fév. 2027)
 
@@ -533,7 +533,7 @@
 ## 1053. 💻 Blender UV Unwrap & PBR Material Setup
 
 - **Fichier** : `skills/1053-blender-uv-unwrap-pbr-material-setup.md` · **Mot-clé** : « blender-uv-unwrap-pbr-material-setup » · **Nom court** : Blender UV Unwrap & PBR Materi
-- **Signal** : Produire un livrable maîtrisé : dépliage UV et matériaux PBR avec cartes de textures nommées et guide de bake. · **Synonymes** : « demande », « portant », « blender » · **Cross-refs** : 1118 · **Tags** : 2027
+- **Signal** : Produire un livrable maîtrisé : dépliage UV et matériaux PBR avec cartes de textures nommées et guide de bake. · **Synonymes** : « demande », « portant », « blender » · **Cross-refs** : 1118 · **Tags** : 2027, aihero:writing-shape
 
 ## 1063. 💻 Certificate Management Applications
 
@@ -583,7 +583,7 @@
 ## 1083. 💻 Container Registry Management
 
 - **Fichier** : `skills/1083-container-registry-management.md` · **Mot-clé** : « container-registry-management » · **Nom court** : Container Registry Management
-- **Signal** : Gérer registries conteneurs (Docker Hub, Harbor, GitLab CR, AWS ECR, Azure ACR, GCP GCR) : push/pull, tags, scanning, cleanup. · **Synonymes** : « image », « registry », « configure » · **Cross-refs** : 1216 · **Tags** : 2027
+- **Signal** : Gérer registries conteneurs (Docker Hub, Harbor, GitLab CR, AWS ECR, Azure ACR, GCP GCR) : push/pull, tags, scanning, cleanup. · **Synonymes** : « image », « registry », « configure » · **Cross-refs** : 1216 · **Tags** : 2027, aihero:pr
 
 ## 1089. 💻 Conversion Copy Experimentation
 
@@ -618,7 +618,7 @@
 ## 1109. 💻 Docker Compose Orchestration
 
 - **Fichier** : `skills/1109-docker-compose-orchestration.md` · **Mot-clé** : « docker-compose-orchestration » · **Nom court** : Docker Compose Orchestration
-- **Signal** : Orchestrer multi-conteneurs localement avec docker-compose (services, networks, volumes, healthchecks). · **Synonymes** : « docker-compose », « orchestration », « locale » · **Cross-refs** : 314 · **Tags** : 2027
+- **Signal** : Orchestrer multi-conteneurs localement avec docker-compose (services, networks, volumes, healthchecks). · **Synonymes** : « docker-compose », « orchestration », « locale » · **Cross-refs** : 314 · **Tags** : 2027, aihero:software-factory
 
 ## 1110. 💻 Dockerfile Best Practices
 
@@ -803,7 +803,7 @@
 ## 1227. 💻 PHP Request Validation Flow
 
 - **Fichier** : `skills/1227-php-request-validation-flow.md` · **Mot-clé** : « php-request-validation-flow » · **Nom court** : PHP Request Validation Flow
-- **Signal** : Concevoir un traitement de requête PHP qui distingue validation, autorisation et logique métier. · **Synonymes** : « demande », « portant », « request » · **Cross-refs** : 1117 · **Tags** : 2027
+- **Signal** : Concevoir un traitement de requête PHP qui distingue validation, autorisation et logique métier. · **Synonymes** : « demande », « portant », « request » · **Cross-refs** : 1117 · **Tags** : 2027, aihero:pr
 
 ## 1229. 💻 PostgreSQL Advanced Tuning
 

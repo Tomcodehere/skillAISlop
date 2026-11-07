@@ -9,6 +9,7 @@ nom_court: "Conservateur"
 branche: "D26"
 synonymes: []
 cross_refs: [0, 38, 97]
+tags: ["aihero:ask-matt", "aihero:setup-matt-pocock-skills"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

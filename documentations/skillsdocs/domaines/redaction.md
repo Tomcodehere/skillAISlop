@@ -3,7 +3,7 @@
 ## 1. ✍️ Rédacteur d'articles SEO
 
 - **Fichier** : `skills/001-redacteur-d-articles-seo.md` · **Mot-clé** : « articles seo » · **Nom court** : 
-- **Signal** : Écrire un article, blog, contenu web · **Synonymes** : — · **Cross-refs** : 8, 34 · **Tags** : —
+- **Signal** : Écrire un article, blog, contenu web · **Synonymes** : — · **Cross-refs** : 8, 34 · **Tags** : aihero:writing-shape
 
 ## 2. 🔀 Réécriture & adaptation de ton
 
@@ -18,7 +18,7 @@
 ## 116. 📖 Rédacteur de documents longs
 
 - **Fichier** : `skills/116-redacteur-de-documents-longs.md` · **Mot-clé** : « documents longs » · **Nom court** : Longs
-- **Signal** : Document long, rapport de 50 pages · **Synonymes** : — · **Cross-refs** : 5, 27 · **Tags** : —
+- **Signal** : Document long, rapport de 50 pages · **Synonymes** : — · **Cross-refs** : 5, 27 · **Tags** : aihero:chief-of-staff
 
 ## 117. 🔤 Traducteur de documents formatés
 
@@ -78,7 +78,7 @@
 ## 379. 🍁 Rédacteur de notifications & push
 
 - **Fichier** : `skills/379-redacteur-de-notifications-push.md` · **Mot-clé** : « notifications & push » · **Nom court** : Notifications
-- **Signal** : Notification push, message système · **Synonymes** : — · **Cross-refs** : 138, 359 · **Tags** : —
+- **Signal** : Notification push, message système · **Synonymes** : — · **Cross-refs** : 138, 359 · **Tags** : aihero:git-guardrails-claude-code
 
 ## 380. 🍂 Rédacteur de threads éditoriaux
 

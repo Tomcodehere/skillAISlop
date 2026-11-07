@@ -9,6 +9,7 @@ nom_court: "Tests intégration"
 branche: "D16"
 synonymes: []
 cross_refs: [67, 252]
+tags: ["aihero:software-factory"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

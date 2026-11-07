@@ -8,7 +8,7 @@
 ## 73. ✅ Animateur de rétrospective
 
 - **Fichier** : `skills/073-animateur-de-retrospective.md` · **Mot-clé** : « rétrospective » · **Nom court** : Rétro
-- **Signal** : Rétrospective, rétro d'équipe, bilan de sprint · **Synonymes** : « retro », « retrospective » · **Cross-refs** : 24, 74 · **Tags** : —
+- **Signal** : Rétrospective, rétro d'équipe, bilan de sprint · **Synonymes** : « retro », « retrospective » · **Cross-refs** : 24, 74 · **Tags** : aihero:retro
 
 ## 74. 🥅 Définisseur d'OKR
 
@@ -18,7 +18,7 @@
 ## 113. 🗳️ Analyste d'enquêtes internes
 
 - **Fichier** : `skills/113-analyste-d-enquetes-internes.md` · **Mot-clé** : « enquêtes internes » · **Nom court** : Enquêtes
-- **Signal** : Enquête interne, questionnaire d'équipe · **Synonymes** : — · **Cross-refs** : 55, 73 · **Tags** : —
+- **Signal** : Enquête interne, questionnaire d'équipe · **Synonymes** : — · **Cross-refs** : 55, 73 · **Tags** : aihero:to-questionnaire
 
 ## 192. 🚫 Modérateur de communauté
 
@@ -38,7 +38,7 @@
 ## 210. 🫱 Facilitateur de décisions collectives
 
 - **Fichier** : `skills/210-facilitateur-de-decisions-collectives.md` · **Mot-clé** : « décisions collectives » · **Nom court** : Décisions
-- **Signal** : Décision collective, choix de groupe structuré · **Synonymes** : — · **Cross-refs** : 61, 208 · **Tags** : —
+- **Signal** : Décision collective, choix de groupe structuré · **Synonymes** : — · **Cross-refs** : 61, 208 · **Tags** : aihero:writing-fragments
 
 ## 211. 🏕️ Concepteur de team building
 

@@ -3,7 +3,7 @@
 ## 18. 🔎 Agent de recherche approfondie
 
 - **Fichier** : `skills/018-agent-de-recherche-approfondie.md` · **Mot-clé** : « agent de recherche approfondie » · **Nom court** : 
-- **Signal** : Rechercher un sujet, veille, état du marché · **Synonymes** : « etat de l'art », « recherche approfondie » · **Cross-refs** : 32, 42 · **Tags** : —
+- **Signal** : Rechercher un sujet, veille, état du marché · **Synonymes** : « etat de l'art », « recherche approfondie » · **Cross-refs** : 32, 42 · **Tags** : aihero:research
 
 ## 101. 🧠 Cartographe de concepts
 

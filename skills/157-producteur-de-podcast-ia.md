@@ -9,6 +9,7 @@ nom_court: "Podcasts"
 branche: "D19"
 synonymes: ["podcast"]
 cross_refs: [53, 154]
+tags: ["aihero:writing-shape"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

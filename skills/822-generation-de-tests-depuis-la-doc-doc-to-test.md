@@ -9,7 +9,7 @@ nom_court: "Doc-to-test"
 branche: "D12"
 synonymes: ["doc to test"]
 cross_refs: [302, 543]
-tags: ["2027"]
+tags: ["2027", "aihero:implement-spec"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

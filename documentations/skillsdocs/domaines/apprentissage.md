@@ -3,7 +3,7 @@
 ## 39. 🤔 Tuteur socratique
 
 - **Fichier** : `skills/039-tuteur-socratique.md` · **Mot-clé** : « tuteur socratique » · **Nom court** : Socrate
-- **Signal** : Apprendre par questions guidées, socratique · **Synonymes** : — · **Cross-refs** : 11 · **Tags** : —
+- **Signal** : Apprendre par questions guidées, socratique · **Synonymes** : — · **Cross-refs** : 11 · **Tags** : aihero:teach
 
 ## 40. 🃏 Quiz & flashcards
 
@@ -23,7 +23,7 @@
 ## 212. 🌐 Coach de langue (conversation)
 
 - **Fichier** : `skills/212-coach-de-langue-conversation.md` · **Mot-clé** : « langue (conversation) » · **Nom court** : Langues
-- **Signal** : Conversation en langue étrangère, coaching oral · **Synonymes** : — · **Cross-refs** : 7, 40 · **Tags** : —
+- **Signal** : Conversation en langue étrangère, coaching oral · **Synonymes** : — · **Cross-refs** : 7, 40 · **Tags** : aihero:claude-handoff
 
 ## 213. 🎴 Générateur de flashcards
 

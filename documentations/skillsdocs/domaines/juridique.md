@@ -3,7 +3,7 @@
 ## 16. ⚖️ Assistant juridique de premier niveau
 
 - **Fichier** : `skills/016-assistant-juridique-de-premier-niveau.md` · **Mot-clé** : « assistant juridique de premier niveau » · **Nom court** : 
-- **Signal** : Contrat, clause, question juridique · **Synonymes** : « clause », « contrat » · **Cross-refs** : 47 · **Tags** : —
+- **Signal** : Contrat, clause, question juridique · **Synonymes** : « clause », « contrat » · **Cross-refs** : 47 · **Tags** : aihero:prototype, aihero:research, aihero:wizard
 
 ## 137. 📮 Rédacteur de courriers officiels & réclamations
 

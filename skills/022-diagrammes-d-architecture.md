@@ -9,6 +9,7 @@ nom_court: "Diagrammes"
 branche: "D1"
 synonymes: []
 cross_refs: [23]
+tags: ["aihero:codebase-design", "aihero:improve-codebase-architecture"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

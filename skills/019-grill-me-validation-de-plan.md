@@ -9,6 +9,7 @@ nom_court: "Grill Me"
 branche: "D1"
 synonymes: []
 cross_refs: [15, 17]
+tags: ["aihero:grill-with-docs", "aihero:improve-codebase-architecture", "aihero:to-tickets", "aihero:triage", "aihero:wayfinder", "aihero:loop-me", "aihero:grill-me", "aihero:grilling"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

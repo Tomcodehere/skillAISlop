@@ -3,7 +3,7 @@
 ## 57. 🧮 Business Model Canvas
 
 - **Fichier** : `skills/057-business-model-canvas.md` · **Mot-clé** : « business model canvas » · **Nom court** : BMC
-- **Signal** : Modèle économique, business model, BMC · **Synonymes** : « business model », « business plan » · **Cross-refs** : 58, 60 · **Tags** : —
+- **Signal** : Modèle économique, business model, BMC · **Synonymes** : « business model », « business plan » · **Cross-refs** : 58, 60 · **Tags** : aihero:domain-modeling, aihero:grill-with-docs, aihero:prototype, aihero:to-tickets, aihero:wayfinder, aihero:grill-me, aihero:grilling
 
 ## 58. 💰 Stratégie de prix
 
@@ -53,5 +53,5 @@
 ## 898. 🚀 Préparation d'une levée de fonds (amorçage)
 
 - **Fichier** : `skills/898-preparation-d-une-levee-de-fonds-amorcage.md` · **Mot-clé** : « lever des fonds » · **Nom court** : Levée de fonds
-- **Signal** : Préparer une levée de fonds amorçage 2026, business angels, fonds VC, valorisation pre-money, term sheet, due diligence · **Synonymes** : « levée amorçage 2026 » · **Cross-refs** : 775, 776 · **Tags** : 2027
+- **Signal** : Préparer une levée de fonds amorçage 2026, business angels, fonds VC, valorisation pre-money, term sheet, due diligence · **Synonymes** : « levée amorçage 2026 » · **Cross-refs** : 775, 776 · **Tags** : 2027, aihero:writing-beats
 

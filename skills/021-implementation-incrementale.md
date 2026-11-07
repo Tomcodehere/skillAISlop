@@ -9,6 +9,7 @@ nom_court: "Incrémental"
 branche: "D1"
 synonymes: []
 cross_refs: [9]
+tags: ["aihero:setup-ts-deep-modules"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

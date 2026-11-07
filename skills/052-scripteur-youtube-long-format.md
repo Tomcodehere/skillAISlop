@@ -9,6 +9,7 @@ nom_court: "YouTube"
 branche: "D8"
 synonymes: []
 cross_refs: [29, 53]
+tags: ["aihero:chief-of-staff"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

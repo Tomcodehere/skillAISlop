@@ -9,6 +9,7 @@ nom_court: "Storytelling"
 branche: "D17"
 synonymes: []
 cross_refs: [13, 48]
+tags: ["aihero:migrate-to-shoehorn"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

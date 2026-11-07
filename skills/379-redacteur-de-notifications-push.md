@@ -9,6 +9,7 @@ nom_court: "Notifications"
 branche: "D18"
 synonymes: []
 cross_refs: [138, 359]
+tags: ["aihero:git-guardrails-claude-code"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

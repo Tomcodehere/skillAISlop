@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: []
 cross_refs: [24, 25]
+tags: ["aihero:wizard", "aihero:wait-what"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

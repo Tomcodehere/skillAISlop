@@ -9,6 +9,7 @@ nom_court: "Rétro"
 branche: "D13"
 synonymes: ["retro", "retrospective"]
 cross_refs: [24, 74]
+tags: ["aihero:retro"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

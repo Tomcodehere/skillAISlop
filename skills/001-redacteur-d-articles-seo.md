@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: []
 cross_refs: [8, 34]
+tags: ["aihero:writing-shape"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

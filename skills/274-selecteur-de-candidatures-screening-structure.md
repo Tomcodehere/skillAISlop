@@ -9,6 +9,7 @@ nom_court: "Screening"
 branche: "D24"
 synonymes: ["screening cv", "trier les cv"]
 cross_refs: [202, 276]
+tags: ["aihero:writing-fragments"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

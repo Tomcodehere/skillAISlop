@@ -9,6 +9,7 @@ nom_court: "Tests"
 branche: "D12"
 synonymes: ["couverture de tests", "test unitaire"]
 cross_refs: [21, 63]
+tags: ["aihero:tdd", "aihero:migrate-to-shoehorn", "aihero:setup-pre-commit"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

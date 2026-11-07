@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: ["clause", "contrat"]
 cross_refs: [47]
+tags: ["aihero:prototype", "aihero:research", "aihero:wizard"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

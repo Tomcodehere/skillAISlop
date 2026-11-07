@@ -9,6 +9,7 @@ nom_court: "Commits/PR"
 branche: "D12"
 synonymes: []
 cross_refs: [10, 21]
+tags: ["aihero:setup-pre-commit", "aihero:wait-what"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

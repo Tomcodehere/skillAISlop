@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: []
 cross_refs: [19]
+tags: ["aihero:writing-fragments"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

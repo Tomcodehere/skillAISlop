@@ -9,6 +9,7 @@ nom_court: "Tickets"
 branche: "D16"
 synonymes: []
 cross_refs: [56, 89]
+tags: ["aihero:implement-spec", "aihero:triage"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

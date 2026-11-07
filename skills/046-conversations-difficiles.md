@@ -9,6 +9,7 @@ nom_court: "Conflits"
 branche: "D6"
 synonymes: []
 cross_refs: [45]
+tags: ["aihero:to-spec", "aihero:to-tickets", "aihero:claude-handoff", "aihero:handoff"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

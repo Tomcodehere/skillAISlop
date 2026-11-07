@@ -9,6 +9,7 @@ nom_court: "Anxiété"
 branche: "D27"
 synonymes: ["rumination"]
 cross_refs: [511, 483]
+tags: ["aihero:writing-beats"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

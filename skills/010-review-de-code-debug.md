@@ -9,6 +9,7 @@ nom_court: ""
 branche: "K"
 synonymes: ["code review", "revue de code"]
 cross_refs: [20]
+tags: ["aihero:diagnosing-bugs", "aihero:implement"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

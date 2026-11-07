@@ -9,6 +9,7 @@ nom_court: ""
 branche: ""
 synonymes: []
 cross_refs: []
+tags: ["aihero:ask-matt", "aihero:setup-matt-pocock-skills"]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Règles de priorité · Carte des domaines · Index inversé · Table de routage complète · Arbre de décision · Variante routage léger · Exemple de routage · Cas d'usage
