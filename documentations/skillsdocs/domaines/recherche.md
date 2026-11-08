@@ -158,7 +158,7 @@
 ## 1387. 🔬 Lire et critiquer une etude scientifique
 
 - **Fichier** : `skills/1387-lire-et-critiquer-une-etude-scientifique.md` · **Mot-clé** : « critiquer étude scientifique méthodologie biais p-value » · **Nom court** : Critique d'étude
-- **Signal** : Lire une etude scientifique de maniere critique en 2027 : design de l'etude (RCT, observationnelle, meta-analyse), taille d'echantillon, p-value et intervalles de confiance, biais (selection, publication), reproductibilite, conflits d'interets des auteurs. Utilise quand on evalue une affirmation appuyée sur une étude. N'utilise pas pour lire un rapport d'entreprise. · **Synonymes** : « lire un papier scientifique critique », « p-value intervalle de confiance expliqué », « biais de publication étude » · **Cross-refs** : 104, 1276, 547 · **Tags** : 2027
+- **Signal** : Lire une etude scientifique de maniere critique en 2027 : design de l'etude (RCT, observationnelle, meta-analyse), taille d'echantillon, p-value et intervalles de confiance, biais (selection, publication), reproductibilite, conflits d'interets des auteurs. Utilise quand on evalue une affirmation appuyée sur une étude. N'utilise pas pour lire un rapport d'entreprise. · **Synonymes** : « lire un papier scientifique critique », « p-value intervalle de confiance expliqué », « biais de publication étude », « cette étude observationnelle prouve-t-elle quelque chose ? » · **Cross-refs** : 104, 1276, 547 · **Tags** : 2027
 
 ## 1388. 🧾 Faire une revue de litterature systematique (PRISMA)
 

@@ -208,7 +208,7 @@
 ## 691. 🎛️ Fine-tuning & personnalisation de modèle
 
 - **Fichier** : `skills/691-fine-tuning-personnalisation-de-modele.md` · **Mot-clé** : « fine-tuning » · **Nom court** : Fine-tuning
-- **Signal** : Fine-tuning, LoRA, QLoRA, entraîner un modèle sur ses données, spécialiser un LLM, distillation · **Synonymes** : « lora », « entraîner un modèle » · **Cross-refs** : 266, 689, 336 · **Tags** : —
+- **Signal** : Fine-tuning, LoRA, QLoRA, entraîner un modèle sur ses données, spécialiser un LLM, distillation · **Synonymes** : « lora », « entraîner un modèle », « fine-tuner un modèle sur notre ton de marque », « notre ton de marque » · **Cross-refs** : 266, 689, 336 · **Tags** : —
 
 ## 700. 🔍 Vérification des sorties IA (fact-checking)
 

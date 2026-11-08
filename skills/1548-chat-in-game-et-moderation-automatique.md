@@ -8,7 +8,7 @@ signal: "Ajouter un chat in-game en 2027 : chat texte (général/équipe/privé)
 mot_cle: "chat in-game filtre vulgarité anti-spam signalement mute ban vote"
 nom_court: "Chat in-game"
 branche: "D23"
-synonymes: ["filtrer les insultes automatiquement", "rate limit 1 message 2 secondes anti-spam", "signaler un joueur toxique → mute/ban vote"]
+synonymes: ["filtrer les insultes automatiquement", "rate limit 1 message 2 secondes anti-spam", "signaler un joueur toxique → mute/ban vote", "signalement 3 = mute 24h 10 = ban 7j"]
 cross_refs: [1490, 1543, 1587]
 tags: ["2027"]
 depends_on: [1543]

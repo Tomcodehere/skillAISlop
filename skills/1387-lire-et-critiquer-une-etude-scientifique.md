@@ -8,7 +8,7 @@ signal: "Lire une etude scientifique de maniere critique en 2027 : design de l'e
 mot_cle: "critiquer étude scientifique méthodologie biais p-value"
 nom_court: "Critique d'étude"
 branche: "D17"
-synonymes: ["lire un papier scientifique critique", "p-value intervalle de confiance expliqué", "biais de publication étude"]
+synonymes: ["lire un papier scientifique critique", "p-value intervalle de confiance expliqué", "biais de publication étude", "cette étude observationnelle prouve-t-elle quelque chose ?"]
 cross_refs: [104, 1276, 547]
 tags: ["2027"]
 depends_on: [104]

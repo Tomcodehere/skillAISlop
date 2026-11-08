@@ -10,6 +10,7 @@ nom_court: "SemVer"
 branche: "D15"
 synonymes: []
 cross_refs: [129, 183, 604]
+depends_on: [1840]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

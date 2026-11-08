@@ -8,7 +8,7 @@ signal: "Fine-tuning, LoRA, QLoRA, entraîner un modèle sur ses données, spéc
 mot_cle: "fine-tuning"
 nom_court: "Fine-tuning"
 branche: "D14"
-synonymes: ["lora", "entraîner un modèle"]
+synonymes: ["lora", "entraîner un modèle", "fine-tuner un modèle sur notre ton de marque", "notre ton de marque"]
 cross_refs: [266, 689, 336]
 depends_on: [266]
 ---

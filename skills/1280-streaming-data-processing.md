@@ -8,7 +8,7 @@ signal: "Concevoir, implémenter et opérer des pipelines de traitement de donn�
 mot_cle: "streaming-data-processing"
 nom_court: "Streaming Data Processing"
 branche: "D1"
-synonymes: ["traitement", "evenements", "temps"]
+synonymes: ["traitement", "evenements", "temps", "journal quêtes compteur 3/5 temps réel"]
 cross_refs: [576, 1121, 1099]
 tags: ["2027"]
 depends_on: [1121]

@@ -1803,6 +1803,106 @@
 | 1798 | DevEx : métriques SPACE + DORA et harness engineering | Gestion|
 | 1799 | Tech radar interne : quoi adopter, tester, évaluer, abandonner | Stratégie|
 | 1800 | AI Gateway : router et plafonner les appels LLM multi-fournisseurs | Data & IA|
+| 1801 | Gateway API : remplacer ingress-nginx | Développement|
+| 1802 | DRA : allocation dynamique des ressources matérielles (GPU, FPGA) | Développement|
+| 1803 | In-Place Pod Vertical Scaling : resizer les pods à chaud | Développement|
+| 1804 | Gang scheduling : ordonnancer les jobs distribués en bloc | Développement|
+| 1805 | Preemption workload-aware et scheduling topologique | Développement|
+| 1806 | Métriques PSI (Pressure Stall Information) : détecter la saturation | Data|
+| 1807 | OCI VolumeSource : monter des artifacts OCI comme volumes | Développement|
+| 1808 | MutatingAdmissionPolicy : admission déclarative en CEL | Sécurité|
+| 1809 | WebAssembly sur Kubernetes : pods Wasm (kwasm, SpinKube) | Développement|
+| 1810 | Karpenter : autoscaling de nœuds et consolidation | Développement|
+| 1811 | Choisir OpenTofu ou Terraform pour l'IaC | Développement|
+| 1812 | OpenTofu : chiffrement du state (state encryption) | Sécurité|
+| 1813 | OpenTofu : ephemeral values (secrets hors du state) | Sécurité|
+| 1814 | OpenTofu : prevent_destroy dynamique et lifecycle enabled | Développement|
+| 1815 | OpenTofu : provider for_each, early variable evaluation, -exclude | Développement|
+| 1816 | Registre de modules et providers en OCI (OpenTofu) | Développement|
+| 1817 | Terraform Stacks (HCP) : orchestration multi-environnements | Développement|
+| 1818 | Terraform query/list : découvrir les ressources hors du state (drift) | Développement|
+| 1819 | Migrer Terraform vers OpenTofu (state compatible) | Développement|
+| 1820 | Drift detection et policy as code sur l'IaC (OPA vs Sentinel) | Sécurité|
+| 1821 | SBOM en CI : Syft/Trivy vers CycloneDX ou SPDX | Sécurité|
+| 1822 | Signature keyless des artifacts avec Sigstore (cosign, Fulcio, Rekor) | Sécurité|
+| 1823 | Provenance SLSA et attestations in-toto | Sécurité|
+| 1824 | Admission control supply chain : bloquer les images non vérifiées | Sécurité|
+| 1825 | Attestations CycloneDX (CDXA) et bundles Sigstore | Sécurité|
+| 1826 | Triage des CVE avec VEX, KEV et re-scan post-build | Sécurité|
+| 1827 | Curation des dépendances : Socket, Phylum, Snyk, Scorecard, GUAC | Sécurité|
+| 1828 | Images distroless Chainguard : réduire la surface d'attaque | Sécurité|
+| 1829 | Build integrity en CI : OIDC, Tekton Chains, pas de secrets longue durée | Sécurité|
+| 1830 | SBOM et conformité réglementaire (CRA, contrats clients) | Juridique|
+| 1831 | Data contracts : accords producteur-consommateur (schéma, sémantique, SLA) | Data|
+| 1832 | OpenLineage : standard ouvert de lineage des données | Data|
+| 1833 | Marquez : backend de référence OpenLineage (lineage colonne, impact analysis) | Data|
+| 1834 | dbt : models, tests et contracts de schéma | Data|
+| 1835 | SLA de data quality : fraîcheur, volume, schéma, distribution | Data|
+| 1836 | Choisir son métacatalog : DataHub vs OpenMetadata vs Marquez | Data|
+| 1837 | Data mesh : domaines propriétaires et data products | Stratégie|
+| 1838 | Semantic layer : métriques métier centralisées | Data|
+| 1839 | Gouvernance data : classification, PII, accès RBAC/ABAC, rétention | Juridique|
+| 1840 | Data contracts as code : IDL, versioning, compatibilité backward | Développement|
+| 1841 | Architecture des guardrails LLM en production (5 rails) | Data & IA|
+| 1842 | NeMo Guardrails : rails programmables en Colang | Data & IA|
+| 1843 | Guardrails AI : validators composables en Python | Data & IA|
+| 1844 | Llama Guard 3 : classifieur judge self-hosté | Data & IA|
+| 1845 | Défense contre le prompt injection (direct et indirect) | Sécurité|
+| 1846 | Détection et redaction PII avec Microsoft Presidio | Sécurité|
+| 1847 | Red-teaming LLM en CI : promptfoo, garak, DeepTeam | Sécurité|
+| 1848 | Evals LLM en continu : datasets, scorers, monitoring prod | Data & IA|
+| 1849 | OWASP LLM Top 10 : les 10 risques LLM (édition courante) | Sécurité|
+| 1850 | Least-privilege pour les agents IA (tool-permission gating) | Sécurité|
+| 1851 | Secrets Kubernetes : base64 n'est pas du chiffrement | Sécurité|
+| 1852 | HashiCorp Vault : coffre-fort central des secrets | Sécurité|
+| 1853 | Vault dynamic secrets : credentials à durée de vie (TTL) | Sécurité|
+| 1854 | External Secrets Operator (ESO) : sync des secrets externes vers k8s | Sécurité|
+| 1855 | Rotation automatique des secrets (zero downtime) | Sécurité|
+| 1856 | Sealed Secrets (Bitnami) : secrets chiffrés dans Git (GitOps) | Sécurité|
+| 1857 | SOPS + age/KMS : chiffrer les fichiers de config hors cluster | Sécurité|
+| 1858 | Vault Agent Injector / CSI : secrets dans le pod sans objet Secret etcd | Sécurité|
+| 1859 | Détection de fuites de secrets (gitleaks, trufflehog) en pre-commit et CI | Sécurité|
+| 1860 | OIDC workload identity en CI : plus de clés cloud statiques | Sécurité|
+| 1861 | FOCUS : standard ouvert des coûts cloud multi-fournisseurs | Gestion|
+| 1862 | FinOps Kubernetes : allocation des coûts par namespace et workload | Gestion|
+| 1863 | Choisir son orchestrateur de pipelines data | Data|
+| 1864 | Dagster : orchestration asset-centric | Data|
+| 1865 | Prefect : flows Python natifs et déploiement léger | Data|
+| 1866 | CDC log-based : Debezium, Airbyte, capturer les changements en temps réel | Data|
+| 1867 | Airbyte : 300+ connecteurs, ingestion et CDC managés | Data|
+| 1868 | Temporal : workflows durables pour agents IA long-running | Développement|
+| 1869 | Pipelines event-driven : déclencher sur événement, pas sur cron | Data|
+| 1870 | Showback/chargeback : répartir les coûts par équipe et produit | Gestion|
+| 1871 | cert-manager : certificats TLS automatiques | Développement|
+| 1872 | external-dns : synchroniser automatiquement les enregistrements DNS | Développement|
+| 1873 | KEDA : autoscaling event-driven (Kafka, queues, cron, métriques) | Développement|
+| 1874 | Cluster API (CAPI) : gérer des clusters k8s comme des ressources k8s | Développement|
+| 1875 | Talos Linux : OS immutable pour Kubernetes | Développement|
+| 1876 | Service mesh : Linkerd vs Istio (vs Cilium mesh) | Développement|
+| 1877 | Argo Rollouts : canary avancé avec analysis Prometheus | Développement|
+| 1878 | Karpenter avancé : NodePool, consolidation, drift | Développement|
+| 1879 | GitOps avancé avec Argo CD : ApplicationSet, sync waves | Développement|
+| 1880 | Backup et reprise après sinistre Kubernetes (Velero, etcd) | Sécurité|
+| 1881 | Feature flags : kill switches, rollouts graduels, A/B tests | Développement|
+| 1882 | OpenFeature : SDK vendor-neutral pour les flags | Développement|
+| 1883 | Progressive delivery : flags vs canary vs blue-green | Développement|
+| 1884 | Renovate/Dependabot : dépendances à jour automatiquement | Développement|
+| 1885 | Quality gates : SonarQube, SAST, dette technique en CI | Développement|
+| 1886 | OpenAPI 3.2 / AsyncAPI : spec-first pour les API | Développement|
+| 1887 | Monorepo : Nx, Turborepo, Bazel (cache, affected, remote cache) | Développement|
+| 1888 | Métriques DORA elite : mesurer la performance de livraison | Gestion|
+| 1889 | Documentation développeur interne : TechDocs, doc-as-code | Développement|
+| 1890 | Revue de code assistée par IA + revue humaine ciblée | Développement|
+| 1891 | Choisir son EDR/XDR : CrowdStrike, SentinelOne, Defender, Cortex | Sécurité|
+| 1892 | XDR : corrélation cross-domain en une timeline d'incident | Sécurité|
+| 1893 | MDR : détection et réponse managées 24/7 (retainer) | Sécurité|
+| 1894 | Threat intelligence : MISP, STIX/TAXII, intégration SIEM | Sécurité|
+| 1895 | Sécurité DNS : DNSSEC, DoH/DoT, resolvers chiffrés | Sécurité|
+| 1896 | Passkeys (FIDO2/WebAuthn) : MFA phishing-resistant en masse | Sécurité|
+| 1897 | Incident response : retainer, forensics, playbooks, crise | Sécurité|
+| 1898 | DAST/IAST en CI : scanner les API et applis en exécution | Sécurité|
+| 1899 | Security champions : relais sécurité dans chaque équipe | Gestion|
+| 1900 | Bug bounty et VDP : recevoir et traiter les signalements de vulnérabilités | Sécurité|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -2538,6 +2638,6 @@
 | 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
 | 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1800 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1900 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---

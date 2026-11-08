@@ -1,4 +1,4 @@
-# Domaine : Gestion (112 skills)
+# Domaine : Gestion (117 skills)
 
 ## 15. 🗂️ Planificateur de projet
 
@@ -173,7 +173,7 @@
 ## 668. 🏢 Création de statut juridique
 
 - **Fichier** : `skills/668-creation-de-statut-juridique.md` · **Mot-clé** : « statut juridique » · **Nom court** : Statut juridique
-- **Signal** : Choisir son statut juridique, SASU, EURL, auto-entrepreneur, entreprise individuelle, création d'entreprise · **Synonymes** : « sasu », « eurl » · **Cross-refs** : 562, 588, 16 · **Tags** : —
+- **Signal** : Choisir son statut juridique, SASU, EURL, auto-entrepreneur, entreprise individuelle, création d'entreprise · **Synonymes** : « sasu », « eurl », « explique la différence entre SAS et SARL » · **Cross-refs** : 562, 588, 16 · **Tags** : —
 
 ## 710. 📊 Rapport hebdomadaire d'activité
 
@@ -559,4 +559,29 @@
 
 - **Fichier** : `skills/1798-devex-metriques-space-dora-et-harness-engineering.md` · **Mot-clé** : « DevEx 2027 SPACE Satisfaction Performance Activite Communication Efficacite DORA lead time MTTR harness engineering tech radar 2027 » · **Nom court** : DevEx SPACE+DORA
 - **Signal** : Mesurer la productivité développeur en 2027 SANS se tromper : le framework SPACE (Satisfaction, Performance, Activité, Communication, Efficacité — étude 2026) + les métriques DORA (lead time, fréquence de déploiement, MTTR, change failure rate). Le tech radar 2027 (ThoughtWorks vol. 34+) met en garde : les métriques d'adoption brutes (lignes de code, commits) sont de mauvais proxys ; le thème 'harness engineering' émerge (concevoir le harnais autour des agents de code 1735-1754). Utilise des check-ins en rétrospective, pas des dashboards vanity. · **Synonymes** : « framework SPACE pour mesurer la productivite dev (5 dimensions) », « DORA : lead time », « deploy frequency », « MTTR », « change failure rate », « harness engineering : concevoir le harnais des agents de code en 2027 » · **Cross-refs** : 1735, 1749, 1700 · **Tags** : 2027
+
+## 1861. 💰 FOCUS : standard ouvert des coûts cloud multi-fournisseurs
+
+- **Fichier** : `skills/1861-focus-standard-ouvert-des-couts-cloud-multi-fournisseurs.md` · **Mot-clé** : « FOCUS FinOps Open Cost Usage Specification standard factures cloud 65 colonnes EffectiveCost BilledCost multi-cloud AWS Azure GCP exports natifs 1.4 » · **Nom court** : FOCUS FinOps
+- **Signal** : Utiliser FOCUS (FinOps Open Cost & Usage Specification, FinOps Foundation/Linux Foundation) pour lire les factures cloud de façon standardisée : 65 colonnes normalisées (v1.2), EffectiveCost (analyse) vs BilledCost (facture), exports natifs AWS (Data Exports, GA nov.), Azure (Cost Management), GCP (BigQuery), OCI... FOCUS 1.4 ratifié le 4 juin, FOCUS 1.5 (tokens IA) prévu fin d'année. Une requête SQL marche sur tous les clouds. N'utilise pas les formats propriétaires (CUR AWS seul) pour du multi-cloud. · **Synonymes** : « lire la facture AWS et Azure avec la même requête SQL (FOCUS », « 65 colonnes standardisées) », « EffectiveCost pour l'analyse vs BilledCost pour la réconciliation facture », « exports FOCUS natifs : AWS Data Exports », « Azure Cost Management », « GCP BigQuery » · **Cross-refs** : 1862, 1870, 1800 · **Tags** : 2027
+
+## 1862. ⚙️ FinOps Kubernetes : allocation des coûts par namespace et workload
+
+- **Fichier** : `skills/1862-finops-kubernetes-allocation-des-couts-par-namespace-et-.md` · **Mot-clé** : « coût kubernetes par namespace workload OpenCost Kubecost CAST.ai allocation nœuds PVC egress requests réels VPA PSI rightsizing » · **Nom court** : Coût k8s
+- **Signal** : Allouer les coûts k8s (nœuds, PVC, trafic réseau) par namespace/label/workload avec OpenCost (CNCF, ex-Kubecost OSS) ou Kubecost/CAST.ai : cost modèle = nœuds (Karpenter 1810) + stockage + réseau egress, réparti selon requests/limits réels (pas déclarés). Rightsizing via VPA (1803) + PSI (1806). N'utilise pas les requests déclarés seuls (souvent surdimensionnés). · **Synonymes** : « combien coûte le namespace prod ce mois-ci ? (OpenCost/Kubecost allocation) », « mes requests sont à 30 % du réel : rightsizing VPA 1803 + PSI 1806 », « coût réseau egress entre namespaces (Cilium Hubble 1722) » · **Cross-refs** : 1861, 1870, 1803 · **Tags** : 2027
+
+## 1870. 📊 Showback/chargeback : répartir les coûts par équipe et produit
+
+- **Fichier** : `skills/1870-showback-chargeback-repartir-les-couts-par-equipe-et-pro.md` · **Mot-clé** : « showback chargeback répartition coûts équipe produit tags obligatoires FOCUS 1861 coûts k8s 1862 coûts IA gateway 1800 rapports CFO » · **Nom court** : Showback/chargeback
+- **Signal** : Passer de 'la facture cloud globale' au showback (rapport par équipe/produit, sans facturation interne) puis chargeback (refacturation interne réelle) : basé sur les tags/labels obligatoires (1820 policy), FOCUS (1861), coûts k8s alloués (1862), coûts IA via la gateway (1800). Rapports mensuels au CFO/comités. N'utilise pas sans tagging fiable (sinon 30 % de coûts non alloués). · **Synonymes** : « showback : montrer à chaque équipe sa conso cloud (rapport mensuel) », « chargeback : refacturer réellement en interne (budgets consommés) », « 30 % de coûts non alloués faute de tags : policy tags obligatoires (1820) » · **Cross-refs** : 1861, 1862, 1800 · **Tags** : 2027
+
+## 1888. 🥇 Métriques DORA elite : mesurer la performance de livraison
+
+- **Fichier** : `skills/1888-metriques-dora-elite-mesurer-la-performance-de-livraison.md` · **Mot-clé** : « DORA 4 métriques lead time fréquence déploiement MTTR change failure rate elite benchmark accélérateurs trunk-based 1404 CI 1413 qualité 1885 dashboard 1766 » · **Nom court** : DORA elite
+- **Signal** : Mesurer la performance de livraison avec les 4 métriques DORA (étalon 2026) : lead time (commit — prod, elite = inférieur à 1 jour), fréquence de déploiement (elite = on-demand, plusieurs/jour), MTTR (1758, elite = inférieur à 1 h), change failure rate (elite = 0-15 %). Benchmarks 2026 + accélérateurs (trunk-based 1404, CI rapide 1413, qualité 1885, déploiement 1418). Dashboard (1766) + revue mensuelle avec les équipes. N'utilise pas de métriques individuelles de 'productivité' (cf SPACE 1798). · **Synonymes** : « nos 4 métriques DORA vs le benchmark elite 2026 : où on se situe », « lead time inférieur à 1 jour », « deploy on-demand », « MTTR inférieur à 1 h », « change failure rate inférieur à 15 % (elite) », « DORA + SPACE 1798 : mesurer l'équipe sans surveillance individuelle » · **Cross-refs** : 1706, 1798, 1413 · **Tags** : 2027
+
+## 1899. 🏆 Security champions : relais sécurité dans chaque équipe
+
+- **Fichier** : `skills/1899-security-champions-relais-securite-dans-chaque-equipe.md` · **Mot-clé** : « security champions programme relais sécurité par équipe STRIDE conception formation 10 % temps canal dédié métriques menaces revues délai correction vulnérabilités » · **Nom court** : Security champions
+- **Signal** : Déployer un programme de security champions : 1 volontaire par équipe produit (pas un expert à plein temps), formé (OWASP, secure coding 1736), qui fait le relais RSSI inférieur à — équipe : revue des menaces (STRIDE) en conception, relai des alertes (1761), porte les bonnes pratiques (1885, 1859) au quotidien. Réunions mensuelles, canal dédié, reconnaissance. N'utilise pas sans temps alloué (ex. 10 % du temps) — sinon le rôle meurt. Métrique : % de menaces revues en conception, délai de correction des vulnérabilités. · **Synonymes** : « 1 security champion par équipe produit (10 % de son temps », « formé) : relais RSSI au quotidien », « revue de menaces STRIDE en conception avec le champion », « pas après coup », « métrique : % de features avec threat model fait avant le dev » · **Cross-refs** : 1736, 1885, 1859 · **Tags** : 2027
 

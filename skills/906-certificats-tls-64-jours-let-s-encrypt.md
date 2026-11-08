@@ -11,6 +11,7 @@ branche: "D16"
 synonymes: ["lets encrypt 2027"]
 cross_refs: [507, 512, 918]
 tags: ["2027"]
+depends_on: [1871]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

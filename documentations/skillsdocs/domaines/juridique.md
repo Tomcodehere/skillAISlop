@@ -1,4 +1,4 @@
-# Domaine : Juridique (83 skills)
+# Domaine : Juridique (85 skills)
 
 ## 16. ⚖️ Assistant juridique de premier niveau
 
@@ -414,4 +414,14 @@
 
 - **Fichier** : `skills/1689-eucs-certification-cloud-europeenne.md` · **Mot-clé** : « EUCS 2027 certification cloud européenne ENISA niveaux basic substantial high Gaia-X CADA » · **Nom court** : EUCS
 - **Signal** : Viser la certification EUCS (EU Cybersecurity Certification Scheme for Cloud Services) en 2027 : schéma européen de certification cloud (niveaux basic/substantial/high, basé sur les exigences ENISA), qui s'articule avec Gaia-X (1686) et le CADA (1685). Utilise pour choisir un cloud conforme pour le secteur public/santé/finance UE. N'utilise pas pour du cloud perso. · **Synonymes** : « certification EUCS du cloud en 2027 (niveaux basic/substantial/high) », « EUCS vs Gaia-X vs CADA : quel label viser ? », « cloud santé/finance UE : exiger EUCS high + Gaia-X N3 (1686) » · **Cross-refs** : 1685, 1686, 1459 · **Tags** : 2027
+
+## 1830. ⚖️ SBOM et conformité réglementaire (CRA, contrats clients)
+
+- **Fichier** : `skills/1830-sbom-et-conformite-reglementaire-cra-contrats-clients.md` · **Mot-clé** : « CRA Cyber Resilience Act SBOM conformité réglementaire 2027 contrats clients questionnaire sécurité VDP divulgation CVE CDXA » · **Nom court** : SBOM conformité
+- **Signal** : Préparer la conformité SBOM exigée par le Cyber Resilience Act (CRA, en vigueur progressivement) et les questionnaires clients sécurité : SBOM machine-readable (CycloneDX/SPDX) livré avec chaque release, VEX pour les CVE non applicables (1826), processus de divulgation vulnérabilités (VDP), preuves SSDF (CDXA 1825). Le CRA rend le SBOM quasi obligatoire pour les produits avec éléments numériques. N'utilise pas un SBOM obsolète ou incomplet pour un contrat. · **Synonymes** : « le CRA européen exige un SBOM pour notre produit : quoi livrer (CycloneDX + VEX + VDP) », « questionnaire client sécurité : fournir SBOM + attestations SSDF + processus VDP », « CRA en vigueur : calendrier et amendes si pas de SBOM/VDP » · **Cross-refs** : 1821, 1825, 1826 · **Tags** : 2027
+
+## 1839. 🛡 Gouvernance data : classification, PII, accès RBAC/ABAC, rétention
+
+- **Fichier** : `skills/1839-gouvernance-data-classification-pii-acces-rbac-abac-rete.md` · **Mot-clé** : « gouvernance data classification PII RGPD RBAC ABAC row-level security rétention legal hold masking DPIA registre traitements » · **Nom court** : Gouvernance data
+- **Signal** : Gouverner les données en 2027 : classification (public/interne/confidentiel/restreint), détection PII (email, téléphone, IBAN — cf 1440 pour les prompts), accès RBAC (rôles) ou ABAC (attributs : équipe, région, projet), row-level security (1788), rétention/légal hold, masking dynamique. Catalogue 1095 + tags PII. Conformité RGPD : registre des traitements, DPO, DPIA. N'utilise pas de rôles trop larges (accès 'all tables' en prod). · **Synonymes** : « classer les données (public/interne/confidentiel/restreint) et taguer les PII », « RBAC vs ABAC pour l'accès aux données (attributs équipe/région/projet) », « RGPD : registre des traitements + DPIA + rétention/légal hold » · **Cross-refs** : 1095, 1788, 1440 · **Tags** : 2027
 

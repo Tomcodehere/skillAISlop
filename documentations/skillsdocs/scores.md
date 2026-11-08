@@ -1,6 +1,6 @@
 # Scores de qualité des skills (/100)
 
-Moyenne globale : **100.0/100** sur 1800 skills · <70 : 0 · >=90 : 1800
+Moyenne globale : **100.0/100** sur 1900 skills · <70 : 0 · >=90 : 1900
 
 | Score | # | Skill | Détails |
 |---|---|---|---|
@@ -986,16 +986,116 @@ Moyenne globale : **100.0/100** sur 1800 skills · <70 : 0 · >=90 : 1800
 | 100 | 1799 | Tech radar interne : quoi adopter, tester, évaluer, abandonner | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 180 | Rédacteur de documentation d'API | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1800 | AI Gateway : router et plafonner les appels LLM multi-fournisseurs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1801 | Gateway API : remplacer ingress-nginx | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1802 | DRA : allocation dynamique des ressources matérielles (GPU, FPGA) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1803 | In-Place Pod Vertical Scaling : resizer les pods à chaud | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1804 | Gang scheduling : ordonnancer les jobs distribués en bloc | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1805 | Preemption workload-aware et scheduling topologique | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1806 | Métriques PSI (Pressure Stall Information) : détecter la saturation | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1807 | OCI VolumeSource : monter des artifacts OCI comme volumes | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1808 | MutatingAdmissionPolicy : admission déclarative en CEL | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1809 | WebAssembly sur Kubernetes : pods Wasm (kwasm, SpinKube) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 181 | Architecte de design system | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1810 | Karpenter : autoscaling de nœuds et consolidation | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1811 | Choisir OpenTofu ou Terraform pour l'IaC | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1812 | OpenTofu : chiffrement du state (state encryption) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1813 | OpenTofu : ephemeral values (secrets hors du state) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1814 | OpenTofu : prevent_destroy dynamique et lifecycle enabled | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1815 | OpenTofu : provider for_each, early variable evaluation, -exclude | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1816 | Registre de modules et providers en OCI (OpenTofu) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1817 | Terraform Stacks (HCP) : orchestration multi-environnements | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1818 | Terraform query/list : découvrir les ressources hors du state (drift) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1819 | Migrer Terraform vers OpenTofu (state compatible) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 182 | Concepteur de formulaires | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1820 | Drift detection et policy as code sur l'IaC (OPA vs Sentinel) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1821 | SBOM en CI : Syft/Trivy vers CycloneDX ou SPDX | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1822 | Signature keyless des artifacts avec Sigstore (cosign, Fulcio, Rekor) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1823 | Provenance SLSA et attestations in-toto | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1824 | Admission control supply chain : bloquer les images non vérifiées | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1825 | Attestations CycloneDX (CDXA) et bundles Sigstore | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1826 | Triage des CVE avec VEX, KEV et re-scan post-build | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1827 | Curation des dépendances : Socket, Phylum, Snyk, Scorecard, GUAC | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1828 | Images distroless Chainguard : réduire la surface d'attaque | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1829 | Build integrity en CI : OIDC, Tekton Chains, pas de secrets longue durée | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 183 | Gestionnaire de dépréciations | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1830 | SBOM et conformité réglementaire (CRA, contrats clients) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1831 | Data contracts : accords producteur-consommateur (schéma, sémantique, SLA) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1832 | OpenLineage : standard ouvert de lineage des données | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1833 | Marquez : backend de référence OpenLineage (lineage colonne, impact analysis) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1834 | dbt : models, tests et contracts de schéma | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1835 | SLA de data quality : fraîcheur, volume, schéma, distribution | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1836 | Choisir son métacatalog : DataHub vs OpenMetadata vs Marquez | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1837 | Data mesh : domaines propriétaires et data products | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1838 | Semantic layer : métriques métier centralisées | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1839 | Gouvernance data : classification, PII, accès RBAC/ABAC, rétention | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 184 | Trieur de tickets support | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1840 | Data contracts as code : IDL, versioning, compatibilité backward | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1841 | Architecture des guardrails LLM en production (5 rails) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1842 | NeMo Guardrails : rails programmables en Colang | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1843 | Guardrails AI : validators composables en Python | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1844 | Llama Guard 3 : classifieur judge self-hosté | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1845 | Défense contre le prompt injection (direct et indirect) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1846 | Détection et redaction PII avec Microsoft Presidio | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1847 | Red-teaming LLM en CI : promptfoo, garak, DeepTeam | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1848 | Evals LLM en continu : datasets, scorers, monitoring prod | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1849 | OWASP LLM Top 10 : les 10 risques LLM (édition courante) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 185 | Priorisateur de backlog | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1850 | Least-privilege pour les agents IA (tool-permission gating) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1851 | Secrets Kubernetes : base64 n'est pas du chiffrement | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1852 | HashiCorp Vault : coffre-fort central des secrets | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1853 | Vault dynamic secrets : credentials à durée de vie (TTL) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1854 | External Secrets Operator (ESO) : sync des secrets externes vers k8s | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1855 | Rotation automatique des secrets (zero downtime) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1856 | Sealed Secrets (Bitnami) : secrets chiffrés dans Git (GitOps) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1857 | SOPS + age/KMS : chiffrer les fichiers de config hors cluster | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1858 | Vault Agent Injector / CSI : secrets dans le pod sans objet Secret etcd | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1859 | Détection de fuites de secrets (gitleaks, trufflehog) en pre-commit et CI | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 186 | Planificateur de tracking analytics | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1860 | OIDC workload identity en CI : plus de clés cloud statiques | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1861 | FOCUS : standard ouvert des coûts cloud multi-fournisseurs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1862 | FinOps Kubernetes : allocation des coûts par namespace et workload | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1863 | Choisir son orchestrateur de pipelines data | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1864 | Dagster : orchestration asset-centric | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1865 | Prefect : flows Python natifs et déploiement léger | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1866 | CDC log-based : Debezium, Airbyte, capturer les changements en temps réel | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1867 | Airbyte : 300+ connecteurs, ingestion et CDC managés | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1868 | Temporal : workflows durables pour agents IA long-running | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1869 | Pipelines event-driven : déclencher sur événement, pas sur cron | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 187 | Préparateur d'interviews utilisateurs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1870 | Showback/chargeback : répartir les coûts par équipe et produit | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1871 | cert-manager : certificats TLS automatiques | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1872 | external-dns : synchroniser automatiquement les enregistrements DNS | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1873 | KEDA : autoscaling event-driven (Kafka, queues, cron, métriques) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1874 | Cluster API (CAPI) : gérer des clusters k8s comme des ressources k8s | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1875 | Talos Linux : OS immutable pour Kubernetes | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1876 | Service mesh : Linkerd vs Istio (vs Cilium mesh) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1877 | Argo Rollouts : canary avancé avec analysis Prometheus | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1878 | Karpenter avancé : NodePool, consolidation, drift | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1879 | GitOps avancé avec Argo CD : ApplicationSet, sync waves | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 188 | Synthétiseur de recherche utilisateur | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1880 | Backup et reprise après sinistre Kubernetes (Velero, etcd) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1881 | Feature flags : kill switches, rollouts graduels, A/B tests | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1882 | OpenFeature : SDK vendor-neutral pour les flags | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1883 | Progressive delivery : flags vs canary vs blue-green | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1884 | Renovate/Dependabot : dépendances à jour automatiquement | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1885 | Quality gates : SonarQube, SAST, dette technique en CI | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1886 | OpenAPI 3.2 / AsyncAPI : spec-first pour les API | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1887 | Monorepo : Nx, Turborepo, Bazel (cache, affected, remote cache) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1888 | Métriques DORA elite : mesurer la performance de livraison | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1889 | Documentation développeur interne : TechDocs, doc-as-code | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 189 | Anonymisateur de données (RGPD) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1890 | Revue de code assistée par IA + revue humaine ciblée | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1891 | Choisir son EDR/XDR : CrowdStrike, SentinelOne, Defender, Cortex | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1892 | XDR : corrélation cross-domain en une timeline d'incident | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1893 | MDR : détection et réponse managées 24/7 (retainer) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1894 | Threat intelligence : MISP, STIX/TAXII, intégration SIEM | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1895 | Sécurité DNS : DNSSEC, DoH/DoT, resolvers chiffrés | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1896 | Passkeys (FIDO2/WebAuthn) : MFA phishing-resistant en masse | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1897 | Incident response : retainer, forensics, playbooks, crise | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1898 | DAST/IAST en CI : scanner les API et applis en exécution | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1899 | Security champions : relais sécurité dans chaque équipe | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 190 | Rédacteur de documents de conformité | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1900 | Bug bounty et VDP : recevoir et traiter les signalements de vulnérabilités | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 191 | Détecteur de fraudes & anomalies de logs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 192 | Modérateur de communauté | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 193 | Rédacteur de charte IA d'entreprise | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |

@@ -8,7 +8,7 @@ signal: "Choisir son statut juridique, SASU, EURL, auto-entrepreneur, entreprise
 mot_cle: "statut juridique"
 nom_court: "Statut juridique"
 branche: "D29"
-synonymes: ["sasu", "eurl"]
+synonymes: ["sasu", "eurl", "explique la différence entre SAS et SARL"]
 cross_refs: [562, 588, 16]
 depends_on: [562]
 ---

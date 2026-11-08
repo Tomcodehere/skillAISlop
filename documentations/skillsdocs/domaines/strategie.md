@@ -1,4 +1,4 @@
-# Domaine : Stratégie (19 skills)
+# Domaine : Stratégie (20 skills)
 
 ## 57. 🧮 Business Model Canvas
 
@@ -94,4 +94,9 @@
 
 - **Fichier** : `skills/1799-tech-radar-interne-quoi-adopter-tester-evaluer-abandonne.md` · **Mot-clé** : « tech radar interne 2027 ThoughtWorks Adopt Trial Assess Hold blips quadrants revue semestrielle 2027 » · **Nom court** : Tech radar interne
 - **Signal** : Maintenir un tech radar interne en 2027 inspiré du ThoughtWorks Technology Radar (vol. 34+, avril 2026) : chaque technologie/technique est un 'blip' placé dans 4 anneaux — Adopt (l'utiliser), Trial (l'essayer en projet pilote), Assess (l'évaluer), Hold (ne plus investir) — et 4 quadrants (langages, outils, plateformes, techniques). Revue semestrielle avec les leads. Utilise pour éviter le 'shiny object syndrome' et tracer les décisions. N'utilise pas comme dogme : le radar reflète l'expérience de l'équipe, pas une analyse de marché exhaustive. · **Synonymes** : « mon radar interne : anneaux Adopt/Trial/Assess/Hold comme ThoughtWorks », « blip 'edge computing' passe de Trial a Adopt en 2027 », « revue semestrielle du radar avec les leads tech », « decisions tracees » · **Cross-refs** : 1798, 1700, 1770 · **Tags** : 2027
+
+## 1837. 🕵️ Data mesh : domaines propriétaires et data products
+
+- **Fichier** : `skills/1837-data-mesh-domaines-proprietaires-et-data-products.md` · **Mot-clé** : « data mesh domaines propriétaires data products self-serve fédération gouvernance Zhamak Dehghani plateforme » · **Nom court** : Data mesh
+- **Signal** : Passer au data mesh (Zhamak Dehghani) quand le modèle centralisé data team bottleneck : domaines métier propriétaires de leurs données, exposées comme des data products (contrat 1831, SLA 1835, discoverable via catalog 1836, self-serve infra platform), fédération de gouvernance (PII, standards). Pas pour inférieur à 20 personnes data ou un seul domaine. N'utilise pas sans plateforme self-serve (sinon ça crée du chaos, pas de la fédération). · **Synonymes** : « passer au data mesh : domaines métier propriétaires de leurs data products », « data product : contrat 1831 + SLA 1835 + discoverable (catalog 1836) + self-serve », « ne pas faire de data mesh sans plateforme self-serve (risque de chaos) » · **Cross-refs** : 1831, 1835, 1836 · **Tags** : 2027
 

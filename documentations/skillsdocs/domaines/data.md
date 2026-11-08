@@ -1,4 +1,4 @@
-# Domaine : Data (79 skills)
+# Domaine : Data (93 skills)
 
 ## 13. 📊 Analyste de données
 
@@ -394,4 +394,74 @@
 
 - **Fichier** : `skills/1789-plan-de-migration-vers-postgresql-18-19-tests-pgbench-ro.md` · **Mot-clé** : « migrer vers PG18 PG19 2027 pg_upgrade --check recette tests regression pgbench rollback plan 1 semaine » · **Nom court** : Migration PG18/19
 - **Signal** : Mener une migration PG (16 vers 18 ou 18 vers 19 RC) en 2027 de maniere sûre : (1) pg_upgrade --check, (2) environnement de recette identique, tests de regression applicatifs + pgbench (workload reel), (3) pg_upgrade --swap en fenetre de maintenance (1787), (4) rollback = ancien cluster conserve 1 semaine. N'utilise pas en prod sans recette et sans rollback teste. · **Synonymes** : « plan de migration PG16 vers PG18 : check recette pgbench swap rollback », « pg_upgrade --check avant toute montee de version », « rollback : garder l'ancien cluster 1 semaine apres le swap 1787 » · **Cross-refs** : 1780, 1787, 1758 · **Tags** : 2027
+
+## 1806. 📈 Métriques PSI (Pressure Stall Information) : détecter la saturation
+
+- **Fichier** : `skills/1806-metriques-psi-pressure-stall-information-detecter-la-sat.md` · **Mot-clé** : « PSI Pressure Stall Information métriques kubelet saturation CPU mémoire IO some avg10 k8s 1.36 GA » · **Nom court** : PSI metrics
+- **Signal** : Lire les métriques PSI (Pressure Stall Information, GA dans k8s 1.36) exposées par le kubelet : quelque chose 'stall' quand une ressource manque (CPU, mémoire, IO) — some/avg10/total. Détecte la saturation AVANT le OOMKill ou le throttle CPU. Alertes : cpu some avg10 supérieur à 5 % sur 10 min = saturation. N'utilise pas pour remplacer les métriques applicatives (1753), c'est le niveau nœud. · **Synonymes** : « pourquoi mes pods sont lents sans OOM : lire le PSI (pressure stall) du nœud », « cpu some avg10 supérieur à 5 % alerte saturation PSI », « PSI mémoire IO aussi », « pas que le CPU » · **Cross-refs** : 1416, 1753, 1803 · **Tags** : 2027
+
+## 1831. 📝 Data contracts : accords producteur-consommateur (schéma, sémantique, SLA)
+
+- **Fichier** : `skills/1831-data-contracts-accords-producteur-consommateur-schema-se.md` · **Mot-clé** : « data contract producteur consommateur schéma sémantique SLA fraîcheur enforcement dbt Great Expectations Soda versionné » · **Nom court** : Data contracts
+- **Signal** : Rédiger des data contracts entre producteurs et consommateurs de données : schéma (types, nullabilité), sémantique (définitions métier), SLA (fraîcheur, volume, disponibilité), gouvernance (propriétaire, rétention, PII). Enforcement au pipeline (dbt tests, Great Expectations, Soda) + lisible par les agents IA (MCP dbt 1765). 70 % des orgs adoptent la data quality moderne d'ici là (Gartner). N'utilise pas un contrat non versionné (il casse les consommateurs silencieusement). · **Synonymes** : « rédiger un data contract : schéma + sémantique + SLA entre producteur et consommateur », « enforcement du contrat au pipeline (dbt tests », « GX », « Soda) : violation = blocage », « contrat lisible par les agents IA (MCP dbt) pour éviter les hallucinations de sens » · **Cross-refs** : 1095, 1834, 1835 · **Tags** : 2027
+
+## 1832. 🧭 OpenLineage : standard ouvert de lineage des données
+
+- **Fichier** : `skills/1832-openlineage-standard-ouvert-de-lineage-des-donnees.md` · **Mot-clé** : « OpenLineage standard ouvert lineage événements jobs Airflow dbt Spark Flink Dagster Snowflake BigQuery LFAI Data » · **Nom court** : OpenLineage
+- **Signal** : Instrumenter les pipelines avec OpenLineage (standard ouvert LFAI&Data, Linux Foundation) : chaque job émet des événements (start/complete/fail) avec inputs/outputs/run — collectés en temps réel par Airflow, dbt, Spark, Flink, Dagster, Snowflake, BigQuery. Indépendant du outil de visualisation (Marquez 1833, DataHub 1836). N'utilise pas un format propriétaire de lineage (vendor lock-in). · **Synonymes** : « instrumenter mes pipelines avec OpenLineage (events start/complete », « inputs/outputs) », « OpenLineage vs format propriétaire : standard ouvert Linux Foundation », « activer OpenLineage dans dbt/Airflow/Dagster/Spark en 2027 » · **Cross-refs** : 1833, 1836, 1863 · **Tags** : 2027
+
+## 1833. 🌊 Marquez : backend de référence OpenLineage (lineage colonne, impact analysis)
+
+- **Fichier** : `skills/1833-marquez-backend-de-reference-openlineage-lineage-colonne.md` · **Mot-clé** : « Marquez OpenLineage backend référence UI lineage colonne column-level analyse impact API REST Postgres » · **Nom court** : Marquez
+- **Signal** : Déployer Marquez (implémentation de référence OpenLineage) comme backend de lineage : API + UI pour stocker, versionner et visualiser les événements, lineage au niveau COLONNE (pas que table), analyse d'impact (qui est affecté si je change cette colonne ?). Cas : incident 'revenue -11 %' — remonter à la colonne coupable en minutes. UI web + API REST + persistance Postgres. · **Synonymes** : « déployer Marquez (backend OpenLineage) : UI + API pour le lineage », « lineage au niveau colonne (pas que table) : qui consomme cette colonne ? », « incident revenue -11 % : analyse d'impact avec Marquez en minutes » · **Cross-refs** : 1832, 1836, 1095 · **Tags** : 2027
+
+## 1834. 🧱 dbt : models, tests et contracts de schéma
+
+- **Fichier** : `skills/1834-dbt-models-tests-et-contracts-de-schema.md` · **Mot-clé** : « dbt models tests schema.yml contracts data_type enforcement singular tests snapshots SCD2 dbt Fusion docs generate » · **Nom court** : dbt
+- **Signal** : Modéliser et tester avec dbt en 2027 : models SQL (ref), tests intégrés (unique, not_null, relationships, accepted_values) + tests custom (singular), contracts de schéma (schema.yml : columns avec data_type + contraintes, enforcement à l'exécution — violation = fail), docs auto (docs.generate), snapshots (SCD2), dbt Fusion (moteur Rust, plus rapide). N'utilise pas de tests génériques seuls : ajouter des tests métier (singular) sur les règles métier. · **Synonymes** : « contrat de schéma dbt (schema.yml columns data_type) : violation = fail à l'exécution », « tests dbt : unique not_null relationships accepted_values + tests custom singular métier », « dbt Fusion (moteur Rust) : parse 10x plus rapide sur les gros projets » · **Cross-refs** : 1831, 1835, 1832 · **Tags** : 2027
+
+## 1835. ⏱️ SLA de data quality : fraîcheur, volume, schéma, distribution
+
+- **Fichier** : `skills/1835-sla-de-data-quality-fraicheur-volume-schema-distribution.md` · **Mot-clé** : « SLA data quality fraîcheur volume schéma distribution Monte Carlo Soda Great Expectations dbt tests alerte dépassement » · **Nom court** : SLA data quality
+- **Signal** : Définir des SLA de data quality mesurés en continu : fraîcheur (âge max des données), volume (nb de lignes attendu +/- tolérance), schéma (colonnes présentes/types), distribution (valeurs dans les bornes). Outils : Monte Carlo, Soda, Great Expectations, dbt tests (1834). Alertes sur dépassement (1761). Un SLA non mesuré = pas de SLA. N'utilise pas que 'le pipeline a run' (ça ne dit pas que les données sont bonnes). · **Synonymes** : « SLA fraîcheur : alerte si la table a plus de 1 h de retard », « volume : alerte si nb lignes inférieur à 80 % de la médiane hebdo », « distribution : alerte si une valeur sort des bornes historiques » · **Cross-refs** : 1834, 1831, 1699 · **Tags** : 2027
+
+## 1836. 🗺️ Choisir son métacatalog : DataHub vs OpenMetadata vs Marquez
+
+- **Fichier** : `skills/1836-choisir-son-metacatalog-datahub-vs-openmetadata-vs-marqu.md` · **Mot-clé** : « choisir métacatalog DataHub OpenMetadata Marquez Amundsen archivé glossaire ownership gouvernance PII lineage » · **Nom court** : Métacatalog
+- **Signal** : Choisir l'outil de catalogage/lineage en 2027 : Marquez (1833) = backend OpenLineage pur (léger, standard ouvert) ; DataHub (LinkedIn, acq. 2023) = riche (glossaire, ownership, qualité, recherche) mais modèle propriétaire ; OpenMetadata = riche aussi (open source, lineage + qualité + gouvernance, Rembrandt UI), Amundsen archivé (sept. 2026). Règle : lineage technique = OpenLineage+Marquez ; gouvernance métier (glossaire, owners, PII) = OpenMetadata ou DataHub. · **Synonymes** : « DataHub vs OpenMetadata vs Marquez : lequel pour le catalogage data », « Amundsen archivé sept 2026 : migrer vers quoi », « lineage technique (Marquez/OpenLineage) vs gouvernance métier (OpenMetadata/DataHub) » · **Cross-refs** : 1832, 1833, 1095 · **Tags** : 2027
+
+## 1838. 📐 Semantic layer : métriques métier centralisées
+
+- **Fichier** : `skills/1838-semantic-layer-metriques-metier-centralisees.md` · **Mot-clé** : « semantic layer métriques métier définition unique dbt Semantic Layer LookML Cube Metabase agents IA MCP SQL warehouse » · **Nom court** : Semantic layer
+- **Signal** : Centraliser les définitions métier des métriques dans une semantic layer (dbt Semantic Layer, LookML, Cube, Metabase models) pour que 'revenu net' ait UNE définition partout (BI, notebooks, agents IA) — fini les 5 chiffres différents selon l'outil. La couche sémantique traduit la métrique en SQL sur le warehouse. Les agents IA la consomment via MCP (1765) pour répondre juste. N'utilise pas si les définitions métier ne sont pas validées (garbage in). · **Synonymes** : « une seule définition de 'revenu net' partout (semantic layer dbt/LookML/Cube) », « les agents IA consomment les métriques via MCP (1765) : définition sémantique fiable », « éviter 5 chiffres différents pour la même métrique selon l'outil BI » · **Cross-refs** : 1834, 1765, 1831 · **Tags** : 2027
+
+## 1863. 🎭 Choisir son orchestrateur de pipelines data
+
+- **Fichier** : `skills/1863-choisir-son-orchestrateur-de-pipelines-data.md` · **Mot-clé** : « choisir orchestrateur data Airflow 3.2 Dagster Prefect Temporal Kestra asset-centric DAG Prefect rachète Dagster juillet comparaison » · **Nom court** : Choisir orchestrateur
+- **Signal** : Choisir l'orchestrateur en 2027 : Apache Airflow 3.2 (asset partitioning, le plus safe/écosystème) vs Dagster (@asset, asset-centric, tests locaux) vs Prefect (@flow/@task Python natif — a racheté Dagster Labs le 13 juillet, les deux produits continuent) vs Temporal (workflows durables long-running, pour agents IA) vs Kestra. Critères : modèle (DAG vs assets vs code), hébergement (self vs cloud), coût (Airflow = 5 processus mini, Prefect Cloud = à l'usage). N'utilise pas 3 orchestrateurs en même temps. · **Synonymes** : « Airflow 3.2 vs Dagster vs Prefect en 2027 : lequel choisir », « Prefect a racheté Dagster Labs (13 juillet) : les deux continuent », « risque roadmap », « Temporal pour les workflows long-running des agents IA (durable execution) » · **Cross-refs** : 1864, 1865, 1868 · **Tags** : 2027
+
+## 1864. 🧩 Dagster : orchestration asset-centric
+
+- **Fichier** : `skills/1864-dagster-orchestration-asset-centric.md` · **Mot-clé** : « Dagster @asset asset-centric matérialiser data asset dépendances fraîcheur stale lineage OpenLineage tests locaux pytest footprint » · **Nom court** : Dagster
+- **Signal** : Modéliser les pipelines avec Dagster en pensant ASSETS (données produites), pas tâches : @asset matérialise une table/fichier/modèle avec ses dépendances en arguments ; Dagster calcule le plan d'exécution, track la fraîcheur (stale), fait du lineage (OpenLineage 1832) et des tests locaux natifs (pytest sur les assets). Footprint : webserver + daemon + Postgres (3 services vs 5+ pour Airflow). Attention : Prefect a racheté Dagster Labs (juillet) — surveiller la roadmap. · **Synonymes** : « @asset Dagster : matérialiser une table avec ses dépendances en arguments », « tester un asset localement (pytest) avant de le déployer », « Dagster UI : voir quels assets sont stale (pas matérialisés à temps) » · **Cross-refs** : 1863, 1832, 1833 · **Tags** : 2027
+
+## 1865. 🌊 Prefect : flows Python natifs et déploiement léger
+
+- **Fichier** : `skills/1865-prefect-flows-python-natifs-et-deploiement-leger.md` · **Mot-clé** : « Prefect @flow @task Python natif workflow code retries caching Prefect Cloud worker self-host rachat Dagster Labs juillet » · **Nom court** : Prefect
+- **Signal** : Orchestrer avec Prefect en Python natif : @flow et @task (décorateurs), pas de fichier DAG séparé — le code EST le workflow, avec retries, caching, branching dynamique. Déploiement : Prefect Cloud (managé, ~50 $/M actions) ou self-host (worker + serveur). Idéal pour les équipes Python-heavy qui trouvent Airflow lourd. Attention : Prefect a racheté Dagster Labs (juillet) — évaluer le risque roadmap avant nouveau projet (1863). · **Synonymes** : « @flow @task Prefect : le pipeline en pur Python (pas de DAG YAML) », « Prefect Cloud vs self-host (worker + serveur) : coût à l'usage ~50 $/M actions », « Prefect rachète Dagster Labs : évaluer le risque avant nouveau projet » · **Cross-refs** : 1863, 1864, 1869 · **Tags** : 2027
+
+## 1866. 🔄 CDC log-based : Debezium, Airbyte, capturer les changements en temps réel
+
+- **Fichier** : `skills/1866-cdc-log-based-debezium-airbyte-capturer-les-changements-.md` · **Mot-clé** : « CDC change data capture log-based Debezium Kafka Airbyte 300 connecteurs Fivetran BladePipe temps réel journal transactions polling updated_at » · **Nom court** : CDC
+- **Signal** : Capturer les changements de BDD en temps réel (CDC) en lisant le journal de transactions (pas de polling) : Debezium (puriste, sur Kafka, contrôle fin) vs Airbyte (embarque Debezium, 300+ connecteurs, sync incremental/CDC, intégration Airflow/Dagster 1863/1864) vs Fivetran/BladePipe (managé, plus simple). Latence : secondes à minutes. N'utilise pas de polling updated_at (rate les deletes et les updates). · **Synonymes** : « capturer les INSERT/UPDATE/DELETE d'une BDD en temps réel (CDC log-based », « pas de polling) », « Debezium sur Kafka vs Airbyte (embarque Debezium) vs Fivetran managé », « le polling updated_at rate les DELETE : passer au CDC » · **Cross-refs** : 1867, 1863, 1864 · **Tags** : 2027
+
+## 1867. 🌬️ Airbyte : 300+ connecteurs, ingestion et CDC managés
+
+- **Fichier** : `skills/1867-airbyte-300-connecteurs-ingestion-et-cdc-manages.md` · **Mot-clé** : « Airbyte 300+ connecteurs ingestion CDC Debezium embarqué open source Cloud marketplace Airflow Dagster assets 1866 » · **Nom court** : Airbyte
+- **Signal** : Utiliser Airbyte pour l'ingestion de données : 300+ connecteurs (SaaS, BDD, APIs, fichiers), mode batch ou CDC (embarque Debezium 1866), 600+ sur la marketplace cloud, UI simple, open source (self-host) ou Cloud managé. Intégrations natives Airflow/Dagster (syncs = assets 1864). N'utilise pas un connecteur custom quand un natif existe. · **Synonymes** : « ingérer Salesforce/Postgres/S3 dans le warehouse : Airbyte (300+ connecteurs) », « Airbyte self-host vs Cloud : OSS ou managé », « Airbyte + Dagster : les syncs Airbyte deviennent des assets (1864) » · **Cross-refs** : 1866, 1863, 1864 · **Tags** : 2027
+
+## 1869. 📨 Pipelines event-driven : déclencher sur événement, pas sur cron
+
+- **Fichier** : `skills/1869-pipelines-event-driven-declencher-sur-evenement-pas-sur-.md` · **Mot-clé** : « pipelines event-driven capteurs sensors Airflow 3.2 asset events Dagster déclenchement sur événement S3 Kafka webhook pas de cron » · **Nom court** : Event-driven
+- **Signal** : Passer des pipelines cron (toutes les heures 'au cas où') aux pipelines event-driven : déclenchement sur événement réel (fichier arrivé en S3, message Kafka, webhook, asset amont matérialisé — Airflow 3.2 asset events, Dagster sensors 1864). Gain : fraîcheur meilleure, moins de runs vides (coût), données toujours à jour. N'utilise pas le cron seul pour les données temps réel (CDC 1866 + events). · **Synonymes** : « déclencher le pipeline quand le fichier arrive en S3 (sensor/event) », « pas toutes les heures en cron », « Airflow 3.2 asset events : un DAG se déclenche quand l'asset amont est prêt », « moins de runs vides : event-driven vs cron (coût + fraîcheur) » · **Cross-refs** : 1863, 1864, 1866 · **Tags** : 2027
 

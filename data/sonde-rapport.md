@@ -1,6 +1,6 @@
 # Sonde de couverture
 
-Total 2194 sujets · Couverts 2194 (100%) · Partiels 0 · Gaps 0
+Total 2294 sujets · Couverts 2294 (100%) · Partiels 0 · Gaps 0
 
 ## Gaps (aucune candidate)
 

@@ -10,6 +10,7 @@ nom_court: "Métriques"
 branche: "D17"
 synonymes: []
 cross_refs: [36, 107, 343]
+depends_on: [1838]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

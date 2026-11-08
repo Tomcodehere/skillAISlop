@@ -10,6 +10,7 @@ nom_court: "Chiffrement"
 branche: "D23"
 synonymes: ["chiffrement", "tls"]
 cross_refs: [189, 306, 447]
+depends_on: [1812]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

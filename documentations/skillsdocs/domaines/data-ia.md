@@ -1,4 +1,4 @@
-# Domaine : Data & IA (57 skills)
+# Domaine : Data & IA (62 skills)
 
 ## 35. 🔗 Pipeline de recommandation
 
@@ -284,4 +284,29 @@
 
 - **Fichier** : `skills/1800-ai-gateway-router-et-plafonner-les-appels-llm-multi-four.md` · **Mot-clé** : « AI gateway LLM gateway 2027 LiteLLM Bifrost Portkey Kong Cloudflare routing fallback cache sémantique budget clé virtuelle chargeback » · **Nom court** : AI Gateway
 - **Signal** : Mettre en place une AI Gateway en 2027 devant les fournisseurs LLM : point unique compatible API OpenAI avec routing, fallback, cache sémantique (-20 à 40 % de dépenses sur workloads répétitifs), budgets par clé/équipe et chargeback. Options : LiteLLM (self-host, 100+ providers, clés virtuelles, budgets OSS), Bifrost (Go, 11 µs d'overhead à 5 000 RPS), Portkey (guardrails, cache sémantique, PII), Kong AI Gateway (LLM+MCP+A2A), Cloudflare AI Gateway (gratuit, spend limits en dollars depuis juin 2026 avec fallback dynamique), Vercel, OpenRouter (managé, ~5,5 % de frais). Utilise dès 2 fournisseurs ou des données sensibles. N'utilise pas pour un seul appel ponctuel (overkill). · **Synonymes** : « mettre une gateway LLM devant mes appels IA (LiteLLM Bifrost Portkey Kong Cloudflare) », « plafonner la conso tokens IA par équipe : budget spend limit clés virtuelles », « cache sémantique gateway LLM : moins 20 à 40 % de dépenses sur requêtes répétées » · **Cross-refs** : 1750, 1765, 1767 · **Tags** : 2027
+
+## 1841. 🛡️ Architecture des guardrails LLM en production (5 rails)
+
+- **Fichier** : `skills/1841-architecture-des-guardrails-llm-en-production-5-rails.md` · **Mot-clé** : « guardrails LLM prod 5 rails input dialog retrieval execution output sync async latence tool-permission gating » · **Nom court** : 5 rails guardrails
+- **Signal** : Architecturer les guardrails LLM en prod autour de 5 rails : input (validation/rejet des prompts suspects), dialog (flux de conversation contrôlés), retrieval (contenu RAG filtré avant contexte), execution (tool-permission gating : quels outils l'agent peut appeler), output (filtrage des réponses : toxicité, off-policy, format). Sync (bloquant) pour la sécurité, async (monitoring) pour l'amélioration. N'utilise pas un seul rail 'output' (trop tard) ni 100 % sync (latence +400 à 1200 ms). · **Synonymes** : « les 5 rails de guardrails LLM : input », « dialog », « retrieval », « execution », « output », « guardrail sync bloquant vs async monitoring : latence +400-1200 ms en sync », « tool-permission gating : quels outils l'agent peut appeler (rail execution) » · **Cross-refs** : 1842, 1843, 1844 · **Tags** : 2027
+
+## 1842. 🧨 NeMo Guardrails : rails programmables en Colang
+
+- **Fichier** : `skills/1842-nemo-guardrails-rails-programmables-en-colang.md` · **Mot-clé** : « NeMo Guardrails NVIDIA Colang DSL rails programmables jailbreak self-check beta disclaimer prod hardening » · **Nom court** : NeMo Guardrails
+- **Signal** : Utiliser NVIDIA NeMo Guardrails (Apache 2.0) pour des rails programmables en Colang (DSL) : définir les flux de dialogue autorisés, jailbreak heuristics, self-check, intégration LlamaGuard/Presidio. ATTENTION : NVIDIA déconseille la prod 'as-is' (beta) — hardening requis (rate limiting, isolation, tests adversariaux 1847). Telemetry : ping anonyme à NVIDIA (désactivable). N'utilise pas sans le disclaimer beta pris en compte. · **Synonymes** : « définir les flux de conversation autorisés en Colang (NeMo Guardrails) », « NeMo Guardrails est beta : NVIDIA déconseille la prod as-is (hardening requis) », « désactiver la télémétrie anonyme NeMo (ping NVIDIA) » · **Cross-refs** : 1841, 1844, 1846 · **Tags** : 2027
+
+## 1843. 🧩 Guardrails AI : validators composables en Python
+
+- **Fichier** : `skills/1843-guardrails-ai-validators-composables-en-python.md` · **Mot-clé** : « Guardrails AI validators Python composables JSON schema PII redaction toxicité vérification faits sans LLM judge latence » · **Nom court** : Guardrails AI
+- **Signal** : Composer des guardrails avec Guardrails AI (Apache 2.0) : bibliothèque de validators réutilisables en Python sur input ET output — validation JSON schema (1427), détection PII/redaction, toxicité, vérification de faits, regex. S'exécute dans le code (pas de LLM judge à chaque requête = pas de latence +400 ms). N'utilise pas pour la logique conversationnelle multi-tours (voir NeMo 1842). · **Synonymes** : « valider la sortie JSON de mon LLM avec un schéma (Guardrails AI », « pas de LLM judge) », « redacter les PII dans la réponse (validator Guardrails AI) », « guardrails sans latence +400 ms : validators en code », « pas de LLM judge » · **Cross-refs** : 1841, 1427, 1846 · **Tags** : 2027
+
+## 1844. 🦸️ Llama Guard 3 : classifieur judge self-hosté
+
+- **Fichier** : `skills/1844-llama-guard-3-classifieur-judge-self-hoste.md` · **Mot-clé** : « Llama Guard 3 Meta classifieur judge self-hosté 1B 8B open weights labels sécurité input output AILuminate local GPU confidentialité » · **Nom court** : Llama Guard
+- **Signal** : Self-hoster un classifieur judge avec Llama Guard 3 (Meta, open weights, 1B ou 8B) : il labelise input/output selon une taxonomie de sécurité (violence, hate, sexuel, prompt injection...) — remplace les API de modération externes (coût, latence, confidentialité des données). S'exécute en local sur GPU ou CPU (1B). Le meilleur score AILuminate 2027. N'utilise pas le 1B pour des cas critiques (prendre le 8B). · **Synonymes** : « classifier les entrées/sorties LLM en local (Llama Guard 3 8B) sans API externe », « pas de données envoyées à une API de modération externe : Llama Guard self-hosté », « Llama Guard 3 1B rapide vs 8B précis : lequel selon le risque » · **Cross-refs** : 1841, 1843, 1845 · **Tags** : 2027
+
+## 1848. 📊 Evals LLM en continu : datasets, scorers, monitoring prod
+
+- **Fichier** : `skills/1848-evals-llm-en-continu-datasets-scorers-monitoring-prod.md` · **Mot-clé** : « evals LLM continu datasets scorers custom Braintrust promptfoo Langfuse monitoring prod verdicts guardrails traces golden set CI » · **Nom court** : Evals LLM
+- **Signal** : Évaluer les LLM en continu (pas qu'avant release) : datasets de evals (qualité, sécurité 1847, RAG fidélité 1397), scorers custom (seuils métier — pass/fail CI), plateformes Braintrust/promptfoo/Langfuse (racheté par ClickHouse janv. 2027), et monitoring prod (verdicts de guardrails tracés sur les traces 1750/1765). Les cas ratés en prod enrichissent le dataset. N'utilise pas 'ça marche sur mon exemple' (pas de mesure). · **Synonymes** : « évaluer le LLM en continu : dataset + scorers + gate CI (Braintrust/promptfoo/Langfuse) », « monitoring prod : verdicts des guardrails tracés sur les traces OTel 1750/1765 », « les cas ratés en prod enrichissent le dataset de evals (boucle) » · **Cross-refs** : 1847, 1397, 1750 · **Tags** : 2027
 

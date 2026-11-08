@@ -10,6 +10,7 @@ nom_court: "Monorepo"
 branche: "D15"
 synonymes: []
 cross_refs: [88, 323, 85]
+depends_on: [1887]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage

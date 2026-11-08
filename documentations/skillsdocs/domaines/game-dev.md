@@ -243,7 +243,7 @@
 ## 1548. 💬 Chat in-game et moderation automatique
 
 - **Fichier** : `skills/1548-chat-in-game-et-moderation-automatique.md` · **Mot-clé** : « chat in-game filtre vulgarité anti-spam signalement mute ban vote » · **Nom court** : Chat in-game
-- **Signal** : Ajouter un chat in-game en 2027 : chat texte (général/équipe/privé), filtre de vulgarité (liste + LLM léger 1490), anti-spam (rate limit 1 msg/2 s), signalement + mute/ban par les joueurs (vote), modération auto des insultes, conformité mineurs (1587). Utilise pour tout jeu multi. N'utilise pas pour un chat vocal (1569). · **Synonymes** : « filtrer les insultes automatiquement », « rate limit 1 message 2 secondes anti-spam », « signaler un joueur toxique → mute/ban vote » · **Cross-refs** : 1490, 1543, 1587 · **Tags** : 2027
+- **Signal** : Ajouter un chat in-game en 2027 : chat texte (général/équipe/privé), filtre de vulgarité (liste + LLM léger 1490), anti-spam (rate limit 1 msg/2 s), signalement + mute/ban par les joueurs (vote), modération auto des insultes, conformité mineurs (1587). Utilise pour tout jeu multi. N'utilise pas pour un chat vocal (1569). · **Synonymes** : « filtrer les insultes automatiquement », « rate limit 1 message 2 secondes anti-spam », « signaler un joueur toxique → mute/ban vote », « signalement 3 = mute 24h 10 = ban 7j » · **Cross-refs** : 1490, 1543, 1587 · **Tags** : 2027
 
 ## 1549. 🎯 Matchmaking : ELO/MMR simple et files d'attente
 

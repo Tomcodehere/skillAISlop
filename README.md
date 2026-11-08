@@ -1,6 +1,6 @@
 # skillAISlop — skillAISlop (skillAISlop)
 
-Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-20 du 2026-11-02 au 2026-11-07) : **1801 sections** (1800 skills + routeur 0, numérotées 0-1800) organisées en **29 domaines**, avec catalogue, routeur SQL et outils d'audit.
+Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-21 du 2026-11-02 au 2026-11-07) : **1901 sections** (1900 skills + routeur 0, numérotées 0-1900) organisées en **29 domaines**, avec catalogue, routeur SQL et outils d'audit.
 
 ## Installation rapide & branchement sur ton agent
 
@@ -29,7 +29,7 @@ Pour un **pack autonome** distribuable à d'autres projets : `data/skillaislop-p
 
 | Chemin | Contenu |
 |---|---|
-| `skills/` | 1801 fichiers `.md` (une skill = un fichier, frontmatter YAML avec `date_ajout: "YYYY-MM"`) |
+| `skills/` | 1901 fichiers `.md` (une skill = un fichier, frontmatter YAML avec `date_ajout: "YYYY-MM"`) |
 | `catalogue/` | sommaire, règles R1-R11, template, utilisation, sources, vue d'ensemble |
 | `outils/` | `routage.py` (routeur SQL hybride FTS5 + sqlite-vec, repli gracieux si l'extension est absente), `audit_conformite.py` |
 | `data/` | catalogues JSON + `sonde-rapport.md` (rapport de couverture) |
@@ -47,14 +47,14 @@ Pour un **pack autonome** distribuable à d'autres projets : `data/skillaislop-p
 
 ## Vérifications
 
-- `build` ✅ (1800 skills + routeur · 29 domaines · 2607 synonymes · 1801 vecteurs sqlite-vec)
-- `test` ✅ **1549/1549**
-- `lint` ✅ aucun problème (+ `date_ajout` YYYY-MM vérifié sur 1801/1801 skills)
+- `build` ✅ (1900 skills + routeur · 29 domaines · 2916 synonymes · 1901 vecteurs sqlite-vec)
+- `test` ✅ **1749/1749**
+- `lint` ✅ aucun problème (+ `date_ajout` YYYY-MM vérifié sur 1901/1901 skills, R13 titre sans année, R14 frontmatter sans < >)
 - `golden` ✅ **198/198** requêtes stables
 - `route "IoT"` → exit 2 (faux positif corrigé) ✅
 - `route "domotique"` → skill 222 ✅
-- `sonde` → **2194/2194 couverts (100 %), 0 partiel, 0 gap** ✅
-- `audit_conformite` ✅ **1800/1800 conformes (100 %)** (8 canvases) · `score_skills` moyenne **100,0/100** · `evals` **1548/1548** (967 skills)
+- `sonde` → **2294/2294 couverts (100 %), 0 partiel, 0 gap** ✅
+- `audit_conformite` ✅ **1900/1900 conformes (100 %)** (8 canvases) · `score_skills` moyenne **100,0/100** · `evals` **1748/1748** (1067 skills)
 
 ## Mes skills perso (`mesSkillsPerso/`)
 
