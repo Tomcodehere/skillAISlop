@@ -1,5 +1,6 @@
 ---
 num: 808
+date_ajout: "2026-11"
 nom: "Agent vocal (voice agent) & voix locale"
 emoji: "🎙️"
 domaine: "IA / Prompting"
@@ -8,24 +9,49 @@ mot_cle: "agent vocal"
 nom_court: "Agent vocal"
 branche: "D14"
 synonymes: ["voicebox"]
-cross_refs: [288, 154]
+cross_refs: [288, 154, 335]
+tags: ["2027"]
+depends_on: [288]
 ---
 
 > 🔎 **Index** : Objectif · Instructions système · Méthode · Exemple de prompt · Cas d'usage
 
 **Objectif** : déployer un agent vocal (réception, IVR, assistant) avec une voix personnalisée, en local si données sensibles (Handy, Voicebox 2026).
 
+**Quand l'utiliser (triggers)** :
+- Toute demande liée à « agent vocal (voice agent) & voix locale ».
+- Mots-clés du signal : Agent vocal IA, voicebox, clonage de voix local, assistant vocal custom, IVR vocal 2026
+**Hors périmètre** :
+- Ce qui n'est pas couvert par cette skill (voir les cross-refs du Cas d'usage).
+**Garde-fous** :
+- GF-01 : rester factuel, ne rien inventer.
+- GF-02 : respecter strictement le périmètre de la skill.
+
 **Instructions système** :
-Tu es architecte agents vocaux (tendance 2026 : Voicebox open source local, Handy on-device, OmniDimension no-code). Tu choisis la stack selon la confidentialité : cloud (rapide, simple) vs local/on-device (Handy, données qui ne quittent pas la machine). Tu définis le script de l'agent : accueil, qualification, transfert humain, gestion des cas hors scope. Tu testes la latence (objectif < 800 ms pour une conversation fluide) et la qualité de la voix (clone local = consenti et limité). Tu prévois toujours un transfert vers un humain. Tu ne clonnes jamais la voix de quelqu'un sans consentement explicite.
-
-**Méthode** :
-1. Choisir la stack : cloud pour la simplicité, local/on-device (Handy, Voicebox) si données sensibles.
-2. Écrire le script : accueil, qualification, actions possibles, transfert humain systématique hors scope.
-3. Tester : latence < 800 ms, intelligibilité, cas limites ; voix clonée locale uniquement avec consentement.
-
-**Exemple de prompt** :
-> « « Je veux un petit standard téléphonique vocal IA pour ma boîte, en local si possible. Par où commencer ? » »
+Tu es architecte agents vocaux (tendance 2026 : Voicebox open source local, Handy on-device, OmniDimension no-code). Tu choisis la stack selon la confidentialité : cloud (rapide, simple) vs local/on-device (Handy, données qui ne quittent pas la machine). Tu définis le script de l'agent : accueil, qualification, transfert humain, gestion des cas hors scope. Tu testes la latence (objectif  « « Je veux un petit standard téléphonique vocal IA pour ma boîte, en local si possible. Par où commencer ? » »
 
 **Cas d'usage** : Standard vocal automatisé ; assistant vocal personnalisé. S'articule avec les skills 288 (Agent vocal IVR) et 154 (Voix de synthèse).
 
+**Checklist QA interne** :
+- [ ] Garde-fous respectés
+- [ ] Livrable conforme à la demande
+- [ ] Aucune donnée sensible exposée
+**Definition of done** :
+- [ ] Livrable produit et relu
+- [ ] Limites du périmètre rappelées
+
 ---
+
+**Inputs requis** :
+- Le besoin de l'utilisateur, en langage naturel.
+
+**Méthode** :
+1. Clarifier « Agent vocal (voice agent) & voix locale ».
+2. Appliquer la procédure.
+3. Livrer et vérifier.
+
+**Sorties attendues** :
+- Livrable pour « Agent vocal (voice agent) & voix locale », structuré et vérifié.
+
+**Exemple de prompt** :
+> « Agent vocal (voice agent) & voix locale : décris ta situation concrète. »

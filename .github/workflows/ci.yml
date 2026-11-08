@@ -30,6 +30,9 @@ jobs:
       - name: Tests de non-régression du routage
         run: python3 outils/routage.py test
 
+      - name: Golden set de régression du routage (P0-3)
+        run: python3 outils/routage.py golden
+
       - name: Audit de conformité R1-R8 (R5)
         run: >
           python3 outils/audit_conformite.py
@@ -37,6 +40,17 @@ jobs:
           canvas/corpus-skills-1-300.md
           canvas/corpus-skills-301-600.md
           canvas/corpus-skills-601-900.md
+          canvas/corpus-skills-901-1200.md
+          canvas/corpus-skills-1201-1500.md
+          canvas/corpus-skills-1501-1800.md
+          canvas/corpus-skills-1801-2100.md
+
+      - name: Evals par skill (rapport, non bloquant)
+        run: python3 outils/routage.py evals
+        continue-on-error: true
+
+      - name: Score qualité /100 (rapport + seuil 90)
+        run: python3 outils/score_skills.py --rapport documentations/skillsdocs/scores.md
 
       - name: Sonde de couverture (bloquante, 100 % attendu)
         run: python3 outils/routage.py sonde

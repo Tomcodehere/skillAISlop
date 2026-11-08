@@ -35,3 +35,15 @@ type: "text/markdown"
 ## Prochaine vague
 
 - [ ] Vague 13 (R7, janvier 2027) : re-faire la veille web, viser les vrais gaps restants plutôt que du volume
+
+- [ ] Vague 14 (R7, avril 2027) : prochaine veille trimestrielle
+
+- [ ] Utiliser templateSkills.md du repo cloné tvprodel/SkillsAI (/workspace/github__tvprodel__SkillsAI, 313 *.skill.md, 13 sections standard) pour mettre à jour tous les fichiers agents de ce projet vers le template standard (Objectif, Triggers, Hors périmètre, Inputs, Sorties, Workflow, Garde-fous, Templates, QA, KPI, DoD, Exemples, Sources)
+
+- [ ] Appliquer TEMPLATE-v2 à la vague 14 : maj catalogue/template.md + R2/regles.md + lint spec en CI + migrate_template.py --fix sur les skills existantes
+
+- [ ] Multilingue EN : champ lang dans le frontmatter (fr/en), table lang(num,lang), filtre route --lang en, vague EN (traduction ou rédaction) — catalogue actuellement 100 % FR (1901 skills, 8,9 Mo)
+
+- [x] ~~HNSW~~ → veille 2026-11-07 : sqlite-vec 0.1.9 (dernier PyPI) = KNN exact, pas d'ANN dans vec0 ; releases officielles annoncent ivf/diskann en WIP ; fork tiers brianmacy/sqlite-vec-hnsw (use_hnsw=1) non officiel. À 1 700 skills le brute-force suffit (~1 ms/voie vec). À activer > 5 000 skills via upgrade officiel ou le fork (à valider) — pack : deflate retenu (1,93 Mo, meilleur que LZMA 2,2 Mo sur markdown), skills.db exclu (régénéré par build --from-skills)
+
+- [ ] Build parallèle (multiprocessing) testé 2026-11-07 : non rentable à 1 700 skills (spawn pool > calcul hash) — à réessayer > 20 000 skills ; build actuel 1,5 s (profilé : coût = spawn/imports, pas le calcul)

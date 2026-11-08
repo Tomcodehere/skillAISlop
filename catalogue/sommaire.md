@@ -811,10 +811,10 @@
 | 806 | Détecteur de bullshit (bullshit-detector) | Recherche|
 | 807 | Audit de session d'agent de code | Data & IA|
 | 808 | Agent vocal (voice agent) & voix locale | IA / Prompting|
-| 809 | Codage vocal (voice coding, DevDay 2026) | Développement|
-| 810 | Choisir son agent personnel 2026 (Muse, Dots, Duet) | Personnel|
-| 811 | Loi de finances 2026 : changements clés | Finance|
-| 812 | Optimisation fiscale légale 2026 | Finance|
+| 809 | Codage vocal (voice coding, DevDay) | Développement|
+| 810 | Choisir son agent personnel (Muse, Dots, Duet) | Personnel|
+| 811 | Loi de finances : changements clés | Finance|
+| 812 | Optimisation fiscale légale | Finance|
 | 813 | Digital detox & sommeil-écrans | Personnel|
 | 814 | Régularité du sommeil (circadien) | Personnel|
 | 815 | AI literacy : comprendre ce que l'IA fait et ne fait pas | Apprentissage|
@@ -902,6 +902,1007 @@
 | 897 | Protection du dirigeant (assurance homme clé) | Finance|
 | 898 | Préparation d'une levée de fonds (amorçage) | Stratégie|
 | 899 | Bilan de fin d'année (tous domaines) | Gestion|
+| 900 | Préparer l'AI Act haut risque (annexe III) | Juridique|
+| 901 | Transparence IA obligatoire (contenu généré, chatbots) | Juridique|
+| 902 | Gestion algorithmique du travail (AI Act emploi) | RH & formation|
+| 903 | Petits modèles locaux (SLM) pour PME | IA / Prompting|
+| 904 | Agent vocal en support client | Produit & IA|
+| 905 | Sécurité des marketplaces de skills (ClawHub, skills.sh) | Sécurité|
+| 906 | Certificats TLS 64 jours (Let's Encrypt) | Développement|
+| 907 | Attaques IA autonomes & social engineering | Sécurité|
+| 908 | Zero Trust & identité des agents IA | Sécurité|
+| 909 | Bot traffic & anti-scraping | Développement|
+| 910 | PLF : dons d'argent allégés S1 | Finance|
+| 911 | PLF : indemnités de rupture plafonnées à 1 PASS | Juridique|
+| 912 | Directive européenne transparence salariale (fin) | RH & formation|
+| 913 | ETIAS : autorisation voyage Europe | Personnel|
+| 914 | Nouveaux trains Europe (Munich-Rome, trains de luxe) | Personnel|
+| 915 | Canicule & été : se préparer | Personnel|
+| 916 | Régulation nerveuse & micro-rituels | Personnel|
+| 917 | Métabolisme & biomarqueurs personnels (CGM, tests sanguins) | Personnel|
+| 918 | Semaine de 4 jours : négocier & tester | Carrière|
+| 919 | Reconversion & métiers porteurs | Carrière|
+| 920 | Droit à la déconnexion renforcé | Juridique|
+| 921 | Prévenir le bore-out (ennui au travail) | Personnel|
+| 922 | Marque employeur & recrutement par compétences | Gestion|
+| 923 | Dumbphone & réduction d'écran volontaire | Personnel|
+| 924 | Souveraineté numérique & hébergement européen | Développement|
+| 925 | Agent Client Protocol (ACP) & BYO agent | Développement|
+| 926 | Intelligent UI : interfaces générées par l'IA | Produit|
+| 927 | Tarification hybride des logiciels IA (per-user + usage) | Gestion|
+| 928 | Shadow IA : encadrer les usages informels | Gestion|
+| 929 | World models & simulation pour la recherche | Data & IA|
+| 930 | Contenu audio IA (Suno/Udio) : musique & voix | Créativité|
+| 931 | Robots humanoïdes au travail | Gestion|
+| 932 | EES : contrôle biométrique aux frontières Schengen | Personnel|
+| 933 | Permis Graduate UK raccourci à 18 mois | Carrière|
+| 934 | Règles bagages cabine & powerbanks | Personnel|
+| 935 | Anah & rénovation globale (recentrage PLF) | Finance|
+| 936 | Reprise d'entreprise par les salariés (Pacte Papin) | Gestion|
+| 937 | Prévention RPS & bien-être au travail (indicateur) | RH & formation|
+| 938 | GEO / AEO : être cité par les moteurs IA | Marketing|
+| 939 | Vérification humaine des sorties d'agents | Data & IA|
+| 940 | Données publiques & scraping éthique/légal | Juridique|
+| 941 | Nutrition fonctionnelle & santé cardiovasculaire | Personnel|
+| 942 | Sommeil & voyages (sleep tourism) | Personnel|
+| 943 | IA embarquée & on-device (téléphone) | Développement|
+| 944 | Fact-checking & NotebookLM ancré | Recherche|
+| 945 | Prompt « caveman » & concision des sorties IA | IA / Prompting|
+| 946 | Gestion des données d'entraînement & opt-out (créateur) | Juridique|
+| 947 | Agent éphémère jetable (one-shot tasks) | IA / Prompting|
+| 948 | Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles) | Juridique|
+| 949 | Bilan & objectifs (tous domaines) | Gestion|
+| 950 | Négocier un PSE (plan de sauvegarde de l'emploi) | Juridique|
+| 951 | Accord d'intéressement & participation | RH & formation|
+| 952 | Prévention des addictions (écrans, jeux, paris) | Personnel|
+| 953 | Gestion d'une fraude bancaire en ligne | Sécurité|
+| 954 | Vol ou perte de passeport à l'étranger | Personnel|
+| 955 | Démarches administratives en ligne (ANTS,ANTS) | Bureau|
+| 956 | Vérification d'un site de rencontre (arnaques) | Sécurité|
+| 957 | Gestion d'un piratage de compte (mail, réseau social) | Sécurité|
+| 958 | Préparation d'une expatriation (visa, banque, santé) | Personnel|
+| 959 | Achat d'une voiture électrique d'occasion | Personnel|
+| 960 | Installation d'une borne de recharge à domicile | Personnel|
+| 961 | Rénovation énergétique globale (DPE) | Finance|
+| 962 | Vérification d'une offre de colocation / arnaque logement | Recherche|
+| 963 | Rédiger un testament (formes, légataires, réserve héréditaire) | Juridique|
+| 964 | Ouverture d'un PEA / compte-titres | Finance|
+| 965 | Assurance habitation & multirisque | Finance|
+| 966 | Crédit immobilier : simuler & comparer les offres | Finance|
+| 967 | Vérifier une entreprise avant embauche/achat (due diligence légère) | Recherche|
+| 968 | Préparer un entretien d'embauche côté candidat (STAR + questions) | Carrière|
+| 969 | Négocier une rupture conventionnelle individuelle | Juridique|
+| 970 | Prévenir l'usure professionnelle (santé au travail) | Personnel|
+| 971 | Gestion d'un conflit entre collègues | Communication|
+| 972 | Organiser un pot de départ / événement d'équipe | Communication|
+| 973 | Lire et comprendre sa fiche de paie | Juridique|
+| 974 | Déclarer ses revenus (déclaration en ligne) | Juridique|
+| 975 | Faire reconnaître une maladie professionnelle (MP) | Juridique|
+| 976 | Acheter un bien en VEFA / neuf en | Finance|
+| 977 | Louer son bien en meublé (LMNP) vs nu | Finance|
+| 978 | Préparer sa retraite (PER, calcul rente) | Finance|
+| 979 | Faire un audit énergétique & DPE avant travaux | Finance|
+| 980 | Créer une SCI (société civile immobilière) | Gestion|
+| 981 | Gérer un litige avec un artisan / travaux bâclés | Juridique|
+| 982 | Prévenir le surendettement & FICP | Finance|
+| 983 | Acheter un produit reconditionné en sécurité | Personnel|
+| 984 | Préparer un road-trip en van aménagé | Personnel|
+| 985 | Préparer un mariage écolo & petit budget | Personnel|
+| 986 | Préparer un trek / randonnée plusieurs jours | Personnel|
+| 987 | Organiser un enterrement de vie de célibataire (EVJF/EVG) | Personnel|
+| 988 | Préparer une expédition vélo (cyclotourisme) | Personnel|
+| 989 | Préparer une expédition en kayak/canoë | Personnel|
+| 990 | Faire du volontariat international (VSI, PVT) | Carrière|
+| 991 | Préparer un déménagement à l'étranger (douane, conteneur) | Personnel|
+| 992 | Acheter un bien à l'étranger (résidence secondaire) | Finance|
+| 993 | Gérer un litige avec une compagnie aérienne | Juridique|
+| 994 | Souscrire une assurance voyage/rapatriement | Personnel|
+| 995 | Préparer un road-trip moto | Personnel|
+| 996 | Organiser un séminaire d'entreprise | Gestion|
+| 997 | Préparer une mobilité interne (changement de poste) | Carrière|
+| 998 | Faire une pause carrière (congé sabbatique) | Carrière|
+| 999 | Bilan & objectifs (tous domaines) — édition annuelle | Gestion|
+| 1000 | Acceptance Scenario Derivation | Gestion|
+| 1001 | Accessibility Evidence Register | Recherche|
+| 1002 | Accessible Alternative Text Review | IA / Prompting|
+| 1003 | Accountant Meeting & Document Preparation | Créativité|
+| 1004 | Active Directory Architecture Design | Développement|
+| 1005 | Active Directory Management | Design|
+| 1006 | AD Migration & Consolidation | Gestion|
+| 1007 | AD Replication & Sites Management | RH & formation|
+| 1008 | AD Security & Tiering | IA / Prompting|
+| 1009 | Adaptive Audio Implementation | Développement|
+| 1010 | Adaptive Interactive Music & Stems | Créativité|
+| 1011 | Adversarial Testing & Robustness | Développement|
+| 1012 | Advertising Measurement & Experimentation | IA / Prompting|
+| 1013 | Agent Role Regression Campaign | Gestion|
+| 1014 | Agent State Boundary Design | IA / Prompting|
+| 1015 | AI Act Technical Oversight Mapping | Design|
+| 1016 | AI Adoption Feedback Decision | Produit|
+| 1017 | AI Capability Interface Specification | Design|
+| 1018 | AI Ethical Impact Decision Record | IA / Prompting|
+| 1019 | Skill: AI Explainability & Transparency | Gestion|
+| 1020 | AI Feature Prioritization & Metrics | Data & IA|
+| 1021 | AI Feature Success Contract | IA / Prompting|
+| 1022 | AI Model Release Value Decision | Développement|
+| 1023 | AI Product Discovery & Adoption | Produit|
+| 1024 | AI Product Strategy & Roadmap | IA / Prompting|
+| 1025 | AI-SI Integration Strategy | Gestion|
+| 1026 | AI System Architecture Design | Développement|
+| 1027 | AI System Failure Recovery Design | IA / Prompting|
+| 1028 | AI Transparency Audience Plan | Design|
+| 1029 | Anti-Bot Evasion & Scraping Best Practices | Développement|
+| 1030 | API Documentation & OpenAPI Specification | Développement|
+| 1031 | API and Webhook Contract Mapping | Développement|
+| 1032 | Application Diagnostics & Troubleshooting | Développement|
+| 1033 | Application Migration Data Transfer | Data & IA|
+| 1034 | Application Synchronization Conflict Policy | Gestion|
+| 1035 | AppSec Trust-Boundary Review | Développement|
+| 1036 | APT and Pacman Recovery Planning | Gestion|
+| 1037 | Architecture Quality Scenario | Développement|
+| 1038 | Artifact Dependency Inventory | Gestion|
+| 1039 | ASP.NET Core API Development | Développement|
+| 1040 | Audit Cohérence Logique Brief | Gestion|
+| 1041 | B2B Prospecting & Lead Qualification | Vente|
+| 1042 | Backend Transaction Consistency | Développement|
+| 1043 | Backup Recovery Automation | Développement|
+| 1044 | Bash Exit and Signal Safety | Développement|
+| 1045 | Behavioral Pattern Analysis (Analyse Patterns Comportementaux) | Design|
+| 1046 | Belgian Accounting & Bookkeeping Basics | Finance|
+| 1047 | Belgian VAT & Tax Orientation | Créativité|
+| 1048 | Bitmap Texture & Sprite Sheet Preparation | Design|
+| 1049 | Blazor Component Design | Développement|
+| 1050 | Blender Game-Ready Export Pipeline | Développement|
+| 1051 | Blender Hard Surface & Organic Modeling | Développement|
+| 1052 | Blender Rigging & Animation Workflow | Développement|
+| 1053 | Blender UV Unwrap & PBR Material Setup | Développement|
+| 1054 | Bounded Utility Specification | Gestion|
+| 1055 | BPMN Process Modeling | IA / Prompting|
+| 1056 | Brand Positioning Strategy | Marketing|
+| 1057 | Brief Assumption Ledger | Design|
+| 1058 | Business Insight Narrative | Data & IA|
+| 1059 | Business KPI Analysis & Dashboard Design | Data & IA|
+| 1060 | Calibration Confiance Décisionnelle | IA / Prompting|
+| 1061 | Campaign Claim Evidence Review | Recherche|
+| 1062 | Capacity Planning & Sizing | Gestion|
+| 1063 | Certificate Management Applications | Développement|
+| 1064 | Chain of Thought Engineering | Développement|
+| 1065 | Change Readiness Evidence | Développement|
+| 1066 | Claim-Source Evidence Matrix | Recherche|
+| 1067 | Cloud Architecture Design | Développement|
+| 1068 | Cloud Cost Optimization | Recherche|
+| 1069 | Cloud Failure-Domain Placement | Gestion|
+| 1070 | Cloud IAM Responsibility Blueprint | Design|
+| 1071 | Cloud Migration Strategy | Gestion|
+| 1072 | Cloud Migration Wave Acceptance | Gestion|
+| 1073 | Cloud Security & Compliance | Développement|
+| 1074 | Cloud Storage Strategies | IA / Prompting|
+| 1075 | Code Architecture Trace Documentation | Développement|
+| 1076 | Cognitive Journey Barrier Review | Formation|
+| 1077 | Cognitive Load Assessment | Développement|
+| 1078 | Commercial Opportunity & Segment Mapping | Développement|
+| 1079 | Competitive Landscape & Positioning Analysis | Produit|
+| 1080 | Compliance Automation (RegOps) | Design|
+| 1081 | Component Dependency Conformance | Développement|
+| 1082 | Medical Consultation Preparation | Créativité|
+| 1083 | Container Registry Management | Développement|
+| 1084 | Content Approval Evidence | Recherche|
+| 1085 | Content Regression Checkpointing | Rédaction|
+| 1086 | Contingency Trigger Design | Design|
+| 1087 | Contract Drafting & Negotiation | Produit|
+| 1088 | Controlled Vocabulary Lifecycle | Gestion|
+| 1089 | Conversion Copy Experimentation | Développement|
+| 1090 | Cookie Consent Evidence Review | Produit|
+| 1091 | Corporate & Litigation Risk Management | Design|
+| 1092 | Cost Governance (FinOps elargi) | Data & IA|
+| 1093 | Cross-Artifact Consistency Review | Gestion|
+| 1094 | Cross-Locale Meaning Alignment | Design|
+| 1095 | Data Catalog & Lineage | Data & IA|
+| 1096 | Data Freshness Incident Triage | Data & IA|
+| 1097 | Data Governance & Quality | Data & IA|
+| 1098 | Data Lake Architecture & Storage | Développement|
+| 1099 | Data Quality Monitoring | Développement|
+| 1100 | Data Retention Policy Design | Data & IA|
+| 1101 | Data Stewardship Responsibility Design | Développement|
+| 1102 | Data Storytelling & Insights Communication | Data & IA|
+| 1103 | Data Visualization & ML Insights | IA / Prompting|
+| 1104 | Debian & Arch System Administration | Développement|
+| 1105 | Deliverable Completeness Review | Gestion|
+| 1106 | Détection Boucles Délégation | Gestion|
+| 1107 | Dialogue & Quest Scripting Workflow | Développement|
+| 1108 | Disaster Recovery Design | Design|
+| 1109 | Docker Compose Orchestration | Développement|
+| 1110 | Dockerfile Best Practices | Développement|
+| 1111 | Document d'Architecture du Système d'Information (DIS) | Développement|
+| 1112 | Documentation Example Verification | Développement|
+| 1113 | Dynamic Web Scraping (Playwright/Selenium) | Développement|
+| 1114 | EDA & Statistical Analysis for ML | IA / Prompting|
+| 1115 | Editorial Change Impact | Rédaction|
+| 1116 | Engine Profiling & Build Pipeline | Développement|
+| 1117 | Enterprise Application Lifecycle | Développement|
+| 1118 | Entity Framework Core Migrations | Développement|
+| 1119 | Skill: Ethical Impact Assessment | IA / Prompting|
+| 1120 | Ethical Monetization & Compliance Watch | Développement|
+| 1121 | ETL Pipeline Design & Orchestration | Développement|
+| 1122 | Evidence-Claim Reconciliation | Recherche|
+| 1123 | Excel Advanced Functions | IA / Prompting|
+| 1124 | Execution Commande Shell | Gestion|
+| 1125 | Experiment Power Planning | Data & IA|
+| 1126 | Exploration Coverage Boundary | IA / Prompting|
+| 1127 | Fairness & Bias Detection | Design|
+| 1128 | Feature Engineering & Data Preparation | Développement|
+| 1129 | FinTech Business Model Strategy | IA / Prompting|
+| 1130 | FinTech Partnership & Ecosystem Strategy | IA / Prompting|
+| 1131 | FinTech Product & Market Strategy | Produit|
+| 1132 | Firewall Rule Design | Développement|
+| 1133 | Foundation Model Support Watch | IA / Prompting|
+| 1134 | Functional Specification & Traceability | Développement|
+| 1135 | FX Performance Budget Optimization | Design|
+| 1136 | Game AI Difficulty & Director Tuning | Design|
+| 1137 | Game Audio Mixing & Loudness | Design|
+| 1138 | Game Economy Sources & Sinks Modeling | IA / Prompting|
+| 1139 | Game Engine Performance & Profiling | Gestion|
+| 1140 | Game Loop & ECS Architecture | Développement|
+| 1141 | Game Music Composition & Themes | IA / Prompting|
+| 1142 | GDExtension & Native Module Development | Développement|
+| 1143 | Generative Model Selection & Evaluation | IA / Prompting|
+| 1144 | General Purpose Delegation Fallback | Gestion|
+| 1145 | Generative Capability Benchmark Design | IA / Prompting|
+| 1146 | Generative Output Quality Benchmarking | Développement|
+| 1147 | Gestion Echecs & Rollback | IA / Prompting|
+| 1148 | GIMP Photo Retouch & Compositing | Design|
+| 1149 | Godot Animation System Integration | Développement|
+| 1150 | Godot Export & Build Pipeline | Développement|
+| 1151 | GPO Advanced Design & Troubleshooting | IA / Prompting|
+| 1152 | Grammar & Orthography Compliance Audit | Rédaction|
+| 1153 | Grammatical Ambiguity Resolution | Design|
+| 1154 | Grill Me (Clarification Socratique) | Design|
+| 1155 | Hallucination Evidence Evaluation | IA / Prompting|
+| 1156 | Health Information Literacy | Design|
+| 1157 | Hygiene Environnement Execution | Recherche|
+| 1158 | I Have ADHD (Output Mode Neurodivergent) | Gestion|
+| 1159 | IaC Blueprint Generation | Développement|
+| 1160 | IaC On-Prem Automation | Développement|
+| 1161 | Incident Commander (SRE / Runbook) | Design|
+| 1162 | Inclusive Design Psychology (Psychologie Design Inclusif) | Design|
+| 1163 | Inclusive Research Protocol | Design|
+| 1164 | Inference Cache Benefit Assessment | IA / Prompting|
+| 1165 | Infrastructure Resilience Design | Développement|
+| 1166 | Inkscape Icon & Logo System Design | Développement|
+| 1167 | Inkscape SVG Export & Optimization | Développement|
+| 1168 | Inkscape Vector Production Workflow | Design|
+| 1169 | Integration Reliability Patterns | Gestion|
+| 1170 | Intellectual Property Protection | Recherche|
+| 1171 | Interactive Narrative & Branching Design | Créativité|
+| 1172 | Interface Error-Recovery Writing | Design|
+| 1173 | Knowledge Curator (RAG / Docs Ops) | IA / Prompting|
+| 1174 | Krita Digital Painting Workflow | Développement|
+| 1175 | Landing Page Argument Design | Marketing|
+| 1176 | Language Correction Regression Suite | Design|
+| 1177 | Libre Software Advocacy & Licensing | IA / Prompting|
+| 1178 | Linux Security Hardening | Développement|
+| 1179 | LLM Latency Bottleneck Measurement | IA / Prompting|
+| 1180 | LLM Token Cost Attribution | IA / Prompting|
+| 1181 | Localization Context Adaptation | Design|
+| 1182 | Lore, Worldbuilding Bible & Localization Prep | Développement|
+| 1183 | M365 Integration Patterns | Développement|
+| 1184 | MariaDB Performance & Reliability | Gestion|
+| 1185 | Market & Competitive Intelligence | Recherche|
+| 1186 | Marketing Email Sequence Drafting | Marketing|
+| 1187 | Meaning-Preserving Reformulation | Gestion|
+| 1188 | Meeting Decision Extraction | Communication|
+| 1189 | Message Delivery Recovery Design | Design|
+| 1190 | Metadata Classification Policy | Data & IA|
+| 1191 | ML Error Cohort Analysis | IA / Prompting|
+| 1192 | ML Experimentation & Validation | IA / Prompting|
+| 1193 | MLOps & Model Lifecycle Management | IA / Prompting|
+| 1194 | ML Pipeline Design & Evaluation | Développement|
+| 1195 | Model Drift Retraining Gate | IA / Prompting|
+| 1196 | Multi-Agent Orchestration Patterns | IA / Prompting|
+| 1197 | Multi-Cloud Tradeoff Analysis | Gestion|
+| 1198 | Multi-OS Integration Strategy | Développement|
+| 1199 | Multilingual Quality & Localization | Rédaction|
+| 1200 | Music Arrangement, Loop & Delivery | Développement|
+| 1201 | MySQL Query Optimization | Développement|
+| 1202 | NestJS Architecture | Développement|
+| 1203 | Network Segmentation | Développement|
+| 1204 | Neutral Document Condensation | Design|
+| 1205 | Notarial Appointment Preparation | Créativité|
+| 1206 | Notarial Document Preparation | Gestion|
+| 1207 | Belgian Notarial Procedures Orientation | Recherche|
+| 1208 | NPC Behavior Trees & State Machines | Design|
+| 1209 | Observability Engineer | Data & IA|
+| 1210 | Onboarding Instruction Design | Design|
+| 1211 | Open Image License Traceability | Gestion|
+| 1212 | Operational Performance System & Governance | Design|
+| 1213 | Operational Runbook Acceptance | IA / Prompting|
+| 1214 | Operations Strategy & Operating Model Design | IA / Prompting|
+| 1215 | Operations Transformation Portfolio & Benefits Governance | Design|
+| 1216 | Organic Search & Social Measurement | Développement|
+| 1217 | Organic Social Media Strategy | Produit|
+| 1218 | Orthotypographic Consistency Review | Rédaction|
+| 1219 | Outlook Productivity Automation | Communication|
+| 1220 | Package Management Best Practices | Développement|
+| 1221 | Paid Advertising Campaign Planning | Produit|
+| 1222 | Particle VFX Design 2D/3D | Développement|
+| 1223 | Partnership Development & Execution | Design|
+| 1224 | Pathfinding, Navigation & Perception | Développement|
+| 1225 | Perl Stream Transformation | Design|
+| 1226 | Personal Data Flow and Lawful-Basis Mapping | Data & IA|
+| 1227 | PHP Request Validation Flow | Développement|
+| 1228 | Portfolio / Capacity Planner | Design|
+| 1229 | PostgreSQL Advanced Tuning | Développement|
+| 1230 | PowerPoint Design Efficiency | Design|
+| 1231 | PowerShell DSC Advanced | Développement|
+| 1232 | Predictive Temporal Validation | IA / Prompting|
+| 1233 | Process KPI Definition | Data & IA|
+| 1234 | Producer-Consumer Data Contracts | Data & IA|
+| 1235 | Product Opportunity Assessment | Développement|
+| 1236 | Product Outcome Roadmap | Produit|
+| 1237 | Product Prioritization Decision | Produit|
+| 1238 | Progression & Loot Table Balancing | Design|
+| 1239 | Project Baseline Change Assessment | Gestion|
+| 1240 | Project Estimate Calibration | Design|
+| 1241 | Prompt Engineer & Guardrails | IA / Prompting|
+| 1242 | Prompt Injection Boundary Evaluation | IA / Prompting|
+| 1243 | Prompt Structure Optimization | IA / Prompting|
+| 1244 | Prompt Versioning & Testing | Développement|
+| 1245 | Protected-Group Evaluation Protocol | IA / Prompting|
+| 1246 | Python Service Boundary Implementation | Développement|
+| 1247 | Quality Rule Acceptance Design | Développement|
+| 1248 | RAG & Fine-Tuning Strategy Design | Développement|
+| 1249 | React Hooks Patterns | Développement|
+| 1250 | Regression Risk Selection | Gestion|
+| 1251 | Release Manager & Change Control | Développement|
+| 1252 | Reporting Structure d'Exécution | Design|
+| 1253 | Repository Entry-Point Survey | Gestion|
+| 1254 | Requirements Elicitation & Analysis | Design|
+| 1255 | Research Uncertainty Synthesis | Recherche|
+| 1256 | RHEL Package Lifecycle Plan | Productivité|
+| 1257 | RHEL SELinux Diagnosis | Développement|
+| 1258 | Risk Exposure Aggregation | IA / Prompting|
+| 1259 | Risk Register & Mitigation Planning | Design|
+| 1260 | Roast My Idea (Feedback Tough Love) | IA / Prompting|
+| 1261 | RPA Automation Design | Développement|
+| 1262 | Sales Pipeline & Opportunity Management | Développement|
+| 1263 | SAN/NAS Design | Développement|
+| 1264 | Scene and Signal Architecture | Développement|
+| 1265 | Scraping Ethics & Legal Awareness | Développement|
+| 1266 | Security Engineering (AppSec Automation) | Productivité|
+| 1267 | Security Remediation Verification | Gestion|
+| 1268 | Semantic CSS Responsive Implementation | Développement|
+| 1269 | SEO Audit & Keyword Strategy | IA / Prompting|
+| 1270 | Shader Visual Effects Authoring | Développement|
+| 1271 | SLO and Error-Budget Decision | Design|
+| 1272 | Small File-Format Transformation | Formation|
+| 1273 | Software Boundary ADR | Gestion|
+| 1274 | Sound Effects Design & Recording | Design|
+| 1275 | Source API Contract Documentation | Développement|
+| 1276 | Source Authority Comparison | Recherche|
+| 1277 | SQL Analytics & Data Quality | Développement|
+| 1278 | Static Web Scraping (BeautifulSoup/lxml/Requests) | Développement|
+| 1279 | Statistical Inference Protocol | Data & IA|
+| 1280 | Streaming Data Processing | Développement|
+| 1281 | System Architecture Design | Développement|
+| 1282 | System Monitoring & Observability | Développement|
+| 1283 | System Script Idempotence Proof | Développement|
+| 1284 | Systemd Service Management | Développement|
+| 1285 | Teams Collaboration Best Practices | Développement|
+| 1286 | Terminology Management & Glossary Governance | Rédaction|
+| 1287 | Test Architect (QA avancee) | Développement|
+| 1288 | Test Fixture Isolation Design | Développement|
+| 1289 | Translation Terminology Validation | Design|
+| 1290 | Troubleshooting Decision Tree | Formation|
+| 1291 | 2D Animation Cutout & Frame-by-Frame | Design|
+| 1292 | TypeScript Advanced Types | Développement|
+| 1293 | UI Tone-of-Voice Specification | Produit|
+| 1294 | UI Transitions Library (Transitions.dev) | Développement|
+| 1295 | Urgent Care Navigation | Design|
+| 1296 | User Guide Task Design | Design|
+| 1297 | User Stories & Acceptance Criteria | Produit|
+| 1298 | Utility Execution Evidence | Recherche|
+| 1299 | UX Microcopy Accessibility | Design|
+| 1300 | UX Researcher (Discovery) | Produit|
+| 1301 | Vector Illustration Construction | Créativité|
+| 1302 | Verification Post-Execution | Design|
+| 1303 | Visual Identity Asset Specification | Gestion|
+| 1304 | VPN Configuration | Gestion|
+| 1305 | Vue Component State Contract | Développement|
+| 1306 | Vulnerability Evidence Triage | Recherche|
+| 1307 | WBS and Dependency Planning | Gestion|
+| 1308 | Web Accessibility Audit (Audit Accessibilité Web) | Développement|
+| 1309 | Web Data Extraction & Structuring | Développement|
+| 1310 | Windows Server Hardening | Développement|
+| 1311 | Jardin en prairie fleurie | Personnel|
+| 1312 | Haie variée & biodiversité | Personnel|
+| 1313 | Cuisine connectée sobre | Personnel|
+| 1314 | Batch cooking & robot de cuisine | Personnel|
+| 1315 | Domotique Matter & objets connectés sobres | Développement|
+| 1316 | Déco : vert Saule & matières durables | Personnel|
+| 1317 | France Identité & CNIe | Bureau|
+| 1318 | Contrôle routier numérique (permis/carte grise) | Juridique|
+| 1319 | Coach sportif personnel IA | Personnel|
+| 1320 | Diététicien IA & journal alimentaire | Personnel|
+| 1321 | Tuteur IA personnalisé | Apprentissage|
+| 1322 | Conseiller cadeaux IA | Personnel|
+| 1323 | Organisateur de voyage IA | Personnel|
+| 1324 | Gestionnaire de budget perso IA | Finance|
+| 1325 | Coach sommeil IA & hygiène de sommeil | Personnel|
+| 1326 | Planificateur de semaine IA | Productivité|
+| 1327 | Coach bien-être mental IA (léger) | Personnel|
+| 1328 | Assistant courses & anti-gaspi IA | Personnel|
+| 1329 | Veille personnalisée IA (actualités) | Recherche|
+| 1330 | Préparation d'un déménagement local | Personnel|
+| 1331 | Bilan de santé préventif annuel | Personnel|
+| 1332 | Bien vieillir & autonomie | Personnel|
+| 1333 | Santé de son animal (chien/chat) | Personnel|
+| 1334 | Sécurité domicile & alarme | Sécurité|
+| 1335 | Premiers secours & trousse d'urgence | Personnel|
+| 1336 | Prévention arnaques QR codes & faux courriers | Sécurité|
+| 1337 | Gestion des mots de passe & gestionnaire | Sécurité|
+| 1338 | Coffre-fort numérique familial | Bureau|
+| 1339 | Prévention cambriolage & vacances tranquilles | Sécurité|
+| 1340 | Réparation & entretien vélo | Personnel|
+| 1341 | Rédiger un email professionnel percutant | Communication|
+| 1342 | Prise de parole en public & gestion du stress | Communication|
+| 1343 | Apprendre une langue avec l'IA | Langues|
+| 1344 | Lecture rapide & mémorisation | Apprentissage|
+| 1345 | Négocier son salaire en | Carrière|
+| 1346 | Créer une routine matinale efficace | Productivité|
+| 1347 | Désencombrement & minimalisme | Personnel|
+| 1348 | Préparer un entretien annuel d'évaluation | Carrière|
+| 1349 | Cuisine anti-gaspi & restes | Personnel|
+| 1350 | Bilan de fin d'année (tous domaines, édition annuelle) | Gestion|
+| 1351 | Routine d'immersion linguistique quotidienne | Langues|
+| 1352 | Shadowing : repeter a voix haute en direct | Langues|
+| 1353 | Repetition espacee du vocabulaire (SRS) | Langues|
+| 1354 | Langue des affaires et communication professionnelle | Langues|
+| 1355 | Plan polyglotte : plusieurs langues en parallele | Langues|
+| 1356 | Comprehension orale : podcasts et series sans sous-titres | Langues|
+| 1357 | Lecture en langue etrangere : romans et graded readers | Langues|
+| 1358 | Preparer un entretien d'embauche en langue etrangere | Langues|
+| 1359 | Financer sa formation IA avec le CPF | Formation|
+| 1360 | Choisir une formation IA certifiante en | Formation|
+| 1361 | Concevoir un parcours de formation blended | Formation|
+| 1362 | Former ses equipes a l'IA en interne (atelier) | Formation|
+| 1363 | Evaluer l efficacite d une formation (Kirkpatrick) | Formation|
+| 1364 | Auto-formation a l'IA : parcours personnel | Formation|
+| 1365 | Construire un arbre de decision | Décision|
+| 1366 | Decider en equipe : DACI et RACI appliques | Décision|
+| 1367 | La regle 10-10-10 pour decider | Décision|
+| 1368 | Eviter les biais cognitifs de decision | Décision|
+| 1369 | Ecrire la vision produit d'une feature IA | Produit & IA|
+| 1370 | Concevoir l'onboarding d'une feature IA | Produit & IA|
+| 1371 | Mesurer l'adoption d'une feature IA | Produit & IA|
+| 1372 | Choisir la bonne skill pour une tache (dispatch manuel) | Routage|
+| 1373 | Composer plusieurs skills en workflow | Routage|
+| 1374 | Organiser son bureau physique : les 3 zones | Bureau|
+| 1375 | La regle des 5 minutes pour le courrier | Bureau|
+| 1376 | Dematérialiser ses documents (scan, coffre-fort) | Bureau|
+| 1377 | Session hebdomadaire de classement papier (15 min) | Bureau|
+| 1378 | Preparer une visioconference hybride bien equipee | Bureau|
+| 1379 | Gerer une procuration en ligne | Bureau|
+| 1380 | Choisir son modele economique (SaaS, licence, usage) | Stratégie|
+| 1381 | Strategie de croissance : acquisition vs retention | Stratégie|
+| 1382 | Rediger un plan strategique a 3 ans | Stratégie|
+| 1383 | Preparer une strategie d'export a l'international | Stratégie|
+| 1384 | Evaluer une cible pour une acquisition (M&A) | Stratégie|
+| 1385 | Integrer l'ESG et la RSE au business model | Stratégie|
+| 1386 | Construire une bibliographie académique (Zotero) | Recherche|
+| 1387 | Lire et critiquer une etude scientifique | Recherche|
+| 1388 | Faire une revue de litterature systematique (PRISMA) | Recherche|
+| 1389 | Eviter les biais de confirmation dans sa recherche d'info | Recherche|
+| 1390 | Rechercher dans les textes officiels (Legifrance, JO) | Recherche|
+| 1391 | Modeliser un schema en etoile (dimensions et faits) | Data|
+| 1392 | Choisir le bon graphique pour ses donnees | Data|
+| 1393 | Documenter un dataset (data card) | Data|
+| 1394 | Benchmarker des datasets publics pour son cas d'usage | Data|
+| 1395 | Construire un golden set d'evaluations pour un agent IA | Data & IA|
+| 1396 | Preparer un dataset propre pour le fine-tuning | Data & IA|
+| 1397 | Mesurer la qualite d'un RAG (fidelite, pertinence) | Data & IA|
+| 1398 | Gerer une question piege en interview ou en media | Communication|
+| 1399 | Annoncer un changement sensible avec humanite | Communication|
+| 1400 | Git rebase interactif et historique propre | Développement|
+| 1401 | Revue de code constructive | Développement|
+| 1402 | Gerer les conflits de merge | Développement|
+| 1403 | Hooks Git et pre-commit | Développement|
+| 1404 | Strategie de branching : GitFlow vs trunk-based | Développement|
+| 1405 | Refactoring en securite : petits pas et tests | Développement|
+| 1406 | Documentation vivante (docs-as-code) | Développement|
+| 1407 | Commentaires utiles dans le code | Développement|
+| 1408 | Gestion propre des erreurs et exceptions | Développement|
+| 1409 | Logging structure et niveaux de log | Développement|
+| 1410 | Configuration par environnement (12-factor) | Développement|
+| 1411 | Docker multi-stage et images legeres | Développement|
+| 1412 | Kubernetes : ConfigMaps, secrets et deploiement | Développement|
+| 1413 | Pipeline CI rapide : cache et parallelisation | Développement|
+| 1414 | Tests de contrat consommateur (Pact) | Développement|
+| 1415 | Tests de performance avec k6 ou Locust | Développement|
+| 1416 | Monitoring applicatif Prometheus et Grafana | Développement|
+| 1417 | Alerting sans bruit : alert fatigue | Développement|
+| 1418 | Rollout progressif et deploiement canary | Développement|
+| 1419 | Indexation avancee des bases de donnees | Développement|
+| 1420 | SQL avance : fonctions fenetres (window functions) | Développement|
+| 1421 | Transactions, verrouillage et deadlocks | Développement|
+| 1422 | Choisir sa base NoSQL : MongoDB, Redis, Cassandra | Développement|
+| 1423 | Cache applicatif et invalidation | Développement|
+| 1424 | Validation des donnees et contraintes BDD | Développement|
+| 1425 | Systeme de prompts modulaire (bibliotheque) | IA / Prompting|
+| 1426 | Few-shot : exemples dans les prompts | IA / Prompting|
+| 1427 | Sortie JSON fiable et validee | IA / Prompting|
+| 1428 | Agents en boucle ReAct et planification | IA / Prompting|
+| 1429 | Concevoir les outils (tools) d'un agent | IA / Prompting|
+| 1430 | Gerer le contexte long (200k tokens) | IA / Prompting|
+| 1431 | Compaction et resume de conversation | IA / Prompting|
+| 1432 | Equipe d'agents specialises par domaine | IA / Prompting|
+| 1433 | Human-in-the-loop multi-niveaux | IA / Prompting|
+| 1434 | Memoire d'agent : episodique vs semantique | IA / Prompting|
+| 1435 | A/B testing de prompts en production | IA / Prompting|
+| 1436 | Grounding : ancrer les reponses sur des sources | IA / Prompting|
+| 1437 | Auto-verification multi-passes (self-check) | IA / Prompting|
+| 1438 | Deployer un SLM on-device (mobile/edge) | IA / Prompting|
+| 1439 | UX du streaming des reponses LLM | IA / Prompting|
+| 1440 | Detecter PII et donnees sensibles dans les prompts | IA / Prompting|
+| 1441 | Cascade de modeles : router chaque tache au bon LLM | IA / Prompting|
+| 1442 | Cache semantique des reponses LLM | IA / Prompting|
+| 1443 | Choisir son modele d'embeddings | IA / Prompting|
+| 1444 | Chunking avance pour le RAG | IA / Prompting|
+| 1445 | Mise a jour automatique des dependances | Sécurité|
+| 1446 | Rotation automatique des secrets et cles API | Sécurité|
+| 1447 | IAM cloud : auditer et reduire les permissions | Sécurité|
+| 1448 | Messagerie chiffree de bout en bout (E2EE) | Sécurité|
+| 1449 | Deployer les passkeys (FIDO2) en entreprise | Sécurité|
+| 1450 | OAuth2 et OIDC : flows et securite PKCE | Sécurité|
+| 1451 | Protection DDoS applicative (WAF) | Sécurité|
+| 1452 | CSP stricte contre les attaques XSS | Sécurité|
+| 1453 | SIEM open source : centraliser les logs de securite | Sécurité|
+| 1454 | Exercice de crise cyber : tabletop | Sécurité|
+| 1455 | Privacy by design : RGPD dans le code | Sécurité|
+| 1456 | Securiser une app mobile (pinning, stockage) | Sécurité|
+| 1457 | Integrite des paquets : signatures et SLSA | Sécurité|
+| 1458 | Honeypot pour detecter les scans et attaques | Sécurité|
+| 1459 | Se preparer a la certification ISO 27001 | Sécurité|
+| 1460 | Orchestrer des pipelines avec Airflow, Prefect ou Dagster | Data|
+| 1461 | Detecter le schema drift (rupture de schema) | Data|
+| 1462 | TSDB et series temporelles : InfluxDB, TimescaleDB | Data|
+| 1463 | Warehouse vs data lake vs lakehouse | Data|
+| 1464 | Kafka : topics, partitions et consumer groups | Data|
+| 1465 | Anonymisation et pseudonymisation des donnees (RGPD) | Data|
+| 1466 | Provenance et lineage des donnees | Data|
+| 1467 | Reduire sa facture cloud data (BigQuery, Snowflake) | Data|
+| 1468 | Feature store pour le ML en production | Data|
+| 1469 | Centraliser et requeter ses logs applicatifs (ELK, Loki) | Data|
+| 1470 | Versionner modeles et donnees avec DVC et MLflow | Data & IA|
+| 1471 | Servir un LLM en API interne avec vLLM | Data & IA|
+| 1472 | Servir un modele local quantize (Ollama, llama.cpp) | Data & IA|
+| 1473 | Distillation : entrainer un petit modele a partir d'un grand | Data & IA|
+| 1474 | Alignement leger d'un modele : DPO et RLHF | Data & IA|
+| 1475 | Sandboxing des agents IA (execution isolee) | Data & IA|
+| 1476 | Tracer et deboguer un agent IA (traces) | Data & IA|
+| 1477 | Recherche hybride BM25 + embeddings | Data & IA|
+| 1478 | GraphRAG : interroger un graphe de connaissances | Data & IA|
+| 1479 | LoRA et QLoRA : fine-tuner pour peu cher | Data & IA|
+| 1480 | Rediger une spec produit legere d'une feature | Produit|
+| 1481 | North Star et arbre de metriques produit | Produit|
+| 1482 | Mesurer l'impact metier d'une feature | Produit|
+| 1483 | Tests utilisateurs a distance (Maze, Useberry) | Produit|
+| 1484 | Concevoir accessible des le depart (a11y by design) | Produit|
+| 1485 | Preparer son produit au multilingue (i18n/l10n) | Produit|
+| 1486 | Fermer la boucle des feedbacks utilisateurs | Produit|
+| 1487 | Deprecier une feature sans perdre ses utilisateurs (sunsetting) | Produit|
+| 1488 | Integrer un copilote IA dans son produit (in-app) | Produit & IA|
+| 1489 | UX de l'incertitude : afficher la confiance de l'IA | Produit & IA|
+| 1490 | Moderation hybride des sorties IA (humain + LLM) | Produit & IA|
+| 1491 | Budgeter une feature IA : cout par requete et par utilisateur | Produit & IA|
+| 1492 | Kill switch d'une feature IA (desactivation propre) | Produit & IA|
+| 1493 | Audit de coherence visuelle d'un produit | Design|
+| 1494 | Prototype cliquable en 1 jour avec l'IA | Design|
+| 1495 | Accessibilite des animations (prefers-reduced-motion) | Design|
+| 1496 | Thematisation produit : light, dark, high-contrast | Design|
+| 1497 | Analyser les demandes non routees (misses) et boucler | Routage|
+| 1498 | Automatisations souveraines avec n8n auto-heberge | Productivité|
+| 1499 | Resumer automatiquement une reunion avec actions | Productivité|
+| 1500 | Choisir son moteur de jeu : Unity, Godot ou Unreal | Game Dev|
+| 1501 | Boucle de jeu fixe : fixed timestep et interpolation | Game Dev|
+| 1502 | Gestion des scenes et transitions | Game Dev|
+| 1503 | Sauvegarde et chargement de partie | Game Dev|
+| 1504 | Systeme d'input moderne : actions, gamepad, remappable | Game Dev|
+| 1505 | Camera 2D : follow, deadzone et lookahead | Game Dev|
+| 1506 | Camera 3D third-person : collision et lock-on | Game Dev|
+| 1507 | Detection de collision 2D : AABB, cercles, SAT | Game Dev|
+| 1508 | Hitbox, hurtbox et i-frames | Game Dev|
+| 1509 | Physique 2D custom : gravité et saut variable | Game Dev|
+| 1510 | Plateformer : coyote time et jump buffering | Game Dev|
+| 1511 | Mouvement 8 directions et dash | Game Dev|
+| 1512 | Tilemap et autotiling par regles de bits | Game Dev|
+| 1513 | Generation procédurale de donjons : rooms et corridors | Game Dev|
+| 1514 | Cavernes par cellular automata | Game Dev|
+| 1515 | Bruit de Perlin pour terrain et heightmap | Game Dev|
+| 1516 | Wave Function Collapse (WFC) simplifié | Game Dev|
+| 1517 | Pathfinding A* avec poids et flow field | Game Dev|
+| 1518 | Navmesh 3D : baking et navigation | Game Dev|
+| 1519 | IA ennemie : state machine (FSM) simple | Game Dev|
+| 1520 | Perception ennemie : vue, ouïe et memoire | Game Dev|
+| 1521 | Utility AI : choisir l'action par score | Game Dev|
+| 1522 | GOAP : planification d'actions par objectif | Game Dev|
+| 1523 | Stealth : ligne de vue et cone de vision avances | Game Dev|
+| 1524 | Raycast et ligne de vue (LOS) en 2D/3D | Game Dev|
+| 1525 | Coordination d'ennemis : flanquement et focus | Game Dev|
+| 1526 | Boss : phases et patterns telegraphes | Game Dev|
+| 1527 | Spawner de vagues a difficulté progressive | Game Dev|
+| 1528 | Loot table ponderee et pity timer | Game Dev|
+| 1529 | Equilibrage d'economie interne : inflation et sinks | Game Dev|
+| 1530 | Progression joueur : XP, courbes de niveau et paliers | Game Dev|
+| 1531 | Systeme de quetes : journal, objectifs, recompenses | Game Dev|
+| 1532 | Arbre de dialogue avec conditions et consequences | Game Dev|
+| 1533 | Localisation in-game des textes (i18n des dialogues) | Game Dev|
+| 1534 | Inventaire : grille, drag and drop, stacking | Game Dev|
+| 1535 | Equipement et stats : armes, armures, rarete | Game Dev|
+| 1536 | Crafting : recettes, materiaux et forge | Game Dev|
+| 1537 | Arbre de competences (skill tree) et respec | Game Dev|
+| 1538 | Succes (achievements) et deblocages | Game Dev|
+| 1539 | Sauvegarde cloud et sync multi-appareils | Game Dev|
+| 1540 | Analytics de jeu : funnels, rétention D1/D7, telemetry | Game Dev|
+| 1541 | A/B testing in-game : evenements saisonniers | Game Dev|
+| 1542 | Live ops : evenements saisonniers et battle pass simple | Game Dev|
+| 1543 | Anti-triche : validation cote serveur | Game Dev|
+| 1544 | Architecture multijoueur : client-serveur vs P2P | Game Dev|
+| 1545 | Lag compensation : rewind et reconciliation | Game Dev|
+| 1546 | Lockstep vs snapshot interpolation | Game Dev|
+| 1547 | Prediction client et reconciliation serveur | Game Dev|
+| 1548 | Chat in-game et moderation automatique | Game Dev|
+| 1549 | Matchmaking : ELO/MMR simple et files d'attente | Game Dev|
+| 1550 | ECS : composition vs heritage pour le gameplay | Game Dev|
+| 1551 | Object pooling : reutiliser les objets | Game Dev|
+| 1552 | Profilage memoire et CPU du jeu | Game Dev|
+| 1553 | Draw calls : batching, atlas et occlusion culling | Game Dev|
+| 1554 | Sprite atlas : packer les sprites en 1 texture | Game Dev|
+| 1555 | Post-processing : vignette, grain, bloom legers | Game Dev|
+| 1556 | Eclairage 2D : lights, ombres et normal maps | Game Dev|
+| 1557 | Particules GPU : instancing pour milliers de particules | Game Dev|
+| 1558 | Screen shake et hit feedback visuel | Game Dev|
+| 1559 | Juice : game feel (squash & stretch, hitstop, particules) | Game Dev|
+| 1560 | State machine d'animation (Animator) | Game Dev|
+| 1561 | Blend trees : mouvement multidirectionnel fluide | Game Dev|
+| 1562 | Rigging procédural et IK deux os | Game Dev|
+| 1563 | IK avancé : full body et look-at | Game Dev|
+| 1564 | Ragdoll physique sur un personnage | Game Dev|
+| 1565 | Destruction procédurale simple (fracture de mesh) | Game Dev|
+| 1566 | Middleware audio : intégrer FMOD ou Wwise | Game Dev|
+| 1567 | Musique adaptative : layers selon l'intensite | Game Dev|
+| 1568 | SFX réactifs : variation de pitch/volume et pooling | Game Dev|
+| 1569 | Voix off (VO) : pipeline de doublage | Game Dev|
+| 1570 | HUD et minimap : barre de vie, jauge, objectifs | Game Dev|
+| 1571 | Menus accessibles : navigation clavier et manette | Game Dev|
+| 1572 | Tutoriel in-game contextuel et skippable | Game Dev|
+| 1573 | Ecran de chargement et streaming de niveaux | Game Dev|
+| 1574 | Ecran des reglages : qualité graphique, audio, contrôles | Game Dev|
+| 1575 | Accessibilite d'un jeu : daltonisme, tailles, secousses, sous-titres | Game Dev|
+| 1576 | Support des mods : architecture modable (JSON, scripts) | Game Dev|
+| 1577 | Console de commandes et cheats de dev | Game Dev|
+| 1578 | Versioning des builds et changelog joueur | Game Dev|
+| 1579 | Publication sur Steam : builds, depots et mise en ligne | Game Dev|
+| 1580 | Steamworks : succes, leaderboards, cloud saves, lobby | Game Dev|
+| 1581 | Page store et marketing d'un jeu (Steam, itch) | Game Dev|
+| 1582 | Monetisation mobile éthique : pub rewarded et IAP | Game Dev|
+| 1583 | Gacha et loot boxes : conformite legale en | Game Dev|
+| 1584 | RGPD et protection des mineurs dans un jeu video | Game Dev|
+| 1585 | Performance mobile : 60 fps, batterie et thermique | Game Dev|
+| 1586 | Build mobile : IL2CPP, Addressables, taille de l'app | Game Dev|
+| 1587 | Portage console : Switch, PS5, Xbox et certification | Game Dev|
+| 1588 | Soldes Steam et prix regionaux | Game Dev|
+| 1589 | Gerer les avis negatifs et une crise post-lancement | Game Dev|
+| 1590 | Addressables et DLC : contenu telechargeable et patchs | Game Dev|
+| 1591 | Tests automatises de gameplay (playmode tests) | Game Dev|
+| 1592 | CI/CD pour un jeu : builds auto multi-plateformes | Game Dev|
+| 1593 | Vertical slice : la tranche verticale de démonstration | Game Dev|
+| 1594 | Pitch deck pour un editeur de jeux video | Game Dev|
+| 1595 | Budget et planning d'un jeu independant | Game Dev|
+| 1596 | Communaute et devlog : Discord, reseaux, transparence | Game Dev|
+| 1597 | Demo Steam Next Fest et salons de jeu | Game Dev|
+| 1598 | Playtest organise : recruter, questionnaire, synthèse | Game Dev|
+| 1599 | Accessibilite legale des jeux video en Europe | Game Dev|
+| 1600 | Vite 8 et Rolldown (Rust) : accélérer ses builds | Développement|
+| 1601 | HTMX + backend : UI dynamique sans JavaScript lourd | Développement|
+| 1602 | Retour au serveur : React Server Components et edge | Développement|
+| 1603 | Astro + View Transitions API : site content-first rapide | Développement|
+| 1604 | TanStack Start + tRPC : full-stack type-safe | Développement|
+| 1605 | Qwik : reprise instantanée et first-load à l'échelle | Développement|
+| 1606 | WebGPU cross-browser : 3D et calcul GPU côté client | Développement|
+| 1607 | Inference ML côté client : ONNX Runtime Web + WebGPU | Développement|
+| 1608 | WebAssembly hors navigateur : WASI 2.0 et composants | Développement|
+| 1609 | Tauri vs PWA : app desktop légère depuis le web | Développement|
+| 1610 | CSS : :has, container queries, view transitions natifs | Développement|
+| 1611 | Local-first web : CRDT et synchro offline | Développement|
+| 1612 | Edge computing : Cloudflare Workers et Vercel Edge | Développement|
+| 1613 | Rolldown en CI : build parallélisé et cache | Développement|
+| 1614 | Migration Webpack vers Vite : guide pratique | Développement|
+| 1615 | View Transitions API multi-pages (MPA) | Développement|
+| 1616 | Architecture islands : hydratation partielle | Développement|
+| 1617 | Meta-frameworks : Next.js vs Nuxt vs SvelteKit vs React Router | Développement|
+| 1618 | Core Web Vitals : INP, LCP, CLS et RUM | Développement|
+| 1619 | Accessibilite front : ARIA 1.3, focus-visible, contraste auto | Design|
+| 1620 | Design tokens multi-plateformes : Style Dictionary, Tokens Studio | Design|
+| 1621 | MCP en production : registry officiel et gouvernance | IA / Prompting|
+| 1622 | A2A (Agent2Agent) : agents cross-organisation en | IA / Prompting|
+| 1623 | Choisir son protocole agent : MCP vs A2A vs ACP (fusionné) | IA / Prompting|
+| 1624 | WebMCP : navigateur agentique (Chrome origin trial) | IA / Prompting|
+| 1625 | Identite verifiable des agents : Agent Cards signes et Web Bot Auth | Sécurité|
+| 1626 | AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A | IA / Prompting|
+| 1627 | Business case d'un agent IA : eviter l'annulation (Gartner) | Produit & IA|
+| 1628 | Paiement agentique : UCP et mandates signes | IA / Prompting|
+| 1629 | Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework) | IA / Prompting|
+| 1630 | Evaluer un agent en production : trajectoires, pas que le prompt | Data & IA|
+| 1631 | Gateway MCP entreprise : audit, scopes, rate limit | Sécurité|
+| 1632 | Contexte 1M tokens : retrieval cible dans la masse | IA / Prompting|
+| 1633 | Modeles souverains europeens : Mistral et alternatives UE | IA / Prompting|
+| 1634 | Agents verticaux specialises vs generalistes | Produit & IA|
+| 1635 | Controle des couts d'agents : budget par tache et kill switch entreprise | Produit & IA|
+| 1636 | HITL a l'echelle : files d'approbation et routage | IA / Prompting|
+| 1637 | Memoire graphe d'agent : Zep, Graphiti | IA / Prompting|
+| 1638 | Agents de data engineering : pipelines auto (Cortex Code, Databricks, BigQuery) | Data & IA|
+| 1639 | Prompt-to-prod : de l'idee au deploiement surveille d'un agent | Produit & IA|
+| 1640 | Securite des agents IA en production : menaces (injection, exfiltration) | Sécurité|
+| 1641 | Post-quantum (PQC) : inventaire crypto et ML-KEM | Sécurité|
+| 1642 | Harvest now, decrypt later : proteger les donnees long terme | Sécurité|
+| 1643 | Passkeys a grande echelle : migration massive post | Sécurité|
+| 1644 | Zero trust device-level : IoT et edge en | Sécurité|
+| 1645 | Supply chain : SBOM + SLSA niveau 3 en CI | Sécurité|
+| 1646 | OWASP Top 10 : nouveautés et code genere par IA | Sécurité|
+| 1647 | Securite des modeles IA open source : revue avant deploiement | Sécurité|
+| 1648 | Detecter le contenu genere par IA : deepfakes video, voix clonee | Sécurité|
+| 1649 | NIS2, DORA et CMMC actifs : obligations | Sécurité|
+| 1650 | Crypto agilite : rotation d'algorithmes sans casser | Sécurité|
+| 1651 | SOAR et SOC automation en | Sécurité|
+| 1652 | Detection comportementale : UEBA et IA cote defense | Sécurité|
+| 1653 | Ransomware : playbook double extorsion et reprise | Sécurité|
+| 1654 | Identite machine : SPIFFE/SPIRE pour workloads | Sécurité|
+| 1655 | Securite DNS : DoH/DoT, DNSSEC et blocage malware | Sécurité|
+| 1656 | Secrets dynamiques : Vault transit et DB | Sécurité|
+| 1657 | Securite email : DMARC strict, BIMI, anti-spoofing | Sécurité|
+| 1658 | DevSecOps : SAST, DAST, SCA et secrets en CI | Sécurité|
+| 1659 | Bug bounty et divulgation responsable (VDP) | Sécurité|
+| 1660 | DuckDB : le SQLite de l'analytics, requêter Parquet/S3 directement | Data|
+| 1661 | MotherDuck : DuckDB dans le cloud hybride | Data|
+| 1662 | Apache Iceberg v3 : deletion vectors et row lineage | Data|
+| 1663 | Delta Lake vs Iceberg vs Hudi : choisir son open table format | Data|
+| 1664 | dlt (data load tool) : ingestion as code | Data|
+| 1665 | Polars vs pandas : DataFrame rapide en Rust | Data|
+| 1666 | Modern data stack -27 : dlt + DuckDB + dbt + Superset | Data|
+| 1667 | Consolidation du marché data : Fivetran+dbt, IBM+Confluent, SAP+Dremio | Data|
+| 1668 | Data Act septembre : acces aux donnees des produits connectes | Data|
+| 1669 | Data Act janvier : fin des frais de switching cloud | Data|
+| 1670 | Exit strategy cloud et DORA : plans de sortie testes | Data|
+| 1671 | Multimodal lakehouse : images, embeddings et textes (LanceDB) | Data & IA|
+| 1672 | Streaming -27 : Flink vs RisingWave vs Bytewax | Data|
+| 1673 | Kestra : orchestration YAML declarative | Data|
+| 1674 | Rill : BI as code sur DuckDB | Data|
+| 1675 | Data quality -27 : Great Expectations, Monte Carlo, alertes auto | Data|
+| 1676 | Semantic layer : une metrique, un calcul (dbt Semantic Layer, Cube) | Data|
+| 1677 | Reverse ETL : pousser les données warehouse vers les SaaS (Hightouch, Census) | Data|
+| 1678 | Data contracts en prod : enforcement auto en CI | Data|
+| 1679 | Choisir sa vector DB : pgvector, Qdrant, Milvus, Weaviate, LanceDB | Data & IA|
+| 1680 | OpenTelemetry pour la data : tracer les pipelines | Data|
+| 1681 | AI Act : calendrier post-Omnibus | Juridique|
+| 1682 | GPAI : Code of Practice et obligations fournisseurs | Juridique|
+| 1683 | Amendes AI Act : 35 M€ ou 7 % du CA | Juridique|
+| 1684 | Préparer l'Annexe III haut risque : deadline 2 décembre | Juridique|
+| 1685 | CADA : niveaux de souveraineté cloud UE | Juridique|
+| 1686 | Gaia-X niveau 3 : souveraineté pleine vs CLOUD Act | Juridique|
+| 1687 | AWS European Sovereign Cloud : évaluer l'offre souveraine US | Juridique|
+| 1688 | Souveraineté GPU et calcul IA en Europe | Juridique|
+| 1689 | EUCS : certification cloud européenne | Juridique|
+| 1690 | Produit IA conforme : transparence art. 50 des | Produit & IA|
+| 1691 | Watermarking du contenu IA : C2PA et Content Credentials | Produit & IA|
+| 1692 | Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO) | Produit & IA|
+| 1693 | AEO : structurer son contenu pour être cité par les LLM | Produit & IA|
+| 1694 | Tendances design web : bento grids, verre sobre, dark auto | Design|
+| 1695 | Motion design : view transitions, micro-interactions, scroll | Design|
+| 1696 | Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran) | Produit & IA|
+| 1697 | Signature électronique qualifiée eIDAS 2.0 | Bureau|
+| 1698 | Dashboard d'usage du catalogue de skills (analytics) | Routage|
+| 1699 | Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda | Data & IA|
+| 1700 | Construire une Internal Developer Platform (IDP) en | Développement|
+| 1701 | Golden paths : routes par defaut opinionnees | Développement|
+| 1702 | Backstage (CNCF) : portail developpeur self-host | Développement|
+| 1703 | Crossplane : provisionner l'infra en claims Kubernetes | Développement|
+| 1704 | GitOps avec Argo CD ou Flux | Développement|
+| 1705 | Kyverno / OPA : policies as code sur Kubernetes | Sécurité|
+| 1706 | Métriques DORA : mesurer la performance de livraison | Développement|
+| 1707 | Team Topologies : structurer les équipes plateforme | Gestion|
+| 1708 | AI-assisted IDP : demander un service en langage naturel | Produit & IA|
+| 1709 | Cout de l'IDP : TCO et justification metier | Gestion|
+| 1710 | Port, Cortex, Humanitec : IDP managé vs Backstage | Développement|
+| 1711 | Scorecards : niveaux de maturité des services | Développement|
+| 1712 | Framework SPACE : mesurer la productivité dev | Gestion|
+| 1713 | Onboarding developpeur : premier commit en jour 1 | RH & formation|
+| 1714 | Devcontainers : environnement de dev en 1 commande | Développement|
+| 1715 | Documentation développeur interne : TechDocs et docs-as-code | Développement|
+| 1716 | Kratix : promises et orchestration multi-cluster | Développement|
+| 1717 | Roadmap plateforme : de la v1 au produit interne | Gestion|
+| 1718 | Securite de la plateforme : zero trust interne | Sécurité|
+| 1719 | Communication plateforme : changelog et demos internes | Communication|
+| 1720 | eBPF : programmer le noyau Linux sans le modifier | Développement|
+| 1721 | Cilium : networking, sécurité et observabilité eBPF sur k8s | Développement|
+| 1722 | Hubble : observabilité réseau des flux k8s | Développement|
+| 1723 | Falco : détection d'intrusion runtime | Sécurité|
+| 1724 | Pixie / Beyla : observabilité zero-instrumentation | Data & IA|
+| 1725 | Tetragon : sécurité runtime avec enforcement | Sécurité|
+| 1726 | bpftrace : debug ad-hoc du noyau Linux | Développement|
+| 1727 | Cilium service mesh sans sidecar | Développement|
+| 1728 | Certification Cilium CCAE : valider ses compétences eBPF | Développement|
+| 1729 | eBPF en entreprise : gouvernance et coûts | Gestion|
+| 1730 | Katran : load balancer L4 eBPF de Meta | Développement|
+| 1731 | eBPF pour le stockage : monitoring I/O disque | Développement|
+| 1732 | eBPF et conteneurs : isolation réseau fine | Sécurité|
+| 1733 | eBPF et sécurité applicative : WAF dans le noyau | Sécurité|
+| 1734 | eBPF vs modules kernel : choisir en | Développement|
+| 1735 | Choisir son assistant de codage IA en (Cursor, Claude Code, Copilot, Devin...) | IA / Prompting|
+| 1736 | Securite du code genere par IA : revue, licences, fuite de donnees | Sécurité|
+| 1737 | Claude Code en CLI : missions longues et refacto | Développement|
+| 1738 | Agents de codage autonomes cloud : Devin, Codex | IA / Prompting|
+| 1739 | Mesurer le gain de productivite des outils IA | Gestion|
+| 1740 | Cursor : IDE agentique au quotidien | Développement|
+| 1741 | GitHub Copilot en entreprise : Business, crédits et revue de PR | Développement|
+| 1742 | OpenCode et Jules : agents de codage gratuits/open source | IA / Prompting|
+| 1743 | Aider et Cline : agents CLI open source dans le terminal | Développement|
+| 1744 | Sourcegraph Cody : chercher dans une grosse codebase | Développement|
+| 1745 | Lovable, Bolt, v0 : prototyper une appli web avec l'IA | Produit & IA|
+| 1746 | Documentation auto du code par IA : docstrings, README, ADR | Développement|
+| 1747 | Tests auto generes par l'IA depuis le code | Développement|
+| 1748 | Refactoring massif assisté par IA : dette technique | Développement|
+| 1749 | Vibe coding responsable : quand l'IA code, quand l'humain code | Développement|
+| 1750 | OpenTelemetry GenAI : sémantique standard pour les LLM | Data & IA|
+| 1751 | SLO pour les features LLM : latence, qualité, coût | Data & IA|
+| 1752 | Cout de l'observabilite : cardinalite, echantillonnage, stockage | Data|
+| 1753 | Golden signals + RED + USE : quels signaux mesurer | Data|
+| 1754 | Observability as code : dashboards et alertes en Git | Développement|
+| 1755 | AIOps : RCA automatique et réduction du MTTR | Data & IA|
+| 1756 | RUM : performance réelle des utilisateurs | Développement|
+| 1757 | SLO burn rate : alertes intelligentes sur le budget d'erreur | Data|
+| 1758 | Incident management : sévérité, rôles, post-mortem blameless | Gestion|
+| 1759 | Chaos engineering : tester la résilience en | Développement|
+| 1760 | SLO multi-niveaux et politique de budget d'erreur | Data|
+| 1761 | Alerting intelligent : debruitage et routage des alertes | Développement|
+| 1762 | Tracing distribué de bout en bout | Data|
+| 1763 | Cardinalité des métriques : pièges et limites | Data|
+| 1764 | Runbooks et auto-remédiation des incidents | Développement|
+| 1765 | Observabilité de la couche MCP et des appels d'outils des agents | Data & IA|
+| 1766 | Dashboards orientés décision et storytelling | Développement|
+| 1767 | Tracing LLM : tokens, appels d'outils et coût par requête | Data & IA|
+| 1768 | Post-incident : postmortem blameless et actions tracées | Gestion|
+| 1769 | Game days et exercices d'incident réguliers | Gestion|
+| 1770 | Rust dans le noyau Linux : bilan et trajectorie | Développement|
+| 1771 | pinned-init : initialisation épinglée en mémoire (Rust kernel) | Développement|
+| 1772 | Driver Binder (Android) réécrit en Rust | Développement|
+| 1773 | Driver NVMe en Rust | Développement|
+| 1774 | Driver GPU Asahi (Apple Silicon) en Rust | Développement|
+| 1775 | Projet Nova : driver GPU NVIDIA en Rust | Développement|
+| 1776 | Doctrine Torvalds : Rust est un ajout, pas un remplacement | Développement|
+| 1777 | Gouvernance du tree rust-for-linux et contribution | Gestion|
+| 1778 | Pourquoi Rust réduit les CVE mémoire du noyau | Sécurité|
+| 1779 | Feuille de route Rust kernel : nettoyage API puis nouveaux drivers | Stratégie|
+| 1780 | PostgreSQL 18 : vue d'ensemble des nouveautés | Data|
+| 1781 | AIO PostgreSQL 18 : I/O asynchrones (io_uring) | Data|
+| 1782 | uuidv7 dans PostgreSQL 18 : UUID monotones et localité d'index | Data|
+| 1783 | Skip scan B-tree PG18 : requêtes sur colonnes non-préfixe d'index | Data|
+| 1784 | Colonnes générées virtuelles (VIRTUAL) dans PG18 | Data|
+| 1785 | Tables temporelles PG18 : contraintes WITHOUT OVERLAPS | Data|
+| 1786 | OAuth 2.0 dans PostgreSQL 18 : bearer tokens JWT | Sécurité|
+| 1787 | pg_upgrade --swap : montée majeure sans downtime (PG18) | Data|
+| 1788 | Durcissement sécurité de PostgreSQL 18 | Sécurité|
+| 1789 | Plan de migration vers PostgreSQL 18/19 : tests, pgbench, rollback | Data|
+| 1790 | Inventaire cryptographique (CBOM) et plan de migration PQC | Sécurité|
+| 1791 | TLS 1.3 hybride X25519MLKEM768 (PQC ready) | Sécurité|
+| 1792 | Signatures post-quantiques ML-DSA et certificats X.509 hybrides | Sécurité|
+| 1793 | WASI 0.3 et Component Model : WebAssembly hors navigateur | Développement|
+| 1794 | Plugins et sandbox en WebAssembly : sécurité par capacités | Développement|
+| 1795 | Éco-conception logicielle : référentiel RGESN | Gestion|
+| 1796 | Mesurer l'empreinte carbone du SI : Scaphandre, Boavizta, EcoIndex, CSRD | Gestion|
+| 1797 | Edge computing : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale | Développement|
+| 1798 | DevEx : métriques SPACE + DORA et harness engineering | Gestion|
+| 1799 | Tech radar interne : quoi adopter, tester, évaluer, abandonner | Stratégie|
+| 1800 | AI Gateway : router et plafonner les appels LLM multi-fournisseurs | Data & IA|
+| 1801 | Gateway API : remplacer ingress-nginx | Développement|
+| 1802 | DRA : allocation dynamique des ressources matérielles (GPU, FPGA) | Développement|
+| 1803 | In-Place Pod Vertical Scaling : resizer les pods à chaud | Développement|
+| 1804 | Gang scheduling : ordonnancer les jobs distribués en bloc | Développement|
+| 1805 | Preemption workload-aware et scheduling topologique | Développement|
+| 1806 | Métriques PSI (Pressure Stall Information) : détecter la saturation | Data|
+| 1807 | OCI VolumeSource : monter des artifacts OCI comme volumes | Développement|
+| 1808 | MutatingAdmissionPolicy : admission déclarative en CEL | Sécurité|
+| 1809 | WebAssembly sur Kubernetes : pods Wasm (kwasm, SpinKube) | Développement|
+| 1810 | Karpenter : autoscaling de nœuds et consolidation | Développement|
+| 1811 | Choisir OpenTofu ou Terraform pour l'IaC | Développement|
+| 1812 | OpenTofu : chiffrement du state (state encryption) | Sécurité|
+| 1813 | OpenTofu : ephemeral values (secrets hors du state) | Sécurité|
+| 1814 | OpenTofu : prevent_destroy dynamique et lifecycle enabled | Développement|
+| 1815 | OpenTofu : provider for_each, early variable evaluation, -exclude | Développement|
+| 1816 | Registre de modules et providers en OCI (OpenTofu) | Développement|
+| 1817 | Terraform Stacks (HCP) : orchestration multi-environnements | Développement|
+| 1818 | Terraform query/list : découvrir les ressources hors du state (drift) | Développement|
+| 1819 | Migrer Terraform vers OpenTofu (state compatible) | Développement|
+| 1820 | Drift detection et policy as code sur l'IaC (OPA vs Sentinel) | Sécurité|
+| 1821 | SBOM en CI : Syft/Trivy vers CycloneDX ou SPDX | Sécurité|
+| 1822 | Signature keyless des artifacts avec Sigstore (cosign, Fulcio, Rekor) | Sécurité|
+| 1823 | Provenance SLSA et attestations in-toto | Sécurité|
+| 1824 | Admission control supply chain : bloquer les images non vérifiées | Sécurité|
+| 1825 | Attestations CycloneDX (CDXA) et bundles Sigstore | Sécurité|
+| 1826 | Triage des CVE avec VEX, KEV et re-scan post-build | Sécurité|
+| 1827 | Curation des dépendances : Socket, Phylum, Snyk, Scorecard, GUAC | Sécurité|
+| 1828 | Images distroless Chainguard : réduire la surface d'attaque | Sécurité|
+| 1829 | Build integrity en CI : OIDC, Tekton Chains, pas de secrets longue durée | Sécurité|
+| 1830 | SBOM et conformité réglementaire (CRA, contrats clients) | Juridique|
+| 1831 | Data contracts : accords producteur-consommateur (schéma, sémantique, SLA) | Data|
+| 1832 | OpenLineage : standard ouvert de lineage des données | Data|
+| 1833 | Marquez : backend de référence OpenLineage (lineage colonne, impact analysis) | Data|
+| 1834 | dbt : models, tests et contracts de schéma | Data|
+| 1835 | SLA de data quality : fraîcheur, volume, schéma, distribution | Data|
+| 1836 | Choisir son métacatalog : DataHub vs OpenMetadata vs Marquez | Data|
+| 1837 | Data mesh : domaines propriétaires et data products | Stratégie|
+| 1838 | Semantic layer : métriques métier centralisées | Data|
+| 1839 | Gouvernance data : classification, PII, accès RBAC/ABAC, rétention | Juridique|
+| 1840 | Data contracts as code : IDL, versioning, compatibilité backward | Développement|
+| 1841 | Architecture des guardrails LLM en production (5 rails) | Data & IA|
+| 1842 | NeMo Guardrails : rails programmables en Colang | Data & IA|
+| 1843 | Guardrails AI : validators composables en Python | Data & IA|
+| 1844 | Llama Guard 3 : classifieur judge self-hosté | Data & IA|
+| 1845 | Défense contre le prompt injection (direct et indirect) | Sécurité|
+| 1846 | Détection et redaction PII avec Microsoft Presidio | Sécurité|
+| 1847 | Red-teaming LLM en CI : promptfoo, garak, DeepTeam | Sécurité|
+| 1848 | Evals LLM en continu : datasets, scorers, monitoring prod | Data & IA|
+| 1849 | OWASP LLM Top 10 : les 10 risques LLM (édition courante) | Sécurité|
+| 1850 | Least-privilege pour les agents IA (tool-permission gating) | Sécurité|
+| 1851 | Secrets Kubernetes : base64 n'est pas du chiffrement | Sécurité|
+| 1852 | HashiCorp Vault : coffre-fort central des secrets | Sécurité|
+| 1853 | Vault dynamic secrets : credentials à durée de vie (TTL) | Sécurité|
+| 1854 | External Secrets Operator (ESO) : sync des secrets externes vers k8s | Sécurité|
+| 1855 | Rotation automatique des secrets (zero downtime) | Sécurité|
+| 1856 | Sealed Secrets (Bitnami) : secrets chiffrés dans Git (GitOps) | Sécurité|
+| 1857 | SOPS + age/KMS : chiffrer les fichiers de config hors cluster | Sécurité|
+| 1858 | Vault Agent Injector / CSI : secrets dans le pod sans objet Secret etcd | Sécurité|
+| 1859 | Détection de fuites de secrets (gitleaks, trufflehog) en pre-commit et CI | Sécurité|
+| 1860 | OIDC workload identity en CI : plus de clés cloud statiques | Sécurité|
+| 1861 | FOCUS : standard ouvert des coûts cloud multi-fournisseurs | Gestion|
+| 1862 | FinOps Kubernetes : allocation des coûts par namespace et workload | Gestion|
+| 1863 | Choisir son orchestrateur de pipelines data | Data|
+| 1864 | Dagster : orchestration asset-centric | Data|
+| 1865 | Prefect : flows Python natifs et déploiement léger | Data|
+| 1866 | CDC log-based : Debezium, Airbyte, capturer les changements en temps réel | Data|
+| 1867 | Airbyte : 300+ connecteurs, ingestion et CDC managés | Data|
+| 1868 | Temporal : workflows durables pour agents IA long-running | Développement|
+| 1869 | Pipelines event-driven : déclencher sur événement, pas sur cron | Data|
+| 1870 | Showback/chargeback : répartir les coûts par équipe et produit | Gestion|
+| 1871 | cert-manager : certificats TLS automatiques | Développement|
+| 1872 | external-dns : synchroniser automatiquement les enregistrements DNS | Développement|
+| 1873 | KEDA : autoscaling event-driven (Kafka, queues, cron, métriques) | Développement|
+| 1874 | Cluster API (CAPI) : gérer des clusters k8s comme des ressources k8s | Développement|
+| 1875 | Talos Linux : OS immutable pour Kubernetes | Développement|
+| 1876 | Service mesh : Linkerd vs Istio (vs Cilium mesh) | Développement|
+| 1877 | Argo Rollouts : canary avancé avec analysis Prometheus | Développement|
+| 1878 | Karpenter avancé : NodePool, consolidation, drift | Développement|
+| 1879 | GitOps avancé avec Argo CD : ApplicationSet, sync waves | Développement|
+| 1880 | Backup et reprise après sinistre Kubernetes (Velero, etcd) | Sécurité|
+| 1881 | Feature flags : kill switches, rollouts graduels, A/B tests | Développement|
+| 1882 | OpenFeature : SDK vendor-neutral pour les flags | Développement|
+| 1883 | Progressive delivery : flags vs canary vs blue-green | Développement|
+| 1884 | Renovate/Dependabot : dépendances à jour automatiquement | Développement|
+| 1885 | Quality gates : SonarQube, SAST, dette technique en CI | Développement|
+| 1886 | OpenAPI 3.2 / AsyncAPI : spec-first pour les API | Développement|
+| 1887 | Monorepo : Nx, Turborepo, Bazel (cache, affected, remote cache) | Développement|
+| 1888 | Métriques DORA elite : mesurer la performance de livraison | Gestion|
+| 1889 | Documentation développeur interne : TechDocs, doc-as-code | Développement|
+| 1890 | Revue de code assistée par IA + revue humaine ciblée | Développement|
+| 1891 | Choisir son EDR/XDR : CrowdStrike, SentinelOne, Defender, Cortex | Sécurité|
+| 1892 | XDR : corrélation cross-domain en une timeline d'incident | Sécurité|
+| 1893 | MDR : détection et réponse managées 24/7 (retainer) | Sécurité|
+| 1894 | Threat intelligence : MISP, STIX/TAXII, intégration SIEM | Sécurité|
+| 1895 | Sécurité DNS : DNSSEC, DoH/DoT, resolvers chiffrés | Sécurité|
+| 1896 | Passkeys (FIDO2/WebAuthn) : MFA phishing-resistant en masse | Sécurité|
+| 1897 | Incident response : retainer, forensics, playbooks, crise | Sécurité|
+| 1898 | DAST/IAST en CI : scanner les API et applis en exécution | Sécurité|
+| 1899 | Security champions : relais sécurité dans chaque équipe | Gestion|
+| 1900 | Bug bounty et VDP : recevoir et traiter les signalements de vulnérabilités | Sécurité|
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |
@@ -1185,7 +2186,458 @@
 | 897 | Protection du dirigeant (assurance homme clé) | Finance|
 | 898 | Préparation d'une levée de fonds (amorçage) | Stratégie|
 | 899 | Bilan de fin d'année (tous domaines) | Gestion|
+| 900 | Préparer l'AI Act haut risque (annexe III, déc. 2027) | Juridique|
+| 901 | Transparence IA obligatoire (contenu généré, chatbots) | Juridique|
+| 902 | Gestion algorithmique du travail (AI Act emploi) | RH & formation|
+| 903 | Petits modèles locaux (SLM) pour PME | IA / Prompting|
+| 904 | Agent vocal en support client (2027) | Produit & IA|
+| 905 | Sécurité des marketplaces de skills (ClawHub, skills.sh) | Sécurité|
+| 906 | Certificats TLS 64 jours (Let's Encrypt, fév. 2027) | Développement|
+| 907 | Attaques IA autonomes & social engineering 2027 | Sécurité|
+| 908 | Zero Trust & identité des agents IA | Sécurité|
+| 909 | Bot traffic & anti-scraping 2027 | Développement|
+| 910 | PLF 2027 : dons d'argent allégés S1 2027 | Finance|
+| 911 | PLF 2027 : indemnités de rupture plafonnées à 1 PASS | Juridique|
+| 912 | Directive européenne transparence salariale (fin 2027) | RH & formation|
+| 913 | ETIAS 2027 : autorisation voyage Europe | Personnel|
+| 914 | Nouveaux trains Europe 2027 (Munich-Rome, trains de luxe) | Personnel|
+| 915 | Canicule & été 2027 : se préparer | Personnel|
+| 916 | Régulation nerveuse & micro-rituels 2027 | Personnel|
+| 917 | Métabolisme & biomarqueurs personnels (CGM, tests sanguins) | Personnel|
+| 918 | Semaine de 4 jours : négocier & tester | Carrière|
+| 919 | Reconversion & métiers porteurs 2027 | Carrière|
+| 920 | Droit à la déconnexion renforcé | Juridique|
+| 921 | Prévenir le bore-out (ennui au travail) | Personnel|
+| 922 | Marque employeur & recrutement par compétences 2027 | Gestion|
+| 923 | Dumbphone & réduction d'écran volontaire | Personnel|
+| 924 | Souveraineté numérique & hébergement européen | Développement|
+| 925 | Agent Client Protocol (ACP) & BYO agent | Développement|
+| 926 | Intelligent UI : interfaces générées par l'IA | Produit|
+| 927 | Tarification hybride des logiciels IA (per-user + usage) | Gestion|
+| 928 | Shadow IA : encadrer les usages informels | Gestion|
+| 929 | World models & simulation pour la recherche | Data & IA|
+| 930 | Contenu audio IA (Suno/Udio) : musique & voix | Créativité|
+| 931 | Robots humanoïdes au travail (2027) | Gestion|
+| 932 | EES : contrôle biométrique aux frontières Schengen | Personnel|
+| 933 | Permis Graduate UK raccourci à 18 mois (2027) | Carrière|
+| 934 | Règles bagages cabine & powerbanks 2027 | Personnel|
+| 935 | Anah & rénovation globale 2027 (recentrage PLF 2027) | Finance|
+| 936 | Reprise d'entreprise par les salariés (Pacte Papin 2027) | Gestion|
+| 937 | Prévention RPS & bien-être au travail (indicateur 2027) | RH & formation|
+| 938 | GEO / AEO : être cité par les moteurs IA | Marketing|
+| 939 | Vérification humaine des sorties d'agents (2027) | Data & IA|
+| 940 | Données publiques & scraping éthique/légal 2027 | Juridique|
+| 941 | Nutrition fonctionnelle & santé cardiovasculaire 2027 | Personnel|
+| 942 | Sommeil & voyages (sleep tourism) 2027 | Personnel|
+| 943 | IA embarquée & on-device (téléphone 2027) | Développement|
+| 944 | Fact-checking & NotebookLM ancré 2027 | Recherche|
+| 945 | Prompt « caveman » & concision des sorties IA | IA / Prompting|
+| 946 | Gestion des données d'entraînement & opt-out (créateur) | Juridique|
+| 947 | Agent éphémère jetable (one-shot tasks) | IA / Prompting|
+| 948 | Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027) | Juridique|
+| 949 | Bilan & objectifs 2027 (tous domaines) | Gestion|
+| 950 | Négocier un PSE (plan de sauvegarde de l'emploi) | Juridique|
+| 951 | Accord d'intéressement & participation 2027 | RH & formation|
+| 952 | Prévention des addictions (écrans, jeux, paris) 2027 | Personnel|
+| 953 | Gestion d'une fraude bancaire en ligne (2027) | Sécurité|
+| 954 | Vol ou perte de passeport à l'étranger (2027) | Personnel|
+| 955 | Démarches administratives en ligne (ANTS,ANTS 2027) | Bureau|
+| 956 | Vérification d'un site de rencontre (arnaques) | Sécurité|
+| 957 | Gestion d'un piratage de compte (mail, réseau social) | Sécurité|
+| 958 | Préparation d'une expatriation (visa, banque, santé) 2027 | Personnel|
+| 959 | Achat d'une voiture électrique d'occasion (2027) | Personnel|
+| 960 | Installation d'une borne de recharge à domicile (2027) | Personnel|
+| 961 | Rénovation énergétique globale (DPE) 2027 | Finance|
+| 962 | Vérification d'une offre de colocation / arnaque logement | Recherche|
+| 963 | Rédiger un testament (formes, légataires, réserve héréditaire) | Juridique|
+| 964 | Ouverture d'un PEA / compte-titres 2027 | Finance|
+| 965 | Assurance habitation & multirisque 2027 | Finance|
+| 966 | Crédit immobilier : simuler & comparer les offres 2027 | Finance|
+| 967 | Vérifier une entreprise avant embauche/achat (due diligence légère) | Recherche|
+| 968 | Préparer un entretien d'embauche côté candidat (STAR + questions) | Carrière|
+| 969 | Négocier une rupture conventionnelle individuelle | Juridique|
+| 970 | Prévenir l'usure professionnelle (santé au travail) | Personnel|
+| 971 | Gestion d'un conflit entre collègues | Communication|
+| 972 | Organiser un pot de départ / événement d'équipe | Communication|
+| 973 | Lire et comprendre sa fiche de paie (2027) | Juridique|
+| 974 | Déclarer ses revenus 2027 (déclaration en ligne) | Juridique|
+| 975 | Faire reconnaître une maladie professionnelle (MP) | Juridique|
+| 976 | Acheter un bien en VEFA / neuf en 2027 | Finance|
+| 977 | Louer son bien en meublé (LMNP) vs nu 2027 | Finance|
+| 978 | Préparer sa retraite (PER, calcul rente) 2027 | Finance|
+| 979 | Faire un audit énergétique & DPE avant travaux 2027 | Finance|
+| 980 | Créer une SCI (société civile immobilière) 2027 | Gestion|
+| 981 | Gérer un litige avec un artisan / travaux bâclés | Juridique|
+| 982 | Prévenir le surendettement & FICP 2027 | Finance|
+| 983 | Acheter un produit reconditionné en sécurité (2027) | Personnel|
+| 984 | Préparer un road-trip en van aménagé 2027 | Personnel|
+| 985 | Préparer un mariage écolo & petit budget 2027 | Personnel|
+| 986 | Préparer un trek / randonnée plusieurs jours 2027 | Personnel|
+| 987 | Organiser un enterrement de vie de célibataire (EVJF/EVG) 2027 | Personnel|
+| 988 | Préparer une expédition vélo (cyclotourisme) 2027 | Personnel|
+| 989 | Préparer une expédition en kayak/canoë 2027 | Personnel|
+| 990 | Faire du volontariat international (VSI, PVT) 2027 | Carrière|
+| 991 | Préparer un déménagement à l'étranger (douane, conteneur) 2027 | Personnel|
+| 992 | Acheter un bien à l'étranger (résidence secondaire) 2027 | Finance|
+| 993 | Gérer un litige avec une compagnie aérienne (2027) | Juridique|
+| 994 | Souscrire une assurance voyage/rapatriement 2027 | Personnel|
+| 995 | Préparer un road-trip moto 2027 | Personnel|
+| 996 | Organiser un séminaire d'entreprise 2027 | Gestion|
+| 997 | Préparer une mobilité interne (changement de poste) 2027 | Carrière|
+| 998 | Faire une pause carrière (congé sabbatique) 2027 | Carrière|
+| 999 | Bilan & objectifs 2027 (tous domaines) — édition annuelle | Gestion|
+| 1000 | Acceptance Scenario Derivation | Gestion|
+| 1001 | Accessibility Evidence Register | Recherche|
+| 1002 | Accessible Alternative Text Review | IA / Prompting|
+| 1003 | Accountant Meeting & Document Preparation | Créativité|
+| 1004 | Active Directory Architecture Design | Développement|
+| 1005 | Active Directory Management | Design|
+| 1006 | AD Migration & Consolidation | Gestion|
+| 1007 | AD Replication & Sites Management | RH & formation|
+| 1008 | AD Security & Tiering | IA / Prompting|
+| 1009 | Adaptive Audio Implementation | Développement|
+| 1010 | Adaptive Interactive Music & Stems | Créativité|
+| 1011 | Adversarial Testing & Robustness | Développement|
+| 1012 | Advertising Measurement & Experimentation | IA / Prompting|
+| 1013 | Agent Role Regression Campaign | Gestion|
+| 1014 | Agent State Boundary Design | IA / Prompting|
+| 1015 | AI Act Technical Oversight Mapping | Design|
+| 1016 | AI Adoption Feedback Decision | Produit|
+| 1017 | AI Capability Interface Specification | Design|
+| 1018 | AI Ethical Impact Decision Record | IA / Prompting|
+| 1019 | Skill: AI Explainability & Transparency | Gestion|
+| 1020 | AI Feature Prioritization & Metrics | Data & IA|
+| 1021 | AI Feature Success Contract | IA / Prompting|
+| 1022 | AI Model Release Value Decision | Développement|
+| 1023 | AI Product Discovery & Adoption | Produit|
+| 1024 | AI Product Strategy & Roadmap | IA / Prompting|
+| 1025 | AI-SI Integration Strategy | Gestion|
+| 1026 | AI System Architecture Design | Développement|
+| 1027 | AI System Failure Recovery Design | IA / Prompting|
+| 1028 | AI Transparency Audience Plan | Design|
+| 1029 | Anti-Bot Evasion & Scraping Best Practices | Développement|
+| 1030 | API Documentation & OpenAPI Specification | Développement|
+| 1031 | API and Webhook Contract Mapping | Développement|
+| 1032 | Application Diagnostics & Troubleshooting | Développement|
+| 1033 | Application Migration Data Transfer | Data & IA|
+| 1034 | Application Synchronization Conflict Policy | Gestion|
+| 1035 | AppSec Trust-Boundary Review | Développement|
+| 1036 | APT and Pacman Recovery Planning | Gestion|
+| 1037 | Architecture Quality Scenario | Développement|
+| 1038 | Artifact Dependency Inventory | Gestion|
+| 1039 | ASP.NET Core API Development | Développement|
+| 1040 | Audit Cohérence Logique Brief | Gestion|
+| 1041 | B2B Prospecting & Lead Qualification | Vente|
+| 1042 | Backend Transaction Consistency | Développement|
+| 1043 | Backup Recovery Automation | Développement|
+| 1044 | Bash Exit and Signal Safety | Développement|
+| 1045 | Behavioral Pattern Analysis (Analyse Patterns Comportementaux) | Design|
+| 1046 | Belgian Accounting & Bookkeeping Basics | Finance|
+| 1047 | Belgian VAT & Tax Orientation | Créativité|
+| 1048 | Bitmap Texture & Sprite Sheet Preparation | Design|
+| 1049 | Blazor Component Design | Développement|
+| 1050 | Blender Game-Ready Export Pipeline | Développement|
+| 1051 | Blender Hard Surface & Organic Modeling | Développement|
+| 1052 | Blender Rigging & Animation Workflow | Développement|
+| 1053 | Blender UV Unwrap & PBR Material Setup | Développement|
+| 1054 | Bounded Utility Specification | Gestion|
+| 1055 | BPMN Process Modeling | IA / Prompting|
+| 1056 | Brand Positioning Strategy | Marketing|
+| 1057 | Brief Assumption Ledger | Design|
+| 1058 | Business Insight Narrative | Data & IA|
+| 1059 | Business KPI Analysis & Dashboard Design | Data & IA|
+| 1060 | Calibration Confiance Décisionnelle | IA / Prompting|
+| 1061 | Campaign Claim Evidence Review | Recherche|
+| 1062 | Capacity Planning & Sizing | Gestion|
+| 1063 | Certificate Management Applications | Développement|
+| 1064 | Chain of Thought Engineering | Développement|
+| 1065 | Change Readiness Evidence | Développement|
+| 1066 | Claim-Source Evidence Matrix | Recherche|
+| 1067 | Cloud Architecture Design | Développement|
+| 1068 | Cloud Cost Optimization | Recherche|
+| 1069 | Cloud Failure-Domain Placement | Gestion|
+| 1070 | Cloud IAM Responsibility Blueprint | Design|
+| 1071 | Cloud Migration Strategy | Gestion|
+| 1072 | Cloud Migration Wave Acceptance | Gestion|
+| 1073 | Cloud Security & Compliance | Développement|
+| 1074 | Cloud Storage Strategies | IA / Prompting|
+| 1075 | Code Architecture Trace Documentation | Développement|
+| 1076 | Cognitive Journey Barrier Review | Formation|
+| 1077 | Cognitive Load Assessment | Développement|
+| 1078 | Commercial Opportunity & Segment Mapping | Développement|
+| 1079 | Competitive Landscape & Positioning Analysis | Produit|
+| 1080 | Compliance Automation (RegOps) | Design|
+| 1081 | Component Dependency Conformance | Développement|
+| 1082 | Medical Consultation Preparation | Créativité|
+| 1083 | Container Registry Management | Développement|
+| 1084 | Content Approval Evidence | Recherche|
+| 1085 | Content Regression Checkpointing | Rédaction|
+| 1086 | Contingency Trigger Design | Design|
+| 1087 | Contract Drafting & Negotiation | Produit|
+| 1088 | Controlled Vocabulary Lifecycle | Gestion|
+| 1089 | Conversion Copy Experimentation | Développement|
+| 1090 | Cookie Consent Evidence Review | Produit|
+| 1091 | Corporate & Litigation Risk Management | Design|
+| 1092 | Cost Governance (FinOps elargi) | Data & IA|
+| 1093 | Cross-Artifact Consistency Review | Gestion|
+| 1094 | Cross-Locale Meaning Alignment | Design|
+| 1095 | Data Catalog & Lineage | Data & IA|
+| 1096 | Data Freshness Incident Triage | Data & IA|
+| 1097 | Data Governance & Quality | Data & IA|
+| 1098 | Data Lake Architecture & Storage | Développement|
+| 1099 | Data Quality Monitoring | Développement|
+| 1100 | Data Retention Policy Design | Data & IA|
+| 1101 | Data Stewardship Responsibility Design | Développement|
+| 1102 | Data Storytelling & Insights Communication | Data & IA|
+| 1103 | Data Visualization & ML Insights | IA / Prompting|
+| 1104 | Debian & Arch System Administration | Développement|
+| 1105 | Deliverable Completeness Review | Gestion|
+| 1106 | Détection Boucles Délégation | Gestion|
+| 1107 | Dialogue & Quest Scripting Workflow | Développement|
+| 1108 | Disaster Recovery Design | Design|
+| 1109 | Docker Compose Orchestration | Développement|
+| 1110 | Dockerfile Best Practices | Développement|
+| 1111 | Document d'Architecture du Système d'Information (DIS) | Développement|
+| 1112 | Documentation Example Verification | Développement|
+| 1113 | Dynamic Web Scraping (Playwright/Selenium) | Développement|
+| 1114 | EDA & Statistical Analysis for ML | IA / Prompting|
+| 1115 | Editorial Change Impact | Rédaction|
+| 1116 | Engine Profiling & Build Pipeline | Développement|
+| 1117 | Enterprise Application Lifecycle | Développement|
+| 1118 | Entity Framework Core Migrations | Développement|
+| 1119 | Skill: Ethical Impact Assessment | IA / Prompting|
+| 1120 | Ethical Monetization & Compliance Watch | Développement|
+| 1121 | ETL Pipeline Design & Orchestration | Développement|
+| 1122 | Evidence-Claim Reconciliation | Recherche|
+| 1123 | Excel Advanced Functions | IA / Prompting|
+| 1124 | Execution Commande Shell | Gestion|
+| 1125 | Experiment Power Planning | Data & IA|
+| 1126 | Exploration Coverage Boundary | IA / Prompting|
+| 1127 | Fairness & Bias Detection | Design|
+| 1128 | Feature Engineering & Data Preparation | Développement|
+| 1129 | FinTech Business Model Strategy | IA / Prompting|
+| 1130 | FinTech Partnership & Ecosystem Strategy | IA / Prompting|
+| 1131 | FinTech Product & Market Strategy | Produit|
+| 1132 | Firewall Rule Design | Développement|
+| 1133 | Foundation Model Support Watch | IA / Prompting|
+| 1134 | Functional Specification & Traceability | Développement|
+| 1135 | FX Performance Budget Optimization | Design|
+| 1136 | Game AI Difficulty & Director Tuning | Design|
+| 1137 | Game Audio Mixing & Loudness | Design|
+| 1138 | Game Economy Sources & Sinks Modeling | IA / Prompting|
+| 1139 | Game Engine Performance & Profiling | Gestion|
+| 1140 | Game Loop & ECS Architecture | Développement|
+| 1141 | Game Music Composition & Themes | IA / Prompting|
+| 1142 | GDExtension & Native Module Development | Développement|
+| 1143 | Generative Model Selection & Evaluation | IA / Prompting|
+| 1144 | General Purpose Delegation Fallback | Gestion|
+| 1145 | Generative Capability Benchmark Design | IA / Prompting|
+| 1146 | Generative Output Quality Benchmarking | Développement|
+| 1147 | Gestion Echecs & Rollback | IA / Prompting|
+| 1148 | GIMP Photo Retouch & Compositing | Design|
+| 1149 | Godot Animation System Integration | Développement|
+| 1150 | Godot Export & Build Pipeline | Développement|
+| 1151 | GPO Advanced Design & Troubleshooting | IA / Prompting|
+| 1152 | Grammar & Orthography Compliance Audit | Rédaction|
+| 1153 | Grammatical Ambiguity Resolution | Design|
+| 1154 | Grill Me (Clarification Socratique) | Design|
+| 1155 | Hallucination Evidence Evaluation | IA / Prompting|
+| 1156 | Health Information Literacy | Design|
+| 1157 | Hygiene Environnement Execution | Recherche|
+| 1158 | I Have ADHD (Output Mode Neurodivergent) | Gestion|
+| 1159 | IaC Blueprint Generation | Développement|
+| 1160 | IaC On-Prem Automation | Développement|
+| 1161 | Incident Commander (SRE / Runbook) | Design|
+| 1162 | Inclusive Design Psychology (Psychologie Design Inclusif) | Design|
+| 1163 | Inclusive Research Protocol | Design|
+| 1164 | Inference Cache Benefit Assessment | IA / Prompting|
+| 1165 | Infrastructure Resilience Design | Développement|
+| 1166 | Inkscape Icon & Logo System Design | Développement|
+| 1167 | Inkscape SVG Export & Optimization | Développement|
+| 1168 | Inkscape Vector Production Workflow | Design|
+| 1169 | Integration Reliability Patterns | Gestion|
+| 1170 | Intellectual Property Protection | Recherche|
+| 1171 | Interactive Narrative & Branching Design | Créativité|
+| 1172 | Interface Error-Recovery Writing | Design|
+| 1173 | Knowledge Curator (RAG / Docs Ops) | IA / Prompting|
+| 1174 | Krita Digital Painting Workflow | Développement|
+| 1175 | Landing Page Argument Design | Marketing|
+| 1176 | Language Correction Regression Suite | Design|
+| 1177 | Libre Software Advocacy & Licensing | IA / Prompting|
+| 1178 | Linux Security Hardening | Développement|
+| 1179 | LLM Latency Bottleneck Measurement | IA / Prompting|
+| 1180 | LLM Token Cost Attribution | IA / Prompting|
+| 1181 | Localization Context Adaptation | Design|
+| 1182 | Lore, Worldbuilding Bible & Localization Prep | Développement|
+| 1183 | M365 Integration Patterns | Développement|
+| 1184 | MariaDB Performance & Reliability | Gestion|
+| 1185 | Market & Competitive Intelligence | Recherche|
+| 1186 | Marketing Email Sequence Drafting | Marketing|
+| 1187 | Meaning-Preserving Reformulation | Gestion|
+| 1188 | Meeting Decision Extraction | Communication|
+| 1189 | Message Delivery Recovery Design | Design|
+| 1190 | Metadata Classification Policy | Data & IA|
+| 1191 | ML Error Cohort Analysis | IA / Prompting|
+| 1192 | ML Experimentation & Validation | IA / Prompting|
+| 1193 | MLOps & Model Lifecycle Management | IA / Prompting|
+| 1194 | ML Pipeline Design & Evaluation | Développement|
+| 1195 | Model Drift Retraining Gate | IA / Prompting|
+| 1196 | Multi-Agent Orchestration Patterns | IA / Prompting|
+| 1197 | Multi-Cloud Tradeoff Analysis | Gestion|
+| 1198 | Multi-OS Integration Strategy | Développement|
+| 1199 | Multilingual Quality & Localization | Rédaction|
+| 1200 | Music Arrangement, Loop & Delivery | Développement|
+| 1201 | MySQL Query Optimization | Développement|
+| 1202 | NestJS Architecture | Développement|
+| 1203 | Network Segmentation | Développement|
+| 1204 | Neutral Document Condensation | Design|
+| 1205 | Notarial Appointment Preparation | Créativité|
+| 1206 | Notarial Document Preparation | Gestion|
+| 1207 | Belgian Notarial Procedures Orientation | Recherche|
+| 1208 | NPC Behavior Trees & State Machines | Design|
+| 1209 | Observability Engineer | Data & IA|
+| 1210 | Onboarding Instruction Design | Design|
+| 1211 | Open Image License Traceability | Gestion|
+| 1212 | Operational Performance System & Governance | Design|
+| 1213 | Operational Runbook Acceptance | IA / Prompting|
+| 1214 | Operations Strategy & Operating Model Design | IA / Prompting|
+| 1215 | Operations Transformation Portfolio & Benefits Governance | Design|
+| 1216 | Organic Search & Social Measurement | Développement|
+| 1217 | Organic Social Media Strategy | Produit|
+| 1218 | Orthotypographic Consistency Review | Rédaction|
+| 1219 | Outlook Productivity Automation | Communication|
+| 1220 | Package Management Best Practices | Développement|
+| 1221 | Paid Advertising Campaign Planning | Produit|
+| 1222 | Particle VFX Design 2D/3D | Développement|
+| 1223 | Partnership Development & Execution | Design|
+| 1224 | Pathfinding, Navigation & Perception | Développement|
+| 1225 | Perl Stream Transformation | Design|
+| 1226 | Personal Data Flow and Lawful-Basis Mapping | Data & IA|
+| 1227 | PHP Request Validation Flow | Développement|
+| 1228 | Portfolio / Capacity Planner | Design|
+| 1229 | PostgreSQL Advanced Tuning | Développement|
+| 1230 | PowerPoint Design Efficiency | Design|
+| 1231 | PowerShell DSC Advanced | Développement|
+| 1232 | Predictive Temporal Validation | IA / Prompting|
+| 1233 | Process KPI Definition | Data & IA|
+| 1234 | Producer-Consumer Data Contracts | Data & IA|
+| 1235 | Product Opportunity Assessment | Développement|
+| 1236 | Product Outcome Roadmap | Produit|
+| 1237 | Product Prioritization Decision | Produit|
+| 1238 | Progression & Loot Table Balancing | Design|
+| 1239 | Project Baseline Change Assessment | Gestion|
+| 1240 | Project Estimate Calibration | Design|
+| 1241 | Prompt Engineer & Guardrails | IA / Prompting|
+| 1242 | Prompt Injection Boundary Evaluation | IA / Prompting|
+| 1243 | Prompt Structure Optimization | IA / Prompting|
+| 1244 | Prompt Versioning & Testing | Développement|
+| 1245 | Protected-Group Evaluation Protocol | IA / Prompting|
+| 1246 | Python Service Boundary Implementation | Développement|
+| 1247 | Quality Rule Acceptance Design | Développement|
+| 1248 | RAG & Fine-Tuning Strategy Design | Développement|
+| 1249 | React Hooks Patterns | Développement|
+| 1250 | Regression Risk Selection | Gestion|
+| 1251 | Release Manager & Change Control | Développement|
+| 1252 | Reporting Structure d'Exécution | Design|
+| 1253 | Repository Entry-Point Survey | Gestion|
+| 1254 | Requirements Elicitation & Analysis | Design|
+| 1255 | Research Uncertainty Synthesis | Recherche|
+| 1256 | RHEL Package Lifecycle Plan | Productivité|
+| 1257 | RHEL SELinux Diagnosis | Développement|
+| 1258 | Risk Exposure Aggregation | IA / Prompting|
+| 1259 | Risk Register & Mitigation Planning | Design|
+| 1260 | Roast My Idea (Feedback Tough Love) | IA / Prompting|
+| 1261 | RPA Automation Design | Développement|
+| 1262 | Sales Pipeline & Opportunity Management | Développement|
+| 1263 | SAN/NAS Design | Développement|
+| 1264 | Scene and Signal Architecture | Développement|
+| 1265 | Scraping Ethics & Legal Awareness | Développement|
+| 1266 | Security Engineering (AppSec Automation) | Productivité|
+| 1267 | Security Remediation Verification | Gestion|
+| 1268 | Semantic CSS Responsive Implementation | Développement|
+| 1269 | SEO Audit & Keyword Strategy | IA / Prompting|
+| 1270 | Shader Visual Effects Authoring | Développement|
+| 1271 | SLO and Error-Budget Decision | Design|
+| 1272 | Small File-Format Transformation | Formation|
+| 1273 | Software Boundary ADR | Gestion|
+| 1274 | Sound Effects Design & Recording | Design|
+| 1275 | Source API Contract Documentation | Développement|
+| 1276 | Source Authority Comparison | Recherche|
+| 1277 | SQL Analytics & Data Quality | Développement|
+| 1278 | Static Web Scraping (BeautifulSoup/lxml/Requests) | Développement|
+| 1279 | Statistical Inference Protocol | Data & IA|
+| 1280 | Streaming Data Processing | Développement|
+| 1281 | System Architecture Design | Développement|
+| 1282 | System Monitoring & Observability | Développement|
+| 1283 | System Script Idempotence Proof | Développement|
+| 1284 | Systemd Service Management | Développement|
+| 1285 | Teams Collaboration Best Practices | Développement|
+| 1286 | Terminology Management & Glossary Governance | Rédaction|
+| 1287 | Test Architect (QA avancee) | Développement|
+| 1288 | Test Fixture Isolation Design | Développement|
+| 1289 | Translation Terminology Validation | Design|
+| 1290 | Troubleshooting Decision Tree | Formation|
+| 1291 | 2D Animation Cutout & Frame-by-Frame | Design|
+| 1292 | TypeScript Advanced Types | Développement|
+| 1293 | UI Tone-of-Voice Specification | Produit|
+| 1294 | UI Transitions Library (Transitions.dev) | Développement|
+| 1295 | Urgent Care Navigation | Design|
+| 1296 | User Guide Task Design | Design|
+| 1297 | User Stories & Acceptance Criteria | Produit|
+| 1298 | Utility Execution Evidence | Recherche|
+| 1299 | UX Microcopy Accessibility | Design|
+| 1300 | UX Researcher (Discovery) | Produit|
+| 1301 | Vector Illustration Construction | Créativité|
+| 1302 | Verification Post-Execution | Design|
+| 1303 | Visual Identity Asset Specification | Gestion|
+| 1304 | VPN Configuration | Gestion|
+| 1305 | Vue Component State Contract | Développement|
+| 1306 | Vulnerability Evidence Triage | Recherche|
+| 1307 | WBS and Dependency Planning | Gestion|
+| 1308 | Web Accessibility Audit (Audit Accessibilité Web) | Développement|
+| 1309 | Web Data Extraction & Structuring | Développement|
+| 1310 | Windows Server Hardening | Développement|
+| 1311 | Jardin en prairie fleurie (2027) | Personnel|
+| 1312 | Haie variée & biodiversité (2027) | Personnel|
+| 1313 | Cuisine connectée sobre (2027) | Personnel|
+| 1314 | Batch cooking & robot de cuisine (2027) | Personnel|
+| 1315 | Domotique Matter & objets connectés sobres | Développement|
+| 1316 | Déco 2027 : vert Saule & matières durables | Personnel|
+| 1317 | France Identité & CNIe (2027) | Bureau|
+| 1318 | Contrôle routier numérique (permis/carte grise) | Juridique|
+| 1319 | Coach sportif personnel IA (2027) | Personnel|
+| 1320 | Diététicien IA & journal alimentaire | Personnel|
+| 1321 | Tuteur IA personnalisé (2027) | Apprentissage|
+| 1322 | Conseiller cadeaux IA (2027) | Personnel|
+| 1323 | Organisateur de voyage IA (2027) | Personnel|
+| 1324 | Gestionnaire de budget perso IA (2027) | Finance|
+| 1325 | Coach sommeil IA & hygiène de sommeil | Personnel|
+| 1326 | Planificateur de semaine IA (2027) | Productivité|
+| 1327 | Coach bien-être mental IA (léger) 2027 | Personnel|
+| 1328 | Assistant courses & anti-gaspi IA (2027) | Personnel|
+| 1329 | Veille personnalisée IA (actualités 2027) | Recherche|
+| 1330 | Préparation d'un déménagement local (2027) | Personnel|
+| 1331 | Bilan de santé préventif annuel (2027) | Personnel|
+| 1332 | Bien vieillir & autonomie (2027) | Personnel|
+| 1333 | Santé de son animal (chien/chat) 2027 | Personnel|
+| 1334 | Sécurité domicile & alarme (2027) | Sécurité|
+| 1335 | Premiers secours & trousse d'urgence (2027) | Personnel|
+| 1336 | Prévention arnaques QR codes & faux courriers (2027) | Sécurité|
+| 1337 | Gestion des mots de passe & gestionnaire (2027) | Sécurité|
+| 1338 | Coffre-fort numérique familial (2027) | Bureau|
+| 1339 | Prévention cambriolage & vacances tranquilles (2027) | Sécurité|
+| 1340 | Réparation & entretien vélo 2027 | Personnel|
+| 1341 | Rédiger un email professionnel percutant (2027) | Communication|
+| 1342 | Prise de parole en public & gestion du stress (2027) | Communication|
+| 1343 | Apprendre une langue avec l'IA (2027) | Langues|
+| 1344 | Lecture rapide & mémorisation (2027) | Apprentissage|
+| 1345 | Négocier son salaire en 2027 | Carrière|
+| 1346 | Créer une routine matinale efficace (2027) | Productivité|
+| 1347 | Désencombrement & minimalisme (2027) | Personnel|
+| 1348 | Préparer un entretien annuel d'évaluation (2027) | Carrière|
+| 1349 | Cuisine anti-gaspi & restes (2027) | Personnel|
+| 1350 | Bilan de fin d'année 2027 (tous domaines) | Gestion|
 
-> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–899 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
+> 🔎 **Index du document** : Règles du projet · Template officiel · Skills 0–1900 · Corpus de sections · Guide d'utilisation · Sources d'inspiration · Vue d'ensemble
 
 ---
