@@ -5252,6 +5252,17 @@ TESTS_ROUTAGE_EN = [
     ("prepare an investor pitch deck", 171),
     ("audit accessibility WCAG", 177),
     ("write developer API docs", 180),
+    ("design a design system", 181),
+    ("redesign our signup form to reduce drop-off", 182),
+    ("prioritise the product backlog", 185),
+    ("anonymise this customer dataset for GDPR", 189),
+    ("write our company AI charter", 193),
+    ("harden our bot against prompt injection", 195),
+    ("audit access rights in our cloud", 197),
+    ("write a security incident runbook", 199),
+    ("design an employee onboarding", 203),
+    ("write an internal remote work policy", 207),
+    ("prepare a team workshop", 208),
 ]
 
 
