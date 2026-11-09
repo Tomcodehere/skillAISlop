@@ -1,5 +1,6 @@
 ---
 num: 1984
+resume: "Des bougies parfumées coulées proprement, qui brûlent bien (mèche centrée, parfum tenable). Étape 1 : Centrer la mèche (socle collé au fond, cure-dent en croix)."
 date_ajout: "2026-11"
 nom: "Bougies parfumées DIY"
 emoji: "🕯️"

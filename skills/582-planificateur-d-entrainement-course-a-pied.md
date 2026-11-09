@@ -1,5 +1,6 @@
 ---
 num: 582
+resume: "construire un plan d'entraînement de course à pied réaliste : objectif daté, progressivité mesurée et prévention des blessures. Étape 1 : Fixer l'objectif daté et évaluer le point de départ réel."
 date_ajout: "2026-11"
 nom: "Planificateur d'entraînement course à pied"
 emoji: "🏃"

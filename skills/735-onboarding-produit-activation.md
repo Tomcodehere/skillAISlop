@@ -1,5 +1,6 @@
 ---
 num: 735
+resume: "concevoir un onboarding qui mène l'utilisateur à sa première valeur rapidement (time-to-value court). Étape 1 : Clarifier « Onboarding produit & activation »."
 date_ajout: "2026-11"
 nom: "Onboarding produit & activation"
 emoji: "🚀"

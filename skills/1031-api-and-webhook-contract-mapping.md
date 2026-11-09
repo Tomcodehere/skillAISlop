@@ -1,5 +1,6 @@
 ---
 num: 1031
+resume: "Spécifier la transformation d'un message entre deux applications sans perte de sémantique. Étape 1 : Cadrer les inputs : schémas source/cible, authentification, erreurs et exemples ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "API and Webhook Contract Mapping"
 emoji: "💻"

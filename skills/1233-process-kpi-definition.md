@@ -1,5 +1,6 @@
 ---
 num: 1233
+resume: "Définir KPI processus métier SMART (Specific, Measurable, Achievable, Relevant, Time-bound) pour pilotage amélioration continue. Étape 1 : Identifier dimensions clés :"
 date_ajout: "2026-11"
 nom: "Process KPI Definition"
 emoji: "🤖"

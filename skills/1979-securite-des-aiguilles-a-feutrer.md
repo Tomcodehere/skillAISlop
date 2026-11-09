@@ -1,5 +1,6 @@
 ---
 num: 1979
+resume: "Feutrer sans se blesser : support systématique, doigtier, rangement, aiguilles saines. Étape 1 : Installer un support dense derrière la pièce (mousse/riz), jamais la main."
 date_ajout: "2026-11"
 nom: "Sécurité des aiguilles à feutrer"
 emoji: "🧤"

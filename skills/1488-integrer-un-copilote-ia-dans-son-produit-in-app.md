@@ -1,5 +1,6 @@
 ---
 num: 1488
+resume: "Intégrer un copilote IA in-app en 2027 : panneau latéral qui voit le contexte écran, propose 2-3 actions pertinentes (désactivable), exécute au clic, collecte le feedback pouce haut/bas pour s'améliorer. Étape 1 : Choisir l'UX : panneau latéral docké, bouton '✨ Suggérer' sur les zones clés."
 date_ajout: "2026-11"
 nom: "Integrer un copilote IA dans son produit (in-app)"
 emoji: "🤖"

@@ -1,5 +1,6 @@
 ---
 num: 375
+resume: "analyser le panier et les occasions d'upsell : composition, associations fréquentes, points de blocage et offres de montée en gamme pertinentes. Étape 1 : Analyser composition, panier moyen par segment et associations fréquentes."
 date_ajout: "2026-11"
 nom: "Analyste de panier & d'upsell"
 emoji: "🛵"

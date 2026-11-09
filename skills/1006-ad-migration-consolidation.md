@@ -1,5 +1,6 @@
 ---
 num: 1006
+resume: "Planifier et sécuriser les migrations et consolidations de domaines/forêts Active Directory (montée de niveau fonctionnel, fusion de domaines, migration d'objets inter-forêts). Étape 1 : Auditer les domaines/forêts source et cible (objets, applications dépendantes, niveau fonctionnel)."
 date_ajout: "2026-11"
 nom: "AD Migration & Consolidation"
 emoji: "📋"

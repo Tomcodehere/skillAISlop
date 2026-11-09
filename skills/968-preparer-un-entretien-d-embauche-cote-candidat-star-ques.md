@@ -1,5 +1,6 @@
 ---
 num: 968
+resume: "préparer un entretien d'embauche en 2027 côté candidat : 5 réponses STAR prêtes, recherche de l'entreprise, 3 questions à poser, test technique, négociation. Étape 1 : Recherche entreprise (actu, produits, salaires si dispo) ; 5 réponses STAR chiffrées sur les classiques."
 date_ajout: "2026-11"
 nom: "Préparer un entretien d'embauche côté candidat (STAR + questions)"
 emoji: "🎯"

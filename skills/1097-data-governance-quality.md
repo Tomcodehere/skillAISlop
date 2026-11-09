@@ -1,5 +1,6 @@
 ---
 num: 1097
+resume: "Garantir qualite, coherences et tracabilite des donnees critiques. Étape 1 : Definir dimensions qualite (exactitude, completude, fraicheur)."
 date_ajout: "2026-11"
 nom: "Data Governance & Quality"
 emoji: "🤖"

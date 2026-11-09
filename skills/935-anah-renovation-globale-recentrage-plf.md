@@ -1,5 +1,6 @@
 ---
 num: 935
+resume: "comprendre les aides à la rénovation en 2027 après le PLF 2027 : recentrage de l'Anah sur la rénovation globale et les copropriétés dégradées, fin des CEE solaires (4 nov. 2026). Étape 1 : Audit énergétique d'abord ; viser la rénovation globale (mieux aidée en 2027 selon le PLF)."
 date_ajout: "2026-11"
 nom: "Anah & rénovation globale (recentrage PLF)"
 emoji: "🏡"

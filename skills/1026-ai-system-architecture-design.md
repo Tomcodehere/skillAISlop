@@ -1,5 +1,6 @@
 ---
 num: 1026
+resume: "AI System Architecture Design Étape 1 : Cadrer le cas d'usage, les utilisateurs, les contraintes et les critères de succès."
 date_ajout: "2026-11"
 nom: "AI System Architecture Design"
 emoji: "💻"

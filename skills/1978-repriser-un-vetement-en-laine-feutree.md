@@ -1,5 +1,6 @@
 ---
 num: 1978
+resume: "Un trou dans la laine réparé par un patch feutré quasi invisible. Étape 1 : Découper/feutrer un patch de feutre laine de la couleur du vêtement."
 date_ajout: "2026-11"
 nom: "Repriser un vêtement en laine feutrée"
 emoji: "🩹"

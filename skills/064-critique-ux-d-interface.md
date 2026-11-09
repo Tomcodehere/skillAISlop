@@ -1,5 +1,6 @@
 ---
 num: 64
+resume: "évaluer une interface ou un parcours et produire un audit priorisé, actionnable, adossé aux règles reconnues. Étape 1 : Clarifier l'objectif principal de l'écran et le persona concerné."
 date_ajout: "2026-11"
 nom: "Critique UX d'interface"
 emoji: "🧐"

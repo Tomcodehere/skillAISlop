@@ -1,5 +1,6 @@
 ---
 num: 1635
+resume: "Contrôler les coûts des agents en entreprise en 2027 : budget de tokens par agent/tâche (1491), alerte à 80 %, kill switch automatique (agent coupé) au dépassement, cascade de modèles (1441) + cache sémantique (1442) pour réduire. Étape 1 : Meter : chaque appel agent loggé (tokens in/out, modèle, coût) → dashboard temps réel (1180)."
 date_ajout: "2026-11"
 nom: "Controle des couts d'agents : budget par tache et kill switch entreprise"
 emoji: "💸"

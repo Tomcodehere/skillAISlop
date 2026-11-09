@@ -1,5 +1,6 @@
 ---
 num: 1501
+resume: "Implémenter une boucle de jeu à pas fixe en 2027 : logique/physique à 60 Hz fixe (fixed timestep avec accumulateur), rendu à fréquence variable, interpolation alpha entre les 2 derniers états pour un affichage fluide. Étape 1 : Séparer update logique (fixed 60 Hz) et render (variable)."
 date_ajout: "2026-11"
 nom: "Boucle de jeu fixe : fixed timestep et interpolation"
 emoji: "⏱️"

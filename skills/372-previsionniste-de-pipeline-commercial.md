@@ -1,5 +1,6 @@
 ---
 num: 372
+resume: "construire une prévision de pipeline fiable : pondération par étape, vélocité et scénarios qui résistent au comité. Étape 1 : Mesurer les taux de conversion réels par étape sur l'historique."
 date_ajout: "2026-11"
 nom: "Prévisionniste de pipeline commercial"
 emoji: "📠"

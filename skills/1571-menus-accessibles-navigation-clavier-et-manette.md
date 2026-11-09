@@ -1,5 +1,6 @@
 ---
 num: 1571
+resume: "Rendre les menus navigables en 2027 au clavier et à la manette : focus visible (anneau), navigation directionnelle (D-pad/flèches), valider (Entrée/A), retour (Échap/B), remap (1504), test 100 % clavier sans souris. Étape 1 : Chaque écran : 1er élément focusé automatiquement (bouton 'Jouer')."
 date_ajout: "2026-11"
 nom: "Menus accessibles : navigation clavier et manette"
 emoji: "🎛️"

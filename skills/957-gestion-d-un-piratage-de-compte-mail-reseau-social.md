@@ -1,5 +1,6 @@
 ---
 num: 957
+resume: "réagir à un piratage de compte en 2027 : récupérer l'accès, sécuriser (2FA, mots de passe uniques), révoquer les sessions, signaler, vérifier les dégâts. Étape 1 : Si accès : changer mot de passe (unique, gestionnaire), 2FA passkey/appli, révoquer toutes les sessions actives."
 date_ajout: "2026-11"
 nom: "Gestion d'un piratage de compte (mail, réseau social)"
 emoji: "🔓"

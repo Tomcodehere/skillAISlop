@@ -1,5 +1,6 @@
 ---
 num: 55
+resume: "transformer des verbatims clients (enquêtes, avis, tickets) en insights priorisés et actionnables. Étape 1 : Collecter et nettoyer les verbatims (source, date, segment client)."
 date_ajout: "2026-11"
 nom: "Analyste de feedback client"
 emoji: "💬"

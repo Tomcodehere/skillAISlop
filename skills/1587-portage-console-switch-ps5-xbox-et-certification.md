@@ -1,5 +1,6 @@
 ---
 num: 1587
+resume: "Porter un jeu sur console en 2027 : obtenir le kit de dev éditeur, adapter UI/manette (1571) et perfs (Switch 30 fps/4 Go, PS5-Xbox 60 fps), passer la certification (TRC/XR/PS : pas de crash, saves 1539 OK, succès console 1538), délai 2-4 semaines. Étape 1 : Demander les devkits éditeur (Nintendo Switch, Sony PS5, Xbox) 6-12 mois avant la date visée (1594)."
 date_ajout: "2026-11"
 nom: "Portage console : Switch, PS5, Xbox et certification"
 emoji: "🎮"

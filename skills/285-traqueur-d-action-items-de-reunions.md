@@ -1,5 +1,6 @@
 ---
 num: 285
+resume: "tenir un registre vivant des actions issues des réunions : responsable, échéance, statut et relances automatiques jusqu'à clôture. Étape 1 : Extraire et normaliser les actions de chaque réunion : verbe, owner, échéance."
 date_ajout: "2026-11"
 nom: "Traqueur d'action items de réunions"
 emoji: "📍"

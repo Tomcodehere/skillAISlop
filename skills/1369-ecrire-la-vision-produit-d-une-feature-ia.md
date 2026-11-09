@@ -1,5 +1,6 @@
 ---
 num: 1369
+resume: "Rediger une vision produit percutante (1 page) pour une feature IA : utilisateur cible, probleme reel, promesse mesurable, justification du timing 2027 et hors perimetre explicite. Étape 1 : Decrire l'utilisateur et son probleme en une phrase concrete."
 date_ajout: "2026-11"
 nom: "Ecrire la vision produit d'une feature IA"
 emoji: "🔭"

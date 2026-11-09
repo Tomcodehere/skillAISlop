@@ -1,5 +1,6 @@
 ---
 num: 1707
+resume: "Structurer une org tech en 2027 avec Team Topologies : équipes stream-aligned (produit, autonomes), platform (l'IDP 1700), enabling (expertise sécurité/perf), complicated-subsystem (composant complexe), en mesurant la charge cognitive par enquête. Étape 1 : Identifier les flux de valeur (chaque produit = 1 équipe stream-aligned autonome : build, run, own)."
 date_ajout: "2026-11"
 nom: "Team Topologies : structurer les équipes plateforme"
 emoji: "👥"

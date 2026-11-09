@@ -1,5 +1,6 @@
 ---
 num: 1068
+resume: "Réduire la facture cloud via right-sizing, achats optimisés (reserved/savings plans) et élimination des ressources orphelines, sans dégrader le SLA. Étape 1 : Cartographier les coûts par service et par usage."
 date_ajout: "2026-11"
 nom: "Cloud Cost Optimization"
 emoji: "🔬"

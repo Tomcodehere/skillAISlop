@@ -1,5 +1,6 @@
 ---
 num: 979
+resume: "faire un audit énergétique et un DPE en 2027 avant travaux ou vente/location : diagnostiqueur certifié, travaux prioritaires chiffrés, aides mobilisables. Étape 1 : DPE obligatoire vente/location (DPE G interdit location dès 2028) ; audit énergétique réglementaire avant travaux/aides."
 date_ajout: "2026-11"
 nom: "Faire un audit énergétique & DPE avant travaux"
 emoji: "🔋"

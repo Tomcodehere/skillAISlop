@@ -1,5 +1,6 @@
 ---
 num: 1271
+resume: "Relier les objectifs de fiabilité aux décisions de changement d'une plateforme. Étape 1 : Cadrer les inputs : parcours critiques, sli, historique et tolérance convenue ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "SLO and Error-Budget Decision"
 emoji: "🎨"

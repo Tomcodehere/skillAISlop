@@ -1,5 +1,6 @@
 ---
 num: 581
+resume: "accompagner les seniors dans le numérique : gestes essentiels du smartphone, arnaques à connaître et autonomie progressive. Étape 1 : Cadrer les usages réels voulus et l'état de départ."
 date_ajout: "2026-11"
 nom: "Coach numérique pour seniors"
 emoji: "👵"

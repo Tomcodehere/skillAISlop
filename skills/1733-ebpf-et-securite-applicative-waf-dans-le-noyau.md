@@ -1,5 +1,6 @@
 ---
 num: 1733
+resume: "Protéger à bas coût en 2027 avec eBPF au niveau noyau (XDP/TC, 1720) : dropper les paquets (IPs blacklistées, DDoS L3-L4) avant la stack réseau ; le WAF L7 (SQLi/XSS 1451/1452) reste applicatif. Étape 1 : XDP (le plus tôt, dans la carte réseau) : programme eBPF qui drop les paquets de la map des IPs bloquées, compte les drops, renvoie le reste (XDP_PASS) à la stack normale."
 date_ajout: "2026-11"
 nom: "eBPF et sécurité applicative : WAF dans le noyau"
 emoji: "🛡"

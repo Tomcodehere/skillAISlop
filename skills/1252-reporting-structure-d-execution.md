@@ -1,5 +1,6 @@
 ---
 num: 1252
+resume: "Restituer systématiquement les résultats d'exécution de l'agent de coordination à son demandeur (l'utilisateur, ou l'agent qui a transmis le brief) au format structuré [RAPPORT D'EXÉCUTION], avec une courte prose du persona en accompagnement (jamais en remplacement des données factuelles)."
 date_ajout: "2026-11"
 nom: "Reporting Structure d'Exécution"
 emoji: "🎨"

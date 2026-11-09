@@ -1,5 +1,6 @@
 ---
 num: 772
+resume: "préparer un entretien d'embauche technique : live coding, algorithmes, system design, questions comportementales. Étape 1 : S'entraîner au live coding : algorithmes classiques, penser à voix haute, tester, gérer le silence."
 date_ajout: "2026-11"
 nom: "Préparation à un entretien d'embauche technique"
 emoji: "💻"

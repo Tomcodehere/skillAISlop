@@ -1,5 +1,6 @@
 ---
 num: 1745
+resume: "Prototyper une appli web complète en 2027 en quelques heures avec Lovable (chat → full-stack déployé, Supabase), Bolt.new (édition live StackBlitz) ou v0 (Vercel, shadcn) — pour un POC/MVP avec de vrais utilisateurs (1483), puis revue/audit (1401/1658) et export du code avant prod. Étape 1 : Décrire l'app : écrans, rôles (auth), données (ex. 'tâches avec assignation'), style (1694)."
 date_ajout: "2026-11"
 nom: "Lovable, Bolt, v0 : prototyper une appli web avec l'IA"
 emoji: "⚡"

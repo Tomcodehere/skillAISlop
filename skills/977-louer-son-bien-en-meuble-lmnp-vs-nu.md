@@ -1,5 +1,6 @@
 ---
 num: 977
+resume: "choisir entre location meublée (LMNP) et nue en 2027 : comparer la fiscalité réelle (amortissement LMNP vs dispositif Jeanbrun pour la nue apparu en LF 2026), charges, bail. Étape 1 : Comparer fiscalité : LMNP (amortissement, déficit imputable 10 700 €) vs nue (déficit foncier revenu global, 25 000 € si rénovation éner.) + Jeanbrun 2027 (vérifier texte voté)."
 date_ajout: "2026-11"
 nom: "Louer son bien en meublé (LMNP) vs nu"
 emoji: "🛋️"

@@ -1,5 +1,6 @@
 ---
 num: 1178
+resume: "Sécuriser Linux selon CIS Benchmarks (RHEL/Ubuntu) : SELinux/AppArmor, firewall, SSH, sudo, audits. Étape 1 : Baseline actuelle : scanner (Lynis, OpenSCAP)."
 date_ajout: "2026-11"
 nom: "Linux Security Hardening"
 emoji: "💻"

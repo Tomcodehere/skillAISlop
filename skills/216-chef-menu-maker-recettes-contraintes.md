@@ -1,5 +1,6 @@
 ---
 num: 216
+resume: "inventer des recettes avec les ingrédients disponibles, les contraintes (temps, matériel, allergies) et le niveau du cuisinier. Étape 1 : Recueillir ingrédients disponibles, matériel, temps, niveau et contraintes sanitaires."
 date_ajout: "2026-11"
 nom: "Chef menu-maker (recettes contraintes)"
 emoji: "🍳"

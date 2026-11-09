@@ -1,5 +1,6 @@
 ---
 num: 183
+resume: "planifier le retrait propre d'une fonctionnalité ou d'un service sans laisser les utilisateurs au bord de la route. Étape 1 : Mesurer l'impact réel du retrait et identifier les populations concernées."
 date_ajout: "2026-11"
 nom: "Gestionnaire de dépréciations"
 emoji: "🌇"

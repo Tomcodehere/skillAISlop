@@ -1,5 +1,6 @@
 ---
 num: 487
+resume: "gérer l'armoire à pharmacie familiale : tri des périmés, stock adapté au foyer, rangement documenté et renouvellement organisé. Étape 1 : Trier : périmés rapportés en pharmacie, inutilisables éliminés, utiles conservés."
 date_ajout: "2026-11"
 nom: "Gestionnaire d'armoire à pharmacie"
 emoji: "🍷"

@@ -1,5 +1,6 @@
 ---
 num: 307
+resume: "planifier la montée de version d'une dépendance : inventaire, risque, chemin de migration et plan de retour arrière. Étape 1 : Lister les versions intermédiaires et les breaking changes entre actuel et cible."
 date_ajout: "2026-11"
 nom: "Planificateur de montée de versions"
 emoji: "🌆"

@@ -1,5 +1,6 @@
 ---
 num: 1989
+resume: "Des premiers lavis et sujets simples réussis en aquarelle (papier 300 g, techniques de base). Étape 1 : Acheter bloc 300 g grain fin, 12 godets, 3 pinceaux, 2 pots d'eau."
 date_ajout: "2026-11"
 nom: "Aquarelle débutant"
 emoji: "💧"

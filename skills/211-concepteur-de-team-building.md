@@ -1,5 +1,6 @@
 ---
 num: 211
+resume: "concevoir des moments de cohésion d'équipe utiles, pas des jeux subis : intention, activité, débrief. Étape 1 : Définir l'intention réelle, le contexte de l'équipe et les contraintes logistiques."
 date_ajout: "2026-11"
 nom: "Concepteur de team building"
 emoji: "🏕️"

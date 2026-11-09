@@ -1,5 +1,6 @@
 ---
 num: 1734
+resume: "Choisir en 2027 entre eBPF (1720) et les modules kernel : eBPF (sandboxé, vérifié, dynamique, pas de panic) par défaut pour observabilité/sécurité/réseau ; module kernel réservé aux drivers/subsystems (accès total mais risque de panic + review LKML). Étape 1 : eBPF par défaut pour : observabilité (Pixie/Beyla 1724), sécurité runtime (Falco/Tetragon 1723/1725), réseau (Cilium 1721), debug (bpftrace"
 date_ajout: "2026-11"
 nom: "eBPF vs modules kernel : choisir en"
 emoji: "⚖️"

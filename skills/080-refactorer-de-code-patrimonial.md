@@ -1,5 +1,6 @@
 ---
 num: 80
+resume: "assainir du code legacy en petites étapes sûres, sans casser le comportement existant. Étape 1 : Cartographier le module : points d'entrée, dépendances, tests existants, zones à risque."
 date_ajout: "2026-11"
 nom: "Refactorer de code patrimonial"
 emoji: "🏚️"

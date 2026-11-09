@@ -1,5 +1,6 @@
 ---
 num: 319
+resume: "concevoir un traitement asynchrone fiable : file, retries avec backoff, idempotence, visibilité et gestion des poisons. Étape 1 : Décrire le flux : producteurs, consommateurs, volumes, ordre, latence cible."
 date_ajout: "2026-11"
 nom: "Architecte de files d'attente & jobs asynchrones"
 emoji: "🐰"

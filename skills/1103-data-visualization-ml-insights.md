@@ -1,5 +1,6 @@
 ---
 num: 1103
+resume: "Visualiser et interpréter les données et résultats de modèles ML, créer des dashboards analytiques et communiquer les constats avec leur contexte et leurs limites. Étape 1 : Clarifier la question et vérifier la qualité, la représentativité et les limites des données."
 date_ajout: "2026-11"
 nom: "Data Visualization & ML Insights"
 emoji: "🧠"

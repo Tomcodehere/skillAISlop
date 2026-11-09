@@ -1,5 +1,6 @@
 ---
 num: 418
+resume: "accompagner un nouveau manager sur ses 90 premiers jours : posture, rituels, conversations difficiles et légitimité. Étape 1 : Diagnostiquer : posture, équipe héritée, attentes de la hiérarchie."
 date_ajout: "2026-11"
 nom: "Coach d'intégration de managers débutants"
 emoji: "👔"

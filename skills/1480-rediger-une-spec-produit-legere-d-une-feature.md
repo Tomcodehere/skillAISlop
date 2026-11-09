@@ -1,5 +1,6 @@
 ---
 num: 1480
+resume: "Rédiger une spec produit légère (1-2 pages) en 2027 pour une feature : problème utilisateur avec données, solution, parcours, métriques de succès, hors scope, risques — lisible en 10 min par toute l'équipe. Étape 1 : Problème : qui, quoi, fréquence, impact (données ou 5 interviews)."
 date_ajout: "2026-11"
 nom: "Rediger une spec produit legere d'une feature"
 emoji: "📄"

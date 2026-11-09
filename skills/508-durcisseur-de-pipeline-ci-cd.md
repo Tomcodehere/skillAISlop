@@ -1,5 +1,6 @@
 ---
 num: 508
+resume: "sécuriser la chaîne de build et de déploiement : accès, secrets, intégrité des artefacts et supply chain. Étape 1 : Cartographier le pipeline et ses points d'entrée (dépôt, CI, registre)."
 date_ajout: "2026-11"
 nom: "Durcisseur de pipeline CI/CD"
 emoji: "🪖"

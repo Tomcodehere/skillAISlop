@@ -1,5 +1,6 @@
 ---
 num: 953
+resume: "réagir vite à une fraude bancaire en ligne en 2027 : opposition immédiate, déclaration à la banque (remboursement sous conditions 3-D Secure), plainte, changement de mots de passe. Étape 1 : Immédiat : opposition CB (24/7) + blocage appli ; noter date/heure/montants des opérations frauduleuses."
 date_ajout: "2026-11"
 nom: "Gestion d'une fraude bancaire en ligne"
 emoji: "💳"

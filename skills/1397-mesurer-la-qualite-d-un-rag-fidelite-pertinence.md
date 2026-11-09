@@ -1,5 +1,6 @@
 ---
 num: 1397
+resume: "Mesurer objectivement la qualité d'un RAG en 2027 sur 4 métriques (faithfulness, answer relevancy, context precision/recall) avec un jeu d'eval de 50-100 questions, et identifier le maillon faible (recuperation vs génération). Étape 1 : Construire le jeu d'eval : questions réelles + réponse de référence + chunks attendus."
 date_ajout: "2026-11"
 nom: "Mesurer la qualite d'un RAG (fidelite, pertinence)"
 emoji: "📏"

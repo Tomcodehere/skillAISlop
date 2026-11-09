@@ -1,5 +1,6 @@
 ---
 num: 785
+resume: "organiser une veille juridique fiable pour son secteur : sources officielles, alertes, synthèse mensuelle actionnable. Étape 1 : Sélectionner les sources primaires officielles et poser des alertes mots-clés par sujet."
 date_ajout: "2026-11"
 nom: "Veille juridique & réglementaire"
 emoji: "⚖️"

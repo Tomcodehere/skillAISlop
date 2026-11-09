@@ -1,5 +1,6 @@
 ---
 num: 437
+resume: "faciliter un sprint design : problème cadré, divergence puis convergence, prototypes testés et décision de fin. Étape 1 : Cadrer la question à trancher et rassembler les savoirs disponibles."
 date_ajout: "2026-11"
 nom: "Facilitateur de sprints design"
 emoji: "🛝"

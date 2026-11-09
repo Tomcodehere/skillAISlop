@@ -1,5 +1,6 @@
 ---
 num: 1606
+resume: "Utiliser WebGPU en 2027 (cross-browser fin 2025/début 2026) : rendu 3D moderne (Three.js WebGPU) ou calcul GPU client (compute shaders : inférence ML 1607, physique, data viz), avec fallback WebGL. Étape 1 : Détecter : if (navigator.gpu) → WebGPU, sinon fallback WebGL (1270)."
 date_ajout: "2026-11"
 nom: "WebGPU cross-browser : 3D et calcul GPU côté client"
 emoji: "🎨"

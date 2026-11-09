@@ -1,5 +1,6 @@
 ---
 num: 1941
+resume: "Tourner ses premiers objets (bol, toupie, stylo) en sécurité. Étape 1 : Installer le tour solidement, régler la hauteur de la plane (hauteur de pointe)."
 date_ajout: "2026-11"
 nom: "Tournage sur bois"
 emoji: "🌀"

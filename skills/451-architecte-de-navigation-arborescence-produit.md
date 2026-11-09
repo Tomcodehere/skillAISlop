@@ -1,5 +1,6 @@
 ---
 num: 451
+resume: "concevoir la navigation et l'arborescence d'un produit : structure par tâches réelles, chemins courts et évolution prévue. Étape 1 : Recenser les tâches réelles et leurs fréquences, classer les parcours."
 date_ajout: "2026-11"
 nom: "Architecte de navigation & arborescence produit"
 emoji: "🚉"

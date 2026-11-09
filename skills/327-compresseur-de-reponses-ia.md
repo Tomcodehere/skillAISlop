@@ -1,5 +1,6 @@
 ---
 num: 327
+resume: "rendre une réponse IA compacte sans perte d'information : l'essentiel d'abord, le détail sur demande, zéro remplissage. Étape 1 : Identifier ce que le lecteur doit retenir : décision, chiffre, action."
 date_ajout: "2026-11"
 nom: "Compresseur de réponses IA"
 emoji: "🤏"

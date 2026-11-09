@@ -1,5 +1,6 @@
 ---
 num: 1960
+resume: "Démarrer et terminer proprement n'importe quel ouvrage tricot. Étape 1 : Monter (classique ou longue queue selon l'élasticité voulue)."
 date_ajout: "2026-11"
 nom: "Monter les mailles et rabattre en tricot"
 emoji: "🔚"

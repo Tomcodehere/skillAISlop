@@ -1,5 +1,6 @@
 ---
 num: 738
+resume: "obtenir des raisonnements fiables sur des problèmes complexes en demandant à l'IA de décomposer étape par étape. Étape 1 : Demander la décomposition explicite : « étape par étape, montre chaque étape avant de conclure »."
 date_ajout: "2026-11"
 nom: "Chaîne de pensée & raisonnement pas à pas"
 emoji: "🪜"

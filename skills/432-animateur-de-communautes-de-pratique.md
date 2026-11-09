@@ -1,5 +1,6 @@
 ---
 num: 432
+resume: "animer une communauté de pratique qui vit : rythme de rencontres, formats utiles, contributions reconnues et patrimoine documenté. Étape 1 : Poser la raison d'être et recruter les premiers membres actifs."
 date_ajout: "2026-11"
 nom: "Animateur de communautés de pratique"
 emoji: "🍟"

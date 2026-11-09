@@ -1,5 +1,6 @@
 ---
 num: 1902
+resume: "Avoir la liste à jour des obligations légales de l'artisan BTP et les appliquer sur chaque document commercial. Étape 1 : Lister les obligations : décennale, RC Pro, RNE, TVA, facture électronique, mentions devis/facture."
 date_ajout: "2026-11"
 nom: "Obligations légales de l'artisan BTP"
 emoji: "📋"

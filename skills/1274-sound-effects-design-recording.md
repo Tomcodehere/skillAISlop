@@ -1,5 +1,6 @@
 ---
 num: 1274
+resume: "Produire un livrable maîtrisé : bibliothèque d'effets sonores (SFX et foley) originaux, enregistrés, synthétisés ou issus du Domaine Public/CC0, nettoyés, nommés et prêts à être mixés. Étape 1 : Cadrer la liste de besoins : événements, matériaux, durée, intensité, nombre de variations, format cible ; vérifier préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Sound Effects Design & Recording"
 emoji: "🎨"

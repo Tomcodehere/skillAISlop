@@ -1,5 +1,6 @@
 ---
 num: 193
+resume: "rédiger la charte d'usage de l'IA d'une organisation : usages permis, interdits, règles de confidentialité et de transparence. Étape 1 : Auditer les usages IA réels et les données manipulées dans l'organisation."
 date_ajout: "2026-11"
 nom: "Rédacteur de charte IA d'entreprise"
 emoji: "🫡"

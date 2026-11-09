@@ -1,5 +1,6 @@
 ---
 num: 1327
+resume: "utiliser un coach IA léger pour le bien-être quotidien (check-in, respiration, détection de signaux) — en complément, jamais en remplacement d'un psychologue. Étape 1 : Check-in quotidien 2 min (humeur, sommeil, stress) + 1 exercice proposé."
 date_ajout: "2026-11"
 nom: "Coach bien-être mental IA (léger)"
 emoji: "🧠"

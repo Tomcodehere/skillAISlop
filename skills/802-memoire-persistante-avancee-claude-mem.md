@@ -1,5 +1,6 @@
 ---
 num: 802
+resume: "mettre en place une mémoire persistante qui capitalise sur les sessions passées (décisions, préférences, erreurs) sans devenir un dépotoir. Étape 1 : Structurer la mémoire en couches : profil stable, décisions datées, leçons avec contre-exemples, index sémantique (embeddings locaux)."
 date_ajout: "2026-11"
 nom: "Mémoire persistante avancée (claude-mem)"
 emoji: "🧠"

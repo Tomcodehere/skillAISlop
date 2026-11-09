@@ -1,5 +1,6 @@
 ---
 num: 1425
+resume: "Construire une bibliothèque de prompts modulaires en 2027 : composants réutilisables (rôle, contraintes, format de sortie, few-shot), assemblés par tâche, versionnés dans Git et testés. Étape 1 : Inventorier tous les prompts utilisés (grep, fichiers)."
 date_ajout: "2026-11"
 nom: "Systeme de prompts modulaire (bibliotheque)"
 emoji: "🧩"

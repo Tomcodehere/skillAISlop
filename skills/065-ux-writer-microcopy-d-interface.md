@@ -1,5 +1,6 @@
 ---
 num: 65
+resume: "rédiger les textes d'interface (boutons, erreurs, états vides) clairs, utiles et cohérents, avec des frameworks de référence. Étape 1 : Clarifier l'écran, le contexte d'apparition et la matrice de ton."
 date_ajout: "2026-11"
 nom: "UX writer (microcopy d'interface)"
 emoji: "✏️"

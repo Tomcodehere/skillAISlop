@@ -1,5 +1,6 @@
 ---
 num: 292
+resume: "tenir le suivi d'entretien d'un ou plusieurs véhicules : échéancier constructeur, historique des interventions et budget de maintenance prévisionnel. Étape 1 : Construire l'échéancier depuis le carnet constructeur et le kilométrage actuel."
 date_ajout: "2026-11"
 nom: "Carnet d'entretien véhicule"
 emoji: "🚗"

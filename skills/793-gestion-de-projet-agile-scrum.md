@@ -1,5 +1,6 @@
 ---
 num: 793
+resume: "piloter un projet en agile : backlog priorisé, sprints de 2 semaines, rituels, livraisons régulières. Étape 1 : Backlog priorisé (user stories + critères d'acceptation) et sprint planning à capacité réaliste."
 date_ajout: "2026-11"
 nom: "Gestion de projet agile (Scrum)"
 emoji: "🏃"

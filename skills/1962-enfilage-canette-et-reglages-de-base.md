@@ -1,5 +1,6 @@
 ---
 num: 1962
+resume: "Une machine bien enfilée et réglée, testée sur chute avant chaque projet. Étape 1 : Enfiler bobine + fil dans le chas (avant→arrière), poser la canette (bon sens), remonter le fil de canette."
 date_ajout: "2026-11"
 nom: "Enfilage, canette et réglages de base"
 emoji: "⚙️"

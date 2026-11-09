@@ -1,5 +1,6 @@
 ---
 num: 1308
+resume: "Évaluer la conformité accessibilité web des interfaces selon les référentiels OPQUAST v4 (226 critères), WCAG 2.1/2.2 (niveaux A/AA/AAA) et RGAA 4.1, en combinant audits automatisés et tests manuels avec technologies assistives (lecteurs d'écran, tablettes braille, navigation clavier)."
 date_ajout: "2026-11"
 nom: "Web Accessibility Audit (Audit Accessibilité Web)"
 emoji: "💻"

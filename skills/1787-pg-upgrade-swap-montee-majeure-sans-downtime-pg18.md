@@ -1,5 +1,6 @@
 ---
 num: 1787
+resume: "Réaliser une montée de version majeure PG (ex. 16→18) avec pg_upgrade --swap (échange atomique des répertoires, downtime de quelques secondes) en conservant les statistiques, sans ANALYZE massif. Étape 1 : Installer les deux versions, lancer pg_upgrade --check (compatibilite)."
 date_ajout: "2026-11"
 nom: "pg_upgrade --swap : montée majeure sans downtime (PG18)"
 emoji: "🔄"

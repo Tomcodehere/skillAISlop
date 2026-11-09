@@ -1,5 +1,6 @@
 ---
 num: 631
+resume: "monter un dossier MDPH solide et organiser les aides (AAH, PCH, aménagements) pour une personne en situation de handicap. Étape 1 : Évaluer la situation : nature du handicap, besoins quotidiens, projet de vie, aides déjà en place."
 date_ajout: "2026-11"
 nom: "Handicap, MDPH & aménagements"
 emoji: "♿"

@@ -1,5 +1,6 @@
 ---
 num: 562
+resume: "démarrer et tenir une micro-entreprise : statut adapté, obligations légères mais réelles, seuils et passage à la société. Étape 1 : Valider le statut, l'activité et les seuils applicables."
 date_ajout: "2026-11"
 nom: "Guide auto-entrepreneur & micro-entreprise"
 emoji: "🧑‍💼"

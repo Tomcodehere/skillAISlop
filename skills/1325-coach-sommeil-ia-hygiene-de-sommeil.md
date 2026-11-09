@@ -1,5 +1,6 @@
 ---
 num: 1325
+resume: "améliorer durablement son sommeil avec un coach IA : analyse des données wearable, routine du soir personnalisée, gestion lumière/caféine, lever fixe. Étape 1 : Baseline 2 semaines (wearable ou carnet) : coucher/lever, awakenings, qualité ressentie."
 date_ajout: "2026-11"
 nom: "Coach sommeil IA & hygiène de sommeil"
 emoji: "😴"

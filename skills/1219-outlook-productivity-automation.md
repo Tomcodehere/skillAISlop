@@ -1,5 +1,6 @@
 ---
 num: 1219
+resume: "Maximiser productivité Outlook via : - Automatisation tri emails (règles, Quick Steps) - Optimisation gestion agenda (délégations, salles) - Communication professionnelle (signatures, templates) - Retrouver informations rapidement (recherche, archivage)"
 date_ajout: "2026-11"
 nom: "Outlook Productivity Automation"
 emoji: "💬"

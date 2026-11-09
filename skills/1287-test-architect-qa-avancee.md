@@ -1,5 +1,6 @@
 ---
 num: 1287
+resume: "Concevoir une strategie de tests optimale selon criticite et risques. Étape 1 : Cartographier risques."
 date_ajout: "2026-11"
 nom: "Test Architect (QA avancee)"
 emoji: "💻"

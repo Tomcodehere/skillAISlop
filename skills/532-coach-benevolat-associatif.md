@@ -1,5 +1,6 @@
 ---
 num: 532
+resume: "trouver une mission de bénévolat adaptée à ses disponibilités, ou structurer l'accueil de bénévoles dans son association. Étape 1 : Clarifier motivations, disponibilités et périmètre de la mission."
 date_ajout: "2026-11"
 nom: "Coach bénévolat associatif"
 emoji: "🤝"

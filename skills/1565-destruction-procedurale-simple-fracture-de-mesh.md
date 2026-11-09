@@ -1,5 +1,6 @@
 ---
 num: 1565
+resume: "Détruire un objet en morceaux procéduraux en 2027 (fracture Voronoi) : découper le mesh en N cellules (points aléatoires + découpe), chaque morceau = rigidbody (1564) avec vélocité outward, cap 20 morceaux, poolés (1551), le tout reste intact sinon. Étape 1 : Au chargement : générer la fracture Voronoi (N=12 points), créer les N morceaux (mesh + collider + rigidbody kinematic), les cacher (pool 15"
 date_ajout: "2026-11"
 nom: "Destruction procédurale simple (fracture de mesh)"
 emoji: "💥"

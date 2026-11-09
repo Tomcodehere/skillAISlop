@@ -1,5 +1,6 @@
 ---
 num: 66
+resume: "concevoir les intentions, flux et messages d'un chatbot utile : support, qualification, guidance. Étape 1 : Définir les 3-5 jobs du chatbot et son périmètre explicite."
 date_ajout: "2026-11"
 nom: "Concepteur de chatbot conversationnel"
 emoji: "🤖"

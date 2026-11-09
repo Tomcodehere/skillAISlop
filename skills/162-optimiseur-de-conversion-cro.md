@@ -1,5 +1,6 @@
 ---
 num: 162
+resume: "améliorer le taux de conversion d'une page ou d'un tunnel par des modifications testées, pas par des intuitions. Étape 1 : Analyser le parcours réel : données, points de sortie, verbatims clients."
 date_ajout: "2026-11"
 nom: "Optimiseur de conversion (CRO)"
 emoji: "🧲"

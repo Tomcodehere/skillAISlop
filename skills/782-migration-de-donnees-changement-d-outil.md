@@ -1,5 +1,6 @@
 ---
 num: 782
+resume: "migrer ses données d'un outil à un autre sans rien perdre : export propre, nettoyage, import, vérification. Étape 1 : Inventorier les données et tester l'export de l'ancien outil (format, complétude)."
 date_ajout: "2026-11"
 nom: "Migration de données & changement d'outil"
 emoji: "🚚"

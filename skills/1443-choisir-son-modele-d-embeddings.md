@@ -1,5 +1,6 @@
 ---
 num: 1443
+resume: "Choisir le bon modèle d'embeddings en 2027 pour un RAG/recherche sémantique : comparer sur le MTEB (multilingue, code, domaine), la dimension (coût stockage), et valider sur ses propres données (retrieval eval). Étape 1 : Lister 3-5 modèles candidats selon langue/domaine (MTEB leaderboard)."
 date_ajout: "2026-11"
 nom: "Choisir son modele d'embeddings"
 emoji: "🔢"

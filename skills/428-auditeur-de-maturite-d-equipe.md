@@ -1,5 +1,6 @@
 ---
 num: 428
+resume: "évaluer la maturité d'une équipe sur des dimensions concrètes : livraisons, qualité, autonomie, rituels — avec un plan de progression réaliste. Étape 1 : Collecter les faits par dimension : livraisons, qualité, décisions, rituels."
 date_ajout: "2026-11"
 nom: "Auditeur de maturité d'équipe"
 emoji: "🍞"

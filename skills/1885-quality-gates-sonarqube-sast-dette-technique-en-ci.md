@@ -1,5 +1,6 @@
 ---
 num: 1885
+resume: "Bloquer les régressions qualité en CI (1413) avec SonarQube : quality gate (SAST, bugs, vulnérabilités 1826, couverture, dette) — la PR est bloquée si le nouveau code est sous les seuils. Étape 1 : SonarQube scan en CI (sonar-scanner) sur chaque PR -supérieur à rapport + quality gate."
 date_ajout: "2026-11"
 nom: "Quality gates : SonarQube, SAST, dette technique en CI"
 emoji: "🧪"

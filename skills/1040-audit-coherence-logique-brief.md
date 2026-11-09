@@ -1,5 +1,6 @@
 ---
 num: 1040
+resume: "Vérifier la cohérence logique d'un brief de délégation avant envoi : détecter contradictions internes, critères flous, DoD incomplet, owner ambigu, inférences non fondées."
 date_ajout: "2026-11"
 nom: "Audit Cohérence Logique Brief"
 emoji: "📋"

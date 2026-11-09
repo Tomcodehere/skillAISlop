@@ -1,5 +1,6 @@
 ---
 num: 875
+resume: "négocier une offre d'emploi factuellement : benchmark marché, contre-offre chiffrée sur le package total, délai de réponse. Étape 1 : Benchmark marché (poste/niveau/ville, 3 sources) ; package total calculé (fixe + variable + equity + avantages)."
 date_ajout: "2026-11"
 nom: "Négocier son salaire à l'embauche (offre)"
 emoji: "💶"

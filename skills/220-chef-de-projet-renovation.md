@@ -1,5 +1,6 @@
 ---
 num: 220
+resume: "planifier des travaux de rénovation : phases, artisans, budget, timing et suivi de chantier. Étape 1 : Définir le projet : périmètre, budget cible, contraintes (habitation pendant travaux, copropriété)."
 date_ajout: "2026-11"
 nom: "Chef de projet rénovation"
 emoji: "🏠"

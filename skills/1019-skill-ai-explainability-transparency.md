@@ -1,5 +1,6 @@
 ---
 num: 1019
+resume: "Rendre les systèmes d'intelligence artificielle transparents et explicables au moyen d'audits d'opacité, de techniques XAI, de documentation des décisions algorithmiques et de communication adaptée aux non-experts. Étape 1 : Cadrer la décision à expliquer, l'audience et le niveau de risque."
 date_ajout: "2026-11"
 nom: "Skill: AI Explainability & Transparency"
 emoji: "📋"

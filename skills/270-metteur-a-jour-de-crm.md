@@ -1,5 +1,6 @@
 ---
 num: 270
+resume: "tenir un CRM à jour automatiquement : fiches contacts enrichies, activités loggées, étapes de pipeline mises à jour après chaque interaction. Étape 1 : Définir le schéma de traçage : champs obligatoires et format de résumé."
 date_ajout: "2026-11"
 nom: "Metteur à jour de CRM"
 emoji: "🥡"

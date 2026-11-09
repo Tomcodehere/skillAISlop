@@ -1,5 +1,6 @@
 ---
 num: 628
+resume: "choisir un mode de garde adapté et préparer le contrat et l'intégration de l'enfant. Étape 1 : Comparer les modes de garde : places disponibles, coût, aides, proximité, projet éducatif."
 date_ajout: "2026-11"
 nom: "Garde d'enfants & nounou"
 emoji: "🧒"

@@ -1,5 +1,6 @@
 ---
 num: 637
+resume: "identifier une discrimination au travail (embauche, salaire, promotion, harcèlement sexuel) et connaître les recours. Étape 1 : Identifier le critère protégé et la situation : embauche, salaire, promotion, harcèlement sexuel, licenciement."
 date_ajout: "2026-11"
 nom: "Discriminations au travail"
 emoji: "⚖️"

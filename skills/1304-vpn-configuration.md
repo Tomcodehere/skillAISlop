@@ -1,5 +1,6 @@
 ---
 num: 1304
+resume: "Configurer VPN site-to-site et client-to-site (IPsec, WireGuard, OpenVPN) sécurisés et performants."
 date_ajout: "2026-11"
 nom: "VPN Configuration"
 emoji: "📋"

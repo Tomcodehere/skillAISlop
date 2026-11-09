@@ -1,5 +1,6 @@
 ---
 num: 1965
+resume: "Un zip posé droit, qui s'ouvre/ferme parfaitement, visible ou invisible selon le projet. Étape 1 : Entoiler, bâtir le zip fermé à la bonne place."
 date_ajout: "2026-11"
 nom: "Poser une fermeture éclair"
 emoji: "🩹"

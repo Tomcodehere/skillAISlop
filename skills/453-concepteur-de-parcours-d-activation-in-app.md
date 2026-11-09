@@ -1,5 +1,6 @@
 ---
 num: 453
+resume: "concevoir l'activation in-app : moment de succès rapide, guides contextuels non envahissants et progression mesurable. Étape 1 : Définir le moment de succès et le chemin le plus court vers lui."
 date_ajout: "2026-11"
 nom: "Concepteur de parcours d'activation in-app"
 emoji: "🎈"

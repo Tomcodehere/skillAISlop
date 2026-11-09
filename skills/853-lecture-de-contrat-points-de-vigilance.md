@@ -1,5 +1,6 @@
 ---
 num: 853
+resume: "faire une lecture structurée d'un contrat avant signature : objet, prix, durée, résiliation, pénalités, responsabilité, loi applicable. Étape 1 : Vérifier dans l'ordre : parties, objet précis, prix/paiement, durée + date de tacite reconduction, résiliation."
 date_ajout: "2026-11"
 nom: "Lecture de contrat : points de vigilance"
 emoji: "🔍"

@@ -1,5 +1,6 @@
 ---
 num: 941
+resume: "appliquer en 2027 les tendances nutritionnelles étayées (santé cardiovasculaire : avoine/bêta-glucanes, nitrates de betterave, polyphénols ; créatine pour le muscle et le cerveau) sans tomber dans les suppléments inutiles. Étape 1 : Cœur : avoine (bêta-glucanes), betterave (nitrates), polyphénols (fruits rouges, cacao) — preuves solides à émergentes."
 date_ajout: "2026-11"
 nom: "Nutrition fonctionnelle & santé cardiovasculaire"
 emoji: "❤️"

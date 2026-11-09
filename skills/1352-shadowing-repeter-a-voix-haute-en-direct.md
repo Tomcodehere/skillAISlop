@@ -1,5 +1,6 @@
 ---
 num: 1352
+resume: "Maitriser la technique du shadowing (repetition orale simultanee avec decalage) pour ameliorer prononciation, rythme et fluidite dans une langue etrangere, en sessions de 10 a 20 minutes. Étape 1 : Choisir un extrait clair, ni trop rapide ni trop long (1-2 min), avec transcription si possible."
 date_ajout: "2026-11"
 nom: "Shadowing : repeter a voix haute en direct"
 emoji: "🎙"

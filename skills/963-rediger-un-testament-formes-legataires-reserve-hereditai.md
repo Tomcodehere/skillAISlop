@@ -1,5 +1,6 @@
 ---
 num: 963
+resume: "rédiger un testament valide en 2027 : forme (olographe écrit à la main ou authentique notarié), légataires, réserve héréditaire, révocation. Étape 1 : Forme : olographe (écrit/daté/signé main) ou authentique chez notaire (recommandé) ; enregistrer au FCDDV via notaire."
 date_ajout: "2026-11"
 nom: "Rédiger un testament (formes, légataires, réserve héréditaire)"
 emoji: "📜"

@@ -1,5 +1,6 @@
 ---
 num: 1404
+resume: "Choisir la stratégie de branching adaptée à l'équipe en 2027 (GitFlow, GitHub Flow, trunk-based) avec ses règles concrètes : nommage, durée de vie des branches, revues de PR. Étape 1 : Lister les 3 modèles et leurs règles (branches, PR, merge)."
 date_ajout: "2026-11"
 nom: "Strategie de branching : GitFlow vs trunk-based"
 emoji: "🌳"

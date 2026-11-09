@@ -1,5 +1,6 @@
 ---
 num: 522
+resume: "progresser en photographie : maîtriser son appareil, la lumière et le cadrage, avec des exercices progressifs notés. Étape 1 : Faire le tour de l'appareil et de ses limites."
 date_ajout: "2026-11"
 nom: "Coach photographie"
 emoji: "📷"

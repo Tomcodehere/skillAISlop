@@ -1,5 +1,6 @@
 ---
 num: 117
+resume: "traduire un document complet (PDF, Word, slides) en conservant sa structure et sa mise en forme. Étape 1 : Analyser le document : structure, glossaire, ton, éléments à ne pas traduire (marques, références)."
 date_ajout: "2026-11"
 nom: "Traducteur de documents formatés"
 emoji: "🔤"

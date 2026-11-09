@@ -1,5 +1,6 @@
 ---
 num: 1077
+resume: "Évaluer la charge cognitive des interfaces et workflows pour identifier les points de surcharge mentale et proposer des simplifications basées sur la théorie de la charge cognitive (Sweller) et l'ergonomie cognitive. Étape 1 : Clarifier le besoin."
 date_ajout: "2026-11"
 nom: "Cognitive Load Assessment"
 emoji: "💻"

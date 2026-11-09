@@ -1,5 +1,6 @@
 ---
 num: 639
+resume: "comprendre son régime de TVA et préparer sa déclaration (CA3 mensuelle/trimestrielle ou CA12 annuelle). Étape 1 : Identifier le régime : seuils de franchise, fréquence de déclaration, option pour le réel."
 date_ajout: "2026-11"
 nom: "TVA & déclarations fiscales pro"
 emoji: "🧾"

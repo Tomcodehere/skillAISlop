@@ -1,5 +1,6 @@
 ---
 num: 1204
+resume: "Réduire un document généraliste en préservant décisions, réserves et relations logiques. Étape 1 : Cadrer les inputs : texte autorisé, audience et longueur cible ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Neutral Document Condensation"
 emoji: "🎨"

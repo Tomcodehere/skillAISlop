@@ -1,5 +1,6 @@
 ---
 num: 1027
+resume: "Concevoir les chemins d'échec et de reprise d'un système IA orchestré. Étape 1 : Cadrer les inputs : composants ia, appels outils, délais, effets de bord et états persistés ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "AI System Failure Recovery Design"
 emoji: "🧠"

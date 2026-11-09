@@ -1,5 +1,6 @@
 ---
 num: 1816
+resume: "Héberger providers et modules IaC dans un registre OCI interne (Harbor/ECR/GAR) avec OpenTofu 1.10+ : air-gapped, versioning par tag, modules signés (cosign) — plus de dépendance au registre public. Étape 1 : Déployer Harbor (proxy cache public + projet interne skillaislop)."
 date_ajout: "2026-11"
 nom: "Registre de modules et providers en OCI (OpenTofu)"
 emoji: "🏭"

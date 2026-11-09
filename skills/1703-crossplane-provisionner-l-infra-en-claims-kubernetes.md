@@ -1,5 +1,6 @@
 ---
 num: 1703
+resume: "Provisionner l'infra via Crossplane en 2027 : claims Kubernetes (CRD) — 'je veux une Postgres 16 prod' en YAML — Crossplane la crée chez le cloud provider, la gère (backups, rotation, upgrades), réconciliation continue (GitOps). Étape 1 : Installer Crossplane (helm) + provider du cloud (ex. provider-aws), credentials via secret (Vault 1656)."
 date_ajout: "2026-11"
 nom: "Crossplane : provisionner l'infra en claims Kubernetes"
 emoji: "⚙️"

@@ -1,5 +1,6 @@
 ---
 num: 704
+resume: "réorganiser un agenda surchargé : protéger des blocs de concentration, regrouper les réunions, refuser ou décaler le superflu. Étape 1 : Auditer la semaine : réunions, leur objectif, leur durée réelle, les trous et le temps de focus disponible."
 date_ajout: "2026-11"
 nom: "Gestion intelligente de l'agenda"
 emoji: "📅"

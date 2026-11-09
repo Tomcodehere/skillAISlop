@@ -1,5 +1,6 @@
 ---
 num: 617
+resume: "accompagner une personne en épuisement professionnel vers un plan de sortie de crise factuel et un retour au travail soutenable. Étape 1 : Évaluer la situation : signes d'épuisement, durée, contexte professionnel, soutiens disponibles, sans jugement."
 date_ajout: "2026-11"
 nom: "Accompagnement burn-out"
 emoji: "🩺"

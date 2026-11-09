@@ -1,5 +1,6 @@
 ---
 num: 1324
+resume: "gérer son budget perso avec un agent IA : catégorisation automatique des dépenses bancaires, alertes de dépassement, enveloppes mensuelles et objectif d'épargne. Étape 1 : Importer les relevés (CSV/OFX) ou connecter via agrégateur sécurisé — jamais de codes en clair."
 date_ajout: "2026-11"
 nom: "Gestionnaire de budget perso IA"
 emoji: "🧮"

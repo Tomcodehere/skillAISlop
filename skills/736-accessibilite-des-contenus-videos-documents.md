@@ -1,5 +1,6 @@
 ---
 num: 736
+resume: "rendre ses contenus (vidéos, documents, posts) accessibles : sous-titres, transcriptions, textes alternatifs, contrastes. Étape 1 : Check-list par format : vidéo (sous-titres relus), image (alt-text), document (titres, contraste, PDF balisé)."
 date_ajout: "2026-11"
 nom: "Accessibilité des contenus (vidéos, documents)"
 emoji: "🦻"

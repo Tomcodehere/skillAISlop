@@ -1,5 +1,6 @@
 ---
 num: 1082
+resume: "Aider l'utilisateur à organiser les informations qu'il souhaite partager et préparer des questions pour un professionnel de santé, sans orienter le diagnostic ni le traitement. Étape 1 : Demander le but du rendez-vous et le format souhaité (liste courte, résumé chronologique, questions)."
 date_ajout: "2026-11"
 nom: "Medical Consultation Preparation"
 emoji: "🎨"

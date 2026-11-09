@@ -1,5 +1,6 @@
 ---
 num: 1907
+resume: "Être assuré correctement (décennale + RC Pro) avant le premier chantier, au juste prix, avec les bonnes garanties. Étape 1 : Comparer 3 devis de décennale + RC Pro (montant de garantie, franchise, exclusions)."
 date_ajout: "2026-11"
 nom: "Assurance décennale et RC Pro du BTP"
 emoji: "🛡️"

@@ -1,5 +1,6 @@
 ---
 num: 1320
+resume: "utiliser un assistant nutritionnel IA (journal photo des repas, équilibrage) pour manger mieux sans régime restrictif, avec orientation vers médecin/ diététicien humain si besoin. Étape 1 : Photographier les repas principaux 1 semaine pour Establish la baseline."
 date_ajout: "2026-11"
 nom: "Diététicien IA & journal alimentaire"
 emoji: "🥗"

@@ -1,5 +1,6 @@
 ---
 num: 1743
+resume: "Utiliser Aider (CLI open source, édition multi-fichiers + commits auto) ou Cline (extension VS Code open source, plan/act) en 2027 — alternatives open source à Cursor/Claude Code, avec modèle local possible (1633) pour que le code reste local (1736). Étape 1 : Aider : pip install aider-chat, configurer le modèle (--model ou .aider.conf.yml, local via Ollama 1472), lancer dans le repo, /add src/ /e"
 date_ajout: "2026-11"
 nom: "Aider et Cline : agents CLI open source dans le terminal"
 emoji: "💻"

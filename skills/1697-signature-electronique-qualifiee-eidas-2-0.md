@@ -1,5 +1,6 @@
 ---
 num: 1697
+resume: "Utiliser la signature électronique qualifiée (SEQ) en 2027 sous eIDAS 2.0 : via un prestataire de confiance qualifié (QTSP : Docaposte, Universign, Yousign, Adobe Sign) et le wallet européen EUDI (déploiement 2027) — valeur juridique équivalente à la signature manuscrite, pour contrats et actes. Étape 1 : Choisir le niveau : simple (email) / avancée (identité vérifiée) / qualifiée SEQ (valeur léga"
 date_ajout: "2026-11"
 nom: "Signature électronique qualifiée eIDAS 2.0"
 emoji: "✍️"

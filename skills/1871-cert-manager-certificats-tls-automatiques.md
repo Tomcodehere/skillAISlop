@@ -1,5 +1,6 @@
 ---
 num: 1871
+resume: "Automatiser les certificats TLS avec cert-manager (Issuer/ClusterIssuer ACME Let's Encrypt ou Vault PKI) : émission, renouvellement auto, injection Gateway API/Ingress (1801). Étape 1 : Installer cert-manager + créer ClusterIssuer letsencrypt-prod (ACME, DNS-01 si wildcard via Cloudflare API token)."
 date_ajout: "2026-11"
 nom: "cert-manager : certificats TLS automatiques"
 emoji: "🔒"

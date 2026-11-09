@@ -1,5 +1,6 @@
 ---
 num: 585
+resume: "tirer parti des programmes de fidélité voyage : quel programme pour son profil, accumulation ciblée et dépense à bon escient. Étape 1 : Établir le profil de voyage et choisir un ou deux programmes."
 date_ajout: "2026-11"
 nom: "Optimiseur de miles & points"
 emoji: "✈️"

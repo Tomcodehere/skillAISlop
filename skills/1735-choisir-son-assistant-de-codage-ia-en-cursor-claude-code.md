@@ -1,5 +1,6 @@
 ---
 num: 1735
+resume: "Choisir son assistant de codage IA en 2027 : Cursor (IDE agentique) ou Claude Code (CLI, SWE-bench 88,6 %) pour les missions lourdes, Copilot (entreprise, crédits juin 2026) au quotidien, Devin Desktop/Codex pour l'autonomie cloud, OpenCode/Jules gratuits — avec une politique de sécurité du code (1736). Étape 1 : Matrice : Cursor (IDE agent, Composer 2.5, 20-60 $/mois, multi-fichiers) ; Claude Cod"
 date_ajout: "2026-11"
 nom: "Choisir son assistant de codage IA en (Cursor, Claude Code, Copilot, Devin...)"
 emoji: "⚖️"

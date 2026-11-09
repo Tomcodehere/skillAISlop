@@ -1,5 +1,6 @@
 ---
 num: 133
+resume: "construire une bibliographie conforme aux normes (APA, MLA, Chicago) et vérifier la cohérence des citations. Étape 1 : Identifier la norme exigée et collecter toutes les références avec leurs métadonnées."
 date_ajout: "2026-11"
 nom: "Assistant de citations & bibliographies"
 emoji: "🧷"

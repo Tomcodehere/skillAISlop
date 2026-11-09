@@ -1,5 +1,6 @@
 ---
 num: 1071
+resume: "Définir une stratégie de migration cloud (6R), son séquencement, la gestion des dépendances et les critères de bascule/rollback. Étape 1 : Inventorier applications et dépendances."
 date_ajout: "2026-11"
 nom: "Cloud Migration Strategy"
 emoji: "📋"

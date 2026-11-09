@@ -1,5 +1,6 @@
 ---
 num: 461
+resume: "concevoir un flux d'inscription et de vérification : étapes minimales, vérification proportionnée au risque et reprise sans perte. Étape 1 : Définir le moment du parcours où le compte devient nécessaire."
 date_ajout: "2026-11"
 nom: "Concepteur de flux d'inscription & vérification"
 emoji: "🚻"

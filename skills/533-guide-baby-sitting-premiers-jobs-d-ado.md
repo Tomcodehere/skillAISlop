@@ -1,5 +1,6 @@
 ---
 num: 533
+resume: "démarrer le baby-sitting et les premiers jobs d'adolescent en confiance : se rendre employable, tarifs, sécurité et cadre parental. Étape 1 : Valoriser ses expériences et préparer son annonce."
 date_ajout: "2026-11"
 nom: "Guide baby-sitting & premiers jobs d'ado"
 emoji: "🧸"

@@ -1,5 +1,6 @@
 ---
 num: 333
+resume: "choisir un modèle avec des critères objectifs : benchmarks pertinents pour la tâche, coût, latence et limites des évaluations publiques. Étape 1 : Traduire le besoin en 2-3 tâches mesurables et leurs critères de réussite."
 date_ajout: "2026-11"
 nom: "Explorateur de benchmarks de modèles"
 emoji: "🌠"

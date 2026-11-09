@@ -1,5 +1,6 @@
 ---
 num: 1607
+resume: "Faire tourner un modèle ML dans le navigateur en 2027 (ONNX Runtime Web, backend WebGPU/WASM) : conversion ONNX, inférence locale (privacy, latence nulle), pour classification/NLP/vision légers. Étape 1 : Exporter le modèle en .onnx (torch.onnx.export, opset récent)."
 date_ajout: "2026-11"
 nom: "Inference ML côté client : ONNX Runtime Web + WebGPU"
 emoji: "🧠"

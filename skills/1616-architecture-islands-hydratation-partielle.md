@@ -1,5 +1,6 @@
 ---
 num: 1616
+resume: "Concevoir une architecture islands en 2027 : HTML statique par défaut, seules les îles interactives hydratées selon leur priorité (client:load immédiat, client:idle quand idle, client:visible au scroll), chacune pouvant utiliser un framework différent. Étape 1 : Identifier les îles (composants avec état/événements) vs le reste (statique)."
 date_ajout: "2026-11"
 nom: "Architecture islands : hydratation partielle"
 emoji: "🏝️"

@@ -1,5 +1,6 @@
 ---
 num: 1288
+resume: "Isoler les données et ressources d'une suite de tests pour éviter dépendances d'ordre et effets externes. Étape 1 : Cadrer les inputs : tests, état partagé, services externes et contraintes de parallélisme ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Test Fixture Isolation Design"
 emoji: "💻"

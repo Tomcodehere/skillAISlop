@@ -1,5 +1,6 @@
 ---
 num: 588
+resume: "tenir la comptabilité d'une TPE sereinement : vocabulaire, comptes utiles, obligations et dialogue efficace avec l'expert-comptable. Étape 1 : Expliquer les chiffres clés avec les données réelles de la TPE."
 date_ajout: "2026-11"
 nom: "Comptable de TPE"
 emoji: "🧮"

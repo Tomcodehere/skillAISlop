@@ -1,5 +1,6 @@
 ---
 num: 947
+resume: "utiliser en 2027 des agents éphémères (one-shot) pour les tâches ponctuelles plutôt que de garder des agents permanents coûteux : lancer, exécuter, détruire, mesurer le coût. Étape 1 : Tâche ponctuelle = agent one-shot en sandbox : lancer, exécuter, vérifier la sortie (skill 939), détruire."
 date_ajout: "2026-11"
 nom: "Agent éphémère jetable (one-shot tasks)"
 emoji: "🧨"

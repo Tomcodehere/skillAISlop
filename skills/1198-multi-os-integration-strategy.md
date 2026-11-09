@@ -1,5 +1,6 @@
 ---
 num: 1198
+resume: "Définir et implémenter des stratégies de cohérence et d'interopérabilité entre environnements Windows, Linux et containers : standards de configuration, naming conventions, authentification centralisée, gestion unifiée. Étape 1 : Auditer environnements existants (authentification actuelle, naming, configurations divergentes)."
 date_ajout: "2026-11"
 nom: "Multi-OS Integration Strategy"
 emoji: "💻"

@@ -1,5 +1,6 @@
 ---
 num: 12
+resume: "préparer et simuler un entretien (job, média ou entrevue client). Étape 1 : Analyser le poste / contexte et le CV fourni."
 date_ajout: "2026-11"
 nom: "Préparation d'entretien / interview"
 emoji: "🤝"

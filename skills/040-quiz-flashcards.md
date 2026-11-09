@@ -1,5 +1,6 @@
 ---
 num: 40
+resume: "générer du matériel de révision mémorisable : flashcards et quiz calibrés sur le niveau réel. Étape 1 : Clarifier le sujet, le niveau et la date de l'examen (pour calibrer le volume)."
 date_ajout: "2026-11"
 nom: "Quiz & flashcards"
 emoji: "🃏"

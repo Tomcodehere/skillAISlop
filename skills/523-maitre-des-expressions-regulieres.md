@@ -1,5 +1,6 @@
 ---
 num: 523
+resume: "écrire, déchiffrer et déboguer des expressions régulières robustes, avec des tests et la bonne quantité de complexité. Étape 1 : Formaliser le besoin et les cas limites."
 date_ajout: "2026-11"
 nom: "Maître des expressions régulières"
 emoji: "🔤"

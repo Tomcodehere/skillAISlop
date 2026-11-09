@@ -1,5 +1,6 @@
 ---
 num: 1900
+resume: "Mettre en place un VDP (security.txt RFC 9116, security@, réponse inférieur à 5 j, safe harbor) + bug bounty (HackerOne/Bugcrowd/YesWeHack) si périmètre mature : triage SSVC (1826), correction (critical 24 h, high 7 j), CRA 2027 (1830). Étape 1 : VDP : security.txt à la racine (/.well-known/security.txt, RFC 9116), security@, PGP, politique safe harbor, délais de réponse (5 j)."
 date_ajout: "2026-11"
 nom: "Bug bounty et VDP : recevoir et traiter les signalements de vulnérabilités"
 emoji: "🐛"

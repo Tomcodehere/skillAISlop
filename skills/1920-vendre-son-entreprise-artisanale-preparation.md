@@ -1,5 +1,6 @@
 ---
 num: 1920
+resume: "Maximiser la valeur de son entreprise artisanale avant cession et préparer une transmission sereine. Étape 1 : Assainir les comptes et la conformité 12-24 mois avant."
 date_ajout: "2026-11"
 nom: "Vendre son entreprise artisanale (préparation)"
 emoji: "💼"

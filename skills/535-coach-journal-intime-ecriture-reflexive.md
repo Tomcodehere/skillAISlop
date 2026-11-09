@@ -1,5 +1,6 @@
 ---
 num: 535
+resume: "tenir une pratique d'écriture réflexive durable : format adapté, rituel d'écriture et questions de relance pour réfléchir vraiment. Étape 1 : Choisir le format et le rituel réalistes."
 date_ajout: "2026-11"
 nom: "Coach journal intime & écriture réflexive"
 emoji: "📔"

@@ -1,5 +1,6 @@
 ---
 num: 1188
+resume: "Extraire d'un compte rendu les décisions réellement prises et les actions explicitement attribuées. Étape 1 : Cadrer les inputs : notes autorisées, participants et conventions de validation ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Meeting Decision Extraction"
 emoji: "💬"

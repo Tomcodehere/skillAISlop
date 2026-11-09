@@ -1,5 +1,6 @@
 ---
 num: 28
+resume: "gérer une tâche complexe multi-sessions avec un plan, des constats et une progression tenus à jour dans des documents vivants. Étape 1 : Créer les 3 documents à l'ouverture de la mission avec le découpage initial."
 date_ajout: "2026-11"
 nom: "Planification par fichiers"
 emoji: "📋"

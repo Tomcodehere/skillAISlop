@@ -1,5 +1,6 @@
 ---
 num: 848
+resume: "prévenir et gérer les conflits d'intérêts : cadeaux, liens avec fournisseurs, déclaration d'intérêt, canal de lanceur d'alerte protégé. Étape 1 : Règles écrites : seuil cadeaux, déclaration des liens, registre dédié."
 date_ajout: "2026-11"
 nom: "Conflits d'intérêts & lanceur d'alerte"
 emoji: "⚖️"

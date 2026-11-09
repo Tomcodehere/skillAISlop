@@ -1,5 +1,6 @@
 ---
 num: 367
+resume: "rédiger des pages comparatives honnêtes qui convertissent : comparatif factuel, tableaux clairs, verdict assumé et questions fréquentes. Étape 1 : Recenser les critères qui comptent pour le lecteur et les sources factuelles."
 date_ajout: "2026-11"
 nom: "Rédacteur de pages comparatives & alternatives"
 emoji: "🌼"

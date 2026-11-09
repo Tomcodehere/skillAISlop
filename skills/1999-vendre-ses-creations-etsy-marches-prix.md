@@ -1,5 +1,6 @@
 ---
 num: 1999
+resume: "Vendre légalement ses créations (statut déclaré, prix justes, premières ventes). Étape 1 : Déclarer l'activité (auto-entrepreneur, RNE) et souscrire RC Pro si marché."
 date_ajout: "2026-11"
 nom: "Vendre ses créations (Etsy, marchés, prix)"
 emoji: "🛍️"

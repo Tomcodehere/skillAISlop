@@ -1,5 +1,6 @@
 ---
 num: 1879
+resume: "GitOps avancé avec Argo CD : ApplicationSet (templates + générateurs git/clusters pour N environnements), sync waves (ordre de déploiement), progressive syncs avec Argo Rollouts (1877). Étape 1 : ApplicationSet : spec.generators (git directories ou cluster CAPI) + template (name, repo, targetRevision, destination)."
 date_ajout: "2026-11"
 nom: "GitOps avancé avec Argo CD : ApplicationSet, sync waves"
 emoji: "🌌"

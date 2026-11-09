@@ -1,5 +1,6 @@
 ---
 num: 399
+resume: "définir le ton d'une équipe par contexte : matrice de situations (vente, incident, félicitation) avec registre, exemples et contre-exemples. Étape 1 : Recenser les contextes de communication réels de l'équipe."
 date_ajout: "2026-11"
 nom: "Rédacteur de matrice de ton d'équipe"
 emoji: "🔈"

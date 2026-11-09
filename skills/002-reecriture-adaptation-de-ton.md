@@ -1,5 +1,6 @@
 ---
 num: 2
+resume: "transformer un texte existant sans en perdre le sens, en adaptant le registre. Étape 1 : Recevoir le texte source + ton souhaité + audience."
 date_ajout: "2026-11"
 nom: "Réécriture & adaptation de ton"
 emoji: "🔀"

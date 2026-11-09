@@ -1,5 +1,6 @@
 ---
 num: 1789
+resume: "Conduire une migration PG (ex. 16→18, ou 18→19 RC) en sécurité : pg_upgrade --check, recette identique avec tests de régression + pgbench, --swap (1787) en fenêtre, rollback = ancien cluster gardé 1 semaine. Étape 1 : pg_upgrade --check sur les deux clusters (compatibilite, extensions)."
 date_ajout: "2026-11"
 nom: "Plan de migration vers PostgreSQL 18/19 : tests, pgbench, rollback"
 emoji: "🛠️"

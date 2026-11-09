@@ -1,5 +1,6 @@
 ---
 num: 1028
+resume: "Adapter les informations de transparence IA aux décisions de chaque public concerné. Étape 1 : Cadrer les inputs : publics, décisions, capacités réelles et limites connues ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "AI Transparency Audience Plan"
 emoji: "🎨"

@@ -1,5 +1,6 @@
 ---
 num: 1836
+resume: "Choisir son métacatalog : Marquez (lineage OpenLineage, léger) pour la technique ; OpenMetadata ou DataHub pour la gouvernance métier (glossaire, owners, PII) — Amundsen étant archivé. Étape 1 : Lineage technique : Marquez + OpenLineage (1832/1833) — standard, léger."
 date_ajout: "2026-11"
 nom: "Choisir son métacatalog : DataHub vs OpenMetadata vs Marquez"
 emoji: "🗺️"

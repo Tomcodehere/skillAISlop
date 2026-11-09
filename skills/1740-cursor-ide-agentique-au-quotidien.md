@@ -1,5 +1,6 @@
 ---
 num: 1740
+resume: "Utiliser Cursor en 2027 (IDE agentique, Composer 2.5) au quotidien : chat avec la codebase indexée, édition multi-fichiers (Cmd+K/Composer), agents cloud, choix de modèle — chaque diff validée par le dev (1401). Étape 1 : Indexation auto à l'ouverture (ou .cursorignore pour exclure), chat : '@src/api quel fichier gère le paiement ?' (réponse avec références de fichiers)."
 date_ajout: "2026-11"
 nom: "Cursor : IDE agentique au quotidien"
 emoji: "🖊️"

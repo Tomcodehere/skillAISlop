@@ -1,5 +1,6 @@
 ---
 num: 1004
+resume: "Concevoir des architectures Active Directory robustes et évolutives (forêts, domaines, sites, unités d'organisation), en tenant compte de la croissance de l'organisation, des contraintes de latence réseau et des exigences de sécurité/gouvernance. Étape 1 : Recueillir la topologie réseau et organisationnelle actuelle et cible."
 date_ajout: "2026-11"
 nom: "Active Directory Architecture Design"
 emoji: "💻"

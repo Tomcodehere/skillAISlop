@@ -1,5 +1,6 @@
 ---
 num: 1652
+resume: "Détecter les menaces avancées en 2027 avec l'UEBA : baseline ML du comportement normal par user/entité (horaires, volumes, destinations, pairs), anomalies (compte dormant réveillé, exfiltration lente 2 Go/jour), alertes vers le SIEM (1453) avec contexte. Étape 1 : Ingestion : logs auth (AD/Entra), proxy, EDR, DLP (1440) → plateforme UEBA."
 date_ajout: "2026-11"
 nom: "Detection comportementale : UEBA et IA cote defense"
 emoji: "🧠"

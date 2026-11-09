@@ -1,5 +1,6 @@
 ---
 num: 1272
+resume: "Préparer une transformation ponctuelle entre formats simples sans altérer les données non visées. Étape 1 : Cadrer les inputs : fichier d'exemple autorisé, formats, encodage et politique de perte ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Small File-Format Transformation"
 emoji: "🎓"

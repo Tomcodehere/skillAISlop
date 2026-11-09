@@ -1,5 +1,6 @@
 ---
 num: 49
+resume: "s'entraîner face à un personnage réaliste (client mécontent, prospect, utilisateur) pour un commercial, un support ou un manager. Étape 1 : Définir le persona du rôle, le contexte et le niveau de difficulté."
 date_ajout: "2026-11"
 nom: "Simulateur de rôle"
 emoji: "🎭"

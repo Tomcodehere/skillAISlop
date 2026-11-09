@@ -1,5 +1,6 @@
 ---
 num: 1986
+resume: "Un album souvenir fini, esthétique et durable (colle sans acide, photos protégées). Étape 1 : Choisir le carnet (album 30x30 ou reliure anneaux) et le thème."
 date_ajout: "2026-11"
 nom: "Scrapbooking (album souvenir)"
 emoji: "📖"

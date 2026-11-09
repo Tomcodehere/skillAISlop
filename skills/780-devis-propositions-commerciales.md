@@ -1,5 +1,6 @@
 ---
 num: 780
+resume: "rédiger un devis clair et vendable : périmètre détaillé, prix justifié, options, délais, conditions. Étape 1 : Détailler le périmètre ligne par ligne avec prix, et proposer 3 options (basique/pro/complet)."
 date_ajout: "2026-11"
 nom: "Devis & propositions commerciales"
 emoji: "📑"

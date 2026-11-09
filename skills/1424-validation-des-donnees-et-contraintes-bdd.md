@@ -1,5 +1,6 @@
 ---
 num: 1424
+resume: "Sécuriser les entrées et le modèle en 2027 : validation stricte côté app (Pydantic/Zod) + contraintes BDD (CHECK, FK, NOT NULL), requêtes paramétrées uniquement. Étape 1 : Définir le schéma de validation (Pydantic/Zod) par entrée."
 date_ajout: "2026-11"
 nom: "Validation des donnees et contraintes BDD"
 emoji: "🛡"

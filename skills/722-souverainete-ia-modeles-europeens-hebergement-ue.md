@@ -1,5 +1,6 @@
 ---
 num: 722
+resume: "choisir une stack IA souveraine : modèles européens, hébergement UE, conformité RGPD/AI Act, sans perdre en qualité. Étape 1 : Inventorier les données sensibles et les contraintes légales (RGPD, AI Act, secteur réglementé)."
 date_ajout: "2026-11"
 nom: "Souveraineté IA : modèles européens & hébergement UE"
 emoji: "🇪🇺"

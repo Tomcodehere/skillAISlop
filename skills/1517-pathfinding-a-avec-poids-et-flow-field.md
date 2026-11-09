@@ -1,5 +1,6 @@
 ---
 num: 1517
+resume: "Implémenter A* sur grille en 2027 (open set avec heap, f=g+h, 8 directions sans couper les coins, poids de terrain) puis en dériver un flow field (une passe pour N unités qui suivent le même chemin optimal). Étape 1 : A* : open heap, closed set; voisins 8 dir, diagonale interdite si un des 2 côtés est mur."
 date_ajout: "2026-11"
 nom: "Pathfinding A* avec poids et flow field"
 emoji: "🧭"

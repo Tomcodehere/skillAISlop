@@ -1,5 +1,6 @@
 ---
 num: 790
+resume: "mener un recrutement structuré de A à Z : fiche de poste, sélection, entretiens, décision, offre, intégration. Étape 1 : Fiche de poste claire (missions, compétences, salaire) et sélection sur grille objective."
 date_ajout: "2026-11"
 nom: "Recrutement & entretiens d'embauche (employeur)"
 emoji: "🎯"

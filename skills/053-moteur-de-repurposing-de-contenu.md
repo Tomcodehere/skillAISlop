@@ -1,5 +1,6 @@
 ---
 num: 53
+resume: "transformer un contenu source (transcription, vidéo, article) en une semaine de contenus multi-plateformes, dans une voix cohérente. Étape 1 : Analyser la source et extraire les 3-5 idées fortes réutilisables."
 date_ajout: "2026-11"
 nom: "Moteur de repurposing de contenu"
 emoji: "♻️"

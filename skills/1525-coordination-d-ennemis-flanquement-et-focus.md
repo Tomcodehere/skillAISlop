@@ -1,5 +1,6 @@
 ---
 num: 1525
+resume: "Coordonner un groupe d'ennemis en 2027 : assigner des rôles (tank/dps/soigneur), le tank attire l'attention de front pendant qu'un dps flanque (path vers le côté du joueur), focus fire sur la cible marquée, partage du last_seen. Étape 1 : Assigner rôles : le plus gros = tank (fonce, taunt), les rapides = flankers (path latéral), un = soigneur (reste derrière, heal tank)."
 date_ajout: "2026-11"
 nom: "Coordination d'ennemis : flanquement et focus"
 emoji: "👥"

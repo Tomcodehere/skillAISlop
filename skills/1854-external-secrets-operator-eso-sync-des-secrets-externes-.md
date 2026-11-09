@@ -1,5 +1,6 @@
 ---
 num: 1854
+resume: "Déployer ESO (v0.10+) pour synchroniser les secrets d'un store externe (Vault, AWS/GCP/Azure — 15+ backends) vers des Secrets k8s via ExternalSecret (refreshInterval), sans que l'app ne connaisse le store. Étape 1 : helm install external-secrets (namespace external-secrets)."
 date_ajout: "2026-11"
 nom: "External Secrets Operator (ESO) : sync des secrets externes vers k8s"
 emoji: "🔄"

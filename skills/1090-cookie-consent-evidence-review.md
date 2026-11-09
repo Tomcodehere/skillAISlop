@@ -1,5 +1,6 @@
 ---
 num: 1090
+resume: "Examiner si les choix et preuves de consentement reflètent le comportement réel d'un produit. Étape 1 : Cadrer les inputs : inventaire traceurs, finalités, ui de choix et preuves techniques ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Cookie Consent Evidence Review"
 emoji: "📦"

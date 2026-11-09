@@ -1,5 +1,6 @@
 ---
 num: 1014
+resume: "Définir quelles données d'état un agent peut lire, modifier et transmettre dans un système multi-agents. Étape 1 : Cadrer les inputs : rôles, états, messages, permissions et exigences d'isolation ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Agent State Boundary Design"
 emoji: "🧠"

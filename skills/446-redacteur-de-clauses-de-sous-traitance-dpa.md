@@ -1,5 +1,6 @@
 ---
 num: 446
+resume: "rédiger les clauses de sous-traitance des données : encadrement du sous-traitant, obligations documentées, contrôles et responsabilité en cas de manquement. Étape 1 : Décrire le traitement réel : objet, durée, données, personnes, localisation."
 date_ajout: "2026-11"
 nom: "Rédacteur de clauses de sous-traitance (DPA)"
 emoji: "🩼"

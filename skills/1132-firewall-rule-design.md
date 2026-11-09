@@ -1,5 +1,6 @@
 ---
 num: 1132
+resume: "Concevoir règles firewall sécurisées (iptables, pfSense, cloud SG) selon principe Zero Trust (deny-all puis allow sélectif). Étape 1 : Principe deny-all puis allow sélectif :"
 date_ajout: "2026-11"
 nom: "Firewall Rule Design"
 emoji: "💻"

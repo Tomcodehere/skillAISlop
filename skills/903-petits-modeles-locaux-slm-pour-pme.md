@@ -1,5 +1,6 @@
 ---
 num: 903
+resume: "déployer un petit modèle IA (SLM) en local (téléphone/PC) pour des données sensibles ou sans connexion, avec un coût maîtrisé. Étape 1 : Choisir le SLM adapté (tâche ciblée, 3-8 Md params, quantization Q4/Q5) + outil (Ollama/LM Studio)."
 date_ajout: "2026-11"
 nom: "Petits modèles locaux (SLM) pour PME"
 emoji: "📱"

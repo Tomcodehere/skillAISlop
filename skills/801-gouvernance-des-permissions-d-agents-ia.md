@@ -1,5 +1,6 @@
 ---
 num: 801
+resume: "cadrer ce qu'un agent IA peut faire seul, ce qui exige une approbation humaine, et tracer toutes ses actions. Étape 1 : Classer les actions par risque : lecture / envoi / paiement / modification de données, avec seuil d'approbation par niveau."
 date_ajout: "2026-11"
 nom: "Gouvernance des permissions d'agents IA"
 emoji: "🔐"

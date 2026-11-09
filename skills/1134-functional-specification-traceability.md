@@ -1,5 +1,6 @@
 ---
 num: 1134
+resume: "Transformer les besoins validés en spécifications fonctionnelles structurées et traçables, compréhensibles par les métiers, l'architecture, le développement et la QA. Étape 1 : Vérifier l'identifiant, la source, le statut et le périmètre de chaque besoin d'entrée."
 date_ajout: "2026-11"
 nom: "Functional Specification & Traceability"
 emoji: "💻"

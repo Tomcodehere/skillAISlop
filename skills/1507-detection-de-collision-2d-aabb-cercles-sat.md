@@ -1,5 +1,6 @@
 ---
 num: 1507
+resume: "Implémenter la détection + résolution de collision 2D en 2027 : AABB (chevauchement d'intervalles), cercles (distance inférieur à r1+r2), SAT pour rectangles orientés, avec poussée de séparation (MTV) et callbacks enter/stay/exit. Étape 1 : AABB : chevauchement si |x1-x2| inférieur à (w1+w2)/2 sur les 2 axes; MTV = plus petit dépassement."
 date_ajout: "2026-11"
 nom: "Detection de collision 2D : AABB, cercles, SAT"
 emoji: "💥"

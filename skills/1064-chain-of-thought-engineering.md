@@ -1,5 +1,6 @@
 ---
 num: 1064
+resume: "Concevoir des prompts utilisant des techniques de raisonnement étape par étape (Chain-of-Thought, ReAct, Tree of Thoughts) pour améliorer la qualité des réponses sur tâches complexes nécessitant analyse, décomposition ou résolution multi-étapes. Étape 1 : Clarifier le besoin."
 date_ajout: "2026-11"
 nom: "Chain of Thought Engineering"
 emoji: "💻"

@@ -1,5 +1,6 @@
 ---
 num: 313
+resume: "structurer ou débloquer un monorepo : découpage en packages, frontières, build incrémental et conventions de chemins. Étape 1 : Cartographier les composants, leurs dépendances réelles et les équipes."
 date_ajout: "2026-11"
 nom: "Architecte de monorepo"
 emoji: "🌑"

@@ -1,5 +1,6 @@
 ---
 num: 34
+resume: "garantir que tout contenu produit respecte la charte de marque : ton, style, vocabulaire, valeurs. Étape 1 : Absorber la charte (ou en faire rédiger une minimale si absente)."
 date_ajout: "2026-11"
 nom: "Gardien de charte de marque"
 emoji: "🎨"

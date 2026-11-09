@@ -1,5 +1,6 @@
 ---
 num: 90
+resume: "réduire la facture cloud sans dégrader le service, en arbitrant sur des chiffres. Étape 1 : Analyser la facture : top 10 des postes, ressources orphelines, tendances sur 3 mois."
 date_ajout: "2026-11"
 nom: "Optimiseur FinOps (coûts cloud)"
 emoji: "💳"

@@ -1,5 +1,6 @@
 ---
 num: 558
+resume: "construire un style vestimentaire qui soit soi : coupes, couleurs, garde-robe cohérente et achats qui servent. Étape 1 : Analyser les contextes de vie, la silhouette et les préférences réelles."
 date_ajout: "2026-11"
 nom: "Coach style vestimentaire"
 emoji: "👗"

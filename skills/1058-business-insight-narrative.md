@@ -1,5 +1,6 @@
 ---
 num: 1058
+resume: "Transformer des résultats analytiques métier en conclusion actionnable sans confondre corrélation et causalité. Étape 1 : Cadrer les inputs : calculs validés, période, population, décision attendue ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Business Insight Narrative"
 emoji: "🤖"

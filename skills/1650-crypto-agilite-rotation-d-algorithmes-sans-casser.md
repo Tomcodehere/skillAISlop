@@ -1,5 +1,6 @@
 ---
 num: 1650
+resume: "Construire la crypto-agilité en 2027 : aucune dépendance directe à un algorithme (abstraction via vault/library), trust anchors upgradeables, inventaire (1641), migration testée en staging avant prod, plan de rotation documenté. Étape 1 : Abstraire : remplacer les appels directs (RSA encrypt) par des appels vault/transit (qui choisissent l'algo)."
 date_ajout: "2026-11"
 nom: "Crypto agilite : rotation d'algorithmes sans casser"
 emoji: "🔄"

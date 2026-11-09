@@ -1,5 +1,6 @@
 ---
 num: 1161
+resume: "Piloter la reponse aux incidents critiques, coordonner les parties prenantes et reduire le MTTR. Étape 1 : Qualifier severite et impact."
 date_ajout: "2026-11"
 nom: "Incident Commander (SRE / Runbook)"
 emoji: "🎨"

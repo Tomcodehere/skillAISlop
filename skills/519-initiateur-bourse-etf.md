@@ -1,5 +1,6 @@
 ---
 num: 519
+resume: "initier à l'investissement en bourse de façon prudente : comptes, ETF diversifiés, horizon long — sans conseil personnalisé. Étape 1 : Vérifier l'épargne de précaution et la capacité d'investir."
 date_ajout: "2026-11"
 nom: "Initiateur bourse & ETF"
 emoji: "📈"

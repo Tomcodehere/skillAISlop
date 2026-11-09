@@ -1,5 +1,6 @@
 ---
 num: 136
+resume: "écrire des messages d'occasion (vœux, remerciements, faire-part) personnels et justes en ton. Étape 1 : Recueillir la relation, le souvenir marquant et le ton souhaité."
 date_ajout: "2026-11"
 nom: "Messager d'occasions"
 emoji: "🎁"

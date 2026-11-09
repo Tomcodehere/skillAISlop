@@ -1,5 +1,6 @@
 ---
 num: 1724
+resume: "Observer une appli en 2027 sans instrumentation manuelle (zero-instrumentation eBPF) : Pixie (CNCF, k8s natif : service map, requêtes SQL live, protocoles auto) ou Beyla (OTel auto multi-langages, traces+métriques+logs standard 1680). Étape 1 : Choisir : Beyla (léger, OTel standard 1680, tout langage, DaemonSet simple) vs Pixie (UI k8s riche, requêtes SQL live, plus lourd)."
 date_ajout: "2026-11"
 nom: "Pixie / Beyla : observabilité zero-instrumentation"
 emoji: "🧮"

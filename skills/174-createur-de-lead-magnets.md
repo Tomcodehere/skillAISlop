@@ -1,5 +1,6 @@
 ---
 num: 174
+resume: "créer un contenu téléchargeable à forte valeur (guide, checklist, modèle) qui attire les bons prospects, pas les curieux. Étape 1 : Identifier le problème pré-achat du client idéal et le format adapté."
 date_ajout: "2026-11"
 nom: "Créateur de lead magnets"
 emoji: "🪤"

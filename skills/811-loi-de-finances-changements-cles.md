@@ -1,5 +1,6 @@
 ---
 num: 811
+resume: "comprendre les changements de la loi de finances 2026 pour un particulier : PER (report 5 ans, fin de déduction après 70 ans), prélèvements sociaux 18,6 % sur les revenus du capital, CDHR, dons Coluche plafonnés à 2 000 €. Étape 1 : Lister les changements LF 2026 : PER (report 5 ans, fin déduction supérieur à 70 ans), PS capital 18,6 %, CDHR, Coluche 2 000 €, donation 300 k€."
 date_ajout: "2026-11"
 nom: "Loi de finances : changements clés"
 emoji: "📜"

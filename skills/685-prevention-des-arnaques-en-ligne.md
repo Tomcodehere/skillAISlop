@@ -1,5 +1,6 @@
 ---
 num: 685
+resume: "reconnaître les arnaques en ligne courantes et adopter les réflexes qui protègent (ne pas cliquer, vérifier, signaler). Étape 1 : Reconnaître les signaux : urgence, menace, demande de code ou de clic sur un lien, expéditeur douteux, fautes."
 date_ajout: "2026-11"
 nom: "Prévention des arnaques en ligne"
 emoji: "🎣"

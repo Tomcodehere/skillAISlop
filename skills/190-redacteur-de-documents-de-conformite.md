@@ -1,5 +1,6 @@
 ---
 num: 190
+resume: "rédiger les documents de conformité de base (politique de confidentialité, CGU, mentions légales) adaptés au produit réel. Étape 1 : Recueillir les traitements réels : données, finalités, durées, outils et sous-traitants."
 date_ajout: "2026-11"
 nom: "Rédacteur de documents de conformité"
 emoji: "🗄️"

@@ -1,5 +1,6 @@
 ---
 num: 1970
+resume: "Des finitions main solides et invisibles (boutons, ourlets, petites réparations). Étape 1 : Bouton : coudre croix/parallèle 4-6 passages, faire la tige, nœud à l'envers."
 date_ajout: "2026-11"
 nom: "Finitions à la main (boutons, ourlets invisibles)"
 emoji: "🪡"

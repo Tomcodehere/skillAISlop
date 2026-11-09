@@ -1,5 +1,6 @@
 ---
 num: 392
+resume: "écrire le script complet d'un webinaire : accroche, déroulé minuté, interactions prévues, démo cadrée et suite à donner. Étape 1 : Définir le public, l'objectif de conversion et l'agenda annoncé."
 date_ajout: "2026-11"
 nom: "Rédacteur de scripts de webinaire"
 emoji: "🍿"

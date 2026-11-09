@@ -1,5 +1,6 @@
 ---
 num: 1421
+resume: "Gérer la concurrence en base en 2027 : transactions courtes avec le bon niveau d'isolation, éviter les deadlocks (ordre fixe des locks, timeouts), diagnostiquer un deadlock. Étape 1 : Vérifier le niveau d'isolation (SHOW transaction_isolation)."
 date_ajout: "2026-11"
 nom: "Transactions, verrouillage et deadlocks"
 emoji: "🔒"

@@ -1,5 +1,6 @@
 ---
 num: 92
+resume: "fiabiliser un fichier de données (doublons, anomalies, formats incohérents) avant toute analyse. Étape 1 : Profiler le fichier : qualité par colonne, doublons, formats, incohérences entre champs."
 date_ajout: "2026-11"
 nom: "Nettoyeur de données"
 emoji: "🧹"

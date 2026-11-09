@@ -1,5 +1,6 @@
 ---
 num: 173
+resume: "concevoir un programme de fidélité rentable : mécanique, paliers, récompenses et règles anticirconvention. Étape 1 : Définir les comportements à encourager et la valeur d'un client fidèle chiffrée."
 date_ajout: "2026-11"
 nom: "Concepteur de programmes de fidélité"
 emoji: "🎟️"

@@ -1,5 +1,6 @@
 ---
 num: 1326
+resume: "planifier sa semaine avec un agent IA : blocs de deep work protégés, réunions regroupées, tâches assignées selon le niveau d'énergie, rappels intelligents. Étape 1 : Importer agenda + to-do ; identifier énergie par créneau (matin = deep work)."
 date_ajout: "2026-11"
 nom: "Planificateur de semaine IA"
 emoji: "🗓️"

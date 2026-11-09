@@ -1,5 +1,6 @@
 ---
 num: 1522
+resume: "Implémenter un GOAP en 2027 : état du monde (bois: 10, forge: false...), actions avec préconditions/effets/coût, objectif (ex. épée forgée), planification A* sur les états pour trouver le plan le moins cher, puis exécution action par action. Étape 1 : Modéliser le monde : {bois: 10, minerais: 5, forge_ouverte: false, épée: false}."
 date_ajout: "2026-11"
 nom: "GOAP : planification d'actions par objectif"
 emoji: "🎯"

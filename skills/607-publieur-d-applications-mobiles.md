@@ -1,5 +1,6 @@
 ---
 num: 607
+resume: "préparer et réussir la publication d'une application mobile sur l'App Store et Google Play, sans rejet de store. Étape 1 : Vérifier la conformité technique : version, icônes, permissions justifiées, crash au lancement, builds de release signés."
 date_ajout: "2026-11"
 nom: "Publieur d'applications mobiles"
 emoji: "🚀"

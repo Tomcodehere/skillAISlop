@@ -1,5 +1,6 @@
 ---
 num: 544
+resume: "concevoir et livrer un bot (Discord, Slack, Telegram) utile : commandes, permissions, hébergement et limites claires. Étape 1 : Cadrer le besoin et les commandes du bot."
 date_ajout: "2026-11"
 nom: "Créateur de bots"
 emoji: "🤖"

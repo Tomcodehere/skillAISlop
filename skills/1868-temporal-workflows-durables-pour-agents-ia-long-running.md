@@ -1,5 +1,6 @@
 ---
 num: 1868
+resume: "Orchestrer les workflows long-running (agents IA, processus métier) avec Temporal : durable execution (reprise après crash), retries/timers/signaux/heartbeats — l'état persiste entre les exécutions. Étape 1 : Modéliser : @workflow (orchestration) + @activity (étapes, retries, timeout, heartbeat)."
 date_ajout: "2026-11"
 nom: "Temporal : workflows durables pour agents IA long-running"
 emoji: "⏳"

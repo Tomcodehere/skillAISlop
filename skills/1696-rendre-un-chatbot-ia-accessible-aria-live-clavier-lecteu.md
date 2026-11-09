@@ -1,5 +1,6 @@
 ---
 num: 1696
+resume: "Rendre un chatbot IA accessible en 2027 (WCAG 2.2 AA / EAA 1599) : aria-live=polite sur les réponses (annoncées au lecteur d'écran 1619), clavier complet (1571), focus géré, contraste 4,5:1 (1484), reduced-motion (1495), alternative humaine (251). Étape 1 : Structure : inférieur àdiv role='log' aria-live='polite' aria-label='Réponses du chatbot'supérieur à pour l'historique ; chaque réponse = un m"
 date_ajout: "2026-11"
 nom: "Rendre un chatbot IA accessible (ARIA live, clavier, lecteur d'écran)"
 emoji: "♿"

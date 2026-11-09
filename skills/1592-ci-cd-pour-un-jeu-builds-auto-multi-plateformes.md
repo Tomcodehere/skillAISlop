@@ -1,5 +1,6 @@
 ---
 num: 1592
+resume: "Automatiser les builds en 2027 : CI (GitHub Actions 1413) buildant Windows/Linux/Mac (1579) + Android/iOS (1586) à chaque commit, tests auto (1591), upload branche beta Steam (1580), check taille, symboles crash (1586), notif Discord (1596) si échec. Étape 1 : CI (GitHub Actions 1413) : job matrix (windows-latest, macos, ubuntu, + android/ios avec actions unity)."
 date_ajout: "2026-11"
 nom: "CI/CD pour un jeu : builds auto multi-plateformes"
 emoji: "🔄"

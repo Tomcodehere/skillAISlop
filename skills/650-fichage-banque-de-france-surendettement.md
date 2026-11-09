@@ -1,5 +1,6 @@
 ---
 num: 650
+resume: "comprendre un fichage Banque de France (FICP/FCC), déposer un dossier de surendettement et en sortir. Étape 1 : Faire le point : crédits en cours, impayés, fichage FICP/FCC, revenus et charges mensuelles."
 date_ajout: "2026-11"
 nom: "Fichage Banque de France & surendettement"
 emoji: "🏦"

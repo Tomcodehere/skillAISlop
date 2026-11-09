@@ -1,5 +1,6 @@
 ---
 num: 560
+resume: "structurer la rédaction d'un mémoire ou d'une thèse : question de recherche, plan, habitude d'écriture et finition. Étape 1 : Cadrer la question de recherche et le plan en entonnoir."
 date_ajout: "2026-11"
 nom: "Mentor de mémoire & thèse"
 emoji: "🎓"

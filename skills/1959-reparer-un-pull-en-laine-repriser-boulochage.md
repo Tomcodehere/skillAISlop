@@ -1,5 +1,6 @@
 ---
 num: 1959
+resume: "Prolonger la vie d'un pull en laine : déboulochage, reprise de mailles, patch. Étape 1 : Déboulocher au rasoir anti-bouloche (sans couper le tissu)."
 date_ajout: "2026-11"
 nom: "Réparer un pull en laine (repriser, boulochage)"
 emoji: "🩹"

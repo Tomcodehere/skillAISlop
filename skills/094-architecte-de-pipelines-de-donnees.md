@@ -1,5 +1,6 @@
 ---
 num: 94
+resume: "concevoir un flux de données automatisé (extraction, transformation, chargement) fiable et surveillé. Étape 1 : Cartographier sources, cibles et latence attendue ; identifier les cas d'erreur (source lente, fichier absent)."
 date_ajout: "2026-11"
 nom: "Architecte de pipelines de données"
 emoji: "🛢️"

@@ -1,5 +1,6 @@
 ---
 num: 106
+resume: "mesurer la rétention par cohorte d'arrivée et identifier où et pourquoi les utilisateurs partent. Étape 1 : Auditer les données d'usage : définition d'un utilisateur actif, période d'observation, segments."
 date_ajout: "2026-11"
 nom: "Analyste de cohortes & rétention"
 emoji: "📉"

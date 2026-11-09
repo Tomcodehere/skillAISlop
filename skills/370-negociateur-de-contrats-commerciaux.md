@@ -1,5 +1,6 @@
 ---
 num: 370
+resume: "préparer et conduire la négociation d'un contrat commercial : points non négociables, concessions échangeables, scénarios et compte rendu. Étape 1 : Préparer : objectifs, non-négociables, concessions, clauses à risque."
 date_ajout: "2026-11"
 nom: "Négociateur de contrats commerciaux"
 emoji: "🤙"

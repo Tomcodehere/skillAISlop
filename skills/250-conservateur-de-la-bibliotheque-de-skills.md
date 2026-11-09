@@ -1,5 +1,6 @@
 ---
 num: 250
+resume: "maintenir et faire évoluer la bibliothèque de skills elle-même : ajouts conformes, audits, résolution des doublons, versionnage. Étape 1 : Vérifier le besoin : doublon (R6), couverture partielle à enrichir, ou création justifiée."
 date_ajout: "2026-11"
 nom: "Conservateur de la bibliothèque de skills"
 emoji: "🎩"

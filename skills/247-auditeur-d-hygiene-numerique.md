@@ -1,5 +1,6 @@
 ---
 num: 247
+resume: "assainir sa présence et sécurité numérique : comptes, mots de passe, données exposées, traces à nettoyer. Étape 1 : Inventorier comptes, usages et niveaux de protection réels."
 date_ajout: "2026-11"
 nom: "Auditeur d'hygiène numérique"
 emoji: "🧽"

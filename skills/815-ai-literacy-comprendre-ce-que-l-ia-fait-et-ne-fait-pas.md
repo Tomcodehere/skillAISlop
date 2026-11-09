@@ -1,5 +1,6 @@
 ---
 num: 815
+resume: "développer l'AI literacy : comprendre ce qu'un LLM fait bien (résumer, traduire, brainstormer) et mal (faits récents, calcul précis), et quand vérifier. Étape 1 : Expliquer le mécanisme : prédiction de tokens, pas de « savoir » — hallucinations et date de coupure."
 date_ajout: "2026-11"
 nom: "AI literacy : comprendre ce que l'IA fait et ne fait pas"
 emoji: "🎓"

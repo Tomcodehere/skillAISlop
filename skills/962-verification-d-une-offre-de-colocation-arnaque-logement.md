@@ -1,5 +1,6 @@
 ---
 num: 962
+resume: "détecter une arnaque à la location/colocation en 2027 : jamais de paiement avant visite, vérification agence (SIRET) et propriétaire, photos inversées, signalement. Étape 1 : Règle d'or : aucun paiement avant visite physique + contrat signé ; jamais de virement pour « réserver »."
 date_ajout: "2026-11"
 nom: "Vérification d'une offre de colocation / arnaque logement"
 emoji: "🔑"

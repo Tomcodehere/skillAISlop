@@ -1,5 +1,6 @@
 ---
 num: 551
+resume: "rédiger une vision, une mission et des valeurs qui servent : formulées pour décider, pas pour décorer le hall. Étape 1 : Extraire le réel : pratiques distinctives et refus assumés."
 date_ajout: "2026-11"
 nom: "Rédacteur de vision, mission & valeurs"
 emoji: "🧭"

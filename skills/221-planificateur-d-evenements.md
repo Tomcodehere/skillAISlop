@@ -1,5 +1,6 @@
 ---
 num: 221
+resume: "planifier un événement de bout en bout : budget, logistique, programme, invitations, plan de repli. Étape 1 : Définir le but, l'expérience visée, les invités, la date cible et le budget."
 date_ajout: "2026-11"
 nom: "Planificateur d'événements"
 emoji: "🥂"

@@ -1,5 +1,6 @@
 ---
 num: 1035
+resume: "Définir les frontières de confiance à examiner dans une application autorisée. Étape 1 : Cadrer les inputs : flux, acteurs, données, entrées non fiables et autorisations ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "AppSec Trust-Boundary Review"
 emoji: "💻"

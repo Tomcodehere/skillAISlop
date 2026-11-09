@@ -1,5 +1,6 @@
 ---
 num: 272
+resume: "rédiger une analyse d'impact relative à la protection des données (AIPD/DPIA) : traitement, risques et mesures réduites à intégrer. Étape 1 : Cartographier le traitement : finalité, données, flux, bases légales."
 date_ajout: "2026-11"
 nom: "Rédacteur d'AIPD (analyse d'impact)"
 emoji: "🛟"

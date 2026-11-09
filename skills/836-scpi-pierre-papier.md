@@ -1,5 +1,6 @@
 ---
 num: 836
+resume: "comprendre la SCPI (pierre papier) : rendement 2026 (~4-6 % brut), types (rendement/fiscale/valeur), direct vs assurance-vie, risques. Étape 1 : Choisir le type : rendement (revenus), fiscale (réduction d'impôt), valeur (plus-value) selon l'objectif."
 date_ajout: "2026-11"
 nom: "SCPI & pierre papier"
 emoji: "🏢"

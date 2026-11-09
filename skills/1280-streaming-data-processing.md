@@ -1,5 +1,6 @@
 ---
 num: 1280
+resume: "Concevoir, implémenter et opérer des pipelines de traitement de données en temps réel (sub-seconde à quelques minutes) avec Kafka, Flink, Spark Streaming ou Kinesis pour use cases nécessitant faible latence (alerting, monitoring, ML inference temps réel)."
 date_ajout: "2026-11"
 nom: "Streaming Data Processing"
 emoji: "💻"

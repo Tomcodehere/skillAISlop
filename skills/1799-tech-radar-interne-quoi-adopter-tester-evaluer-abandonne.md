@@ -1,5 +1,6 @@
 ---
 num: 1799
+resume: "Tenir un tech radar interne en 2027 (anneaux Adopt/Trial/Assess/Hold, 4 quadrants) inspiré du ThoughtWorks Radar, revu semestriellement avec les leads, pour décider quoi adopter/tester/évaluer/abandonner sans 'shiny object syndrome'. Étape 1 : Lister les blips (technos, outils, plateformes, techniques) utilises ou evalues."
 date_ajout: "2026-11"
 nom: "Tech radar interne : quoi adopter, tester, évaluer, abandonner"
 emoji: "📡"

@@ -1,5 +1,6 @@
 ---
 num: 873
+resume: "diagnostiquer une panne informatique domestique et décider : réparer, récupérer les données, ou remplacer en sécurité. Étape 1 : Si données importantes : sauvegarde d'abord (boîtier USB ou Live USB) avant toute manipulation."
 date_ajout: "2026-11"
 nom: "Gestion d'une panne informatique domestique"
 emoji: "🖥️"

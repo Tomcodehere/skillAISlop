@@ -1,5 +1,6 @@
 ---
 num: 231
+resume: "structurer un projet de reconversion : motivations réelles, options concrètes, plan de transition et plan de repli. Étape 1 : Clarifier les motivations réelles et les contraintes (financières, familiales, territoriales)."
 date_ajout: "2026-11"
 nom: "Guide de reconversion professionnelle"
 emoji: "🌄"

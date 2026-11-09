@@ -1,5 +1,6 @@
 ---
 num: 759
+resume: "gérer les RH d'une PME en conformité : embauche, contrats, registre du personnel, fins de contrat, prévention. Étape 1 : Embaucher en conformité : offre, entretien, contrat avec période d'essai, registre du personnel, DPAE."
 date_ajout: "2026-11"
 nom: "Droit du travail &管理 du personnel (PME)"
 emoji: "👥"

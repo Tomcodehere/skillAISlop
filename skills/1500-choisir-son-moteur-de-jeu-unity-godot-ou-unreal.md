@@ -1,5 +1,6 @@
 ---
 num: 1500
+resume: "Choisir le moteur de jeu adapté en 2027 (Unity C#, Godot 4 GDScript, Unreal 5 C++/Blueprints) selon le type de jeu (2D/3D/mobile), l'équipe et le budget, avec un POC de 1 semaine. Étape 1 : Lister les besoins : 2D ou 3D, plateformes cibles, taille équipe, langage préféré."
 date_ajout: "2026-11"
 nom: "Choisir son moteur de jeu : Unity, Godot ou Unreal"
 emoji: "🎮"

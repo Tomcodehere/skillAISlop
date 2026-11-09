@@ -1,5 +1,6 @@
 ---
 num: 1873
+resume: "Scaler les workloads event-driven avec KEDA (lag Kafka/queues, cron ScheduledJob, métriques Prometheus) au-delà du HPA — jusqu'au scale-to-zero quand la file est vide. Étape 1 : Installer KEDA (helm) + CRDs (ScaledObject, TriggerAuthentication)."
 date_ajout: "2026-11"
 nom: "KEDA : autoscaling event-driven (Kafka, queues, cron, métriques)"
 emoji: "📈"

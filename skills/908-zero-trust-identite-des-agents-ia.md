@@ -1,5 +1,6 @@
 ---
 num: 908
+resume: "appliquer le Zero Trust aux agents IA en production en 2027 : chaque agent est une identité avec des droits minimaux, journalisés et révocables. Étape 1 : Identité dédiée par agent (compte service, clés rotatives), droits minimaux par scope, révocation instantanée."
 date_ajout: "2026-11"
 nom: "Zero Trust & identité des agents IA"
 emoji: "🆔"

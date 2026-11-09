@@ -1,5 +1,6 @@
 ---
 num: 993
+resume: "obtenir l'indemnisation d'un vol retardé/annulé/bagage perdu en 2027 (règlement UE 261/2004 : 250-600 € selon distance) : réclamation écrite, médiation, tribunal. Étape 1 : Règlement UE 261/2004 : 250/400/600 € selon distance si retard supérieur à 3 h (sauf force majeure) ; annulation = remboursement + indemnité."
 date_ajout: "2026-11"
 nom: "Gérer un litige avec une compagnie aérienne"
 emoji: "✈️"

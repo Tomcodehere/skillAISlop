@@ -1,5 +1,6 @@
 ---
 num: 829
+resume: "démissionner proprement : lettre courte et factuelle, respect du préavis, négociation de la date, récupération des documents de sortie. Étape 1 : Lettre 5 lignes (date, poste, date de départ, remerciement) — LRAR ou main propre contre décharge."
 date_ajout: "2026-11"
 nom: "Démission & départ volontaire"
 emoji: "✉️"

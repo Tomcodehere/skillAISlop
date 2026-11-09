@@ -1,5 +1,6 @@
 ---
 num: 757
+resume: "sensibiliser une équipe au phishing : reconnaître les signes, campagnes de simulation, réflexes à adopter. Étape 1 : Former aux signes du phishing : expéditeur, urgence, liens, pièces jointes, fautes — avec exemples réels anonymisés."
 date_ajout: "2026-11"
 nom: "Phishing & sensibilisation des équipes"
 emoji: "🎣"

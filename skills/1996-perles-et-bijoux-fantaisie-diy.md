@@ -1,5 +1,6 @@
 ---
 num: 1996
+resume: "Un bracelet ou collier en perles fini, avec les bons nœuds et fermoirs. Étape 1 : Choisir les perles et le montage (fil élastique pour bracelet, tiges pour collier)."
 date_ajout: "2026-11"
 nom: "Perles et bijoux fantaisie DIY"
 emoji: "📿"

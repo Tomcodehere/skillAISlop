@@ -1,5 +1,6 @@
 ---
 num: 1506
+resume: "Concevoir une caméra 3D third-person en 2027 : orbite (yaw/pitch) autour du joueur, raycast de collision (la caméra se rapproche si un mur bloque), lock-on sur l'ennemi le plus proche, FOV qui s'élargit en sprint. Étape 1 : Orbite : yaw += mouse.x * sens; pitch clamp [-80°, +80°]; pos = pivot + offset sphérique."
 date_ajout: "2026-11"
 nom: "Camera 3D third-person : collision et lock-on"
 emoji: "🎥"

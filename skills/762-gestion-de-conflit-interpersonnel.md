@@ -1,5 +1,6 @@
 ---
 num: 762
+resume: "résoudre un conflit entre collègues ou collaborateurs : écouter chaque partie, clarifier les faits, trouver un accord. Étape 1 : Écouter séparément chaque partie : version des faits, besoins, attente, sans juger."
 date_ajout: "2026-11"
 nom: "Gestion de conflit interpersonnel"
 emoji: "🕊️"

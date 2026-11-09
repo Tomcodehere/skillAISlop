@@ -1,5 +1,6 @@
 ---
 num: 310
+resume: "casser une fonction avant la production : inventaire des cas limites et entrées hostiles, puis fuzzing ciblé. Étape 1 : Recenser les frontières d'entrées et les dépendances externes attaquables."
 date_ajout: "2026-11"
 nom: "Générateur de cas limites & fuzzing"
 emoji: "🧨"

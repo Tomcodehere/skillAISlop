@@ -1,5 +1,6 @@
 ---
 num: 1009
+resume: "Produire un livrable maîtrisé : spécification d'implémentation audio adaptative pour Godot 4 (bus audio, variations, randomisation, ducking, formats d'export, budget mémoire) prête à être codée. Étape 1 : Cadrer les événements, déclencheurs, plateformes et budget mémoire audio ; vérifier la version de Godot et les fonctionnalités audio documentées."
 date_ajout: "2026-11"
 nom: "Adaptive Audio Implementation"
 emoji: "💻"

@@ -1,5 +1,6 @@
 ---
 num: 536
+resume: "construire un programme de sorties culturelles qui tient : choix réalistes, billets, logistique et variété sur le mois. Étape 1 : Cadencer temps, budget et règles de variété du programme."
 date_ajout: "2026-11"
 nom: "Planificateur de sorties culturelles"
 emoji: "🎟️"

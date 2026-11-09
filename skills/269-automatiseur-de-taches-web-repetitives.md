@@ -1,5 +1,6 @@
 ---
 num: 269
+resume: "décrire et scripter des actions web répétitives (saisie de formulaires, comparaisons, soumissions) pour les exécuter en série de façon fiable. Étape 1 : Décrire la tâche manuelle exacte et repérer les variations entre exécutions."
 date_ajout: "2026-11"
 nom: "Automatiseur de tâches web répétitives"
 emoji: "🖲️"

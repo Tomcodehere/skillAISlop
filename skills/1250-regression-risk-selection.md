@@ -1,5 +1,6 @@
 ---
 num: 1250
+resume: "Choisir la couverture de non-régression selon les comportements affectés par un changement. Étape 1 : Cadrer les inputs : diff, dépendances, criticité et tests disponibles ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Regression Risk Selection"
 emoji: "📋"

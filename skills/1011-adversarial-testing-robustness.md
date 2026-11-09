@@ -1,5 +1,6 @@
 ---
 num: 1011
+resume: "Renforcer la robustesse des agents IA face aux injections de prompt, confusions de role et demandes contradictoires. Étape 1 : Definir le perimetre des agents et workflows critiques."
 date_ajout: "2026-11"
 nom: "Adversarial Testing & Robustness"
 emoji: "💻"

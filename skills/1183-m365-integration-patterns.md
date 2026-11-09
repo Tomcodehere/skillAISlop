@@ -1,5 +1,6 @@
 ---
 num: 1183
+resume: "Intégrer et automatiser écosystème Microsoft 365 pour : - Centraliser collaboration fichiers (SharePoint/OneDrive ↔ Teams/Outlook) - Automatiser workflows simples (Power Automate no-code) - Optimiser co-édition temps réel (synchronisation, conflits) - Sécuriser partages et permissions (gouvernance accès)"
 date_ajout: "2026-11"
 nom: "M365 Integration Patterns"
 emoji: "💻"

@@ -1,5 +1,6 @@
 ---
 num: 1298
+resume: "Préparer les preuves minimales de réussite d'un utilitaire ponctuel exécuté par l'agent de coordination. Étape 1 : Cadrer les inputs : commande proposée, entrées connues, sortie attendue et critères ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Utility Execution Evidence"
 emoji: "🔬"

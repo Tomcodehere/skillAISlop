@@ -1,5 +1,6 @@
 ---
 num: 1305
+resume: "Définir l'interface et le cycle de vie d'un composant Vue sans état implicite incontrôlé. Étape 1 : Cadrer les inputs : props, événements, états ui, contraintes d'accessibilité et composition ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Vue Component State Contract"
 emoji: "💻"

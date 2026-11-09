@@ -1,5 +1,6 @@
 ---
 num: 430
+resume: "planifier l'intégration après une fusion ou acquisition : jalons à 30/90/180 jours, harmonisation des pratiques et rétention des acteurs clés. Étape 1 : Planifier le jour 1 et le premier mois : accès, communication, cartographie."
 date_ajout: "2026-11"
 nom: "Planificateur d'intégration post-fusion"
 emoji: "🔨"

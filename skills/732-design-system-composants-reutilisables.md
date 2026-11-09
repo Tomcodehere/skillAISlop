@@ -1,5 +1,6 @@
 ---
 num: 732
+resume: "construire un design system maintenable : tokens (couleurs, typo, espacements), composants de base, règles d'usage. Étape 1 : Définir les tokens : couleurs sémantiques, typo, espacements, rayons, ombres — nommés par usage."
 date_ajout: "2026-11"
 nom: "Design system & composants réutilisables"
 emoji: "🧱"

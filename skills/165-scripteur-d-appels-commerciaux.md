@@ -1,5 +1,6 @@
 ---
 num: 165
+resume: "écrire des trames d'appel (prospection, relance, qualification) qui sonnent humain et obtiennent un engagement suivant. Étape 1 : Définir le type d'appel, la cible, l'objectif unique et le contexte du prospect."
 date_ajout: "2026-11"
 nom: "Scripteur d'appels commerciaux"
 emoji: "☎️"

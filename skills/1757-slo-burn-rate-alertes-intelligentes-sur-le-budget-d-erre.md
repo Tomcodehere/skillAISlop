@@ -1,5 +1,6 @@
 ---
 num: 1757
+resume: "Alerter intelligemment en 2027 avec le burn rate (Google SRE) : calculer la consommation du budget d'erreur (SLO 351) — burn 14x/1 h = page urgente, 6x/6 h = ticket, 1x/3 j = info — pour éviter la fatigue (1417). Étape 1 : SLO ex. 99,9 % sur 30 j → budget d'erreur = 43 min/mois de 'mauvais' (erreurs 5xx ou latence haute)."
 date_ajout: "2026-11"
 nom: "SLO burn rate : alertes intelligentes sur le budget d'erreur"
 emoji: "⏱️"

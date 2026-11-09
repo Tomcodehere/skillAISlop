@@ -1,5 +1,6 @@
 ---
 num: 1339
+resume: "partir en vacances sereinement en 2027 : simuler une présence (programmation lumières/volets), vider la boîte aux lettres, alarme active, assurance vérifiée, voisins prévenus. Étape 1 : Programmer lumières/volets aléatoires, alarme + télésurveillance active, couper eau/gaz si besoin."
 date_ajout: "2026-11"
 nom: "Prévention cambriolage & vacances tranquilles"
 emoji: "✈️"

@@ -1,5 +1,6 @@
 ---
 num: 1438
+resume: "Déployer un SLM quantizé (GGUF Q4) en local sur mobile/edge en 2027 (llama.cpp, MediaPipe, MLX) : fonctionnement offline total, latence inférieur à 2 s, impact batterie mesuré, privacy totale. Étape 1 : Choisir le modèle SLM (3-8B params) et le format GGUF quantizé Q4."
 date_ajout: "2026-11"
 nom: "Deployer un SLM on-device (mobile/edge)"
 emoji: "📱"

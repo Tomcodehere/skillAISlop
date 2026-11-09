@@ -1,5 +1,6 @@
 ---
 num: 93
+resume: "construire un modèle de prédiction simple et explicable (tendance, score, classement) sur des données métier. Étape 1 : Cadrer la prédiction utile : variable cible, horizon, décision associée, donnée disponible."
 date_ajout: "2026-11"
 nom: "Modélisateur prédictif"
 emoji: "🎲"

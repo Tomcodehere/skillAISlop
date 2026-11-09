@@ -1,5 +1,6 @@
 ---
 num: 1731
+resume: "Surveiller les I/O disque au niveau noyau en 2027 avec eBPF (1720) : latence par type/device/process, top des fichiers lus, via bpftrace (1726) ou agent eBPF — quand iostat ne dit pas QUI et QUEL fichier. Étape 1 : One-liner bpftrace (1726) : latence des reads : kprobe:vfs_read / tracepoint:block:block_rq_issue avec hist(arg)."
 date_ajout: "2026-11"
 nom: "eBPF pour le stockage : monitoring I/O disque"
 emoji: "💾"

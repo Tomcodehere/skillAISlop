@@ -1,5 +1,6 @@
 ---
 num: 1360
+resume: "Comparer objectivement les formations IA certifiantes de 2027 (certification « utiliser l'IA », Explore IA, Impulsion IA) sur le contenu, la certification, le cout, la duree et l'eligibilite CPF. Étape 1 : Lister 3 a 5 formations IA certifiantes pertinentes pour le profil."
 date_ajout: "2026-11"
 nom: "Choisir une formation IA certifiante en"
 emoji: "🎓"

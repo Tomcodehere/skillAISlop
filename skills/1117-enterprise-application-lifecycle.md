@@ -1,5 +1,6 @@
 ---
 num: 1117
+resume: "Maîtriser le cycle de vie complet des applications d'entreprise (Atlassian, Gitlab, ServiceNow, Qlik, Airflow, Solidworks, etc.) : déploiement bare metal/conteneurs, configuration, intégrations (LDAP/AD/SSO/SMTP), mises à jour, maintenance."
 date_ajout: "2026-11"
 nom: "Enterprise Application Lifecycle"
 emoji: "💻"

@@ -1,5 +1,6 @@
 ---
 num: 29
+resume: "écrire des scripts vidéo courte (UGC, TikTok, Reels, pub) qui accrochent en 3 secondes et convertissent. Étape 1 : Recueillir produit, cible, douleur, plateforme et durée."
 date_ajout: "2026-11"
 nom: "Script vidéo UGC & pub"
 emoji: "🎥"

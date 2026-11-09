@@ -1,5 +1,6 @@
 ---
 num: 703
+resume: "rédiger des brouillons d'email dans le ton de l'utilisateur, prêts à envoyer après relecture, à partir du contexte fourni. Étape 1 : Cadrer : destinataire, relation, objectif du mail, ton souhaité, contraintes (délai, pièce jointe)."
 date_ajout: "2026-11"
 nom: "Rédaction de réponses email en son nom"
 emoji: "✉️"

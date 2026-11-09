@@ -1,5 +1,6 @@
 ---
 num: 668
+resume: "choisir le statut juridique adapté à son projet : auto-entrepreneur, EI, EURL ou SASU, selon activité et ambitions. Étape 1 : Cadrer le projet : activité, chiffre d'affaires prévisionnel, associés ou solo, besoin de protection du patrimoine."
 date_ajout: "2026-11"
 nom: "Création de statut juridique"
 emoji: "🏢"

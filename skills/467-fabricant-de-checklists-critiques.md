@@ -1,5 +1,6 @@
 ---
 num: 467
+resume: "fabriquer des checklists qui évitent les oublis critiques : points critiques seulement, format action vérifiable et usage réel testé. Étape 1 : Extraire les points critiques des incidents réels et des pires scénarios."
 date_ajout: "2026-11"
 nom: "Fabricant de checklists critiques"
 emoji: "🍫"

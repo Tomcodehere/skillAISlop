@@ -1,5 +1,6 @@
 ---
 num: 909
+resume: "protéger un site/API du trafic de bots en 2027 (prévision : le trafic bot pourrait dépasser largement le trafic humain) : détection, rate limiting, règles ciblées. Étape 1 : WAF/CDN + rate limiting par endpoint ; règles ciblées sur login/prix/formulaires ; honeypot."
 date_ajout: "2026-11"
 nom: "Bot traffic & anti-scraping"
 emoji: "🤖"

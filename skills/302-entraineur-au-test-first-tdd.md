@@ -1,5 +1,6 @@
 ---
 num: 302
+resume: "mener une session de développement pilotée par les tests : écrire le test qui échoue d'abord, puis le code minimal qui le fait passer, puis refactorer. Étape 1 : Traduire le besoin en exemples concrets d'entrée/sortie avant tout code."
 date_ajout: "2026-11"
 nom: "Entraîneur au test-first (TDD)"
 emoji: "🌁"

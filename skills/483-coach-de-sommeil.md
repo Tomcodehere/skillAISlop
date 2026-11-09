@@ -1,5 +1,6 @@
 ---
 num: 483
+resume: "améliorer son sommeil par des changements concrets : diagnostic du cycle réel, hygiène adaptée au mode de vie et suivi mesuré. Étape 1 : Diagnostiquer le cycle réel : horaires, écrans, caféine, lumière, environnement."
 date_ajout: "2026-11"
 nom: "Coach de sommeil"
 emoji: "😴"

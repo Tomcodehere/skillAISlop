@@ -1,5 +1,6 @@
 ---
 num: 369
+resume: "structurer une grille tarifaire lisible : paliers, inclusions nettes, options et logique de montée en gamme. Étape 1 : Définir les critères de paliers et la logique de montée en gamme."
 date_ajout: "2026-11"
 nom: "Structurateur de grilles tarifaires"
 emoji: "💴"

@@ -1,5 +1,6 @@
 ---
 num: 1748
+resume: "Réduire la dette technique en 2027 avec l'IA : identifier (duplications, god objects, TODO 606), refactorer par petits lots testés (1405) avec l'agent (plan mode 1737/Composer 1740), tests auto avant/après (1747), revue (1401), 1 module/semaine. Étape 1 : Inventaire dette : duplications (détection IA/Cody 1744), god objects (taille + complexité cyclomatique 308), TODO/FIXME, code mort — scoré par "
 date_ajout: "2026-11"
 nom: "Refactoring massif assisté par IA : dette technique"
 emoji: "🧹"

@@ -1,5 +1,6 @@
 ---
 num: 640
+resume: "comprendre les documents de fin d'exercice (bilan, compte de résultat, liasse fiscale) et préparer la clôture. Étape 1 : Rassembler les pièces : grand livre, balances, relevés bancaires, factures en suspens, amortissements."
 date_ajout: "2026-11"
 nom: "Clôture comptable & bilan"
 emoji: "📒"

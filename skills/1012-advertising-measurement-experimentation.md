@@ -1,5 +1,6 @@
 ---
 num: 1012
+resume: "Définir un cadre de mesure et d'expérimentation pour évaluer les campagnes de marque et de publicité payante. Établir des KPI, des événements, des hypothèses et des règles d'interprétation; l'analyse statistique de données internes et la construction de dashboards sont réalisées par l'agent d'analyse de données. Étape 1 : Lier l'objectif marketing à un indicateur mesurable et à une conversion défi"
 date_ajout: "2026-11"
 nom: "Advertising Measurement & Experimentation"
 emoji: "🧠"

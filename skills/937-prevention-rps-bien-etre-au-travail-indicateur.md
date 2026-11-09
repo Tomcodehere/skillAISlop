@@ -1,5 +1,6 @@
 ---
 num: 937
+resume: "faire de la prévention des RPS un indicateur de pilotage en 2027 : charge mentale, harcèlement, soutien, mesurée et revue avec le CSE. Étape 1 : Baromètre anonyme trimestriel + indicateurs (absentéisme, turnover, AT) revus avec le CSE."
 date_ajout: "2026-11"
 nom: "Prévention RPS & bien-être au travail (indicateur)"
 emoji: "🧘"

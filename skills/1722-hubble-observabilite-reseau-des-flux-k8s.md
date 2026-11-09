@@ -1,5 +1,6 @@
 ---
 num: 1722
+resume: "Observer le réseau k8s en temps réel en 2027 avec Hubble (Cilium 1721) : service map des flux L3-L7 avec identités de workload, filtres (protocole, méthode HTTP, DNS, Kafka), métriques (bytes/drops/retransmits) vers Prometheus/Grafana (1416). Étape 1 : Activer : cilium hubble enable --ui (UI web) ou CLI hubble observe."
 date_ajout: "2026-11"
 nom: "Hubble : observabilité réseau des flux k8s"
 emoji: "🔍"

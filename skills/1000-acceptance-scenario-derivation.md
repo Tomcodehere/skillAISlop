@@ -1,5 +1,6 @@
 ---
 num: 1000
+resume: "Transformer des critères d'acceptation validés en contrôles Given/When/Then reproductibles. Étape 1 : Cadrer les inputs : exigences, acteurs, états initiaux et résultats attendus ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Acceptance Scenario Derivation"
 emoji: "📋"

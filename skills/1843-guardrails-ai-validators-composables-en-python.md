@@ -1,5 +1,6 @@
 ---
 num: 1843
+resume: "Composer des guardrails avec Guardrails AI (validators Python réutilisables sur input/output : JSON schema, PII, toxicité, faits) — sans LLM judge à chaque requête, donc sans latence ajoutée. Étape 1 : Choisir les validators : input (pii, jailbreak regex), output (json_schema 1427, toxicity, pii redaction 1846)."
 date_ajout: "2026-11"
 nom: "Guardrails AI : validators composables en Python"
 emoji: "🧩"

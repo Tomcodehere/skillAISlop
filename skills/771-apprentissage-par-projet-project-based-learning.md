@@ -1,5 +1,6 @@
 ---
 num: 771
+resume: "apprendre une compétence concrètement en réalisant un projet réel, plutôt qu'en suivant un cours passif. Étape 1 : Choisir un projet concret et utile pour soi, avec un résultat visible dès le premier jalon."
 date_ajout: "2026-11"
 nom: "Apprentissage par projet (project-based learning)"
 emoji: "🛠️"

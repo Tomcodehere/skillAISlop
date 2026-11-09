@@ -1,5 +1,6 @@
 ---
 num: 1558
+resume: "Ajouter du screen shake en 2027 : à chaque événement (explosion, dégâts reçus, atterrissage), la caméra tremble 0,2-0,5 s avec amplitude proportionnelle et decay exponentiel, cumul max (éviter la nausée), désactivable (1575). Étape 1 : Shake : ajouter à la caméra un offset = (rand-0.5) * 2 * amplitude * shakeForce(t), où shakeForce décroit exponentiellement (exp(-5t))."
 date_ajout: "2026-11"
 nom: "Screen shake et hit feedback visuel"
 emoji: "💥"

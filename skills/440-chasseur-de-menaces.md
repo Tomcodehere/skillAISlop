@@ -1,5 +1,6 @@
 ---
 num: 440
+resume: "traquer les menaces dans les logs et l'activité : hypothèses de chasse, indicateurs de compromission, règles de détection et pistes documentées. Étape 1 : Formuler les hypothèses d'attaque plausibles pour l'environnement."
 date_ajout: "2026-11"
 nom: "Chasseur de menaces"
 emoji: "🦅"

@@ -1,5 +1,6 @@
 ---
 num: 1768
+resume: "Rédiger un postmortem blameless après chaque incident majeur (chronologie, cause racine via 5 pourquoi, facteurs contributifs) et transformer les leçons en actions correctives tracées (responsable + échéance) dans le backlog. Étape 1 : Reunir les acteurs sous 72 h, reconstruire la chronologie factuelle (depuis les traces/logs, pas la mémoire)."
 date_ajout: "2026-11"
 nom: "Post-incident : postmortem blameless et actions tracées"
 emoji: "🧪"

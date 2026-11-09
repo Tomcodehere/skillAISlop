@@ -1,5 +1,6 @@
 ---
 num: 115
+resume: "transformer des reçus et factures en données comptables propres et catégorisées, prêtes pour la déclaration. Étape 1 : Recueillir les documents et le plan comptable ou les catégories de l'utilisateur."
 date_ajout: "2026-11"
 nom: "Extracteur de reçus & factures"
 emoji: "💼"

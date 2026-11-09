@@ -1,5 +1,6 @@
 ---
 num: 1412
+resume: "Déployer une app sur Kubernetes en 2027 : manifestes (Deployment, Service, Ingress), ConfigMap (config) et Secret (credentials), sondes et limites de ressources, avec rollback. Étape 1 : Écrire le Deployment (image, replicas, sondes, resources)."
 date_ajout: "2026-11"
 nom: "Kubernetes : ConfigMaps, secrets et deploiement"
 emoji: "☸️"

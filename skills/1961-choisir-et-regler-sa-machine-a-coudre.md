@@ -1,5 +1,6 @@
 ---
 num: 1961
+resume: "Une machine fiable, bien réglée, entretenue, qui coud droit du premier coup. Étape 1 : Choisir le modèle (mécanique 150-200 €, points utiles, marque avec SAV)."
 date_ajout: "2026-11"
 nom: "Choisir et régler sa machine à coudre"
 emoji: "🪡"

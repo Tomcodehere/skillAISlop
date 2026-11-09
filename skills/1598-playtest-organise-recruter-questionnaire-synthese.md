@@ -1,5 +1,6 @@
 ---
 num: 1598
+resume: "Organiser un playtest en 2027 : recruter 8-12 joueurs du profil (1596), session 60 min (30 jeu + 30 interview), questionnaire (SUS 1483 + NPS + ouvertes), consentements RGPD (1584), synthèse 1 page avec priorités (bugs/fun/difficulté 1529) intégrées au backlog. Étape 1 : Recruter 8-12 joueurs du profil cible (Discord communauté 1596, Prolific, itch 1584), consentement écrit (RGPD 1584 : enregistre"
 date_ajout: "2026-11"
 nom: "Playtest organise : recruter, questionnaire, synthèse"
 emoji: "🧪"

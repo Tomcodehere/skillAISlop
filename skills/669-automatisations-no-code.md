@@ -1,5 +1,6 @@
 ---
 num: 669
+resume: "automatiser des tâches répétitives avec des outils no-code (Zapier, Make, n8n) sans écrire de code. Étape 1 : Identifier le processus à automatiser : étapes manuelles, fréquence, outils impliqués, coût du temps perdu."
 date_ajout: "2026-11"
 nom: "Automatisations no-code"
 emoji: "⚙️"

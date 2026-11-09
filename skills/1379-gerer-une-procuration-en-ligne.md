@@ -1,5 +1,6 @@
 ---
 num: 1379
+resume: "Etablir une procuration valable en 2027 (en ligne quand c'est possible) : mandataire de confiance, perimetre precis et limite dans le temps, avec les etapes de la tele-procedure et la révocation. Étape 1 : Verifier que la demarche accepte une procuration (site officiel de la demarche)."
 date_ajout: "2026-11"
 nom: "Gerer une procuration en ligne"
 emoji: "✍"

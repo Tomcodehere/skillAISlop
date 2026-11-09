@@ -1,5 +1,6 @@
 ---
 num: 1726
+resume: "Déboguer le noyau Linux en live en 2027 avec bpftrace (eBPF 1720, langage type awk, lecture seule) : one-liners pour compter les syscalls par process, mesurer la latence I/O disque, tracer qui ouvre quels fichiers — sans redémarrer. Étape 1 : Installer bpftrace (apt/brew), vérifier bpftrace --info (kernel features OK)."
 date_ajout: "2026-11"
 nom: "bpftrace : debug ad-hoc du noyau Linux"
 emoji: "🔎"

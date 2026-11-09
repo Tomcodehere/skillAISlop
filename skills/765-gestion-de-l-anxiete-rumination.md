@@ -1,5 +1,6 @@
 ---
 num: 765
+resume: "apaiser l'anxiété et les ruminations par des techniques factuelles éprouvées (grounding, respiration, défusion cognitive). Étape 1 : Nommer l'anxiété et distinguer alerte utile vs rumination stérile (utile/inutile)."
 date_ajout: "2026-11"
 nom: "Gestion de l'anxiété & rumination"
 emoji: "🌤️"

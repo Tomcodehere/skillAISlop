@@ -1,5 +1,6 @@
 ---
 num: 507
+resume: "auditer une infrastructure cloud : exposition des ressources, identités et IAM, réseau et journalisation. Étape 1 : Inventorier ressources, identités et expositions du compte cloud."
 date_ajout: "2026-11"
 nom: "Auditeur de sécurité cloud"
 emoji: "🦉"

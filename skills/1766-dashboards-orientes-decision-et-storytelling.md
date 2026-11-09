@@ -1,5 +1,6 @@
 ---
 num: 1766
+resume: "Concevoir des dashboards Grafana par audience (comité : SLO et error budget 1760 ; équipe : latence/errors ; support : incidents) avec drill-down du global au détail, versionnés as code (1754). Étape 1 : Lister les audiences (comex, produit, équipe SRE, support) et la décision que chacune prend."
 date_ajout: "2026-11"
 nom: "Dashboards orientés décision et storytelling"
 emoji: "📊"

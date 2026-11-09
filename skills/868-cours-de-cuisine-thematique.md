@@ -1,5 +1,6 @@
 ---
 num: 868
+resume: "apprendre une cuisine thématique (italienne, asiatique, pâtisserie) en maîtrisant d'abord 5-6 techniques de base réutilisables. Étape 1 : 5-6 techniques de base maîtrisées d'abord (sauter, mijoter, émulsion, levée, découpe) + bon matériel de base."
 date_ajout: "2026-11"
 nom: "Cours de cuisine thématique"
 emoji: "👨‍🍳"

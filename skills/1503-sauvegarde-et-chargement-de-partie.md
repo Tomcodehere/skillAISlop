@@ -1,5 +1,6 @@
 ---
 num: 1503
+resume: "Implémenter un système de sauvegarde en 2027 : sérialisation de l'état complet (position, inventaire, quêtes, stats, temps), 3 slots manuels + auto-save, champ 'version' dans chaque save pour migrer les anciennes sauvegardes. Étape 1 : Définir le schéma SaveData {version, date, player, monde, quêtes...}."
 date_ajout: "2026-11"
 nom: "Sauvegarde et chargement de partie"
 emoji: "💾"

@@ -1,5 +1,6 @@
 ---
 num: 163
+resume: "planifier un lancement complet (avant, pendant, après) qui crée l'attention et convertit. Étape 1 : Définir l'audience, la promesse et l'objectif chiffré du lancement."
 date_ajout: "2026-11"
 nom: "Stratège de lancement produit"
 emoji: "🎉"

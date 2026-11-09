@@ -1,5 +1,6 @@
 ---
 num: 1994
+resume: "Un meuble ou textile transformé en pièce unique, sans achat neuf. Étape 1 : Choisir l'objet et la transformation (peinture, poignées, tissu)."
 date_ajout: "2026-11"
 nom: "Upcycling : meubles et textiles"
 emoji: "♻️"

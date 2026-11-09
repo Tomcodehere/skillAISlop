@@ -1,5 +1,6 @@
 ---
 num: 880
+resume: "gérer un client difficile sans se laisser marcher dessus ni casser la relation : écouter, cadrer, proposer, documenter. Étape 1 : Écouter sans défendre, reformuler le problème ; poser des questions sur le besoin réel."
 date_ajout: "2026-11"
 nom: "Gestion d'un client difficile (négociation)"
 emoji: "🛡️"

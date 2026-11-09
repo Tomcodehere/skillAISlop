@@ -1,5 +1,6 @@
 ---
 num: 1585
+resume: "Tenir 60 fps stables sur mobile en 2027 : profiler sur appareil réel (1552), draw calls inférieur à 100 (1553), particules GPU cap 2000 (1557), 0 alloc/frame (1551), textures ASTC, LOD, fréquence CPU/GPU adaptative, batterie/thermique surveillés. Étape 1 : Profiler sur le device réel (Android Profiler/Xcode) : viser 60 fps constant, inférieur à 16 ms/frame, mémoire stable."
 date_ajout: "2026-11"
 nom: "Performance mobile : 60 fps, batterie et thermique"
 emoji: "🔋"

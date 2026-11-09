@@ -1,5 +1,6 @@
 ---
 num: 398
+resume: "rédiger un brief de prestation qui évite les allers-retours : objectifs, contraintes, critères de sélection et modalités, sans prescrire la solution. Étape 1 : Poser l'objectif de résultat, le contexte et les contraintes vérifiées."
 date_ajout: "2026-11"
 nom: "Briefeur d'agences & prestataires"
 emoji: "🏬"

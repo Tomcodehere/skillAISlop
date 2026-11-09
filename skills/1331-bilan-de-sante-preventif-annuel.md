@@ -1,5 +1,6 @@
 ---
 num: 1331
+resume: "préparer son bilan de santé annuel préventif en 2027 : liste des dépistages selon l'âge, vaccins à jour, questions à poser au médecin, dossier médical à jour. Étape 1 : Lister dépistages/vaccins selon profil (âge, sexe, antécédents) + analyses de base."
 date_ajout: "2026-11"
 nom: "Bilan de santé préventif annuel"
 emoji: "🩺"

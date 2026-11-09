@@ -1,5 +1,6 @@
 ---
 num: 1908
+resume: "Disposer d'un registre EPI à jour et d'équipements conformes pour chaque intervenant sur le chantier. Étape 1 : Évaluer les risques par poste (DUERP, voir 1909)."
 date_ajout: "2026-11"
 nom: "EPI obligatoires sur chantier"
 emoji: "🦺"

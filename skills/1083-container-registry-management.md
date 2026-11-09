@@ -1,5 +1,6 @@
 ---
 num: 1083
+resume: "Gérer registries conteneurs (Docker Hub, Harbor, GitLab CR, AWS ECR, Azure ACR, GCP GCR) : push/pull, tags, scanning, cleanup. Étape 1 : Authentication registry :"
 date_ajout: "2026-11"
 nom: "Container Registry Management"
 emoji: "💻"

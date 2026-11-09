@@ -1,5 +1,6 @@
 ---
 num: 1464
+resume: "Concevoir un Kafka fiable en 2027 : topics nommés avec rétention adaptée, partitions = parallélisme (clé de partition pour l'ordre par entité), consumer groups avec gestion du lag, producteurs idempotents. Étape 1 : Nommer les topics par domaine (orders.created, payments.done) + rétention (7 j) + partitions (nb consumers max)."
 date_ajout: "2026-11"
 nom: "Kafka : topics, partitions et consumer groups"
 emoji: "🂬"

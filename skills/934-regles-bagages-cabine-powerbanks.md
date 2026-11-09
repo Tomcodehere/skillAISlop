@@ -1,5 +1,6 @@
 ---
 num: 934
+resume: "respecter les nouvelles règles 2027 sur les bagages cabine et batteries (powerbanks) en avion dans l'UE : ce qui est autorisé en cabine vs soute. Étape 1 : Powerbanks et batteries de rechange : uniquement en cabine, jamais en soute (règles UE 2027)."
 date_ajout: "2026-11"
 nom: "Règles bagages cabine & powerbanks"
 emoji: "🧳"

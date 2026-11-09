@@ -1,5 +1,6 @@
 ---
 num: 1206
+resume: "Aider à organiser et anonymiser les documents avant un échange avec une étude notariale, sans prétendre établir une liste exhaustive de pièces obligatoires. Étape 1 : Identifier la démarche et l'étape du dossier."
 date_ajout: "2026-11"
 nom: "Notarial Document Preparation"
 emoji: "📋"

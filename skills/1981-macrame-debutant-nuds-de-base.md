@@ -1,5 +1,6 @@
 ---
 num: 1981
+resume: "Un premier projet macramé fini (porte-plante ou tenture) avec les 3 nœuds de base. Étape 1 : Couper les cordes (6-8x la longueur finie), les fixer au support (nœud plat)."
 date_ajout: "2026-11"
 nom: "Macramé débutant (nœuds de base)"
 emoji: "🪢"

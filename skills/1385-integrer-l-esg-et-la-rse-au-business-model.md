@@ -1,5 +1,6 @@
 ---
 num: 1385
+resume: "Integrer 3 leviers ESG concrets dans le business model 2027 (empreinte carbone, achats responsables, economie circulaire) avec des cibles chiffrees et un lien avec les obligations CSRD applicables. Étape 1 : Verifier si l'entreprise entre dans le perimetre CSRD (seuils 2027) et son calendrier de reporting."
 date_ajout: "2026-11"
 nom: "Integrer l'ESG et la RSE au business model"
 emoji: "🌱"

@@ -1,5 +1,6 @@
 ---
 num: 1591
+resume: "Automatiser les tests d'un jeu en 2027 : tests unitaires sur la logique pure (formules dégâts 1535, économie 1529) + playmode tests (scène lancée, inputs simulés 1504, assertions sur PV/save/quêtes), exécutés en CI (1593) à chaque PR. Étape 1 : Tests unitaires : formules pures (dégâts arme 1535 * rareté 1528, courbe XP 1530, loot 1528) → assert égalité exacte."
 date_ajout: "2026-11"
 nom: "Tests automatises de gameplay (playmode tests)"
 emoji: "🧪"

@@ -1,5 +1,6 @@
 ---
 num: 891
+resume: "préparer la cession de son entreprise : valorisation, préparation (due diligence), négociation, pacte Dutreil, transmission. Étape 1 : Valorisation par expert (2-3 ans avant) : préparer comptes propres, réduire dépendance au dirigeant, sécuriser contrats clés."
 date_ajout: "2026-11"
 nom: "Préparation d'une cession / transmission d'entreprise"
 emoji: "🏢"

@@ -1,5 +1,6 @@
 ---
 num: 476
+resume: "préparer un kit d'expatriation complet : démarches avant le départ, installation sur place, budget prévisionnel et premiers contacts. Étape 1 : Rassembler les contraintes réelles : nationalité, statut, durée, destination, famille."
 date_ajout: "2026-11"
 nom: "Rédacteur de kits d'expatriation"
 emoji: "🛫"

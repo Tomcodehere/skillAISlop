@@ -1,5 +1,6 @@
 ---
 num: 273
+resume: "concevoir un plan de reprise d'activité : scénarios de sinistre, objectifs RTO/RPO par service, procédures de bascule et exercices réguliers. Étape 1 : Classer les services par criticité et fixer RTO/RPO avec les parties prenantes."
 date_ajout: "2026-11"
 nom: "Architecte de plan de continuité (PRA)"
 emoji: "🌋"

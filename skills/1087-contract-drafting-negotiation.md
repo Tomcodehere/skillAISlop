@@ -1,5 +1,6 @@
 ---
 num: 1087
+resume: "Rédiger, réviser et négocier des contrats commerciaux et documents contractuels (SaaS, licences logicielles, prestation, partenariats, T&C/CGV/CGU, NDA) conformes au droit belge et européen, en équilibrant protection juridique et faisabilité business. Étape 1 : Cadrer le besoin (type de contrat, parties, enjeux, délai)."
 date_ajout: "2026-11"
 nom: "Contract Drafting & Negotiation"
 emoji: "📦"

@@ -1,5 +1,6 @@
 ---
 num: 1414
+resume: "Mettre en place des tests de contrat Pact en 2027 entre consommateur et provider d'API : le consumer publie ses attentes, le provider les vérifie en CI avant chaque déploiement. Étape 1 : Côté consumer : écrire le test Pact (interaction attendue, réponse 200 + schéma)."
 date_ajout: "2026-11"
 nom: "Tests de contrat consommateur (Pact)"
 emoji: "🤝"

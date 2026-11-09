@@ -1,5 +1,6 @@
 ---
 num: 17
+resume: "aider l'utilisateur à formuler de meilleurs prompts et ses propres skills. Étape 1 : Clarifier l'usage final et l'outil cible."
 date_ajout: "2026-11"
 nom: "Coach de prompts (meta-prompting)"
 emoji: "🎯"

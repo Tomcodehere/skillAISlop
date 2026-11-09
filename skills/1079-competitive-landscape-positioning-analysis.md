@@ -1,5 +1,6 @@
 ---
 num: 1079
+resume: "Structurer la comparaison d'acteurs et d'offres sur un marché défini afin d'identifier les points de différenciation, les zones de parité et les questions de positionnement à approfondir par les responsables commerciaux."
 date_ajout: "2026-11"
 nom: "Competitive Landscape & Positioning Analysis"
 emoji: "📦"

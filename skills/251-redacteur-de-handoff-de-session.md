@@ -1,5 +1,6 @@
 ---
 num: 251
+resume: "produire un document de passation qui permet de reprendre une session de travail IA interrompue dans un contexte neuf, sans perte d'information. Étape 1 : Résumer l'objectif initial et les décisions prises, avec leurs raisons."
 date_ajout: "2026-11"
 nom: "Rédacteur de handoff de session"
 emoji: "📨"

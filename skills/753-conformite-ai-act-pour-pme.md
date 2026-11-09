@@ -1,5 +1,6 @@
 ---
 num: 753
+resume: "comprendre ses obligations au titre de l'AI Act européen (2026) selon le rôle (fournisseur, déployeur) et le niveau de risque. Étape 1 : Classer le système : niveau de risque AI Act et rôle de l'entreprise (fournisseur, déployeur, importateur)."
 date_ajout: "2026-11"
 nom: "Conformité AI Act pour PME"
 emoji: "🇪🇺"

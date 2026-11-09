@@ -1,5 +1,6 @@
 ---
 num: 1934
+resume: "Des coupes manuelles nettes et d'équerre pour les petits assemblages. Étape 1 : Choisir la scie (à dos pour les coupes d'assemblage, japonaise pour la finition)."
 date_ajout: "2026-11"
 nom: "Découpe à la scie manuelle"
 emoji: "✂️"

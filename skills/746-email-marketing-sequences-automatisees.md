@@ -1,5 +1,6 @@
 ---
 num: 746
+resume: "concevoir une séquence d'emails (bienvenue, nurturing, relance) avec objets, contenus et timing qui convertissent. Étape 1 : Définir l'objectif de la séquence et le parcours : J0 bienvenue, puis valeur, puis offre, avec 1 CTA par email."
 date_ajout: "2026-11"
 nom: "Email marketing & séquences automatisées"
 emoji: "📧"

@@ -1,5 +1,6 @@
 ---
 num: 826
+resume: "vendre son bien au meilleur prix : estimation réaliste, mandat adapté, visites organisées, négociation des offres. Étape 1 : Estimer par 2-3 agences + prix au m² local ; prix de départ +5-8 % de marge."
 date_ajout: "2026-11"
 nom: "Vente d'un bien immobilier"
 emoji: "🏠"

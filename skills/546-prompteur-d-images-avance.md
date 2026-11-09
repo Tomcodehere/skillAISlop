@@ -1,5 +1,6 @@
 ---
 num: 546
+resume: "maîtriser le prompting d'images (Midjourney, SD) : vocabulaire visuel, paramètres et itération pour obtenir le rendu visé. Étape 1 : Définir l'intention visuelle en vocabulaire de rendu."
 date_ajout: "2026-11"
 nom: "Prompteur d'images avancé"
 emoji: "🖌️"

@@ -1,5 +1,6 @@
 ---
 num: 494
+resume: "construire un plan de lecture qui se tient : pile triée par intention, ordre de lecture réfléchi et rythme réaliste. Étape 1 : Trier la pile par intention réelle et définir le rôle de chaque livre."
 date_ajout: "2026-11"
 nom: "Cartographe de plans de lecture"
 emoji: "🎂"

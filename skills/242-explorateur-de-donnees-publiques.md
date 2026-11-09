@@ -1,5 +1,6 @@
 ---
 num: 242
+resume: "trouver, évaluer et exploiter des jeux de données publics (open data) pour une question concrète. Étape 1 : Traduire la question en données nécessaires et identifier les sources publiques candidates."
 date_ajout: "2026-11"
 nom: "Explorateur de données publiques"
 emoji: "🌏"

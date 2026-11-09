@@ -1,5 +1,6 @@
 ---
 num: 111
+resume: "classer des prospects par probabilité de conversion pour concentrer l'effort commercial sur les meilleurs. Étape 1 : Analyser les leads passés : quels signaux distinguent les convertis des autres."
 date_ajout: "2026-11"
 nom: "Scorer de leads"
 emoji: "🎫"

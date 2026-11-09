@@ -1,5 +1,6 @@
 ---
 num: 1975
+resume: "Feutrer volontairement un ouvrage en laine (chapeau, chaussons, sac) par le mouillage chaud contrôlé. Étape 1 : Préparer un bain chaud 40-50 °C + savon de Marseille râpé dissous."
 date_ajout: "2026-11"
 nom: "Feutrage mouillé à chaud"
 emoji: "🫧"

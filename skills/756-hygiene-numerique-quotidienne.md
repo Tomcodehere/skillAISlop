@@ -1,5 +1,6 @@
 ---
 num: 756
+resume: "maintenir ses appareils propres et à jour au quotidien pour réduire les risques et gagner en performance. Étape 1 : Mettre à jour : OS, applications, extensions navigateur, firmware ; activer les mises à jour auto."
 date_ajout: "2026-11"
 nom: "Hygiène numérique quotidienne"
 emoji: "🧼"

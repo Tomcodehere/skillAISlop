@@ -1,5 +1,6 @@
 ---
 num: 1187
+resume: "Reformuler un texte généraliste sans changer son intention ni son degré de certitude. Étape 1 : Cadrer les inputs : texte, objectif de reformulation, public et éléments à conserver ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Meaning-Preserving Reformulation"
 emoji: "📋"

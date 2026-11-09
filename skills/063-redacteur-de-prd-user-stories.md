@@ -1,5 +1,6 @@
 ---
 num: 63
+resume: "rédiger un document d'exigences produit (PRD) et des user stories directement exploitables par une équipe de développement. Étape 1 : Clarifier le problème, les utilisateurs et le périmètre de la version."
 date_ajout: "2026-11"
 nom: "Rédacteur de PRD & user stories"
 emoji: "📌"

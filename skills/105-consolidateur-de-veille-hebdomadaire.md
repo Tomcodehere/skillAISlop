@@ -1,5 +1,6 @@
 ---
 num: 105
+resume: "transformer un flux de veille brut (articles, posts, rapports) en digest hebdomadaire court, hiérarchisé et actionnable. Étape 1 : Recueillir le flux brut et les thèmes de veille prioritaires de l'utilisateur."
 date_ajout: "2026-11"
 nom: "Consolidateur de veille hebdomadaire"
 emoji: "📡"

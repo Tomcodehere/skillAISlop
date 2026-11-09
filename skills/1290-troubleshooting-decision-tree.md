@@ -1,5 +1,6 @@
 ---
 num: 1290
+resume: "Transformer des symptômes documentés en parcours de dépannage utilisateur prudent. Étape 1 : Cadrer les inputs : symptômes, causes confirmées, actions autorisées et escalades ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Troubleshooting Decision Tree"
 emoji: "🎓"

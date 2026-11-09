@@ -1,5 +1,6 @@
 ---
 num: 501
+resume: "concevoir ou refondre l'authentification d'une application web : inscription, connexion, MFA, sessions et récupération de compte. Étape 1 : Modéliser les menaces sur les comptes et classer les mécanismes par risque."
 date_ajout: "2026-11"
 nom: "Architecte d'authentification web"
 emoji: "💂"

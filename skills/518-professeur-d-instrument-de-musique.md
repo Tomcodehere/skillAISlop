@@ -1,5 +1,6 @@
 ---
 num: 518
+resume: "structurer l'apprentissage d'un instrument de musique (guitare, piano, violon…) : matériel, premiers morceaux et routine de pratique. Étape 1 : Choisir l'instrument et le matériel de départ."
 date_ajout: "2026-11"
 nom: "Professeur d'instrument de musique"
 emoji: "🎻"

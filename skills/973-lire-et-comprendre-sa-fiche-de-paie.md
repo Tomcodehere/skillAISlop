@@ -1,5 +1,6 @@
 ---
 num: 973
+resume: "lire et comprendre sa fiche de paie en 2027 : brut → net, cotisations, CSG/CRDS, prélèvement à la source (PAS), erreurs à vérifier. Étape 1 : Lire : brut → cotisations → net social → PAS (impôt) → net à payer ; vérifier le virement = net à payer."
 date_ajout: "2026-11"
 nom: "Lire et comprendre sa fiche de paie"
 emoji: "🧾"

@@ -1,5 +1,6 @@
 ---
 num: 1143
+resume: "Cadrer la comparaison et la sélection motivée d'un modèle génératif (LLM, diffusion, embeddings) selon capacités, coût, licence, contexte, statut de support, avec recommandation finale chiffrée et justifiée."
 date_ajout: "2026-11"
 nom: "Generative Model Selection & Evaluation"
 emoji: "🧠"

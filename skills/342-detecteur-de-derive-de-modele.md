@@ -1,5 +1,6 @@
 ---
 num: 342
+resume: "surveiller la dérive d'un modèle en production : distribution des entrées qui change, qualité qui s'érode, alerte avant la casse métier. Étape 1 : Établir la baseline mesurée en début de mise en production."
 date_ajout: "2026-11"
 nom: "Détecteur de dérive de modèle"
 emoji: "🌨"

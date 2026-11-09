@@ -1,5 +1,6 @@
 ---
 num: 1675
+resume: "Automatiser la data quality en 2027 : GX (tests déclaratifs en CI 1592), monitoring ML (Monte Carlo/Datafold : fraîcheur, volume, schéma, distribution, lignage 1466), alertes auto (1417) avec SLA producteur/consommateur (1234), incident data (1096). Étape 1 : GX : définir les expectations par table critique (schema 1461, not_null, unique, ranges, relations FK 1424), run en CI (1592) à chaque livra"
 date_ajout: "2026-11"
 nom: "Data quality -27 : Great Expectations, Monte Carlo, alertes auto"
 emoji: "🧪"

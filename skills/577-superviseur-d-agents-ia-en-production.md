@@ -1,5 +1,6 @@
 ---
 num: 577
+resume: "superviser des agents IA en production : traçabilité des exécutions, coûts suivis, alertes utiles et plan de dégradation. Étape 1 : Journaliser chaque exécution avec décisions, outils et coûts."
 date_ajout: "2026-11"
 nom: "Superviseur d'agents IA en production"
 emoji: "📡"

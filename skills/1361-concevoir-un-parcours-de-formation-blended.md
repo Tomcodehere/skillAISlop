@@ -1,5 +1,6 @@
 ---
 num: 1361
+resume: "Concevoir un parcours blended coherent alternant presentiel, distanciel synchrone et e-learning asynchrone, avec des objectifs mesurables par module et une duree totale realiste. Étape 1 : Definir l'objectif global et le decouper en 3-5 modules."
 date_ajout: "2026-11"
 nom: "Concevoir un parcours de formation blended"
 emoji: "🧩"

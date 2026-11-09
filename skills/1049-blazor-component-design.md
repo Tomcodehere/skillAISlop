@@ -1,5 +1,6 @@
 ---
 num: 1049
+resume: "Concevoir composants Blazor (Server/WASM) réutilisables avec Composition API, state management Pinia-like, interop JavaScript. Étape 1 : Créer composant :"
 date_ajout: "2026-11"
 nom: "Blazor Component Design"
 emoji: "💻"

@@ -1,5 +1,6 @@
 ---
 num: 1207
+resume: "Expliquer de façon générale les étapes publiques d'une démarche notariale belge en s'appuyant sur des sources à jour, sans donner d'avis juridique propre au dossier. Étape 1 : Cadrer la démarche et le périmètre belge demandé."
 date_ajout: "2026-11"
 nom: "Belgian Notarial Procedures Orientation"
 emoji: "🔬"

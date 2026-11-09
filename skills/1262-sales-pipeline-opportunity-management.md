@@ -1,5 +1,6 @@
 ---
 num: 1262
+resume: "Structurer la qualification, le suivi et la revue d'opportunités commerciales afin de rendre les prochaines étapes, les responsabilités et les risques visibles. Ce skill aide l'équipe à piloter un pipeline à partir des informations fournies; il ne modifie pas directement un CRM et ne prend pas de décision commerciale à sa place. Étape 1 : Confirmer l'objectif, le périmètre, la source et la date de"
 date_ajout: "2026-11"
 nom: "Sales Pipeline & Opportunity Management"
 emoji: "💻"

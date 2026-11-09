@@ -1,5 +1,6 @@
 ---
 num: 665
+resume: "sécuriser ses comptes en ligne : mots de passe uniques et forts, gestionnaire de mots de passe, double authentification. Étape 1 : Auditer : liste des comptes importants, mots de passe réutilisés, 2FA absent, via un gestionnaire de mots de passe."
 date_ajout: "2026-11"
 nom: "Sécurité des mots de passe"
 emoji: "🔐"

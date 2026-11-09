@@ -1,5 +1,6 @@
 ---
 num: 209
+resume: "préparer une réunion qui vaut le temps de ses participants : objectif, ordre du jour, pré-lecture, décisions attendues. Étape 1 : Définir le type de réunion, l'objectif et les décisions attendues."
 date_ajout: "2026-11"
 nom: "Préparateur de réunions"
 emoji: "⏰"

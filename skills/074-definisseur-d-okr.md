@@ -1,5 +1,6 @@
 ---
 num: 74
+resume: "rédiger des OKR trimestriels clairs, mesurables, ambitieux mais atteignables, et anti-triche. Étape 1 : Clarifier l'ambition du trimestre et la baseline actuelle des mesures."
 date_ajout: "2026-11"
 nom: "Définisseur d'OKR"
 emoji: "🥅"

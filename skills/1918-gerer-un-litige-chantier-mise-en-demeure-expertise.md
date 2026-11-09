@@ -1,5 +1,6 @@
 ---
 num: 1918
+resume: "Résoudre un litige de chantier dans les règles (constat, mise en demeure, expertise, assurance) en préservant ses droits. Étape 1 : Constater contradictoirement (rapport photo daté), tenter la conciliation."
 date_ajout: "2026-11"
 nom: "Gérer un litige chantier (mise en demeure, expertise)"
 emoji: "⚖️"

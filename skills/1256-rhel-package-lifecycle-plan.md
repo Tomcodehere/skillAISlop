@@ -1,5 +1,6 @@
 ---
 num: 1256
+resume: "Planifier une maintenance de paquets RHEL compatible avec les dépôts et le support de la distribution. Étape 1 : Cadrer les inputs : version, dépôts activés, errata et contraintes applicatives ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "RHEL Package Lifecycle Plan"
 emoji: "⚡"

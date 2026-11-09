@@ -1,5 +1,6 @@
 ---
 num: 1715
+resume: "Centraliser la doc développeur en 2027 : docs/*.md dans chaque repo (même PR que le code, doc-as-code 1406), rendues dans le portail (Backstage TechDocs 1702) avec owner (scorecard 1711), recherche globale, et lien depuis le catalogue de services. Étape 1 : Structure par repo : docs/ (architecture.md avec ADR 88, runbook.md 199, api.md 180, onboarding.md 1713), mkdocs.yml, owner dans CODEOWNERS."
 date_ajout: "2026-11"
 nom: "Documentation développeur interne : TechDocs et docs-as-code"
 emoji: "📖"

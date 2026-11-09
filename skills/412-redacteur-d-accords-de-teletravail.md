@@ -1,5 +1,6 @@
 ---
 num: 412
+resume: "rédiger un accord de télétravail clair : jours, horaires de connexion, équipement, frais, droits et devoirs de chaque côté. Étape 1 : Recenser les points de litige réels et les pratiques existantes."
 date_ajout: "2026-11"
 nom: "Rédacteur d'accords de télétravail"
 emoji: "🪑"

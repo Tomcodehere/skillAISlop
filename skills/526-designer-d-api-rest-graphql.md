@@ -1,5 +1,6 @@
 ---
 num: 526
+resume: "concevoir une API REST ou GraphQL de qualité : ressources, contrats, versionnage et erreurs prévisibles. Étape 1 : Recenser les besoins des consommateurs et les ressources."
 date_ajout: "2026-11"
 nom: "Designer d'API REST & GraphQL"
 emoji: "🧭"

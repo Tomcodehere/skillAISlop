@@ -1,5 +1,6 @@
 ---
 num: 1505
+resume: "Concevoir une caméra 2D en 2027 : follow avec deadzone (la caméra ne bouge que si le joueur sort d'une zone centrale), lookahead dans la direction du mouvement, clamp aux limites du niveau, lerp pour la douceur. Étape 1 : Deadzone : si |player - center| inférieur à deadzone sur un axe, la caméra garde sa cible sur cet axe."
 date_ajout: "2026-11"
 nom: "Camera 2D : follow, deadzone et lookahead"
 emoji: "📷"

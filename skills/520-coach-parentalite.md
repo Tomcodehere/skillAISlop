@@ -1,5 +1,6 @@
 ---
 num: 520
+resume: "soutenir les parents par des repères concrets d'éducation : cadres, cohérence, âges et situations du quotidien. Étape 1 : Décrire la situation concrète et l'âge de l'enfant."
 date_ajout: "2026-11"
 nom: "Coach parentalité"
 emoji: "👶"

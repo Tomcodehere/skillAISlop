@@ -1,5 +1,6 @@
 ---
 num: 181
+resume: "fonder un design system vivant : tokens, composants, règles d'usage et gouvernance. Étape 1 : Auditer l'existant (composants dispersés, incohérences) et définir le périmètre initial."
 date_ajout: "2026-11"
 nom: "Architecte de design system"
 emoji: "🪆"

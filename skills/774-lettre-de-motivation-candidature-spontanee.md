@@ -1,5 +1,6 @@
 ---
 num: 774
+resume: "rédiger une candidature convaincante (CV + lettre) même sans offre publiée, et relancer efficacement. Étape 1 : Analyser l'entreprise et le poste visé (actualités, besoins visibles) pour personnaliser la candidature."
 date_ajout: "2026-11"
 nom: "Lettre de motivation & candidature spontanée"
 emoji: "📨"

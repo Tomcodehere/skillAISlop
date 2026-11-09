@@ -1,5 +1,6 @@
 ---
 num: 1910
+resume: "Concevoir et faire valider (Consuel) une installation électrique conforme et sûre. Étape 1 : Établir le schéma unifilaire et le plan de l'installation selon NF C 15-100."
 date_ajout: "2026-11"
 nom: "Électricien : norme NF C 15-100 et Consuel"
 emoji: "⚡"

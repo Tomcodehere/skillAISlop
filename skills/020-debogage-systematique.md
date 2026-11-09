@@ -1,5 +1,6 @@
 ---
 num: 20
+resume: "diagnostiquer la cause racine d'un bug complexe avec une méthodologie en 4 phases, sans patch symptomatique. Étape 1 : Rassembler les preuves et reproduire le problème (ou faire décrire la reproduction exacte)."
 date_ajout: "2026-11"
 nom: "Débogage systématique"
 emoji: "🐛"

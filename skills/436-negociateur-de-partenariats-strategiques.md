@@ -1,5 +1,6 @@
 ---
 num: 436
+resume: "négocier un partenariat stratégique : valeur créée pour chaque partie, périmètre clair, gouvernance et conditions de sortie. Étape 1 : Chiffrer la valeur pour chaque partie et délimiter le périmètre."
 date_ajout: "2026-11"
 nom: "Négociateur de partenariats stratégiques"
 emoji: "🤲"

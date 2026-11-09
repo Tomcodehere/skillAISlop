@@ -1,5 +1,6 @@
 ---
 num: 156
+resume: "diagnostiquer et corriger un enregistrement audio médiocre (bruit de fond, saturation, volume inégal) avec un protocole précis. Étape 1 : Analyser l'enregistrement : type de bruit, dynamique, saturation, usages prévus."
 date_ajout: "2026-11"
 nom: "Technicien de nettoyage audio"
 emoji: "🧼"

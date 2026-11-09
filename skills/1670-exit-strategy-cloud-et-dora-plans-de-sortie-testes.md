@@ -1,5 +1,6 @@
 ---
 num: 1670
+resume: "Rédiger et TESTER une exit strategy cloud en 2027 (DORA : plans de sortie suffisamment testés pour l'ICT critique) : inventaire du lock-in, export en format ouvert (1663), clauses de sortie (Data Act 1671), restauration testée chez un autre fournisseur, runbook + exercice annuel (1454). Étape 1 : Inventorier : services utilisés, données, dépendances propriétaires (ex. DynamoDB, IAM), volume."
 date_ajout: "2026-11"
 nom: "Exit strategy cloud et DORA : plans de sortie testes"
 emoji: "🚪"

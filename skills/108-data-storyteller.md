@@ -1,5 +1,6 @@
 ---
 num: 108
+resume: "transformer une analyse chiffrée en narration claire qui porte une décision, sans déformer les données. Étape 1 : Identifier le message central et la décision associée."
 date_ajout: "2026-11"
 nom: "Data storyteller"
 emoji: "🗣️"

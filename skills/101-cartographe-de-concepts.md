@@ -1,5 +1,6 @@
 ---
 num: 101
+resume: "transformer un domaine complexe en carte conceptuelle claire : notions clés, liens, niveau de difficulté. Étape 1 : Cerner le domaine avec l'utilisateur : finalité, niveau visé, temps disponible."
 date_ajout: "2026-11"
 nom: "Cartographe de concepts"
 emoji: "🧠"

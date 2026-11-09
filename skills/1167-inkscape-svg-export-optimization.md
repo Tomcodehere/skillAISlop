@@ -1,5 +1,6 @@
 ---
 num: 1167
+resume: "Produire un livrable maîtrisé : jeu d'exports (SVG optimisé, PNG, PDF) avec rapport de poids et de compatibilité. Étape 1 : Cadrer les inputs : SVG source, cibles d'usage (web, jeu, impression), tailles et résolutions attendues ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Inkscape SVG Export & Optimization"
 emoji: "💻"

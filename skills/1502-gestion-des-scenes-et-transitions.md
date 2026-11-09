@@ -1,5 +1,6 @@
 ---
 num: 1502
+resume: "Structurer un jeu en scènes en 2027 : scène bootstrap + chargement asynchrone (barre de progression), niveaux chargés en additif (menu/HUD persistants), transitions fondues, données persistantes entre scènes (profil joueur, settings). Étape 1 : Scène bootstrap (vide, charge le menu + manager persistant)."
 date_ajout: "2026-11"
 nom: "Gestion des scenes et transitions"
 emoji: "🎬"

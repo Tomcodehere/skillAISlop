@@ -1,5 +1,6 @@
 ---
 num: 420
+resume: "planifier la continuité d'une équipe face aux absences : congés, arrêts, départs couverts par binômes, docs et croissement des compétences. Étape 1 : Cartographier les compétences critiques et les points uniques de défaillance."
 date_ajout: "2026-11"
 nom: "Planificateur de continuité d'équipe"
 emoji: "🕗"

@@ -1,5 +1,6 @@
 ---
 num: 1130
+resume: "Aider les entreprises FinTech à cartographier leur écosystème de partenaires et à évaluer des options de collaboration selon la valeur, les dépendances, les risques opérationnels et les questions à vérifier. Étape 1 : Décrire le parcours produit et les fonctions qui nécessitent un partenaire."
 date_ajout: "2026-11"
 nom: "FinTech Partnership & Ecosystem Strategy"
 emoji: "🧠"

@@ -1,5 +1,6 @@
 ---
 num: 1454
+resume: "Organiser un exercice tabletop cyber en 2027 : scénario réaliste (ransomware ou fuite), cellule de crise avec rôles, décisions chronométrées, débrief à chaud et plan d'action avec responsables et échéances. Étape 1 : Rédiger le scénario + injects (timeline 2 h) et les rôles (qui parle à la presse, qui isole le SI)."
 date_ajout: "2026-11"
 nom: "Exercice de crise cyber : tabletop"
 emoji: "🎯"

@@ -1,5 +1,6 @@
 ---
 num: 1074
+resume: "Concevoir stratégies stockage cloud hybride (S3, Azure Blob, GCS) : tiers, lifecycle, versioning, replication, coûts optimisés."
 date_ajout: "2026-11"
 nom: "Cloud Storage Strategies"
 emoji: "🧠"

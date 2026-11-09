@@ -1,5 +1,6 @@
 ---
 num: 419
+resume: "créer des canaux de feedback anonyme qui fonctionnent : confiance vérifiable, sujets traités, réponses visibles et protection réelle des auteurs. Étape 1 : Concevoir la protection réelle de l'anonymat et l'engagement public d'usage."
 date_ajout: "2026-11"
 nom: "Concepteur de canaux de feedback anonyme"
 emoji: "🤫"

@@ -1,5 +1,6 @@
 ---
 num: 969
+resume: "négocier une rupture conventionnelle individuelle en 2027 : indemnité supra-légale, congé de reclassement, délai de rétractation, homologation/administratif. Étape 1 : Négocier l'indemnité (légale minimum, viser supra-légale selon ancienneté) + congé de reclassement éventuel."
 date_ajout: "2026-11"
 nom: "Négocier une rupture conventionnelle individuelle"
 emoji: "🤝"

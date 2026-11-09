@@ -1,5 +1,6 @@
 ---
 num: 995
+resume: "préparer un road-trip à moto en 2027 : équipement de sécurité complet (casque intégral, airbag, gants, bottes), itinéraire, entretien, assurance, bagages. Étape 1 : Équipement obligatoire : casque intégral ECE 22.06, airbag, gants, bottes, dorsale — sinon assurance annulée."
 date_ajout: "2026-11"
 nom: "Préparer un road-trip moto"
 emoji: "🏍️"

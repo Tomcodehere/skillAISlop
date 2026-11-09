@@ -1,5 +1,6 @@
 ---
 num: 623
+resume: "aider à suivre un traitement au long cours sans l'arrêter seul et à dialoguer utilement avec son médecin sur les effets secondaires. Étape 1 : Faire le point : médicaments prescrits, prises effectives cette semaine, effets ressentis, raisons des oublis."
 date_ajout: "2026-11"
 nom: "Observance & prise de médicaments"
 emoji: "💊"

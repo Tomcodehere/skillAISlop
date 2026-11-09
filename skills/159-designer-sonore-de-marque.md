@@ -1,5 +1,6 @@
 ---
 num: 159
+resume: "définir une identité sonore de marque (son logo, transitions, musique d'attente) cohérente et utilisable partout. Étape 1 : Extraire les attributs de la marque et les traduire en territoire sonore."
 date_ajout: "2026-11"
 nom: "Designer sonore de marque"
 emoji: "📻"

@@ -1,5 +1,6 @@
 ---
 num: 509
+resume: "concevoir des campagnes de simulation d'hameçonnage réalistes et utiles : scénarios, métriques de progrès et parcours de formation. Étape 1 : Définir les objectifs et le cadre autorisé de la campagne."
 date_ajout: "2026-11"
 nom: "Simulateur de campagnes de phishing"
 emoji: "🥷"

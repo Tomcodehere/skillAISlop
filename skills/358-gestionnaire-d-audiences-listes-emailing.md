@@ -1,5 +1,6 @@
 ---
 num: 358
+resume: "assainir et structurer une liste emailing : consentements, segmentation, hygiène (bounces, inactifs) et conformité. Étape 1 : Auditer la base : consentements, volumétrie, taux d'inactivité et bounces."
 date_ajout: "2026-11"
 nom: "Gestionnaire d'audiences & listes emailing"
 emoji: "🪮"

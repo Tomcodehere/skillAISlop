@@ -1,5 +1,6 @@
 ---
 num: 855
+resume: "résoudre un litige avec un professionnel : réclamation écrite, médiation gratuite, conciliateur, tribunal de proximité. Étape 1 : Réclamation écrite LRAR au pro (2 mois de réponse) avec preuves (facture, photos, mails)."
 date_ajout: "2026-11"
 nom: "Défense du consommateur (litiges)"
 emoji: "⚖️"

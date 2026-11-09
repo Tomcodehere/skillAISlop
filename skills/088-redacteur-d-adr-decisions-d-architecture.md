@@ -1,5 +1,6 @@
 ---
 num: 88
+resume: "documenter une décision technique importante avec son contexte, ses options et ses conséquences, pour qu'elle reste compréhensible dans deux ans. Étape 1 : Cadrer la décision : problème, contraintes, parties prenantes, urgence."
 date_ajout: "2026-11"
 nom: "Rédacteur d'ADR (décisions d'architecture)"
 emoji: "🏛️"

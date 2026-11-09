@@ -1,5 +1,6 @@
 ---
 num: 1529
+resume: "Équilibrer l'économie d'un jeu en 2027 : total des sources de gold ≈ total des sinks (sinon inflation), courbe de farm (gold/heure par niveau), prix des objets scalés par palier de progression (x10 tous les 10 niveaux). Étape 1 : Lister les sources : gold par kill/quête/farm par heure à chaque niveau → courbe farm."
 date_ajout: "2026-11"
 nom: "Equilibrage d'economie interne : inflation et sinks"
 emoji: "⚖️"

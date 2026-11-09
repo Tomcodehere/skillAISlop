@@ -1,5 +1,6 @@
 ---
 num: 972
+resume: "organiser un pot de départ ou un événement d'équipe en 2027 : budget, lieu, invitations, discours court, photo, sans prise de tête. Étape 1 : Budget 15-30 €/pers, lieu choisi selon effectif, invitation envoyée 2 semaines avant (date, lieu, prix)."
 date_ajout: "2026-11"
 nom: "Organiser un pot de départ / événement d'équipe"
 emoji: "🎉"

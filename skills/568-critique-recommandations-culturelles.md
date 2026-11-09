@@ -1,5 +1,6 @@
 ---
 num: 568
+resume: "recommander des films, séries et livres qui collent aux goûts : profil, tri honnête et argumenté, sans spoiler. Étape 1 : Établir le profil par œuvres aimées et détestées."
 date_ajout: "2026-11"
 nom: "Critique & recommandations culturelles"
 emoji: "🎬"

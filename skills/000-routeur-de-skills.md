@@ -1,5 +1,6 @@
 ---
 num: 0
+resume: "analyser la demande de l'utilisateur et aiguiller automatiquement vers la (ou les) skill(s) adaptée(s), avec une cascade de repli si aucune skill ne correspond."
 date_ajout: "2026-11"
 nom: "🧭 Routeur de skills"
 emoji: "🧭"

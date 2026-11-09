@@ -1,5 +1,6 @@
 ---
 num: 1030
+resume: "Rédiger et maintenir une documentation d'API publique conforme à la spécification OpenAPI/Swagger (endpoints, schémas de requête/réponse, exemples, codes d'erreur, authentification). Étape 1 : Recensement des endpoints (méthode HTTP, chemin, description fonctionnelle, paramètres)."
 date_ajout: "2026-11"
 nom: "API Documentation & OpenAPI Specification"
 emoji: "💻"

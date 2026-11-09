@@ -1,5 +1,6 @@
 ---
 num: 401
+resume: "faire se comprendre deux équipes qui ne parlent pas la même langue : jargon traduit, concepts mis à plat, glossaire partagé. Étape 1 : Recenser les termes qui bloquent et leurs significations de chaque côté."
 date_ajout: "2026-11"
 nom: "Traducteur de jargon inter-équipes"
 emoji: "🍏"

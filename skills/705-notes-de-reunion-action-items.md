@@ -1,5 +1,6 @@
 ---
 num: 705
+resume: "transformer une réunion (transcription ou notes) en compte rendu structuré : décisions, action items avec responsables et échéances. Étape 1 : Extraire de la réunion : objectif, décisions prises, désaccords actés."
 date_ajout: "2026-11"
 nom: "Notes de réunion & action items"
 emoji: "📝"

@@ -1,5 +1,6 @@
 ---
 num: 502
+resume: "durcir la configuration HTTP d'un site : en-têtes de sécurité, cookies et CORS, sans casser les fonctionnalités. Étape 1 : Inventorier la configuration actuelle et le risque attaché à chaque en-tête."
 date_ajout: "2026-11"
 nom: "Durcisseur d'en-têtes HTTP & cookies"
 emoji: "🧤"

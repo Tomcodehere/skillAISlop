@@ -1,5 +1,6 @@
 ---
 num: 36
+resume: "définir les bons indicateurs et concevoir un dashboard qui sert la décision, pas la décoration. Étape 1 : Identifier les décisions à éclairer et leur fréquence."
 date_ajout: "2026-11"
 nom: "Tableaux de bord & KPI"
 emoji: "📺"

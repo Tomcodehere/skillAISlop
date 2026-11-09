@@ -1,5 +1,6 @@
 ---
 num: 388
+resume: "mener une interview par écrit (email, formulaire) : questions ouvertes, relances utiles, matière suffisante pour un contenu complet. Étape 1 : Préparer les questions ouvertes orientées scènes, chiffres et opinions."
 date_ajout: "2026-11"
 nom: "Intervieweur par écrit"
 emoji: "🍉"

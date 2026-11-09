@@ -1,5 +1,6 @@
 ---
 num: 293
+resume: "faire progresser la prise de parole orale : diagnostic des tics, structure du discours et feedback précis sur des passages enregistrés. Étape 1 : Diagnostiquer sur enregistrement ou lecture à voix haute : tics, débit, structure."
 date_ajout: "2026-11"
 nom: "Coach d'éloquence"
 emoji: "🗯️"

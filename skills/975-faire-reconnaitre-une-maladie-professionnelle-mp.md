@@ -1,5 +1,6 @@
 ---
 num: 975
+resume: "faire reconnaître une maladie professionnelle (MP) en 2027 : tableau des MP ou comité régional (CRRMP), déclaration CPAM sous 2 ans, indemnisation. Étape 1 : Vérifier le tableau des MP (annexe RG) : si oui, reconnaissance de droit ; sinon CRRMP avec preuve du lien causal."
 date_ajout: "2026-11"
 nom: "Faire reconnaître une maladie professionnelle (MP)"
 emoji: "🏥"

@@ -1,5 +1,6 @@
 ---
 num: 1093
+resume: "Comparer plusieurs livrables généralistes contre une même référence sans arbitrer le fond spécialisé. Étape 1 : Cadrer les inputs : artefacts, version de référence, invariants et périmètre ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Cross-Artifact Consistency Review"
 emoji: "📋"

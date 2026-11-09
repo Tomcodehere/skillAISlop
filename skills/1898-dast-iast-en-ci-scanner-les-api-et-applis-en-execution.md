@@ -1,5 +1,6 @@
 ---
 num: 1898
+resume: "Scanner les applications en exécution avec un DAST (OWASP ZAP baseline/full en CI 1413 sur le staging) + IAST si besoin — gate : bloquer le déploiement sur vulnérabilité high/critical, en complément du SAST (1885). Étape 1 : ZAP baseline : zap-baseline.py -t https://staging.example.com en CI (rapport HTML/JSON)."
 date_ajout: "2026-11"
 nom: "DAST/IAST en CI : scanner les API et applis en exécution"
 emoji: "🕷️"

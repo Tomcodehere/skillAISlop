@@ -1,5 +1,6 @@
 ---
 num: 590
+resume: "traverser une séparation ou un divorce : étapes réalistes, points de vigilance (logement, enfants, finances) et coûts des options. Étape 1 : Qualifier la situation et les voies possibles avec coûts et délais."
 date_ajout: "2026-11"
 nom: "Guide séparation & divorce"
 emoji: "💔"

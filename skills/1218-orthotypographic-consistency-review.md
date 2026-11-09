@@ -1,5 +1,6 @@
 ---
 num: 1218
+resume: "Uniformiser ponctuation, espaces et conventions typographiques selon la langue et le support. Étape 1 : Cadrer les inputs : corpus, langues, charte typographique, contraintes de rendu ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Orthotypographic Consistency Review"
 emoji: "✍️"

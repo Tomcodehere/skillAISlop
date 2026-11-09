@@ -1,5 +1,6 @@
 ---
 num: 435
+resume: "tenir un registre des risques vivant : risques identifiés et évalués, propriétaires nommés, plans d'action suivis et revue périodique. Étape 1 : Formuler chaque risque en causalité et l'évaluer sur l'échelle annoncée."
 date_ajout: "2026-11"
 nom: "Gardien du registre des risques"
 emoji: "🍡"

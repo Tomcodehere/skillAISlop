@@ -1,5 +1,6 @@
 ---
 num: 335
+resume: "définir la personnalité d'un agent : traits, registre, limites du personnage et cohérence across conversations. Étape 1 : Décrire les traits en comportements observables et situations typiques."
 date_ajout: "2026-11"
 nom: "Donneur de personnalité d'agent"
 emoji: "🌢"

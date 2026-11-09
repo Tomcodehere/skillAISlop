@@ -1,5 +1,6 @@
 ---
 num: 1829
+resume: "Sécuriser la chaîne de build : OIDC workload identity au lieu des secrets longue durée, Tekton Chains pour signer automatiquement les builds (SLSA), actions CI pinnées par SHA (leçon CVE-2026-33634 Trivy). Étape 1 : OIDC : GitHub -supérieur à AWS : créer le rôle IAM avec trust policy oidc provider token.actions.githubusercontent.com, puis aws-actions/configure-aws-credentials (pas de clé)."
 date_ajout: "2026-11"
 nom: "Build integrity en CI : OIDC, Tekton Chains, pas de secrets longue durée"
 emoji: "🔒"

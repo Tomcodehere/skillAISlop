@@ -1,5 +1,6 @@
 ---
 num: 1682
+resume: "Se conformer en 2027 aux obligations GPAI (fournisseurs de modèles à usage général) : documentation technique, résumé public du contenu d'entraînement (droit d'auteur), Code of Practice (signé par 20+ fournisseurs), et pour les modèles à risque systémique : évaluations, mesures de mitigation, déclaration des incidents graves (24 h). Étape 1 : Art 53 : documentation technique complète (architecture"
 date_ajout: "2026-11"
 nom: "GPAI : Code of Practice et obligations fournisseurs"
 emoji: "📋"

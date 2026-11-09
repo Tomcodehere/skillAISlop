@@ -1,5 +1,6 @@
 ---
 num: 856
+resume: "s'engager dans une association de façon structurée : mission claire, temps réaliste, statut et assurance du bénévole. Étape 1 : Choisir une mission réaliste (2-4 h/sem) correspondant aux compétences et disponibilités."
 date_ajout: "2026-11"
 nom: "Bénévolat & engagement associatif structuré"
 emoji: "🤝"

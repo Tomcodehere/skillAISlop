@@ -1,5 +1,6 @@
 ---
 num: 225
+resume: "planifier un déménagement complet : chronologie, tri, logistique, transferts administratifs et journée J. Étape 1 : Définir les dates clés, les volumes et le budget du déménagement."
 date_ajout: "2026-11"
 nom: "Assistant de déménagement"
 emoji: "🚚"

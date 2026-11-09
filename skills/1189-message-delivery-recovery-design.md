@@ -1,5 +1,6 @@
 ---
 num: 1189
+resume: "Définir comment un échange asynchrone gère doublons, erreurs et reprises. Étape 1 : Cadrer les inputs : producteur, consommateur, clés métier, ordering et garanties réelles ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Message Delivery Recovery Design"
 emoji: "🎨"

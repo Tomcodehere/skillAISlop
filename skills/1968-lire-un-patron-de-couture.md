@@ -1,5 +1,6 @@
 ---
 num: 1968
+resume: "Être autonome sur un patron de couture magazine : découper et coudre sans erreur. Étape 1 : Lire la pochette : métrage selon taille et laize, fournitures (zip, boutons, entoilage)."
 date_ajout: "2026-11"
 nom: "Lire un patron de couture"
 emoji: "📏"

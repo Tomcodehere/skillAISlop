@@ -1,5 +1,6 @@
 ---
 num: 1180
+resume: "Ventiler les coûts LLM par usage pour identifier les économies mesurables. Étape 1 : Cadrer les inputs : journaux autorisés, modèle/version, tarifs datés et unités de facturation ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "LLM Token Cost Attribution"
 emoji: "🧠"

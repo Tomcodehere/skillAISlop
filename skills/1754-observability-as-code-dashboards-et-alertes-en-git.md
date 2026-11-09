@@ -1,5 +1,6 @@
 ---
 num: 1754
+resume: "Gérer l'observabilité as code en 2027 : dashboards (Grafana JSON/Terraform/CRD), alertes (Prometheus YAML), SLO (351) — tout en Git, déployé par CI (1413), revu en PR (1401). Plus de clic-bouton qui pourrit. Étape 1 : Repo observability/ : dashboards/ (JSON export Grafana ou provider Terraform), alerts/ (YAML Prometheus rules), slos/ (SLO 351 en YAML/CRD)."
 date_ajout: "2026-11"
 nom: "Observability as code : dashboards et alertes en Git"
 emoji: "📂"

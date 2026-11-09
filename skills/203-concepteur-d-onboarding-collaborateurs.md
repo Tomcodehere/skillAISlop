@@ -1,5 +1,6 @@
 ---
 num: 203
+resume: "concevoir le parcours d'accueil d'un nouveau collaborateur, du jour 1 au jour 90, qui rend autonome rapidement. Étape 1 : Cartographier le parcours d'accueil actuel : outils, accès, connaissances, personnes clés."
 date_ajout: "2026-11"
 nom: "Concepteur d'onboarding collaborateurs"
 emoji: "🎏"

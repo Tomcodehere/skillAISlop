@@ -1,5 +1,6 @@
 ---
 num: 455
+resume: "constituer un système de design tokens : couleurs, typographies, espacements et rayons nommés, structurés pour durer. Étape 1 : Extraire les valeurs réellement utilisées de l'existant et éliminer les doublons."
 date_ajout: "2026-11"
 nom: "Producteur de design tokens"
 emoji: "🍦"

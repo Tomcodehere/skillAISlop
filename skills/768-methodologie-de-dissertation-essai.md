@@ -1,5 +1,6 @@
 ---
 num: 768
+resume: "rédiger une dissertation ou un essai structuré : introduction accrocheuse, plan clair, développement argumenté, conclusion ouverte. Étape 1 : Introduction : accroche, définitions, problématique précise, annonce de plan en une phrase."
 date_ajout: "2026-11"
 nom: "Méthodologie de dissertation & essai"
 emoji: "📝"

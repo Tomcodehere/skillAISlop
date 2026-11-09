@@ -1,5 +1,6 @@
 ---
 num: 306
+resume: "organiser la gestion des secrets : jamais en clair dans le code, un trousseau unique, des clés nommées, tournées et révocables. Étape 1 : Auditer les emplacements de secrets actuels et lister les risques d'exposition."
 date_ajout: "2026-11"
 nom: "Gestionnaire de secrets & trousseaux"
 emoji: "🌅"

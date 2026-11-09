@@ -1,5 +1,6 @@
 ---
 num: 1453
+resume: "Déployer un SIEM open source en 2027 (Wazuh ou ELK Security) : collecter les logs (serveurs, firewall, AD, cloudTrail), appliquer des règles de détection, alerter en temps réel, avec rétention conforme. Étape 1 : Installer le SIEM (Wazuh manager + agents, ou stack ELK)."
 date_ajout: "2026-11"
 nom: "SIEM open source : centraliser les logs de securite"
 emoji: "🔎"

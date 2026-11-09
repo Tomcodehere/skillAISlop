@@ -1,5 +1,6 @@
 ---
 num: 1701
+resume: "Concevoir des golden paths en 2027 : chemins par défaut opinionnés et supportés couvrant 80 % des cas courants (nouveau service, BDD, file de déploiement), avec une procédure de dérogation documentée pour les cas atypiques. Étape 1 : Lister les 3-5 tâches les plus fréquentes (nouveau service, BDD, déploiement, secret)."
 date_ajout: "2026-11"
 nom: "Golden paths : routes par defaut opinionnees"
 emoji: "🛤️"

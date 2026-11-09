@@ -1,5 +1,6 @@
 ---
 num: 416
+resume: "monter un dossier de financement de formation : dispositif adapté, pièces exigées, argumentaire et calendrier de dépôt. Étape 1 : Identifier le dispositif applicable et ses conditions réelles de fond et de forme."
 date_ajout: "2026-11"
 nom: "Rédacteur de dossiers de financement de formation"
 emoji: "🍘"

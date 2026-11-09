@@ -1,5 +1,6 @@
 ---
 num: 1336
+resume: "se protéger des arnaques 2027 par QR codes et faux courriers (impôts, amendes, colis) : ne jamais scanner un QR non sollicité, vérifier l'expéditeur, signaler. Étape 1 : Règle d'or : QR code uniquement si attendu ; sinon ne pas scanner."
 date_ajout: "2026-11"
 nom: "Prévention arnaques QR codes & faux courriers"
 emoji: "📱"

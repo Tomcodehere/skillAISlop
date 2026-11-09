@@ -1,5 +1,6 @@
 ---
 num: 363
+resume: "adapter une campagne à un autre marché : traduction des intentions, réécriture culturelle des accroches et révision des visuels et usages. Étape 1 : Extraire l'intention et la structure de la campagne d'origine, message par message."
 date_ajout: "2026-11"
 nom: "Transcréateur de campagnes par marché"
 emoji: "🌷"

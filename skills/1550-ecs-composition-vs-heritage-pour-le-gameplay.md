@@ -1,5 +1,6 @@
 ---
 num: 1550
+resume: "Organiser le gameplay en ECS en 2027 : entités (id), composants (données pures : Position, Health, Velocity), systèmes (logique : MovementSystem filtre les entités ayant Position+Velocity), composition au lieu d'héritage, itération cache-friendly. Étape 1 : Définir les composants comme des structs de données pures (pas de méthode)."
 date_ajout: "2026-11"
 nom: "ECS : composition vs heritage pour le gameplay"
 emoji: "🧩"

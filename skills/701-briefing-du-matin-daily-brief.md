@@ -1,5 +1,6 @@
 ---
 num: 701
+resume: "produire chaque matin un briefing concis : agenda, emails urgents, tâches prioritaires et une action clé de la journée. Étape 1 : Collecter les entrées du jour : calendrier, inbox non traité, tâches en retard, actualité du secteur."
 date_ajout: "2026-11"
 nom: "Briefing du matin (daily brief)"
 emoji: "☀️"

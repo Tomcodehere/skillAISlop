@@ -1,5 +1,6 @@
 ---
 num: 205
+resume: "cartographier les compétences d'une équipe (présentes, manquantes, à risque) pour piloter recrutement et formation. Étape 1 : Lister les compétences réellement nécessaires aux missions de l'équipe."
 date_ajout: "2026-11"
 nom: "Cartographe de compétences d'équipe"
 emoji: "🔷"

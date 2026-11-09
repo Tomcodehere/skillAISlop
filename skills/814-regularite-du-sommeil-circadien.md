@@ -1,5 +1,6 @@
 ---
 num: 814
+resume: "améliorer son sommeil en priorisant la régularité des horaires (levée fixe 7 j/7) plutôt que la durée, appuyé sur les cohortes 2026. Étape 1 : Fixer l'heure de levée 7 j/7 (± 30 min) ; reculer le coucher de 15 min/semaine jusqu'au bon rythme."
 date_ajout: "2026-11"
 nom: "Régularité du sommeil (circadien)"
 emoji: "⏰"

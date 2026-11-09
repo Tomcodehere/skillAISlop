@@ -1,5 +1,6 @@
 ---
 num: 517
+resume: "apprendre à danser ou construire une chorégraphie : bases techniques, style visé et plan d'entraînement réaliste. Étape 1 : Choisir le style et évaluer le niveau réel."
 date_ajout: "2026-11"
 nom: "Coach danse & chorégraphie"
 emoji: "💃"

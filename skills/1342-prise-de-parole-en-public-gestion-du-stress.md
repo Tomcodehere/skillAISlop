@@ -1,5 +1,6 @@
 ---
 num: 1342
+resume: "prendre la parole en public en 2027 avec assurance : structure claire, respiration, gestion du trac, réponses aux questions. Étape 1 : Accroche 30 s + 3 idées max + conclusion CTA ; slides sobres (3-5)."
 date_ajout: "2026-11"
 nom: "Prise de parole en public & gestion du stress"
 emoji: "🎤"

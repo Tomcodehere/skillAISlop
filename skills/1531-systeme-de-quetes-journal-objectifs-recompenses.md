@@ -1,5 +1,6 @@
 ---
 num: 1531
+resume: "Concevoir un système de quêtes en 2027 : journal (en cours/finies), objectifs avec compteur temps réel (tuer 5 rats → 3/5), quêtes principales chaînées + secondaires, récompenses (XP/gold/objet), validation au PNJ donneur. Étape 1 : Définir Quest en data (JSON/ScriptableObject) : objectifs (tuer X, ramasser Y, parler à Z, aller à), récompenses, quête suivante."
 date_ajout: "2026-11"
 nom: "Systeme de quetes : journal, objectifs, recompenses"
 emoji: "📜"

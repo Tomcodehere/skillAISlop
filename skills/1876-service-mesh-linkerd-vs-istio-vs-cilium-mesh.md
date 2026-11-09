@@ -1,5 +1,6 @@
 ---
 num: 1876
+resume: "Choisir son service mesh : Linkerd (léger/simple), Istio (complet/complexe) ou Cilium mesh sans sidecar (eBPF, si Cilium déjà là 1727) — selon mTLS, traffic splitting, observabilité et complexité ops. Étape 1 : Si Cilium (1721) : activer le mesh Cilium (1727) — 0 sidecar, eBPF."
 date_ajout: "2026-11"
 nom: "Service mesh : Linkerd vs Istio (vs Cilium mesh)"
 emoji: "🕸️"

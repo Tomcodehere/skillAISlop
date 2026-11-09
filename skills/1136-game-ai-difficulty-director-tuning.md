@@ -1,5 +1,6 @@
 ---
 num: 1136
+resume: "Produire un livrable maîtrisé : conception et plan de réglage d'un directeur d'IA et de l'adaptation de difficulté (rythme, intensité, apparition d'ennemis, coordination d'escouade) avec outils de debug visuel et protocole de mesure reproductible. Étape 1 : Cadrer les inputs : intention de design, métriques, leviers, contraintes ; vérifier les préconditions et le périmètre."
 date_ajout: "2026-11"
 nom: "Game AI Difficulty & Director Tuning"
 emoji: "🎨"

@@ -1,5 +1,6 @@
 ---
 num: 1348
+resume: "préparer son entretien annuel d'évaluation en 2027 : bilan chiffré, 3 réussites concrètes, 2 axes de progrès, demande de formation, objectifs SMART pour l'an prochain. Étape 1 : Bilan chiffré de l'année (projets, résultats) + 3 réussites avec preuves + 2 axes de progrès."
 date_ajout: "2026-11"
 nom: "Préparer un entretien annuel d'évaluation"
 emoji: "📊"

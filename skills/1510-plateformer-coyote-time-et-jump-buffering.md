@@ -1,5 +1,6 @@
 ---
 num: 1510
+resume: "Ajouter coyote time (0,1 s de grâce pour sauter après le sol) et jump buffering (0,1 s : un appui avant l'atterrissage déclenche le saut à l'atterrissage) à un plateformer 2D en 2027. Étape 1 : Coyote : variable coyote = 0,1 si on sol, sinon décrémente; saut autorisé si coyote supérieur à 0."
 date_ajout: "2026-11"
 nom: "Plateformer : coyote time et jump buffering"
 emoji: "🎯"

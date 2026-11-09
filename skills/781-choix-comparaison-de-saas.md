@@ -1,5 +1,6 @@
 ---
 num: 781
+resume: "choisir un SaaS adapté en comparant objectivement : besoins réels, fonctionnalités, prix total, essais. Étape 1 : Lister 10 cas d'usage concrets pondérés (must-have vs nice-to-have)."
 date_ajout: "2026-11"
 nom: "Choix & comparaison de SaaS"
 emoji: "🧰"

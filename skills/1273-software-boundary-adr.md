@@ -1,5 +1,6 @@
 ---
 num: 1273
+resume: "Documenter une décision de frontière logicielle entre modules ou services. Étape 1 : Cadrer les inputs : responsabilités métier, flux, contraintes et alternatives ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Software Boundary ADR"
 emoji: "📋"

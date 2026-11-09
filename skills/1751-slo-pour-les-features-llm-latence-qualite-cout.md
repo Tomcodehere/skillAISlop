@@ -1,5 +1,6 @@
 ---
 num: 1751
+resume: "Définir des SLO en 2027 pour une feature IA : latence (TTFT inférieur à 1 s, fin inférieur à 10 s en streaming 1439), erreurs, qualité (score eval 1630, hallucinations 1155), coût/requête (1491), escalade HITL (1636) — avec budget d'erreur (99,5 % = 3,6 h/mois). Étape 1 : SLI latence : TTFT (time to first token 1439) p95 inférieur à 500 ms, fin p99 inférieur à 10 s (streaming)."
 date_ajout: "2026-11"
 nom: "SLO pour les features LLM : latence, qualité, coût"
 emoji: "🎯"

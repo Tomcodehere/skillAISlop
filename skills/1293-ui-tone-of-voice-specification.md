@@ -1,5 +1,6 @@
 ---
 num: 1293
+resume: "Définir des règles de ton produit applicables aux états d'interface sans sacrifier la clarté. Étape 1 : Cadrer les inputs : voix de marque, publics, contextes sensibles et corpus existant ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "UI Tone-of-Voice Specification"
 emoji: "📦"

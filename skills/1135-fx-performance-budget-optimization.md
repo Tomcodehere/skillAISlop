@@ -1,5 +1,6 @@
 ---
 num: 1135
+resume: "Produire un livrable maîtrisé : budget de performance des effets visuels (particules, overdraw, shaders, post-traitement) avec mesures avant/après et plan d'optimisation priorisé. Étape 1 : Cadrer la référence : machine, résolution, framerate visé, moteur de rendu et pire cas d'usage en jeu ; vérifier les autorisations."
 date_ajout: "2026-11"
 nom: "FX Performance Budget Optimization"
 emoji: "🎨"

@@ -1,5 +1,6 @@
 ---
 num: 959
+resume: "acheter une voiture électrique d'occasion en 2027 en vérifiant la batterie (SOH), l'autonomie réelle, les aides (bonus, leasing social) et la recharge. Étape 1 : Batterie : SOH ≥ 80 %, garantie restante, autonomie réelle = WLTP − 20-30 % ; diagnostic OBD en garage VE."
 date_ajout: "2026-11"
 nom: "Achat d'une voiture électrique d'occasion"
 emoji: "🚗"

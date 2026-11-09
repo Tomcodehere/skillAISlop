@@ -1,5 +1,6 @@
 ---
 num: 1371
+resume: "Mettre en place le suivi de l'adoption d'une feature IA en production : activation, WAU/MAU, frequence, part de taches deleguees a l'IA, CSAT, avec un tableau de bord simple. Étape 1 : Taux d'activation : % d'utilisateurs eligibles ayant fait l'action cle 1 fois."
 date_ajout: "2026-11"
 nom: "Mesurer l'adoption d'une feature IA"
 emoji: "📈"

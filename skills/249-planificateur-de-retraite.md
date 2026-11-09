@@ -1,5 +1,6 @@
 ---
 num: 249
+resume: "préparer sa retraite concrètement : projection, ressources, projet de vie, transition progressive. Étape 1 : Projeter les ressources par fourchettes avec les points à valider par un professionnel."
 date_ajout: "2026-11"
 nom: "Planificateur de retraite"
 emoji: "🏖️"

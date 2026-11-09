@@ -1,5 +1,6 @@
 ---
 num: 1285
+resume: "Optimiser collaboration Teams via : - Architecture équipes/canaux cohérente et gouvernable - Réunions efficaces (paramétrage, enregistrement, transcription) - Intégrations apps tierces (centralisation outils) - Notifications équilibrées (focus sans surcharge)"
 date_ajout: "2026-11"
 nom: "Teams Collaboration Best Practices"
 emoji: "💻"

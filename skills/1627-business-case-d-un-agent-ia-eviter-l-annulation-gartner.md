@@ -1,5 +1,6 @@
 ---
 num: 1627
+resume: "Écrire un business case solide pour un agent IA en 2027 (Gartner : 40 % annulés fin 2027) : périmètre étroit, POC 4 semaines, métrique de succès chiffrée (temps gagné, coût/tâche 1491), HITL (1433), seuils de kill. Étape 1 : Choisir UNE tâche narrow à haut volume et coût (ex. tri de tickets, extraction de factures)."
 date_ajout: "2026-11"
 nom: "Business case d'un agent IA : eviter l'annulation (Gartner)"
 emoji: "💰"

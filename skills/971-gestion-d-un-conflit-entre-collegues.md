@@ -1,5 +1,6 @@
 ---
 num: 971
+resume: "résoudre un conflit entre collègues en 2027 : parler directement et tôt, se concentrer sur les faits et comportements, pas les personnes, médiation si blocage. Étape 1 : Parler directement, tôt, en privé, calmement ; formuler en « je » sur les faits, pas la personne."
 date_ajout: "2026-11"
 nom: "Gestion d'un conflit entre collègues"
 emoji: "🕊️"

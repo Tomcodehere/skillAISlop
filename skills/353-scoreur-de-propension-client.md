@@ -1,5 +1,6 @@
 ---
 num: 353
+resume: "construire un score de propension : probabilité qu'un client réalise l'action visée, variables utiles, seuils d'action et validation honnête. Étape 1 : Définir l'action cible, la fenêtre et la population éligible."
 date_ajout: "2026-11"
 nom: "Scoreur de propension client"
 emoji: "💯"

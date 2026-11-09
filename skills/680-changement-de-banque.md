@@ -1,5 +1,6 @@
 ---
 num: 680
+resume: "changer de banque sereinement : comparer les offres, utiliser la mobilité bancaire gratuite, fermer l'ancien compte. Étape 1 : Comparer : frais de tenue de compte, carte, virements, assurance des moyens de paiement, épargne, banque en ligne vs agence."
 date_ajout: "2026-11"
 nom: "Changement de banque"
 emoji: "🏦"

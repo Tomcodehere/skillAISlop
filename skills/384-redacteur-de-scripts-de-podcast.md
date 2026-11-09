@@ -1,5 +1,6 @@
 ---
 num: 384
+resume: "écrire un script de podcast qui se suit à l'oreille : accroche sonore, structure claire, oralité naturelle et transitions explicites. Étape 1 : Définir la promesse de l'épisode et sa structure en blocs annoncés."
 date_ajout: "2026-11"
 nom: "Rédacteur de scripts de podcast"
 emoji: "🍆"

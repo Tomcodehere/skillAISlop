@@ -1,5 +1,6 @@
 ---
 num: 1157
+resume: "Verifier systematiquement l'environnement d'execution avant toute action (permissions, conflits, ressources) et nettoyer les artefacts apres execution pour maintenir un environnement propre et previsible."
 date_ajout: "2026-11"
 nom: "Hygiene Environnement Execution"
 emoji: "🔬"

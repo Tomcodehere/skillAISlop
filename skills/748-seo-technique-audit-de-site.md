@@ -1,5 +1,6 @@
 ---
 num: 748
+resume: "auditer et corriger la santé technique d'un site pour le SEO : vitesse, indexation, balises, données structurées. Étape 1 : Auditer la vitesse (Core Web Vitals) et l'indexation (robots, sitemap, canonical, Search Console)."
 date_ajout: "2026-11"
 nom: "SEO technique & audit de site"
 emoji: "🔧"

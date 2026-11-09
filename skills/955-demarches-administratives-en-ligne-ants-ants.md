@@ -1,5 +1,6 @@
 ---
 num: 955
+resume: "faire ses démarches administratives en ligne en 2027 (ANTS : passeport, CNI, permis, carte grise) en anticipant les délais et en préparant le dossier numérique. Étape 1 : Clarifier « Démarches administratives en ligne (ANTS,ANTS 2027) »."
 date_ajout: "2026-11"
 nom: "Démarches administratives en ligne (ANTS,ANTS)"
 emoji: "🖥️"

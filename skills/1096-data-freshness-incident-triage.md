@@ -1,5 +1,6 @@
 ---
 num: 1096
+resume: "Qualifier une rupture de fraîcheur d'un jeu de données et son impact consommateur. Étape 1 : Cadrer les inputs : horodatages source/ingestion/publication, cadence convenue et dépendances ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Data Freshness Incident Triage"
 emoji: "🤖"

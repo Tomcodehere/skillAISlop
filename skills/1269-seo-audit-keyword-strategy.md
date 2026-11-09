@@ -1,5 +1,6 @@
 ---
 num: 1269
+resume: "Évaluer les fondations d'une présence organique dans les moteurs de recherche et structurer une stratégie de mots-clés et de pages à prioriser. Le skill produit des diagnostics et briefs à valider; il ne rédige pas les pages et ne garantit pas un classement. Étape 1 : Définir l'objectif, les audiences, le marché, la langue et la portée de l'audit."
 date_ajout: "2026-11"
 nom: "SEO Audit & Keyword Strategy"
 emoji: "🧠"

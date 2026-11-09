@@ -1,5 +1,6 @@
 ---
 num: 1755
+resume: "Utiliser l'AIOps en 2027 pour réduire le MTTR : corrélation ML automatique des traces (1680), métriques (1416), logs (1469) et events k8s (609) → cause racine proposée en inférieur à 60 s, validée par un humain (HITL 1636) avant action. Étape 1 : Unifier : OTel Collector (1680) envoie traces+métriques+logs vers la plateforme AIOps (OpenObserve O2 open source, ou Datadog/Elastic managé), + events k"
 date_ajout: "2026-11"
 nom: "AIOps : RCA automatique et réduction du MTTR"
 emoji: "🤖"

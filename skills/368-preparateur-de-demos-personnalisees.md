@@ -1,5 +1,6 @@
 ---
 num: 368
+resume: "préparer une démo produit personnalisée : scénario aux problèmes du prospect, données de démonstration crédibles et objections anticipées. Étape 1 : Qualifier : irritants du prospect, contexte, décideurs présents."
 date_ajout: "2026-11"
 nom: "Préparateur de démos personnalisées"
 emoji: "🎆"

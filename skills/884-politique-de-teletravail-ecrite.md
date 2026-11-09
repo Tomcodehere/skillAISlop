@@ -1,5 +1,6 @@
 ---
 num: 884
+resume: "rédiger un accord/charte de télétravail clair et légal : jours autorisés, présentiel obligatoire, frais, déconnexion, assurance. Étape 1 : Cadrer : jours de TT (2-3 j/sem), jours de présence obligatoires, avenant ou accord collectif."
 date_ajout: "2026-11"
 nom: "Politique de télétravail écrite"
 emoji: "🏠"

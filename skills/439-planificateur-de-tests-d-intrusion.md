@@ -1,5 +1,6 @@
 ---
 num: 439
+resume: "planifier un test d'intrusion utile : périmètre et règles définis, scénarios prioritaires, fenêtre encadrée et remédiation prête à suivre. Étape 1 : Définir périmètre, règles d'engagement et contacts d'urgence par écrit."
 date_ajout: "2026-11"
 nom: "Planificateur de tests d'intrusion"
 emoji: "🗡"

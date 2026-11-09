@@ -1,5 +1,6 @@
 ---
 num: 1489
+resume: "Concevoir l'UX de l'incertitude en 2027 : la réponse IA affiche un niveau de confiance, les sources citées sont cliquables, 'je ne sais pas' est affiché quand pertinent, et un avertissement sur les sujets sensibles (santé/juridique/finance). Étape 1 : Calculer un score de confiance (similarité retrieval, eval interne, self-consistency 1437)."
 date_ajout: "2026-11"
 nom: "UX de l'incertitude : afficher la confiance de l'IA"
 emoji: "❓"

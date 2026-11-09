@@ -1,5 +1,6 @@
 ---
 num: 1807
+resume: "Monter des artifacts OCI (images, SBOM, configs signées) comme volumes de pods via OCI VolumeSource (stable 1.36), distribués par le registre — immuables, re-pull au restart. Étape 1 : Publier l'artifact : crane/push ou oras push, noter le digest sha256."
 date_ajout: "2026-11"
 nom: "OCI VolumeSource : monter des artifacts OCI comme volumes"
 emoji: "📦"

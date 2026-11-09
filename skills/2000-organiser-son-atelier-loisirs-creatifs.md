@@ -1,5 +1,6 @@
 ---
 num: 2000
+resume: "Un espace dédié rangé, éclairé, avec un rythme créatif régulier et un budget maîtrisé. Étape 1 : Définir la zone (étagère/meuble dédié, surface protégée, lumière LED 5000K)."
 date_ajout: "2026-11"
 nom: "Organiser son atelier loisirs créatifs"
 emoji: "🗄️"

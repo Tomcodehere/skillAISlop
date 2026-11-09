@@ -1,5 +1,6 @@
 ---
 num: 69
+resume: "écrire des requêtes SQL correctes et efficientes, et modéliser des schémas propres et documentés. Étape 1 : Clarifier le schéma, le SGBD et le volume de données."
 date_ajout: "2026-11"
 nom: "Assistant SQL & modélisation de données"
 emoji: "🗃️"

@@ -1,5 +1,6 @@
 ---
 num: 1184
+resume: "Optimiser les performances MariaDB et renforcer la fiabilite en production. Étape 1 : Diagnostiquer (slow log, EXPLAIN, metrics moteur)."
 date_ajout: "2026-11"
 nom: "MariaDB Performance & Reliability"
 emoji: "📋"

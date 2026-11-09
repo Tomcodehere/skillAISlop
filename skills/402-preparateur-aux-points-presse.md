@@ -1,5 +1,6 @@
 ---
 num: 402
+resume: "préparer un porte-parole à un point presse : messages clés, questions difficiles, réponses courtes et attitudes à éviter. Étape 1 : Définir les 3 messages clés et leurs preuves en phrases courtes."
 date_ajout: "2026-11"
 nom: "Préparateur aux points presse"
 emoji: "🍐"

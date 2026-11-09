@@ -1,5 +1,6 @@
 ---
 num: 1481
+resume: "Définir la North Star metric du produit en 2027 (celle qui reflète la valeur perçue) et la décomposer en arbre de leviers (inscription → activation → rétention → fréquence), chacun avec sa métrique, sa baseline et son owner. Étape 1 : Choisir LA north star (doit augmenter quand l'utilisateur est servi : ex. messages envoyés, rapports générés)."
 date_ajout: "2026-11"
 nom: "North Star et arbre de metriques produit"
 emoji: "⭐"

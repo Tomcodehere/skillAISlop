@@ -1,5 +1,6 @@
 ---
 num: 964
+resume: "ouvrir un PEA (ou compte-titres) en 2027 pour investir en ETF monde, avec la fiscalité avantageuse après 5 ans et le plafond de 150 000 €. Étape 1 : Ouvrir chez banque en ligne (frais réduits) : 1 PEA/personne, plafond 150 000 € de versements, 2 en couple."
 date_ajout: "2026-11"
 nom: "Ouverture d'un PEA / compte-titres"
 emoji: "📈"

@@ -1,5 +1,6 @@
 ---
 num: 1106
+resume: "Détecter et signaler les boucles de délégation (A → B → A) : tâches revenues 2+ fois au même agent sans avancement, patterns récurrents d'échec, chaînes circulaires de routage."
 date_ajout: "2026-11"
 nom: "Détection Boucles Délégation"
 emoji: "📋"

@@ -1,5 +1,6 @@
 ---
 num: 1594
+resume: "Préparer un pitch éditeur en 2027 : deck 10-12 slides (accroche, concept 1 phrase, marché + comparables, loop vidéo, équipe, budget 1595, planning, pourquoi nous) + démo jouable du vertical slice (1593), présentation 15 min + Q/R 15 min. Étape 1 : Deck 10-12 slides max (1 idée/slide, visuels forts, peu de texte)."
 date_ajout: "2026-11"
 nom: "Pitch deck pour un editeur de jeux video"
 emoji: "📊"

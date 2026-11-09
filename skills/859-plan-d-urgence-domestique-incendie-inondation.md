@@ -1,5 +1,6 @@
 ---
 num: 859
+resume: "préparer un plan d'urgence domestique : numéros, consignes par risque (gaz, incendie, inondation), évacuation, kit de survie. Étape 1 : Par risque : gaz (couper, sortir, 0 800 47 33 33), incendie (2 sorties, point de rassemblement), inondation (élec/eau)."
 date_ajout: "2026-11"
 nom: "Plan d'urgence domestique (incendie, inondation)"
 emoji: "🚨"

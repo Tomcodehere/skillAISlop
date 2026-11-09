@@ -1,5 +1,6 @@
 ---
 num: 1803
+resume: "Activer InPlacePodVerticalScaling (GA 1.35, init containers GA 1.37) pour redimensionner CPU/mémoire des pods à chaud, sans recréation ni perte de session, piloté par le VPA en mode Recommandation. Étape 1 : Activer InPlacePodVerticalScaling (feature gate on par défaut en 1.35+)."
 date_ajout: "2026-11"
 nom: "In-Place Pod Vertical Scaling : resizer les pods à chaud"
 emoji: "⚡"

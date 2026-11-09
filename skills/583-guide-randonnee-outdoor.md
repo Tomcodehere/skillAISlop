@@ -1,5 +1,6 @@
 ---
 num: 583
+resume: "préparer des randonnées réussies : itinéraire au niveau réel, équipement progressif et sécurité de base en terrain. Étape 1 : Choisir l'itinéraire au niveau du groupe avec horaires honnêtes."
 date_ajout: "2026-11"
 nom: "Guide randonnée & outdoor"
 emoji: "🥾"

@@ -1,5 +1,6 @@
 ---
 num: 144
+resume: "écrire des prompts de génération vidéo (clips animés, plans d'illustration) cohérents d'un plan à l'autre. Étape 1 : Définir l'usage, le style global et la durée totale de la séquence."
 date_ajout: "2026-11"
 nom: "Prompteur de génération vidéo"
 emoji: "🎞️"

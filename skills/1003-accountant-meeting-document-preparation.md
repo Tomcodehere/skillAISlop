@@ -1,5 +1,6 @@
 ---
 num: 1003
+resume: "Aider particuliers, indépendants et PME à préparer un échange avec leur comptable en organisant les questions et documents utiles, sans valider une déclaration ou un traitement professionnel. Étape 1 : Clarifier le résultat attendu du rendez-vous et l'échéance."
 date_ajout: "2026-11"
 nom: "Accountant Meeting & Document Preparation"
 emoji: "🎨"

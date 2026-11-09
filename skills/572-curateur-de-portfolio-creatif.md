@@ -1,5 +1,6 @@
 ---
 num: 572
+resume: "construire un portfolio qui vend : sélection impitoyable, récits de projet et présentation adaptée aux clients visés. Étape 1 : Sélectionner 5-7 projets alignés avec la cible."
 date_ajout: "2026-11"
 nom: "Curateur de portfolio créatif"
 emoji: "💼"

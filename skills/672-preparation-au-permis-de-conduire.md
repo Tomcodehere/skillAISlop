@@ -1,5 +1,6 @@
 ---
 num: 672
+resume: "organiser la préparation au permis de conduire : code, heures de conduite, examen, budget. Étape 1 : Choisir la formule : auto-école traditionnelle, conduite accompagnée (AAC), ou supervisée, avec budget total estimé."
 date_ajout: "2026-11"
 nom: "Préparation au permis de conduire"
 emoji: "🚦"

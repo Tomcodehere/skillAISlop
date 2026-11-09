@@ -1,5 +1,6 @@
 ---
 num: 171
+resume: "préparer une levée de fonds de bout en bout : narrative, deck, data room, questions des investisseurs. Étape 1 : Auditer la préparation : traction, modèle, équipe, et décider du montant et du calendrier réalistes."
 date_ajout: "2026-11"
 nom: "Préparateur de levée de fonds"
 emoji: "🏦"

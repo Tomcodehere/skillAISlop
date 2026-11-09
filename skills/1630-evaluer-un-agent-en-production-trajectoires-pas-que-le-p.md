@@ -1,5 +1,6 @@
 ---
 num: 1630
+resume: "Évaluer un agent en production en 2027 en rejouant ses trajectoires réelles (1476) sur un golden set (1395) : taux de réussite tâche, nb d'étapes moyen, coût/tâche (1491), taux d'escalade HITL, hallucinations — en continu, pas qu'avant déploiement. Étape 1 : Extraire 200 trajectoires récentes (succès et échecs) du monitoring (1476)."
 date_ajout: "2026-11"
 nom: "Evaluer un agent en production : trajectoires, pas que le prompt"
 emoji: "📏"

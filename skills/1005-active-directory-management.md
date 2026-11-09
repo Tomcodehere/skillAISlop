@@ -1,5 +1,6 @@
 ---
 num: 1005
+resume: "Gérer Active Directory (users, groups, OUs, GPOs) de manière sécurisée, automatisée et conforme aux best practices Microsoft. Étape 1 : Analyser structure AD existante (Get-ADOrganizationalUnit, Get-ADUser)."
 date_ajout: "2026-11"
 nom: "Active Directory Management"
 emoji: "🎨"

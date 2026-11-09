@@ -1,5 +1,6 @@
 ---
 num: 1603
+resume: "Construire un site content-first en 2027 avec Astro (0 JS par défaut, îles hydratées à la demande) + View Transitions API (transitions fluides entre pages sans SPA), déployé sur edge. Étape 1 : Projet Astro, contenu en MDX dans src/pages, layout commun."
 date_ajout: "2026-11"
 nom: "Astro + View Transitions API : site content-first rapide"
 emoji: "🚀"

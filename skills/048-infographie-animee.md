@@ -1,5 +1,6 @@
 ---
 num: 48
+resume: "concevoir une infographie statique ou animée qui révèle une séquence d'informations, en SVG ou HTML. Étape 1 : Clarifier le message unique et l'audience (interne ou grand public)."
 date_ajout: "2026-11"
 nom: "Infographie animée"
 emoji: "🖼️"

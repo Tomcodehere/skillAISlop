@@ -1,5 +1,6 @@
 ---
 num: 724
+resume: "appliquer les règles de vérifiabilité du code généré par IA (Karpathy, 2026) : tests, simplicité, revues systématiques. Étape 1 : Imposer la vérifiabilité : tests unitaires auto, lint, build et CI obligatoires sur tout code IA."
 date_ajout: "2026-11"
 nom: "Vérifiabilité du code IA (Karpathy)"
 emoji: "✅"

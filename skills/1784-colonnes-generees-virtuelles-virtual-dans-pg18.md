@@ -1,5 +1,6 @@
 ---
 num: 1784
+resume: "Utiliser les colonnes générées VIRTUAL de PG18 (calculées à la lecture, non stockées) pour les champs dérivés simples (prix TTC, age, concaténation), sans coût de stockage ni d'écriture. Étape 1 : Lister les calculs repetes dans les requêtes (prix_ttc, age, full_name)."
 date_ajout: "2026-11"
 nom: "Colonnes générées virtuelles (VIRTUAL) dans PG18"
 emoji: "🧮"

@@ -1,5 +1,6 @@
 ---
 num: 905
+resume: "installer des skills d'agents (skills.sh, ClawHub) en sécurité après la campagne de malware de janvier 2026 (335 skills malveillantes sur ClawHub). Étape 1 : Lire SKILL.md + tous les scripts référencés avant install ; préférer sources officielles/auditées."
 date_ajout: "2026-11"
 nom: "Sécurité des marketplaces de skills (ClawHub, skills.sh)"
 emoji: "🛡️"

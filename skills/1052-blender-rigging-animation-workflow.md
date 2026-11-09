@@ -1,5 +1,6 @@
 ---
 num: 1052
+resume: "Produire un livrable maîtrisé : rig d'armature et animations (actions, NLA) avec liste des clips et conventions de nommage. Étape 1 : Cadrer les inputs : modèle ou personnage, liste d'animations, framerate, contraintes du moteur cible ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Blender Rigging & Animation Workflow"
 emoji: "💻"

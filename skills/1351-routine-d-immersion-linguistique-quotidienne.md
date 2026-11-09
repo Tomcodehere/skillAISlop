@@ -1,5 +1,6 @@
 ---
 num: 1351
+resume: "Construire une routine d'immersion realiste de 30 a 60 minutes par jour dans la langue cible, sans quitter son pays ni suivre de cours formel, en s'appuyant sur les contenus du quotidien. Étape 1 : Faire l'inventaire des contenus deja consommes et choisir ceux disponibles en VO sous-titres VO."
 date_ajout: "2026-11"
 nom: "Routine d'immersion linguistique quotidienne"
 emoji: "🏠"

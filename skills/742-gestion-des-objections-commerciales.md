@@ -1,5 +1,6 @@
 ---
 num: 742
+resume: "préparer et gérer les objections classiques en appel de vente sans être défensif ni agressif. Étape 1 : Lister les objections fréquentes du prospect et leur cause réelle sous-jacente."
 date_ajout: "2026-11"
 nom: "Gestion des objections commerciales"
 emoji: "🛡️"

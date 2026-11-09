@@ -1,5 +1,6 @@
 ---
 num: 1905
+resume: "Choisir le statut juridique adapté à son volume d'activité prévisionnel et à sa situation patrimoniale. Étape 1 : Lister les critères : simplicité, charges, plafond de CA, protection sociale, responsabilité (patrimoine pro vs perso), image client."
 date_ajout: "2026-11"
 nom: "Choisir son statut juridique d'artisan BTP"
 emoji: "⚖️"

@@ -1,5 +1,6 @@
 ---
 num: 1228
+resume: "Aligner capacite equipe agents avec priorites business multi-sprints. Étape 1 : Evaluer charge et capacite."
 date_ajout: "2026-11"
 nom: "Portfolio / Capacity Planner"
 emoji: "🎨"

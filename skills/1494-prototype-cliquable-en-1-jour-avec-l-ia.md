@@ -1,5 +1,6 @@
 ---
 num: 1494
+resume: "Produire un prototype cliquable en 1 jour en 2027 avec v0/Lovable/Bolt (prompt → app fonctionnelle) ou Figma Make, pour tester une idée avec de vrais utilisateurs avant tout dev (test 1483). Étape 1 : Choisir l'outil (v0 pour UI, Lovable/Bolt pour full-stack avec 'backend' factice)."
 date_ajout: "2026-11"
 nom: "Prototype cliquable en 1 jour avec l'IA"
 emoji: "⚡"

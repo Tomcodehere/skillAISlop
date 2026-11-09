@@ -1,5 +1,6 @@
 ---
 num: 1613
+resume: "Passer la CI front sous 3 min en 2027 : Rolldown (Rust, parallèle) + cache local/distant (Turbo remote cache) + jobs parallèles (lint, tests, build, e2e 252) avec fail-fast. Étape 1 : Mesurer chaque job CI (timings) pour cibler le goulot (souvent build + e2e)."
 date_ajout: "2026-11"
 nom: "Rolldown en CI : build parallélisé et cache"
 emoji: "⏩"

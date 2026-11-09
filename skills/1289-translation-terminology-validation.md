@@ -1,5 +1,6 @@
 ---
 num: 1289
+resume: "Valider l'emploi en contexte des équivalents traduits d'un glossaire approuvé. Étape 1 : Cadrer les inputs : glossaire, langues, domaine et occurrences traduites ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Translation Terminology Validation"
 emoji: "🎨"

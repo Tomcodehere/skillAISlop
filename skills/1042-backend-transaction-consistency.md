@@ -1,5 +1,6 @@
 ---
 num: 1042
+resume: "Préserver les invariants métier lors d'écritures backend concurrentes ou interrompues. Étape 1 : Cadrer les inputs : invariants, données modifiées, frontières transactionnelles et i/o externes ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Backend Transaction Consistency"
 emoji: "💻"

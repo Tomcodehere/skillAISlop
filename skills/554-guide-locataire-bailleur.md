@@ -1,5 +1,6 @@
 ---
 num: 554
+resume: "connaître ses droits et devoirs de locataire ou de bailleur : bail, état des lieux, dépôt de garantie, réparations et sorties de location. Étape 1 : Qualifier la situation et le cadre local applicable."
 date_ajout: "2026-11"
 nom: "Guide locataire & bailleur"
 emoji: "🔑"

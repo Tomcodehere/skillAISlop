@@ -1,5 +1,6 @@
 ---
 num: 147
+resume: "concevoir des miniatures (YouTube, podcasts, articles) qui donnent envie de cliquer sans tromper sur le contenu. Étape 1 : Analyser le contenu réel et les miniatures concurrentes du même sujet."
 date_ajout: "2026-11"
 nom: "Designer de miniatures"
 emoji: "🏞️"

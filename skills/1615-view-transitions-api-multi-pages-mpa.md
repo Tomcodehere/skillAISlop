@@ -1,5 +1,6 @@
 ---
 num: 1615
+resume: "Animer les transitions entre pages d'un site MPA en 2027 avec la View Transitions API : meta view-transition (cross-document), document.startViewTransition() pour les navigations same-origin, styles ::view-transition-old/new/group. Étape 1 : Activer : meta view-transition same-origin dans le layout (cross-document auto)."
 date_ajout: "2026-11"
 nom: "View Transitions API multi-pages (MPA)"
 emoji: "🎬"

@@ -1,5 +1,6 @@
 ---
 num: 661
+resume: "entretenir un jardin et un potager : calendrier de semis, taille, compost et récoltes au fil des saisons. Étape 1 : Faire le bilan : exposition, sol, surface, temps disponible, envies (potager, pelouse, massif)."
 date_ajout: "2026-11"
 nom: "Entretien du jardin & potager"
 emoji: "🌱"

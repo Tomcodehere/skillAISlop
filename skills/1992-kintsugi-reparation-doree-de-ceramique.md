@@ -1,5 +1,6 @@
 ---
 num: 1992
+resume: "Une céramique cassée réparée en kintsugi, avec des joints dorés propres. Étape 1 : Nettoyer et assembler les morceaux (laque/colle), laisser sécher."
 date_ajout: "2026-11"
 nom: "Kintsugi (réparation dorée de céramique)"
 emoji: "🏺"

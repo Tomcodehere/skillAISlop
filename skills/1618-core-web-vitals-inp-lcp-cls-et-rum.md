@@ -1,5 +1,6 @@
 ---
 num: 1618
+resume: "Atteindre les Core Web Vitals 2027 mesurés en RUM (données réelles) : LCP inférieur à 2,5 s, INP inférieur à 200 ms, CLS inférieur à 0,1 — avec un plan d'action par métrique (images, JS, layout). Étape 1 : Mesurer en RUM (CrUX API ou analytics 1540 avec web-vitals lib) : p75 par page, identifier les pires pages."
 date_ajout: "2026-11"
 nom: "Core Web Vitals : INP, LCP, CLS et RUM"
 emoji: "📊"

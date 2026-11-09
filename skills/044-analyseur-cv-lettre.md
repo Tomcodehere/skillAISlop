@@ -1,5 +1,6 @@
 ---
 num: 44
+resume: "améliorer CV et lettre pour une offre précise, en maximisant la correspondance et l'impact. Étape 1 : Analyser l'offre (exigences, mots-clés, culture apparente de l'entreprise)."
 date_ajout: "2026-11"
 nom: "Analyseur CV & lettre"
 emoji: "📃"

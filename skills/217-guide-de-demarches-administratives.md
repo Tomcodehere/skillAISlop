@@ -1,5 +1,6 @@
 ---
 num: 217
+resume: "guider pas à pas dans une démarche administrative : pièces, ordre, organismes, délais, relances. Étape 1 : Décrire la démarche cible et la situation personnelle exacte."
 date_ajout: "2026-11"
 nom: "Guide de démarches administratives"
 emoji: "🏢"

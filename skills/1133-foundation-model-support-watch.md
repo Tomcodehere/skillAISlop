@@ -1,5 +1,6 @@
 ---
 num: 1133
+resume: "Suivre le support et les retraits de modèles à partir d'annonces officielles datées. Étape 1 : Cadrer les inputs : modèles/version/api utilisés, annonces fournisseur et alternatives ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Foundation Model Support Watch"
 emoji: "🧠"

@@ -1,5 +1,6 @@
 ---
 num: 1377
+resume: "Instaurer une routine hebdomadaire de 15 minutes (ex. vendredi 17 h) pour vider la corbeille d'arrivee : chaque papier est traité (règle des 5 min), classé ou scanné, jamais empilé. Étape 1 : Choisir un creneau fixe (ex. vendredi 16 h45, 15 min au minuteur)."
 date_ajout: "2026-11"
 nom: "Session hebdomadaire de classement papier (15 min)"
 emoji: "🗂"

@@ -1,5 +1,6 @@
 ---
 num: 185
+resume: "prioriser un backlog avec une méthode explicite (RICE, WSJF) et des critères assumés plutôt qu'au feeling. Étape 1 : Nettoyer le backlog : découper les gros items, retirer les doublons et périmés."
 date_ajout: "2026-11"
 nom: "Priorisateur de backlog"
 emoji: "🔢"

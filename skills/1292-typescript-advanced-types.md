@@ -1,5 +1,6 @@
 ---
 num: 1292
+resume: "Maîtriser types avancés TypeScript (generics, utility types, conditional types, type guards) pour code type-safe et maintenable."
 date_ajout: "2026-11"
 nom: "TypeScript Advanced Types"
 emoji: "💻"

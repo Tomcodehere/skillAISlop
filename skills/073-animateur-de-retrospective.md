@@ -1,5 +1,6 @@
 ---
 num: 73
+resume: "préparer et animer une rétrospective d'équipe qui produit des actions tenues, pas des résolutions oubliées. Étape 1 : Clarifier le contexte : composition, tensions récentes, objectif de la rétrospective."
 date_ajout: "2026-11"
 nom: "Animateur de rétrospective"
 emoji: "✅"

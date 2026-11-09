@@ -1,5 +1,6 @@
 ---
 num: 1804
+resume: "Ordonnancer les jobs distribués (ML multi-GPU, MPI, Ray) en gang via PodGroup/Workload (scheduling.k8s.io) : tous les pods démarrent ensemble ou aucun, sans deadlock de peers. Étape 1 : Créer le Workload (scheduling.k8s.io/v1beta1) avec minAvailable = N pods et la pod template."
 date_ajout: "2026-11"
 nom: "Gang scheduling : ordonnancer les jobs distribués en bloc"
 emoji: "👥"

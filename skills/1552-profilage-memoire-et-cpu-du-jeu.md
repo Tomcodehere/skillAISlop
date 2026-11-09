@@ -1,5 +1,6 @@
 ---
 num: 1552
+resume: "Profiler un jeu en 2027 : Memory Profiler (fuites, allocations par frame), CPU Profiler (système par système, deep profile), Render (draw calls 1553, overdraw, tris), avec captures avant/après chaque optimisation. Étape 1 : Memory : Memory Profiler, snapshot avant/après chargement de niveau → fuite = objets non libérés (UnloadUnusedAssets, ou objets statiques qui grossissent)."
 date_ajout: "2026-11"
 nom: "Profilage memoire et CPU du jeu"
 emoji: "📊"

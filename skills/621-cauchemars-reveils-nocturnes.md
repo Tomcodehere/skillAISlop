@@ -1,5 +1,6 @@
 ---
 num: 621
+resume: "réduire la fréquence des cauchemars et des réveils nocturnes par des techniques factuelles d'hygiène de sommeil et de gestion de l'anxiété nocturne. Étape 1 : Évaluer le sommeil : horaires, écrans, caféine, stress du soir, fréquence des cauchemars."
 date_ajout: "2026-11"
 nom: "Cauchemars & réveils nocturnes"
 emoji: "🌙"

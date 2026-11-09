@@ -1,5 +1,6 @@
 ---
 num: 901
+resume: "appliquer l'obligation de transparence (AI Act art. 50, en vigueur depuis le 2 août 2026) : dire qu'on parle à une IA et étiqueter les contenus générés. Étape 1 : Chatbots : mention claire « vous échangez avec une IA » dès l'ouverture, pas enfouie."
 date_ajout: "2026-11"
 nom: "Transparence IA obligatoire (contenu généré, chatbots)"
 emoji: "🏷️"

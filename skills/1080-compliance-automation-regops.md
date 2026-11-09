@@ -1,5 +1,6 @@
 ---
 num: 1080
+resume: "Automatiser la preuve de conformite et reduire les risques reglementaires. Étape 1 : Cartographier obligations."
 date_ajout: "2026-11"
 nom: "Compliance Automation (RegOps)"
 emoji: "🎨"

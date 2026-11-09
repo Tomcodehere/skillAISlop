@@ -1,5 +1,6 @@
 ---
 num: 1065
+resume: "Consolider les preuves nécessaires à un go/no-go de changement plateforme. Étape 1 : Cadrer les inputs : changement/version, tests, dépendances, capacité et rollback ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Change Readiness Evidence"
 emoji: "💻"

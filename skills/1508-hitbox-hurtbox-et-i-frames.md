@@ -1,5 +1,6 @@
 ---
 num: 1508
+resume: "Concevoir le système de combat d'un jeu d'action en 2027 : hitbox (zone d'attaque, active quelques frames) vs hurtbox (zone de réception), i-frames 0,3 s après touche, knockback selon la direction, priorité entre attaques. Étape 1 : Séparer : hurtbox sur le personnage (toujours), hitbox sur l'arme/attaque (activée par event d'anim)."
 date_ajout: "2026-11"
 nom: "Hitbox, hurtbox et i-frames"
 emoji: "⚔️"

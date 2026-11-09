@@ -1,5 +1,6 @@
 ---
 num: 1909
+resume: "Produire un PPSPS conforme (ou justifier l'absence de coordination SPS) et tenir le DUERP à jour. Étape 1 : Déterminer si coordination SPS requise (2+ entreprises ou risques listés) et la catégorie."
 date_ajout: "2026-11"
 nom: "PPSPS, coordination SPS et DUERP"
 emoji: "📑"

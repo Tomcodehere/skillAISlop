@@ -1,5 +1,6 @@
 ---
 num: 1886
+resume: "Définir les API en spec-first (OpenAPI 3.2 sync, AsyncAPI events) : contrat unique (1840) -supérieur à génération de clients/serveurs, doc interactive, tests de contrat (Pact 1414), détection des breaking changes en CI. Étape 1 : Rédiger openapi.yaml (paths, schémas, sécurité) — source de vérité unique (1840)."
 date_ajout: "2026-11"
 nom: "OpenAPI 3.2 / AsyncAPI : spec-first pour les API"
 emoji: "📄"

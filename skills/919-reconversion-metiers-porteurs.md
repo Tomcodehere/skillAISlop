@@ -1,5 +1,6 @@
 ---
 num: 919
+resume: "se reconvertir en 2027 vers un métier porteur (IA, cybersécurité, data, rénovation énergétique, soins) avec une formation financée ou gratuite (France Universités Numérique, CPF). Étape 1 : Bilan de compétences (skill 600) + cibler 2-3 métiers porteurs adaptés au profil (IA, cyber, data, rénovation, soins)."
 date_ajout: "2026-11"
 nom: "Reconversion & métiers porteurs"
 emoji: "🔀"

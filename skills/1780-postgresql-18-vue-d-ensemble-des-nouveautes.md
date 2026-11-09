@@ -1,5 +1,6 @@
 ---
 num: 1780
+resume: "Présenter PostgreSQL 18 (version courante 2027) et ses nouveautés majeures : AIO async I/O (1781), uuidv7() (1782), skip scan (1783), colonnes virtuelles (1784), temporel (1785), OAuth 2.0 (1786), pour décider une montée de version (1789). Étape 1 : Lister les nouveautes PG18 avec le gain concret de chacune (AIO x3 sur scans, uuidv7 localite index, skip scan, etc.)."
 date_ajout: "2026-11"
 nom: "PostgreSQL 18 : vue d'ensemble des nouveautés"
 emoji: "🐘"

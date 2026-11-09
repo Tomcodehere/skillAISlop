@@ -1,5 +1,6 @@
 ---
 num: 1922
+resume: "Avoir les 5 machines électroportatifs essentielles, bien entretenues, pour 90 % des travaux de menuiserie. Étape 1 : Acheter dans l'ordre : perceuse-visseuse 18V, scie circulaire plongeante + rail, défonceuse, ponceuse excentrique, scie sauteuse."
 date_ajout: "2026-11"
 nom: "Outillage électroportatif du menuisier"
 emoji: "🪚"

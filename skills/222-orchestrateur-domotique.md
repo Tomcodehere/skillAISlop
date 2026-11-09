@@ -1,5 +1,6 @@
 ---
 num: 222
+resume: "concevoir des automatisations de maison connectée qui simplifient vraiment la vie quotidienne. Étape 1 : Recenser les irritations réelles et les appareils disponibles."
 date_ajout: "2026-11"
 nom: "Orchestrateur domotique"
 emoji: "📶"

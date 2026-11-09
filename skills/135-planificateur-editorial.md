@@ -1,5 +1,6 @@
 ---
 num: 135
+resume: "bâtir un calendrier de contenus thématique et réaliste qui tient sur la durée. Étape 1 : Définir les piliers thématiques, la cadence réaliste et les canaux."
 date_ajout: "2026-11"
 nom: "Planificateur éditorial"
 emoji: "🗓️"

@@ -1,5 +1,6 @@
 ---
 num: 933
+resume: "comprendre le raccourcissement du visa Graduate UK à 18 mois (demandes à partir du 1er janv. 2027) pour décider d'étudier au Royaume-Uni en 2027. Étape 1 : Graduate visa : 18 mois pour les demandes ≥ 1er janv. 2027 (au lieu de 24) après master/PhD UK."
 date_ajout: "2026-11"
 nom: "Permis Graduate UK raccourci à 18 mois"
 emoji: "🎓"

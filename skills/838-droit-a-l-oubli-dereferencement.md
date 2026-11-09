@@ -1,5 +1,6 @@
 ---
 num: 838
+resume: "exercer son droit à l'oubli/effacement (RGPD art. 17) : supprimer ses données d'un site, demander le déréférencement à Google, auditer sa présence en ligne. Étape 1 : Auditer sa présence : nom + ville + entreprise sur plusieurs moteurs, réseaux, forums, sites d'avis."
 date_ajout: "2026-11"
 nom: "Droit à l'oubli & déréférencement"
 emoji: "🗑️"

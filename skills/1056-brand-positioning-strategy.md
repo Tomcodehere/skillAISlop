@@ -1,5 +1,6 @@
 ---
 num: 1056
+resume: "Clarifier la plateforme de marque, le positionnement et les principes de cohérence qui guideront les décisions marketing. Relier la promesse aux preuves disponibles, aux publics prioritaires et à la différence recherchée sans inventer d'avantage ni rédiger les contenus de campagne. Étape 1 : Cadrer la décision de marque, les publics et le périmètre de l'offre."
 date_ajout: "2026-11"
 nom: "Brand Positioning Strategy"
 emoji: "📣"

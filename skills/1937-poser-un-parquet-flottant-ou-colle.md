@@ -1,5 +1,6 @@
 ---
 num: 1937
+resume: "Un parquet posé droit, avec les bons jeux de dilatation, sans grincement. Étape 1 : Préparer le support (niveau, propreté, humidité inférieure à 3 %, ragréage)."
 date_ajout: "2026-11"
 nom: "Poser un parquet (flottant ou collé)"
 emoji: "🪵"

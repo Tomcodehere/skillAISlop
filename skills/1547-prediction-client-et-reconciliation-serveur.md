@@ -1,5 +1,6 @@
 ---
 num: 1547
+resume: "Implémenter la client-side prediction en 2027 : le client applique chaque input localement immédiatement (avec numéro de séquence), l'envoie au serveur; à chaque état serveur reçu (ack du dernier input traité), il réapplique les inputs non acquittés sur cet état = réconciliation (pas de téléportation). Étape 1 : Client : à chaque input, seq++, appliquer localement (prediction, 0 latence perçue), e"
 date_ajout: "2026-11"
 nom: "Prediction client et reconciliation serveur"
 emoji: "🔮"

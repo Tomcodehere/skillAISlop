@@ -1,5 +1,6 @@
 ---
 num: 125
+resume: "produire un livre blanc d'expertise (10-30 pages) qui démontre l'autorité et génère des contacts qualifiés. Étape 1 : Cadrer le sujet : lecteur cible, problème, position unique de l'entreprise, longueur."
 date_ajout: "2026-11"
 nom: "Rédacteur de livres blancs"
 emoji: "📗"

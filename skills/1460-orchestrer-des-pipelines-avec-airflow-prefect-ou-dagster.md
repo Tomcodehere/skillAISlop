@@ -1,5 +1,6 @@
 ---
 num: 1460
+resume: "Choisir et déployer un orchestrateur de pipelines data en 2027 (Airflow, Prefect ou Dagster) : DAGs versionnés, retries, alertes, monitoring, et tests des transformations. Étape 1 : Lister les pipelines existants et leurs dépendances."
 date_ajout: "2026-11"
 nom: "Orchestrer des pipelines avec Airflow, Prefect ou Dagster"
 emoji: "🎠"

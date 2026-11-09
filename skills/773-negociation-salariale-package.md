@@ -1,5 +1,6 @@
 ---
 num: 773
+resume: "préparer et mener une négociation salariale factuelle : benchmark, package total, arguments, contre-offre. Étape 1 : Benchmarker le marché pour le poste/niveau/localisation (plusieurs sources de rémunération)."
 date_ajout: "2026-11"
 nom: "Négociation salariale & package"
 emoji: "💶"

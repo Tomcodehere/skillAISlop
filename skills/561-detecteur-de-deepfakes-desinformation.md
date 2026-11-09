@@ -1,5 +1,6 @@
 ---
 num: 561
+resume: "évaluer la vraisemblance d'un contenu suspect (image, vidéo, audio) et appliquer les vérifications avant de partager ou d'agir. Étape 1 : Analyser les signaux techniques du contenu soumis."
 date_ajout: "2026-11"
 nom: "Détecteur de deepfakes & désinformation"
 emoji: "🎭"

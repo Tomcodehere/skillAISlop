@@ -1,5 +1,6 @@
 ---
 num: 124
+resume: "transformer un succès client en étude de cas crédible : problème, solution, résultats chiffrés. Étape 1 : Collecter la matière : interview client, chiffres avant/après, citations."
 date_ajout: "2026-11"
 nom: "Rédacteur d'études de cas clients"
 emoji: "🏆"

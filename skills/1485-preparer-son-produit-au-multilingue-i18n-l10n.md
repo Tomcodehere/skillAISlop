@@ -1,5 +1,6 @@
 ---
 num: 1485
+resume: "Préparer un produit au multilingue en 2027 : i18n (clés de traduction externalisées, gestion pluriels/genre, formats date/nombre/devise par locale, support RTL) puis l10n (traductions humaines avec contexte). Étape 1 : i18n : externaliser toutes les chaînes (clés, pas de texte en dur), utiliser ICU MessageFormat (pluriels/genre)."
 date_ajout: "2026-11"
 nom: "Preparer son produit au multilingue (i18n/l10n)"
 emoji: "🌐"

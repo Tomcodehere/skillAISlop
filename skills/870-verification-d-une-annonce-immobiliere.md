@@ -1,5 +1,6 @@
 ---
 num: 870
+resume: "vérifier la crédibilité d'une annonce immobilière avant de visiter ou louer : prix vs marché, photos, agence, signaux d'arnaque. Étape 1 : Prix au m² vs quartier (écart supérieur à 20 % = méfiance) ; agence SIRET vérifiable, avis cohérents."
 date_ajout: "2026-11"
 nom: "Vérification d'une annonce immobilière"
 emoji: "🔎"

@@ -1,5 +1,6 @@
 ---
 num: 300
+resume: "ajouter des mécaniques d'engagement (défis, progression, récompenses) à un produit, un parcours ou un dispositif d'équipe, sans dériver en manipulation. Étape 1 : Identifier la motivation visée et le public : pourquoi l'engagement manque-t-il ?"
 date_ajout: "2026-11"
 nom: "Architecte de gamification"
 emoji: "🎰"

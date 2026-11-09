@@ -1,5 +1,6 @@
 ---
 num: 1793
+resume: "Adopter WebAssembly hors navigateur en 2027 : compiler en wasm32-wasip2 (WASI 0.3 async, WASI 1.0 ABI stable), composer des composants multi-langages via le Component Model (WIT), exécuter sur Wasmtime/WasmEdge/wazero pour edge, serverless, plugins, IoT. Étape 1 : Compiler : cargo build --target wasm32-wasip2 --release (WASI 0.3, async natif)."
 date_ajout: "2026-11"
 nom: "WASI 0.3 et Component Model : WebAssembly hors navigateur"
 emoji: "🧩"

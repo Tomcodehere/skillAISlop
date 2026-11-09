@@ -5219,6 +5219,43 @@ RE_ITEM_ARBRE = re.compile(r"(\d+) ([^·\]]+?)\s*$")
 RE_KNODE = re.compile(r"K\d+\[Skill (\d+)\]")
 
 
+def resume_auto(corps: str) -> str:
+    """Condensé 2-3 lignes d'une skill, dérivé du corps (Objectif + étape 1 de la
+    Méthode) — déterministe, identique entre build canvas et build --from-skills."""
+    blocs = _blocs_canoniques(corps)
+    obj = re.sub(r"\s+", " ", (blocs.get("Objectif") or "").strip())
+    m = re.search(r"(?m)^1\.\s+(.+)$", blocs.get("Méthode") or "")
+    etape = re.sub(r"\s+", " ", m.group(1).strip()) if m else ""
+    r = f"{obj} Étape 1 : {etape}" if etape else obj
+    r = r.replace("<", "inférieur à").replace(">", "supérieur à").replace('"', "'")
+    return re.sub(r"\s+", " ", r).strip()[:400]
+
+
+def lire_resumes(dossier_skills: Path) -> dict[int, str]:
+    """Lit le champ `resume` du frontmatter de chaque skills/*.md ; si absent,
+    le dérive du corps via resume_auto."""
+    out = {}
+    for f in sorted(Path(dossier_skills).glob("*.md")):
+        txt = f.read_text(encoding="utf-8")
+        m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+        if not m:
+            continue
+        fm = m.group(1)
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        mr = re.search(r'^resume: "(.*)"$', fm, re.M)
+        out[num] = mr.group(1) if (mr and mr.group(1).strip()) else resume_auto(txt[m.end():])
+    return out
+
+
+def _skills_dir() -> Path:
+    """Dossier skills/ : à côté de routage.py (pack) ou à la racine du dépôt."""
+    here = Path(__file__).resolve().parent
+    for cand in (here / "skills", here.parent / "skills"):
+        if cand.is_dir():
+            return cand
+    return here / "skills"
+
+
 def extraire_frontmatter(dossier_skills: Path):
     """Reconstruit sommaire/signaux/mot_cles/branches/noms_courts/cartes depuis
     skills/*.md (frontmatter YAML) — source de vérité autonome du canvas."""
@@ -5359,7 +5396,7 @@ def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
 def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) -> None:
     if from_skills:
         sommaire, signaux, mot_cles, branches, noms_courts, _, syns_par_num, cartes_brutes = \
-            extraire_frontmatter(Path(__file__).resolve().parent / "skills")
+            extraire_frontmatter(_skills_dir())
         # source unique des synonymes = SYNONYMES (embarquée dans routage.py, donc dans le pack)
         SYN_A_UTILISER = {n: [s for s, num in SYNONYMES if num == n] for n in set(num for _, num in SYNONYMES)}
         # si le canvas existe : noms + carte des domaines depuis le canvas (source de vérité)
@@ -5405,7 +5442,8 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             signal    TEXT NOT NULL DEFAULT '',
             mot_cle   TEXT NOT NULL DEFAULT '',
             branche   TEXT NOT NULL DEFAULT '',
-            nom_court TEXT NOT NULL DEFAULT ''
+            nom_court TEXT NOT NULL DEFAULT '',
+            resume    TEXT NOT NULL DEFAULT ''
         );
         CREATE TABLE domaines (
             domaine   TEXT PRIMARY KEY,
@@ -5522,14 +5560,19 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)",
                    (old_snapshot[0],))
     db.executemany("INSERT INTO domaines VALUES (?, ?)", cartes)
+    if from_skills:
+        resumes = lire_resumes(_skills_dir())
+    else:
+        resumes = {n: resume_auto(corps)
+                   for n, (_e, _nom, corps, _lbl) in _sections_multi(chemin).items()}
     for num in sorted(sommaire):
         nom, dom = sommaire[num]
         sig = signaux.get(num, "")
         mc = mot_cles.get(num, "")
         br = branches.get(num, "")
         nc = noms_courts.get(num, "")
-        db.execute("INSERT INTO skills VALUES (?,?,?,?,?,?,?)",
-                   (num, nom, dom, sig, mc, br, nc))
+        db.execute("INSERT INTO skills VALUES (?,?,?,?,?,?,?,?)",
+                   (num, nom, dom, sig, mc, br, nc, resumes.get(num, "")))
     # embeddings : séquentiel suffit à 1 351 skills (hash rapide) — le multiprocessing
     # (testé) coûte plus cher en spawn de workers qu'il ne gagne. À paralléliser > ~20 000 skills.
     if vec_ok:
@@ -5543,7 +5586,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         db.executemany("INSERT INTO skills_vec(num, embedding) VALUES (?,?)", vecs)
     connus = {n for (n,) in db.execute("SELECT num FROM skills")}
     if 0 not in connus:  # pack autonome : recréer la skill 0 (routeur)
-        db.execute("INSERT INTO skills VALUES (0, '🧭 Routeur de skills', 'Routage', '', '', '', '')")
+        db.execute("INSERT INTO skills VALUES (0, '🧭 Routeur de skills', 'Routage', '', '', '', '', '')")
         db.execute("INSERT INTO skills_fts VALUES (0, 'Routeur de skills', '', '', 'Routeur', 'Routage')")
         db.commit()
         connus = {n for (n,) in db.execute("SELECT num FROM skills")}
@@ -6858,6 +6901,7 @@ def cmd_lint() -> int:
     sk_dirs = [d for d in (here / "skills", here.parent / "skills") if d.is_dir()]
     for sk_dir in sk_dirs:
         n_da = 0
+        n_re = 0
         for f in sk_dir.glob("*.md"):
             fm = f.read_text(encoding="utf-8").split("---")[1]
             m = re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm, re.M)
@@ -6865,6 +6909,12 @@ def cmd_lint() -> int:
                 problemes.append(f"{f.name} : date_ajout absente ou invalide (YYYY-MM)")
             else:
                 n_da += 1
+            # R15 : resume présent dans le frontmatter (1-400 car. ; R14 couvre < >)
+            mr = re.search(r'^resume: "(.+)"$', fm, re.M)
+            if not mr or len(mr.group(1)) > 400:
+                problemes.append(f"{f.name} : resume absent ou invalide (1-400 car.)")
+            else:
+                n_re += 1
             # R13 : aucune année (20xx) dans le titre (nom / nom_court)
             for k in ("nom", "nom_court"):
                 mv = re.search(rf'^{k}: "(.*)"$', fm, re.M)
@@ -6874,6 +6924,7 @@ def cmd_lint() -> int:
             if re.search(r"[<>]", fm):
                 problemes.append(f"{f.name} : frontmatter contient < ou >")
         print(f"  date_ajout : {n_da} skills conformes (YYYY-MM) dans {sk_dir}")
+        print(f"  resume : {n_re} skills conformes (R15, 1-400 car.) dans {sk_dir}")
     # skills perso (mesSkillsPerso/) : date_ajout + pas de < > + au moins un mot_cle
     for pd in dossiers_perso():
         n_p = 0
@@ -6889,6 +6940,9 @@ def cmd_lint() -> int:
                 problemes.append(f"perso {f.name} : frontmatter contient < ou >")
             if not re.search(r'^mot_cle: ".+"$', fm, re.M):
                 problemes.append(f"perso {f.name} : mot_cle vide")
+            mr = re.search(r'^resume: "(.+)"$', fm, re.M)
+            if not mr or len(mr.group(1)) > 400:
+                problemes.append(f"perso {f.name} : resume absent ou invalide (1-400 car.)")
             n_p += 1
         print(f"  perso : {n_p} skill(s) dans {pd} (date_ajout + frontmatter contrôlés)")
     if DB_PATH.exists():
@@ -6959,6 +7013,13 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False)
     for syn, num in SYNONYMES:
         synonymes.setdefault(num, []).append(syn)
 
+    resumes: dict[int, str] = {}
+    for cand in (Path(canvas).resolve().parent.parent / "skills",
+                 Path(canvas).resolve().parent / "skills"):
+        if cand.is_dir():
+            resumes = lire_resumes(cand)
+            break
+
     skills = []
     for num in sorted(sections):
         emoji, nom, corps, fichier_section = sections[num]
@@ -6980,6 +7041,7 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False)
             "branche_arbre": branches.get(num),
             "cross_refs": refs,
             "synonymes": sorted(synonymes.get(num, [])),
+            "resume": resumes.get(num),
             "fichier": fichier_section,
         }
         if complet:

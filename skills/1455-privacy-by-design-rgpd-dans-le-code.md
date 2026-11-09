@@ -1,5 +1,6 @@
 ---
 num: 1455
+resume: "Appliquer le privacy by design (RGPD art. 25) en 2027 sur une feature : minimisation des données, finalité et base légale, rétention limitée, pseudonymisation, chiffrement, et droits des personnes (accès/effacement) en un clic. Étape 1 : Lister les données perso collectées et justifier chacune (minimisation)."
 date_ajout: "2026-11"
 nom: "Privacy by design : RGPD dans le code"
 emoji: "⚖️"

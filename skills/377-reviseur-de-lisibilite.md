@@ -1,5 +1,6 @@
 ---
 num: 377
+resume: "mesurer et améliorer la lisibilité d'un texte : niveau de lecture, longueur des phrases, jargon, structure des idées. Étape 1 : Identifier le public cible et son niveau de lecture attendu."
 date_ajout: "2026-11"
 nom: "Réviseur de lisibilité"
 emoji: "🤓"

@@ -1,5 +1,6 @@
 ---
 num: 594
+resume: "obtenir gain de cause dans un litige de consommation ou une petite créance : preuves, mise en demeure et procédure au moindre coût. Étape 1 : Rassembler les preuves et chiffrer précisément la demande."
 date_ajout: "2026-11"
 nom: "Guide des petites créances & recours consommateur"
 emoji: "⚖️"

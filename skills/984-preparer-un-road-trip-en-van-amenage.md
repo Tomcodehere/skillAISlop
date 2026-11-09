@@ -1,5 +1,6 @@
 ---
 num: 984
+resume: "préparer un road-trip en van aménagé en 2027 : louer ou acheter, itinéraire, aires (Park4Night), budget, assurance, papier du véhicule. Étape 1 : Clarifier « Préparer un road-trip en van aménagé 2027 »."
 date_ajout: "2026-11"
 nom: "Préparer un road-trip en van aménagé"
 emoji: "🚐"

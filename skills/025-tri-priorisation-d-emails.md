@@ -1,5 +1,6 @@
 ---
 num: 25
+resume: "désembrasser une boîte de réception : classer, prioriser et rédiger les brouillons de réponse. Étape 1 : Trier par émetteur, urgence perçue et engagement attendu."
 date_ajout: "2026-11"
 nom: "Tri & priorisation d'emails"
 emoji: "📥"

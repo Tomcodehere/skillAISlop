@@ -1,5 +1,6 @@
 ---
 num: 713
+resume: "instrumenter un agent IA : traces des appels LLM (tokens, latence, coût, erreurs), tableaux de bord et alertes. Étape 1 : Instrumenter chaque appel LLM : span OTel GenAI avec modèle, tokens, coût, latence, erreurs, outil appelé."
 date_ajout: "2026-11"
 nom: "Observabilité & traces d'agents (OpenTelemetry GenAI)"
 emoji: "📈"

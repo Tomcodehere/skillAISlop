@@ -1,5 +1,6 @@
 ---
 num: 1593
+resume: "Construire un vertical slice en 2027 : 1 niveau/zone complet et poli (graphismes, sons 1566, UI 1570, tutoriel 1572) montrant le loop final (jouer → combattre 1526 → récompense 1528 → progresser 1530), pour pitcher (1594) ou financer (1595). Étape 1 : Choisir la zone la plus représentative (mécaniques clés : déplacement 1511, combat 1526, récompense 1528)."
 date_ajout: "2026-11"
 nom: "Vertical slice : la tranche verticale de démonstration"
 emoji: "🥧"

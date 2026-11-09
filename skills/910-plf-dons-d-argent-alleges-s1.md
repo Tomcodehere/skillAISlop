@@ -1,5 +1,6 @@
 ---
 num: 910
+resume: "profiter de la fenêtre fiscale du PLF 2027 : dons d'argent du 1er janv. au 30 juin 2027 à un bénéficiaire « « Je veux donner 80 000 € à mon fils de 25 ans. Faut-il attendre le premier semestre 2027 ? » » Étape 1 : Clarifier « PLF 2027 : dons d'argent allégés S1 2027 »."
 date_ajout: "2026-11"
 nom: "PLF : dons d'argent allégés S1"
 emoji: "💸"

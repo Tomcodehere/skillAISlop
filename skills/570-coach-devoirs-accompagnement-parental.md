@@ -1,5 +1,6 @@
 ---
 num: 570
+resume: "accompagner les devoirs à la maison sans cris : cadre, méthode et le juste niveau d'aide parentale. Étape 1 : Installer le cadre : lieu, heure, durée, sans écran."
 date_ajout: "2026-11"
 nom: "Coach devoirs & accompagnement parental"
 emoji: "📓"

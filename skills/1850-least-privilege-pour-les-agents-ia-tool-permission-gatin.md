@@ -1,5 +1,6 @@
 ---
 num: 1850
+resume: "Appliquer le least-privilege aux agents IA : tools strictement nécessaires avec schémas d'args validés et scopes réduits, human-in-the-loop (1433) pour les actions à impact, sandboxing (1794), audit de chaque tool call (1765). Étape 1 : Inventaire des tools + usage réel (logs 1765) -supérieur à ne garder que les utilisés."
 date_ajout: "2026-11"
 nom: "Least-privilege pour les agents IA (tool-permission gating)"
 emoji: "🔒"

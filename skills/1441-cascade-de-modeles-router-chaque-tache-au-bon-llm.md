@@ -1,5 +1,6 @@
 ---
 num: 1441
+resume: "Mettre en place une cascade de modèles en 2027 : classifier la requête (règles ou SLM) et la router vers le petit modèle (rapide, pas cher) ou le grand (complexe), avec mesure du taux et du coût économisé. Étape 1 : Classifier les requêtes : simples (résumé court, traduction) vs complexes (raisonnement, code)."
 date_ajout: "2026-11"
 nom: "Cascade de modeles : router chaque tache au bon LLM"
 emoji: "🔀"

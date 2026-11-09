@@ -1,5 +1,6 @@
 ---
 num: 496
+resume: "installer la répétition espacée : contenu découpé en cartes, calendrier de révisions automatisé et routine quotidienne tenable. Étape 1 : Découper le contenu en cartes atomiques avec des questions précises."
 date_ajout: "2026-11"
 nom: "Planificateur de répétition espacée"
 emoji: "🔂"

@@ -1,5 +1,6 @@
 ---
 num: 1646
+resume: "Appliquer l'OWASP Top 10 2026 en 2027 : traiter le code généré par IA comme non fiable par défaut (92 % des devs en utilisent) → revue systématique (1401) + SAST en CI (1659) + secrets jamais en clair (306), et A03 supply chain renforcé (1645). Étape 1 : Marquer le code IA (généré par assistant) dans les PR → revue humaine obligatoire + SAST."
 date_ajout: "2026-11"
 nom: "OWASP Top 10 : nouveautés et code genere par IA"
 emoji: "📜"

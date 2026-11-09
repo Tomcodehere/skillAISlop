@@ -1,5 +1,6 @@
 ---
 num: 491
+resume: "constituer du vocabulaire utile par thème : listes de fréquence réelle, exemples en contexte et organisation mémorisable. Étape 1 : Sélectionner les mots par fréquence réelle dans le domaine visé."
 date_ajout: "2026-11"
 nom: "Curateur de vocabulaire thématique"
 emoji: "🍺"

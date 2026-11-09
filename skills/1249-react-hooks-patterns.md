@@ -1,5 +1,6 @@
 ---
 num: 1249
+resume: "Maîtriser React hooks (useState, useEffect, useContext, custom hooks, useCallback, useMemo) pour composants fonctionnels optimisés."
 date_ajout: "2026-11"
 nom: "React Hooks Patterns"
 emoji: "💻"

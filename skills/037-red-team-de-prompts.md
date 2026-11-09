@@ -1,5 +1,6 @@
 ---
 num: 37
+resume: "chercher activement les failles d'un prompt ou d'un système IA avant la mise en production : détournements, fuites, comportements indésirables. Étape 1 : Cartographier les actifs à protéger (instructions, données, comportements)."
 date_ajout: "2026-11"
 nom: "Red-team de prompts"
 emoji: "🛡️"

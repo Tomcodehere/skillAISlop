@@ -1,5 +1,6 @@
 ---
 num: 580
+resume: "préparer l'examen du code de la route : révision ciblée, séries de test et gestion du jour J. Étape 1 : Établir le diagnostic par thèmes et prioriser les familles ratées."
 date_ajout: "2026-11"
 nom: "Coach code de la route"
 emoji: "🚦"

@@ -1,5 +1,6 @@
 ---
 num: 81
+resume: "produire des composants d'interface réutilisables, accessibles et conformes au design system en place. Étape 1 : Recueillir le besoin : framework, design system, données du composant, états à couvrir."
 date_ajout: "2026-11"
 nom: "Générateur de composants UI"
 emoji: "🧱"

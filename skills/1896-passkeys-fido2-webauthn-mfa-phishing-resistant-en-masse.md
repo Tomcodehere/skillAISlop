@@ -1,5 +1,6 @@
 ---
 num: 1896
+resume: "Déployer les passkeys (FIDO2/WebAuthn) à l'échelle : obligatoires pour les admins et comptes sensibles (IdP Entra/Okta/Google, VPN), résistantes au phishing — remplacer SMS/TOTP phishables. Étape 1 : Activer passkeys chez l'IdP (Entra ID, Okta, Google Workspace)."
 date_ajout: "2026-11"
 nom: "Passkeys (FIDO2/WebAuthn) : MFA phishing-resistant en masse"
 emoji: "🔑"

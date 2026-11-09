@@ -1,5 +1,6 @@
 ---
 num: 1814
+resume: "Protéger les ressources critiques (BDD prod, buckets) avec prevent_destroy dynamique (variable par workspace : true en prod, false en dev, OpenTofu 1.12) et lifecycle enabled pour les ressources zero-or-one (1.11). Étape 1 : Variable protect : true dans le workspace prod, false en dev."
 date_ajout: "2026-11"
 nom: "OpenTofu : prevent_destroy dynamique et lifecycle enabled"
 emoji: "🛡️"

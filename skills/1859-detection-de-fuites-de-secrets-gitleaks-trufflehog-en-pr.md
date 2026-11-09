@@ -1,5 +1,6 @@
 ---
 num: 1859
+resume: "Détecter les fuites de secrets (clés cloud, tokens, clés privées) avec gitleaks/trufflehog en pre-commit (1403) et CI (scan historique 1413) — et en cas de fuite : révoquer (1855) + purger l'historique git. Étape 1 : Pre-commit : gitleaks protect --staged (bloque le commit si secret détecté)."
 date_ajout: "2026-11"
 nom: "Détection de fuites de secrets (gitleaks, trufflehog) en pre-commit et CI"
 emoji: "🕵️"

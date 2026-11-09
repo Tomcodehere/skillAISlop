@@ -1,5 +1,6 @@
 ---
 num: 1830
+resume: "Préparer la conformité SBOM du Cyber Resilience Act et des contrats clients : SBOM CycloneDX livré à chaque release, VEX (1826), attestations SSDF (CDXA 1825), processus VDP documenté. Étape 1 : À chaque release : livrer SBOM CycloneDX + SPDX + VEX + attestations CDXA signées (bundle vérifiable offline)."
 date_ajout: "2026-11"
 nom: "SBOM et conformité réglementaire (CRA, contrats clients)"
 emoji: "⚖️"

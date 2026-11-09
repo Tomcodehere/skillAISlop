@@ -1,5 +1,6 @@
 ---
 num: 1154
+resume: "Interroger l'utilisateur sans relâche sur chaque aspect d'un plan ou d'un design, jusqu'à atteindre une compréhension partagée, en descendant branche par branche l'arbre de décision et en résolvant les dépendances entre décisions une par une. Ce n'est Étape 1 : Identifier l'arbre de décision du plan/design soumis (les grandes branches et leurs dépendances)."
 date_ajout: "2026-11"
 nom: "Grill Me (Clarification Socratique)"
 emoji: "🎨"

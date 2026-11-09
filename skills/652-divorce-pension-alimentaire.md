@@ -1,5 +1,6 @@
 ---
 num: 652
+resume: "comprendre les étapes d'un divorce (consentement mutuel ou judiciaire), la garde des enfants et la pension alimentaire. Étape 1 : Choisir la procédure : consentement mutuel si accord, sinon JAF, avec avocat obligatoire pour le divorce judiciaire."
 date_ajout: "2026-11"
 nom: "Divorce & pension alimentaire"
 emoji: "💔"

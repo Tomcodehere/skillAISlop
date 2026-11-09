@@ -1,5 +1,6 @@
 ---
 num: 1355
+resume: "Concevoir un plan polyglotte realiste repartissant le temps entre 2 ou 3 langues etrangeres, avec des objectifs distincts par langue et des garde-fous contre le melange des langues. Étape 1 : Definir un objectif precis et un niveau cible par langue (CECRL)."
 date_ajout: "2026-11"
 nom: "Plan polyglotte : plusieurs langues en parallele"
 emoji: "🌍"

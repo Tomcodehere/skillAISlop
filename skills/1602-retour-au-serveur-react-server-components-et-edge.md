@@ -1,5 +1,6 @@
 ---
 num: 1602
+resume: "Réduire le JS envoyé au client en 2027 avec les React Server Components (logique/data côté serveur, streaming SSR avec Suspense) et déployer sur edge functions (latence inférieur à 50 ms) — le « retour au serveur ». Étape 1 : Passer les composants en Server Components par défaut (pas de 'use client'), ne garder client que l'interactivité (état, événements)."
 date_ajout: "2026-11"
 nom: "Retour au serveur : React Server Components et edge"
 emoji: "☁️"

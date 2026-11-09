@@ -1,5 +1,6 @@
 ---
 num: 1380
+resume: "Choisir et justifier un modele economique (SaaS, licence, usage, freemium, hybride) coherent avec le produit, le marche et la capacite financiere de l'entreprise en 2027. Étape 1 : Lister les modeles possibles pour ce produit et ce marche."
 date_ajout: "2026-11"
 nom: "Choisir son modele economique (SaaS, licence, usage)"
 emoji: "🏛"

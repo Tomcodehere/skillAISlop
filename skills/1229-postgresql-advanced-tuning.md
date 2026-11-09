@@ -1,5 +1,6 @@
 ---
 num: 1229
+resume: "Optimiser PostgreSQL sur les plans requetes, index, maintenance et configuration. Étape 1 : Diagnostiquer plans et stats runtime."
 date_ajout: "2026-11"
 nom: "PostgreSQL Advanced Tuning"
 emoji: "💻"

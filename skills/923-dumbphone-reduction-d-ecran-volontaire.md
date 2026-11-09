@@ -1,5 +1,6 @@
 ---
 num: 923
+resume: "réduire son temps d'écran volontairement en 2027 avec un dumbphone (téléphone basique) ou un smartphone bridé : appels/SMS, peu ou pas d'apps. Étape 1 : Mesurer le temps d'écran actuel ; choisir un palier : bridé / dumbphone partiel / dumbphone."
 date_ajout: "2026-11"
 nom: "Dumbphone & réduction d'écran volontaire"
 emoji: "📵"

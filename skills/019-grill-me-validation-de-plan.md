@@ -1,5 +1,6 @@
 ---
 num: 19
+resume: "stress-tester un plan, une architecture ou une décision en interviewant l'utilisateur jusqu'à compréhension partagée, avant toute exécution. Étape 1 : Recevoir le plan et identifier les branches de décision (incertitudes, angles morts)."
 date_ajout: "2026-11"
 nom: "Grill Me (validation de plan)"
 emoji: "🔥"

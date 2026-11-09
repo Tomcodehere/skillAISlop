@@ -12,6 +12,7 @@
 - corps **< 500 lignes**, références à **1 niveau max** de profondeur
 - `metadata.version` par skill ; statut déprécié possible dans `signal`
 - **`date_ajout` obligatoire** : `Date d'ajout : 2026-11` au format **YYYY-MM**, ajoutée **automatiquement** à la création de la skill (ex. `date_ajout: "2026-11"`)
+- **`resume` obligatoire (R15)** : condensé 2-3 lignes (Objectif + étape 1 de la Méthode), **≤ 400 caractères**, sert l'index condensé machine (`catalogue-condensed.json`) — dérivé automatiquement par `outils/backfill_resume.py` si absent
 - **pas d'année (20xx) dans le titre** (`nom` / `nom_court`) : ex. « Bilan de fin d'année (tous domaines) », jamais « … (2027) » — l'année va dans `signal`/corps, pas dans le titre (vérifié par `lint`, R13)
 - champs optionnels : `allowed-tools`, `disable-model-invocation`, `evals`
 
@@ -21,6 +22,7 @@
 ---
 num: NNN
 date_ajout: "2026-11"
+resume: "Condensé 2-3 lignes de la skill (Objectif + étape 1) — ≤ 400 car., sert l'index condensé machine"
 nom: "Nom de la skill"
 emoji: "🎯"
 domaine: "Domaine"

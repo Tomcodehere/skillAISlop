@@ -1,5 +1,6 @@
 ---
 num: 1366
+resume: "Appliquer DACI ou RACI pour rendre une decision d'equipe fluide : un Driver qui mene, un Approver unique qui tranche, des Contributors consultes, des Informed tenus au courant. Étape 1 : Lister la decision et les parties prenantes."
 date_ajout: "2026-11"
 nom: "Decider en equipe : DACI et RACI appliques"
 emoji: "👥"

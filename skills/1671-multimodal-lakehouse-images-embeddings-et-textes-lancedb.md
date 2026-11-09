@@ -1,5 +1,6 @@
 ---
 num: 1671
+resume: "Stocker et requêter des données multimodales en 2027 (images + embeddings + texte) dans un lakehouse : LanceDB (format Lance columnnaire vectoriel) ou Iceberg (1662) + colonnes vectorielles, pour la recherche hybride image+texte (1477). Étape 1 : Extraire les features : image → embedding CLIP (1607, on-device possible), texte → embedding (1443), stocker + métadonnées (prix, catégorie)."
 date_ajout: "2026-11"
 nom: "Multimodal lakehouse : images, embeddings et textes (LanceDB)"
 emoji: "🖼️"

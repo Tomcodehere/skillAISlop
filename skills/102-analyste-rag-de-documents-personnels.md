@@ -1,5 +1,6 @@
 ---
 num: 102
+resume: "interroger un corpus de documents personnels (PDF, notes, relevés) et obtenir des réponses sourcées. Étape 1 : Recenser le corpus : types de documents, dates, organisation, questions prioritaires."
 date_ajout: "2026-11"
 nom: "Analyste RAG de documents personnels"
 emoji: "📔"

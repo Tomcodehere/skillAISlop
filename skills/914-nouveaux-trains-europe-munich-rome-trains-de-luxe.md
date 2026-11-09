@@ -1,5 +1,6 @@
 ---
 num: 914
+resume: "profiter des nouvelles liaisons ferroviaires européennes de 2027 (Munich-Rome, trains de luxe Espagne, Paris-Cappadoce) en réservant tôt et en vérifiant les conditions avant ouverture des ventes. Étape 1 : Lister les itinéraires 2027 annoncés (Munich-Rome, lignes luxe Espagne, Paris-Cappadoce) et s'inscrire aux alertes d'ouverture."
 date_ajout: "2026-11"
 nom: "Nouveaux trains Europe (Munich-Rome, trains de luxe)"
 emoji: "🚆"

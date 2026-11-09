@@ -1,5 +1,6 @@
 ---
 num: 252
+resume: "écrire des scénarios de tests end-to-end pilotant une application web dans un vrai navigateur (Playwright), reproductibles en CI. Étape 1 : Identifier les parcours critiques de l'application et leurs critères de succès."
 date_ajout: "2026-11"
 nom: "Testeur E2E navigateur"
 emoji: "🖱️"

@@ -1,5 +1,6 @@
 ---
 num: 271
+resume: "préparer la conformité d'un système IA au règlement européen : classification des risques, obligations correspondantes et preuves à réunir. Étape 1 : Inventorier les usages d'IA et classer chacun avec le critère de risque cité."
 date_ajout: "2026-11"
 nom: "Préparateur de conformité AI Act"
 emoji: "🔏"

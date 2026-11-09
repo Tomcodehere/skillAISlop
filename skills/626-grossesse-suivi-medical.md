@@ -1,5 +1,6 @@
 ---
 num: 626
+resume: "organiser le suivi de grossesse factuel et préparer l'accouchement et le post-partum. Étape 1 : Situer la grossesse : terme, suivi en cours, interlocuteurs médicaux, questions prioritaires."
 date_ajout: "2026-11"
 nom: "Grossesse & suivi médical"
 emoji: "🤰"

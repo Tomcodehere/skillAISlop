@@ -1,5 +1,6 @@
 ---
 num: 775
+resume: "rédiger un business plan solide : marché, offre, modèle économique, prévisionnel 3 ans, besoins de financement. Étape 1 : Structurer : résumé, marché sourcé, offre, modèle éco, prévisionnel 3 scénarios, besoins et équipe."
 date_ajout: "2026-11"
 nom: "Business plan & prévisionnel financier"
 emoji: "📊"

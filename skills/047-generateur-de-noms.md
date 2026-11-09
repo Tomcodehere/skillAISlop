@@ -1,5 +1,6 @@
 ---
 num: 47
+resume: "trouver des noms de marque, produit ou projet : mémorisables, prononçables, distinctifs. Étape 1 : Cadrer le brief de naming avec positionnement et interdits."
 date_ajout: "2026-11"
 nom: "Générateur de noms"
 emoji: "🏷️"

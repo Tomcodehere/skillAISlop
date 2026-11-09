@@ -1,5 +1,6 @@
 ---
 num: 146
+resume: "transformer un script en storyboard complet : plans, cadrages, mouvements, intentions. Étape 1 : Analyser le script : séquences, rythme, points d'attention émotionnels."
 date_ajout: "2026-11"
 nom: "Storyboarder"
 emoji: "🎦"

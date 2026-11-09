@@ -1,5 +1,6 @@
 ---
 num: 1163
+resume: "Concevoir une étude qualitative accessible pour examiner une hypothèse cognitive sans inférer de diagnostic. Étape 1 : Cadrer les inputs : question ux, publics volontaires, modalités de consentement, contraintes sensorielles ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Inclusive Research Protocol"
 emoji: "🎨"

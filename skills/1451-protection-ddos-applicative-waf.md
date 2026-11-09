@@ -1,5 +1,6 @@
 ---
 num: 1451
+resume: "Protéger une app web des attaques DDoS de couche 7 en 2027 avec un WAF (Cloudflare/AWS WAF) : règles managées à jour, rate limiting par endpoint, blocage de bots, challenge JS, et alertes sur les pics. Étape 1 : Mettre le WAF en mode 'log' d'abord (observer 48 h, éviter les faux positifs)."
 date_ajout: "2026-11"
 nom: "Protection DDoS applicative (WAF)"
 emoji: "🛡"

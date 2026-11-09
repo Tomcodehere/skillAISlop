@@ -1,5 +1,6 @@
 ---
 num: 188
+resume: "transformer des notes d'interviews dispersées en insights solides : thèmes, fréquence, verbatims, décisions. Étape 1 : Collecter et normaliser les notes d'interviews (verbatim, contexte, intervieweur)."
 date_ajout: "2026-11"
 nom: "Synthétiseur de recherche utilisateur"
 emoji: "🧿"

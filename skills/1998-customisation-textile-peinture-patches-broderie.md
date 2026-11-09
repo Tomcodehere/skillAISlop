@@ -1,5 +1,6 @@
 ---
 num: 1998
+resume: "Un vêtement customisé unique (peinture, patch ou broderie), lavable. Étape 1 : Laver le vêtement, protéger l'intérieur (carton entre les couches)."
 date_ajout: "2026-11"
 nom: "Customisation textile (peinture, patches, broderie)"
 emoji: "👕"

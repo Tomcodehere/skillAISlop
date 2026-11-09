@@ -1,5 +1,6 @@
 ---
 num: 1055
+resume: "Modéliser processus métier en BPMN 2.0 (Business Process Model and Notation) pour analyse, optimisation et communication stakeholders. Étape 1 : Interviews stakeholders (identifier activités, décisions, acteurs)."
 date_ajout: "2026-11"
 nom: "BPMN Process Modeling"
 emoji: "🧠"

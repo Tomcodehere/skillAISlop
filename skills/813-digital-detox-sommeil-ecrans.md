@@ -1,5 +1,6 @@
 ---
 num: 813
+resume: "réduire le temps d'écran et protéger son sommeil avec des routines factuelles (digital sunset, zones sans téléphone), sans culpabilisation. Étape 1 : Mesurer le temps d'écran actuel (hebdo, par app) pour poser un objectif réaliste (−20 % d'abord)."
 date_ajout: "2026-11"
 nom: "Digital detox & sommeil-écrans"
 emoji: "🌙"

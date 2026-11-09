@@ -1,5 +1,6 @@
 ---
 num: 1856
+resume: "Committer des secrets chiffrés dans Git (GitOps) avec Sealed Secrets : kubeseal chiffre avec la clé publique du cluster, le controller déchiffre in-cluster — clé privée à backuper impérativement. Étape 1 : Installer le controller (helm) ; récupérer la clé publique : kubeseal --fetch-cert supérieur à pub.pem."
 date_ajout: "2026-11"
 nom: "Sealed Secrets (Bitnami) : secrets chiffrés dans Git (GitOps)"
 emoji: "🏗️"

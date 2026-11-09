@@ -1,5 +1,6 @@
 ---
 num: 1113
+resume: "Extraire des données depuis des sites dont le contenu est généré ou chargé dynamiquement via JavaScript (SPA, infinite scroll, contenu post-XHR), en pilotant un navigateur headless (Playwright ou Selenium). Étape 1 : Confirmer le besoin de rendu JS (inspecter le DOM après chargement vs HTML brut)."
 date_ajout: "2026-11"
 nom: "Dynamic Web Scraping (Playwright/Selenium)"
 emoji: "💻"

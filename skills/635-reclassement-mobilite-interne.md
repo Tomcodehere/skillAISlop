@@ -1,5 +1,6 @@
 ---
 num: 635
+resume: "organiser une mobilité interne ou un reclassement : bilan de compétences, postes ouverts, négociation avec le manager. Étape 1 : Faire le bilan : compétences acquises, envies, contraintes (mobilité géographique, salaire)."
 date_ajout: "2026-11"
 nom: "Reclassement & mobilité interne"
 emoji: "🔄"

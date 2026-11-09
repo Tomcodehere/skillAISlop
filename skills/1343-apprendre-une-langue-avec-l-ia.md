@@ -1,5 +1,6 @@
 ---
 num: 1343
+resume: "apprendre une langue étrangère en 2027 avec 15 min/jour de conversation vocale avec l'IA : correction immédiate, vocabulaire utile, préparation examen. Étape 1 : 15 min/jour de conversation vocale avec correction immédiate (prononciation + grammaire)."
 date_ajout: "2026-11"
 nom: "Apprendre une langue avec l'IA"
 emoji: "🗣️"

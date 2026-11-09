@@ -1,5 +1,6 @@
 ---
 num: 1661
+resume: "Utiliser MotherDuck en 2027 : DuckDB (1660) hybride local/cloud, catalogues partagés en équipe, sans gérer d'infrastructure — pour l'analytics collaborative sur des datasets moyens. Étape 1 : Créer un compte MotherDuck, générer un token, attacher : ATTACH 'md:mydb' (token)."
 date_ajout: "2026-11"
 nom: "MotherDuck : DuckDB dans le cloud hybride"
 emoji: "☁️"

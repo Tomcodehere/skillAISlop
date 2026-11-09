@@ -1,5 +1,6 @@
 ---
 num: 1705
+resume: "Écrire des policies as code en 2027 sur k8s avec Kyverno (YAML, simple) ou OPA/Gatekeeper (Rego, puissant) : imposer resource limits, readOnlyRootFilesystem, images signées (1457), interdire les privilèges — en mode warn d'abord, puis enforce, avec audit des violations. Étape 1 : Choisir : Kyverno (YAML natif, facile, bon pour 90 % des cas) ou OPA/Gatekeeper (Rego, pour logique complexe)."
 date_ajout: "2026-11"
 nom: "Kyverno / OPA : policies as code sur Kubernetes"
 emoji: "🛡"

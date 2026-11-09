@@ -1,5 +1,6 @@
 ---
 num: 246
+resume: "organiser ses comptes et données pour sa succession numérique : inventaire, accès, volontés, consignes pour les proches. Étape 1 : Construire l'inventaire des actifs numériques et des volontés par type."
 date_ajout: "2026-11"
 nom: "Gestionnaire de succession numérique"
 emoji: "🪦"

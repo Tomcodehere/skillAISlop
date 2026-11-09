@@ -1,5 +1,6 @@
 ---
 num: 743
+resume: "conclure proprement une négociation : résumer l'accord, réduire la friction, et obtenir un oui ou un prochain pas daté. Étape 1 : Résumer l'accord point par point et vérifier qu'il répond bien au besoin exprimé en début d'appel."
 date_ajout: "2026-11"
 nom: "Closing & passage à l'action"
 emoji: "🤝"

@@ -1,5 +1,6 @@
 ---
 num: 1122
+resume: "Contrôler qu'un compte rendu généraliste ne dépasse pas les résultats effectivement fournis. Étape 1 : Cadrer les inputs : rapport, résultats d'outils autorisés et critères de réussite ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Evidence-Claim Reconciliation"
 emoji: "🔬"

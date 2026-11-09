@@ -1,5 +1,6 @@
 ---
 num: 710
+resume: "rédiger un rapport hebdomadaire d'activité utile : avancées concrètes, métriques, problèmes rencontrés, priorités de la semaine prochaine. Étape 1 : Lister les réalisations de la semaine avec preuves (livrables, métriques, commits, tickets)."
 date_ajout: "2026-11"
 nom: "Rapport hebdomadaire d'activité"
 emoji: "📊"

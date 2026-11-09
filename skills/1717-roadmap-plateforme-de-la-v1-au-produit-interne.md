@@ -1,5 +1,6 @@
 ---
 num: 1717
+resume: "Construire la roadmap d'une plateforme interne en 2027 par trimestres : v1 = catalogue + 1 golden path (3 mois), v2 = self-service (1703) + scorecards (1711), v3 = IA-assisté (1708) + multi-cluster (1716) — avec DORA (1706), adoption % et NPS interne à chaque version. Étape 1 : V1 (mois 1-3) : portail Backstage (1702) + catalogue auto + 1 golden path (le plus demandé, 1701). Métriques : adoption %"
 date_ajout: "2026-11"
 nom: "Roadmap plateforme : de la v1 au produit interne"
 emoji: "🗺️"

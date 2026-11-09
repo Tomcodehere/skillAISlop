@@ -1,5 +1,6 @@
 ---
 num: 693
+resume: "mettre en place une évaluation reproductible de la qualité d'un agent ou d'un prompt avant et après chaque changement. Étape 1 : Construire le jeu de test : cas représentatifs + cas limites + échecs passés, avec attentes ou critères de réussite clairs."
 date_ajout: "2026-11"
 nom: "Évaluation de la qualité d'un agent IA"
 emoji: "✅"

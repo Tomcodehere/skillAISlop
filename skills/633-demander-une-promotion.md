@@ -1,5 +1,6 @@
 ---
 num: 633
+resume: "construire une demande de promotion ou d'évolution de poste argumentée et la présenter au bon moment. Étape 1 : Cadrer la cible : poste visé, écart de compétences, mentors internes, calendrier réaliste."
 date_ajout: "2026-11"
 nom: "Demander une promotion"
 emoji: "📈"

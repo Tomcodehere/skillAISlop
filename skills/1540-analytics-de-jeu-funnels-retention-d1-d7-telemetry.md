@@ -1,5 +1,6 @@
 ---
 num: 1540
+resume: "Mettre en place la télémétrie d'un jeu en 2027 (avec consentement RGPD) : événements custom (level_start, boss_kill, achat), funnels de tutoriel (1572), rétention D1/D7/D30, dashboards, pour décider data-driven (1481). Étape 1 : Lister les événements critiques : tutorial_step(n), level_start/end, boss_kill, purchase, crash, session_start."
 date_ajout: "2026-11"
 nom: "Analytics de jeu : funnels, rétention D1/D7, telemetry"
 emoji: "📊"

@@ -1,5 +1,6 @@
 ---
 num: 996
+resume: "organiser un séminaire d'entreprise en 2027 : lieu, budget, programme (travail + cohésion), logistique, RSE (transport bas carbone), évaluation. Étape 1 : Objectif clair + budget 200-500 €/pers/j ; lieu accessible en train (RSE), salles + hébergement."
 date_ajout: "2026-11"
 nom: "Organiser un séminaire d'entreprise"
 emoji: "🏢"

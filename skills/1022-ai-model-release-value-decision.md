@@ -1,5 +1,6 @@
 ---
 num: 1022
+resume: "Éclairer le go/no-go produit d'une nouvelle version de modèle selon sa valeur d'usage. Étape 1 : Cadrer les inputs : objectifs produit, évaluation modèle, coûts, risques et feedback ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "AI Model Release Value Decision"
 emoji: "💻"

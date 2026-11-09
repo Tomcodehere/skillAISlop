@@ -1,5 +1,6 @@
 ---
 num: 1749
+resume: "Définir la frontière IA/humain en 2027 (vibe coding responsable) : l'IA gère boilerplate, tests (1747), doc (1746), migrations (1737) ; l'humain garde l'architecture (88), la sécurité critique (1646), la revue (1401), la responsabilité — et tout code IA est relu+testé+SAST (1401/1747/1658). Étape 1 : IA fait : boilerplate, CRUD, tests (1747), doc (1746), migrations mécaniques (1737), POC (1745) — "
 date_ajout: "2026-11"
 nom: "Vibe coding responsable : quand l'IA code, quand l'humain code"
 emoji: "⚖️"

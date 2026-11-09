@@ -1,5 +1,6 @@
 ---
 num: 213
+resume: "transformer un contenu d'apprentissage en jeu de flashcards efficace selon les principes de la répétition espacée. Étape 1 : Analyser le contenu source et extraire les points atomiques mémorisables."
 date_ajout: "2026-11"
 nom: "Générateur de flashcards"
 emoji: "🎴"

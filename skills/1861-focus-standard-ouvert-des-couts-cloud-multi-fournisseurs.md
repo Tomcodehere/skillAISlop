@@ -1,5 +1,6 @@
 ---
 num: 1861
+resume: "Adopter FOCUS (standard FinOps Foundation) pour normaliser les coûts cloud multi-fournisseurs (65 colonnes, EffectiveCost vs BilledCost) via les exports natifs AWS/Azure/GCP — une requête SQL uniforme. Étape 1 : Activer les exports FOCUS natifs : AWS Data Exports, Azure Cost Management FOCUS dataset, GCP BigQuery view/export, OCI."
 date_ajout: "2026-11"
 nom: "FOCUS : standard ouvert des coûts cloud multi-fournisseurs"
 emoji: "💰"

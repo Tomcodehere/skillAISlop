@@ -1,5 +1,6 @@
 ---
 num: 495
+resume: "mémoriser durablement : techniques adaptées au type de contenu, palais de mémoire et images frappantes, vérification par rappel. Étape 1 : Choisir la technique adaptée au type de contenu à retenir."
 date_ajout: "2026-11"
 nom: "Atelier de mémorisation & mnémotechnie"
 emoji: "🗿"

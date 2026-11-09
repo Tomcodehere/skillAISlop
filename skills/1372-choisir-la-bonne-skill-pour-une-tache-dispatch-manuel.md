@@ -1,5 +1,6 @@
 ---
 num: 1372
+resume: "Trouver manuellement la bonne skill pour une tache quand le routeur automatique ne convient pas : carte des domaines, signaux, hors perimetre, cross-refs, et verification par une requete test. Étape 1 : Identifier le domaine dominant de la demande (carte des domaines)."
 date_ajout: "2026-11"
 nom: "Choisir la bonne skill pour une tache (dispatch manuel)"
 emoji: "🧭"

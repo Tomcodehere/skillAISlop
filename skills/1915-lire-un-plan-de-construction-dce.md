@@ -1,5 +1,6 @@
 ---
 num: 1915
+resume: "Extraire d'un DCE toutes les informations nécessaires au métré et à l'exécution. Étape 1 : Lire le cartouche (échelle, indice, date) et la légende des symboles."
 date_ajout: "2026-11"
 nom: "Lire un plan de construction (DCE)"
 emoji: "📐"

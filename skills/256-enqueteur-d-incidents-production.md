@@ -1,5 +1,6 @@
 ---
 num: 256
+resume: "diagnostiquer un incident de production à partir des logs, métriques et traces pour identifier la cause première sous pression temporelle. Étape 1 : Établir la timeline de l'incident et le premier écart mesurable."
 date_ajout: "2026-11"
 nom: "Enquêteur d'incidents production"
 emoji: "🚑"

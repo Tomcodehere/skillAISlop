@@ -1,5 +1,6 @@
 ---
 num: 673
+resume: "donner à un élève une méthodologie de travail efficace : organisation, fiches, révisions actives, gestion du stress des examens. Étape 1 : Organiser : cartable, cahier de textes, emploi du temps réaliste avec pauses."
 date_ajout: "2026-11"
 nom: "Aide aux devoirs & méthodologie"
 emoji: "📚"

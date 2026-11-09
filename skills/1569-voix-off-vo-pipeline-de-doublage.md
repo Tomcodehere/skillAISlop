@@ -1,5 +1,6 @@
 ---
 num: 1569
+resume: "Organiser la VO d'un jeu en 2027 : lignes scriptées avec IDs (vo_quest01_03) + texte pour les sous-titres (1533), fichiers studio (ou TTS IA de secours marqué), intégration FMOD (1566) avec ducking musique, sous-titres synchronisés, durée max par bulle. Étape 1 : Exporter le script en CSV (id, personnage, texte, contexte, durée max) pour le studio."
 date_ajout: "2026-11"
 nom: "Voix off (VO) : pipeline de doublage"
 emoji: "🎤"

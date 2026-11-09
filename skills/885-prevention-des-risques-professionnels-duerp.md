@@ -1,5 +1,6 @@
 ---
 num: 885
+resume: "tenir à jour le DUERP (document unique d'évaluation des risques) : inventaire des risques, évaluation, plan d'actions, mise à jour annuelle. Étape 1 : Inventorier les risques par unité de travail + évaluer probabilité × gravité (matrice 5x5)."
 date_ajout: "2026-11"
 nom: "Prévention des risques professionnels (DUERP)"
 emoji: "⚠️"

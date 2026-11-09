@@ -1,5 +1,6 @@
 ---
 num: 528
+resume: "établir un plan de rétablissement face à des crédits qui s'accumulent : état des lieux, priorités et démarches, sans jugement. Étape 1 : Établir l'état des lieux complet des dettes et charges."
 date_ajout: "2026-11"
 nom: "Coach surendettement"
 emoji: "💸"

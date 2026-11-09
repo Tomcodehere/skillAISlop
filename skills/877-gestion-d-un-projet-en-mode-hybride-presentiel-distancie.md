@@ -1,5 +1,6 @@
 ---
 num: 877
+resume: "faire fonctionner un projet avec une équipe mixte présentiel/distanciel sans que les distants soient des citoyens de seconde zone. Étape 1 : Règles écrites : réunions obligatoires en présentiel (lancement, rétros, décisions), le reste en visio ; facilitateur dédié distants."
 date_ajout: "2026-11"
 nom: "Gestion d'un projet en mode hybride (présentiel/distanciel)"
 emoji: "🌐"

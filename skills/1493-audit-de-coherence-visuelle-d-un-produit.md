@@ -1,5 +1,6 @@
 ---
 num: 1493
+resume: "Auditer la cohérence visuelle d'un produit en 2027 : inventorier les variantes réelles de chaque composant (boutons, couleurs, typos, espacements) vs le design system, lister les écarts, et planifier la convergence. Étape 1 : Capturer 20 écrans représentatifs du produit en prod."
 date_ajout: "2026-11"
 nom: "Audit de coherence visuelle d'un produit"
 emoji: "🔍"

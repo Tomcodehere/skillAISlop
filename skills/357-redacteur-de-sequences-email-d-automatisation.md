@@ -1,5 +1,6 @@
 ---
 num: 357
+resume: "concevoir une séquence d'emails automatisée : déclencheurs, étapes, objectifs de conversion et messages cohérents d'une étape à l'autre. Étape 1 : Définir le scénario : déclencheurs, étapes, branchements, sorties."
 date_ajout: "2026-11"
 nom: "Rédacteur de séquences email d'automatisation"
 emoji: "💌"

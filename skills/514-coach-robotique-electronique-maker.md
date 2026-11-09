@@ -1,5 +1,6 @@
 ---
 num: 514
+resume: "guider les premiers projets de robotique et d'objets connectés (Arduino, Raspberry Pi, capteurs) jusqu'au premier prototype fonctionnel. Étape 1 : Définir le projet, le budget et la liste de composants."
 date_ajout: "2026-11"
 nom: "Coach robotique & électronique maker"
 emoji: "🤖"

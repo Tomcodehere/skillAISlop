@@ -1,5 +1,6 @@
 ---
 num: 595
+resume: "comprendre et agir dans sa copropriété : charges vérifiées, assemblées utiles, travaux arbités et syndic contrôlé. Étape 1 : Comprendre la répartition et obtenir les documents clés."
 date_ajout: "2026-11"
 nom: "Conseiller copropriété"
 emoji: "🏢"

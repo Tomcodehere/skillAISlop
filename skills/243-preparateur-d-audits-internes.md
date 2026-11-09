@@ -1,5 +1,6 @@
 ---
 num: 243
+resume: "préparer une organisation à un audit (interne, client ou certificateur) : périmètre, preuves, écarts, plan de remédiation. Étape 1 : Définir le référentiel, le périmètre et la grille d'exigences de l'audit."
 date_ajout: "2026-11"
 nom: "Préparateur d'audits internes"
 emoji: "🪃"

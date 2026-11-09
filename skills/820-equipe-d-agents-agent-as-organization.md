@@ -1,5 +1,6 @@
 ---
 num: 820
+resume: "organiser plusieurs agents spécialisés qui se coordonnent comme une équipe (rôles, handoffs, revue) plutôt qu'un seul agent généraliste. Étape 1 : Définir les rôles et handoffs : qui produit quoi, dans quel format, qui valide."
 date_ajout: "2026-11"
 nom: "Équipe d'agents (« agent-as-organization »)"
 emoji: "🏢"

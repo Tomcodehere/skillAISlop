@@ -1,5 +1,6 @@
 ---
 num: 656
+resume: "préparer un voyage de A à Z : documents, itinéraire, hébergements, budget et check-list bagages. Étape 1 : Vérifier les documents : passeport/visa selon la destination, vaccins, assurance, permis de conduire international."
 date_ajout: "2026-11"
 nom: "Préparation d'un voyage"
 emoji: "✈️"

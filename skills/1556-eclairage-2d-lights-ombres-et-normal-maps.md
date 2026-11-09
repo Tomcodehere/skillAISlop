@@ -1,5 +1,6 @@
 ---
 num: 1556
+resume: "Ajouter de l'éclairage 2D en 2027 : points de lumière (torches, joueur), occluders (murs qui font ombre, via light occluder ou raycast 1524), normal maps 2D pour le relief, mode de blend additif, perf sur mobile (limite de lights). Étape 1 : Ajouter les PointLight2D : torches (orange, flicker), joueur (petit halo), explosions (flash bref + gros rayon)."
 date_ajout: "2026-11"
 nom: "Eclairage 2D : lights, ombres et normal maps"
 emoji: "💡"

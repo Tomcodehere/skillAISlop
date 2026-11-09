@@ -1,5 +1,6 @@
 ---
 num: 1070
+resume: "Traduire les responsabilités cloud en exigences d'accès minimales et vérifiables. Étape 1 : Cadrer les inputs : acteurs, actions autorisées, ressources et périmètres d'administration ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Cloud IAM Responsibility Blueprint"
 emoji: "🎨"

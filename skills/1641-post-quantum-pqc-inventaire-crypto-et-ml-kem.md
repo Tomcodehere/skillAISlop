@@ -1,5 +1,6 @@
 ---
 num: 1641
+resume: "Démarrer la migration post-quantique en 2027 : inventaire crypto (CBOM : algorithmes, clés, certificats, où), NIST ML-KEM (standard), hybrid TLS X25519MLKEM en test, plan de dépréciation RSA-2048/ECC-256 (interdits après 2035), conformité ANSSI (PQC obligatoire dès 2027). Étape 1 : Inventaire CBOM : scanner TLS (endpoints, algos), certificats (PKI), clés (HSM/vault), chiffrement au repos (BDD, bac"
 date_ajout: "2026-11"
 nom: "Post-quantum (PQC) : inventaire crypto et ML-KEM"
 emoji: "🔐"

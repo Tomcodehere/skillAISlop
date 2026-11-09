@@ -1,5 +1,6 @@
 ---
 num: 1640
+resume: "Sécuriser un agent IA en production en 2027 : contrer l'injection indirecte (contenu web lu par l'agent 818), l'exfiltration via tools (fichiers/email), la mémoire empoisonnée (1637), le dépassement de privilèges — avec sandbox (1475), scopes, HITL (1433). Étape 1 : Injection indirecte : le contenu web/mail lu par l'agent est traité comme données, jamais comme instructions (séparer data/prompt, 81"
 date_ajout: "2026-11"
 nom: "Securite des agents IA en production : menaces (injection, exfiltration)"
 emoji: "🛡"

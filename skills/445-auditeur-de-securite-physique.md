@@ -1,5 +1,6 @@
 ---
 num: 445
+resume: "auditer la sécurité physique des locaux : contrôle des accès, zones sensibles, réception des visiteurs et écarts constatés avec priorités. Étape 1 : Observer les flux réels : accès, visiteurs, livraisons, heures creuses."
 date_ajout: "2026-11"
 nom: "Auditeur de sécurité physique"
 emoji: "🪬"

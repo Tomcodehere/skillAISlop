@@ -1,5 +1,6 @@
 ---
 num: 1721
+resume: "Déployer Cilium en 2027 comme CNI k8s (64 % des clusters en 2026) : dataplane eBPF (remplace kube-proxy, +30-40 % de débit), NetworkPolicy L3-L7, mTLS auto, Hubble (observabilité des flux), service mesh sans sidecar (-50 % de ressources). Étape 1 : Vérifier kernel 5.8+ sur tous les nœuds (1720). Nouveaux clusters : Cilium direct. Existants : plan de migration documenté (heures creuses)."
 date_ajout: "2026-11"
 nom: "Cilium : networking, sécurité et observabilité eBPF sur k8s"
 emoji: "🌐"

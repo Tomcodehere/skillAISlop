@@ -1,5 +1,6 @@
 ---
 num: 54
+resume: "écrire des séquences de prospection à froid qui obtiennent des réponses : email, LinkedIn, appel. Étape 1 : Clarifier l'offre, la cible (persona via la skill 33) et le déclencheur de personnalisation."
 date_ajout: "2026-11"
 nom: "Prospection à froid (cold outreach)"
 emoji: "📞"

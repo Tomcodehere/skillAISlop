@@ -1,5 +1,6 @@
 ---
 num: 1238
+resume: "Produire un livrable maîtrisé : courbes d'XP et de niveaux, tables de loot avec taux de drop, prix des objets et recettes de crafting, équilibrés et vérifiés par simulation. Étape 1 : Cadrer les inputs : durée visée, rythme de jeu, catalogue d'objets, prix d'ancrage ; vérifier le statut (observé, simulé, supposé) de chaque paramètre."
 date_ajout: "2026-11"
 nom: "Progression & Loot Table Balancing"
 emoji: "🎨"

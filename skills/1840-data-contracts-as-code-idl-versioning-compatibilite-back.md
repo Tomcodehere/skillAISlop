@@ -1,5 +1,6 @@
 ---
 num: 1840
+resume: "Gérer les data contracts as code : IDL (Protobuf/Avro/Smithy/dbt schema.yml), versioning sémantique, compatibilité backward validée en CI (breaking change = v3 majeur). Étape 1 : Choisir l'IDL : Protobuf (perf, binaire), Avro (schema evolutif natif), Smithy/OpenDataMesh (data contracts), dbt schema.yml (tables)."
 date_ajout: "2026-11"
 nom: "Data contracts as code : IDL, versioning, compatibilité backward"
 emoji: "🧬"

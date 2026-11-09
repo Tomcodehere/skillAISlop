@@ -1,5 +1,6 @@
 ---
 num: 750
+resume: "rédiger ou relire un contrat commercial clair : objet, prix, délais, responsabilités, pénalités, résiliation. Étape 1 : Structurer : parties, objet, prix/paiement, délais, responsabilités, confidentialité, résiliation, loi applicable."
 date_ajout: "2026-11"
 nom: "Contrats commerciaux & CGV clairs"
 emoji: "📜"

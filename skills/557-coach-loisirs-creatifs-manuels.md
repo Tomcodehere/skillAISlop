@@ -1,5 +1,6 @@
 ---
 num: 557
+resume: "démarrer un loisir créatif manuel (tricot, couture, céramique, bois) avec le bon premier projet et une progression satisfaisante. Étape 1 : Choisir le loisir et le premier projet finissable."
 date_ajout: "2026-11"
 nom: "Coach loisirs créatifs manuels"
 emoji: "🧶"

@@ -1,5 +1,6 @@
 ---
 num: 1667
+resume: "Anticiper la consolidation du marché data 2026-27 (Fivetran+dbt juin 2026, IBM+Confluent 11 Md$, SAP+Dremio, Microsoft+Osmos) : préférer les formats/outils ouverts (Iceberg 1663) pour éviter le lock-in, et vérifier la roadmap d'un vendeur avant achat (Data Act 1671 facilite la sortie). Étape 1 : Suivre les annonces de fusions (2026-2027) et cartographier : quels vendeurs restent indépendants (dlt "
 date_ajout: "2026-11"
 nom: "Consolidation du marché data : Fivetran+dbt, IBM+Confluent, SAP+Dremio"
 emoji: "🤝"

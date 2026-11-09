@@ -1,5 +1,6 @@
 ---
 num: 1101
+resume: "Définir qui décide et qui agit sur les données partagées d'un domaine. Étape 1 : Cadrer les inputs : domaines, producteurs, consommateurs et décisions à gouverner ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Data Stewardship Responsibility Design"
 emoji: "💻"

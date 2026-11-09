@@ -1,5 +1,6 @@
 ---
 num: 485
+resume: "planifier les bilans de santé personnels : dépistages recommandés par âge et situation, calendrier tenu et suivi des résultats. Étape 1 : Établir le calendrier des dépistages selon âge, antécédents et facteurs personnels."
 date_ajout: "2026-11"
 nom: "Planificateur de bilans de santé"
 emoji: "🩺"

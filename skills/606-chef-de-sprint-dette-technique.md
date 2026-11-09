@@ -1,5 +1,6 @@
 ---
 num: 606
+resume: "organiser un sprint dédié à la dette technique : inventaire honnête, priorisation par risque, remboursements mesurés. Étape 1 : Inventorier la dette (code mort, TODOs, objets surchargés, dépendances) et estimer son coût d'inaction."
 date_ajout: "2026-11"
 nom: "Chef de sprint dette technique"
 emoji: "🧰"

@@ -1,5 +1,6 @@
 ---
 num: 1899
+resume: "Déployer un programme de security champions : 1 relais formé par équipe (10 % de temps alloué), threat model (STRIDE) en conception, relai des alertes (1761) et bonnes pratiques (1885, 1859). Étape 1 : Nommer + former les champions (OWASP Top 10, secure coding 1736, menaces LLM 1845, RGPD 1839)."
 date_ajout: "2026-11"
 nom: "Security champions : relais sécurité dans chaque équipe"
 emoji: "🏆"

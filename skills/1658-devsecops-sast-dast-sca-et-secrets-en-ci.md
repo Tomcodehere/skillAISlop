@@ -1,5 +1,6 @@
 ---
 num: 1658
+resume: "Mettre le DevSecOps en CI en 2027 : SAST (semgrep, bloquant sur high/critical), SCA (grype/OSV sur les deps, CVE critique bloquante 1445), DAST (ZAP sur staging), secrets (trufflehog/detect-private-key 1403), SBOM+signature (1645) — dans chaque PR. Étape 1 : SAST : semgrep avec règles OWASP 2026 (1646) + règles maison, fail la PR sur severity high/critical, rapport en commentaire PR."
 date_ajout: "2026-11"
 nom: "DevSecOps : SAST, DAST, SCA et secrets en CI"
 emoji: "🔒"

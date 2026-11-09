@@ -1,5 +1,6 @@
 ---
 num: 1924
+resume: "Passer du bois brut à des pièces corroyées (droites, d'équerre, à la cote). Étape 1 : Dégauchir une face (poussoir, passe 1-2 mm, sens du fil), puis le chant à 90°."
 date_ajout: "2026-11"
 nom: "Débit, dégauchissage et rabotage"
 emoji: "📏"

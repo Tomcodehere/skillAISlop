@@ -1,5 +1,6 @@
 ---
 num: 1403
+resume: "Installer des hooks Git (pre-commit framework ou husky) en 2027 pour bloquer automatiquement un commit qui ne passe pas le lint, les tests rapides ou qui contient un secret. Étape 1 : Installer pre-commit (pip) ou husky (front)."
 date_ajout: "2026-11"
 nom: "Hooks Git et pre-commit"
 emoji: "🪝"

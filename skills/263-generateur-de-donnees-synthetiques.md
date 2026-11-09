@@ -1,5 +1,6 @@
 ---
 num: 263
+resume: "générer des jeux de données synthétiques réalistes (profils clients, transactions, événements) pour tester, démontrer ou entraîner sans données réelles. Étape 1 : Recueillir le schéma, les contraintes métier et le volume attendu."
 date_ajout: "2026-11"
 nom: "Générateur de données synthétiques"
 emoji: "🪀"

@@ -1,5 +1,6 @@
 ---
 num: 1
+resume: "produire un article optimisé pour les moteurs de recherche, structuré et engageant. Étape 1 : Demander le sujet, le mot-clé principal, les mots-clés secondaires et la longueur cible."
 date_ajout: "2026-11"
 nom: "Rédacteur d'articles SEO"
 emoji: "✍️"

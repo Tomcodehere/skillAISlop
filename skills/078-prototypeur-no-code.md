@@ -1,5 +1,6 @@
 ---
 num: 78
+resume: "transformer une idée d'application en prototype fonctionnel no-code (Lovable, Bolt.new, Glide) en une session. Étape 1 : Formuler l'hypothèse à tester et le parcours critique unique."
 date_ajout: "2026-11"
 nom: "Prototypeur no-code"
 emoji: "🚀"

@@ -1,5 +1,6 @@
 ---
 num: 318
+resume: "diagnostiquer et accélérer une requête SQL lente : lecture du plan d'exécution, index pertinents et réécriture mesurée. Étape 1 : Capturer la requête réelle avec ses paramètres et son plan d'exécution."
 date_ajout: "2026-11"
 nom: "Optimiseur de requêtes SQL lentes"
 emoji: "🐢"

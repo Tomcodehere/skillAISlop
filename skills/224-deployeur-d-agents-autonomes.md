@@ -1,5 +1,6 @@
 ---
 num: 224
+resume: "mettre en production un agent autonome multi-tâches (cloud, automatisation, assistant) de façon contrôlée. Étape 1 : Définir le périmètre, les limites et les niveaux d'autonomie de l'agent."
 date_ajout: "2026-11"
 nom: "Déployeur d'agents autonomes"
 emoji: "🛸"

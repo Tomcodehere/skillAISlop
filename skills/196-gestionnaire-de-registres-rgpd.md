@@ -1,5 +1,6 @@
 ---
 num: 196
+resume: "constituer et tenir le registre des traitements de données personnelles d'une organisation. Étape 1 : Interviewer l'organisation pour recenser tous les traitements réels, y compris les oubliés."
 date_ajout: "2026-11"
 nom: "Gestionnaire de registres RGPD"
 emoji: "📁"

@@ -1,5 +1,6 @@
 ---
 num: 1976
+resume: "Des bijoux/accessoires en feutre finis et portables (broche, boucles, barrette, chapeau). Étape 1 : Former la pièce en feutre (plat à l'aiguille, ou chapeau à le liquide sur forme)."
 date_ajout: "2026-11"
 nom: "Bijoux et accessoires en feutre"
 emoji: "💍"

@@ -1,5 +1,6 @@
 ---
 num: 666
+resume: "réagir à une attaque par rançongiciel : isoler la machine, ne pas payer, restaurer depuis les sauvegardes. Étape 1 : Isoler immédiatement : couper le réseau, noter l'heure, photographier le message de rançon, ne pas payer."
 date_ajout: "2026-11"
 nom: "Ransomware & rançongiciel"
 emoji: "🛡️"

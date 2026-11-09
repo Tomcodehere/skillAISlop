@@ -1,5 +1,6 @@
 ---
 num: 1919
+resume: "Céder ou reprendre une entreprise artisanale en sécurisant la valorisation et le transfert des garanties. Étape 1 : Valoriser (multiples de CA, actif net, fonds de commerce)."
 date_ajout: "2026-11"
 nom: "Cession ou reprise d'entreprise artisanale BTP"
 emoji: "🤝"

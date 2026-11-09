@@ -1,5 +1,6 @@
 ---
 num: 1903
+resume: "Produire un devis BTP complet, conforme et opposable, accepté sans aller-retour. Étape 1 : Structurer le devis : identification, description, métré, prix HT/TVA/TTC, délais, paiement, validité, rétractation, assurances."
 date_ajout: "2026-11"
 nom: "Rédiger un devis conforme en BTP"
 emoji: "📄"

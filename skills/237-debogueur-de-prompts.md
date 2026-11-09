@@ -1,5 +1,6 @@
 ---
 num: 237
+resume: "diagnostiquer pourquoi un prompt échoue ou donne des résultats médiocres, et le corriger méthodiquement. Étape 1 : Reproduire le problème et définir le résultat attendu avec des exemples."
 date_ajout: "2026-11"
 nom: "Débogueur de prompts"
 emoji: "🪛"

@@ -1,5 +1,6 @@
 ---
 num: 1328
+resume: "faire ses courses avec un agent IA : liste générée depuis le contenu du frigo/placards et les menus prévus, comparaison de prix, mode anti-gaspi. Étape 1 : Inventaire frigo/placards (photo ou saisie) + menus prévus de la semaine."
 date_ajout: "2026-11"
 nom: "Assistant courses & anti-gaspi IA"
 emoji: "🛒"

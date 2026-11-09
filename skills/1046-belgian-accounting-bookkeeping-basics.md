@@ -1,5 +1,6 @@
 ---
 num: 1046
+resume: "Aider à comprendre les notions et workflows comptables courants en Belgique et à organiser des informations comptables, sans certifier les comptes ni remplacer un professionnel agréé. Étape 1 : Clarifier le type d'entité, la période et le résultat attendu."
 date_ajout: "2026-11"
 nom: "Belgian Accounting & Bookkeeping Basics"
 emoji: "💰"

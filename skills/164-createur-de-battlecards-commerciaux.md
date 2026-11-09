@@ -1,5 +1,6 @@
 ---
 num: 164
+resume: "armer les commerciaux contre chaque concurrent : forces à contrer, angles à jouer, questions pièges et réponses. Étape 1 : Collecter les informations concurrentielles vérifiables (prix, features, positionnement)."
 date_ajout: "2026-11"
 nom: "Créateur de battlecards commerciaux"
 emoji: "⚔️"

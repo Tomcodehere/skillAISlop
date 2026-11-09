@@ -1,5 +1,6 @@
 ---
 num: 578
+resume: "réussir ses plantes d'intérieur : choisir selon la lumière réelle du logement, routine d'arrosage et diagnostic des signaux. Étape 1 : Évaluer la lumière réelle et choisir les plantes adaptées."
 date_ajout: "2026-11"
 nom: "Coach plantes d'intérieur"
 emoji: "🪴"

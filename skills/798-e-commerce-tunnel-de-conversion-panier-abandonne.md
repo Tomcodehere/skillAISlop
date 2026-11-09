@@ -1,5 +1,6 @@
 ---
 num: 798
+resume: "améliorer le tunnel de conversion d'une boutique en ligne : de la fiche produit au paiement, moins de friction. Étape 1 : Analyser le funnel (fiche -supérieur à panier -supérieur à checkout -supérieur à paiement) et identifier la plus grosse fuite."
 date_ajout: "2026-11"
 nom: "E-commerce : tunnel de conversion & panier abandonné"
 emoji: "🛒"

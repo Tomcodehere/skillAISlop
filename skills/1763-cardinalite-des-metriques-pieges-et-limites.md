@@ -1,5 +1,6 @@
 ---
 num: 1763
+resume: "Prévenir l'explosion de cardinalité des métriques : interdire les labels à haute cardinalité (user_id, email, IP, URL brute), borner les buckets, et monitorer le nombre de séries actives par métrique. Étape 1 : Lister les metriques avec leurs labels et compter les series (prometheus tsdb)."
 date_ajout: "2026-11"
 nom: "Cardinalité des métriques : pièges et limites"
 emoji: "⚠️"

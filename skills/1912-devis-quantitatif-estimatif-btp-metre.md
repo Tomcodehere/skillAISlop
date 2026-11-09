@@ -1,5 +1,6 @@
 ---
 num: 1912
+resume: "Produire un DQE détaillé et rentable, défendable devant le client. Étape 1 : Métrer ouvrage par ouvrage (unité, quantité, PU)."
 date_ajout: "2026-11"
 nom: "Devis quantitatif estimatif BTP (métré)"
 emoji: "📐"

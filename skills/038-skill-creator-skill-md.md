@@ -1,5 +1,6 @@
 ---
 num: 38
+resume: "transformer un savoir-faire ou un workflow en package de skill standard (format SKILL.md), réutilisable par un agent IA. Étape 1 : Recueillir le workflow existant et identifier les décisions de jugement à encoder."
 date_ajout: "2026-11"
 nom: "Skill Creator (SKILL.md)"
 emoji: "🧩"

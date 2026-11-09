@@ -1,5 +1,6 @@
 ---
 num: 987
+resume: "organiser un EVJF/EVG en 2027 : budget par personne, activité principale, week-end ou soirée, invitations, sécurité (alcool responsable, retour assuré). Étape 1 : Budget 50-150 €/pers ; format soirée ou week-end ; 1-2 activités principales ; invitations 1-2 mois avant."
 date_ajout: "2026-11"
 nom: "Organiser un enterrement de vie de célibataire (EVJF/EVG)"
 emoji: "🎊"

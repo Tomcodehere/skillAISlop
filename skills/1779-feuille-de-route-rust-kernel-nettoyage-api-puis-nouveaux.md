@@ -1,5 +1,6 @@
 ---
 num: 1779
+resume: "Planifier l'adoption de Rust dans le noyau sur 2027-2030 : phase 1 = nettoyage des API C internes (1-2 ans), phase 2 = nouveaux drivers (stockage, réseau, GPU) en Rust par défaut, pour lutter contre la stagnation. Étape 1 : Phase 1 (2027-2028) : inventorier les API C internes à nettoyer/abstraire (helpers, wrappers) pour exposer des interfaces sûres utilisables depuis Rust."
 date_ajout: "2026-11"
 nom: "Feuille de route Rust kernel : nettoyage API puis nouveaux drivers"
 emoji: "🗺️"

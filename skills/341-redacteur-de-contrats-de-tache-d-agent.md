@@ -1,5 +1,6 @@
 ---
 num: 341
+resume: "rédiger le contrat de tâche confié à un agent : objectif, entrées, sorties, limites, critères d'acceptation et interdits. Étape 1 : Définir le livrable : format, contenu, critères d'acceptation mesurables."
 date_ajout: "2026-11"
 nom: "Rédacteur de contrats de tâche d'agent"
 emoji: "🌧"

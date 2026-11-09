@@ -1,5 +1,6 @@
 ---
 num: 712
+resume: "concevoir le harnais d'un agent en production : boucle perception-planification-action, mémoire, outils, supervision et limites. Étape 1 : Définir les 5 couches du harnais : perception, planification, action, mémoire, supervision."
 date_ajout: "2026-11"
 nom: "Harnais d'agent (agent harness) & orchestration"
 emoji: "🎛️"

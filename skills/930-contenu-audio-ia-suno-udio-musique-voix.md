@@ -1,5 +1,6 @@
 ---
 num: 930
+resume: "créer de la musique/voix avec l'IA (Suno, Udio, voix clonées) en 2027 en respectant le droit : pas de clone de voix réelle sans consentement, déclaration des contenus IA. Étape 1 : Générer (Suno/Udio) pour jingle/podcast/démo ; voix synthétique OK, jamais de clone de voix réelle sans consentement écrit."
 date_ajout: "2026-11"
 nom: "Contenu audio IA (Suno/Udio) : musique & voix"
 emoji: "🎵"

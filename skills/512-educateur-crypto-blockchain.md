@@ -1,5 +1,6 @@
 ---
 num: 512
+resume: "expliquer clairement la crypto et la blockchain (fonctionnement, risques, vocabulaire) sans jamais donner de conseil d'investissement. Étape 1 : Expliquer le mécanisme et le vocabulaire demandé."
 date_ajout: "2026-11"
 nom: "Éducateur crypto & blockchain"
 emoji: "🪙"

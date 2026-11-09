@@ -1,5 +1,6 @@
 ---
 num: 571
+resume: "construire un choix d'orientation (filières, écoles, alternance) à partir des intérêts réels, des débouchés et d'un plan d'essais. Étape 1 : Explorer les intérêts réels et le mode de fonctionnement."
 date_ajout: "2026-11"
 nom: "Conseiller d'orientation scolaire"
 emoji: "🧭"

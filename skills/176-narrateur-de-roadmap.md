@@ -1,5 +1,6 @@
 ---
 num: 176
+resume: "communiquer une roadmap produit de façon honnête et engageante pour chaque audience (clients, équipes, direction). Étape 1 : Structurer la roadmap par horizons avec le problème client de chaque chantier."
 date_ajout: "2026-11"
 nom: "Narrateur de roadmap"
 emoji: "🛰️"

@@ -1,5 +1,6 @@
 ---
 num: 1636
+resume: "Mettre le HITL à l'échelle en 2027 : file d'approbations centralisée (UI ou Slack), routage par criticité (montant/risque) avec SLA, approbation en 1 clic avec tout le contexte, audit des décisions, métriques (taux, délai moyen). Étape 1 : File centralisée : chaque action à risque crée une demande (action, args, contexte, impact estimé, risque 1-5)."
 date_ajout: "2026-11"
 nom: "HITL a l'echelle : files d'approbation et routage"
 emoji: "🧑‍💻"

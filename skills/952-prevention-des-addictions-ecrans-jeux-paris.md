@@ -1,5 +1,6 @@
 ---
 num: 952
+resume: "prévenir et repérer une addiction (écrans, jeux d'argent/paris en ligne, réseaux sociaux, jeux vidéo) en 2027 : signaux d'alerte, limites, aide spécialisée. Étape 1 : Signaux : perte de contrôle du temps, mensonges, dettes, sacrifice du sommeil/travail, irritabilité à l'arrêt."
 date_ajout: "2026-11"
 nom: "Prévention des addictions (écrans, jeux, paris)"
 emoji: "🎰"

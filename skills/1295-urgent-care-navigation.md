@@ -1,5 +1,6 @@
 ---
 num: 1295
+resume: "Aider à choisir une prochaine étape de recours aux soins de façon prudente, en faisant passer la sécurité immédiate avant toute explication ou collecte de contexte. Étape 1 : Rechercher d'abord tout indice de danger immédiat, de situation potentiellement vitale ou d'aggravation rapide."
 date_ajout: "2026-11"
 nom: "Urgent Care Navigation"
 emoji: "🎨"

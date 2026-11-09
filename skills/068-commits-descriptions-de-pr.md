@@ -1,5 +1,6 @@
 ---
 num: 68
+resume: "écrire des messages de commit et des descriptions de pull request qui facilitent la revue et la lecture de l'historique. Étape 1 : Lire le diff (ou le faire décrire) pour comprendre l'intention réelle du changement."
 date_ajout: "2026-11"
 nom: "Commits & descriptions de PR"
 emoji: "🧾"

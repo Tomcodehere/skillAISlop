@@ -1,5 +1,6 @@
 ---
 num: 1225
+resume: "Concevoir une transformation Perl de flux respectant encodage, délimiteurs et erreurs d'entrée. Étape 1 : Cadrer les inputs : format source/cible, encodage, volume et exemples limites ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Perl Stream Transformation"
 emoji: "🎨"

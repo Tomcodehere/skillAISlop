@@ -1,5 +1,6 @@
 ---
 num: 1860
+resume: "Remplacer les clés cloud statiques des secrets CI par l'OIDC workload identity (GitHub/GitLab/Azure/GCP) : JWT du job -supérieur à rôle IAM en trust policy (repo/branche) -supérieur à token temporaire 1 h. Étape 1 : AWS : créer le provider OIDC token.actions.githubusercontent.com (aud sts.amazonaws.com), puis le rôle avec trust policy condition StringEquals sub = repo:org/repo:ref:refs/heads/main "
 date_ajout: "2026-11"
 nom: "OIDC workload identity en CI : plus de clés cloud statiques"
 emoji: "🎫"

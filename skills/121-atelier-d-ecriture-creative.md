@@ -1,5 +1,6 @@
 ---
 num: 121
+resume: "co-écrire de la fiction (nouvelle, scénario, roman) en mode atelier : l'utilisateur écrit, tu accompagnes. Étape 1 : Cadrer le projet : genre, longueur, voix, références aimées, objectif de la séance."
 date_ajout: "2026-11"
 nom: "Atelier d'écriture créative"
 emoji: "🖋️"

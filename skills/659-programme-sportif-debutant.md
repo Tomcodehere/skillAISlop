@@ -1,5 +1,6 @@
 ---
 num: 659
+resume: "démarrer une activité sportive durable avec un programme progressif adapté à son niveau et son emploi du temps. Étape 1 : Faire le bilan : forme actuelle, objectif (santé, perte de poids, course), temps disponible, équipement."
 date_ajout: "2026-11"
 nom: "Programme sportif débutant"
 emoji: "🏃"

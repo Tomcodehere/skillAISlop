@@ -1,5 +1,6 @@
 ---
 num: 1656
+resume: "Supprimer les secrets statiques en 2027 avec Vault/OpenBao : secrets dynamiques (DB : user/pass à TTL, AWS : rôle IAM temporaire, PKI : certificats courts), générés à la demande, révoqués automatiquement à l'expiration. Étape 1 : Moteur database : Vault crée un user SQL unique par demandeur, TTL 1 h, révoqué à l'expiration (plus de mdp partagé)."
 date_ajout: "2026-11"
 nom: "Secrets dynamiques : Vault transit et DB"
 emoji: "🔑"

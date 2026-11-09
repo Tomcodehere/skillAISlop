@@ -1,5 +1,6 @@
 ---
 num: 77
+resume: "concevoir un serveur MCP qui connecte un assistant IA à un outil ou une source de données métier. Étape 1 : Cartographier le besoin : quel système connecter, quelles actions exposer, quels accès interdire."
 date_ajout: "2026-11"
 nom: "Builder MCP (Model Context Protocol)"
 emoji: "🔌"

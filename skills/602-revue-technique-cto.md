@@ -1,5 +1,6 @@
 ---
 num: 602
+resume: "challenger les décisions techniques d'une équipe avec le regard d'un CTO : arbitrages, scalabilité, build vs buy. Étape 1 : Rassembler les décisions en jeu (stack, hébergement, dépendances, build vs buy) et leurs justifications."
 date_ajout: "2026-11"
 nom: "Revue technique CTO"
 emoji: "🧑‍✈️"

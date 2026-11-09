@@ -1,5 +1,6 @@
 ---
 num: 1921
+resume: "Disposer d'un atelier menuiserie fonctionnel, sûr et bien organisé chez soi. Étape 1 : Définir l'implantation (établi central ou le long d'un mur, circulation 80 cm min)."
 date_ajout: "2026-11"
 nom: "Installer un atelier de menuiserie"
 emoji: "🛠️"

@@ -1,5 +1,6 @@
 ---
 num: 447
+resume: "surveiller l'exposition des données de l'organisation : credentials fuités, documents exposés, services compromis, avec procédure de réponse. Étape 1 : Définir les mots-clés et identifiants surveillés pour l'organisation."
 date_ajout: "2026-11"
 nom: "Veilleur de fuites de données"
 emoji: "🍣"

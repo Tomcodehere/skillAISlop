@@ -1,5 +1,6 @@
 ---
 num: 22
+resume: "transformer une description en langage naturel en diagrammes d'architecture et de flux de données exploitables. Étape 1 : Clarifier le périmètre, le niveau d'abstraction et l'audience (technique ou direction)."
 date_ajout: "2026-11"
 nom: "Diagrammes d'architecture"
 emoji: "🏗️"

@@ -1,5 +1,6 @@
 ---
 num: 4
+resume: "rédiger des emails clairs, polis et efficaces (négatif, relance, refus, annonce). Étape 1 : Clarifier l'intention (informer, obtenir, refuser, relancer)."
 date_ajout: "2026-11"
 nom: "Assistant Email professionnel"
 emoji: "📧"

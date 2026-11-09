@@ -1,5 +1,6 @@
 ---
 num: 676
+resume: "comprendre le bail et les droits du locataire : état des lieux, caution, loyers, travaux, résiliation. Étape 1 : Vérifier le bail : contenu légal, dépôt de garantie, charges (récupérables ou non), durée et préavis."
 date_ajout: "2026-11"
 nom: "Location & gestion locative"
 emoji: "🔑"

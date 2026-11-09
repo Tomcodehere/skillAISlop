@@ -1,5 +1,6 @@
 ---
 num: 449
+resume: "traquer le rendu « générique IA » dans un contenu ou un design : tics visuels et textuels, uniformité, absence de point de vue — et le corriger. Étape 1 : Repérer les signatures du générique : structure, vocabulaire, visuels, absence de position."
 date_ajout: "2026-11"
 nom: "Auditeur anti-look générique IA"
 emoji: "🪭"

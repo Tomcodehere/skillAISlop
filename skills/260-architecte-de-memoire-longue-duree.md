@@ -1,5 +1,6 @@
 ---
 num: 260
+resume: "concevoir le système de mémoire durable d'un assistant : fiches de préférences, faits vérifiés et routine de rappel et d'oubli. Étape 1 : Définir les catégories de mémoire et le format de fiche (contenu, source, date, statut)."
 date_ajout: "2026-11"
 nom: "Architecte de mémoire longue durée"
 emoji: "💾"

@@ -1,5 +1,6 @@
 ---
 num: 172
+resume: "écrire les communications périodiques aux investisseurs (lettres trimestrielles, updates) qui informent honnêtement et renforcent la confiance. Étape 1 : Collecter les résultats réels du trimestre : chiffres, faits marquants, écarts."
 date_ajout: "2026-11"
 nom: "Rédacteur de lettres investisseurs"
 emoji: "📩"

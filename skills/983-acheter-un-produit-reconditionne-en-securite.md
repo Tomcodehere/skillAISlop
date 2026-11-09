@@ -1,5 +1,6 @@
 ---
 num: 983
+resume: "acheter un produit reconditionné en 2027 (téléphone, PC) en sécurité : plateforme fiable, garantie légale 2 ans minimum, état cosmétique, test à réception. Étape 1 : Plateforme reconnue (Back Market, constructeur) : garantie ≥ 12 mois, retour 30 j, état cosmétique précis."
 date_ajout: "2026-11"
 nom: "Acheter un produit reconditionné en sécurité"
 emoji: "♻️"

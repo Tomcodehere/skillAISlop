@@ -1,5 +1,6 @@
 ---
 num: 552
+resume: "tenir la vie administrative d'une association : statuts, assemblée générale, convocations, comptes-rendus et obligations en règle. Étape 1 : Établir l'état des obligations et le calendrier associatif."
 date_ajout: "2026-11"
 nom: "Secrétaire d'association"
 emoji: "📋"

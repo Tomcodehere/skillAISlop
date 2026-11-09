@@ -1,5 +1,6 @@
 ---
 num: 1660
+resume: "Utiliser DuckDB en 2027 : moteur SQL analytique embarqué (pas de serveur) qui lit directement Parquet/CSV/S3/HTTP, joint des sources hétérogènes (fichiers + Postgres), avec extensions (spatial, iceberg 1663), pour EDA et pipelines locaux. Étape 1 : Installer DuckDB (CLI, pip, extension VSCode/Jupyter), ouvrir en mémoire ou fichier .duckdb."
 date_ajout: "2026-11"
 nom: "DuckDB : le SQLite de l'analytics, requêter Parquet/S3 directement"
 emoji: "🦆"

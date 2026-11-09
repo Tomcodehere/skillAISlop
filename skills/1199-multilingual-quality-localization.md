@@ -1,5 +1,6 @@
 ---
 num: 1199
+resume: "Garantir une qualite linguistique multilingue elevee: traduction contextuelle, coherence terminologique, adaptation culturelle et respect du ton. Étape 1 : Analyser la langue source, le ton et l'intention."
 date_ajout: "2026-11"
 nom: "Multilingual Quality & Localization"
 emoji: "✍️"

@@ -1,5 +1,6 @@
 ---
 num: 611
+resume: "produire un briefing matinal d'une page qui donne l'état de tous vos projets en moins de deux minutes de lecture. Étape 1 : Collecter les faits de la veille : avancées, incidents, messages en attente, échéances proches."
 date_ajout: "2026-11"
 nom: "Briefing du matin multi-projets"
 emoji: "☕"

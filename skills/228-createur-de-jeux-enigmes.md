@@ -1,5 +1,6 @@
 ---
 num: 228
+resume: "créer des jeux et énigmes sur mesure (chasse au trésor, escape kit maison, jeu de société) pour un groupe et une occasion précise. Étape 1 : Définir l'occasion, le groupe, le lieu, le temps et le matériel disponible."
 date_ajout: "2026-11"
 nom: "Créateur de jeux & énigmes"
 emoji: "♟️"

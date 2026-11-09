@@ -1,5 +1,6 @@
 ---
 num: 386
+resume: "pitcher un journaliste : angle neuf, pertinence pour son audience, preuves et éléments concrets, en 150 mots. Étape 1 : Cibler le journaliste par ses publications récentes et son audience."
 date_ajout: "2026-11"
 nom: "Rédacteur de pitches médias"
 emoji: "🍈"

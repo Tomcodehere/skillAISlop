@@ -1,5 +1,6 @@
 ---
 num: 322
+resume: "concevoir une intégration par webhooks : réception fiable, vérification de signature, retries, idempotence et supervision. Étape 1 : Définir le contrat d'événements : types, payload versionné, signature."
 date_ajout: "2026-11"
 nom: "Concepteur de webhooks"
 emoji: "🌗"

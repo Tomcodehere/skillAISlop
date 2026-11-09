@@ -1,5 +1,6 @@
 ---
 num: 1573
+resume: "Gérer le chargement/streaming en 2027 : écran de chargement avec barre (1502), chargement asynchrone par zones (charger autour du joueur, décharger au-delà de 100 m), priorité visuels supérieur à sons supérieur à gameplay, monde ouvert sans coupure. Étape 1 : Découper le monde en zones (chunks) avec leur contenu (ennemis 1519, objets, PNJ)."
 date_ajout: "2026-11"
 nom: "Ecran de chargement et streaming de niveaux"
 emoji: "⏳"

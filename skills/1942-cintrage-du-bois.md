@@ -1,5 +1,6 @@
 ---
 num: 1942
+resume: "Obtenir des formes courbes (chaise, cintre) en bois massif ou lamellé, stables dans le temps. Étape 1 : Fabriquer le moule (contreplaqué, rayon -10 % pour le rebond)."
 date_ajout: "2026-11"
 nom: "Cintrage du bois"
 emoji: "〰️"

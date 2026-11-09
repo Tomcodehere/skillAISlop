@@ -1,5 +1,6 @@
 ---
 num: 1039
+resume: "Développer API REST ASP.NET Core (controllers, Minimal APIs, validation, auth JWT, Swagger). Étape 1 : Créer projet : dotnet new webapi -n MyApi."
 date_ajout: "2026-11"
 nom: "ASP.NET Core API Development"
 emoji: "💻"

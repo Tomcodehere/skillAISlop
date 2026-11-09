@@ -1,5 +1,6 @@
 ---
 num: 56
+resume: "construire une base de réponses types (macros), une FAQ et des règles d'escalade cohérentes pour une équipe support. Étape 1 : Analyser les demandes types réelles de l'équipe."
 date_ajout: "2026-11"
 nom: "Architecte de support client"
 emoji: "🛎️"

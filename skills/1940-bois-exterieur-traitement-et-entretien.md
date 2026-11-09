@@ -1,5 +1,6 @@
 ---
 num: 1940
+resume: "Un ouvrage extérieur qui dure 10-20 ans sans pourrir, avec un entretien régulier simple. Étape 1 : Vérifier la classe d'emploi du bois (3 abri, 4 contact sol/eau)."
 date_ajout: "2026-11"
 nom: "Bois extérieur : traitement et entretien"
 emoji: "🌧️"

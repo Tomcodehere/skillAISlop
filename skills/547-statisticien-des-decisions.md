@@ -1,5 +1,6 @@
 ---
 num: 547
+resume: "éclairer une décision par les statistiques : taille d'échantillon, significativité, incertitude et pièges classiques. Étape 1 : Traduire la question métier et vérifier la faisabilité des données."
 date_ajout: "2026-11"
 nom: "Statisticien des décisions"
 emoji: "📊"

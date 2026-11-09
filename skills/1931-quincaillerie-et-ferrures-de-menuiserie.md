@@ -1,5 +1,6 @@
 ---
 num: 1931
+resume: "Des portes et tiroirs qui s'ouvrent/ferment parfaitement, avec la bonne ferrure posée au bon endroit. Étape 1 : Choisir la ferrure adaptée (charge, type d'ouverture, soft-close)."
 date_ajout: "2026-11"
 nom: "Quincaillerie et ferrures de menuiserie"
 emoji: "🔩"

@@ -1,5 +1,6 @@
 ---
 num: 1419
+resume: "Créer les bons index en 2027 pour accélérer une requête lente : EXPLAIN ANALYZE d'abord, index composite (colonnes filtrées+triées), covering index si lecture seule, sans sur-indexer. Étape 1 : Lancer EXPLAIN ANALYZE sur la requête lente."
 date_ajout: "2026-11"
 nom: "Indexation avancee des bases de donnees"
 emoji: "🗃️"

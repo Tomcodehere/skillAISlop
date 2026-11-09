@@ -1,5 +1,6 @@
 ---
 num: 254
+resume: "produire des mocks et fixtures d'API réalistes à partir d'un contrat OpenAPI, pour développer et tester sans backend disponible. Étape 1 : Extraire du contrat les endpoints, schémas et codes de réponse attendus."
 date_ajout: "2026-11"
 nom: "Générateur de mocks d'API"
 emoji: "📼"

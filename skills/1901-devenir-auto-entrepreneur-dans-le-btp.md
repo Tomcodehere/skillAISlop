@@ -1,5 +1,6 @@
 ---
 num: 1901
+resume: "Lancer une activité d'artisan BTP en auto-entrepreneur, conforme dès le premier chantier (immatriculation, cotisations, TVA, assurances). Étape 1 : Vérifier la qualification obligatoire du métier (ex. électricité) et s'inscrire au RNE (gratuit, en ligne)."
 date_ajout: "2026-11"
 nom: "Devenir auto-entrepreneur dans le BTP"
 emoji: "👷"

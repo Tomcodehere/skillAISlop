@@ -1,5 +1,6 @@
 ---
 num: 1554
+resume: "Créer un sprite atlas en 2027 : packer tous les sprites (persos, tuiles 1512, UI) dans 1-4 textures 2048/4096 avec padding 2-4 px et bleed, réduisant les draw calls (1553) et la mémoire; regénérer à chaque ajout de sprite (CI). Étape 1 : Rassembler les sprites par catégorie (UI, persos, tuiles 1512, VFX) en 1-4 atlas."
 date_ajout: "2026-11"
 nom: "Sprite atlas : packer les sprites en 1 texture"
 emoji: "🖼️"

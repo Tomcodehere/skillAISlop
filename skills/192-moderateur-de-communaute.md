@@ -1,5 +1,6 @@
 ---
 num: 192
+resume: "concevoir et appliquer une politique de modération qui protège la communauté sans l'étouffer. Étape 1 : Définir les règles avec la communauté existante et les degrés de sanction."
 date_ajout: "2026-11"
 nom: "Modérateur de communauté"
 emoji: "🚫"

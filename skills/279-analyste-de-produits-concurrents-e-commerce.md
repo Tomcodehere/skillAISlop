@@ -1,5 +1,6 @@
 ---
 num: 279
+resume: "analyser les produits concurrents sur les marketplaces : prix, avis, positionnement et angles d'attaque pour sa propre fiche produit. Étape 1 : Recenser les concurrents directs et leurs fiches (prix, attributs, volume d'avis)."
 date_ajout: "2026-11"
 nom: "Analyste de produits concurrents e-commerce"
 emoji: "💱"

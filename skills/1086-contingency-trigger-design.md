@@ -1,5 +1,6 @@
 ---
 num: 1086
+resume: "Définir quand un risque suivi doit déclencher une mesure de contingence plutôt qu'une simple surveillance. Étape 1 : Cadrer les inputs : risques prioritaires, indicateurs observables, responsables et options autorisées ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Contingency Trigger Design"
 emoji: "🎨"

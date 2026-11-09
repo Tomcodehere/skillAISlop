@@ -1,5 +1,6 @@
 ---
 num: 965
+resume: "choisir et comparer une assurance habitation multirisque en 2027 : garanties essentielles (incendie, dégâts des eaux, vol, RC), franchise, plafond, tarif. Étape 1 : Comparer 3 devis (agrégateur ou assureurs) sur garanties : incendie, dégâts des eaux, vol, CatNat, RC vie privée."
 date_ajout: "2026-11"
 nom: "Assurance habitation & multirisque"
 emoji: "🏠"

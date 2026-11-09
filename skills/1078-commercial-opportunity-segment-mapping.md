@@ -1,5 +1,6 @@
 ---
 num: 1078
+resume: "Repérer et structurer des opportunités commerciales à partir de segments, besoins, signaux et critères de valeur explicités. Le skill prépare des options de ciblage à valider; il ne réalise pas de prospection ni ne gère un pipeline de vente."
 date_ajout: "2026-11"
 nom: "Commercial Opportunity & Segment Mapping"
 emoji: "💻"

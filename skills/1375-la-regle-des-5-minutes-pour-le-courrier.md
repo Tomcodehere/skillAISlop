@@ -1,5 +1,6 @@
 ---
 num: 1375
+resume: "Vider les tas de courrier avec la regle des 5 minutes : chaque document est touche une seule fois et classe dans l'une des 4 actions (traiter, classer, deleguer, jeter) en moins de 5 minutes. Étape 1 : Reserver un bloc de 25 min (minuteur) pour le tas de courrier."
 date_ajout: "2026-11"
 nom: "La regle des 5 minutes pour le courrier"
 emoji: "⏱"

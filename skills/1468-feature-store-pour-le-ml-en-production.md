@@ -1,5 +1,6 @@
 ---
 num: 1468
+resume: "Déployer un feature store en 2027 (Feast open source ou Tecton/Databricks) : features calculées une seule fois et servies de façon identique en training et en production (online low-latency + offline batch). Étape 1 : Inventorier les features communes à plusieurs modèles."
 date_ajout: "2026-11"
 nom: "Feature store pour le ML en production"
 emoji: "🏪"

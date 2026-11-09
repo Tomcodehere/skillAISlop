@@ -1,5 +1,6 @@
 ---
 num: 1032
+resume: "Maîtriser le diagnostic méthodique et le troubleshooting d'applications d'entreprise (Atlassian, Gitlab, ServiceNow, Qlik, Solidworks, etc.) : analyse root cause, lecture logs/stacktraces, corrélation d'incidents, diagnostic dépendances/intégrations, diagnostic performance applicative, résolution incidents N2/N3."
 date_ajout: "2026-11"
 nom: "Application Diagnostics & Troubleshooting"
 emoji: "💻"

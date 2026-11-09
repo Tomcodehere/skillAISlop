@@ -1,5 +1,6 @@
 ---
 num: 510
+resume: "auditer et durcir un réseau local : Wi-Fi, segmentation des équipements, accès distants et documentation. Étape 1 : Inventorier équipements, flux et points d'entrée du réseau."
 date_ajout: "2026-11"
 nom: "Auditeur de réseau & Wi-Fi"
 emoji: "⚓"

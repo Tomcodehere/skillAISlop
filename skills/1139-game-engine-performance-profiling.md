@@ -1,5 +1,6 @@
 ---
 num: 1139
+resume: "Optimiser les performances runtime d'un projet jeu (CPU, GPU, memoire, frame pacing) via profiling structure. Étape 1 : Baseline de performance (FPS, frametime, memoire)."
 date_ajout: "2026-11"
 nom: "Game Engine Performance & Profiling"
 emoji: "📋"

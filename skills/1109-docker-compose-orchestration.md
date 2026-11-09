@@ -1,5 +1,6 @@
 ---
 num: 1109
+resume: "Orchestrer multi-conteneurs localement avec docker-compose (services, networks, volumes, healthchecks). Étape 1 : Définir services (app, db, redis, nginx) :"
 date_ajout: "2026-11"
 nom: "Docker Compose Orchestration"
 emoji: "💻"

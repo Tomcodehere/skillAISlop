@@ -35,6 +35,7 @@ Règles en phrases affirmatives, testables.>
 | Champ | Règle |
 |---|---|
 | `N` | Numéro unique, séquentiel, fixé une fois pour toutes |
+| Resume (frontmatter) | Condensé 2-3 lignes (Objectif + étape 1), ≤ 400 car., R15 — index condensé machine |
 | Nom | Court, verbe ou métier, + un emoji pertinent (réutilisable entre skills) |
 | Index | Reprend exactement les intitulés des sections qui suivent |
 | Objectif | 1 phrase max, avec le livrable attendu |

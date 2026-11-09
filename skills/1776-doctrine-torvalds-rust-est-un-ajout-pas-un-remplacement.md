@@ -1,5 +1,6 @@
 ---
 num: 1776
+resume: "Appliquer la doctrine Torvalds : Rust sert à écrire les NOUVEAUX drivers en évitant la stagnation (mainteneurs vieillissants, code C legacy), jamais à réécrire les 20+ M de lignes C existantes. Étape 1 : Rappeler la doctrine : ajout, pas remplacement — un PR qui réécrit du C existant est refuse hors cas exceptionnel."
 date_ajout: "2026-11"
 nom: "Doctrine Torvalds : Rust est un ajout, pas un remplacement"
 emoji: "⚖️"

@@ -1,5 +1,6 @@
 ---
 num: 1107
+resume: "Produire un livrable maîtrisé : scripts de dialogues, de barks et de quêtes dans un format structuré (Ink, Yarn Spinner, Dialogic ou tableur), avec clés de texte stables, prêts à être intégrés par l'équipe moteur. Étape 1 : Cadrer les inputs : graphe validé, personnages et voix, format et version de l'outil, convention de clés ; vérifier les préconditions et autorisations."
 date_ajout: "2026-11"
 nom: "Dialogue & Quest Scripting Workflow"
 emoji: "💻"

@@ -1,5 +1,6 @@
 ---
 num: 422
+resume: "rédiger une lettre de recommandation qui sert vraiment le candidat : faits vérifiables, impact mesuré, comparaison honnête et niveau d'endorsement clair. Étape 1 : Collecter les faits : projets, résultats mesurés, comportements observés."
 date_ajout: "2026-11"
 nom: "Rédacteur de lettres de recommandation"
 emoji: "🈯"

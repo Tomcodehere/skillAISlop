@@ -1,5 +1,6 @@
 ---
 num: 1302
+resume: "Verifier systematiquement que les resultats d'une execution correspondent aux criteres de succes definis par l'agent de coordination, avec preuves objectives et statut global justifie."
 date_ajout: "2026-11"
 nom: "Verification Post-Execution"
 emoji: "🎨"

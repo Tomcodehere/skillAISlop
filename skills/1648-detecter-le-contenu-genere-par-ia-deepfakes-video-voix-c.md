@@ -1,5 +1,6 @@
 ---
 num: 1648
+resume: "Détecter en 2027 un contenu généré par IA (deepfake vidéo 840, voix clonée 808, image 561) : Content Credentials C2PA (1691) si présents, détecteurs (FakeCatcher, open source), heuristiques visuelles, et surtout vérification hors bande (contact direct sur un canal connu) avant d'agir. Étape 1 : C2PA : vérifier les Content Credentials (1691) — signés = traçable, absents = suspect (mais pas preuve)."
 date_ajout: "2026-11"
 nom: "Detecter le contenu genere par IA : deepfakes video, voix clonee"
 emoji: "🎥"

@@ -1,5 +1,6 @@
 ---
 num: 1479
+resume: "Fine-tuner un LLM à bas coût en 2027 avec LoRA (r=8-16, ~1 % des params entraînés) ou QLoRA (modèle Q4 en mémoire + LoRA : un 70B tient sur 24 Go de VRAM), avec eval avant/après. Étape 1 : Préparer le dataset propre (1396) et le modèle (GGUF/hub)."
 date_ajout: "2026-11"
 nom: "LoRA et QLoRA : fine-tuner pour peu cher"
 emoji: "💰"

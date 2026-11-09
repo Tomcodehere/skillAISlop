@@ -1,5 +1,6 @@
 ---
 num: 589
+resume: "désamorcer les conflits familiaux (succession, aide aux parents, fratrie) par la médiation structurée avant la rupture. Étape 1 : Poser le cadre et les règles de parole de la médiation."
 date_ajout: "2026-11"
 nom: "Médiateur familial"
 emoji: "🕊️"

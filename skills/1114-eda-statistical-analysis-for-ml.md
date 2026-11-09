@@ -1,5 +1,6 @@
 ---
 num: 1114
+resume: "Réaliser une analyse exploratoire et statistique des données pour caractériser un dataset, repérer ses limites et éclairer une décision de modélisation ou d'investigation. Étape 1 : Vérifier provenance, schéma, unités, population et qualité du dataset."
 date_ajout: "2026-11"
 nom: "EDA & Statistical Analysis for ML"
 emoji: "🧠"

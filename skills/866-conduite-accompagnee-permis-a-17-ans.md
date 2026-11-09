@@ -1,5 +1,6 @@
 ---
 num: 866
+resume: "organiser la conduite accompagnée (AAC) dès 15-17 ans : heures, examen, assurance, coût total réaliste. Étape 1 : Code d'abord, puis AAC dès 15 ans (20 h mini auto-école + pratique accompagnée déclarée)."
 date_ajout: "2026-11"
 nom: "Conduite accompagnée / permis à 17 ans"
 emoji: "🚗"

@@ -1,5 +1,6 @@
 ---
 num: 1936
+resume: "Modifier la couleur du bois de façon homogène et durable, avant finition. Étape 1 : Tester la teinture sur la chute, ajuster (dilution, couches)."
 date_ajout: "2026-11"
 nom: "Teinture et patine du bois"
 emoji: "🖌️"

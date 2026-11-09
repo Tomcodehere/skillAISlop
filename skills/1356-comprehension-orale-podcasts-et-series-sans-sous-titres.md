@@ -1,5 +1,6 @@
 ---
 num: 1356
+resume: "Gagner un niveau en comprehension orale en travaillant exclusivement sans sous-titres, avec une progression par paliers (contenus adaptes, episodes courts, repetition active). Étape 1 : Choisir un contenu court (5-10 min) 30 % plus lent que son niveau."
 date_ajout: "2026-11"
 nom: "Comprehension orale : podcasts et series sans sous-titres"
 emoji: "🎧"

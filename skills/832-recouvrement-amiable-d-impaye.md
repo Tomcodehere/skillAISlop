@@ -1,5 +1,6 @@
 ---
 num: 832
+resume: "récupérer un impayé à l'amiable avant contentieux : relances graduées par écrit, échelonnement proposé, tout tracé. Étape 1 : J+7 rappel écrit ; J+15 proposition d'échelonnement ; J+30 mise en demeure LRAR (pénalités légales)."
 date_ajout: "2026-11"
 nom: "Recouvrement amiable d'impayé"
 emoji: "💌"

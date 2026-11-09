@@ -1,5 +1,6 @@
 ---
 num: 1810
+resume: "Déployer Karpenter pour provisionner automatiquement les nœuds adaptés aux pods pending (taille/GPU/zone) et consolider les nœuds sous-utilisés, réduisant la facture cloud (spot vs on-demand). Étape 1 : Installer Karpenter + le provider cloud (eks/aro/gke)."
 date_ajout: "2026-11"
 nom: "Karpenter : autoscaling de nœuds et consolidation"
 emoji: "🚀"

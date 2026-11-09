@@ -1,5 +1,6 @@
 ---
 num: 1643
+resume: "Migrer massivement aux passkeys en 2027 (800M+ comptes en 2026, inflection) : comptes sensibles d'abord (admin, paiement, email racine), fallback mot de passe+MFA pendant la transition, 2 passkeys par user, métriques d'adoption (objectif supérieur à 50 % des connexions en passkey). Étape 1 : Inventorier les comptes par criticité : admin, paiement, email racine, VPN → passkeys d'abord."
 date_ajout: "2026-11"
 nom: "Passkeys a grande echelle : migration massive post"
 emoji: "🔑"

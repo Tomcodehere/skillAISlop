@@ -1,5 +1,6 @@
 ---
 num: 651
+resume: "comprendre une succession : ouverture chez le notaire, inventaire, droits de succession, partage entre héritiers. Étape 1 : Ouvrir la succession : acte de décès, recherche d'un testament (Fichier central des dispositions de dernières volontés), notaire."
 date_ajout: "2026-11"
 nom: "Succession & héritage"
 emoji: "🏛️"

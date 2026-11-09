@@ -1,5 +1,6 @@
 ---
 num: 331
+resume: "écrire des prompts efficaces pour petits modèles locaux : consignes courtes, exemples fermes, formats contraints et attentes réalistes. Étape 1 : Définir la tâche étroite et le format de sortie attendu, avec exemples."
 date_ajout: "2026-11"
 nom: "Prompteur de modèles légers"
 emoji: "🐇"

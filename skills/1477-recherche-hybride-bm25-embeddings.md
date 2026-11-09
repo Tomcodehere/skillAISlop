@@ -1,5 +1,6 @@
 ---
 num: 1477
+resume: "Améliorer le retrieval d'un RAG en 2027 en hybride : BM25 (termes exacts, codes, ids) + embeddings (sens), fusion des scores (RRF k=60 ou pondération 0.3/0.7), évalué sur un golden set de requêtes. Étape 1 : Indexer le corpus en double : embeddings (1443) + index BM25 (pg_bm25, Vespa, Weaviate)."
 date_ajout: "2026-11"
 nom: "Recherche hybride BM25 + embeddings"
 emoji: "🔍"

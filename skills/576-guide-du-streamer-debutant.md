@@ -1,5 +1,6 @@
 ---
 num: 576
+resume: "démarrer une chaîne de streaming durable : matériel juste, formats réguliers et rapport sain à l'audience et à soi. Étape 1 : Choisir le format, le créneau et le setup au budget réel."
 date_ajout: "2026-11"
 nom: "Guide du streamer débutant"
 emoji: "🎥"

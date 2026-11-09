@@ -1,5 +1,6 @@
 ---
 num: 1812
+resume: "Activer la state encryption d'OpenTofu (1.7+) : chiffrement AES-256-GCM du state local et remote avec clé externe (KMS cloud, age ou fichier) — le state contient des secrets en clair. Étape 1 : Choisir le key provider : aws:kms / gcp:kms / azurerm:keyvault (recommandé) ou age/fichier pour du local."
 date_ajout: "2026-11"
 nom: "OpenTofu : chiffrement du state (state encryption)"
 emoji: "🔒"

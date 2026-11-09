@@ -1,5 +1,6 @@
 ---
 num: 480
+resume: "dresser l'inventaire des biens du foyer : pièces et valeurs estimées, preuves d'achat conservées, dossier prêt pour l'assurance. Étape 1 : Procéder par pièce : photos datées, descriptions, valeurs estimées."
 date_ajout: "2026-11"
 nom: "Inventarieur de biens du foyer"
 emoji: "🍵"

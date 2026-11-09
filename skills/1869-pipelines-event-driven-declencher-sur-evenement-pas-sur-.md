@@ -1,5 +1,6 @@
 ---
 num: 1869
+resume: "Passer les pipelines du cron à l'event-driven : capteurs/sensors (fichier S3, message Kafka, webhook, asset amont matérialisé — Airflow 3.2 asset events, Dagster sensors) — meilleure fraîcheur, moins de runs vides. Étape 1 : Identifier les vraies sources d'événements : arrivée fichier S3 (S3 event -supérieur à SQS -supérieur à sensor), topic Kafka, webhook SaaS, asset amont (Dagster sensor / Airfl"
 date_ajout: "2026-11"
 nom: "Pipelines event-driven : déclencher sur événement, pas sur cron"
 emoji: "📨"

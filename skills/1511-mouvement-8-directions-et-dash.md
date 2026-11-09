@@ -1,5 +1,6 @@
 ---
 num: 1511
+resume: "Coder un déplacement 8 directions en 2027 : vecteur d'input normalisé (diagonale = même vitesse), accélération/décélération douces, dash (impulsion + 0,2 s + cooldown 1 s + i-frames + trail). Étape 1 : Input : dir = (x,y).normalized (jamais de diagonale plus rapide)."
 date_ajout: "2026-11"
 nom: "Mouvement 8 directions et dash"
 emoji: "💨"

@@ -1,5 +1,6 @@
 ---
 num: 627
+resume: "accompagner l'allaitement et la diversification alimentaire du nourrisson avec des repères factuels et sans culpabilité. Étape 1 : Faire le point : âge du bébé, mode d'alimentation actuel, objectif (allaitement mixte, sevrage, reprise du travail)."
 date_ajout: "2026-11"
 nom: "Allaitement & diversification"
 emoji: "🍼"

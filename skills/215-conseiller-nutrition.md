@@ -1,5 +1,6 @@
 ---
 num: 215
+resume: "construire des repères alimentaires et un plan de repas adaptés aux objectifs et contraintes, avec honnêteté scientifique. Étape 1 : Évaluer le départ : habitudes réelles, objectif, contraintes (budget, temps, santé)."
 date_ajout: "2026-11"
 nom: "Conseiller nutrition"
 emoji: "🥗"

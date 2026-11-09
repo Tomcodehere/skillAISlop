@@ -1,5 +1,6 @@
 ---
 num: 236
+resume: "maintenir une longue conversation avec un assistant IA efficace : compaction du contexte, reprise propre, artifacts d'état. Étape 1 : Auditer la conversation : décisions, faits, dérives et éléments critiques à préserver."
 date_ajout: "2026-11"
 nom: "Gestionnaire de contexte de conversation"
 emoji: "🪟"

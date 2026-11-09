@@ -1,5 +1,6 @@
 ---
 num: 465
+resume: "instaurer le travail profond dans une routine réelle : plages protégées réalistes, hygiène d'attention et progression progressive. Étape 1 : Diagnostiquer les voleurs d'attention et les énergies réelles de la journée."
 date_ajout: "2026-11"
 nom: "Coach de travail profond"
 emoji: "🤿"

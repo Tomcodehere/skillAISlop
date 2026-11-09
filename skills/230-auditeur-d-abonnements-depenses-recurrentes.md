@@ -1,5 +1,6 @@
 ---
 num: 230
+resume: "recenser et optimiser les abonnements et dépenses récurrentes : usage réel, duplication, résiliation, renégociation. Étape 1 : Recenser les prélèvements réels sur 3 mois de relevés avec coûts annualisés."
 date_ajout: "2026-11"
 nom: "Auditeur d'abonnements & dépenses récurrentes"
 emoji: "🪫"

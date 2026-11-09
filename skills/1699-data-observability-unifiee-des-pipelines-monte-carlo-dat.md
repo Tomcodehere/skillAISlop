@@ -1,5 +1,6 @@
 ---
 num: 1699
+resume: "Unifier l'observabilité data en 2027 sur une plateforme (Monte Carlo/Datafold, ou Soda Cloud + OTel 1680) : fraîcheur, volume, schéma (1461), distribution, lignage (1466), qualité (349) — alertes unifiées (1417), SLA (1678), corrélation incident (1096) ↔ trace (1680). Étape 1 : Choisir : Monte Carlo ou Datafold (SaaS, ML auto, cher) ou Soda Cloud + OTel (1680) open source (plus de config)."
 date_ajout: "2026-11"
 nom: "Data observability unifiée des pipelines : Monte Carlo, Datafold, Soda"
 emoji: "📈"

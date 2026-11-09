@@ -1,5 +1,6 @@
 ---
 num: 1694
+resume: "Appliquer les tendances design web 2027 avec sobriété : bento grids (cartes modulaires), glassmorphism léger et lisible, dark mode auto + haut contraste (1496/1575), micro-typo soignée — en gardant l'accessibilité (1484) prioritaire sur la tendance. Étape 1 : Bento grid : grille 12 colonnes, cartes 2x2/4x2/6x2 avec contenu hiérarchisé (titre + visuel + CTA), pas de carte vide."
 date_ajout: "2026-11"
 nom: "Tendances design web : bento grids, verre sobre, dark auto"
 emoji: "🎨"

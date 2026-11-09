@@ -1,5 +1,6 @@
 ---
 num: 233
+resume: "rendre une entreprise attirante pour les candidats avec des contenus honnêtes : pages carrières, posts, témoignages d'équipe. Étape 1 : Collecter la matière réelle : avis salariés, entretiens, vérités à dire et à taire."
 date_ajout: "2026-11"
 nom: "Rédacteur d'employer branding"
 emoji: "🎊"

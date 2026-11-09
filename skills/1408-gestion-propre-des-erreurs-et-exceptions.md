@@ -1,5 +1,6 @@
 ---
 num: 1408
+resume: "Écrire une gestion d'erreurs propre en 2027 : attraper au bon niveau, exceptions métier nommées avec contexte, message utilisateur actionnable (jamais la stack trace en prod). Étape 1 : Lister les opérations qui peuvent échouer et à quel niveau on peut réagir."
 date_ajout: "2026-11"
 nom: "Gestion propre des erreurs et exceptions"
 emoji: "⚠️"

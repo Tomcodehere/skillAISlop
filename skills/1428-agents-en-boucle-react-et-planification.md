@@ -1,5 +1,6 @@
 ---
 num: 1428
+resume: "Implémenter un agent ReAct en 2027 : boucle Thought → Action (outil) → Observation jusqu'à la réponse finale, avec limite d'itérations (max 10) et trace lisible pour le debug. Étape 1 : Écrire le system prompt avec le format Thought/Action/Observation strict."
 date_ajout: "2026-11"
 nom: "Agents en boucle ReAct et planification"
 emoji: "🔁"

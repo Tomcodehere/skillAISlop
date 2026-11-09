@@ -1,5 +1,6 @@
 ---
 num: 362
+resume: "auditer la cohérence d'une marque sur tous les points de contact : ton, visuel, promesse, avec les écarts hiérarchisés et un plan de correction. Étape 1 : Recenser tous les points de contact et collecter les matériaux réels."
 date_ajout: "2026-11"
 nom: "Auditeur de cohérence de marque 360"
 emoji: "🎽"

@@ -1,5 +1,6 @@
 ---
 num: 1948
+resume: "Des meubles démontables et remontables sans dommage. Étape 1 : Choisir les inserts/écrous adaptés à l'épaisseur (18 mm min pour M6)."
 date_ajout: "2026-11"
 nom: "Assemblages démontables"
 emoji: "🔧"

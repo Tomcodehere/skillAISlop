@@ -1,5 +1,6 @@
 ---
 num: 1674
+resume: "Faire du BI as code en 2027 avec Rill (open source) : dashboards en YAML/SQL sur DuckDB (1660), versionnés dans Git, déployés en 1 clic (Rill Cloud ou self-host), alertes intégrées — pour les petites équipes data. Étape 1 : Projet Rill : rill project init, sources (S3/Parquet via DuckDB 1660, MotherDuck 1661)."
 date_ajout: "2026-11"
 nom: "Rill : BI as code sur DuckDB"
 emoji: "📊"

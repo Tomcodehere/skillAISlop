@@ -1,5 +1,6 @@
 ---
 num: 1231
+resume: "Maîtriser PowerShell Desired State Configuration (DSC) pour configurations Windows Server idempotentes, reproductibles et versionées. Étape 1 : Définir configuration cible (rôles, features, services, registry)."
 date_ajout: "2026-11"
 nom: "PowerShell DSC Advanced"
 emoji: "💻"

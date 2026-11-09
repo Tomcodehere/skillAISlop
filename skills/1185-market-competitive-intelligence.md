@@ -1,5 +1,6 @@
 ---
 num: 1185
+resume: "Collecter, qualifier et synthétiser des informations de marché et de concurrence pour éclairer les décisions commerciales et stratégiques. Le livrable distingue les faits sourcés, les signaux, les hypothèses et les inconnues."
 date_ajout: "2026-11"
 nom: "Market & Competitive Intelligence"
 emoji: "🔬"

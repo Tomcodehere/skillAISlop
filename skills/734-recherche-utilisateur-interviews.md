@@ -1,5 +1,6 @@
 ---
 num: 734
+resume: "mener des interviews utilisateurs utiles : recruter, guider sans biais, synthétiser les apprentissages actionnables. Étape 1 : Recruter 5-8 utilisateurs du segment cible et préparer un guide de questions ouvertes sur les comportements."
 date_ajout: "2026-11"
 nom: "Recherche utilisateur & interviews"
 emoji: "🎙️"

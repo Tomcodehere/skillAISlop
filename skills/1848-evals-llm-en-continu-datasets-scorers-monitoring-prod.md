@@ -1,5 +1,6 @@
 ---
 num: 1848
+resume: "Évaluer les LLM en continu : datasets de evals (qualité, sécurité, RAG 1397) avec scorers custom en gate CI (Braintrust/promptfoo/Langfuse), et monitoring prod (verdicts guardrails tracés 1750/1765) qui enrichissent le dataset. Étape 1 : Dataset : cas représentatifs (qualité, sécurité 1847, RAG 1397) avec réponses attendues/scorers."
 date_ajout: "2026-11"
 nom: "Evals LLM en continu : datasets, scorers, monitoring prod"
 emoji: "📊"

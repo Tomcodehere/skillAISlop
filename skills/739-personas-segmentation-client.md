@@ -1,5 +1,6 @@
 ---
 num: 739
+resume: "définir 2-3 personas précis (données réelles, pas de suppositions) pour cibler messages et offres. Étape 1 : Collecter les données réelles : entretiens, avis clients, analytics, tickets support, données CRM."
 date_ajout: "2026-11"
 nom: "Personas & segmentation client"
 emoji: "🎯"

@@ -1,5 +1,6 @@
 ---
 num: 867
+resume: "démarrer un instrument en adulte avec un plan réaliste : 15-20 min/jour, cours en ligne + prof occasionnel, morceaux accessibles. Étape 1 : Objectif réaliste (morceau simple en 3 mois) + 15-20 min/jour à heure fixe avec métronome."
 date_ajout: "2026-11"
 nom: "Apprentissage d'un instrument de musique (adulte)"
 emoji: "🎸"

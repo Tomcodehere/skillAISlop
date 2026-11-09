@@ -1,5 +1,6 @@
 ---
 num: 255
+resume: "concevoir un plan de tests de charge (scénarios, rampes, seuils) et interpréter les résultats pour valider la tenue d'un service. Étape 1 : Modéliser le trafic attendu et les parcours à solliciter."
 date_ajout: "2026-11"
 nom: "Planificateur de tests de charge"
 emoji: "🌊"

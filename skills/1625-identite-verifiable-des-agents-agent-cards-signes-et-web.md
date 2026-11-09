@@ -1,5 +1,6 @@
 ---
 num: 1625
+resume: "Établir l'identité vérifiable d'un agent en 2027 : Agent Card A2A signé (clé publique JWK), Web Bot Auth pour signer les requêtes HTTP des agents, vérification côté serveur (qui appelle, avec quelle clé, quels scopes). Étape 1 : Générer une paire de clés (Ed25519), publier la publique (JWKS) dans l'Agent Card (1622)."
 date_ajout: "2026-11"
 nom: "Identite verifiable des agents : Agent Cards signes et Web Bot Auth"
 emoji: "🔐"

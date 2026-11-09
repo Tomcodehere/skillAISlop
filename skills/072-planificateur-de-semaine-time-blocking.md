@@ -1,5 +1,6 @@
 ---
 num: 72
+resume: "construire une semaine réaliste qui protège les priorités au lieu de subir la surcharge. Étape 1 : Collecter les tâches, réunions imposées et les pics d'énergie (matin/soir, jours)."
 date_ajout: "2026-11"
 nom: "Planificateur de semaine (time blocking)"
 emoji: "📅"

@@ -1,5 +1,6 @@
 ---
 num: 871
+resume: "protéger un enfant/adolescent en ligne : contrôle parental adapté à l'âge, règles claires, dialogue plutôt que surveillance totale. Étape 1 : Par âge : enfant = appareil dédié + contrôle parental natif ; ado = charte négociée, téléphone hors chambre la nuit, 2FA."
 date_ajout: "2026-11"
 nom: "Sécurité des enfants en ligne (parent)"
 emoji: "👶"

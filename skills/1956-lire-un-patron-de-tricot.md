@@ -1,5 +1,6 @@
 ---
 num: 1956
+resume: "Être autonome sur n'importe quel patron de tricot standard (Ravelry, magazines). Étape 1 : Lire la gauge et choisir la taille (mesures + aisance)."
 date_ajout: "2026-11"
 nom: "Lire un patron de tricot"
 emoji: "📖"

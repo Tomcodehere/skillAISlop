@@ -1,5 +1,6 @@
 ---
 num: 994
+resume: "choisir une assurance voyage/rapatriement sanitaire en 2027 : comparer carte bancaire (souvent insuffisante) vs contrat spécialisé, franchises, exclusions, plafond. Étape 1 : Lire d'abord la carte bancaire : plafond souvent 50-150 k€, franchises, exclusions (sports, scooter, alcool)."
 date_ajout: "2026-11"
 nom: "Souscrire une assurance voyage/rapatriement"
 emoji: "🛡️"

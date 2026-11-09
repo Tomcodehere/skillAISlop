@@ -1,5 +1,6 @@
 ---
 num: 716
+resume: "auditer la sécurité d'une skill d'agent avant de l'installer : code, permissions, exfiltration, typosquatting. Étape 1 : Lire le SKILL.md et tous les scripts : exfiltration réseau, lecture de secrets, commandes destructrices, typosquatting."
 date_ajout: "2026-11"
 nom: "Audit de sécurité d'une skill (SKILL.md)"
 emoji: "🛡️"

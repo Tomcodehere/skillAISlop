@@ -1,5 +1,6 @@
 ---
 num: 104
+resume: "extraire d'un article scientifique l'essentiel : question, méthode, résultats, limites — et son degré de fiabilité. Étape 1 : Identifier la question, l'hypothèse et le type d'étude (observation, essai, revue)."
 date_ajout: "2026-11"
 nom: "Lecteur d'études scientifiques"
 emoji: "🧬"

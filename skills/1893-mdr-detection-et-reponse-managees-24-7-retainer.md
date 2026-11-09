@@ -1,5 +1,6 @@
 ---
 num: 1893
+resume: "Souscrire un MDR 24/7 (réponse + hunting, pas juste alerte) quand pas de SOC interne : contrat avec SLA (15 min critique), périmètre clair, escalade — comparer le coût vs un analyste interne. Étape 1 : Périmètre : tous les endpoints + cloud + identity (sinon trous)."
 date_ajout: "2026-11"
 nom: "MDR : détection et réponse managées 24/7 (retainer)"
 emoji: "👾"

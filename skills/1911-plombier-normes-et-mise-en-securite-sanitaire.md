@@ -1,5 +1,6 @@
 ---
 num: 1911
+resume: "Poser une plomberie sanitaire conforme (évacuations, arrivées d'eau, anti-retour) et testée. Étape 1 : Tracer le réseau (arrivées eau froide/chaude, évacuations avec pentes 1-3 cm/m)."
 date_ajout: "2026-11"
 nom: "Plombier : normes et mise en sécurité sanitaire"
 emoji: "🔧"

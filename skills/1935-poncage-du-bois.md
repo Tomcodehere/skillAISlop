@@ -1,5 +1,6 @@
 ---
 num: 1935
+resume: "Une surface lisse, prête à recevoir la finition, sans rayures ni fibres relevées. Étape 1 : Dégrossir au 80 si besoin, puis 120, 180."
 date_ajout: "2026-11"
 nom: "Ponçage du bois"
 emoji: "🧽"

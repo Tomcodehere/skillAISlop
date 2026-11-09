@@ -1,5 +1,6 @@
 ---
 num: 309
+resume: "mesurer honnêtement la performance d'un morceau de code : protocole de benchmark reproductible, variance contrôlée et rapport avant/après. Étape 1 : Écrire le scénario de benchmark avec des données et conditions réalistes."
 date_ajout: "2026-11"
 nom: "Benchmarkeur de code"
 emoji: "🌉"

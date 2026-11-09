@@ -1,5 +1,6 @@
 ---
 num: 882
+resume: "préparer et mener une négociation fournisseur : benchmark, BATNA (meilleure alternative), leviers, contrat équilibré. Étape 1 : Benchmark 3 offres + BATNA identifié (alternative crédible) + leviers (volume, durée, paiement rapide)."
 date_ajout: "2026-11"
 nom: "Préparation d'une négociation fournisseurs"
 emoji: "🤝"

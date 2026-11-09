@@ -1,5 +1,6 @@
 ---
 num: 409
+resume: "bâtir le plan de succession des postes clés : candidats internes identifiés, écarts connus, plans de préparation et risque de vacance chiffré. Étape 1 : Cartographier les postes critiques par impact de départ et rareté."
 date_ajout: "2026-11"
 nom: "Planificateur de succession de talents"
 emoji: "🍕"

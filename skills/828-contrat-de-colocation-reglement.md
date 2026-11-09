@@ -1,5 +1,6 @@
 ---
 num: 828
+resume: "rédiger un contrat de colocation solide : bail solidaire ou individuel, répartition des charges, règlement intérieur signé, gestion des départs. Étape 1 : Choisir le bail (solidaire vs individuel) et la répartition des charges (forfait ou réel + régularisation)."
 date_ajout: "2026-11"
 nom: "Contrat de colocation & règlement"
 emoji: "🏘️"

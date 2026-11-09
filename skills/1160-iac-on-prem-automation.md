@@ -1,5 +1,6 @@
 ---
 num: 1160
+resume: "Définir et implémenter des stratégies d'Infrastructure as Code pour infrastructure on-prem et hybride via Ansible, Terraform on-prem, scripts de provisioning standardisés, idempotents et versionnés. Étape 1 : Auditer infra existante (inventaire, configs manuelles actuelles)."
 date_ajout: "2026-11"
 nom: "IaC On-Prem Automation"
 emoji: "💻"

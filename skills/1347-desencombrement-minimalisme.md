@@ -1,5 +1,6 @@
 ---
 num: 1347
+resume: "désencombrer sa maison en 2027 avec la méthode KonMari (par catégorie, pas par pièce) et la règle « 1 entré = 1 sorti » pour que ça dure. Étape 1 : Par catégorie (vêtements → livres → papiers → divers → sentimental), chaque objet tenu en main."
 date_ajout: "2026-11"
 nom: "Désencombrement & minimalisme"
 emoji: "🧹"

@@ -1,5 +1,6 @@
 ---
 num: 291
+resume: "diagnostiquer une panne domestique à distance : triage des symptômes, causes probables et décision réparer soi-même ou appeler un professionnel. Étape 1 : Recueillir les symptômes et l'historique : depuis quand, après quoi, bruits, odeurs."
 date_ajout: "2026-11"
 nom: "Diagnostiqueur de pannes domestiques"
 emoji: "🩹"

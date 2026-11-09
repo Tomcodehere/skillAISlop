@@ -1,5 +1,6 @@
 ---
 num: 208
+resume: "concevoir des ateliers qui produisent un résultat concret : objectif clair, séquence rythmée, matériels, rôles. Étape 1 : Définir le livrable, les participants et le temps total disponible."
 date_ajout: "2026-11"
 nom: "Concepteur d'ateliers & séances de travail"
 emoji: "🧰"

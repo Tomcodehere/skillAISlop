@@ -1,5 +1,6 @@
 ---
 num: 845
+resume: "rédiger un CDC qui évite les malentendus : contexte, objectifs mesurables, périmètre IN/OUT, contraintes, critères d'acceptation. Étape 1 : Contexte + objectifs mesurables ; périmètre IN/OUT explicite, contraintes (budget, délai, légal)."
 date_ajout: "2026-11"
 nom: "Rédaction de cahier des charges"
 emoji: "📐"

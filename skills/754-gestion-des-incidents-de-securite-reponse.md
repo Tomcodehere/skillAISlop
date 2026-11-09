@@ -1,5 +1,6 @@
 ---
 num: 754
+resume: "réagir méthodiquement à un incident de sécurité : contenir, investiguer, notifier, communiquer, et post-mortem. Étape 1 : Contenir : isoler les systèmes touchés, préserver les preuves, couper les accès compromis."
 date_ajout: "2026-11"
 nom: "Gestion des incidents de sécurité (réponse)"
 emoji: "🚨"

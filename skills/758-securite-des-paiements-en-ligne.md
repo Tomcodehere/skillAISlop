@@ -1,5 +1,6 @@
 ---
 num: 758
+resume: "payer en ligne en sécurité : vérifier le marchand, utiliser la 3-D Secure, les cartes virtuelles, et savoir réagir en cas de fraude. Étape 1 : Vérifier le marchand : https, domaine exact, avis indépendants, mentions légales, contact réel."
 date_ajout: "2026-11"
 nom: "Sécurité des paiements en ligne"
 emoji: "💳"

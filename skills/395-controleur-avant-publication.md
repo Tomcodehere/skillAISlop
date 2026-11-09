@@ -1,5 +1,6 @@
 ---
 num: 395
+resume: "contrôler un contenu sensible avant publication : faits vérifiés, sources datées, ton calibré, risques identifiés et décision assumée. Étape 1 : Vérifier faits, chiffres, citations et dates de sources, un par un."
 date_ajout: "2026-11"
 nom: "Contrôleur avant publication"
 emoji: "🍌"

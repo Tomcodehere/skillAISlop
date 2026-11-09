@@ -1,5 +1,6 @@
 ---
 num: 400
+resume: "rédiger des procès-verbaux irréprochables : décisions nettes, votes consignés, délégations tracées, language neutre et valeur légale. Étape 1 : Préparer le canevas : présences, pouvoirs, ordre du jour, décisions attendues."
 date_ajout: "2026-11"
 nom: "Rédacteur de procès-verbaux"
 emoji: "🍎"

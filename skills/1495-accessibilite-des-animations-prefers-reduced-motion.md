@@ -1,5 +1,6 @@
 ---
 num: 1495
+resume: "Rendre les animations accessibles en 2027 : media query prefers-reduced-motion (réduire/désactiver), jamais plus de 3 flashs par secondeeconde (risque épileptique, WCAG 2.3.1), durées inférieur à 500 ms, alternative statique prévue. Étape 1 : Inventorier les animations et mesurer : flashs/s (outil WCAG), durées, déplacements (parallax fort ?)."
 date_ajout: "2026-11"
 nom: "Accessibilite des animations (prefers-reduced-motion)"
 emoji: "🎬"

@@ -1,5 +1,6 @@
 ---
 num: 1043
+resume: "Concevoir stratégie backup/restore automatisée (Veeam, Bacula, cloud native) avec RTO/RPO définis, tests DR réguliers, immutabilité."
 date_ajout: "2026-11"
 nom: "Backup Recovery Automation"
 emoji: "💻"

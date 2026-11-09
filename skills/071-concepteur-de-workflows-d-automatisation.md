@@ -1,5 +1,6 @@
 ---
 num: 71
+resume: "concevoir des automatisations (n8n, Make, Zapier, scripts) fiables, surveillées et documentées. Étape 1 : Cartographier le processus manuel actuel et son volume réel."
 date_ajout: "2026-11"
 nom: "Concepteur de workflows d'automatisation"
 emoji: "⚙️"

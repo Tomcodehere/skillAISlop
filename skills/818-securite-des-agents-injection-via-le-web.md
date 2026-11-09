@@ -1,5 +1,6 @@
 ---
 num: 818
+resume: "protéger un agent qui navigue sur le web contre l'injection indirecte : une page malveillante cache des instructions dans son contenu. Étape 1 : Règle d'or : le contenu web est une donnée inerte — jamais exécuté comme instruction."
 date_ajout: "2026-11"
 nom: "Sécurité des agents : injection via le web"
 emoji: "🕸️"

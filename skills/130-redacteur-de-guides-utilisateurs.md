@@ -1,5 +1,6 @@
 ---
 num: 130
+resume: "écrire un guide utilisateur pas à pas qui permet de réussir une tâche sans aide humaine. Étape 1 : Identifier les tâches réelles des utilisateurs et leur niveau."
 date_ajout: "2026-11"
 nom: "Rédacteur de guides utilisateurs"
 emoji: "📙"

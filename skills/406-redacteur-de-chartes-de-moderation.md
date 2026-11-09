@@ -1,5 +1,6 @@
 ---
 num: 406
+resume: "rédiger les règles de modération d'une communauté : comportements attendus et interdits, échelle de sanctions, procédure d'appel. Étape 1 : Recenser les situations réelles de la communauté et les litiges passés."
 date_ajout: "2026-11"
 nom: "Rédacteur de chartes de modération"
 emoji: "🍓"

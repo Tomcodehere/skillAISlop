@@ -1,5 +1,6 @@
 ---
 num: 426
+resume: "cartographier les parties prenantes d'un projet ou d'une décision : influence, intérêt, position et stratégie d'engagement par acteur. Étape 1 : Identifier tous les acteurs réels, y compris informels et externes."
 date_ajout: "2026-11"
 nom: "Cartographe des parties prenantes"
 emoji: "🍜"

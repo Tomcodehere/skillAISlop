@@ -1,5 +1,6 @@
 ---
 num: 403
+resume: "rédiger une déclaration officielle : position nette, faits vérifiés, cadre juridique respecté et porte de sortie pour la suite. Étape 1 : Poser la position, les faits vérifiés et le cadre juridique de l'annonce."
 date_ajout: "2026-11"
 nom: "Rédacteur de déclarations officielles"
 emoji: "🍑"

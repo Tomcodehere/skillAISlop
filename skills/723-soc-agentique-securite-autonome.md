@@ -1,5 +1,6 @@
 ---
 num: 723
+resume: "comprendre et déployer un SOC agentique : agents qui trient les alertes, corrèlent la threat intel et contiennent automatiquement. Étape 1 : Cartographier le SOC actuel : sources d'alertes, taux de faux positifs, temps de triage manuel."
 date_ajout: "2026-11"
 nom: "SOC agentique & sécurité autonome"
 emoji: "🤖"

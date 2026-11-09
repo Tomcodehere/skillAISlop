@@ -1,5 +1,6 @@
 ---
 num: 931
+resume: "comprendre l'arrivée des robots humanoïdes au travail en 2027 (65 000 h de fonctionnement pour Digit, 90 000 pièces chez BMW en 2026) et évaluer si ça concerne son secteur. Étape 1 : Évaluer le poste/secteur : tâches répétitives et physiques = robot candidant ; contact client/finesse = non."
 date_ajout: "2026-11"
 nom: "Robots humanoïdes au travail"
 emoji: "🦾"

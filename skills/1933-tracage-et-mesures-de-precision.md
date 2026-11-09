@@ -1,5 +1,6 @@
 ---
 num: 1933
+resume: "Des tracés justes et reproductibles, base de tout assemblage réussi. Étape 1 : Choisir la face de référence (la plus plane) et le chant de référence."
 date_ajout: "2026-11"
 nom: "Traçage et mesures de précision"
 emoji: "✏️"

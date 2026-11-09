@@ -1,5 +1,6 @@
 ---
 num: 690
+resume: "construire un système RAG fiable : ingestion et découpage des documents, index vectoriel, récupération pertinente et réponses sourcées. Étape 1 : Préparer le corpus : nettoyer, structurer, découper en chunks cohérents avec métadonnées (source, date)."
 date_ajout: "2026-11"
 nom: "RAG & recherche augmentée"
 emoji: "🔍"

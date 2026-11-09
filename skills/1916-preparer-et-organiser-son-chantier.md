@@ -1,5 +1,6 @@
 ---
 num: 1916
+resume: "Démarrer un chantier organisé, sécurisé et conforme (DT-DICT, implantation, accès, stockage). Étape 1 : Faire les déclarations DT-DICT si réseaux à proximité, attendre les réponses (délai légal)."
 date_ajout: "2026-11"
 nom: "Préparer et organiser son chantier"
 emoji: "🚧"

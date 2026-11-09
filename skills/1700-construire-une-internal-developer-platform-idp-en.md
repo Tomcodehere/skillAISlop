@@ -1,5 +1,6 @@
 ---
 num: 1700
+resume: "Concevoir une IDP en 2027 : portail Backstage (CNCF, catalogue de services + templates Scaffolder) + golden paths (service neuf préconfiguré : repo, CI, k8s, observabilité) + self-service infra (Crossplane), mesuré en DORA (lead time, fréquence de déploiement). Étape 1 : Auditer la file de tickets : les 3 demandes les plus fréquentes = premiers golden paths."
 date_ajout: "2026-11"
 nom: "Construire une Internal Developer Platform (IDP) en"
 emoji: "🏗️"

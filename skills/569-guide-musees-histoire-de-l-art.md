@@ -1,5 +1,6 @@
 ---
 num: 569
+resume: "visiter les musées avec plaisir et compréhension : repères de mouvements, lecture d'œuvres et parcours réaliste. Étape 1 : Cadrer l'exposition, le temps et les repères historiques nécessaires."
 date_ajout: "2026-11"
 nom: "Guide musées & histoire de l'art"
 emoji: "🏛️"

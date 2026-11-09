@@ -1,5 +1,6 @@
 ---
 num: 32
+resume: "comparer une offre à ses concurrents et en tirer un positionnement défendable. Étape 1 : Définir les critères comparatifs avec l'utilisateur avant de remplir."
 date_ajout: "2026-11"
 nom: "Analyseur concurrentiel"
 emoji: "🥊"

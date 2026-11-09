@@ -1,5 +1,6 @@
 ---
 num: 180
+resume: "écrire une documentation d'API que les développeurs préfèrent à vous poser des questions. Étape 1 : Cartographier le parcours du développeur et ses blocages probables."
 date_ajout: "2026-11"
 nom: "Rédacteur de documentation d'API"
 emoji: "ℹ️"

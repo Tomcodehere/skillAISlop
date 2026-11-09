@@ -1,5 +1,6 @@
 ---
 num: 1867
+resume: "Ingerer des données avec Airbyte (300+ connecteurs, batch ou CDC via Debezium embarqué, self-host OSS ou Cloud) et brancher les syncs comme assets Airflow/Dagster (1863/1864). Étape 1 : Déployer Airbyte (docker OSS ou Cloud), configurer source + destination + connexion (batch/CDC 1866)."
 date_ajout: "2026-11"
 nom: "Airbyte : 300+ connecteurs, ingestion et CDC managés"
 emoji: "🌬️"

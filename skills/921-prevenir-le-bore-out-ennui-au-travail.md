@@ -1,5 +1,6 @@
 ---
 num: 921
+resume: "reconnaître et sortir du bore-out (ennui chronique au travail, perte de sens, sous-charge) différent du burn-out : réengager, demander des missions, limites. Étape 1 : Reconnaître : ennui chronique, sentiment d'inutilité, cynisme, procrastination — distinct du burn-out."
 date_ajout: "2026-11"
 nom: "Prévenir le bore-out (ennui au travail)"
 emoji: "🥱"

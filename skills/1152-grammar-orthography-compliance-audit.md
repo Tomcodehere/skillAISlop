@@ -1,5 +1,6 @@
 ---
 num: 1152
+resume: "Auditer et corriger la grammaire, l'orthographe, la syntaxe et la ponctuation en français, anglais et néerlandais, sur du contenu textuel déjà rédigé, sans en modifier le ton ni le fond."
 date_ajout: "2026-11"
 nom: "Grammar & Orthography Compliance Audit"
 emoji: "✍️"

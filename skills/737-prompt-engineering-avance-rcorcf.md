@@ -1,5 +1,6 @@
 ---
 num: 737
+resume: "rédiger des prompts structurés et fiables avec le cadre RCORCF (Rôle, Contexte, Objectif, Ressources, Contraintes, Format). Étape 1 : Rédiger le prompt en RCORCF : rôle, contexte, objectif, ressources, contraintes, format de sortie."
 date_ajout: "2026-11"
 nom: "Prompt engineering avancé (RCORCF)"
 emoji: "🧠"

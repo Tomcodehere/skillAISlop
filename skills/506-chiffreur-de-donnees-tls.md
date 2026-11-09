@@ -1,5 +1,6 @@
 ---
 num: 506
+resume: "choisir et mettre en œuvre le chiffrement d'un système : TLS, certificats, chiffrement au repos et gestion des clés. Étape 1 : Cartographier les flux et les stockages avec leur exposition réelle."
 date_ajout: "2026-11"
 nom: "Chiffreur de données & TLS"
 emoji: "⛓"

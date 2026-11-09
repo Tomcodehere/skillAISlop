@@ -1,5 +1,6 @@
 ---
 num: 1259
+resume: "Construire et maintenir un registre des risques structuré (identification, catégorisation, cotation probabilité x impact, priorisation), définir des plans de mitigation et de contingence, applicable à tout type de projet (informatique, BTP, événementiel, marketing, R&D, industriel, associatif). Étape 1 : Identification des risques (brainstorming avec parties prenantes, retours d'expérience, checkl"
 date_ajout: "2026-11"
 nom: "Risk Register & Mitigation Planning"
 emoji: "🎨"

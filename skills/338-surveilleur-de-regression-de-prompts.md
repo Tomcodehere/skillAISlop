@@ -1,5 +1,6 @@
 ---
 num: 338
+resume: "détecter les régressions de prompts : chaque version modifiée est rejouée sur un jeu de cas de référence, avec alerte si la qualité recule. Étape 1 : Constituer le jeu de cas de référence avec les sorties attendues ou acceptables."
 date_ajout: "2026-11"
 nom: "Surveilleur de régression de prompts"
 emoji: "🌥"

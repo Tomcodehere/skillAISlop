@@ -1,5 +1,6 @@
 ---
 num: 1442
+resume: "Mettre en place un cache sémantique LLM en 2027 : embedder la requête entrante, si similarité supérieure à 0,95 avec une requête cachée, renvoyer la réponse en cache (économie de tokens et latence). Étape 1 : Embedder chaque requête entrante (modèle léger)."
 date_ajout: "2026-11"
 nom: "Cache semantique des reponses LLM"
 emoji: "💾"

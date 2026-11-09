@@ -1,5 +1,6 @@
 ---
 num: 371
+resume: "récupérer les factures impayées en préservant la relation : calendrier de relance gradué, messages adaptés au stade et escalade encadrée. Étape 1 : Établir la liste des impayés par âge, montant et historique de la relation."
 date_ajout: "2026-11"
 nom: "Relanceur de factures impayées"
 emoji: "💢"

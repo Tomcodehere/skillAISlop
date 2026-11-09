@@ -1,5 +1,6 @@
 ---
 num: 60
+resume: "imaginer l'échec du projet avant de le lancer, pour débusquer les risques que personne n'ose nommer. Étape 1 : Formuler le projet et sa définition du succès."
 date_ajout: "2026-11"
 nom: "Prémortem de projet"
 emoji: "🔮"

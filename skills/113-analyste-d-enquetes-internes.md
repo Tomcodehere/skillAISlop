@@ -1,5 +1,6 @@
 ---
 num: 113
+resume: "concevoir et analyser une enquête interne (baromètre social, satisfaction équipe) qui donne des résultats actionnables. Étape 1 : Définir les thèmes à sonder et concevoir le questionnaire neutre avec échelles et questions ouvertes."
 date_ajout: "2026-11"
 nom: "Analyste d'enquêtes internes"
 emoji: "🗳️"

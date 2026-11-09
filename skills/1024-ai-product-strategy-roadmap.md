@@ -1,5 +1,6 @@
 ---
 num: 1024
+resume: "Définir la vision et la stratégie long terme de produits IA/ML, construire des roadmaps modèles ML alignées sur les objectifs métier. Étape 1 : Relier les opportunités IA aux objectifs métier et besoins utilisateurs."
 date_ajout: "2026-11"
 nom: "AI Product Strategy & Roadmap"
 emoji: "🧠"

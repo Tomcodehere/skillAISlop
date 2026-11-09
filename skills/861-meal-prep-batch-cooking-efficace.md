@@ -1,5 +1,6 @@
 ---
 num: 861
+resume: "préparer les repas de la semaine en une session (batch cooking) pour gagner du temps et manger mieux. Étape 1 : Choisir 2-3 recettes qui se congèlent bien + bases (céréales, légumes rôtis) ; courses ciblées."
 date_ajout: "2026-11"
 nom: "Meal prep & batch cooking efficace"
 emoji: "🍱"

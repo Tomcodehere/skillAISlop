@@ -1,5 +1,6 @@
 ---
 num: 1020
+resume: "Prioriser les features IA selon la valeur métier, définir et suivre les métriques de succès des produits IA/ML. Étape 1 : Cadrer l'objectif et les décisions à prendre."
 date_ajout: "2026-11"
 nom: "AI Feature Prioritization & Metrics"
 emoji: "🤖"
