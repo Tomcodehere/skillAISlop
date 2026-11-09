@@ -5203,6 +5203,17 @@ TESTS_ROUTAGE_EN = [
     ("I procrastinate on big tasks", 26),
     ("write a 30s TikTok ad script", 29),
     ("optimise my LinkedIn post", 30),
+    ("write a LinkedIn post about my product launch", 31),
+    ("benchmark our 3 main competitors", 32),
+    ("build user personas for our app", 33),
+    ("create a skill package in SKILL.md format", 38),
+    ("make flashcards from this chapter", 40),
+    ("run a mock exam with grading", 41),
+    ("plan a 10-day trip to Japan", 42),
+    ("write cold emails that get replies", 54),
+    ("fill a business model canvas", 57),
+    ("design our pricing tiers", 58),
+    ("run a project premortem", 60),
 ]
 
 

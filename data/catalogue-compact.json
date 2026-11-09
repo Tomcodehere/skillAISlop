@@ -831,7 +831,8 @@
       ],
       "resume": "écrire des posts LinkedIn qui construisent une autorité, avec la voix authentique de l'auteur. Étape 1 : Analyser la voix de l'auteur (anciens posts) et son positionnement.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -851,7 +852,8 @@
       "synonymes": [],
       "resume": "comparer une offre à ses concurrents et en tirer un positionnement défendable. Étape 1 : Définir les critères comparatifs avec l'utilisateur avant de remplir.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -871,7 +873,8 @@
       ],
       "resume": "créer des personas réalistes, actionnables, basés sur des données réelles plutôt que des stéréotypes. Étape 1 : Recueillir les sources disponibles (données, interviews, hypothèses de l'équipe).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -888,7 +891,8 @@
       "synonymes": [],
       "resume": "garantir que tout contenu produit respecte la charte de marque : ton, style, vocabulaire, valeurs. Étape 1 : Absorber la charte (ou en faire rédiger une minimale si absente).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -907,7 +911,8 @@
       "synonymes": [],
       "resume": "concevoir un système qui sélectionne les top-K éléments pour un utilisateur donné (feeds, reranking, notifications). Étape 1 : Clarifier le cas d'usage (feed, recherche, notifications) et les contraintes (latence, volume).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -926,7 +931,8 @@
       "synonymes": [],
       "resume": "définir les bons indicateurs et concevoir un dashboard qui sert la décision, pas la décoration. Étape 1 : Identifier les décisions à éclairer et leur fréquence.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -943,7 +949,8 @@
       "synonymes": [],
       "resume": "chercher activement les failles d'un prompt ou d'un système IA avant la mise en production : détournements, fuites, comportements indésirables. Étape 1 : Cartographier les actifs à protéger (instructions, données, comportements).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -963,7 +970,8 @@
       "synonymes": [],
       "resume": "transformer un savoir-faire ou un workflow en package de skill standard (format SKILL.md), réutilisable par un agent IA. Étape 1 : Recueillir le workflow existant et identifier les décisions de jugement à encoder.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -984,7 +992,8 @@
       ],
       "resume": "faire comprendre par questions guidées plutôt qu'expliquer : l'apprenant raisonne, l'IA féconde. Étape 1 : Évaluer le niveau de départ avec 1-2 questions d'ouverture.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1004,7 +1013,8 @@
       ],
       "resume": "générer du matériel de révision mémorisable : flashcards et quiz calibrés sur le niveau réel. Étape 1 : Clarifier le sujet, le niveau et la date de l'examen (pour calibrer le volume).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1025,7 +1035,8 @@
       ],
       "resume": "simuler un examen complet dans les conditions réelles, puis débriefyer pour progresser. Étape 1 : Recueillir le format exact de l'examen (sujets, durée, barème, annales si disponibles).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1049,7 +1060,8 @@
       ],
       "resume": "construire un itinéraire de voyage réaliste, budgété et rythmé, adapté aux goûts du voyageur. Étape 1 : Recueillir destination (ou envies), dates, budget, composition et style de voyage.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1068,7 +1080,8 @@
       "synonymes": [],
       "resume": "structurer et améliorer un budget personnel : vision claire, priorités, plan d'action chiffré. Étape 1 : Collecter revenus nets et dépenses du mois (même approximatives).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1090,7 +1103,8 @@
       ],
       "resume": "améliorer CV et lettre pour une offre précise, en maximisant la correspondance et l'impact. Étape 1 : Analyser l'offre (exigences, mots-clés, culture apparente de l'entreprise).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1109,7 +1123,8 @@
       "synonymes": [],
       "resume": "se préparer et s'entraîner à une négociation (salaire, prix, contrat) avec un adversaire joué de façon réaliste. Étape 1 : Clarifier l'enjeu, le rapport de force et ce qui est négociable (et non).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1128,7 +1143,8 @@
       "synonymes": [],
       "resume": "préparer un entretien délicat (feedback dur, conflit, annonce) pour qu'il reste constructif et aboutisse. Étape 1 : Clarifier la situation, les faits et la relation.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1147,7 +1163,8 @@
       "synonymes": [],
       "resume": "trouver des noms de marque, produit ou projet : mémorisables, prononçables, distinctifs. Étape 1 : Cadrer le brief de naming avec positionnement et interdits.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1164,7 +1181,8 @@
       "synonymes": [],
       "resume": "concevoir une infographie statique ou animée qui révèle une séquence d'informations, en SVG ou HTML. Étape 1 : Clarifier le message unique et l'audience (interne ou grand public).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1184,7 +1202,8 @@
       "synonymes": [],
       "resume": "s'entraîner face à un personnage réaliste (client mécontent, prospect, utilisateur) pour un commercial, un support ou un manager. Étape 1 : Définir le persona du rôle, le contexte et le niveau de difficulté.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1207,7 +1226,8 @@
       ],
       "resume": "transformer un processus fait « dans la tête des gens » en procédure écrite, exécutable par quelqu'un d'autre (humain ou agent IA). Étape 1 : Interviewer le détenteur du savoir (ou analyser les notes fournies) pour extraire les étapes implicites.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1230,7 +1250,8 @@
       ],
       "resume": "écrire des éditions de newsletter qui fidélisent : ouverture, lecture complète, clics. Étape 1 : Clarifier l'audience et la promesse éditoriale de la newsletter.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1250,7 +1271,8 @@
       "synonymes": [],
       "resume": "écrire des scripts vidéo long format (6-15 min) structurés pour la rétention, adaptés au format. Étape 1 : Clarifier le sujet, le format et l'audience (abonnés ou recherche ?).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1267,7 +1289,8 @@
       "synonymes": [],
       "resume": "transformer un contenu source (transcription, vidéo, article) en une semaine de contenus multi-plateformes, dans une voix cohérente. Étape 1 : Analyser la source et extraire les 3-5 idées fortes réutilisables.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1290,7 +1313,8 @@
       ],
       "resume": "écrire des séquences de prospection à froid qui obtiennent des réponses : email, LinkedIn, appel. Étape 1 : Clarifier l'offre, la cible (persona via la skill 33) et le déclencheur de personnalisation.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1310,7 +1334,8 @@
       "synonymes": [],
       "resume": "transformer des verbatims clients (enquêtes, avis, tickets) en insights priorisés et actionnables. Étape 1 : Collecter et nettoyer les verbatims (source, date, segment client).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1330,7 +1355,8 @@
       "synonymes": [],
       "resume": "construire une base de réponses types (macros), une FAQ et des règles d'escalade cohérentes pour une équipe support. Étape 1 : Analyser les demandes types réelles de l'équipe.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1353,7 +1379,8 @@
       ],
       "resume": "cartographier un modèle économique complet sur les 9 blocs du BMC et en tester la cohérence. Étape 1 : Clarifier le produit/service et le stade (idée, lancé, pivot).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1376,7 +1403,8 @@
       ],
       "resume": "définir un modèle de prix (structure, niveau, paliers) qui sert les objectifs business et le positionnement. Étape 1 : Clarifier coûts, cible, positionnement et objectif (marge, volume, adoption).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1396,7 +1424,8 @@
       "synonymes": [],
       "resume": "rendre lisibles compte de résultat, bilan et trésorerie d'une PME pour un dirigeant non-financier. Étape 1 : Identifier le type de document et l'année de référence.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -1417,7 +1446,8 @@
       "synonymes": [],
       "resume": "imaginer l'échec du projet avant de le lancer, pour débusquer les risques que personne n'ose nommer. Étape 1 : Formuler le projet et sa définition du succès.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
