@@ -5292,9 +5292,9 @@ TESTS_ROUTAGE_EN = [
     ("sbom and dependency inventory with licences", 267),
     ("extract a table from a scanned PDF", 268),
     ("dpia data protection impact assessment for our platform", 272),
-    ("classify our AI under the EU AI Act", 271),
+    ("ai act risk classification of our system", 271),
     ("build a business continuity plan", 273),
-    ("screen 50 job applications", 274),
+    ("cv screening candidate shortlist scoring grid", 274),
     ("write my annual self-assessment", 277),
     ("write viral hooks for a video", 278),
     ("localise our app into German", 280),
@@ -5367,6 +5367,649 @@ TESTS_ROUTAGE_EN = [
     ("handle a data breach notification in 72h", 444),
     ("draft a confidentiality agreement nda", 448),
     ("design a helpful empty state", 450),
+
+    ("design the site navigation and menus", 451),
+    ("write helpful UI error messages", 452),
+    ("design the in-app onboarding activation", 453),
+    ("produce design tokens for our rebrand", 455),
+    ("design freemium pricing tiers", 457),
+    ("audit our product for dark patterns", 460),
+    ("audit my meeting calendar load", 463),
+    ("set up deep work blocks", 465),
+    ("build a critical checklist", 467),
+    ("reduce my digital carbon footprint", 470),
+    ("build a family emergency plan", 477),
+    ("negotiate a renovation quote", 479),
+    ("organise family logistics and babysitting", 481),
+    ("coach my sleep hygiene", 483),
+    ("plan batch cooking for the week", 486),
+    ("prepare for the DELF B2 exam", 493),
+    ("design web authentication with MFA", 501),
+    ("harden HTTP headers and CSP", 502),
+    ("run a threat model STRIDE", 504),
+    ("prioritise patches and CVE remediation plan", 505),
+    ("audit our cloud security IAM", 507),
+    ("run a phishing simulation", 509),
+
+    ("manage stress and anxiety daily", 511),
+    ("crypto blockchain education and basics", 512),
+    ("start with ETFs and the stock market", 519),
+    ("learn regex with a tester", 523),
+    ("make a first game in Godot", 524),
+    ("spot an online scam SMS", 530),
+    ("start a journaling practice", 535),
+    ("humanise an AI-generated text", 538),
+    ("set up an Obsidian vault", 539),
+    ("vibe-code an app with an agent", 540),
+
+    ("audit our budget and forecast", 541),
+    ("extract data from scanned invoices OCR", 543),
+    ("build a Discord moderation bot", 544),
+    ("explain statistics significance and sample size", 547),
+    ("build my personal brand on LinkedIn", 548),
+    ("write our company vision and values", 551),
+    ("check open source licences of dependencies", 553),
+    ("detect a deepfake disinformation video", 561),
+    ("freelance status obligations taxes auto-entrepreneur", 562),
+    ("write a best-man wedding speech", 564),
+    ("learn chess tactics to progress", 567),
+    ("help with homework battles at home", 570),
+
+    ("school guidance study choices paths orientation", 571),
+    ("write a pop song with a hook", 573),
+    ("set up my first Twitch stream", 576),
+    ("monitor our production AI agents", 577),
+    ("prepare for the driving theory test", 580),
+    ("plan a 10k running race", 582),
+    ("fix email deliverability SPF DKIM DMARC", 586),
+    ("separation divorce procedure custody sharing", 590),
+    ("set up the 3-2-1 backup rule", 596),
+    ("set up parental controls", 597),
+    ("raise my freelance day rates", 599),
+    ("run a skills assessment bilan", 600),
+
+    ("review an AI session before committing", 601),
+    ("prepare a CTO technical review", 602),
+    ("set up visual regression tests", 603),
+    ("prepare for a SOC 2 audit", 610),
+    ("optimise visibility in AI search engines GEO", 612),
+    ("run a SWOT analysis", 613),
+    ("give a READY NOT READY pre-deploy verdict", 614),
+    ("burnout professional exhaustion motivation recovery", 617),
+    ("share the household mental load", 618),
+    ("handle a workplace harassment situation", 636),
+    ("manage cashflow with a 13-week forecast", 638),
+    ("read and check my payslip", 641),
+    ("cancel a contract within the withdrawal period", 648),
+    ("navigate an inheritance with the notary", 651),
+    ("prepare a trip to Japan", 656),
+    ("host a dinner party for 8", 657),
+
+    ("secure my passwords and enable 2FA", 665),
+    ("respond to a ransomware attack", 666),
+    ("choose a legal status for my company", 668),
+    ("learn Spanish as an adult to B2", 671),
+    ("negotiate a property purchase offer", 675),
+    ("plan a home energy renovation with grants", 678),
+    ("switch banks with the mobility service", 680),
+    ("prepare my retirement at 62", 682),
+    ("avoid an online scam call from my bank", 685),
+    ("choose an LLM for French legal docs", 689),
+    ("build a RAG over our internal docs", 690),
+    ("secure prompts against injection", 692),
+    ("fact-check an AI output", 700),
+    ("write my morning brief and standup", 701),
+    ("set up automated competitive watch", 709),
+    ("audit a SKILL.md before installing", 716),
+    ("grill me on this plan before coding", 720),
+
+    ("turn our documents into a knowledge graph", 721),
+    ("keep AI data and models in the EU", 722),
+    ("script a 30s TikTok video with a hook", 729),
+    ("structure a prompt with RCORCF", 737),
+    ("prospect on LinkedIn with social selling", 740),
+    ("run a profitable paid ads campaign", 747),
+    ("get an SME GDPR compliant", 751),
+    ("respond to a security incident with CNIL notification", 754),
+    ("prepare an oral thesis defence", 767),
+    ("write a business plan with forecast", 775),
+    ("write a compliant invoice and chase payment", 779),
+    ("choose and compare SaaS tools", 781),
+    ("recruit and interview candidates as an employer", 790),
+    ("run Scrum for a 6-person team", 793),
+    ("vet an influencer before a deal", 842),
+    ("choose between 3 vendors with a decision matrix", 844),
+    ("handle unpaid rent as a landlord", 827),
+    ("claim unemployment benefits in France", 830),
+    ("spot a fake property listing", 870),
+    ("prepare a home fire emergency plan", 859),
+
+    ("keep children safe online as a parent", 871),
+    ("spot a fake job offer scam", 874),
+    ("negotiate salary on a job offer", 875),
+    ("prepare an annual review as a manager", 876),
+    ("prepare for high-risk AI Act annex III", 900),
+    ("small local models for an SME", 903),
+    ("64-day TLS certificates with Let's Encrypt", 906),
+    ("ETIAS travel authorisation for Europe", 913),
+    ("4-day week negotiation and pilot", 918),
+    ("zero trust and AI agent identity", 908),
+    ("shadow ai governing informal uses in the company", 928),
+    ("write a will with reserved share", 963),
+    ("simulate and compare mortgage offers", 966),
+    ("handle online banking fraud", 953),
+    ("plan an expatriation visa bank health", 958),
+    ("install a home EV charger", 960),
+    ("active directory architecture design", 1004),
+    ("cloud migration strategy", 1071),
+    ("dockerfile best practices", 1110),
+    ("blender rigging and animation workflow", 1052),
+    ("godot export and build pipeline", 1150),
+    ("etl pipeline design and orchestration", 1121),
+    ("fairness and bias detection", 1127),
+    ("data retention policy design", 1100),
+    ("incident commander sre runbook", 1161),
+    ("intellectual property protection", 1170),
+
+    ("multi-agent orchestration patterns", 1196),
+    ("mysql query optimization", 1201),
+    ("prompt injection boundary evaluation", 1242),
+    ("rag and fine-tuning strategy design", 1248),
+    ("react hooks patterns", 1249),
+    ("postgresql advanced tuning", 1229),
+    ("seo audit and keyword strategy", 1269),
+    ("ui tone-of-voice specification", 1293),
+    ("web accessibility audit", 1308),
+    ("build an ai personal sports coach", 1319),
+    ("negotiate your salary", 1345),
+    ("build a decision tree", 1365),
+    ("choose the right skill for a task", 1372),
+    ("safe refactoring small steps and tests", 1405),
+    ("kubernetes configmaps secrets deployment", 1412),
+    ("load testing with k6 or locust", 1415),
+    ("window functions in sql", 1420),
+    ("react agents loop and planning", 1428),
+    ("managing long context 200k tokens", 1430),
+    ("strict csp against xss", 1452),
+    ("kafka topics partitions consumer groups", 1463),
+    ("anonymisation and pseudonymisation GDPR", 1465),
+    ("version models and data with dvc and mlflow", 1470),
+
+    ("serve an llm via internal api with vllm", 1471),
+    ("sandbox ai agents isolated execution", 1475),
+    ("graphrag query a knowledge graph", 1478),
+    ("lora qlora cheap fine-tuning", 1479),
+    ("sunsetting a feature without losing users", 1487),
+    ("choose your game engine unity godot unreal", 1500),
+    ("coyote time and jump buffering", 1510),
+    ("a star pathfinding flow fields", 1517),
+    ("weighted loot tables pity timer", 1528),
+    ("server side anti cheat validation", 1543),
+    ("publish a game on steam builds depots", 1579),
+    ("vibe 8 rolldown speed up builds", 1600),
+    ("htmx backend dynamic ui without heavy js", 1601),
+    ("webgpu client side 3d gpu compute", 1606),
+    ("choosing your agent protocol mcp a2a acp", 1623),
+    ("cilium ebpf networking security observability", 1721),
+    ("falco runtime intrusion detection", 1723),
+    ("cursor agentic ide day to day", 1740),
+    ("slo burn rate smart alerts error budget", 1757),
+    ("llm tracing tokens tool calls cost per request", 1767),
+    ("rust in the linux kernel review trajectory", 1770),
+
+    ("postgresql 18 new features overview", 1780),
+    ("hybrid tls 1.3 x25519mlkem768 pqc ready", 1791),
+    ("wasi 0.3 component model webassembly", 1793),
+    ("ai gateway route cap multi provider llm calls", 1800),
+    ("karpenter node autoscaling consolidation", 1810),
+    ("opentofu state encryption", 1812),
+    ("slsa provenance in-toto attestations", 1823),
+    ("openlineage data lineage standard", 1832),
+    ("llm guardrail architecture production rails", 1841),
+    ("red team llm in ci promptfoo garak", 1847),
+    ("vault dynamic secrets ttl credentials", 1853),
+    ("keda event driven autoscaling", 1873),
+    ("argo rollouts advanced canary prometheus", 1877),
+    ("become self employed in construction", 1901),
+    ("qualibat rge labels for artisans", 1906),
+    ("getting started with knitting", 1951),
+    ("basic knitting stitches", 1954),
+    ("sewing in a zipper", 1965),
+    ("needle felting basics", 1971),
+    ("macrame basic knots beginner", 1981),
+    ("kintsugi gold ceramic repair", 1992),
+    ("selling your creations etsy markets pricing", 1999),
+    ("organise your craft workshop", 2000),
+
+]
+
+# Tests NL : routés avec lang="nl" sur les sidecars .nl.md
+TESTS_ROUTAGE_NL = [
+    ("hoe schrijf ik een seo blogartikel", 1),
+    ("rewrite this text in a different tone", 2),
+    ("write an advertising headline that converts", 3),
+    ("schrijf een zakelijke e-mail om beleefd af te wijzen", 4),
+    ("summarize a long document in 5 bullet points", 5),
+    ("run a structured brainstorming session", 6),
+    ("translate this text professionally", 7),
+    ("lees mijn tekst na en corrigeer", 8),
+    ("generate commented code", 9),
+    ("review and debug my code", 10),
+    ("welke skill moet ik hiervoor gebruiken", 0),
+    ("explain a concept simply to a beginner", 11),
+    ("prepare for my job interview", 12),
+    ("analyse sales data trends and KPIs", 13),
+    ("create a presentation deck with slides for the board", 14),
+    ("plan a project with milestones and risks", 15),
+    ("what does this contract clause mean", 16),
+    ("help me improve this prompt", 17),
+    ("deep research on the EV market", 18),
+    ("grill me on my migration plan", 19),
+    ("debug this intermittent bug", 20),
+    ("write meeting minutes", 24),
+    ("my inbox is overflowing", 25),
+    ("I procrastinate on big tasks", 26),
+    ("write a 30s TikTok ad script", 29),
+    ("optimise my LinkedIn post", 30),
+    ("write a LinkedIn post about my product launch", 31),
+    ("benchmark our 3 main competitors", 32),
+    ("build user personas for our app", 33),
+    ("create a skill package in SKILL.md format", 38),
+    ("make flashcards from this chapter", 40),
+    ("run a mock exam with grading", 41),
+    ("plan een reis van 10 dagen naar japan", 42),
+    ("write cold emails that get replies", 54),
+    ("fill a business model canvas", 57),
+    ("design our pricing tiers", 58),
+    ("run a project premortem", 60),
+    ("challenge this decision, play devil's advocate", 61),
+    ("write a PRD with user stories", 63),
+    ("audit this interface for UX issues", 64),
+    ("write unit tests for this function", 67),
+    ("write the commit message and PR description", 68),
+    ("write a SQL query for our schema", 69),
+    ("security audit of this code", 70),
+    ("design OKRs for next quarter", 74),
+    ("write a wedding speech", 75),
+    ("build an MCP server for our database", 77),
+    ("scrape these public pages into structured data", 91),
+    ("remove duplicates and anomalies from this dataset", 92),
+    ("design a RAG pipeline over our documents", 98),
+    ("write the system prompt for our agent", 100),
+    ("map these concepts visually", 101),
+    ("answer questions over my personal documents", 102),
+    ("analyse a market sector", 103),
+    ("summarise this scientific paper", 104),
+    ("analyse cohort retention and churn", 106),
+    ("design an A/B test properly", 110),
+    ("prioritise my sales pipeline with lead scoring", 111),
+    ("write a client case study", 124),
+    ("write a press release", 126),
+    ("write a one-page decision memo", 127),
+    ("write a step-by-step user guide", 130),
+    ("explain this to kids simply", 132),
+    ("format APA citations and a bibliography", 133),
+    ("plan our editorial calendar", 135),
+    ("write transactional emails", 138),
+    ("write an image generation prompt", 139),
+    ("design a colour palette and fonts", 149),
+    ("write a technical SEO audit", 161),
+    ("conversion rate optimisation cro strategy for our website", 162),
+    ("plan a product launch", 163),
+    ("write a cold call script", 165),
+    ("prepare an investor pitch deck", 171),
+    ("audit accessibility WCAG", 177),
+    ("write developer API docs", 180),
+    ("design a design system", 181),
+    ("design a form with fewer fields and less drop-off", 182),
+    ("prioritise the product backlog", 185),
+    ("anonymise this customer dataset for GDPR", 189),
+    ("write our company AI charter", 193),
+    ("harden our bot against prompt injection", 195),
+    ("audit access rights in our cloud", 197),
+    ("write a security incident runbook", 199),
+    ("design an employee onboarding", 203),
+    ("write an internal remote work policy", 207),
+    ("plan a facilitated workshop agenda for the team", 208),
+    ("plan a home renovation project", 220),
+    ("design home automation scenarios", 222),
+    ("prioritise my daily todo list", 223),
+    ("plan my moving checklist and logistics", 225),
+    ("build a workout plan for a 5k", 214),
+    ("audit my subscriptions to save money", 230),
+    ("plan a career change into UX", 231),
+    ("crisis communication holding statement", 235),
+    ("debug a failing prompt", 237),
+    ("write annotation guidelines", 238),
+    ("write a grant application", 240),
+    ("prepare my thesis defence", 241),
+    ("find open data on housing prices", 242),
+    ("prepare an ISO audit", 243),
+    ("clean up my digital accounts", 247),
+    ("organise my digital legacy", 246),
+    ("add a skill to the library properly", 250),
+    ("write an E2E playwright test", 252),
+    ("audit web performance Core Web Vitals", 253),
+    ("plan a load test", 255),
+    ("investigate a production incident", 256),
+    ("onboard me onto this unknown codebase", 257),
+    ("orchestrate a multi-agent pipeline", 259),
+    ("design long-term memory for an agent", 260),
+    ("generate synthetic test data", 263),
+    ("fine-tuning versus RAG architecture choice for our assistant", 266),
+    ("sbom and dependency inventory with licences", 267),
+    ("extract a table from a scanned PDF", 268),
+    ("dpia data protection impact assessment for our platform", 272),
+    ("ai act risk classification of our system", 271),
+    ("build a business continuity plan", 273),
+    ("cv screening candidate shortlist scoring grid", 274),
+    ("write my annual self-assessment", 277),
+    ("write viral hooks for a video", 278),
+    ("localise our app into German", 280),
+    ("answer negative online reviews", 282),
+    ("find a meeting slot across 3 timezones", 284),
+    ("organise my messy Downloads folder", 286),
+    ("diagnose my washing machine", 291),
+    ("prepare a raise request", 294),
+    ("compare two loan offers", 298),
+    ("design gamification for our app", 300),
+
+    ("manage parallel branches with git worktrees", 301),
+    ("apply TDD test-first on a function", 302),
+    ("ship behind a feature flag", 304),
+    ("handle secrets with a vault and rotation", 306),
+    ("plan a dependency upgrade", 307),
+    ("profile a memory leak", 308),
+    ("find the guilty commit with git bisect", 315),
+    ("optimise a slow SQL query", 318),
+    ("design webhooks with retries and signing", 322),
+    ("write a robust shell script", 324),
+    ("count tokens to fit the context budget", 326),
+    ("design a scheduled agent routine", 328),
+    ("trace an agent run for debugging", 330),
+
+    ("force strict JSON structured output from a model", 332),
+    ("choose the right LLM using benchmarks", 333),
+    ("audit a model for bias", 336),
+    ("detect prompt regression between two versions", 338),
+    ("shadow-test a new agent in production", 339),
+    ("profile dataset quality missing values duplicates outliers", 343),
+    ("write the SLO availability commitment with error budget", 351),
+    ("analyse session recordings heatmaps and rage clicks", 352),
+    ("write a drip email onboarding sequence", 357),
+    ("clean and segment our email list", 358),
+    ("win local SEO for our clinics", 360),
+
+    ("run an influencer campaign", 361),
+    ("write comparison and alternatives pages", 367),
+    ("prepare a personalised sales demo", 368),
+    ("chase an unpaid invoice politely", 371),
+    ("write terms and conditions for an e-shop", 374),
+    ("improve text readability", 377),
+    ("clean a raw interview transcript", 378),
+    ("write a push notification", 379),
+    ("write an editorial thread", 380),
+    ("pitch a story to journalists", 386),
+    ("write helpful error messages", 390),
+
+    ("write accessible alt-text for images", 391),
+    ("write a webinar script", 392),
+    ("write support macros with placeholders", 394),
+    ("run a pre-publication check", 395),
+    ("facilitate a live AMA", 397),
+    ("brief an external agency", 398),
+    ("announce a reorganisation calmly", 404),
+    ("write a pay equity audit plan", 410),
+    ("draft a remote work agreement", 412),
+    ("design a 360 feedback cycle", 415),
+    ("plan team continuity for holidays", 420),
+
+    ("audit team workload and rebalance", 421),
+    ("write a recommendation letter", 422),
+    ("estimate a project budget with contingency", 425),
+    ("map the stakeholders of a project", 426),
+    ("write a business case for an investment", 427),
+    ("build a RACI matrix", 434),
+    ("keep the project risk register", 435),
+    ("plan an intrusion test pentest with rules of engagement", 439),
+    ("handle a data breach notification in 72h", 444),
+    ("draft a confidentiality agreement nda", 448),
+    ("design a helpful empty state", 450),
+
+    ("design the site navigation and menus", 451),
+    ("write helpful UI error messages", 452),
+    ("design the in-app onboarding activation", 453),
+    ("produce design tokens for our rebrand", 455),
+    ("design freemium pricing tiers", 457),
+    ("audit our product for dark patterns", 460),
+    ("audit my meeting calendar load", 463),
+    ("set up deep work blocks", 465),
+    ("build a critical checklist", 467),
+    ("reduce my digital carbon footprint", 470),
+    ("build a family emergency plan", 477),
+    ("negotiate a renovation quote", 479),
+    ("organise family logistics and babysitting", 481),
+    ("coach my sleep hygiene", 483),
+    ("plan batch cooking for the week", 486),
+    ("prepare for the DELF B2 exam", 493),
+    ("design web authentication with MFA", 501),
+    ("harden HTTP headers and CSP", 502),
+    ("run a threat model STRIDE", 504),
+    ("prioritise patches and CVE remediation plan", 505),
+    ("audit our cloud security IAM", 507),
+    ("run a phishing simulation", 509),
+
+    ("manage stress and anxiety daily", 511),
+    ("crypto blockchain education and basics", 512),
+    ("start with ETFs and the stock market", 519),
+    ("learn regex with a tester", 523),
+    ("make a first game in Godot", 524),
+    ("spot an online scam SMS", 530),
+    ("start a journaling practice", 535),
+    ("humanise an AI-generated text", 538),
+    ("set up an Obsidian vault", 539),
+    ("vibe-code an app with an agent", 540),
+
+    ("audit our budget and forecast", 541),
+    ("extract data from scanned invoices OCR", 543),
+    ("build a Discord moderation bot", 544),
+    ("explain statistics significance and sample size", 547),
+    ("build my personal brand on LinkedIn", 548),
+    ("write our company vision and values", 551),
+    ("check open source licences of dependencies", 553),
+    ("detect a deepfake disinformation video", 561),
+    ("freelance status obligations taxes auto-entrepreneur", 562),
+    ("write a best-man wedding speech", 564),
+    ("learn chess tactics to progress", 567),
+    ("help with homework battles at home", 570),
+
+    ("school guidance study choices paths orientation", 571),
+    ("write a pop song with a hook", 573),
+    ("set up my first Twitch stream", 576),
+    ("monitor our production AI agents", 577),
+    ("prepare for the driving theory test", 580),
+    ("plan a 10k running race", 582),
+    ("fix email deliverability SPF DKIM DMARC", 586),
+    ("separation divorce procedure custody sharing", 590),
+    ("set up the 3-2-1 backup rule", 596),
+    ("set up parental controls", 597),
+    ("raise my freelance day rates", 599),
+    ("run a skills assessment bilan", 600),
+
+    ("review an AI session before committing", 601),
+    ("prepare a CTO technical review", 602),
+    ("set up visual regression tests", 603),
+    ("prepare for a SOC 2 audit", 610),
+    ("optimise visibility in AI search engines GEO", 612),
+    ("run a SWOT analysis", 613),
+    ("give a READY NOT READY pre-deploy verdict", 614),
+    ("burnout professional exhaustion motivation recovery", 617),
+    ("share the household mental load", 618),
+    ("handle a workplace harassment situation", 636),
+    ("manage cashflow with a 13-week forecast", 638),
+    ("read and check my payslip", 641),
+    ("cancel a contract within the withdrawal period", 648),
+    ("navigate an inheritance with the notary", 651),
+    ("prepare a trip to Japan", 656),
+    ("host a dinner party for 8", 657),
+
+    ("secure my passwords and enable 2FA", 665),
+    ("respond to a ransomware attack", 666),
+    ("choose a legal status for my company", 668),
+    ("learn Spanish as an adult to B2", 671),
+    ("negotiate a property purchase offer", 675),
+    ("plan a home energy renovation with grants", 678),
+    ("switch banks with the mobility service", 680),
+    ("prepare my retirement at 62", 682),
+    ("avoid an online scam call from my bank", 685),
+    ("choose an LLM for French legal docs", 689),
+    ("build a RAG over our internal docs", 690),
+    ("secure prompts against injection", 692),
+    ("fact-check an AI output", 700),
+    ("write my morning brief and standup", 701),
+    ("set up automated competitive watch", 709),
+    ("audit a SKILL.md before installing", 716),
+    ("grill me on this plan before coding", 720),
+
+    ("turn our documents into a knowledge graph", 721),
+    ("keep AI data and models in the EU", 722),
+    ("script a 30s TikTok video with a hook", 729),
+    ("structure a prompt with RCORCF", 737),
+    ("prospect on LinkedIn with social selling", 740),
+    ("run a profitable paid ads campaign", 747),
+    ("get an SME GDPR compliant", 751),
+    ("respond to a security incident with CNIL notification", 754),
+    ("prepare an oral thesis defence", 767),
+    ("write a business plan with forecast", 775),
+    ("write a compliant invoice and chase payment", 779),
+    ("choose and compare SaaS tools", 781),
+    ("recruit and interview candidates as an employer", 790),
+    ("run Scrum for a 6-person team", 793),
+    ("vet an influencer before a deal", 842),
+    ("choose between 3 vendors with a decision matrix", 844),
+    ("handle unpaid rent as a landlord", 827),
+    ("claim unemployment benefits in France", 830),
+    ("spot a fake property listing", 870),
+    ("prepare a home fire emergency plan", 859),
+
+    ("keep children safe online as a parent", 871),
+    ("spot a fake job offer scam", 874),
+    ("negotiate salary on a job offer", 875),
+    ("prepare an annual review as a manager", 876),
+    ("prepare for high-risk AI Act annex III", 900),
+    ("small local models for an SME", 903),
+    ("64-day TLS certificates with Let's Encrypt", 906),
+    ("ETIAS travel authorisation for Europe", 913),
+    ("4-day week negotiation and pilot", 918),
+    ("zero trust and AI agent identity", 908),
+    ("shadow ai governing informal uses in the company", 928),
+    ("write a will with reserved share", 963),
+    ("simulate and compare mortgage offers", 966),
+    ("handle online banking fraud", 953),
+    ("plan an expatriation visa bank health", 958),
+    ("install a home EV charger", 960),
+    ("active directory architecture design", 1004),
+    ("cloud migration strategy", 1071),
+    ("dockerfile best practices", 1110),
+    ("blender rigging and animation workflow", 1052),
+    ("godot export and build pipeline", 1150),
+    ("etl pipeline design and orchestration", 1121),
+    ("fairness and bias detection", 1127),
+    ("data retention policy design", 1100),
+    ("incident commander sre runbook", 1161),
+    ("intellectual property protection", 1170),
+
+    ("multi-agent orchestration patterns", 1196),
+    ("mysql query optimization", 1201),
+    ("prompt injection boundary evaluation", 1242),
+    ("rag and fine-tuning strategy design", 1248),
+    ("react hooks patterns", 1249),
+    ("postgresql advanced tuning", 1229),
+    ("seo audit and keyword strategy", 1269),
+    ("ui tone-of-voice specification", 1293),
+    ("web accessibility audit", 1308),
+    ("build an ai personal sports coach", 1319),
+    ("negotiate your salary", 1345),
+    ("build a decision tree", 1365),
+    ("choose the right skill for a task", 1372),
+    ("safe refactoring small steps and tests", 1405),
+    ("kubernetes configmaps secrets deployment", 1412),
+    ("load testing with k6 or locust", 1415),
+    ("window functions in sql", 1420),
+    ("react agents loop and planning", 1428),
+    ("managing long context 200k tokens", 1430),
+    ("strict csp against xss", 1452),
+    ("kafka topics partitions consumer groups", 1463),
+    ("anonymisation and pseudonymisation GDPR", 1465),
+    ("version models and data with dvc and mlflow", 1470),
+
+    ("serve an llm via internal api with vllm", 1471),
+    ("sandbox ai agents isolated execution", 1475),
+    ("graphrag query a knowledge graph", 1478),
+    ("lora qlora cheap fine-tuning", 1479),
+    ("sunsetting a feature without losing users", 1487),
+    ("choose your game engine unity godot unreal", 1500),
+    ("coyote time and jump buffering", 1510),
+    ("a star pathfinding flow fields", 1517),
+    ("weighted loot tables pity timer", 1528),
+    ("server side anti cheat validation", 1543),
+    ("publish a game on steam builds depots", 1579),
+    ("vibe 8 rolldown speed up builds", 1600),
+    ("htmx backend dynamic ui without heavy js", 1601),
+    ("webgpu client side 3d gpu compute", 1606),
+    ("choosing your agent protocol mcp a2a acp", 1623),
+    ("cilium ebpf networking security observability", 1721),
+    ("falco runtime intrusion detection", 1723),
+    ("cursor agentic ide day to day", 1740),
+    ("slo burn rate smart alerts error budget", 1757),
+    ("llm tracing tokens tool calls cost per request", 1767),
+    ("rust in the linux kernel review trajectory", 1770),
+
+    ("postgresql 18 new features overview", 1780),
+    ("hybrid tls 1.3 x25519mlkem768 pqc ready", 1791),
+    ("wasi 0.3 component model webassembly", 1793),
+    ("ai gateway route cap multi provider llm calls", 1800),
+    ("karpenter node autoscaling consolidation", 1810),
+    ("opentofu state encryption", 1812),
+    ("slsa provenance in-toto attestations", 1823),
+    ("openlineage data lineage standard", 1832),
+    ("llm guardrail architecture production rails", 1841),
+    ("red team llm in ci promptfoo garak", 1847),
+    ("vault dynamic secrets ttl credentials", 1853),
+    ("keda event driven autoscaling", 1873),
+    ("argo rollouts advanced canary prometheus", 1877),
+    ("become self employed in construction", 1901),
+    ("qualibat rge labels for artisans", 1906),
+    ("getting started with knitting", 1951),
+    ("basic knitting stitches", 1954),
+    ("sewing in a zipper", 1965),
+    ("needle felting basics", 1971),
+    ("macrame basic knots beginner", 1981),
+    ("kintsugi gold ceramic repair", 1992),
+    ("selling your creations etsy markets pricing", 1999),
+    ("organise your craft workshop", 2000),
+
+    # --- requêtes vraiment en néerlandais ---
+    ("zet deze tekst om in een andere toon", 2),
+    ("schrijf een wervende advertentie", 3),
+    ("vat een lang document samen in 5 bulletpunten", 5),
+    ("geef me ideeen voor een gestructureerde brainstorm", 6),
+    ("vertaal deze tekst professioneel naar het duits", 7),
+    ("genereer gedocumenteerde python code", 9),
+    ("maak een presentatie voor de raad van bestuur", 14),
+    ("help me een project plannen met mijlpalen", 15),
+    ("maak notulen van de vergadering met actiepunten", 24),
+    ("sorteer en prioriteer mijn overvolle inbox", 25),
+    ("ik heb veel te veel meetings in mijn agenda", 463),
+    ("schrijf een persbericht voor onze productlancering", 126),
+    ("bouw een statische blog met hugo", 545),
+    ("maak een faq van onze gebruikershandleiding", 119),
+    ("is deze tekst door ai geschreven of plagiaat", 120),
+    ("begroot een renovatieproject met onvoorziene kosten", 425),
+    ("word zelfstandig als elektricien in de bouw", 1901),
+    ("ik wil beginnen met breien als beginner", 1951),
+    ("hoe maak ik macramé knopen als beginner", 1981),
+    ("hoe organiseer ik mijn knutselatelier", 2000),
 
 ]
 
@@ -5460,6 +6103,8 @@ def extraire_frontmatter(dossier_skills: Path):
     syns_par_num = {}
     cartes = {}
     for f in sorted(dossier_skills.glob("*.md")):
+        if _re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name):
+            continue  # sidecar multilingue .<lang>.md, pas un skill FR de base
         txt = f.read_text(encoding="utf-8")
         m = _re.match(r"---\n(.*?)\n---\n", txt, _re.S)
         assert m, f"{f.name} : pas de frontmatter"
@@ -5595,8 +6240,8 @@ def _lang_sidecars(sk_dir: Path) -> dict[str, dict[int, dict]]:
     out: dict[str, dict[int, dict]] = {}
     for f in sorted(Path(sk_dir).glob("*.md")):
         m = re.match(r"^(\d+)-(.+)\.([a-z]{2})\.md$", f.name)
-        if not m:
-            continue
+        if not m or re.search(r"\.[a-z]{2}$", m.group(2)):
+            continue  # pas un sidecar, ou double suffixe (.en.nl.md)
         lang = m.group(3)
         if lang == "fr":
             continue
@@ -5772,7 +6417,8 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         );
         -- skills perso (mesSkillsPerso/) : table dédiée, jamais dans le pack
         CREATE TABLE IF NOT EXISTS skills_perso (
-            num        INTEGER PRIMARY KEY,
+            num        INTEGER NOT NULL,
+            lang       TEXT NOT NULL DEFAULT 'fr',
             nom        TEXT NOT NULL DEFAULT '',
             domaine    TEXT NOT NULL DEFAULT 'Perso',
             signal     TEXT NOT NULL DEFAULT '',
@@ -5781,21 +6427,25 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             branche    TEXT NOT NULL DEFAULT 'K',
             synonymes  TEXT NOT NULL DEFAULT '',
             date_ajout TEXT NOT NULL DEFAULT '',
-            fichier    TEXT NOT NULL DEFAULT ''
+            fichier    TEXT NOT NULL DEFAULT '',
+            PRIMARY KEY (num, lang)
         );
         CREATE VIRTUAL TABLE IF NOT EXISTS perso_fts USING fts5(
-            num UNINDEXED, nom, signal, mot_cle, nom_court, domaine,
+            num UNINDEXED, lang UNINDEXED, nom, signal, mot_cle, nom_court, domaine,
             tokenize='unicode61'
         );
         CREATE TABLE IF NOT EXISTS perso_synonymes (
-            synonyme      TEXT PRIMARY KEY,
+            synonyme      TEXT NOT NULL,
             synonyme_norm TEXT NOT NULL DEFAULT '',
-            num           INTEGER NOT NULL
+            num           INTEGER NOT NULL,
+            lang          TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (synonyme, lang)
         );
         CREATE TABLE IF NOT EXISTS perso_mots_cles (
             mot_cle_norm TEXT NOT NULL,
             num          INTEGER NOT NULL,
-            PRIMARY KEY (mot_cle_norm, num)
+            lang         TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (mot_cle_norm, num, lang)
         ) WITHOUT ROWID;
     """)
     if old_snapshot:
@@ -6219,7 +6869,17 @@ def normaliser_perso(txt: str, fname: str, num: int) -> str:
     if "skill" not in cas.lower():
         cas = (cas + "\n" if cas else "") + f"Usage perso : {nom_court} ; le catalogue skillAISlop complète (skills 0-1799)."
     syns_s = ", ".join(f'"{s}"' for s in syns)
-    L = ["---", f"num: {num}", f'date_ajout: "{date_ajout}"', f'nom: "{nom}"', f'emoji: "{emoji}"',
+    resume_p = _sanitize_fm(g("resume")) or resume_auto(body)
+    if len(resume_p) > 400:
+        resume_p = resume_p[:397] + "..."
+    lang_p = g("lang") if re.fullmatch(r"[a-z]{2}", g("lang") or "") else ""
+    traduit_p = g("traduit") if g("traduit") in ("auto", "humain") else ""
+    L = ["---", f"num: {num}"]
+    if lang_p:
+        L.append(f'lang: "{lang_p}"')
+    if traduit_p:
+        L.append(f'traduit: "{traduit_p}"')
+    L += [f'resume: "{resume_p}"', f'date_ajout: "{date_ajout}"', f'nom: "{nom}"', f'emoji: "{emoji}"',
          f'domaine: "{domaine}"', f'signal: "{signal}"', f'mot_cle: "{mot_cle}"',
          f'nom_court: "{nom_court}"', 'branche: "K"', f"synonymes: [{syns_s}]",
          "cross_refs: []", 'tags: ["perso"]', "---", "",
@@ -6261,10 +6921,21 @@ def ingerer_perso(db: sqlite3.Connection) -> int:
     if not fichiers:
         return 0
     maxnum = db.execute("SELECT COALESCE(MAX(num),0) FROM skills_perso").fetchone()[0]
-    n = 0
+    # sidecars multilingues nom.<lang>.md -> num du fichier de base
+    sidecar_num = {}
     for f in fichiers:
+        ms = re.match(r"^(.+\.)([a-z]{2})\.md$", f.name)
+        if ms:
+            base = f.parent / (ms.group(1) + "md")
+            if base.exists() and base in fichiers:
+                sidecar_num[f.name] = base.name
+    n = 0
+    for f in sorted(fichiers, key=lambda f: 1 if re.match(r"^.+\.[a-z]{2}\.md$", f.name) else 0):  # bases d'abord, sidecars ensuite
         txt = f.read_text(encoding="utf-8")
-        if not perso_conforme(txt):
+        lang_avant = detect_lang(txt) if not re.search(r'^lang: "', txt, re.M) else None  # détection sur le contenu ORIGINAAL (avant normalisation)
+        est_sidecar = bool(re.match(r"^.+\.[a-z]{2}\.md$", f.name))
+        if not perso_conforme(txt) and not (est_sidecar and re.search(r'^traduit: "auto"$', txt, re.M)):
+            # sidecar trad:auto = scaffold intentionnel (bandeau skill 7) : on ne le normalise pas
             maxnum += 1
             txt = normaliser_perso(txt, f.name, maxnum)
             f.write_text(txt, encoding="utf-8")  # auto-format au template, en place (jamais supprimé)
@@ -6274,23 +6945,157 @@ def ingerer_perso(db: sqlite3.Connection) -> int:
             mm = re.search(rf"^{k}: \[(.*)\]$", fm, re.M)
             return [x.strip().strip('"') for x in mm.group(1).split(",") if x.strip()] if mm else []
         num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        ms = re.match(r"^(.+\.)([a-z]{2})\.md$", f.name)
+        if ms and f.name in sidecar_num:
+            # sidecar : même num que la base, lang du suffixe (frontmatter lang prioritaire)
+            base_fm = re.match(r"---\n(.*?)\n---\n", (f.parent / sidecar_num[f.name]).read_text(encoding="utf-8"), re.S).group(1)
+            num = int(re.search(r"^num: (\d+)$", base_fm, re.M).group(1))
+            lang = g("lang") or ms.group(2)
+        else:
+            # base : lang du frontmatter, sinon détection stopwords sur le contenu
+            body = txt[re.match(r"---\n(.*?)\n---\n", txt, re.S).end():]
+            lang = g("lang") or lang_avant or detect_lang(" ".join([g("nom"), g("signal"), g("mot_cle"), body])) or "fr"
+            if not re.search(r'^lang: "', fm, re.M):
+                new_fm = re.sub(r'^(num: \d+\n)', '\\1lang: "' + lang + '"\n', fm, count=1, flags=re.M)
+                if new_fm != fm:
+                    f.write_text(f"---\n{new_fm}\n---\n{body}", encoding="utf-8")
         nom, dom = g("nom"), g("domaine") or "Perso"
         sig, mc, nc, da = g("signal"), g("mot_cle"), g("nom_court"), g("date_ajout")
         syns = [s for s in gl("synonymes") if s and not any(c in s for c in '<>"')]
-        db.execute("INSERT OR REPLACE INTO skills_perso VALUES (?,?,?,?,?,?,?,?,?,?)",
-                   (num, nom, dom, sig, mc, nc, "K", ";".join(syns), da, f.name))
-        db.execute("INSERT INTO perso_fts(num, nom, signal, mot_cle, nom_court, domaine) VALUES (?,?,?,?,?,?)",
-                   (num, nom, sig, mc, nc, dom))
+        db.execute("INSERT OR REPLACE INTO skills_perso VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+                   (num, lang, nom, dom, sig, mc, nc, "K", ";".join(syns), da, f.name))
+        db.execute("INSERT INTO perso_fts(num, lang, nom, signal, mot_cle, nom_court, domaine) VALUES (?,?,?,?,?,?,?)",
+                   (num, lang, nom, sig, mc, nc, dom))
         for s in syns:
-            db.execute("INSERT OR REPLACE INTO perso_synonymes VALUES (?,?,?)", (s, norm(s), num))
+            db.execute("INSERT OR REPLACE INTO perso_synonymes VALUES (?,?,?,?)", (s, norm(s), num, lang))
         if mc:
-            db.execute("INSERT OR REPLACE INTO perso_mots_cles VALUES (?,?)", (norm(mc), num))
+            db.execute("INSERT OR REPLACE INTO perso_mots_cles VALUES (?,?,?)", (norm(mc), num, lang))
         n += 1
     db.commit()
     return n
 
 
-def cmd_perso(add: str | None, convert: bool) -> int:
+def _scaffold_sidecar(f: Path, lang: str) -> Path:
+    """Écrit le sidecar `nom.<lang>.md` (traduit: auto) pour la skill de base `f` (perso ou catalogue).
+    Le bandeau `trad:auto` pointe vers la skill 7 (Traducteur professionnel) : la traduction est
+    faite côté hôte via cette skill, puis `traduit: "humain"` + build."""
+    txt = f.read_text(encoding="utf-8")
+    m = re.match(r"---\n(.*?)\n---\n(.*)", txt, re.S)
+    fm, corps = m.group(1), m.group(2)
+    def g(k):
+        r = re.search(rf'^{k}: "(.*)"$', fm, re.M)
+        return r.group(1) if r else ""
+    def gl(k):
+        mm = re.search(rf"^{k}: \[(.*)\]$", fm, re.M)
+        return mm.group(1) if mm else ""
+    mc = re.search(r"^cross_refs: \[(.*)\]$", fm, re.M)
+    num_s = (re.search(r"^num: (\d+)$", fm, re.M) or [None, ""])[1]
+    new_fm = f"""num: {num_s}
+resume: "{g("resume")}"
+lang: "{lang}"
+traduit: "auto"
+date_ajout: "{g("date_ajout")}"
+nom: "{g("nom")}"
+domaine: "{g("domaine")}"
+signal: "{g("signal")}"
+mot_cle: "{g("mot_cle")}"
+nom_court: "{g("nom_court")}"
+branche: "{g("branche")}"
+synonymes: [{gl("synonymes")}]
+cross_refs: [{mc.group(1) if mc else ""}]
+"""
+    en_headers = {"Objectif": "Objectif", "Quand l'utiliser (triggers)": "When to use (triggers)",
+                  "Hors périmètre": "Out of scope", "Garde-fous": "Guardrails",
+                  "Instructions système": "System instructions", "Inputs requis": "Required inputs",
+                  "Méthode": "Method", "Sorties attendues": "Expected outputs",
+                  "Exemple de prompt": "Example prompt", "Cas d'usage": "Use cases",
+                  "Checklist QA interne": "Internal QA checklist", "Definition of done": "Definition of done"}
+    body = ("# trad:auto — TODO traduire en " + lang + " avec la SKILL 7 « Traducteur professionnel » "
+            "(côté hôte : `route \"traduis ce texte en " + lang + "\"` -> skill 7), puis retirer ce bandeau et passer traduit: \"humain\" puis build\n")
+    for line in corps.splitlines():
+        mm = re.match(r"\*\*([^*]+)\*\* : (.*)", line)
+        if mm and mm.group(1) in en_headers:
+            body += f"**{en_headers[mm.group(1)]}** : {mm.group(2)}\n"
+        else:
+            body += line + "\n"
+    side = f.parent / re.sub(r"\.md$", f".{lang}.md", f.name)
+    side.write_text(f"---\n{new_fm}---\n\n{body}", encoding="utf-8")
+    return side
+
+
+def _perso_translate(lang: str) -> int:
+    """Génère les sidecars `nom.<lang>.md` manquants (traduit: auto).
+    lang="all" = toutes les langues connues manquantes (LANGUES_CONNUES + langues déjà
+    présentes en sidecars). La traduction effective est faite par le LLM hôte."""
+    dirs = dossiers_perso()
+    if not dirs:
+        print("aucun dossier mesSkillsPerso/ trouvé")
+        return 1
+    if lang.lower() == "all":
+        connues = set(LANGUES_CONNUES)
+        for d in dirs:
+            for f in d.glob("*.md"):
+                ms = re.match(r"^(.+)\.([a-z]{2})\.md$", f.name)
+                if ms and not re.search(r"\.[a-z]{2}$", ms.group(1)):
+                    connues.add(ms.group(2))
+        langues = sorted(connues)
+    else:
+        lang = lang.lower()
+        if not re.fullmatch(r"[a-z]{2}", lang):
+            print("code langue invalide (2 lettres, ex. en, nl, ou 'all')")
+            return 1
+        langues = [lang]
+    n = 0
+    for d in dirs:
+        _assurer_readme_perso(d)
+        for f in sorted(d.glob("*.md")):
+            if f.name.lower().startswith("readme") or re.match(r"^.+\.[a-z]{2}\.md$", f.name):
+                continue  # base uniquement
+            txt0 = f.read_text(encoding="utf-8")
+            fm0 = re.match(r"---\n(.*?)\n---\n", txt0, re.S)
+            base_lang = (re.search(r'^lang: "([a-z]{2})"$', fm0.group(1) if fm0 else "", re.M) or [None, ""])[1] \
+                or detect_lang(txt0) or "fr"
+            for lg in langues:
+                if lg == base_lang:
+                    continue  # la base couvre déjà cette langue
+                side = d / re.sub(r"\.md$", f".{lg}.md", f.name)
+                if side.exists():
+                    continue
+                _scaffold_sidecar(f, lg)
+                n += 1
+                print(f"   sidecar créé : {side.name} (lang={lg}, traduit: auto, à traduire par le LLM hôte)")
+    print(f"{n} sidecar(s) créé(s) dans {', '.join(langues)} — traduire le contenu, puis : python3 routage.py build")
+    return 0
+
+
+def cmd_translate(lang: str) -> int:
+    """Génère les sidecars manquants skills/NNN-slug.<lang>.md (traduit: auto, skill 7).
+    lang="all" = toutes les langues connues (LANGUES_CONNUES) manquantes pour au moins une skill."""
+    sk = _skills_dir()
+    if lang.lower() == "all":
+        langues = sorted(set(LANGUES_CONNUES))
+    else:
+        lang = lang.lower()
+        if not re.fullmatch(r"[a-z]{2}", lang):
+            print("code langue invalide (2 lettres, ex. en, nl, de, ou 'all')")
+            return 1
+        langues = [lang]
+    bases = [f for f in sorted(sk.glob("*.md")) if not re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name)]
+    n = 0
+    for f in bases:
+        for lg in langues:
+            side = sk / re.sub(r"\.md$", f".{lg}.md", f.name)
+            if side.exists():
+                continue
+            _scaffold_sidecar(f, lg)
+            n += 1
+    print(f"{n} sidecar(s) .md créés dans {', '.join(langues)} — traduire via la skill 7 (route \"traduis en <lang>\"), puis : python3 routage.py build")
+    return 0
+
+
+def cmd_perso(add: str | None, convert: bool, translate: str | None = None) -> int:
+    if translate:
+        return _perso_translate(translate)
     if add:
         src = Path(add)
         if not src.exists():
@@ -6380,25 +7185,27 @@ def chercher(db: sqlite3.Connection, query: str, top: int, lang: str = "fr") -> 
     try:
         mp = re.search(r"perso (\d+)", q)
         if mp:
-            r = db.execute("SELECT num, nom, domaine, signal, fichier FROM skills_perso WHERE num=?",
-                           (int(mp.group(1)),)).fetchone()
+            r = db.execute("SELECT num, lang, nom, domaine, signal, fichier FROM skills_perso WHERE num=? AND lang=?",
+                           (int(mp.group(1)), lang)).fetchone() \
+                or db.execute("SELECT num, lang, nom, domaine, signal, fichier FROM skills_perso WHERE num=?",
+                              (int(mp.group(1)),)).fetchone()
             if r:
                 res["perso"].append({**cand(r["num"], r["nom"], r["domaine"],
                                             r["signal"] or "(perso)", "direct perso", None),
-                                     "perso": True, "fichier": r["fichier"]})
+                                     "perso": True, "fichier": r["fichier"], "lang": r["lang"]})
         pvus = {c["num"] for c in res["perso"]}
         qts = set(qt_forts)
 
         def perso_hit(r, voie, cible, score=None):
             res["perso"].append({**cand(r["num"], r["nom"], r["domaine"], r["signal"],
                                         voie, cible, score),
-                                 "perso": True, "fichier": r["fichier"]})
-            pvus.add(r["num"])
+                                 "perso": True, "fichier": r["fichier"], "lang": r["lang"]})
+            pvus.add((r["num"], r["lang"]))
 
         if qn:
             for r in db.execute(
-                "SELECT m.mot_cle_norm AS mc, p.num, p.nom, p.domaine, p.signal, p.fichier "
-                "FROM perso_mots_cles m JOIN skills_perso p ON p.num = m.num").fetchall():
+                "SELECT m.mot_cle_norm AS mc, p.num, p.lang, p.nom, p.domaine, p.signal, p.fichier "
+                "FROM perso_mots_cles m JOIN skills_perso p ON p.num = m.num AND p.lang = m.lang").fetchall():
                 if r["num"] in pvus:
                     continue
                 mc = r["mc"]
@@ -6409,8 +7216,8 @@ def chercher(db: sqlite3.Connection, query: str, top: int, lang: str = "fr") -> 
                 if inter and any(len(t) >= 5 for t in inter):
                     perso_hit(r, "perso mot-clé", mc)
             for r in db.execute(
-                "SELECT s.synonyme, s.synonyme_norm AS sn, p.num, p.nom, p.domaine, p.signal, p.fichier "
-                "FROM perso_synonymes s JOIN skills_perso p ON p.num = s.num").fetchall():
+                "SELECT s.synonyme, s.synonyme_norm AS sn, p.num, p.lang, p.nom, p.domaine, p.signal, p.fichier "
+                "FROM perso_synonymes s JOIN skills_perso p ON p.num = s.num AND p.lang = s.lang").fetchall():
                 if r["num"] in pvus:
                     continue
                 sn = r["sn"]
@@ -6422,15 +7229,15 @@ def chercher(db: sqlite3.Connection, query: str, top: int, lang: str = "fr") -> 
                               ("OR", " OR ".join(f'"{t}"*' for t in qt_forts))):
                 try:
                     hits = db.execute(
-                        "SELECT perso_fts.num, perso_fts.nom, perso_fts.domaine, perso_fts.signal, "
+                        "SELECT perso_fts.num, perso_fts.lang, perso_fts.nom, perso_fts.domaine, perso_fts.signal, "
                         "p.fichier, bm25(perso_fts, 0.0, 2.0, 6.0, 10.0, 3.0, 1.0) AS score "
-                        "FROM perso_fts JOIN skills_perso p ON p.num = perso_fts.num "
+                        "FROM perso_fts JOIN skills_perso p ON p.num = perso_fts.num AND p.lang = perso_fts.lang "
                         "WHERE perso_fts MATCH ? ORDER BY score LIMIT ?",
                         (match, top)).fetchall()
                 except sqlite3.OperationalError:
                     continue
                 for r in hits:
-                    if r["num"] in pvus:
+                    if (r["num"], r["lang"]) in pvus:
                         continue
                     if op == "OR" and not _fts_valide(r, qt_forts):
                         continue
@@ -6440,6 +7247,8 @@ def chercher(db: sqlite3.Connection, query: str, top: int, lang: str = "fr") -> 
     except sqlite3.OperationalError:
         pass  # base sans tables perso (vieux skills.db) : aucune skill perso
 
+    if res["perso"] and lang != "fr":
+        res["perso"].sort(key=lambda c: c.get("lang") != lang)  # perso de la langue d'abord
     # 1) mot-clé canonique : égalité puis inclusion, en SQL sur mots_cles (indexé)
     if qn:
         rows_mc = db.execute(
@@ -6686,12 +7495,15 @@ def _journaliser(db: sqlite3.Connection, query: str) -> None:
         pass  # base ancienne sans journal
 
 
+LANGUES_CONNUES = ["fr", "en", "nl"]  # langues gérées (sidecars auto dans les langues manquantes)
+
+
 def detect_lang(q: str) -> str:
     """Heuristique stdlib (stopwords FR/EN/NL) -> code langue 2 lettres, défaut fr."""
     ql = q.lower()
     fr = len(re.findall(r"\b(le|la|les|un|une|des|du|et|est|pas|comment|pourquoi|quand|où|écrire|créer|faire|aider|avec|pour|dans|sur|je|tu|il|nous|vous|mon|ma|mes|ton|son|notre|votre)\b", ql))
     en = len(re.findall(r"\b(the|and|is|are|was|not|how|what|why|when|where|write|rewrite|create|make|help|with|for|from|this|that|please|can|could|i|you|he|she|we|they|my|your|his|her|our|their)\b", ql))
-    nl = len(re.findall(r"\b(de|het|een|en|is|zijn|hoe|wat|waarom|wanneer|schrijven|maken|helpen|met|voor|van|deze|dat|kun|kunt|ik|jij|hij|wij|jullie|mijn|jouw|zijn|hun)\b", ql))
+    nl = len(re.findall(r"\b(de|het|een|en|is|zijn|hebben|heeft|worden|gaan|doen|maken|nemen|helpen|schrijven|hoe|wat|waarom|wanneer|met|voor|van|naar|op|aan|om|te|niet|ook|maar|dan|als|die|dat|deze|dit|ik|jij|hij|zij|wij|jullie|mijn|jouw|zijn|hun|kun|kunt|wil|zal)\b", ql))
     if fr >= max(en, nl):
         return "fr"
     return "en" if en >= nl else "nl"
@@ -6734,7 +7546,7 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None, lang:
                 res["chaine"] = [{"num": n, "nom": noms.get(n, "")} for n in nxt]
         except sqlite3.OperationalError:
             pass
-    if candidats:
+    if candidats and not candidats[0].get("perso"):
         try:
             lf = db.execute("SELECT fichier FROM lang WHERE num=? AND lang=?", (candidats[0]["num"], lang)).fetchone()
             if lf:
@@ -7041,14 +7853,14 @@ def cmd_test() -> int:
                 echecs.append((demande, "aucune skill", "des candidates trouvées"))
         elif attendu not in trouves:
             echecs.append((demande, attendu, sorted(trouves) or "rien"))
-    total = len(TESTS_ROUTAGE) + len(TESTS_ROUTAGE_EN)
+    total = len(TESTS_ROUTAGE) + len(TESTS_ROUTAGE_EN) + len(TESTS_ROUTAGE_NL)
     db.close()
     if echecs:
         print(f"✖ {len(echecs)}/{total} tests en échec :")
         for demande, attendu, obtenu in echecs:
             print(f"  - « {demande} » : attendu {attendu}, obtenu {obtenu}")
         return 1
-    print(f"✅ {total}/{total} tests de routage passés (fr: {len(TESTS_ROUTAGE)} · en: {len(TESTS_ROUTAGE_EN)})")
+    print(f"✅ {total}/{total} tests de routage passés (fr: {len(TESTS_ROUTAGE)} · en: {len(TESTS_ROUTAGE_EN)} · nl: {len(TESTS_ROUTAGE_NL)})")
     return 0
 
 
@@ -7214,6 +8026,8 @@ def _langs_map(sk_dir: Path) -> dict[int, list[str]]:
     out: dict[int, list[str]] = {}
     for f in sorted(Path(sk_dir).glob("*.md")):
         m = re.match(r"^(\d+)-(.+)\.([a-z]{2})\.md$", f.name)
+        if m and re.search(r"\.[a-z]{2}$", m.group(2)):
+            continue  # double suffixe (.en.nl.md)
         if m and m.group(3) != "fr":
             out.setdefault(int(m.group(1)), []).append(m.group(3))
             continue
@@ -7330,10 +8144,20 @@ def cmd_lint() -> int:
             if not re.search(r'^mot_cle: ".+"$', fm, re.M):
                 problemes.append(f"perso {f.name} : mot_cle vide")
             mr = re.search(r'^resume: "(.+)"$', fm, re.M)
-            if not mr or len(mr.group(1)) > 400:
+            trad_auto = re.search(r'^traduit: "auto"$', fm, re.M)
+            if (not mr or len(mr.group(1)) > 400) and not trad_auto:
                 problemes.append(f"perso {f.name} : resume absent ou invalide (1-400 car.)")
+            ml = re.search(r'^lang: "([a-z]{2})"$', fm, re.M)
+            ms = re.match(r"^(.+\.)([a-z]{2})\.md$", f.name)
+            if ms:
+                if not ml or ml.group(1) != ms.group(2):
+                    problemes.append(f"perso {f.name} : lang frontmatter != suffixe .{ms.group(2)}.md")
+                if not (pd / (ms.group(1) + "md")).exists():
+                    problemes.append(f"perso {f.name} : fichier de base {ms.group(1)}md absent")
+            elif not ml:
+                problemes.append(f"perso {f.name} : lang absent (détecté au build, R16)")
             n_p += 1
-        print(f"  perso : {n_p} skill(s) dans {pd} (date_ajout + frontmatter contrôlés)")
+        print(f"  perso : {n_p} skill(s) dans {pd} (date_ajout + frontmatter contrôlés + lang R16)")
     if DB_PATH.exists():
         db = sqlite3.connect(DB_PATH)
         nums = {r[0] for r in db.execute("SELECT num FROM skills")}
@@ -7458,6 +8282,8 @@ def _condensed_json_from_skills(sk_dir: Path) -> str:
     """Index condensé depuis skills/*.md (pack autonome, sans canvas)."""
     entrees = []
     for f in sorted(Path(sk_dir).glob("*.md")):
+        if re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name):
+            continue  # sidecar multilingue
         txt = f.read_text(encoding="utf-8")
         m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
         if not m:
@@ -8116,9 +8942,13 @@ def main():
     p_cnt.add_argument("canvas", nargs="?", type=Path, default=CANVAS_PAR_DEFAUT)
     p_cnt.add_argument("--dossier", type=Path, default=RACINE / "data")
 
-    p_perso = sub.add_parser("perso", help="skills perso (mesSkillsPerso/) : liste / --add <fichier.md> / --convert")
+    p_tr = sub.add_parser("translate", help="génère les sidecars skills/ manquants (traduit: auto, à traduire via la skill 7) : translate <lang|all>")
+    p_tr.add_argument("lang", nargs="?", default="all")
+    p_perso = sub.add_parser("perso", help="skills perso (mesSkillsPerso/) : liste / --add <fichier.md> / --convert / --translate <lang|all>")
     p_perso.add_argument("--add", default=None, help="copie un fichier .md dans mesSkillsPerso/")
     p_perso.add_argument("--convert", action="store_true", help="convertit tous les fichiers du dossier au template")
+    p_perso.add_argument("--translate", default=None, metavar="LANG",
+                         help="génère les sidecars nom.<LANG>.md manquants (traduit: auto, à traduire par le LLM hôte) ; LANG=all = toutes les langues connues manquantes")
 
     args = ap.parse_args()
     if args.cmd == "build":
@@ -8169,8 +8999,10 @@ def main():
         raise SystemExit(cmd_export(args.canvas, args.fichier, args.complet, args.condense))
     elif args.cmd == "count":
         raise SystemExit(cmd_count(args.canvas, args.dossier))
+    elif args.cmd == "translate":
+        raise SystemExit(cmd_translate(args.lang))
     elif args.cmd == "perso":
-        raise SystemExit(cmd_perso(args.add, args.convert))
+        raise SystemExit(cmd_perso(args.add, args.convert, getattr(args, "translate", None)))
 
 
 if __name__ == "__main__":

@@ -41,7 +41,7 @@
 
 ## Traductions
 
-Sidecars `NNN-slug.<lang>.md` : en = 451 skills (`.en.md`, routage `route --lang en`).
+Sidecars `NNN-slug.<lang>.md` : en = 2001 skills (`.en.md`, routage `route --lang en`), nl = 2001 skills (`.nl.md`, routage `route --lang nl`).
 
 ## Génération
 
