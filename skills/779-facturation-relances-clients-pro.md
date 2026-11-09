@@ -1,6 +1,7 @@
 ---
 num: 779
 resume: "facturer proprement et être payé à l'heure : factures conformes, relances graduées, recouvrement sans casser la relation. Étape 1 : Émettre une facture conforme (numérotation, TVA, pénalités légales, RIB) dès la livraison."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Facturation & relances clients (pro)"
 emoji: "🧾"

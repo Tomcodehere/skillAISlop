@@ -1,6 +1,7 @@
 ---
 num: 1435
 resume: "Mener un A/B test de prompts en production en 2027 : 50/50 de trafic, indicateur métier clair (réussite tâche, coût, satisfaction), durée suffisante (puissance statistique), décision data-driven. Étape 1 : Déployer A/B : 50 % des requêtes voient A, 50 % voient B (hash stable par user)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "A/B testing de prompts en production"
 emoji: "⚖️"

@@ -1,6 +1,7 @@
 ---
 num: 1914
 resume: "Optimiser le poste matériel du chantier : louer ponctuellement, acheter ce qui sert souvent, avec VGP à jour. Étape 1 : Lister le matériel avec coût d'achat et tarif de location."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Louer ou acheter son matériel de chantier"
 emoji: "🏗️"

@@ -1,6 +1,7 @@
 ---
 num: 1973
 resume: "Des formes de base compactes et régulières (boule, cylindre, cône, plaque). Étape 1 : Enrouler la laine en cœur serré (boule/cylindre/cône selon la forme)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Formes de base en feutrage"
 emoji: "⚪"

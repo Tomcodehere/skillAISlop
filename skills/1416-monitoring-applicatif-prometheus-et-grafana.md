@@ -1,6 +1,7 @@
 ---
 num: 1416
 resume: "Instrumenter et surveiller une app en 2027 avec Prometheus (métriques custom, PromQL) et Grafana (dashboards + alertes), avec des alertes sur SLO (pas sur le CPU seul). Étape 1 : Instrumenter : compteurs (requêtes), histogrammes (latence), gauges (files)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Monitoring applicatif Prometheus et Grafana"
 emoji: "📈"

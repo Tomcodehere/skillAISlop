@@ -1,6 +1,7 @@
 ---
 num: 182
 resume: "concevoir des formulaires à fort taux de complétion : champs minimaux, aide contextuelle, erreurs claires. Étape 1 : Auditer le formulaire existant ou la liste des champs voulus et traquer les champs inutiles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de formulaires"
 emoji: "📇"

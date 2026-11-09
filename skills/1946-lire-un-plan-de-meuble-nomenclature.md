@@ -1,6 +1,7 @@
 ---
 num: 1946
 resume: "Lire (ou dessiner) un plan de meuble complet pour fabriquer sans erreur. Étape 1 : Lire les vues et repérer chaque pièce dans la nomenclature (cotes, épaisseur)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lire un plan de meuble (nomenclature)"
 emoji: "📋"

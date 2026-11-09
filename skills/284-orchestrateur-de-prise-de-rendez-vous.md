@@ -1,6 +1,7 @@
 ---
 num: 284
 resume: "orchestrer un rendez-vous entre plusieurs parties : créneaux proposés, relances et confirmation, sans aller-retours interminables. Étape 1 : Rassembler contraintes et disponibilités de chaque partie, fuseaux compris."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Orchestrateur de prise de rendez-vous"
 emoji: "🕰️"

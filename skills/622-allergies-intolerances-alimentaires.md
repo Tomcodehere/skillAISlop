@@ -1,6 +1,7 @@
 ---
 num: 622
 resume: "organiser un régime d'éviction sûr et nutritif, en distinguant allergie (danger vital) et intolérance (inconfort). Étape 1 : Clarifier le statut : allergie diagnostiquée, intolérance suspectée, ou tendance alimentaire — et orienter vers le médecin si besoin."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Allergies & intolérances alimentaires"
 emoji: "🍽️"

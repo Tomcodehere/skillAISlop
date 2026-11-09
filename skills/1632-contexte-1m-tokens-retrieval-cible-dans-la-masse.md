@@ -1,6 +1,7 @@
 ---
 num: 1632
 resume: "Exploiter un contexte de 1M tokens en 2027 sans effet lost-in-the-middle (1430) : indexer le corpus en embeddings (1443), récupérer les k=5-10 passages les plus pertinents, les injecter avec la question en début/fin de contexte. Étape 1 : Indexer : chunking sémantique (1444), embeddings (1443), stockés avec métadonnées (fichier, ligne)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Contexte 1M tokens : retrieval cible dans la masse"
 emoji: "🧠"

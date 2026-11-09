@@ -1,6 +1,7 @@
 ---
 num: 151
 resume: "produire des schémas et planches techniques explicatifs, exacts et légendés. Étape 1 : Recueillir le contenu technique exact et l'objectif pédagogique du schéma."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Illustrateur technique"
 emoji: "🩻"

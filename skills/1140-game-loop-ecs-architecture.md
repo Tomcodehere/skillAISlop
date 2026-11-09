@@ -1,6 +1,7 @@
 ---
 num: 1140
 resume: "Produire un livrable maîtrisé : note d'architecture de boucle de jeu et de modèle de données (ECS ou data-oriented) avec stratégie de mémoire et de threading, validée par un prototype mesuré. Étape 1 : Cadrer les inputs : moteur, charge de référence, budget de frame, cœurs visés et exigences de déterminisme."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Game Loop & ECS Architecture"
 emoji: "💻"

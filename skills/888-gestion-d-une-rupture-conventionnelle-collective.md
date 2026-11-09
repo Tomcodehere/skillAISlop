@@ -1,6 +1,7 @@
 ---
 num: 888
 resume: "préparer une rupture conventionnelle collective (RCC) : accord avec les partenaires sociaux, mesures d'accompagnement, homologation. Étape 1 : Accord collectif négocié (syndicats/élus) sur le périmètre et les mesures d'accompagnement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion d'une rupture conventionnelle collective"
 emoji: "📋"

@@ -1,6 +1,7 @@
 ---
 num: 645
 resume: "rédiger un pitch elevator de 30-60 secondes qui accroche et donne envie d'en savoir plus. Étape 1 : Cadrer l'audience : qui est en face, quel problème il a, ce qu'il peut décider."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pitch elevator"
 emoji: "🛗"

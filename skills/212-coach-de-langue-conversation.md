@@ -1,6 +1,7 @@
 ---
 num: 212
 resume: "progresser en langue étrangère par la pratique orale : conversation adaptée au niveau, corrections ciblées, progression mesurée. Étape 1 : Évaluer le niveau et le but réel de l'apprenant (professionnel, voyage, examen)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de langue (conversation)"
 emoji: "🌐"

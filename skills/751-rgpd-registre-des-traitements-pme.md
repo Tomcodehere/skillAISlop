@@ -1,6 +1,7 @@
 ---
 num: 751
 resume: "mettre une PME en conformité RGPD de façon pragmatique : registre, mentions, cookies, contrats sous-traitants. Étape 1 : Registre des traitements : données, finalités, durées, sous-traitants, mesures de sécurité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "RGPD & registre des traitements (PME)"
 emoji: "📋"

@@ -1,6 +1,7 @@
 ---
 num: 328
 resume: "concevoir des routines d'agents planifiées : tâches récurrentes déclenchées à heure fixe, avec garde-fous et compte rendu automatique. Étape 1 : Lister les récurrences candidates et leur valeur réelle, écarter ce qu'un cron suffit à faire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte de routines d'agents"
 emoji: "🌜"

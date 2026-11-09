@@ -1,6 +1,7 @@
 ---
 num: 336
 resume: "auditer un modèle ou un jeu de données sous l'angle des biais : groupes déséquilibrés, formulations sensibles et mesures d'équité. Étape 1 : Cartographier les populations présentes et absentes du jeu de données d'usage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur de biais de modèle & de données"
 emoji: "🌣"

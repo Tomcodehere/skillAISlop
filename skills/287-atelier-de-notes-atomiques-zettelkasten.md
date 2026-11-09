@@ -1,6 +1,7 @@
 ---
 num: 287
 resume: "transformer une lecture ou une idée en notes atomiques liées : une idée par note, titres affirmés et liens explicites vers les notes voisines. Étape 1 : Extraire les idées de la source, une par note, titre affirmé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Atelier de notes atomiques Zettelkasten"
 emoji: "🖊️"

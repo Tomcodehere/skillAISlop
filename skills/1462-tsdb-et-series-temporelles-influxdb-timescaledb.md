@@ -1,6 +1,7 @@
 ---
 num: 1462
 resume: "Choisir et utiliser une TSDB en 2027 (TimescaleDB/InfluxDB/VictoriaMetrics) pour des métriques ou capteurs : ingestion rapide, downsampling/agrégation automatique, rétention par age, requêtes SQL ou Flux. Étape 1 : Choisir la TSDB selon volumétrie et langage de requête préféré (SQL = TimescaleDB)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "TSDB et series temporelles : InfluxDB, TimescaleDB"
 emoji: "⏱️"

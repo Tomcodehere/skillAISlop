@@ -1,6 +1,7 @@
 ---
 num: 679
 resume: "faire l'inventaire de ses abonnements, supprimer ceux qui ne servent plus et négocier les tarifs. Étape 1 : Inventorier : tous les prélèvements récurrents sur les relevés bancaires, coût mensuel et annuel de chacun."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion des abonnements & résiliations"
 emoji: "🧾"

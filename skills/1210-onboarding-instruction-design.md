@@ -1,6 +1,7 @@
 ---
 num: 1210
 resume: "Rédiger les consignes d'un parcours de prise en main sans surcharge de mémoire. Étape 1 : Cadrer les inputs : étapes, prérequis, objectif utilisateur et erreurs fréquentes ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Onboarding Instruction Design"
 emoji: "🎨"

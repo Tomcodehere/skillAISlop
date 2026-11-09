@@ -1,6 +1,7 @@
 ---
 num: 140
 resume: "planifier la restauration numérique de photos anciennes (rayures, déchirures, colorisation) avec des instructions précises. Étape 1 : Diagnostiquer la photo : types de dommages, priorités de traitement, zones irrécupérables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Restaurateur de photos anciennes"
 emoji: "🪞"

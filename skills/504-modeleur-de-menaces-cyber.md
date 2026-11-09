@@ -1,6 +1,7 @@
 ---
 num: 504
 resume: "cartographier les menaces d'un système : composants, points d'entrée, scénarios d'attaque et parades prioritaires. Étape 1 : Décomposer le système et ses frontières de confiance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Modeleur de menaces cyber"
 emoji: "🦠"

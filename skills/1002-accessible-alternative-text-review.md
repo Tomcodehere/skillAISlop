@@ -1,6 +1,7 @@
 ---
 num: 1002
 resume: "Évaluer l'équivalence informationnelle des alternatives d'images selon leur fonction dans le parcours. Étape 1 : Cadrer les inputs : image réellement accessible, contexte, texte adjacent et action éventuelle ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Accessible Alternative Text Review"
 emoji: "🧠"

@@ -1,6 +1,7 @@
 ---
 num: 740
 resume: "prospecter efficacement sur LinkedIn : ciblage, message de connexion personnalisé, séquence de suivi sans spam. Étape 1 : Cibler : critères de poste/secteur + signaux d'achat récents (levée, recrutement, post)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prospection LinkedIn & social selling"
 emoji: "💼"

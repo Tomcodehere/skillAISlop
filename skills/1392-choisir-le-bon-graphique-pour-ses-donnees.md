@@ -1,6 +1,7 @@
 ---
 num: 1392
 resume: "Choisir le type de graphique le plus lisible pour répondre à UNE question précise avec ses données en 2027 : comparaison, tendance, répartition, corrélation ou distribution, avec axes nommés et sans effets 3D. Étape 1 : Identifier le type de chaque variable (quantitative, qualitative, date)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir le bon graphique pour ses donnees"
 emoji: "📉"

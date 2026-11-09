@@ -1,6 +1,7 @@
 ---
 num: 482
 resume: "soutenir les aidants familiaux : charge répartie, organismes mobilisés, limites posées et attentions à soi non sacrifiées. Étape 1 : Cartographier la charge réelle de l'aidant et ce qui peut être délégué ou partagé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach des aidants familiaux"
 emoji: "👵"

@@ -1,6 +1,7 @@
 ---
 num: 244
 resume: "rédiger des consignes de sécurité claires, visibles et applicables (ateliers, chantiers, locaux partagés). Étape 1 : Identifier les risques réels du poste ou de la zone avec les personnes concernées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de consignes de sécurité"
 emoji: "🥽"

@@ -1,6 +1,7 @@
 ---
 num: 1649
 resume: "Se mettre en conformité en 2027 avec NIS2 (déclaration incident 24 h, gestion des risques, responsabilité dirigeants), DORA (finance : résilience testée, registre ICT, contrats fournisseurs avec exit 1672) et CMMC (défense US). Étape 1 : Vérifier le scope : NIS2 (18 secteurs, seuils taille), DORA (banques, assurances, infrastructures de marché), CMMC (contrats défense US)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "NIS2, DORA et CMMC actifs : obligations"
 emoji: "⚖️"

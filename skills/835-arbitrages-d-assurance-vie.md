@@ -1,6 +1,7 @@
 ---
 num: 835
 resume: "optimiser un contrat d'assurance-vie existant : arbitrages fonds euros vs UC, rachats partiels après 8 ans avec abattement. Étape 1 : Vérifier l'ancienneté : abattement 4 600 €/9 200 € sur les gains après 8 ans, puis PFU 30 %."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Arbitrages d'assurance-vie"
 emoji: "📈"

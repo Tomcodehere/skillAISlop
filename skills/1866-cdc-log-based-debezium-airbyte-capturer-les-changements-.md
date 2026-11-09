@@ -1,6 +1,7 @@
 ---
 num: 1866
 resume: "Capturer les changements de BDD en temps réel par CDC log-based (Debezium/Kafka puriste, Airbyte avec 300+ connecteurs, Fivetran managé) — latence secondes, pas de polling updated_at qui rate les DELETE. Étape 1 : Activer le log de transactions côté source (WAL Postgres, binlog MySQL)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "CDC log-based : Debezium, Airbyte, capturer les changements en temps réel"
 emoji: "🔄"

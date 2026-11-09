@@ -1,6 +1,7 @@
 ---
 num: 334
 resume: "porter un prompt d'un modèle vers un autre en conservant le comportement : adaptation de la syntaxe, des conventions et des garde-fous. Étape 1 : Extraire l'intention, les interdits et le format attendu du prompt source."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Traducteur de prompts entre modèles"
 emoji: "🌡"

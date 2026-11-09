@@ -1,6 +1,7 @@
 ---
 num: 326
 resume: "maîtriser le budget de contexte d'une session : estimer les tokens des entrées, hiérarchiser ce qui entre et couper sans perdre le fil. Étape 1 : Estimer le coût en tokens de chaque composant et du total visé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Compteur de tokens & budget de contexte"
 emoji: "🌛"

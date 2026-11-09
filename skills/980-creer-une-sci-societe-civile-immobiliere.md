@@ -1,6 +1,7 @@
 ---
 num: 980
 resume: "créer une SCI en 2027 pour détenir/gérer un patrimoine immobilier : statuts, option IS/IR, apports, comptes, AG annuelle, formalisme. Étape 1 : Statuts (objet immobilier, apports, gérance, décisions, cession de parts avec agrément) signés chez le notaire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créer une SCI (société civile immobilière)"
 emoji: "🏢"

@@ -1,6 +1,7 @@
 ---
 num: 708
 resume: "mener une recherche approfondie sur un sujet : collecter des sources primaires variées, croiser, synthétiser avec citations. Étape 1 : Cadrer la question de recherche, les hypothèses et les angles à couvrir."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Recherche profonde multi-sources"
 emoji: "🌐"

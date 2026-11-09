@@ -1,6 +1,7 @@
 ---
 num: 615
 resume: "installer une boucle où l'agent consigne ses erreurs et règles de fonctionnement pour ne plus les répéter. Étape 1 : Capturer les incidents de la session : erreurs d'outils, malentendus d'instruction, détours inutiles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Boucle d'auto-amélioration de l'agent"
 emoji: "🪞"

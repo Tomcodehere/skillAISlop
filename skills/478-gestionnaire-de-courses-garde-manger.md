@@ -1,6 +1,7 @@
 ---
 num: 478
 resume: "organiser les courses et le garde-manger du foyer : inventaire tenu, listes par magasin, rotations anti-gaspillage et budget suivi. Étape 1 : Faire l'inventaire réel du garde-manger et calibrer sur la consommation réelle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestionnaire de courses & garde-manger"
 emoji: "🍲"

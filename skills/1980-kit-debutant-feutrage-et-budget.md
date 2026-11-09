@@ -1,6 +1,7 @@
 ---
 num: 1980
 resume: "Un kit complet pour débuter le feutrage pour ~20-25 €, chez les bons fournisseurs. Étape 1 : Lister le kit minimal : 3 aiguilles 36/38/40, bloc mousse, 100 g cardée + 50 g peignée, ciseaux, doigtier (~20-25 €)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Kit débutant feutrage et budget"
 emoji: "💶"

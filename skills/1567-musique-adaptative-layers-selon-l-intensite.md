@@ -1,6 +1,7 @@
 ---
 num: 1567
 resume: "Créer une musique adaptative en 2027 : 4 couches (calme/exploration/combat/boss 1526) mixées selon un paramètre 'intensité' (0-100) calculé par le gameplay (distance ennemi 1520, PV, phase), transitions douces (crossfade 2 s) via FMOD/Wwise (1566). Étape 1 : Composer 4 couches à la même tempo/clé (ex. 120 BPM, La mineur) : calme (cordes), explore (+ percussion légère), combat (+ basse/batterie), b"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Musique adaptative : layers selon l'intensite"
 emoji: "🎵"

@@ -1,6 +1,7 @@
 ---
 num: 1953
 resume: "Obtenir la bonne gauge pour que le vêtement fini ait les bonnes dimensions. Étape 1 : Tricoter un carré 12-14 cm dans le point du patron, plus large que 10 cm."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Échantillon et gauge (jauge) en tricot"
 emoji: "📐"

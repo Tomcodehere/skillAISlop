@@ -1,6 +1,7 @@
 ---
 num: 303
 resume: "décider du bon numéro de version à chaque publication : major, minor ou patch, avec un CHANGELOG cohérent et des breaking changes signalés. Étape 1 : Passer en revue les commits depuis la dernière version et qualifier chaque changement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gardien du versioning sémantique"
 emoji: "🌂"

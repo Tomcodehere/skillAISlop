@@ -1,6 +1,7 @@
 ---
 num: 1124
 resume: "Executer des commandes shell en production de maniere robuste, tracee et reversible, avec verification systematique de l'environnement et capture complete des resultats."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Execution Commande Shell"
 emoji: "📋"

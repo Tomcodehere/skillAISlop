@@ -1,6 +1,7 @@
 ---
 num: 1548
 resume: "Ajouter un chat in-game en 2027 : canaux (général/équipe/privé), filtre de vulgarité (liste + classificateur), rate limit anti-spam, signalement avec vote mute/ban, historique des sanctions, conformité mineurs (1587). Étape 1 : Chat : envoi {canal, texte, auteur, ts}; serveur valide (rate limit 1/2 s, longueur 200 car.), filtre vulgarité (liste + LLM 1490 score supérieur à 0,8 → masqué '[modéré]')"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chat in-game et moderation automatique"
 emoji: "💬"

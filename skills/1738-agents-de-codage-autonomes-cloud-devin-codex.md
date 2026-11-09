@@ -1,6 +1,7 @@
 ---
 num: 1738
 resume: "Déléguer des tâches bien cadrées en 2027 à un agent autonome cloud (Devin/Cognition ou Codex/OpenAI) : assigner une issue, l'agent planifie+code+teste en sandbox et ouvre une PR — le dev ne fait que la revue (1401) et les ajustements. Étape 1 : Issue bien écrite : contexte, fichiers concernés, critères d'acceptation, tests attendus (822), exemples."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Agents de codage autonomes cloud : Devin, Codex"
 emoji: "🤖"

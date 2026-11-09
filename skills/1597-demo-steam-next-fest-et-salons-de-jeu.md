@@ -1,6 +1,7 @@
 ---
 num: 1597
 resume: "Maximiser la visibilité pré-lancement en 2027 : soumettre la démo au Steam Next Fest (février/juin/octobre, build démo 30 min, branche Steam 1579), viser wishlists (1581) + retours structurés (1598), et réserver des stands aux salons (PGW/PAX) avec démo jouable et RV presse/éditeurs (1594). Étape 1 : Next Fest : créer la branche démo Steam (1579), build 30 min poli (1593), soumettre 2 mois avant ("
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Demo Steam Next Fest et salons de jeu"
 emoji: "🎪"

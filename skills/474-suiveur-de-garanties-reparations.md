@@ -1,6 +1,7 @@
 ---
 num: 474
 resume: "suivre garanties et réparations du foyer : échéances tracées, preuves conservées, dossiers de SAV prêts et recours assumés. Étape 1 : Enregistrer chaque achat avec garantie, preuve et conditions dès l'achat."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Suiveur de garanties & réparations"
 emoji: "🪡"

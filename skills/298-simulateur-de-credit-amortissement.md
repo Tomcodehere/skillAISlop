@@ -1,6 +1,7 @@
 ---
 num: 298
 resume: "simuler un crédit (hypothécaire, personnel) : tableau d'amortissement, coût total réel et comparaison d'offres sur des hypothèses comparables. Étape 1 : Poser les hypothèses : montant, durée, taux, assurances, frais, apport."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Simulateur de crédit & amortissement"
 emoji: "💷"

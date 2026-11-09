@@ -1,6 +1,7 @@
 ---
 num: 1395
 resume: "Construire un golden set de 50-200 cas pour évaluer un agent IA en 2027 : entrées réelles anonymisées, sorties attendues, critères de réussite par cas, couverture des cas limites et des pièges, versionné. Étape 1 : Collecter 200-500 interactions réelles anonymisées + cas d'échec connus."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Construire un golden set d'evaluations pour un agent IA"
 emoji: "🥇"

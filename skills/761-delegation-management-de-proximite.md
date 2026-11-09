@@ -1,6 +1,7 @@
 ---
 num: 761
 resume: "déléguer efficacement : clarifier le résultat attendu, les moyens, les jalons, sans micromanager. Étape 1 : Cadrer : résultat attendu précis, périmètre de décision, ressources, jalons de contrôle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Délégation & management de proximité"
 emoji: "🤲"

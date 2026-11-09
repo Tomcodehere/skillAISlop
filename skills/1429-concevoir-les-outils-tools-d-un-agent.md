@@ -1,6 +1,7 @@
 ---
 num: 1429
 resume: "Concevoir des outils (tools) d'agent efficaces en 2027 : nom explicite, description avec 'ne pas utiliser si...', paramètres typés contraints, sorties JSON compactes, outils idempotents. Étape 1 : Lister les actions utiles pour la tâche (max 5-8 outils)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concevoir les outils (tools) d'un agent"
 emoji: "🛠️"

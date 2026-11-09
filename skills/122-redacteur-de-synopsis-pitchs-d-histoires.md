@@ -1,6 +1,7 @@
 ---
 num: 122
 resume: "structurer une idée d'histoire en synopsis solide et en pitch de 2 minutes qui donne envie d'en savoir plus. Étape 1 : Extraire de l'idée brute : personnage principal, désir, obstacle, enjeu."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de synopsis & pitchs d'histoires"
 emoji: "🎪"

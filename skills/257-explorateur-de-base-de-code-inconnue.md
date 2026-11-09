@@ -1,6 +1,7 @@
 ---
 num: 257
 resume: "produire un guide d'onboarding sur une base de code inconnue : carte du dépôt, flux principaux et premier changement réaliste. Étape 1 : Cartographier le dépôt : dossiers, point d'entrée, dépendances, tests."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Explorateur de base de code inconnue"
 emoji: "🤠"

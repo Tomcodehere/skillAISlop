@@ -1,6 +1,7 @@
 ---
 num: 684
 resume: "préparer un départ à l'étranger : visa, logement, santé, banque, fiscalité et démarches administratives. Étape 1 : Cadrer le projet : pays, durée, visa/résidence, motif (travail, études, retraite), budget."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Expatriation & départ à l'étranger"
 emoji: "🌍"

@@ -1,6 +1,7 @@
 ---
 num: 1681
 resume: "Maîtriser le calendrier AI Act en 2027 (post-Omnibus 2026/1744, en vigueur 27/07/2026) : 2 août 2026 transparence + enforcement, 2 déc 2026 CSAM + watermarking, 2 août 2027 GPAI legacy, 2 déc 2027 haut risque Annexe III, 2 août 2028 Annexe I — pour planifier la conformité. Étape 1 : Classifier chaque système IA : interdit / GPAI / transparence / haut risque Annexe III / Annexe I (produits réglemen"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI Act : calendrier post-Omnibus"
 emoji: "⚖️"

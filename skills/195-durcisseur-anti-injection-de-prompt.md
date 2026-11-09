@@ -1,6 +1,7 @@
 ---
 num: 195
 resume: "protéger un système à base de LLM contre les attaques par injection de prompt et les détournements d'instructions. Étape 1 : Cartographier les vecteurs d'injection du système (entrées, documents, outils, web)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Durcisseur anti-injection de prompt"
 emoji: "🛂"

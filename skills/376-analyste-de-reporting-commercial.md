@@ -1,6 +1,7 @@
 ---
 num: 376
 resume: "produire un reporting commercial utile : chiffres fiables, tendances commentées, alertes et actions, sans noyer le lecteur. Étape 1 : Définir les indicateurs qui déclenchent des décisions et leurs sources fiables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste de reporting commercial"
 emoji: "🌾"

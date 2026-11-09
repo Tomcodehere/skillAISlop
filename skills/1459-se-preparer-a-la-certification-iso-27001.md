@@ -1,6 +1,7 @@
 ---
 num: 1459
 resume: "Préparer la certification ISO 27001 en 2027 : gap analysis vs l'annexe A (93 mesures), mise en place du SMSI (politique, analyse de risques, traitement), preuves collectées, audit interne, puis audit de certification. Étape 1 : Définir le périmètre du SMSI (produits, sites, processus concernés)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Se preparer a la certification ISO 27001"
 emoji: "🏆"

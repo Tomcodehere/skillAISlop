@@ -1,6 +1,7 @@
 ---
 num: 1386
 resume: "Construire une bibliographie académique fiable dans Zotero : collecte des sources, deduplication, classement par theme, choix du style de citation (APA/Vancouver/Chicago) et export propre pour un mémoire ou un article. Étape 1 : Installer Zotero + connecteur navigateur ; creer des dossiers par theme."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Construire une bibliographie académique (Zotero)"
 emoji: "📚"

@@ -1,6 +1,7 @@
 ---
 num: 365
 resume: "produire des carrousels qui se lisent jusqu'au bout : accroche, une idée par slide, progression narrative et conclusion actionnable. Étape 1 : Définir l'idée centrale et la progression narrative en 3 blocs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Producteur de carrousels éditoriaux"
 emoji: "🌹"

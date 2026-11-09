@@ -1,6 +1,7 @@
 ---
 num: 643
 resume: "réduire le nombre de réunions et les rendre utiles : ordre du jour, durée, participants, compte rendu. Étape 1 : Auditer : combien de réunions par semaine, durée totale, lesquelles pourraient être asynchrones."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Réunions efficaces"
 emoji: "⏱️"

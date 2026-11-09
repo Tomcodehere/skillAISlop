@@ -1,6 +1,7 @@
 ---
 num: 911
 resume: "comprendre le changement PLF 2027 sur les indemnités de rupture : plafond unique d'exonération à 1 PASS (48 060 € en 2026), ne concernant que les 5 % de salariés les mieux payés. Étape 1 : PLF 2027 (projet) : plafond d'exonération indemnités de rupture à 1 PASS (48 060 €), impact ~5 % des salariés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "PLF : indemnités de rupture plafonnées à 1 PASS"
 emoji: "📉"

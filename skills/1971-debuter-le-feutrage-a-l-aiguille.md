@@ -1,6 +1,7 @@
 ---
 num: 1971
 resume: "Réussir sa première figurine 3D en feutrage à l'aiguille. Étape 1 : Acheter le kit (3 aiguilles 36/38/40, mousse, laine cardée mérinos)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Débuter le feutrage à l'aiguille"
 emoji: "🪡"

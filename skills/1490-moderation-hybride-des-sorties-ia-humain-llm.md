@@ -1,6 +1,7 @@
 ---
 num: 1490
 resume: "Modérer les sorties IA en production en 2027 (hybride) : classificateur LLM en amont (toxicité, illicite, PII, spam) avec seuils, file humaine pour les cas limites (inférieur à 2 % du trafic), signalements utilisateurs traités, audit mensuel. Étape 1 : Définir la charte de modération (catégories : haine, illicite, PII, spam, sexualisé mineur...)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Moderation hybride des sorties IA (humain + LLM)"
 emoji: "🛡"

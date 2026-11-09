@@ -1,6 +1,7 @@
 ---
 num: 1930
 resume: "Un petit meuble solide, d'équerre, avec des portes/tiroirs qui ferment bien. Étape 1 : Dessiner le plan avec toutes les cotes et la nomenclature des panneaux (voir 1946)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fabriquer un petit meuble (caisson)"
 emoji: "🚪"

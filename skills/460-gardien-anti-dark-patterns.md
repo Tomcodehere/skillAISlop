@@ -1,6 +1,7 @@
 ---
 num: 460
 resume: "traquer et corriger les dark patterns : désinscription piégée, consentement forcé, pressions factices — remplacés par des parcours honnêtes. Étape 1 : Auditer les parcours clés : abonnement, désinscription, paiement, consentement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gardien anti-dark patterns"
 emoji: "🙈"

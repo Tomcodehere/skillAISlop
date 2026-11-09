@@ -1,6 +1,7 @@
 ---
 num: 1825
 resume: "Attester des tâches de sécurité (SSDF : scan SAST, revue, scan CVE) dans des attestations CDXA (CycloneDX bom-1.7) signées, liées au SBOM par BOM-Link, enveloppées dans un bundle Sigstore. Étape 1 : Générer le CDXA : cosign attest-blob --predicate cdxa.json --type cyclonedx (bundle Sigstore)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Attestations CycloneDX (CDXA) et bundles Sigstore"
 emoji: "🧷"

@@ -1,6 +1,7 @@
 ---
 num: 800
 resume: "déléguer sereinement des tâches du quotidien à un agent IA personnel en définissant des permissions claires et des seuils d'approbation. Étape 1 : Choisir les tâches déléguables : recherche, formulaires, réservations, veille prix — jamais décisions financières importantes sans approbation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Délégation à un agent personnel (Muse, Dots…)"
 emoji: "🤖"

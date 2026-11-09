@@ -1,6 +1,7 @@
 ---
 num: 608
 resume: "traduire des maquettes Figma en composants de code fidèles, accessibles et cohérents avec le design system. Étape 1 : Annoter la maquette : tokens utilisés, composants existants à réutiliser, écarts à faire valider."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Intégrateur design vers code"
 emoji: "🎨"

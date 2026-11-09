@@ -1,6 +1,7 @@
 ---
 num: 394
 resume: "écrire des macros de réponse support : gabarits réutilisables, personnalisables en 2 variables, ton constant et réponse réellement utile. Étape 1 : Analyser les tickets réels par catégorie et fréquence."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de macros de support"
 emoji: "🍋"

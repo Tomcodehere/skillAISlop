@@ -1,6 +1,7 @@
 ---
 num: 961
 resume: "faire une rénovation énergétique globale en 2027 (audit, travaux groupés, MaPrimeRénov' parcours accompagné) et connaître l'interdiction de louer les passoires thermiques (DPE G dès 2028). Étape 1 : Audit énergétique réglementaire d'abord ; viser le saut de classe (G→D minimum) pour louer en 2028."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rénovation énergétique globale (DPE)"
 emoji: "🏠"

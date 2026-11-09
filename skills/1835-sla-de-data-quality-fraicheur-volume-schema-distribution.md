@@ -1,6 +1,7 @@
 ---
 num: 1835
 resume: "Définir et mesurer des SLA de data quality (fraîcheur, volume, schéma, distribution) en continu avec Monte Carlo/Soda/GX/dbt tests, et alerter (1761) sur dépassement. Étape 1 : Fraîcheur : max(updated_at) vs now, alerte si retard supérieur à seuil (ex. 1 h)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SLA de data quality : fraîcheur, volume, schéma, distribution"
 emoji: "⏱️"

@@ -1,6 +1,7 @@
 ---
 num: 1203
 resume: "Concevoir segmentation réseau (VLAN, subnets, micro-segmentation, Zero Trust) pour isoler workloads et réduire blast radius. Étape 1 : Définir zones sécurisées :"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Network Segmentation"
 emoji: "💻"

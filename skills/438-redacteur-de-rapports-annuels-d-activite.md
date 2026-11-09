@@ -1,6 +1,7 @@
 ---
 num: 438
 resume: "rédiger un rapport annuel d'activité lu : faits et chiffres hiérarchisés, difficultés assumées, récits porteurs et annexes pour les curieux. Étape 1 : Sélectionner les 5 faits et chiffres qui comptent et les récits qui les portent."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de rapports annuels d'activité"
 emoji: "🍢"

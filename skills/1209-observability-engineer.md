@@ -1,6 +1,7 @@
 ---
 num: 1209
 resume: "Rendre les systemes observables via logs, metrics, traces et alerting actionnable. Étape 1 : Identifier parcours critiques."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Observability Engineer"
 emoji: "🤖"

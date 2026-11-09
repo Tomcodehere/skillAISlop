@@ -1,6 +1,7 @@
 ---
 num: 767
 resume: "préparer et réussir une soutenance orale : structure claire, slides sobres, anticipation des questions du jury. Étape 1 : Structurer l'oral : problématique/méthode, résultats, limites — avec temps alloué par partie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'une soutenance orale"
 emoji: "🎓"

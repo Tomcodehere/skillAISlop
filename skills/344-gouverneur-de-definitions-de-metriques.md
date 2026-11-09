@@ -1,6 +1,7 @@
 ---
 num: 344
 resume: "établir une seule définition par métrique d'entreprise : formule exacte, source, périmètre, exclusions et propriétaire. Étape 1 : Recenser les métriques réellement utilisées et leurs variantes de définition."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gouverneur de définitions de métriques"
 emoji: "🌪"

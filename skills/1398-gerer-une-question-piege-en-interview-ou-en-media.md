@@ -1,6 +1,7 @@
 ---
 num: 1398
 resume: "Gérer sereinement une question piège en interview ou média en 2027 : préparer 3 messages clés, maîtriser la technique du pont, reformuler sans répéter l'accusation, et savoir dire « je ne sais pas, je reviens vers vous ». Étape 1 : Lister les 5 questions les plus genantes et préparer une reponse factuelle courte pour chacune."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gerer une question piege en interview ou en media"
 emoji: "🎤"

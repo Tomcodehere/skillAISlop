@@ -1,6 +1,7 @@
 ---
 num: 642
 resume: "organiser un télétravail soutenable : cadre négocié, outils, rituels à distance et prévention de l'isolement. Étape 1 : Cadrer : jours de télétravail, jours de présence, modalités de l'accord écrit, remboursement des frais."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Télétravail & management à distance"
 emoji: "🏠"

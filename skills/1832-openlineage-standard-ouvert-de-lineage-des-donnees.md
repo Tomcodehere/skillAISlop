@@ -1,6 +1,7 @@
 ---
 num: 1832
 resume: "Instrumenter tous les pipelines avec OpenLineage (standard ouvert) : événements de run (start/complete/fail, inputs/outputs) émis par Airflow, dbt, Spark, Flink, Dagster, Snowflake, BigQuery. Étape 1 : Phase 1 : dbt (intégration native) — chaque modèle émet un event avec inputs/outputs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OpenLineage : standard ouvert de lineage des données"
 emoji: "🧭"

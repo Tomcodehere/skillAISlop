@@ -1,6 +1,7 @@
 ---
 num: 1725
 resume: "Faire du security enforcement runtime en 2027 avec Tetragon (Cilium/eBPF) : Tracing Policies (YAML) qui bloquent en temps réel l'exécution de binaires interdits, l'écriture sur des fichiers sensibles, les connexions sortantes non autorisées — au-delà de la détection (Falco 1723). Étape 1 : Installer Tetragon (daemonset eBPF, avec Cilium ou standalone), vérifier tetragon status."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tetragon : sécurité runtime avec enforcement"
 emoji: "🛡"

@@ -1,6 +1,7 @@
 ---
 num: 499
 resume: "apprendre en enseignant : sujet maîtrisé à hauteur de transmission, support pédagogique construit et session réelle avec retours. Étape 1 : Cadrer le sujet transmissible honnêtement et identifier le public utile."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach d'apprentissage par l'enseignement"
 emoji: "🍽"

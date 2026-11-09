@@ -1,6 +1,7 @@
 ---
 num: 997
 resume: "préparer une mobilité interne (changement de poste) en 2027 : en parler au manager, viser un poste ouvert, période d'essai interne, plan de montée en compétence. Étape 1 : En parler au manager actuel 3-6 mois avant, honnêtement ; cibler les postes ouverts (intranet RH) + entretien futur manager."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer une mobilité interne (changement de poste)"
 emoji: "🔄"

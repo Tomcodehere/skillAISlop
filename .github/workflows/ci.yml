@@ -30,6 +30,9 @@ jobs:
       - name: Tests de non-régression du routage
         run: python3 outils/routage.py test
 
+      - name: Smoke multilingue EN (route --lang en)
+        run: python3 outils/routage.py route --lang en "how do I write an SEO blog post"
+
       - name: Golden set de régression du routage (P0-3)
         run: python3 outils/routage.py golden
 

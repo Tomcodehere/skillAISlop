@@ -1,6 +1,7 @@
 ---
 num: 1244
 resume: "Gérer les versions de prompts IA, documenter les changements, et réaliser des tests A/B pour mesurer l'impact des modifications sur la qualité, le coût et la performance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prompt Versioning & Testing"
 emoji: "💻"

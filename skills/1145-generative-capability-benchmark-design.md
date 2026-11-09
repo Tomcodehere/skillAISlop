@@ -1,6 +1,7 @@
 ---
 num: 1145
 resume: "Comparer des capacités de modèles génératifs sur des tâches représentatives du besoin. Étape 1 : Cadrer les inputs : tâches, contraintes, modèles candidats et critères d'évaluation ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Generative Capability Benchmark Design"
 emoji: "🧠"

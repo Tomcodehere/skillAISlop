@@ -1,6 +1,7 @@
 ---
 num: 647
 resume: "surveiller et améliorer son e-réputation : collecter des avis positifs et répondre aux avis négatifs professionnellement. Étape 1 : Mettre en place la collecte : demande d'avis systématique après prestation, fiche Google Business optimisée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "E-réputation & avis en ligne"
 emoji: "⭐"

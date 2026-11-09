@@ -1,6 +1,7 @@
 ---
 num: 1314
 resume: "organiser un batch cooking hebdomadaire (avec ou sans robot connecté) pour gagner du temps tout en mangeant maison. Étape 1 : Choisir 3-4 recettes compatibles (même protéine/base, sauces différentes) pour 5 jours."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Batch cooking & robot de cuisine"
 emoji: "🥘"

@@ -1,6 +1,7 @@
 ---
 num: 745
 resume: "mettre en place un programme de parrainage qui transforme les clients satisfaits en apporteurs d'affaires. Étape 1 : Définir l'offre gagnant-gagnant simple et le mécanisme de tracking (lien unique, crédit auto)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Programme de parrainage & bouche-à-oreille"
 emoji: "🗣️"

@@ -1,6 +1,7 @@
 ---
 num: 10
 resume: "relire du code existant et diagnostiquer des bugs avec méthode. Étape 1 : Lire tout le code avant de commenter."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Review de code & debug"
 emoji: "🐞"

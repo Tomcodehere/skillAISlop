@@ -1,6 +1,7 @@
 ---
 num: 1358
 resume: "Etre pret a mener un entretien d'embauche entierement en langue etrangere : reponses structurees (STAR), questions classiques anticipees, gestion des questions sur le salaire et les faiblesses. Étape 1 : Lister les 8 questions les plus frequemment posees dans la langue cible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Preparer un entretien d'embauche en langue etrangere"
 emoji: "🤝"

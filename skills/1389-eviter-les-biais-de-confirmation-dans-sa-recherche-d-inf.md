@@ -1,6 +1,7 @@
 ---
 num: 1389
 resume: "Mener une recherche d'information objective en contrant le biais de confirmation : chercher activement les sources qui infirment son hypothèse, varier les origines, et documenter ce qui confirme ET ce qui infirme. Étape 1 : Écrire l'hypothèse en une phrase testable."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Eviter les biais de confirmation dans sa recherche d'info"
 emoji: "🪞"

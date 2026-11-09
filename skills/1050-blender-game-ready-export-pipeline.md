@@ -1,6 +1,7 @@
 ---
 num: 1050
 resume: "Produire un livrable maîtrisé : export glTF 2.0 (ou FBX si justifié) avec paramètres, checklist et test d'import. Étape 1 : Cadrer les inputs : scène Blender, moteur cible et version, conventions de nommage, besoins d'animation ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Blender Game-Ready Export Pipeline"
 emoji: "💻"

@@ -1,6 +1,7 @@
 ---
 num: 1251
 resume: "Securiser les mises en production avec checklist go/no-go et plan de rollback. Étape 1 : Readiness check (code/tests/data)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Release Manager & Change Control"
 emoji: "💻"

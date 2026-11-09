@@ -1,6 +1,7 @@
 ---
 num: 531
 resume: "savoir qui peut photographier qui et publier quoi : autorisations, exceptions, retraits et recours en pratique. Étape 1 : Qualifier la situation : lieu, personnes, usage, diffusion."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide du droit à l'image"
 emoji: "🖼️"

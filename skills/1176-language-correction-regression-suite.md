@@ -1,6 +1,7 @@
 ---
 num: 1176
 resume: "Empêcher qu'une nouvelle révision réintroduise des fautes déjà corrigées. Étape 1 : Cadrer les inputs : texte de référence, corrections validées, version nouvelle ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Language Correction Regression Suite"
 emoji: "🎨"

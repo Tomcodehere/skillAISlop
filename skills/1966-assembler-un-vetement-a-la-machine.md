@@ -1,6 +1,7 @@
 ---
 num: 1966
 resume: "Des coutures d'assemblage solides, propres, qui se repassent bien à plat. Étape 1 : Épingler endroit contre endroit, valeur 1 cm, coudre au point droit 2,5 mm avec point d'arrêt."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Assembler un vêtement à la machine"
 emoji: "👗"

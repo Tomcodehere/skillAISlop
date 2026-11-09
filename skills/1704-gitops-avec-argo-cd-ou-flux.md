@@ -1,6 +1,7 @@
 ---
 num: 1704
 resume: "Mettre le GitOps en 2027 avec Argo CD (ou Flux) : manifests k8s dans Git, réconciliation automatique du cluster, déploiement via PR reviewée, rollback par git revert, drift détecté et corrigé (ou notifié). Étape 1 : Choisir : Argo CD (UI riche, multi-cluster, ApplicationSet) ou Flux (CNCF graduated, plus léger, natif Git)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "GitOps avec Argo CD ou Flux"
 emoji: "🔄"

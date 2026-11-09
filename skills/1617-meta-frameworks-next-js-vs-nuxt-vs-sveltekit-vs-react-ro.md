@@ -1,6 +1,7 @@
 ---
 num: 1617
 resume: "Choisir son meta-framework en 2027 (Next.js App Router, Nuxt 4, SvelteKit, React Router 7) selon l'équipe, l'hébergement (edge 1612), l'écosystème et la vélocité — avec une matrice de décision, pas au hasard. Étape 1 : Lister les besoins : SSR/streaming, RSC, SSG, API intégrées, déploiement edge, taille équipe."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Meta-frameworks : Next.js vs Nuxt vs SvelteKit vs React Router"
 emoji: "⚖️"

@@ -1,6 +1,7 @@
 ---
 num: 896
 resume: "comprendre le bail commercial 3/6/9 : durée, renouvellement, révision du loyer (ILC/ILAT), indemnité d'éviction, cession du fonds. Étape 1 : Règle 3/6/9 : 9 ans, sortie à 3 ans (préavis 6 mois), renouvellement à 6/9 ans ; loyer révisé sur ILC/ILAT (plafonné PME)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Droit du bail commercial"
 emoji: "🏪"

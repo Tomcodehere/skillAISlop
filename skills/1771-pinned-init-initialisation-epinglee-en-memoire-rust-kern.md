@@ -1,6 +1,7 @@
 ---
 num: 1771
 resume: "Utiliser pinned-init (depuis kernel 6.4) pour garantir qu'un objet Rust initialisé garde une adresse fixe (Pin), obligatoire dès qu'il est embarqué dans une structure C à pointeurs intrusifs. Étape 1 : Identifier les objets Rust embarqués dans des structures C (listes, arbres, callbacks)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "pinned-init : initialisation épinglée en mémoire (Rust kernel)"
 emoji: "📌"

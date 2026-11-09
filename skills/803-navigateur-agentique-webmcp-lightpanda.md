@@ -1,6 +1,7 @@
 ---
 num: 803
 resume: "faire piloter un navigateur par un agent IA via des protocoles standardisés (WebMCP) ou des navigateurs headless légers (lightpanda). Étape 1 : Choisir le canal : WebMCP si le site l'expose, sinon agent-browser (ref-based) ou lightpanda (headless léger)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Navigateur agentique (WebMCP, lightpanda)"
 emoji: "🌐"

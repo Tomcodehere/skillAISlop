@@ -1,6 +1,7 @@
 ---
 num: 822
 resume: "générer automatiquement des tests à partir d'une documentation (API, spec PDF) pour augmenter la couverture sans tout écrire à la main. Étape 1 : Extraire de la doc : endpoints/fonctions, paramètres, cas d'erreur et limites documentés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Génération de tests depuis la doc (doc-to-test)"
 emoji: "🧪"

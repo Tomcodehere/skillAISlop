@@ -1,6 +1,7 @@
 ---
 num: 297
 resume: "rassembler et organiser les documents d'une déclaration fiscale personnelle belge : justificatifs par rubrique, calendrier et liste de contrôle avant envoi. Étape 1 : Cartographier les rubriques de la déclaration concernées par la situation personnelle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Assembleur de dossier fiscal"
 emoji: "🉐"

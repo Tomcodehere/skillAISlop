@@ -1,6 +1,7 @@
 ---
 num: 379
 resume: "écrire des notifications utiles : information en un coup d'œil, bon moment, actionnable, sans harceler. Étape 1 : Définir l'événement déclencheur, son urgence réelle et le bon canal."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de notifications & push"
 emoji: "🍁"

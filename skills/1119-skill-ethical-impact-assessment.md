@@ -1,6 +1,7 @@
 ---
 num: 1119
 resume: "Évaluer l'impact éthique et sociétal des systèmes d'intelligence artificielle : conséquences sur les individus, groupes et société, risques discriminatoires, questions AI Act et recommandations d'ethics by design. Étape 1 : Cadrer le système, ses usages prévus et raisonnablement prévisibles, son contexte et ses parties prenantes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Skill: Ethical Impact Assessment"
 emoji: "🧠"

@@ -1,6 +1,7 @@
 ---
 num: 1528
 resume: "Concevoir une table de loot en 2027 : objets avec poids (commun 60 / rare 30 / épique 9 / légendaire 1), tirage pondéré à chaque kill, pity timer (taux rare x2 après 20 kills sans rare), drop garanti tous les 50. Étape 1 : Table : [{objet: épée_bois, poids: 60, rareté: commun}, ..., {épée_légendaire, poids: 1, rareté: légendaire}]."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Loot table ponderee et pity timer"
 emoji: "🎰"

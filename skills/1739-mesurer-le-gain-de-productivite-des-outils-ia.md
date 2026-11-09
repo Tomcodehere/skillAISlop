@@ -1,6 +1,7 @@
 ---
 num: 1739
 resume: "Mesurer le gain réel des outils de codage IA en 2027 (+20-30 % constaté sur l'écriture en 2026) : DORA (1706), usage (Analytics API 1737 / crédits Copilot 2026), qualité (bugs post-merge 256, SAST 1658), satisfaction (SPACE 1712) — par équipe, jamais individuel. Étape 1 : Baseline 3 mois avant déploiement : DORA (1706), bugs post-merge, temps de revue PR (1401)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Mesurer le gain de productivite des outils IA"
 emoji: "📊"

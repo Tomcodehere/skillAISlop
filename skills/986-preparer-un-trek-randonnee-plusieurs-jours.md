@@ -1,6 +1,7 @@
 ---
 num: 986
 resume: "préparer un trek de plusieurs jours en 2027 (GR ou itinéraire libre) : équipement (sac « « Je veux faire le GR20 en 2027 sur 7 jours. Comment préparer sac et hébergement ? » » Étape 1 : Clarifier « Préparer un trek / randonnée plusieurs jours 2027 »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer un trek / randonnée plusieurs jours"
 emoji: "🥾"

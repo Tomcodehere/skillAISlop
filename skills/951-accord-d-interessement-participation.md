@@ -1,6 +1,7 @@
 ---
 num: 951
 resume: "mettre en place un accord d'intéressement (ou participation) en 2027 : prime liée aux résultats, négocié, avec exonérations fiscales et sociales pour les salariés. Étape 1 : Formule de calcul claire (uniforme / proportionnelle au salaire / au temps de présence) négociée ou unilatérale après CSE."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Accord d'intéressement & participation"
 emoji: "💰"

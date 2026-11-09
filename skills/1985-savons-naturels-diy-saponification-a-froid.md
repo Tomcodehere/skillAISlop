@@ -1,6 +1,7 @@
 ---
 num: 1985
 resume: "Des savons naturels sûrs (soude bien manipulée, cure respectée, pH vérifié). Étape 1 : Calculer la soude (calculatrice de saponification) pour la recette choisie, préparer EPI."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Savons naturels DIY (saponification à froid)"
 emoji: "🧼"

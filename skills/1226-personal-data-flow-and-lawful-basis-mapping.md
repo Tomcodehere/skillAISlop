@@ -1,6 +1,7 @@
 ---
 num: 1226
 resume: "Préparer l'analyse d'un traitement de données personnelles sans présumer de base légale. Étape 1 : Cadrer les inputs : finalités, catégories, acteurs, transferts et textes applicables confirmés ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Personal Data Flow and Lawful-Basis Mapping"
 emoji: "🤖"

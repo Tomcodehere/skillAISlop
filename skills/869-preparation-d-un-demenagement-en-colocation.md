@@ -1,6 +1,7 @@
 ---
 num: 869
 resume: "organiser un déménagement en colocation : check-list, états des lieux, colocataires prévenus, raccordements, changement d'adresse. Étape 1 : J-1 mois : préavis, devis déménageur, réservation ; J-2 sem : changement d'adresse, contrats énergie/internet, EDL sortie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un déménagement en colocation"
 emoji: "📦"

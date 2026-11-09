@@ -1,6 +1,7 @@
 ---
 num: 1923
 resume: "Choisir la bonne essence pour chaque ouvrage (durabilité, usinage, aspect, budget). Étape 1 : Lister les contraintes du projet (charges, extérieur/intérieur, contact alimentaire)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir ses essences de bois"
 emoji: "🌳"

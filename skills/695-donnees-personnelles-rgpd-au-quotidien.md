@@ -1,6 +1,7 @@
 ---
 num: 695
 resume: "appliquer le RGPD dans sa vie personnelle et professionnelle : minimiser les données collectées, sécuriser, répondre aux demandes d'accès/effacement. Étape 1 : Inventorier : quelles données personnelles sont traitées, pourquoi, où, combien de temps, qui y accède."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Données personnelles & RGPD au quotidien"
 emoji: "🔒"

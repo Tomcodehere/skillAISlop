@@ -1,6 +1,7 @@
 ---
 num: 1609
 resume: "Choisir en 2027 entre Tauri (desktop natif léger : webview système + backend Rust, ~600 kB) et PWA (installable navigateur, offline) selon le besoin d'accès système, avec comparatif Electron (lourd). Étape 1 : PWA d'abord (rapide) : manifest.webmanifest (icônes, nom, theme), service worker (cache offline, cache-first), install prompt, notifs push (FCM/APNs)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tauri vs PWA : app desktop légère depuis le web"
 emoji: "🖥️"

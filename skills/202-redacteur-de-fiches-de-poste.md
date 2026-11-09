@@ -1,6 +1,7 @@
 ---
 num: 202
 resume: "rédiger des fiches de poste et offres d'emploi précises qui attirent les bons candidats et écartent les autres. Étape 1 : Collecter le poste réel auprès du manager : missions, attentes à 6 mois, équipe, contraintes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de fiches de poste"
 emoji: "🧑‍💼"

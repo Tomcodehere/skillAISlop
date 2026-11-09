@@ -1,6 +1,7 @@
 ---
 num: 15
 resume: "décomposer un objectif en plan d'action réaliste et suivi. Étape 1 : Clarifier périmètre, contraintes (temps, budget, équipe) et exclusions."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de projet"
 emoji: "🗂️"

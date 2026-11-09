@@ -1,6 +1,7 @@
 ---
 num: 890
 resume: "gérer un conflit salarial : NAO obligatoire, négociation, médiation/conciliation du ministère, accord collectif, sortie de crise. Étape 1 : NAO : préparer données éco (masse salariale, résultats) + revendications + propositions chiffrées avant la négo."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Médiation d'un conflit salarial collectif"
 emoji: "🕊️"

@@ -1,6 +1,7 @@
 ---
 num: 1774
 resume: "Utiliser le driver GPU Asahi (Apple Silicon) en Rust comme référence pour tout driver graphique moderne en 2027 : architecture, performance, et coexistence avec le stack DRM C. Étape 1 : Etudier le driver Asahi : sous-systemes Rust (commandes GPU, mémoire, scheduler) vs interface DRM C."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Driver GPU Asahi (Apple Silicon) en Rust"
 emoji: "🍎"

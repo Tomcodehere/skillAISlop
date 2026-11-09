@@ -1,6 +1,7 @@
 ---
 num: 648
 resume: "résilier un contrat correctement : vérifier le droit de rétractation, respecter le préavis, envoyer la résiliation probante. Étape 1 : Vérifier le cadre : achat à distance (14 jours de rétractation), contrat à durée indéterminée (préavis), tacite reconduction (date butoir)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Résiliation & droit de rétractation"
 emoji: "↩️"

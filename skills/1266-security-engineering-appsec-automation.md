@@ -1,6 +1,7 @@
 ---
 num: 1266
 resume: "Industrialiser les controles securite dans le cycle de delivery. Étape 1 : Cartographier surfaces d'attaque."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Security Engineering (AppSec Automation)"
 emoji: "⚡"

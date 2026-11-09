@@ -1,6 +1,7 @@
 ---
 num: 24
 resume: "transformer des notes ou une transcription de réunion en compte rendu exploitable : décisions, actions, propriétaires. Étape 1 : Détecter le type de réunion (projet, comité, créa) pour orienter le résumé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Compte rendu de réunion"
 emoji: "🗒️"

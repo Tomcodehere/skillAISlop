@@ -1,6 +1,7 @@
 ---
 num: 1870
 resume: "Passer au showback puis chargeback : répartir les coûts cloud/k8s/IA par équipe et produit via les tags obligatoires (1820), FOCUS (1861), allocation k8s (1862), coûts LLM gateway (1800) — rapports mensuels au CFO. Étape 1 : Tags obligatoires en CI (1820) : cost-center, product, env, owner — non taggé = non déployé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Showback/chargeback : répartir les coûts par équipe et produit"
 emoji: "📊"

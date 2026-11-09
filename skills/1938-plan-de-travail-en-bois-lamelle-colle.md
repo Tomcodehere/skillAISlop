@@ -1,6 +1,7 @@
 ---
 num: 1938
 resume: "Un plan de travail en bois massif, résistant, alimentaire et beau. Étape 1 : Acheter le panneau lamellé-collé à la cote (+marge), le faire livrer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Plan de travail en bois (lamellé-collé)"
 emoji: "🍽️"

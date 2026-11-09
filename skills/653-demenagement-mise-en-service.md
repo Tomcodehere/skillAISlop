@@ -1,6 +1,7 @@
 ---
 num: 653
 resume: "organiser un déménagement : check-list, changement d'adresse, contrats d'énergie et ouverture des compteurs. Étape 1 : Planifier : date, déménageur ou camion, préavis, état des lieux de sortie et d'entrée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Déménagement & mise en service"
 emoji: "📦"

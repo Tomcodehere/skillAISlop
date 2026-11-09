@@ -1,6 +1,7 @@
 ---
 num: 810
 resume: "choisir l'agent IA personnel adapté à son usage en comparant les offres 2026 (Muse, Dots, Duet, Manus, Gemini Spark) selon critères concrets. Étape 1 : Lister ses 3 tâches récurrentes à déléguer (courses, voyage, admin, recherche, code)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir son agent personnel (Muse, Dots, Duet)"
 emoji: "🧭"

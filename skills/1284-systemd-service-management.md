@@ -1,6 +1,7 @@
 ---
 num: 1284
 resume: "Maîtriser systemd pour gestion services Linux (création units, timers, dependencies, troubleshooting). Étape 1 : Créer unit file /etc/systemd/system/myservice.service :"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Systemd Service Management"
 emoji: "💻"

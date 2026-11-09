@@ -1,6 +1,7 @@
 ---
 num: 1384
 resume: "Produire une evaluation preliminaire d'une cible d'acquisition 2027 : fourchette de valorisation par multiples, checklist de due diligence (finance, juridique, tech, RH), synergies et risques identifies. Étape 1 : Recolter les comptes 3 ans, la dette, le BFR et les effectifs de la cible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Evaluer une cible pour une acquisition (M&A)"
 emoji: "🤝"

@@ -1,6 +1,7 @@
 ---
 num: 1137
 resume: "Produire un livrable maîtrisé : plan de mixage et de loudness d'un jeu ou d'un média (hiérarchie des catégories sonores, niveaux cibles, traitement dynamique) avec mesures de contrôle. Étape 1 : Cadrer la cible : plateforme, contextes d'écoute, norme de loudness à vérifier, hiérarchie des catégories sonores."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Game Audio Mixing & Loudness"
 emoji: "🎨"

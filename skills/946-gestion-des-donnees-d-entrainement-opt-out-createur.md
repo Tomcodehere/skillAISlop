@@ -1,6 +1,7 @@
 ---
 num: 946
 resume: "en tant que créateur/éditeur, empêcher en 2027 l'entraînement des IA sur son contenu : llms.txt, balises meta (noai/noimageai), tokens de refus (Google-Extended), CGU. Étape 1 : llms.txt à la racine + balises meta noai/noimageai + CGU interdisant l'entraînement + token Google-Extended."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion des données d'entraînement & opt-out (créateur)"
 emoji: "🚫"

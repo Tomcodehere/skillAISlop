@@ -1,6 +1,7 @@
 ---
 num: 1995
 resume: "Un carnet créatif commencé, avec 4-6 pages mixed media réalisées. Étape 1 : Choisir le carnet (papier épais 160-300 g) et 2-3 médiums de base."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Art journal et carnet créatif"
 emoji: "📓"

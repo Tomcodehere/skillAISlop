@@ -1,6 +1,7 @@
 ---
 num: 894
 resume: "comprendre les dispositifs de défiscalisation immobilière 2026 : LMNP (amortissement), déficit foncier, et ce qui a changé en LF 2026. Étape 1 : LMNP : amortissement du bien + mobilier, déficit imputable sur revenus fonciers (limite 10 700 €/an)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Défiscalisation immobilière (LMNP, Pinel)"
 emoji: "🏠"

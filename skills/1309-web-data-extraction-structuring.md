@@ -1,6 +1,7 @@
 ---
 num: 1309
 resume: "Transformer des données brutes extraites du web (HTML parsé, réponses JSON d'API internes, résultats de scraping statique/dynamique) en jeux de données propres, normalisés et exportables (CSV/JSON/BDD). Étape 1 : Analyser un échantillon de données brutes pour identifier incohérences (encodage, valeurs manquantes, doublons)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Web Data Extraction & Structuring"
 emoji: "💻"

@@ -1,6 +1,7 @@
 ---
 num: 564
 resume: "écrire un discours de famille juste (mariage, anniversaire, départ) : ton sincère, structure émotionnelle et longueur maîtrisée. Étape 1 : Recueillir les anecdotes et choisir l'angle émotionnel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de discours de famille"
 emoji: "💌"

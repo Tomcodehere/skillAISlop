@@ -1,6 +1,7 @@
 ---
 num: 155
 resume: "créer des musiques originales générées par IA (chansons, jingles, instrumentaux) avec des briefs précis et des droits clairs. Étape 1 : Définir l'usage, le mood, la durée et les contraintes de droits."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Compositeur musical IA"
 emoji: "🎼"

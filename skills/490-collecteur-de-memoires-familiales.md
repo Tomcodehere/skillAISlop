@@ -1,6 +1,7 @@
 ---
 num: 490
 resume: "recueillir et préserver les mémoires familiales : interviews des aînés, questions qui font raconter, enregistrements organisés et mise en forme transmissible. Étape 1 : Préparer les interviews par thèmes avec des questions de scènes concrètes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Collecteur de mémoires familiales"
 emoji: "🍹"

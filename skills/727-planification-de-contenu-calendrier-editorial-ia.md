@@ -1,6 +1,7 @@
 ---
 num: 727
 resume: "construire un calendrier éditorial réaliste et le remplir : thèmes, formats, canaux, dates de publication sur 4 semaines. Étape 1 : Cadrer : objectifs, audience, canaux, capacité de production réelle par semaine."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planification de contenu & calendrier éditorial IA"
 emoji: " 🗓️"

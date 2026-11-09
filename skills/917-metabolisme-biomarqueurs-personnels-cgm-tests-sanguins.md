@@ -1,6 +1,7 @@
 ---
 num: 917
 resume: "utiliser les outils 2027 de suivi métabolique personnel (CGM, tests sanguins à domicile, wearables HRV) pour personnaliser alimentation et sommeil, sans tomber dans l'obsession. Étape 1 : Choisir un outil fiable (CGM ou carnet + FC/HRV du wearable) ; se concentrer sur les tendances, pas les scores propriétaires."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Métabolisme & biomarqueurs personnels (CGM, tests sanguins)"
 emoji: "🩸"

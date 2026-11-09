@@ -1,6 +1,7 @@
 ---
 num: 1051
 resume: "Produire un livrable maîtrisé : modèle 3D (.blend) avec topologie propre, échelle correcte et notes de construction. Étape 1 : Cadrer les inputs : références visuelles, budget de polygones, échelle et usage (rendu, jeu temps réel) ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Blender Hard Surface & Organic Modeling"
 emoji: "💻"

@@ -1,6 +1,7 @@
 ---
 num: 1530
 resume: "Concevoir la progression en 2027 : courbe d'XP exponentielle douce (xp(n) = 100 * 1,15^n), paliers de déblocage (niv 5 = donjon 2, niv 10 = monture, niv 20 = PvP), respec payant, et HUD de progression (barre XP + niveau). Étape 1 : Courbe : xp_pour_niveau(n) = round(100 * 1,15^n) → temps/niveau = xp / farm_moyen (viser 20-40 min/niveau early, 1-2 h late)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Progression joueur : XP, courbes de niveau et paliers"
 emoji: "📈"

@@ -1,6 +1,7 @@
 ---
 num: 641
 resume: "lire et comprendre son bulletin de paie : du salaire brut au net, les cotisations et le prélèvement à la source. Étape 1 : Lire le haut du bulletin : période, salaire brut, base de cotisations, taux de prélèvement à la source."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bulletin de paie"
 emoji: "💶"

@@ -1,6 +1,7 @@
 ---
 num: 1862
 resume: "Allouer les coûts Kubernetes (nœuds, PVC, egress réseau) par namespace/workload avec OpenCost/Kubecost/CAST.ai, sur la base des consommations réelles (pas des requests déclarés), pour du rightsizing (1803). Étape 1 : Déployer OpenCost (helm, namespace opencost) — scrape les métriques cloud + k8s."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "FinOps Kubernetes : allocation des coûts par namespace et workload"
 emoji: "⚙️"

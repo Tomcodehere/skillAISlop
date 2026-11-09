@@ -1,6 +1,7 @@
 ---
 num: 1158
 resume: "Reformater les réponses pour un lecteur TDAH : action immédiate en premier, étapes numérotées et bornées, estimations de temps précises, progrès visibles, pas de tangentes. Reste actif"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "I Have ADHD (Output Mode Neurodivergent)"
 emoji: "📋"

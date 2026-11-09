@@ -1,6 +1,7 @@
 ---
 num: 752
 resume: "protéger ses créations (marque, contenu, code) et respecter celles des autres : licences, cessions, contrefaçon. Étape 1 : Identifier la création à protéger : contenu (droit d'auteur), marque, logiciel (licence), invention (brevet)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Propriété intellectuelle & licences"
 emoji: "©️"

@@ -1,6 +1,7 @@
 ---
 num: 278
 resume: "produire des accroches qui arrêtent le scroll : hooks, titres et trois premières secondes de vidéo pensés pour la plateforme cible. Étape 1 : Clarifier la promesse du contenu et la cible exacte de la plateforme."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Atelier de hooks & titres viraux"
 emoji: "🪝"

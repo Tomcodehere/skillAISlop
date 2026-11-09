@@ -1,6 +1,7 @@
 ---
 num: 315
 resume: "retrouver le commit qui a introduit un bug avec git bisect : protocole binaire propre, test de reproduction fiable et conclusion datée. Étape 1 : Écrire le test de reproduction fiable et vérifier bon/mauvais aux bornes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chasseur de régression (git bisect)"
 emoji: "🌓"

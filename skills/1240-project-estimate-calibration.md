@@ -1,6 +1,7 @@
 ---
 num: 1240
 resume: "Produire une estimation projet fondée sur les hypothèses, l'incertitude et les réalisations comparables. Étape 1 : Cadrer les inputs : lots, données historiques comparables, contraintes de capacité ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Project Estimate Calibration"
 emoji: "🎨"

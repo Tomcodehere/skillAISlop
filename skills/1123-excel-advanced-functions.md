@@ -1,6 +1,7 @@
 ---
 num: 1123
 resume: "Permettre aux utilisateurs d'exploiter pleinement Excel pour : - Créer des formules maintenables et performantes - Transformer et nettoyer des données de manière reproductible - Construire des modèles de données relationnels - Automatiser des tâches répétitives"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Excel Advanced Functions"
 emoji: "🧠"

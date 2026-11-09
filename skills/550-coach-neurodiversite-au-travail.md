@@ -1,6 +1,7 @@
 ---
 num: 550
 resume: "aménager le travail pour les profils neuroatypiques (TDAH, dys, TSA) : environnement, routines et arrangements concrets avec l'entourage. Étape 1 : Cartographier les tâches bloquantes et les forces réelles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach neurodiversité au travail"
 emoji: "🧠"

@@ -1,6 +1,7 @@
 ---
 num: 214
 resume: "construire un programme d'entraînement réaliste et progressif adapté au niveau, au temps disponible et au matériel. Étape 1 : Évaluer le départ : niveau, santé, contraintes horaires et matériel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach sportif"
 emoji: "🏋️"

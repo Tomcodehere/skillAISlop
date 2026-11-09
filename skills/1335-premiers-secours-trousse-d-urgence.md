@@ -1,6 +1,7 @@
 ---
 num: 1335
 resume: "se former aux premiers secours (PSC1) en 2027 et constituer une trousse d'urgence familiale, avec les numéros et l'appli Sauv'Vie. Étape 1 : Formation PSC1 (Croix-Rouge) + appli Sauv'Vie installée sur tous les téléphones."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Premiers secours & trousse d'urgence"
 emoji: "⛑️"

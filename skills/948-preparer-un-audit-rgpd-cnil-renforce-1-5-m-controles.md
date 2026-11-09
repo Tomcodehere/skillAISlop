@@ -1,6 +1,7 @@
 ---
 num: 948
 resume: "se préparer à l'intensification des contrôles CNIL en 2027 (~1,5 M prévus) : registre des traitements à jour, DPIA pour les traitements à risque, DPA avec les sous-traitants, preuves de conformité. Étape 1 : Clarifier « Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles 2027) »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer un audit RGPD/CNIL renforcé (1,5 M contrôles)"
 emoji: "📋"

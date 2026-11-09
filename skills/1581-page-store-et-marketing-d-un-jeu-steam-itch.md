@@ -1,6 +1,7 @@
 ---
 num: 1581
 resume: "Concevoir la page store en 2027 (Steam 1579/itch 1584) : accroche 1 phrase, vidéo/GIF gameplay 10-15 s en 1er, 8-10 captures ordonnées (gameplay loop → combat → récompense), description courte+longue, tags, prix psychologique, wishlist (objectif 20k avant launch). Étape 1 : Accroche : 1 phrase avec verbe d'action ('Infiltre-toi, sabote, fuis' — genre + verbe)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Page store et marketing d'un jeu (Steam, itch)"
 emoji: "🎪"

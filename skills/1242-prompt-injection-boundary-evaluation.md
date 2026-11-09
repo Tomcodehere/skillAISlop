@@ -1,6 +1,7 @@
 ---
 num: 1242
 resume: "Évaluer défensivement les frontières de confiance d'un agent IA autorisé. Étape 1 : Cadrer les inputs : agent cible autorisé, outils, données de test synthétiques et règles attendues ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prompt Injection Boundary Evaluation"
 emoji: "🧠"

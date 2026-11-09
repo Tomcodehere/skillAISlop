@@ -1,6 +1,7 @@
 ---
 num: 1775
 resume: "Suivre le projet Nova (driver GPU NVIDIA en Rust pour les GPU récents type Blackwell) comme pari ambitieux 2027, en distinguant : GPU récents = Nova Rust possible, GPU anciens = driver nouveau C. Étape 1 : Lister le perimetre de Nova : quels GPU (Blackwell+), quelles fonctions (modesetting, compute), ce qui manque (ex. certaines reloges)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Projet Nova : driver GPU NVIDIA en Rust"
 emoji: "🎮"

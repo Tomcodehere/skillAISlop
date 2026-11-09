@@ -1,6 +1,7 @@
 ---
 num: 127
 resume: "rédiger un mémo structuré (format 6-pager ou note courte) qui permet à un décideur de trancher sans réunion. Étape 1 : Cadrer la décision : question précise, décideur, options réelles, contraintes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de mémos décision"
 emoji: "🖇️"

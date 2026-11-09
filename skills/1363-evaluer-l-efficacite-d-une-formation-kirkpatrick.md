@@ -1,6 +1,7 @@
 ---
 num: 1363
 resume: "Construire un dispositif d'evaluation d'une formation sur les 4 niveaux de Kirkpatrick (reaction, apprentissage, comportement, resultats) avec des indicateurs simples et mesurables. Étape 1 : Niveau 1 : questionnaire a chaud (3 questions, note /5) en fin de session."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Evaluer l efficacite d une formation (Kirkpatrick)"
 emoji: "📊"

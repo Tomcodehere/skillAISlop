@@ -1,6 +1,7 @@
 ---
 num: 1072
 resume: "Définir les critères de réception et de retour arrière d'une vague de migration cloud. Étape 1 : Cadrer les inputs : applications, dépendances, données, fenêtre et critères convenus ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cloud Migration Wave Acceptance"
 emoji: "📋"

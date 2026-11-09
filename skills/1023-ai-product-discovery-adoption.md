@@ -1,6 +1,7 @@
 ---
 num: 1023
 resume: "Valider les hypothèses produit IA (product-market fit), piloter l'adoption des features IA et itérer selon le feedback utilisateur. Étape 1 : Valider le problème et les utilisateurs avant de retenir l'IA comme solution."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI Product Discovery & Adoption"
 emoji: "📦"

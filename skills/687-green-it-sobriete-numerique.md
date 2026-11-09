@@ -1,6 +1,7 @@
 ---
 num: 687
 resume: "réduire l'empreinte environnementale du numérique : éco-conception, poids des pages, hébergement vert, durée de vie du matériel. Étape 1 : Clarifier « Green IT & sobriété numérique »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Green IT & sobriété numérique"
 emoji: "🌿"

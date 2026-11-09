@@ -1,6 +1,7 @@
 ---
 num: 574
 resume: "maîtriser la retouche photo : développement RAW mesuré, workflow Lightroom et styles cohérents sans excès. Étape 1 : Importer, trier et développer dans l'ordre non destructif."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Retoucheur photo"
 emoji: "🖼️"

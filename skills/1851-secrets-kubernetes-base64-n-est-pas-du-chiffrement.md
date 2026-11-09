@@ -1,6 +1,7 @@
 ---
 num: 1851
 resume: "Sécuriser les Secrets k8s natifs : activer le chiffrement etcd at rest (KMS via EncryptionConfiguration), restreindre le RBAC (pas de lecture secrets pour tous), activer l'audit des accès. Étape 1 : Activer le chiffrement etcd : EncryptionConfiguration avec provider kms (ARN) ou aescbc, puis réencrypt tous les secrets existants (kubectl get secrets --all-namespaces -o json | kubectl replace -f -)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Secrets Kubernetes : base64 n'est pas du chiffrement"
 emoji: "🔑"

@@ -1,6 +1,7 @@
 ---
 num: 1982
 resume: "Modeler et cuire proprement des objets en pâte polymère (cuisson sûre, finition lisse). Étape 1 : Préparer le plan de travail (carrelage), chauffer la pâte pour la ramollir."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pâte polymère (Fimo) : modelage et cuisson"
 emoji: "🎨"

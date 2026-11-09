@@ -1,6 +1,7 @@
 ---
 num: 694
 resume: "maîtriser et réduire le coût des appels LLM : comptage des tokens, cache, modèles adaptés, batching et alertes budgétaires. Étape 1 : Mesurer : tokens entrée/sortie par appel et par fonctionnalité, coût par cas d'usage, dashboards et alertes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coût & optimisation des tokens LLM"
 emoji: "🪙"

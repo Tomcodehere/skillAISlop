@@ -1,6 +1,7 @@
 ---
 num: 1964
 resume: "Des bords qui ne s'effilochent pas et des ourlets nets (droit, invisible, roulotté). Étape 1 : Surfiler les bords libres (zigzag serré ou overlock), pré-laver le tissu avant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Surfilage et ourlets à la machine"
 emoji: "🧵"

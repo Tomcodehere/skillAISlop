@@ -1,6 +1,7 @@
 ---
 num: 132
 resume: "expliquer un sujet complexe à un enfant de 6 à 12 ans, avec justesse et sans condescendance. Étape 1 : Cerner le sujet, l'âge de l'enfant et le contexte (devoirs, curiosité, exposé)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vulgarisateur pour enfants"
 emoji: "🧒"

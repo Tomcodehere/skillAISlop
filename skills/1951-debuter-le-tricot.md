@@ -1,6 +1,7 @@
 ---
 num: 1951
 resume: "Être autonome en tricot de base (montage, endroit/envers, rabattre) en quelques semaines. Étape 1 : Acheter laine épaisse mérinos + aiguilles 5-6 mm (droites 30 cm d'abord)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Débuter le tricot"
 emoji: "🧶"

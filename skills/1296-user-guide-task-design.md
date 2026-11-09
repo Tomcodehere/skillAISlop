@@ -1,6 +1,7 @@
 ---
 num: 1296
 resume: "Structurer un guide utilisateur autour de tâches réellement accomplissables. Étape 1 : Cadrer les inputs : public, objectif utilisateur, prérequis et produit/version ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "User Guide Task Design"
 emoji: "🎨"

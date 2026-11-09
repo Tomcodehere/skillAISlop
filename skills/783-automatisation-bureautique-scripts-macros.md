@@ -1,6 +1,7 @@
 ---
 num: 783
 resume: "automatiser une tâche bureautique récurrente (rapport, publipostage, consolidación) avec un script simple et fiable. Étape 1 : Identifier la tâche récurrente et ses sources/entrées-sorties exactes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Automatisation bureautique (scripts & macros)"
 emoji: "🤖"

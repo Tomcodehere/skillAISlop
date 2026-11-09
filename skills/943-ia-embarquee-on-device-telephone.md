@@ -1,6 +1,7 @@
 ---
 num: 943
 resume: "utiliser l'IA embarquée (on-device) en 2027 : modèles tournant localement sur téléphone/PC, confidentialité maximale, sans envoyer ses données au cloud. Étape 1 : Lister les tâches du quotidien faisables en local : résumé, traduction, dictée, retouche photo, assistant (Siri)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "IA embarquée & on-device (téléphone)"
 emoji: "📲"

@@ -1,6 +1,7 @@
 ---
 num: 150
 resume: "constituer une bible de style pour la génération d'images en série : même identité visuelle sur des dizaines d'images. Étape 1 : Extraire les caractéristiques d'images de référence aimées (palette, lumière, grain, composition)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bibliothécaire de styles visuels"
 emoji: "🪄"

@@ -1,6 +1,7 @@
 ---
 num: 1241
 resume: "Ameliorer robustesse, qualite, cout et latence des prompts agents. Étape 1 : Etablir baseline."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prompt Engineer & Guardrails"
 emoji: "🧠"

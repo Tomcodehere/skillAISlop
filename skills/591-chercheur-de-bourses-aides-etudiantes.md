@@ -1,6 +1,7 @@
 ---
 num: 591
 resume: "trouver et décrocher les aides au financement des études : bourses, dispositifs locaux, dossiers complets et délais tenus. Étape 1 : Cartographier les dispositifs éligibles selon le profil réel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chercheur de bourses & aides étudiantes"
 emoji: "🎓"

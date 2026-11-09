@@ -1,6 +1,7 @@
 ---
 num: 1353
 resume: "Mettre en place un systeme de repetition espacee (SRS) pour retenir durablement le vocabulaire d'une langue etrangere, avec 10 a 15 minutes de revue par jour et des intervalles croissants. Étape 1 : Choisir un theme ou un texte source et extraire 10-20 mots utiles avec traduction et exemple."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Repetition espacee du vocabulaire (SRS)"
 emoji: "🃏"

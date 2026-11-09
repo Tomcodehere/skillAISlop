@@ -1,6 +1,7 @@
 ---
 num: 1659
 resume: "Lancer un programme de bug bounty/VDP en 2027 : périmètre et hors-périmètre clairs, récompense par CVSS, SLA (réponse 5 j, correction 90 j critique), canal sécurisé (HackerOne/Bugcrowd ou formulaire interne), publication après correctif, remerciements (hall of fame). Étape 1 : Rédiger la policy : périmètre, hors-périmètre (DoS, spam, 907), règles (pas de test sur les users), safe harbor (pas de po"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bug bounty et divulgation responsable (VDP)"
 emoji: "🐛"

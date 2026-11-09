@@ -1,6 +1,7 @@
 ---
 num: 1484
 resume: "Concevoir accessible dès le départ en 2027 (WCAG 2.2 AA) : contraste 4,5:1, cibles 44 px, focus clavier visible, ordre de tabulation logique, textes alternatifs, formulaires avec labels et erreurs explicites. Étape 1 : Checklist design : contraste 4,5:1 texte / 3:1 gros texte, cibles 44x44 px, focus visible, pas de couleur seule."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concevoir accessible des le depart (a11y by design)"
 emoji: "♿"

@@ -1,6 +1,7 @@
 ---
 num: 940
 resume: "scraper des données publiques en 2027 dans le cadre légal : robots.txt/CGU, RGPD pour les données perso, et respecter les opt-out des robots IA (llms.txt, balises meta). Étape 1 : Lire robots.txt + CGU du site avant ; user-agent honnête et identifiable ; respecter les limites de débit."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Données publiques & scraping éthique/légal"
 emoji: "⚖️"

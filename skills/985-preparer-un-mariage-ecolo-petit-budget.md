@@ -1,6 +1,7 @@
 ---
 num: 985
 resume: "organiser un mariage écolo et petit budget en 2027 : salle champêtre/mairie, traiteur local de saison, faire-part numérique, liste responsable, témoins. Étape 1 : Budget total + répartition ; mairie + salle champêtre/ferme (moins chère), traiteur local de saison."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer un mariage écolo & petit budget"
 emoji: "💍"

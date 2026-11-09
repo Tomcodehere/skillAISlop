@@ -1,6 +1,7 @@
 ---
 num: 123
 resume: "écrire une page de vente complète qui convertit : promesse, preuve, objections levées, appel à l'action. Étape 1 : Cadrer l'offre : produit, prix, cible, promesse mesurable, objections connues."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de pages de vente"
 emoji: "🛍️"

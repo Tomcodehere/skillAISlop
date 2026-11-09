@@ -1,6 +1,7 @@
 ---
 num: 677
 resume: "comprendre la vie en copropriété : charges, AG, syndic, travaux et recours du copropriétaire. Étape 1 : Comprendre sa quote-part : règlement de copropriété, tantièmes, charges privatives vs communes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Copropriété & syndic"
 emoji: "🏢"

@@ -1,6 +1,7 @@
 ---
 num: 1546
 resume: "Choisir le modèle de synchro en 2027 : lockstep (RTS déterministe : tous les clients envoient leurs inputs au tick N, la sim avance quand tous reçus) vs snapshots (action : serveur 20 Hz, client interpole entre snapshots pour rendre fluide). Étape 1 : RTS → lockstep : chaque joueur envoie input(tick); le serveur (ou tous en P2P) attend tous les inputs du tick N pour simuler N (déterminisme = repla"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lockstep vs snapshot interpolation"
 emoji: "🔁"

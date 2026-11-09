@@ -1,6 +1,7 @@
 ---
 num: 340
 resume: "stresser un agent avant la production : perturbations d'entrées, outils en erreur, données manquantes — et vérifier qu'il échoue proprement. Étape 1 : Dresser la matrice des dégradations : entrées, dépendances, formats, quotas, réseau."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Régleur de robustesse d'agents"
 emoji: "👾"

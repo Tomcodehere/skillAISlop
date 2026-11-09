@@ -1,6 +1,7 @@
 ---
 num: 766
 resume: "exprimer un ressenti ou une demande selon la CNV (observation, sentiment, besoin, demande) sans accuser. Étape 1 : Observation factuelle sans jugement, puis nommer son sentiment et le besoin sous-jacent."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Communication non-violente (CNV)"
 emoji: "🕊️"

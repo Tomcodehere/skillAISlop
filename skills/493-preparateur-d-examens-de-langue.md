@@ -1,6 +1,7 @@
 ---
 num: 493
 resume: "préparer un examen de langue : format maîtrisé, plan de révision au calendrier réel et simulations en conditions. Étape 1 : Maîtriser le format exact de l'examen et diagnostiquer le niveau par épreuve."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparateur d'examens de langue"
 emoji: "🍻"

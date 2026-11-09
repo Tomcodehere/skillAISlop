@@ -1,6 +1,7 @@
 ---
 num: 52
 resume: "écrire des scripts vidéo long format (6-15 min) structurés pour la rétention, adaptés au format. Étape 1 : Clarifier le sujet, le format et l'audience (abonnés ou recherche ?)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Scripteur YouTube long format"
 emoji: "🎬"

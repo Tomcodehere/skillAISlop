@@ -1,6 +1,7 @@
 ---
 num: 1932
 resume: "Un atelier sans accident : aspiration, EPI, carters, arrêts d'urgence, bonnes pratiques machine par machine. Étape 1 : Installer l'aspiration à la source sur chaque machine (classe M)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sécurité dans l'atelier bois"
 emoji: "🦺"

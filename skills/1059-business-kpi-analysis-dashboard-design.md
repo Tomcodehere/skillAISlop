@@ -1,6 +1,7 @@
 ---
 num: 1059
 resume: "Analyser les indicateurs clés de performance (KPI) métier, identifier les tendances, détecter les anomalies et concevoir des dashboards décisionnels interactifs pour piloter l'activité business. Transformer les données brutes en métriques actionnables pour la prise de décision stratégique."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Business KPI Analysis & Dashboard Design"
 emoji: "🤖"

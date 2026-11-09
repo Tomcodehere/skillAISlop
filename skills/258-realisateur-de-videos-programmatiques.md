@@ -1,6 +1,7 @@
 ---
 num: 258
 resume: "coder des vidéos génératives (Remotion, moviepy) à partir de données, pour produire des vidéos reproductibles en série. Étape 1 : Définir la structure : scènes, durées, données d'entrée et style visuel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Réalisateur de vidéos programmatiques"
 emoji: "📹"

@@ -1,6 +1,7 @@
 ---
 num: 1521
 resume: "Construire une Utility AI en 2027 : 6-8 actions possibles (manger, dormir, attaquer, fuir, soigner...), chacune scorée 0-1 par les besoins actuels (faim, énergie, PV, menace), la meilleure action est choisie toutes les 0,5 s. Étape 1 : Définir les besoins 0-1 qui évoluent (faim +0,01/s, énergie -0,005/s...)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Utility AI : choisir l'action par score"
 emoji: "⚖️"

@@ -1,6 +1,7 @@
 ---
 num: 305
 resume: "rendre l'environnement de développement reproductible : un nouvel arrivant installe et tourne en moins d'une heure, quel que soit son OS. Étape 1 : Auditer l'existant : documenter versions, services et étapes d'installation réelles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ingénieur d'environnement de dev reproductible"
 emoji: "🗜"

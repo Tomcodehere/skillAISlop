@@ -1,6 +1,7 @@
 ---
 num: 1151
 resume: "Concevoir des stratégies de groupe (GPO) avancées — héritage, filtrage de sécurité, filtrage WMI, préférences — et diagnostiquer les problèmes d'application de GPO (héritage bloqué, conflits, lenteurs de démarrage/connexion). Étape 1 : Cartographier l'arborescence OU et les GPO liées à chaque niveau (domaine, site, OU, sous-OU)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "GPO Advanced Design & Troubleshooting"
 emoji: "🧠"

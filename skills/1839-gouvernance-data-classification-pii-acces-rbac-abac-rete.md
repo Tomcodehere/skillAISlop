@@ -1,6 +1,7 @@
 ---
 num: 1839
 resume: "Gouverner les données : classification (4 niveaux), tags PII, accès RBAC/ABAC + row-level security (1788), rétention et legal hold, registre RGPD des traitements — le tout catalogué (1095). Étape 1 : Classification : scanner les colonnes (PII : email/tel/IBAN — cf 1440), taguer dans le catalog (1095) : public/interne/confidentiel/restreint."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gouvernance data : classification, PII, accès RBAC/ABAC, rétention"
 emoji: "🛡"

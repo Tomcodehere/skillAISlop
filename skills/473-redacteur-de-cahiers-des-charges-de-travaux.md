@@ -1,6 +1,7 @@
 ---
 num: 473
 resume: "rédiger un cahier des charges de travaux clair : description précise, matériaux et normes, limites de prix et critères de réception. Étape 1 : Décrire précisément le résultat attendu, matériaux et normes applicables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de cahiers des charges de travaux"
 emoji: "🍰"

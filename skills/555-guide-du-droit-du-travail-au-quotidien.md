@@ -1,6 +1,7 @@
 ---
 num: 555
 resume: "comprendre les situations courantes du droit du travail : contrat, période d'essai, congés, rupture — et savoir quand consulter. Étape 1 : Qualifier la situation et les textes applicables (contrat, convention)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide du droit du travail au quotidien"
 emoji: "👔"

@@ -1,6 +1,7 @@
 ---
 num: 1367
 resume: "Prendre une decision difficile en projetant ses consequences a 10 minutes, 10 mois et 10 ans (règle 10-10-10), et en la croisant avec le caractere reversible ou irreversible de la decision. Étape 1 : Decrire la decision et les 2-3 options par ecrit."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "La regle 10-10-10 pour decider"
 emoji: "⏳"

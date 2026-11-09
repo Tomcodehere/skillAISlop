@@ -1,6 +1,7 @@
 ---
 num: 1018
 resume: "Formaliser un arbitrage éthique sur un usage IA et les responsabilités humaines associées. Étape 1 : Cadrer les inputs : usage, parties affectées, impacts possibles et options ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI Ethical Impact Decision Record"
 emoji: "🧠"

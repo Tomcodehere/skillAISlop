@@ -1,6 +1,7 @@
 ---
 num: 1808
 resume: "Mettre en place des MutatingAdmissionPolicy (CEL, GA 1.36) natives dans l'apiserver pour modifier/valider les objets à l'admission (labels obligatoires, sidecar injecté, images non signées bloquées) sans webhook externe. Étape 1 : Rédiger la policy CEL : matchConstraints (apiGroups/kinds), expressions (ex. object.metadata.labels.team = 'x' ou ajout de label)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "MutatingAdmissionPolicy : admission déclarative en CEL"
 emoji: "✅"

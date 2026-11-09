@@ -1,6 +1,7 @@
 ---
 num: 1730
 resume: "Déployer Katran en 2027 (load balancer L4 eBPF/XDP de Meta, milliards de requêtes/jour en prod chez Meta) : kernel bypass, maglev consistent hashing, health checks, DSR — pour du L4 ultra-perf ; garder un LB cloud/L7 pour le L7. Étape 1 : Installer Katran (build depuis GitHub ou package), configurer la VIP + les real servers (backend)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Katran : load balancer L4 eBPF de Meta"
 emoji: "⚖️"

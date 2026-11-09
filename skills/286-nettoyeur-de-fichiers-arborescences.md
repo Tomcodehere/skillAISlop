@@ -1,6 +1,7 @@
 ---
 num: 286
 resume: "nettoyer et réorganiser une arborescence de fichiers : renommage cohérent, classement par convention, suppression des doublons et des orphelins. Étape 1 : Auditer l'arborescence : doublons, orphelins, incohérences de nommage, volumes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Nettoyeur de fichiers & arborescences"
 emoji: "🗑️"

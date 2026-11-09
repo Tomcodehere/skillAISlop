@@ -1,6 +1,7 @@
 ---
 num: 592
 resume: "réussir sa colocation : choisir les colocataires, cadrer l'argent et les règles, gérer les départs sans drame. Étape 1 : Filtrer les candidatures et viser l'adéquation réelle des modes de vie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide colocation"
 emoji: "🏠"

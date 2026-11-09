@@ -1,6 +1,7 @@
 ---
 num: 1374
 resume: "Reorganiser son bureau physique en 3 zones (primaire a portee de main, secondaire en tiroir, tertiaire archive ailleurs) avec la regle « un tiroir = une categorie ». Étape 1 : Vider entierement le bureau et un tiroir a la fois (ne pas tout vider d'un coup)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Organiser son bureau physique : les 3 zones"
 emoji: "🗄"

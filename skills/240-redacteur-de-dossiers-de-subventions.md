@@ -1,6 +1,7 @@
 ---
 num: 240
 resume: "monter un dossier de subvention solide : éligibilité, narrative, budget, pièces, respect du cadre d'évaluation. Étape 1 : Vérifier l'éligibilité, les critères et les pièces exigées du dispositif."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de dossiers de subventions"
 emoji: "🏅"

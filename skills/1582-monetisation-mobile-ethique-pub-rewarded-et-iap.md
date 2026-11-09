@@ -1,6 +1,7 @@
 ---
 num: 1582
 resume: "Monétiser un F2P mobile en 2027 éthiquement : rewarded ads choisies par le joueur (bouton 'Regarder une vidéo pour +100 gold', max 3/jour, jamais forcées), IAP cosmétiques seuls (jamais pay-to-win), prix transparents, pas de pop-ups agressives (dark patterns interdits). Étape 1 : Rewarded : bouton '🎁 +100 gold (vidéo)' placé dans le shop, max 3/jour, récompense après la vidéo complète, jamais de v"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Monetisation mobile éthique : pub rewarded et IAP"
 emoji: "📱"

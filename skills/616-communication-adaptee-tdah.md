@@ -1,6 +1,7 @@
 ---
 num: 616
 resume: "adapter les réponses de l'assistant pour des lecteurs TDAH : action d'abord, étapes numérotées courtes, aucun préambule. Étape 1 : Ouvrir par l'état : ce qui est déjà fait et l'action immédiate, sans introduction."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Communication adaptée TDAH"
 emoji: "🧠"

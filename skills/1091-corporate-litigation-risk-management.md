@@ -1,6 +1,7 @@
 ---
 num: 1091
 resume: "Assurer la conformité en droit des sociétés (Belgique/UE), le droit du travail et la fiscalité non-tech, et piloter la stratégie de gestion des litiges et contentieux de manière raisonnée (coûts/bénéfices). Étape 1 : Cadrer la situation (juridique, financière, délai) et les parties impliquées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Corporate & Litigation Risk Management"
 emoji: "🎨"

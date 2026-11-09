@@ -1,6 +1,7 @@
 ---
 num: 1406
 resume: "Mettre en place une doc technique vivante en 2027 : dans le dépôt, générée depuis le code quand possible, avec check CI des liens morts et exemples testés. Étape 1 : Inventorier la doc et décider ce qui vit dans le repo."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Documentation vivante (docs-as-code)"
 emoji: "📖"

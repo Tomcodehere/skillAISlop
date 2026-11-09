@@ -1,6 +1,7 @@
 ---
 num: 346
 resume: "détecter et qualifier les anomalies dans les données métier : ce qui sort du normal, pourquoi c'est suspect et quoi vérifier. Étape 1 : Établir le comportement attendu par segment et période de référence."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Détecteur d'anomalies métier"
 emoji: "🌬"

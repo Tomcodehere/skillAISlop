@@ -1,6 +1,7 @@
 ---
 num: 1878
 resume: "Maîtriser Karpenter : NodePool multiples (général/GPU/spot/ARM) avec weight, consolidation WhenUnderutilized, drift detection (remplacement auto des nœuds non conformes), disruption budgets. Étape 1 : NodePool gpu : taints/labels gpu, instances p4/p5, DRA 1802 ; NodePool spot : instances spot, weight plus haut pour le batch."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Karpenter avancé : NodePool, consolidation, drift"
 emoji: "🔧"

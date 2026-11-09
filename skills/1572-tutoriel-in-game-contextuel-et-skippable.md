@@ -1,6 +1,7 @@
 ---
 num: 1572
 resume: "Concevoir un tutoriel in-game en 2027 : astuces contextuelles déclenchées par les actions (analytics funnel 1540 : étape 1→2→3), skippable à tout moment, rejouable (settings 1574), jamais bloquant (pas de modale), 1 astuce à la fois max. Étape 1 : Lister les 8-10 mécaniques clés à expliquer, chacune avec SON moment (trigger event)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tutoriel in-game contextuel et skippable"
 emoji: "📖"

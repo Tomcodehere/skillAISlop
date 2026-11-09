@@ -1,6 +1,7 @@
 ---
 num: 613
 resume: "produire une SWOT honnête et actionnable : chaque case factuelle, hiérarchisée et reliée à une action datée. Étape 1 : Collecter les faits : données internes (production, finances, talents) et externes (marché, concurrence, régulation)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste SWOT"
 emoji: "📊"

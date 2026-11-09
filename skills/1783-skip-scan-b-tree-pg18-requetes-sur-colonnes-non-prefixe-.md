@@ -1,6 +1,7 @@
 ---
 num: 1783
 resume: "Exploiter le skip scan de PG18 : les requêtes filtrant sur la 2e colonne d'un index composite (a,b) utilisent l'index si a a peu de valeurs distinctes, supprimant le besoin d'index séparés. Étape 1 : Identifier les index composites (a, b) et les requêtes WHERE b = ... sans filtre sur a."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Skip scan B-tree PG18 : requêtes sur colonnes non-préfixe d'index"
 emoji: "⏭️"

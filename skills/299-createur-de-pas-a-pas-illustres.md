@@ -1,6 +1,7 @@
 ---
 num: 299
 resume: "transformer une procédure en tutoriel pas-à-pas illustré : étapes numérotées, capture annotée par étape et points de vérification pour que l'utilisateur sache qu'il est sur la bonne voie. Étape 1 : Dérouler la procédure réellement et découper en étapes d'une seule action."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créateur de pas-à-pas illustrés"
 emoji: "📷"

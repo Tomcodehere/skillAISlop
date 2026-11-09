@@ -1,6 +1,7 @@
 ---
 num: 1294
 resume: "Concevoir et intégrer des transitions/micro-interactions UI web (CSS et Vue) performantes et prêtes à l'emploi, en s'appuyant sur la collection de référence [Transitions.dev](https://transitions.dev/) ('UI transitions for AI agents' — collection de transitions essentielles copier/coller pour applications web). Étape 1 : Identifier le déclencheur et l'effet recherché (fade, slide, scale, curtain, s"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "UI Transitions Library (Transitions.dev)"
 emoji: "💻"

@@ -1,6 +1,7 @@
 ---
 num: 281
 resume: "réécrire un contrat ou un document juridique en langage clair : chaque clause résumée en ce qu'elle oblige, interdit ou risque, sans dénaturer le texte. Étape 1 : Découper le contrat en clauses et repérer celles à fort impact (durée, résiliation, pénalités, propriété)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vulgarisateur de contrats en langage clair"
 emoji: "🪶"

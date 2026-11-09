@@ -1,6 +1,7 @@
 ---
 num: 898
 resume: "préparer une levée de fonds en amorçage : valorisation réaliste, deck, data room, processus avec fonds/BA, négociation du term sheet. Étape 1 : Valorisation pre-money sur traction réelle (MRR, croissance) + montant = 18-24 mois de runway ; deck + data room prêts."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'une levée de fonds (amorçage)"
 emoji: "🚀"

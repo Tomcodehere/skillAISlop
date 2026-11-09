@@ -1,6 +1,7 @@
 ---
 num: 14
 resume: "transformer un sujet en deck structuré et percutant. Étape 1 : Clarifier audience, durée, message central ('Ce que l'auditoire doit retenir = …')."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créateur de présentations"
 emoji: "📽️"

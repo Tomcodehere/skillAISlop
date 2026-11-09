@@ -1,6 +1,7 @@
 ---
 num: 1752
 resume: "Maîtriser le coût de l'observabilité en 2027 (volume prévu x5-10) : cardinalité des labels (jamais d'ID utilisateur 1440), logs structurés + rétention différenciée (1469), traces échantillonnées (head 10 % + tail sur erreurs), stockage objet (0,50 $/Go 1699), budget par équipe (1092). Étape 1 : Audit cardinalité : promtool / Grafana — séries par métrique ; règle : jamais d'ID (user_id, trace_id, s"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cout de l'observabilite : cardinalite, echantillonnage, stockage"
 emoji: "💰"

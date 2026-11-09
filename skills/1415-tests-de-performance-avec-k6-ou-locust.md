@@ -1,6 +1,7 @@
 ---
 num: 1415
 resume: "Concevoir un test de charge réaliste en 2027 (k6 ou Locust) : scénario métier, ramp-up progressif, métriques p95/erreurs, seuils qui font échouer la CI si dégradés. Étape 1 : Choisir k6 (JS, CI natif) ou Locust (Python, UI web)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tests de performance avec k6 ou Locust"
 emoji: "🚀"

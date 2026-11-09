@@ -1,6 +1,7 @@
 ---
 num: 1457
 resume: "Sécuriser la supply chain en 2027 : vérifier signatures des paquets (Sigstore/cosign ou GPG), exiger provenance SLSA, utiliser lockfile + hashes (npm ci, pip --require-hashes), et un miroir interne vérifié. Étape 1 : Installer uniquement via lockfile + hashes (npm ci, pip --require-hashes, go mod verify)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Integrite des paquets : signatures et SLSA"
 emoji: "✅"

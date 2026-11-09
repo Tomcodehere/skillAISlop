@@ -1,6 +1,7 @@
 ---
 num: 1958
 resume: "Des ouvrages en laine qui gardent leur forme et leur taille lavage après lavage. Étape 1 : Laver délicatement (main ou programme laine, 30 °C, essorage doux)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Blockage, lavage et finition de la laine"
 emoji: "🛁"

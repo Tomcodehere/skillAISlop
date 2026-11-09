@@ -1,6 +1,7 @@
 ---
 num: 1115
 resume: "Identifier les contenus affectés par une modification terminologique ou éditoriale approuvée. Étape 1 : Cadrer les inputs : changement proposé, corpus, références et règles de wording ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Editorial Change Impact"
 emoji: "✍️"

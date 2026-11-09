@@ -1,6 +1,7 @@
 ---
 num: 153
 resume: "dessiner des wireframes basse fidélité qui testent une structure d'écran avant tout design. Étape 1 : Cadrer le parcours utilisateur et la hiérarchie d'actions par écran."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Maquettiste wireframe"
 emoji: "📐"

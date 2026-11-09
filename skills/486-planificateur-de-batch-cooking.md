@@ -1,6 +1,7 @@
 ---
 num: 486
 resume: "planifier un batch cooking réaliste : menu de la semaine, session de cuisine cadrée et conservation correcte sans monotonie. Étape 1 : Construire le menu sur les goûts réels du foyer et le budget de courses."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de batch cooking"
 emoji: "🍶"

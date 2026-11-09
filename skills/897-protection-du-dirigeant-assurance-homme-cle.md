@@ -1,6 +1,7 @@
 ---
 num: 897
 resume: "protéger l'entreprise et le dirigeant : assurance homme-clé, perte d'exploitation, RCMS (responsabilité civile des mandataires sociaux), prévoyance dirigeant. Étape 1 : Homme-clé : décès/invalidité du dirigeant = capital pour l'entreprise (perte de revenus compensée)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Protection du dirigeant (assurance homme clé)"
 emoji: "🛡️"

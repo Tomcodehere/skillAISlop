@@ -1,6 +1,7 @@
 ---
 num: 567
 resume: "progresser aux jeux de stratégie (échecs, go, jeux modernes) : règles solides, plans simples et analyse de ses parties. Étape 1 : Diagnostiquer le niveau réel par une partie observée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de jeux de stratégie"
 emoji: "♟️"

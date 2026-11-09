@@ -1,6 +1,7 @@
 ---
 num: 1504
 resume: "Construire un système d'input moderne en 2027 : actions nommées indépendantes des entrées (clavier AZERTY/QWERTY auto, manette, tactile), remappable par le joueur avec sauvegarde des contrôles, et buffer d'input pour les combos. Étape 1 : Définir les actions (Input Actions Unity / InputMap Godot) avec entrées par défaut."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Systeme d'input moderne : actions, gamepad, remappable"
 emoji: "🎮"

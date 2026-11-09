@@ -1,6 +1,7 @@
 ---
 num: 312
 resume: "soigner le README d'un dépôt : un lecteur comprend en 2 minutes ce que fait le projet, comment le lancer et comment contribuer. Étape 1 : Auditer : que comprend un nouveau venu en 2 minutes, où bloque-t-il ?"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Docteur de README"
 emoji: "🌎"

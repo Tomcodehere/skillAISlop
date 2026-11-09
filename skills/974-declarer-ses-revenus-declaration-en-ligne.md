@@ -1,6 +1,7 @@
 ---
 num: 974
 resume: "faire sa déclaration de revenus 2027 en ligne (impots.gouv.fr) : revenus pré-remplis, ce qu'il faut ajouter (foncier, capitaux, pro), délais et pénalités. Étape 1 : Mai-juin 2027 sur impots.gouv.fr : vérifier la déclaration pré-remplie (salaires, pensions, intérêts déjà transmis)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Déclarer ses revenus (déclaration en ligne)"
 emoji: "📝"

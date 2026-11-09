@@ -1,6 +1,7 @@
 ---
 num: 1815
 resume: "Exploiter les features CLI OpenTofu absentes du binaire Terraform : provider for_each (multi-région), early variable evaluation (backend dynamique), -exclude (plan ciblé), registre OCI (1.10, air-gapped). Étape 1 : provider for_each : provider 'aws' { for_each = var.regions ... } puis module avec providers map."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OpenTofu : provider for_each, early variable evaluation, -exclude"
 emoji: "🔁"

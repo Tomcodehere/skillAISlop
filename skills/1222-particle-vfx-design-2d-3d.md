@@ -1,6 +1,7 @@
 ---
 num: 1222
 resume: "Produire un livrable maîtrisé : effet de particules 2D ou 3D (impact, fumée, magie, feu) conçu pour Godot 4 ou Blender, avec fiche de réglages et prévisualisation en boucle. Étape 1 : Cadrer l'intention : référence visuelle, moteur et version, durée, déclencheur, plafond de particules et taille d'affichage ; vérifier les autorisations et licences des textures."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Particle VFX Design 2D/3D"
 emoji: "💻"

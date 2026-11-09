@@ -1,6 +1,7 @@
 ---
 num: 1673
 resume: "Orchestrer des pipelines en 2027 avec Kestra (YAML déclaratif, UI visuelle, triggers riches : schedule, webhook, fichier arrivé, event Kafka 1464) — plus accessible qu'Airflow (Python) pour les équipes mixtes data/métier. Étape 1 : Installer Kestra (docker self-hosted ou cloud), créer un namespace par projet."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Kestra : orchestration YAML declarative"
 emoji: "🧪"

@@ -1,6 +1,7 @@
 ---
 num: 321
 resume: "conduire une migration de schéma sans coupure : étapes réversibles, compatibilité applicative, fenêtre de bascule et plan de repli. Étape 1 : Décrire l'écart source/cible et le découper en étapes réversibles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Migrateur de schémas de base de données"
 emoji: "🌖"

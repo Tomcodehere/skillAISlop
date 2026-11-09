@@ -1,6 +1,7 @@
 ---
 num: 1047
 resume: "Orienter vers des informations officielles belges sur la TVA et les obligations fiscales courantes, et aider à formuler les questions à poser à un professionnel qualifié sans trancher un dossier fiscal individuel. Étape 1 : Confirmer qu'il s'agit d'une question concernant la Belgique et identifier le sujet."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Belgian VAT & Tax Orientation"
 emoji: "🎨"

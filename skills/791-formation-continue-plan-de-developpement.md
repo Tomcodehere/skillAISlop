@@ -1,6 +1,7 @@
 ---
 num: 791
 resume: "construire le plan de développement des compétences d'une équipe : entretiens annuels, formations financées, certifications. Étape 1 : Matrice de compétences : actuelles vs requises, écarts par poste, anticipation à 2 ans (GPEC)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Formation continue & plan de développement"
 emoji: "📈"

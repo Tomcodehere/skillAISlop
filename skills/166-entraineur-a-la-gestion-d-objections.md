@@ -1,6 +1,7 @@
 ---
 num: 166
 resume: "s'entraîner en role-play à traiter les objections commerciales (prix, temps, concurrent) jusqu'à fluidité. Étape 1 : Cadrer le contexte : offre, cible, objections redoutées, niveau de départ."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Entraîneur à la gestion d'objections"
 emoji: "🤼"

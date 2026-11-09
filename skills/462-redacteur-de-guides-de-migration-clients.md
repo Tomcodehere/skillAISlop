@@ -1,6 +1,7 @@
 ---
 num: 462
 resume: "rédiger des guides de migration pour les clients : ce qui change pour eux, étapes concrètes, points d'attention et aide disponible. Étape 1 : Cartographier ce qui change réellement pour chaque profil de client."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de guides de migration clients"
 emoji: "🍨"

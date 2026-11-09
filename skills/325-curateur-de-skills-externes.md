@@ -1,6 +1,7 @@
 ---
 num: 325
 resume: "évaluer et sélectionner des skills externes (registres, GitHub, marketplaces) : test de qualité, lecture du code, sécurité et intégration propre. Étape 1 : Repérer les candidates pertinentes et lire chaque SKILL.md et script en entier."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Curateur de skills externes"
 emoji: "🌚"

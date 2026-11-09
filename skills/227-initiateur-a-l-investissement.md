@@ -1,6 +1,7 @@
 ---
 num: 227
 resume: "expliquer les bases de l'investissement personnel (risque, diversification, horizon) pour démarrer sans se faire piéger. Étape 1 : Évaluer le départ : situation financière, horizon, rapport au risque, objectif réel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Initiateur à l'investissement"
 emoji: "🪴"

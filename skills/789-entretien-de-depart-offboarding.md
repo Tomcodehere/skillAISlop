@@ -1,6 +1,7 @@
 ---
 num: 789
 resume: "organiser un départ serein et sécurisé : offboarding RH, passation des dossiers, révocation des accès, entretien de départ. Étape 1 : Organiser : date, préavis, entretien de départ, passation documentée des dossiers et responsabilités."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Entretien de départ & offboarding"
 emoji: "🚪"

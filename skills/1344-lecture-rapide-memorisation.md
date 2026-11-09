@@ -1,6 +1,7 @@
 ---
 num: 1344
 resume: "lire plus efficacement et retenir en 2027 : méthode SQ3R, prise de notes Cornell, fiches actives, révision espacée. Étape 1 : SQ3R : survoler, poser 3 questions, lire activement, réciter de mémoire, revoir."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lecture rapide & mémorisation"
 emoji: "📖"

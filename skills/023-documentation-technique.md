@@ -1,6 +1,7 @@
 ---
 num: 23
 resume: "produire des README, docs API et guides techniques clairs, complets et maintenables. Étape 1 : Identifier le lecteur (débutant, contributeur, ops) et sa question d'entrée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Documentation technique"
 emoji: "📚"

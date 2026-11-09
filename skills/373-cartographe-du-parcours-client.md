@@ -1,6 +1,7 @@
 ---
 num: 373
 resume: "cartographier le parcours client réel : étapes, points de friction, moments de vérité et canaux, avec les priorités d'amélioration. Étape 1 : Rassembler les traces réelles : analytics, verbatims, enregistrements, retours équipe."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cartographe du parcours client"
 emoji: "🌽"

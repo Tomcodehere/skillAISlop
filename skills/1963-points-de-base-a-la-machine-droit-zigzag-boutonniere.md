@@ -1,6 +1,7 @@
 ---
 num: 1963
 resume: "Coudre droit, finir les bords au zigzag et faire des boutonnières propres. Étape 1 : Point droit 2,5 mm pour assembler (valeur de couture 1 cm, endroit contre endroit)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Points de base à la machine (droit, zigzag, boutonnière)"
 emoji: "➰"

@@ -1,6 +1,7 @@
 ---
 num: 1338
 resume: "organiser un coffre-fort numérique familial en 2027 : documents vitaux chiffrés (pièce d'identité, actes, contrats, diplômes), accès prévu pour les héritiers, conservé chez le notaire. Étape 1 : Inventaire des documents vitaux + numérisation qualité (300 dpi, PDF/A)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coffre-fort numérique familial"
 emoji: "🗄️"

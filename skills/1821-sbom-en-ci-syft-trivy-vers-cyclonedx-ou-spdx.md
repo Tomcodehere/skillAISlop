@@ -1,6 +1,7 @@
 ---
 num: 1821
 resume: "Générer un SBOM à chaque build en CI (Syft/Trivy, CycloneDX 1.7 ou SPDX 3.0.1, conforme CISA 2026 Minimum Elements), attaché à l'image par digest sha256. Étape 1 : Step CI après le build : syft inférieur àimage@sha256:...supérieur à -o cyclonedx-json supérieur à sbom.cdx.json + spdx-json."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SBOM en CI : Syft/Trivy vers CycloneDX ou SPDX"
 emoji: "📜"

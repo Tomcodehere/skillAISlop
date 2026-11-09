@@ -1,6 +1,7 @@
 ---
 num: 1939
 resume: "Des portes/fenêtres qui ferment bien, sans courant d'air, rénovées proprement. Étape 1 : Diagnostiquer : régler paumelles/charnières (voir 1931), raboter si frottement local."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Portes et fenêtres en bois : réglage et rénovation"
 emoji: "🚪"

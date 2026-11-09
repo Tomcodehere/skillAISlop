@@ -1,6 +1,7 @@
 ---
 num: 1997
 resume: "Une petite série (20-50 ex.) imprimée en sérigraphie manuelle, irrégulière et charmante. Étape 1 : Préparer l'écran (insolation du visuel) ou le kit."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sériraphie et risographie (petites séries)"
 emoji: "🖨️"

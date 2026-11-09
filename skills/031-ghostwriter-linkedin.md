@@ -1,6 +1,7 @@
 ---
 num: 31
 resume: "écrire des posts LinkedIn qui construisent une autorité, avec la voix authentique de l'auteur. Étape 1 : Analyser la voix de l'auteur (anciens posts) et son positionnement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ghostwriter LinkedIn"
 emoji: "📘"

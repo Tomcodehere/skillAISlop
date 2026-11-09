@@ -1,6 +1,7 @@
 ---
 num: 1676
 resume: "Construire une semantic layer en 2027 (dbt Semantic Layer 350 ou Cube) : chaque métrique métier (CA, marge, churn 344) définie UNE fois en YAML/SQL versionné Git, consommée identiquement par tous les BI (Superset 1666, Excel 264, dashboards 107). Étape 1 : Lister les métriques contestées (CA, marge, churn, NPS 797) et leur définition 'officielle' (avec le métier 344)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Semantic layer : une metrique, un calcul (dbt Semantic Layer, Cube)"
 emoji: "📐"

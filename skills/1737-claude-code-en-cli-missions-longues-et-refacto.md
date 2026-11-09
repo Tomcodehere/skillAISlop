@@ -1,6 +1,7 @@
 ---
 num: 1737
 resume: "Utiliser Claude Code (CLI, Pro 20 $) en 2027 pour les missions longues : refacto multi-fichiers (plan mode), migrations (1614), audit (1401), tests (822), avec /loop (cron) et Analytics API (métriques org) — le dev valide chaque action. Étape 1 : claude dans le terminal du repo, décrire la mission en langage naturel (ex. 'migre ce service de Express à Fastify')."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Claude Code en CLI : missions longues et refacto"
 emoji: "💻"

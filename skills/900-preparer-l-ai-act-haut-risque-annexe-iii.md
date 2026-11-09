@@ -1,6 +1,7 @@
 ---
 num: 900
 resume: "préparer l'entreprise aux obligations AI Act pour les systèmes à haut risque (annexe III) applicables au 2 décembre 2027 : cartographie, registre, contrôle humain, documentation. Étape 1 : Cartographier tous les outils IA (officiels + shadow) et classer haut risque annexe III vs transparence seule."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer l'AI Act haut risque (annexe III)"
 emoji: "🇪🇺"

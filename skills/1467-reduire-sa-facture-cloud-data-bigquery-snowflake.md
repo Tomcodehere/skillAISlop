@@ -1,6 +1,7 @@
 ---
 num: 1467
 resume: "Réduire la facture cloud data en 2027 (BigQuery/Snowflake) : partitionner + clusteriser les grosses tables, requêtes ciblées (moins de scan), cache, réservations ou on-demand selon le profil, archivage froid, quotas par équipe. Étape 1 : Analyser le query log : top 10 requêtes en coût (scan complet de grosses tables ?)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Reduire sa facture cloud data (BigQuery, Snowflake)"
 emoji: "💸"

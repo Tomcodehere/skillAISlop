@@ -1,6 +1,7 @@
 ---
 num: 148
 resume: "assembler un mood board directionnel (ambiances, références, palettes) qui aligne tout le monde avant création. Étape 1 : Cadrer le projet : audience, usage, émotion visée, références aimées et rejetées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Curateur de mood boards"
 emoji: "🧵"

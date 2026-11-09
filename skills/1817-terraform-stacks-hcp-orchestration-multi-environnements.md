@@ -1,6 +1,7 @@
 ---
 num: 1817
 resume: "Orchestrer plusieurs composants IaC sur plusieurs environnements avec Terraform Stacks (HCP, GA) : déploiements coordonnés, dépendances inter-composants (output -supérieur à input), plan/apply unifié. Étape 1 : Créer le Stack dans HCP : composants (source module + version) et déploiements (env + variables + provider config)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Terraform Stacks (HCP) : orchestration multi-environnements"
 emoji: "🗂️"

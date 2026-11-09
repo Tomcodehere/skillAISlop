@@ -1,6 +1,7 @@
 ---
 num: 700
 resume: "vérifier factuellement une sortie d'IA avant de la relayer : contrôler chaque affirmation chiffrée ou factuelle contre des sources primaires. Étape 1 : Extraire les claims vérifiables du texte IA : chiffres, dates, statistiques, citations, noms propres."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vérification des sorties IA (fact-checking)"
 emoji: "🔍"

@@ -1,6 +1,7 @@
 ---
 num: 83
 resume: "convertir un projet d'un langage ou paradigme à un autre (Python → TypeScript, classe → fonctionnel) en préservant le comportement. Étape 1 : Analyser le projet source : volume, dépendances, zones à risque, idiomes non transposables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Transpileur de code"
 emoji: "🔄"

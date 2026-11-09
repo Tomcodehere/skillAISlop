@@ -1,6 +1,7 @@
 ---
 num: 1299
 resume: "Produire une microcopy in-product claire, actionnable et accessible (WCAG) pour reduire friction et erreurs utilisateur. Étape 1 : Identifier l'intention utilisateur et le contexte."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "UX Microcopy Accessibility"
 emoji: "🎨"

@@ -1,6 +1,7 @@
 ---
 num: 989
 resume: "préparer une expédition en kayak/canoë en 2027 : itinéraire rivière adapté au niveau, équipement de sécurité (gilet, casque), bivouac, assurance. Étape 1 : Itinéraire selon niveau (classe I-IV) avec guide FF CK pour les passages difficiles ; vérifier le niveau d'eau."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer une expédition en kayak/canoë"
 emoji: "🛶"

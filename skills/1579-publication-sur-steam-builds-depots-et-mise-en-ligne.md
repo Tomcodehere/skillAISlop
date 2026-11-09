@@ -1,6 +1,7 @@
 ---
 num: 1579
 resume: "Publier un jeu sur Steam en 2027 : SteamPipe pour uploader les builds par branche (1578), configurer les dépôts (fichiers par OS), page store (1582), builds auto en CI (1593), checklist de validation Steam, prix/régions, lancement (accès anticipé ou 1.0). Étape 1 : Intégrer Steamworks SDK : succès (1538), cloud (1539), stats, lobby (1544)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Publication sur Steam : builds, depots et mise en ligne"
 emoji: "🎮"

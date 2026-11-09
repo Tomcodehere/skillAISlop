@@ -1,6 +1,7 @@
 ---
 num: 191
 resume: "analyser des logs ou transactions pour détecter comportements frauduleux et anomalies de fonctionnement. Étape 1 : Établir la ligne de base des comportements normaux sur la période."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Détecteur de fraudes & anomalies de logs"
 emoji: "🚔"

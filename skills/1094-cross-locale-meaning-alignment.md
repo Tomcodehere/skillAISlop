@@ -1,6 +1,7 @@
 ---
 num: 1094
 resume: "Contrôler que des versions linguistiques transmettent la même intention et les mêmes contraintes. Étape 1 : Cadrer les inputs : source, traductions, contexte et éléments non négociables ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cross-Locale Meaning Alignment"
 emoji: "🎨"

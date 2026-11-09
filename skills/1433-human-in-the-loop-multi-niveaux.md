@@ -1,6 +1,7 @@
 ---
 num: 1433
 resume: "Concevoir un human-in-the-loop multi-niveaux en 2027 : l'agent classe ses actions (lecture / écriture interne / action externe à risque) et demande une approbation humaine avec contexte avant chaque action à risque. Étape 1 : Classifier les actions : lecture (auto), écriture interne (notifié), externe/irréversible (approbation)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Human-in-the-loop multi-niveaux"
 emoji: "🧑‍💻"

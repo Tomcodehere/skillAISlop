@@ -1,6 +1,7 @@
 ---
 num: 76
 resume: "piloter un agent de code en ligne de commande (Claude Code, Codex CLI, Gemini CLI) de façon sûre et efficace, du brief initial au commit final. Étape 1 : Auditer le contexte : dépôt, conventions, périmètre de la session."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pilote d'agents de code CLI"
 emoji: "🖥️"

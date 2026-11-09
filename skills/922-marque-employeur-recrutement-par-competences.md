@@ -1,6 +1,7 @@
 ---
 num: 922
 resume: "moderniser le recrutement en 2027 : recruter par compétences (skills-based) plutôt que diplôme, avec une marque employeur crédible (cohérence annonce → contrat → quotidien) et la transparence salariale. Étape 1 : Offres par compétences testables (exercice concret) + fourchette salariale affichée + pas d'historique salarial demandé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Marque employeur & recrutement par compétences"
 emoji: "🎯"

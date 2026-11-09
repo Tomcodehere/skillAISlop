@@ -1,6 +1,7 @@
 ---
 num: 1954
 resume: "Tricoter les 5 points de base propres et corriger ses erreurs. Étape 1 : Apprendre endroit/envers, alternances : mousse, jersey, côtes 1/1 et 2/2."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Points de base du tricot"
 emoji: "🧵"

@@ -1,6 +1,7 @@
 ---
 num: 1925
 resume: "Choisir l'assemblage adapté (solidité, démontable, esthétique) et le réaliser proprement. Étape 1 : Choisir l'assemblage selon l'effort (traction, cisaillement) et l'esthétique."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Assemblages du bois"
 emoji: "🔗"

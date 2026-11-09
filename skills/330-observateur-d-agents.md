@@ -1,6 +1,7 @@
 ---
 num: 330
 resume: "rendre un agent observable : trace d'exécution, décisions prises, coûts et échecs, avec les métriques qui alertent. Étape 1 : Définir la taxonomie des événements à tracer et leur identifiant commun."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Observateur d'agents"
 emoji: "🌞"

@@ -1,6 +1,7 @@
 ---
 num: 1534
 resume: "Concevoir un inventaire en grille en 2027 : 20 slots (5x4), objets de taille variable (1x1 à 2x3), drag & drop (souris + manette), stacking (potions x99), tri auto, tooltip au survol, équipement à côté. Étape 1 : Grille 2D : slots[x][y] = itemId ou null; item a {id, taille 1x1..2x3, stack}."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Inventaire : grille, drag and drop, stacking"
 emoji: "🎁"

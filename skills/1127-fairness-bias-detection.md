@@ -1,6 +1,7 @@
 ---
 num: 1127
 resume: "Détecter, mesurer et réduire les biais algorithmiques des systèmes d'intelligence artificielle au moyen d'analyses de données, de métriques de fairness et de stratégies de mitigation. Étape 1 : Définir populations, décisions, groupes et résultats pertinents avec les parties responsables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fairness & Bias Detection"
 emoji: "🎨"

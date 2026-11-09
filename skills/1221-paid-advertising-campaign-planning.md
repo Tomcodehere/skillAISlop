@@ -1,6 +1,7 @@
 ---
 num: 1221
 resume: "Concevoir le plan stratégique d'une campagne publicitaire payante : objectif, audience, canaux, calendrier, hypothèses créatives, allocation budgétaire et règles de pilotage. Le skill produit un plan à valider; il ne publie pas de campagne et n'engage aucune dépense. Étape 1 : Définir l'objectif, la conversion cible, l'horizon et les critères de succès."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Paid Advertising Campaign Planning"
 emoji: "📦"

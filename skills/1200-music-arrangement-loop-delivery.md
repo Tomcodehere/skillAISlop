@@ -1,6 +1,7 @@
 ---
 num: 1200
 resume: "Produire un livrable maîtrisé : arrangement finalisé, boucles propres et lot d'exports (OGG/WAV) avec manifeste documentant tempo, tonalité, durée et points de boucle. Étape 1 : Cadrer les inputs : maquette validée, formats de livraison, contraintes de taille ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Music Arrangement, Loop & Delivery"
 emoji: "💻"

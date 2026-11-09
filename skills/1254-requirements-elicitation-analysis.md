@@ -1,6 +1,7 @@
 ---
 num: 1254
 resume: "Recueillir, clarifier et analyser les besoins des parties prenantes afin de produire des exigences fonctionnelles compréhensibles, vérifiables et reliées à un objectif métier. Étape 1 : Cadrer l'objectif métier, les utilisateurs visés, les limites du système et la décision à éclairer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Requirements Elicitation & Analysis"
 emoji: "🎨"

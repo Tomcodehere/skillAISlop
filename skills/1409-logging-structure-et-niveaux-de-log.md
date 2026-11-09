@@ -1,6 +1,7 @@
 ---
 num: 1409
 resume: "Instrumenter une application en 2027 avec des logs structurés (JSON) : niveaux adaptés, request_id de corrélation, aucune PII en clair, et un moyen de les requêter. Étape 1 : Choisir la librairie de log structuré du langage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Logging structure et niveaux de log"
 emoji: "📝"

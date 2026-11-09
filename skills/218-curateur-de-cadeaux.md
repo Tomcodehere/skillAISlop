@@ -1,6 +1,7 @@
 ---
 num: 218
 resume: "trouver des idées de cadeaux qui collent à la personne : relations, budget, occasion, avec des options vérifiables. Étape 1 : Recueillir le profil du destinataire, l'occasion, le budget et les précédents ratés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Curateur de cadeaux"
 emoji: "🎀"

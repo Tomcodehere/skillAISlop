@@ -1,6 +1,7 @@
 ---
 num: 1947
 resume: "Faire des rainures, feuillures, languettes et chants arrondis proprement et en sécurité. Étape 1 : Choisir la fraise et régler la profondeur (plusieurs passes de 3-5 mm)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Usinage à la défonceuse"
 emoji: "⚙️"

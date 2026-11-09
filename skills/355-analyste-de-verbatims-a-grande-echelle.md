@@ -1,6 +1,7 @@
 ---
 num: 355
 resume: "analyser des centaines de réponses ouvertes : codage en thèmes, fréquences, citations illustratives et synthèse actionnable. Étape 1 : Échantillonner et construire la grille de codage en thèmes disjoints."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste de verbatims à grande échelle"
 emoji: "🌯"

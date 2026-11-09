@@ -1,6 +1,7 @@
 ---
 num: 1267
 resume: "Vérifier qu'un correctif ferme la cause d'une faiblesse sans masquer l'erreur. Étape 1 : Cadrer les inputs : constat autorisé, correctif, reproducer sûr et comportement attendu ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Security Remediation Verification"
 emoji: "📋"

@@ -1,6 +1,7 @@
 ---
 num: 563
 resume: "gérer les finances d'un freelance : prix de journée, provisionnement des charges, trésorerie irrégulière et rythme de facturation. Étape 1 : Calculer le coût complet et le prix de journée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestionnaire financier du freelance"
 emoji: "💼"

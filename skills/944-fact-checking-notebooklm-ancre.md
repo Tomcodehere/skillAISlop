@@ -1,6 +1,7 @@
 ---
 num: 944
 resume: "vérifier une information en 2027 avec une IA ancrée sur SES propres sources (NotebookLM) : poser la question, exiger les citations, remonter aux sources primaires. Étape 1 : Corpus : 5-10 sources primaires crédibles dans NotebookLM (études, rapports, presse) avant de poser la question."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fact-checking & NotebookLM ancré"
 emoji: "📚"

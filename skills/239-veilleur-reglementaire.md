@@ -1,6 +1,7 @@
 ---
 num: 239
 resume: "surveiller les évolutions réglementaires d'un secteur, évaluer leur impact réel et préparer la mise en conformité. Étape 1 : Définir le périmètre de veille : activités, juridictions, sources officielles fiables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Veilleur réglementaire"
 emoji: "🔔"

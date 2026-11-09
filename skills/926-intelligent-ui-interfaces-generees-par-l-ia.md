@@ -1,6 +1,7 @@
 ---
 num: 926
 resume: "concevoir des interfaces « Intelligent UI » (générées/adaptées par l'IA à la volée, tendance 2027) sans perdre le contrôle humain sur le design. Étape 1 : Cadre contraint : composants du design system, règles d'accessibilité, palette validée — l'IA compose dans ce cadre."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Intelligent UI : interfaces générées par l'IA"
 emoji: "✨"

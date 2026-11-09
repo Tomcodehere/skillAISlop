@@ -1,6 +1,7 @@
 ---
 num: 827
 resume: "gérer un impayé de loyer étape par étape : relances, mise en demeure, commandement, garanties, procédure judiciaire. Étape 1 : 1er impayé : relance écrite ; sous 8 jours, mise en demeure LRAR."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Impayé de loyer (propriétaire)"
 emoji: "🔑"

@@ -1,6 +1,7 @@
 ---
 num: 1944
 resume: "Des défauts réparés proprement, invisibles après finition. Étape 1 : Choisir la méthode (mastic teinté, flipot, goujon) selon taille et visibilité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Réparer une fissure ou un éclat dans le bois"
 emoji: "🩹"

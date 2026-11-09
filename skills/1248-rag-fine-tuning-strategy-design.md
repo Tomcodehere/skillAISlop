@@ -1,6 +1,7 @@
 ---
 num: 1248
 resume: "Arbitrer entre prompting simple, RAG (Retrieval-Augmented Generation), fine-tuning ou architecture hybride pour un cas d'usage GenAI donné, avec justification type ADR (trade-offs, risques, réversibilité)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "RAG & Fine-Tuning Strategy Design"
 emoji: "💻"

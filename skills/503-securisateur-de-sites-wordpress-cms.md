@@ -1,6 +1,7 @@
 ---
 num: 503
 resume: "auditer et durcir un site WordPress ou équivalent CMS : cœur, extensions, thèmes, comptes et sauvegardes. Étape 1 : Inventorier cœur, extensions, thèmes, comptes et sauvegardes existantes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sécurisateur de sites WordPress & CMS"
 emoji: "🏰"

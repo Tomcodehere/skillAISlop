@@ -1,6 +1,7 @@
 ---
 num: 481
 resume: "orchestrer la logistique familiale : planning partagé, responsabilités réparties, transports optimisés et solution de repli. Étape 1 : Cartographier les flux hebdomadaires réels et les trajets redondants."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ordonnanceur de logistique familiale"
 emoji: "🤹"

@@ -1,6 +1,7 @@
 ---
 num: 1913
 resume: "Trier, tracer et évacuer les déchets de chantier légalement, avec le coût prévu au devis. Étape 1 : Identifier les flux de déchets du chantier et les trier à la source."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion des déchets de chantier"
 emoji: "♻️"

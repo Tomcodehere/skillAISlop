@@ -1,6 +1,7 @@
 ---
 num: 1483
 resume: "Valider un parcours utilisateur en 2027 avec des tests à distance (Maze/Useberry) : 5-8 testeurs du panel, tâches scénarisées + questions, métriques (taux de réussite, temps, SUS), synthèse vidéo pour l'équipe. Étape 1 : Préparer le prototype cliquable (Figma/Framer) et 3-5 tâches réalistes ('trouve ton relevé de notes')."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tests utilisateurs a distance (Maze, Useberry)"
 emoji: "🧪"

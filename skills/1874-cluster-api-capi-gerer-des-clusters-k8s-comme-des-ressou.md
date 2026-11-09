@@ -1,6 +1,7 @@
 ---
 num: 1874
 resume: "Provisionner et gérer des clusters k8s avec Cluster API (CAPI) : objets Cluster/MachineDeployment déclaratifs, providers cloud (CAPA/CAPZ/CAPG/vSphere), upgrade du control plane par changement de version. Étape 1 : Installer CAPI sur le management cluster + le provider infra (ex. CAPA pour AWS) + bootstrap (kubeadm) + control plane (kubeadm)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cluster API (CAPI) : gérer des clusters k8s comme des ressources k8s"
 emoji: "🖥️"

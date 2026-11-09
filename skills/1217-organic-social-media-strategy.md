@@ -1,6 +1,7 @@
 ---
 num: 1217
 resume: "Structurer une présence organique sur les réseaux sociaux en reliant objectifs, audiences, plateformes, piliers éditoriaux, rythme et mesure. Le skill produit une stratégie et un calendrier de sujets; il ne rédige pas les posts finaux et ne publie aucun contenu. Étape 1 : Définir les objectifs organiques, audiences et ressources disponibles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Organic Social Media Strategy"
 emoji: "📦"

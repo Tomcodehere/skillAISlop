@@ -1,6 +1,7 @@
 ---
 num: 301
 resume: "isoler les travaux parallèles avec les worktrees Git : une branche par arborescence de travail, sans s'y retrouver perdu entre stash et commits cassés. Étape 1 : Lister les branches actives et repérer les chantiers qui se marchent dessus."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestionnaire de worktrees Git"
 emoji: "🌿"

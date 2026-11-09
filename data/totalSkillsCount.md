@@ -39,6 +39,10 @@
 | Décision | 6 |
 | Routage | 5 |
 
+## Traductions
+
+Sidecars `NNN-slug.<lang>.md` : en = 11 skills (`.en.md`, routage `route --lang en`).
+
 ## Génération
 
 Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-09. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — skillAISlop ».

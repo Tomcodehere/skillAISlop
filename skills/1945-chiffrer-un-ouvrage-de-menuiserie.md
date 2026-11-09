@@ -1,6 +1,7 @@
 ---
 num: 1945
 resume: "Un devis d'ouvrage menuiserie rentable et transparent, poste par poste. Étape 1 : Lister matière + quincaillerie + finition + chute (10-20 %)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chiffrer un ouvrage de menuiserie"
 emoji: "💰"

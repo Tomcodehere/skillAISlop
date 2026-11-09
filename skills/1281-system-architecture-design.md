@@ -1,6 +1,7 @@
 ---
 num: 1281
 resume: "Concevoir des architectures système globales on-prem et hybrides multi-composants (Linux/Windows/containers/réseau/stockage) robustes, cohérentes et maintenables. Étape 1 : Clarifier exigences et contraintes (questions ciblées)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "System Architecture Design"
 emoji: "💻"

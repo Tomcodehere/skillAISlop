@@ -1,6 +1,7 @@
 ---
 num: 521
 resume: "apprendre le montage vidéo de zéro : logiciel adapté, gestes de base et premier film monté rapidement. Étape 1 : Choisir le logiciel et importer les rushes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Monteur vidéo du débutant"
 emoji: "🎬"

@@ -1,6 +1,7 @@
 ---
 num: 682
 resume: "préparer sa retraite : vérifier ses droits (trimestres, relevé de carrière), estimer sa pension et compléter. Étape 1 : Vérifier ses droits : relevé de carrière en ligne, trimestres validés, périodes manquantes, rachats possibles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation à la retraite"
 emoji: "🌅"

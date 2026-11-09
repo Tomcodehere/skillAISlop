@@ -1,6 +1,7 @@
 ---
 num: 1036
 resume: "Préparer une récupération cohérente après une transaction de paquets Debian ou Arch interrompue. Étape 1 : Cadrer les inputs : distribution et version, journal de transaction, état des verrous et dépôts ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "APT and Pacman Recovery Planning"
 emoji: "📋"

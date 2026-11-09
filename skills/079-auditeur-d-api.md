@@ -1,6 +1,7 @@
 ---
 num: 79
 resume: "auditer un contrat d'API (cohérence, sécurité, versionnage) et livrer un rapport d'amélioration priorisé. Étape 1 : Collecter le contrat (OpenAPI, collection Postman) et le contexte d'usage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur d'API"
 emoji: "🛣️"

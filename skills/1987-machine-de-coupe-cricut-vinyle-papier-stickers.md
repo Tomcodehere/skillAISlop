@@ -1,6 +1,7 @@
 ---
 num: 1987
 resume: "Découper proprement vinyle/papier avec une Cricut (stickers, lettrage, cartons). Étape 1 : Choisir/créer le motif dans Design Space, régler la lame et la pression selon le matériau."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Machine de coupe (Cricut) : vinyle, papier, stickers"
 emoji: "✂️"

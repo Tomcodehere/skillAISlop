@@ -1,6 +1,7 @@
 ---
 num: 1720
 resume: "Comprendre eBPF en 2027 (standard 2026) : programmes sandboxés dans le noyau Linux (networking, observabilité, sécurité) sans toucher au kernel — via les outils haut niveau (Cilium 1721, Falco 1723, bpftrace, Pixie 1724) plutôt qu'en écrivant du eBPF brut. Étape 1 : Vérifier le kernel : uname -r (5.8+ min, 5.15+ recommandé) ; sinon module kernel (moins recommandé en prod)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "eBPF : programmer le noyau Linux sans le modifier"
 emoji: "⚡"

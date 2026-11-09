@@ -1,6 +1,7 @@
 ---
 num: 1220
 resume: "Gérer packages Linux (yum/dnf, apt, pacman) de manière sécurisée, reproductible et automatisée. Étape 1 : Identifier packages requis (runtime, libs, outils)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Package Management Best Practices"
 emoji: "💻"

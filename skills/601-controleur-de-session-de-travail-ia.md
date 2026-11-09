@@ -1,6 +1,7 @@
 ---
 num: 601
 resume: "auditer une session de travail IA avant de la clore : travail à moitié fini, dérive hors mandat et fichiers modifiés par accident. Étape 1 : Rappeler le mandat initial de la session et le comparer à l'état réel du travail."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Contrôleur de session de travail IA"
 emoji: "📋"

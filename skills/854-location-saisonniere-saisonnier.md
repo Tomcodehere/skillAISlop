@@ -1,6 +1,7 @@
 ---
 num: 854
 resume: "louer un logement en vacances en sécurité : contrat écrit, acompte plafonné, état des lieux, arnaques à éviter. Étape 1 : Contrat écrit : dates, prix total TTC, acompte ≤ 30 %, dépôt de garantie, états des lieux entrée/sortie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Location saisonnière & saisonnier"
 emoji: "🏖️"

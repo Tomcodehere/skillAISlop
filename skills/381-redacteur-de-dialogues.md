@@ -1,6 +1,7 @@
 ---
 num: 381
 resume: "écrire des dialogues vivants : voix distinctes par personnage, sous-texte, rythme naturel et répliques au service de la scène. Étape 1 : Définir les fiches de voix : registre, vocabulaire, tics de langage de chacun."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de dialogues"
 emoji: "🍃"

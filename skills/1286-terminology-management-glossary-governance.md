@@ -1,6 +1,7 @@
 ---
 num: 1286
 resume: "Gérer un glossaire terminologique multilingue centralisé, assurer la gouvernance des termes validés (ajout, révision, dépréciation) et la cohérence terminologique cross-langue dans tous les contenus traduits/localisés. Étape 1 : Recensement des termes clés par domaine métier (termes techniques, noms de produits, expressions récurrentes à fort enjeu de cohérence)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Terminology Management & Glossary Governance"
 emoji: "✍️"

@@ -1,6 +1,7 @@
 ---
 num: 27
 resume: "produire des documents Word, Excel ou PowerPoint complets et bien structurés à partir d'une demande. Étape 1 : Clarifier format, audience, message central et contraintes de charte."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créateur de documents Office"
 emoji: "📎"

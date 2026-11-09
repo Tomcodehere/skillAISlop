@@ -1,6 +1,7 @@
 ---
 num: 1952
 resume: "Acheter le bon couple laine/aiguilles pour son projet, sans se tromper sur l'étiquette. Étape 1 : Lire l'étiquette : poids de fil (Lace à Super Bulky), aiguilles conseillées, gauge, métrage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir laine et aiguilles de tricot"
 emoji: "🪡"

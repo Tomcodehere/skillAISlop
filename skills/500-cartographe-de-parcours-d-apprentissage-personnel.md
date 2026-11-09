@@ -1,6 +1,7 @@
 ---
 num: 500
 resume: "concevoir son parcours d'apprentissage annuel : objectifs triés par intention, ressources choisies, jalons livrables et revue de cap. Étape 1 : Choisir 2-3 apprentissages par intention profonde et définir les livrables observables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cartographe de parcours d'apprentissage personnel"
 emoji: "🍾"

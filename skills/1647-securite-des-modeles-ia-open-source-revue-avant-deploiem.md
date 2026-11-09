@@ -1,6 +1,7 @@
 ---
 num: 1647
 resume: "Revoir un modèle IA open source avant déploiement en 2027 : provenance vérifiée (Hugging Face officiel, hash 1457), licence compatible (1177), scan du repo (pas de pickle/code exécuté au chargement), évaluation sur golden set (1395) avant prod. Étape 1 : Provenance : télécharger depuis le compte officiel vérifié, comparer le hash sha256 (manifeste 1457), éviter les miroirs inconnus."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Securite des modeles IA open source : revue avant deploiement"
 emoji: "🔍"

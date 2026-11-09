@@ -1,6 +1,7 @@
 ---
 num: 1193
 resume: "Cadrer la mise en production, le versioning, le monitoring et le réentraînement des modèles de machine learning classiques/prédictifs, afin de garantir un cycle de vie fiable, traçable et détectant la dérive."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "MLOps & Model Lifecycle Management"
 emoji: "🧠"

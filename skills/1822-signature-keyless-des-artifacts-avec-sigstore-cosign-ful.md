@@ -1,6 +1,7 @@
 ---
 num: 1822
 resume: "Signer images et artifacts en keyless avec Sigstore (cosign + OIDC du CI → Fulcio cert 10 min → Rekor), et vérifier à l'admission/déploiement par identity (workflow/branche) — aucun secret de signature à gérer. Étape 1 : CI : permissions id-token: write, puis cosign sign --yes ghcr.io/org/app@sha256:... (keyless : Fulcio + Rekor automatiques)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Signature keyless des artifacts avec Sigstore (cosign, Fulcio, Rekor)"
 emoji: "✍️"

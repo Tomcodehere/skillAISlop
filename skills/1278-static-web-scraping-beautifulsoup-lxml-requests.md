@@ -1,6 +1,7 @@
 ---
 num: 1278
 resume: "Extraire des données depuis des pages HTML statiques (rendues côté serveur) via des bibliothèques Python légères (Requests, BeautifulSoup, lxml, httpx), sans moteur de rendu JavaScript. Étape 1 : Vérifier que le site est statique (vue source contient les données ; sinon rediriger vers scraping dynamique)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Static Web Scraping (BeautifulSoup/lxml/Requests)"
 emoji: "💻"

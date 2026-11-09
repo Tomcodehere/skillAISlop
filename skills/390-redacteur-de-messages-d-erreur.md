@@ -1,6 +1,7 @@
 ---
 num: 390
 resume: "rédiger des messages d'erreur utiles : ce qui s'est passé, pourquoi, ce que l'utilisateur peut faire maintenant — sans jargon ni blâme. Étape 1 : Recenser les erreurs réelles et leur cause probable côté utilisateur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de messages d'erreur"
 emoji: "💥"

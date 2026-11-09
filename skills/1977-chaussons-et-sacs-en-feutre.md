@@ -1,6 +1,7 @@
 ---
 num: 1977
 resume: "Des chaussons ou un sac en feutre dense, aux bonnes pointures, avec semelle/anses solides. Étape 1 : Feutrer la forme au bain chaud sur gabarit (pointure + retrait), épaisseur semelle comprise."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chaussons et sacs en feutre"
 emoji: "👜"

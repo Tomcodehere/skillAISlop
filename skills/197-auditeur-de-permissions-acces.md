@@ -1,6 +1,7 @@
 ---
 num: 197
 resume: "auditer qui a accès à quoi dans une organisation (outils, fichiers, systèmes) et corriger les excès d'accès. Étape 1 : Collecter l'inventaire des accès réels (exports d'outils, comptes actifs)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur de permissions & accès"
 emoji: "🔑"

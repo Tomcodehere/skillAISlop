@@ -1,6 +1,7 @@
 ---
 num: 1926
 resume: "Obtenir des collages solides, propres et durables. Étape 1 : Choisir la colle (PVA D2/D3/D4, PU extérieur)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Collage du bois"
 emoji: "🧴"

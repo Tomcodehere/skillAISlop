@@ -1,6 +1,7 @@
 ---
 num: 949
 resume: "faire un bilan factuel de 2026 et poser 3 objectifs SMART max pour 2027, avec revue mensuelle de 30 min. Étape 1 : Bilan 2026 par domaine avec faits et chiffres (travail, santé, finances, relations, apprentissages)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bilan & objectifs (tous domaines)"
 emoji: "🎯"

@@ -1,6 +1,7 @@
 ---
 num: 1991
 resume: "Graver des motifs propres sur bois tendre avec un pyrograveur, en sécurité (ventilation). Étape 1 : Choisir du bois tendre poncé, transférer le motif (papier carbone)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pyrogravure sur bois"
 emoji: "🔥"

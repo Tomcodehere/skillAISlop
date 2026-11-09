@@ -1,6 +1,7 @@
 ---
 num: 414
 resume: "organiser la mobilité interne : passerelles entre postes, compétences transférables, plan de transition et accords des managers. Étape 1 : Cartographier les passerelles entre métiers avec compétences transférables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de mobilité interne"
 emoji: "🚏"

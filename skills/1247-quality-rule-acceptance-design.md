@@ -1,6 +1,7 @@
 ---
 num: 1247
 resume: "Transformer les attentes métier sur une donnée en règles de qualité testables. Étape 1 : Cadrer les inputs : règles métier, population cible, exemples limites et tolérances convenues ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Quality Rule Acceptance Design"
 emoji: "💻"

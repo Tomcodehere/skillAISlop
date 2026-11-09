@@ -1,6 +1,7 @@
 ---
 num: 308
 resume: "diagnostiquer un problème de performance : fuite mémoire, CPU anormal, avec mesures chiffrées et cause racine identifiée. Étape 1 : Reproduire le problème avec une charge mesurable et capturer la baseline."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Profileur mémoire & CPU"
 emoji: "⏲"

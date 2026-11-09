@@ -1,6 +1,7 @@
 ---
 num: 1801
 resume: "Migrer les Ingress vers la Gateway API (GatewayClass/Gateway/HTTPRoute) après le retrait d'ingress-nginx (24 mars), avec routage avancé (path, host, headers, poids, TLS) via NGINX Gateway Fabric, Cilium, Traefik ou Istio. Étape 1 : Installer le contrôleur Gateway (GatewayClass + Gateway dans le namespace infra)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gateway API : remplacer ingress-nginx"
 emoji: "🚪"

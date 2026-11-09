@@ -1,6 +1,7 @@
 ---
 num: 89
 resume: "transformer un incident de production en document sans blâme qui empêche sa récurrence. Étape 1 : Collecter les faits : chronologie, logs, captures, retours des intervenants."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de post-mortems d'incident"
 emoji: "🚨"

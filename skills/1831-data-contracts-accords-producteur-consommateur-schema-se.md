@@ -1,6 +1,7 @@
 ---
 num: 1831
 resume: "Rédiger et versionner des data contracts (schéma, sémantique métier, SLA de fraîcheur/volume, gouvernance) entre producteurs et consommateurs, avec enforcement au pipeline (dbt/GX/Soda). Étape 1 : Définir le contrat : schéma (colonnes, types, nullabilité, clés), sémantique (définition métier de chaque champ), SLA (fraîcheur, complétude, dispo), gouvernance (owner, rétention, PII)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data contracts : accords producteur-consommateur (schéma, sémantique, SLA)"
 emoji: "📝"

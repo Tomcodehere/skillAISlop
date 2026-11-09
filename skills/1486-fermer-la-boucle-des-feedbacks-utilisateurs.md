@@ -1,6 +1,7 @@
 ---
 num: 1486
 resume: "Fermer la boucle des feedbacks en 2027 : accuser réception inférieur à 48 h, trier, répondre aux contributeurs actifs, publier un changelog 'vous avez demandé, on a livré', et mesurer le taux de feedbacks traités. Étape 1 : Centraliser les feedbacks (outil : Canny, Productboard, ou simple tableur)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fermer la boucle des feedbacks utilisateurs"
 emoji: "🔁"

@@ -1,6 +1,7 @@
 ---
 num: 644
 resume: "donner un feedback utile et reçu : fait observé, impact, attente, sans jugement de personne. Étape 1 : Choisir le moment : en privé, rapidement après les faits, dans un état calme."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Feedback constructif"
 emoji: "💬"

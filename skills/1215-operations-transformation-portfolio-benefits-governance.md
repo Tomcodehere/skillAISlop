@@ -1,6 +1,7 @@
 ---
 num: 1215
 resume: "Structurer le portefeuille d'initiatives de transformation des opérations, relier chaque initiative à un résultat métier et définir une gouvernance des bénéfices, dépendances et capacités. Le skill aide la direction à arbitrer le portefeuille sans remplacer le l'agent produit ni le l'agent de planification."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Operations Transformation Portfolio & Benefits Governance"
 emoji: "🎨"

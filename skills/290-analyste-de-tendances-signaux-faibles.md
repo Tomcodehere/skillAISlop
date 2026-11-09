@@ -1,6 +1,7 @@
 ---
 num: 290
 resume: "détecter les signaux faibles d'un marché avant qu'ils ne deviennent des tendances majeures, et en évaluer la pertinence pour sa stratégie. Étape 1 : Scanner les marges : niches, brevets, recrutements, usages détournés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste de tendances & signaux faibles"
 emoji: "🪩"

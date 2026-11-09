@@ -1,6 +1,7 @@
 ---
 num: 1230
 resume: "Créer présentations PowerPoint professionnelles, cohérentes et universellement accessibles via : - Masques/thèmes (cohérence charte graphique) - Animations/transitions subtiles (storytelling visuel) - SmartArt/graphiques (visualisation données) - Exports multi-formats (PDF, vidéo, compatibilité)"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "PowerPoint Design Efficiency"
 emoji: "🎨"

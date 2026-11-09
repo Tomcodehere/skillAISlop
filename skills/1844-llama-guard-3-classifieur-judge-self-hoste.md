@@ -1,6 +1,7 @@
 ---
 num: 1844
 resume: "Self-hoster un classifieur de sécurité LLM avec Llama Guard 3 (Meta, 1B/8B) : labelise input et output (injection, contenu dangereux) en local — pas d'API externe, pas de fuite de données, latence contrôlée. Étape 1 : Déployer Llama Guard 3 8B via vLLM (GPU) ou ollama (CPU, 1B)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Llama Guard 3 : classifieur judge self-hosté"
 emoji: "🦸️"

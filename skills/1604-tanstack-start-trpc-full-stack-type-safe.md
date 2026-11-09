@@ -1,6 +1,7 @@
 ---
 num: 1604
 resume: "Construire une app full-stack type-safe en 2027 avec TanStack Start + tRPC : procédures typées appelées comme des fonctions (pas d'URL/JSON à parser), validation zod partagée, autocomplétion de bout en bout. Étape 1 : Initialiser TanStack Start, installer @trpc/server + @trpc/client + @tanstack/react-query."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "TanStack Start + tRPC : full-stack type-safe"
 emoji: "🔐"

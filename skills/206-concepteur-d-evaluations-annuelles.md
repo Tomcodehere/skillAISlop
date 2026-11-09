@@ -1,6 +1,7 @@
 ---
 num: 206
 resume: "concevoir un processus d'évaluation annuelle juste, utile et sans surprise : critères, trame, conduite de l'entretien. Étape 1 : Définir critères, échelles et liens avec les objectifs et fiches de poste."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur d'évaluations annuelles"
 emoji: "📏"

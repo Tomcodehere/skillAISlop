@@ -1,6 +1,7 @@
 ---
 num: 349
 resume: "couvrir les données de tests automatisés : unicité, non-null, valeurs admises, bornes et cohérence entre tables, exécutés à chaque exécution. Étape 1 : Extraire les invariants métier et les traduire en assertions classées par gravité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Contrôleur de tests de données"
 emoji: "🌮"

@@ -1,6 +1,7 @@
 ---
 num: 1949
 resume: "Une finition vernie lisse et résistante, appliquée proprement et en sécurité. Étape 1 : Préparer : ponçage 240, dépoussiérage, masquage des zones à protéger."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vernis au pistolet (HVLP)"
 emoji: "💨"

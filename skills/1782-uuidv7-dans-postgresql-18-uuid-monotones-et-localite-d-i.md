@@ -1,6 +1,7 @@
 ---
 num: 1782
 resume: "Utiliser uuidv7() (timestamp ms + aléatoire) à la place de uuidv4() pour les PK des nouvelles tables : insertions monotones en fin d'index B-tree, moins de page splits, index plus compacts et rapides. Étape 1 : Creer la table avec id uuid PRIMARY KEY DEFAULT uuidv7()."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "uuidv7 dans PostgreSQL 18 : UUID monotones et localité d'index"
 emoji: "🔑"

@@ -1,6 +1,7 @@
 ---
 num: 311
 resume: "rédiger les conventions de code d'une équipe : nommage, structure, style, revue — courtes, appliquées et maintenues. Étape 1 : Extraire les régularités du code existant et lister les points de désaccord."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de conventions de code d'équipe"
 emoji: "🌌"

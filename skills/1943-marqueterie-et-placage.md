@@ -1,6 +1,7 @@
 ---
 num: 1943
 resume: "Placer des placages propres et des motifs de marqueterie sans décollement. Étape 1 : Préparer le support (plan, dégraissé) et découper le placage (+2 cm de marge)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Marqueterie et placage"
 emoji: "🖼️"

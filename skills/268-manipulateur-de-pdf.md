@@ -1,6 +1,7 @@
 ---
 num: 268
 resume: "effectuer des opérations concrètes sur des PDF : extraction de tableaux et formulaires, fusion, découpage, annotation et compression. Étape 1 : Diagnostiquer le fichier : texte natif ou scanné, structure, protection éventuelle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Manipulateur de PDF"
 emoji: "✂️"

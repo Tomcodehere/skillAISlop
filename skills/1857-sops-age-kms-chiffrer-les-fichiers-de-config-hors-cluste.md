@@ -1,6 +1,7 @@
 ---
 num: 1857
 resume: "Chiffrer les fichiers de config (YAML, .env) hors cluster avec SOPS + age/KMS : valeurs chiffrées dans Git, déchiffrement local ou en CI (OIDC) — pre-commit pour bloquer les fuites. Étape 1 : Clé : age-keygen (clé privée dans Vault 1852/coffre) ou KMS (aws:kms arn)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SOPS + age/KMS : chiffrer les fichiers de config hors cluster"
 emoji: "🗝️"

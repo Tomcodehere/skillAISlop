@@ -1,6 +1,7 @@
 ---
 num: 988
 resume: "préparer une expédition vélo de plusieurs jours en 2027 (EuroVélo, itinéraire libre) : vélo adapté, sacoches, mécanique de base, hébergement, itinéraire. Étape 1 : Itinéraire EuroVélo balisé, 50-80 km/j ; vélo vérifié (freins, pneus tubeless), sacoches imperméables, répartition du poids."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer une expédition vélo (cyclotourisme)"
 emoji: "🚴"

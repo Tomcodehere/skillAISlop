@@ -1,6 +1,7 @@
 ---
 num: 1410
 resume: "Appliquer la méthode 12-factor à la configuration en 2027 : zero config dans le code, variables d'environnement par environnement, .env.example versionné, secrets jamais committés. Étape 1 : Sortir toute la config du code vers les variables d'environnement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Configuration par environnement (12-factor)"
 emoji: "⚙️"

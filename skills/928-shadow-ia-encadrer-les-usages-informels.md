@@ -1,6 +1,7 @@
 ---
 num: 928
 resume: "détecter et encadrer le shadow IA (outils IA utilisés par les salariés sans validation) : inventaire, politique claire, outils validés, prévention des fuites de données. Étape 1 : Détecter : sondage anonyme, logs proxy/réseau, inventaire des comptes SaaS utilisés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Shadow IA : encadrer les usages informels"
 emoji: "🌑"

@@ -1,6 +1,7 @@
 ---
 num: 389
 resume: "évaluer le premier rendu d'un contenu : ce qu'un lecteur comprend, retient et croit devoir faire après 5 secondes. Étape 1 : Isoler le premier écran réel (titre, accroche, visuel) sans le reste."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Testeur de contenu en 5 secondes"
 emoji: "👀"

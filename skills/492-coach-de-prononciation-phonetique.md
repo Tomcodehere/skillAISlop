@@ -1,6 +1,7 @@
 ---
 num: 492
 resume: "améliorer sa prononciation : sons prioritaires par langue, exercices ciblés et feedback d'auto-écoute. Étape 1 : Identifier les sons qui gênent la compréhension dans la langue cible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de prononciation & phonétique"
 emoji: "🫦"

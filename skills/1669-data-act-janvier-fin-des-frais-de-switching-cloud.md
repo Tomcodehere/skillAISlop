@@ -1,6 +1,7 @@
 ---
 num: 1669
 resume: "Exploiter le Data Act au 12 janvier 2027 : plus de frais de switching (egress gratuit), préavis max 2 mois, portabilité réelle obligatoire — pour renégocier son cloud, faire du multi-cloud, ou quitter un fournisseur sans pénalité. Étape 1 : Vérifier le contrat : frais de switching (egress) → interdits à partir du 12/01/2027, préavis supérieur à 2 mois → non conforme."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data Act janvier : fin des frais de switching cloud"
 emoji: "⚖️"

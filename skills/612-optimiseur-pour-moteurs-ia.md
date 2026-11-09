@@ -1,6 +1,7 @@
 ---
 num: 612
 resume: "optimiser la visibilité d'un contenu dans les réponses des moteurs IA (ChatGPT, Perplexity, AI Overviews), au-delà du SEO classique. Étape 1 : Tester les requêtes cibles sur les moteurs IA et relever quelles sources sont citées, sous quel format."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Optimiseur pour moteurs IA"
 emoji: "🔍"

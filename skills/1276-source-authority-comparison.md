@@ -1,6 +1,7 @@
 ---
 num: 1276
 resume: "Comparer des sources générales selon autorité, actualité et proximité avec le fait recherché. Étape 1 : Cadrer les inputs : question générale, sources publiques autorisées, dates et critères ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Source Authority Comparison"
 emoji: "🔬"

@@ -1,6 +1,7 @@
 ---
 num: 1890
 resume: "Combiner revue IA (résumé de PR, détection bugs/risques 1826 — Copilot 1741) et revue humaine ciblée (logique métier, sécurité, cas limites) avec une checklist (1401) et un SLA de revue inférieur à 4 h. Étape 1 : IA en premier : résumé de la PR + flags (bugs probables, risques sécu 1826, tests manquants 1885)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Revue de code assistée par IA + revue humaine ciblée"
 emoji: "🤖"

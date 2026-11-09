@@ -1,6 +1,7 @@
 ---
 num: 1141
 resume: "Produire un livrable maîtrisé : dossier de composition thématique (thèmes, leitmotivs, harmonie, orchestration) avec partition ou maquette audio originale et fiche tempo/tonalité. Étape 1 : Cadrer les inputs : brief de direction musicale, contraintes techniques, palette instrumentale ; vérifier les préconditions, les licences et les autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Game Music Composition & Themes"
 emoji: "🧠"

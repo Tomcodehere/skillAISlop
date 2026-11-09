@@ -1,6 +1,7 @@
 ---
 num: 1297
 resume: "Formuler des user stories centrées sur un résultat utilisateur et des critères d'acceptation observables afin de rendre le périmètre compréhensible et vérifiable. Étape 1 : Vérifier le rôle utilisateur et le bénéfice attendu à partir du besoin source."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "User Stories & Acceptance Criteria"
 emoji: "📦"

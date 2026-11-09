@@ -1,6 +1,7 @@
 ---
 num: 1693
 resume: "Structurer son contenu en 2027 pour être cité par les LLM (AEO) : réponse directe en 2-3 phrases en tête, FAQ schema.org, E-E-A-T visible (auteur, date, sources 1436), structure sémantique claire, données chiffrées sourcées — puis mesurer les citations (1692). Étape 1 : Réécrire l'intro de chaque page cible : réponse directe à la question en 2-3 phrases (40-60 mots), puis le détail."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AEO : structurer son contenu pour être cité par les LLM"
 emoji: "📝"

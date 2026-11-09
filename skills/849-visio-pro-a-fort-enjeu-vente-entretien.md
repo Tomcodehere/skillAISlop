@@ -1,6 +1,7 @@
 ---
 num: 849
 resume: "réussir une visioconférence à fort enjeu : technique testée, fond/éclairage, regard caméra, structure de parole claire, plan B. Étape 1 : Veille : test technique complet + lien secours ; fond neutre éclairé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Visio pro à fort enjeu (vente, entretien)"
 emoji: "🎥"

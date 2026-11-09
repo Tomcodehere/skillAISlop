@@ -1,6 +1,7 @@
 ---
 num: 525
 resume: "accompagner le développement d'une application mobile : stack adaptée, prototype et chemin vers les stores. Étape 1 : Choisir la stack et le périmètre du prototype."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach dev mobile"
 emoji: "📱"

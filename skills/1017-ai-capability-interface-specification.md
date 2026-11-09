@@ -1,6 +1,7 @@
 ---
 num: 1017
 resume: "Spécifier le contrat d'une capacité IA exposée au reste du système. Étape 1 : Cadrer les inputs : entrées, sorties, contraintes, erreurs et exigences de supervision ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI Capability Interface Specification"
 emoji: "🎨"

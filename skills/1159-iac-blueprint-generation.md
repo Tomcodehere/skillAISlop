@@ -1,6 +1,7 @@
 ---
 num: 1159
 resume: "Générer des squelettes d'Infrastructure as Code (Terraform, Bicep, CloudFormation) alignés sur une architecture validée, paramétrables et documentés. Étape 1 : Traduire l'architecture cible en modules IaC."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "IaC Blueprint Generation"
 emoji: "💻"

@@ -1,6 +1,7 @@
 ---
 num: 396
 resume: "écrire une quatrième de couverture qui donne envie d'ouvrir : promesse claire, audience identifiée, tension et preuve courte. Étape 1 : Identifier la promesse, l'audience et le registre du livre."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de quatrièmes de couverture"
 emoji: "🍍"

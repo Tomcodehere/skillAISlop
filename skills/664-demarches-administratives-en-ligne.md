@@ -1,6 +1,7 @@
 ---
 num: 664
 resume: "réaliser ses démarches administratives en ligne : créer ses comptes, retrouver ses justificatifs, suivre ses demandes. Étape 1 : Créer les comptes de base : FranceConnect, impots.gouv, ameli, CAF, avec mot de passe unique et double authentification."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Démarches administratives en ligne"
 emoji: "🖥️"

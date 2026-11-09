@@ -1,6 +1,7 @@
 ---
 num: 711
 resume: "comprendre et mettre en place le protocole A2A : Agent Cards, délégation de tâches entre agents hétérogènes. Étape 1 : Comprendre la différence MCP (outils) vs A2A (agents) et quand chacun s'applique."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "A2A & communication agent-à-agent"
 emoji: "🔗"

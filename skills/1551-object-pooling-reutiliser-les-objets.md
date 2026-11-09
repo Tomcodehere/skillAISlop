@@ -1,6 +1,7 @@
 ---
 num: 1551
 resume: "Implémenter un object pool en 2027 : pré-allouer N objets (balles, ennemis, particules, textes flottants), Get() prend un inactif (ou en crée un si pool vide + cap), Release() le rend inactif pour réutilisation — zéro allocation en steady state. Étape 1 : Poolinférieur àTsupérieur à : Listinférieur àTsupérieur à actifs, Stackinférieur àTsupérieur à inactifs; prewarm : instancier N, désactiver."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Object pooling : reutiliser les objets"
 emoji: "♻️"

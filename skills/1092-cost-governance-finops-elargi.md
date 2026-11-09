@@ -1,6 +1,7 @@
 ---
 num: 1092
 resume: "Piloter les couts IA/data de facon continue et previsible. Étape 1 : Etablir baseline de couts."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cost Governance (FinOps elargi)"
 emoji: "🤖"

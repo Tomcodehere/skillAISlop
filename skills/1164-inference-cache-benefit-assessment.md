@@ -1,6 +1,7 @@
 ---
 num: 1164
 resume: "Évaluer si un cache d'inférence apporte un gain sans réutiliser des réponses inadéquates. Étape 1 : Cadrer les inputs : distribution des requêtes, taux de répétition, fraîcheur et isolation des données ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Inference Cache Benefit Assessment"
 emoji: "🧠"

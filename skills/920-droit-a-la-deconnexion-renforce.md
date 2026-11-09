@@ -1,6 +1,7 @@
 ---
 num: 920
 resume: "faire respecter le droit à la déconnexion (obligation légale employeur depuis 2017, renforcée dans les accords 2027) : charte, paramètres, limites claires. Étape 1 : Charte de déconnexion négociée (plages de non-disponibilité, ex. 20 h-8 h et week-ends)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Droit à la déconnexion renforcé"
 emoji: "🔌"

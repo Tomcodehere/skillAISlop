@@ -1,6 +1,7 @@
 ---
 num: 1448
 resume: "Déployer une messagerie E2EE en 2027 (Signal, Proton, Element/Matrix) : chiffrement de bout en bout vérifié (clés publiques comparées en personne), gestion des appareils liés, groupes sécurisés. Étape 1 : Choisir l'outil selon le besoin (Signal perso/équipe, Proton mail pro UE, Matrix entreprise)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Messagerie chiffree de bout en bout (E2EE)"
 emoji: "🔒"

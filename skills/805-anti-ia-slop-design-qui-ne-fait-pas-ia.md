@@ -1,6 +1,7 @@
 ---
 num: 805
 resume: "produire des designs qui ne ressemblent pas au « slop IA » générique : thèmes assumés, typographie travaillée, références humaines d'abord. Étape 1 : Récolter 3-5 références humaines fortes (sites primés) et en extraire ce qui fait leur identité avant de générer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Anti-« IA slop » : design qui ne fait pas IA"
 emoji: "🎨"

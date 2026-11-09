@@ -1,6 +1,7 @@
 ---
 num: 248
 resume: "diagnostiquer un déséquilibre de charge et reconstruire un équilibre réaliste : frontières, priorités, récupération. Étape 1 : Diagnostiquer par les faits : temps, récupération, signaux d'usure et frontières poreuses."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gardien de l'équilibre pro-perso"
 emoji: "☯️"

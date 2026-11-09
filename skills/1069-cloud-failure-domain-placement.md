@@ -1,6 +1,7 @@
 ---
 num: 1069
 resume: "Répartir les composants cloud selon les pannes qu'ils doivent tolérer. Étape 1 : Cadrer les inputs : objectifs de disponibilité, services, régions/zones et dépendances ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cloud Failure-Domain Placement"
 emoji: "📋"

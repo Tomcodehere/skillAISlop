@@ -1,6 +1,7 @@
 ---
 num: 1928
 resume: "Redonner vie à un meuble ancien en respectant son époque et sa valeur. Étape 1 : Diagnostiquer (ne pas décaper un meuble de valeur au placage fragile)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Restaurer un meuble ancien"
 emoji: "🪑"

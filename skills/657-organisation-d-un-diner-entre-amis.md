@@ -1,6 +1,7 @@
 ---
 num: 657
 resume: "organiser un repas convivial : invitations, menu adapté aux régimes, vins et budget maîtrisé. Étape 1 : Cadrer : nombre d'invités, contraintes alimentaires, budget, thème éventuel, qui apporte quoi."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Organisation d'un dîner entre amis"
 emoji: "🍷"

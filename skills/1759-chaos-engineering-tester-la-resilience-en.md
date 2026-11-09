@@ -1,6 +1,7 @@
 ---
 num: 1759
 resume: "Faire du chaos engineering en 2027 (principe Netflix) : expériences contrôlées en prod (tuer un pod, latence réseau, panne AZ) avec hypothèse ('le système tient'), blast radius limité (5 %, canary 1418), abort auto si SLO brûlé (1751/1757). Outils : Litmus, Chaos Mesh, Gremlin. Étape 1 : Hypothèse écrite avant : 'si on tue 1 pod sur 10, la p99 reste sous 500 ms et 0 erreur client'."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chaos engineering : tester la résilience en"
 emoji: "🌪️"

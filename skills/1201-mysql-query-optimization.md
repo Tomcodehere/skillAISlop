@@ -1,6 +1,7 @@
 ---
 num: 1201
 resume: "Ameliorer durablement les performances de requetes MySQL. Étape 1 : Identifier top requetes couteuses."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "MySQL Query Optimization"
 emoji: "💻"

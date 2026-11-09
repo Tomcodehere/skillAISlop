@@ -1,6 +1,7 @@
 ---
 num: 1897
 resume: "Préparer la réponse aux incidents : retainer IR pré-contracté (24/7), playbooks par scénario (ransomware, fuite RGPD 1839, cloud, DDoS), rôles de crise (1758), forensics (SIEM 1453), comms CNIL 72 h — testé en tabletop (1769) et exercice live annuel. Étape 1 : Retainer : contrat-cadre (disponibilité 4 h, tarifs, NDA), contacts 24/7 testés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Incident response : retainer, forensics, playbooks, crise"
 emoji: "🚨"

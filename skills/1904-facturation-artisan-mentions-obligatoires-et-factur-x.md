@@ -1,6 +1,7 @@
 ---
 num: 1904
 resume: "Émettre des factures conformes (mentions + Factur-X) et calculer son coût de revient réel pour rester rentable. Étape 1 : Choisir un logiciel émettant Factur-X (conformité progressive 2026-2027)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Facturation artisan : mentions obligatoires et Factur-X"
 emoji: "🧾"

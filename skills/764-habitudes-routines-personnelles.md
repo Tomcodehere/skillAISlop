@@ -1,6 +1,7 @@
 ---
 num: 764
 resume: "installer une habitude durable grâce à l'ancrage (habit stacking) et un suivi simple, pas à la volonté. Étape 1 : Choisir UNE habitude minuscule (2 min) et l'ancrer à un moment existant de la journée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Habitudes & routines personnelles"
 emoji: "🔄"

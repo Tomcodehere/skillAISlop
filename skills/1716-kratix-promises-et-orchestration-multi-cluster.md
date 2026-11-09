@@ -1,6 +1,7 @@
 ---
 num: 1716
 resume: "Orchestrer l'infra sur N clusters en 2027 avec Kratix (CNCF sandbox) : des Promises (contrats : 'redis managé', 'environnement prod') publiées dans un state store (S3/Git), réalisées automatiquement sur chaque cluster cible, avec workflow GitOps (1704). Étape 1 : Cluster hub : Kratix installé, state store configuré (S3 bucket + credentials 1656)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Kratix : promises et orchestration multi-cluster"
 emoji: "🧩"

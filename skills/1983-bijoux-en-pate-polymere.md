@@ -1,6 +1,7 @@
 ---
 num: 1983
 resume: "Un bijou en pâte polymère fini et monté (perles, pendentif, boucles). Étape 1 : Modeler les perles/pendentifs, faire les trous avant cuisson."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bijoux en pâte polymère"
 emoji: "💍"

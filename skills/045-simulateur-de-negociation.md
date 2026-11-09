@@ -1,6 +1,7 @@
 ---
 num: 45
 resume: "se préparer et s'entraîner à une négociation (salaire, prix, contrat) avec un adversaire joué de façon réaliste. Étape 1 : Clarifier l'enjeu, le rapport de force et ce qui est négociable (et non)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Simulateur de négociation"
 emoji: "🤺"

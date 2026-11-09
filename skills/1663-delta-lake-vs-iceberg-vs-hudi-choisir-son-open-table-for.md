@@ -1,6 +1,7 @@
 ---
 num: 1663
 resume: "Choisir son open table format en 2027 (Delta Lake vs Iceberg vs Hudi) selon le moteur principal, le mode (batch vs streaming/upserts), la conformité (1662), et l'écosystème — avec un POC sur les requêtes réelles. Étape 1 : Lister les besoins : moteurs utilisés, batch vs streaming, upserts fréquents (CDC), conformité RGPD (effacement 1662)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Delta Lake vs Iceberg vs Hudi : choisir son open table format"
 emoji: "⚖️"

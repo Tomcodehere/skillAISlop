@@ -1,6 +1,7 @@
 ---
 num: 1785
 resume: "Concevoir des tables temporelles PG18 (PERIOD FOR SYSTEM_TIME, PK WITHOUT OVERLAPS) pour historiser automatiquement prix/statuts/salaires avec leurs périodes de validité, et requêter l'état à une date donnée. Étape 1 : Modeliser : id + periode tstzrange, PERIOD FOR SYSTEM_TIME (periode), PK (id, periode) WITHOUT OVERLAPS."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tables temporelles PG18 : contraintes WITHOUT OVERLAPS"
 emoji: "⏳"

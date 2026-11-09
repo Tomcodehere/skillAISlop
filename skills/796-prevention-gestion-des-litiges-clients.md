@@ -1,6 +1,7 @@
 ---
 num: 796
 resume: "désamorcer un litige client rapidement et garder la relation : écouter, réparer, compenser, prévenir la récidive. Étape 1 : Répondre vite, écouter sans défendre, reconnaître le fait et s'excuser sincèrement si justifié."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prévention & gestion des litiges clients"
 emoji: "🤝"

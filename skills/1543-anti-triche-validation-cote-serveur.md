@@ -1,6 +1,7 @@
 ---
 num: 1543
 resume: "Protéger un jeu multijoueur en 2027 : serveur autorité (le client envoie des inputs, le serveur calcule positions/dégâts/scores), détection d'anomalies (vitesse/dégâts impossibles, wallhack), ban progressif (warn → shadowban → ban), logs pour revue. Étape 1 : Autorité serveur : le client envoie ses inputs (avancer, tirer), le serveur simule et renvoie l'état; le client n'envoie jamais sa position."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Anti-triche : validation cote serveur"
 emoji: "🛡"

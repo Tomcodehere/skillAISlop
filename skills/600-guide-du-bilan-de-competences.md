@@ -1,6 +1,7 @@
 ---
 num: 600
 resume: "conduire un bilan de compétences structuré : inventaire des réalisations, motivations réelles et projet professionnel actionnable. Étape 1 : Inventorier réalisations, retours et moments d'énergie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide du bilan de compétences"
 emoji: "🧭"

@@ -1,6 +1,7 @@
 ---
 num: 168
 resume: "produire une réponse structurée et conforme à un appel d'offres public ou privé, dans le temps imparti. Étape 1 : Décortiquer le dossier : critères, pièces exigées, calendrier, zones à fort enjeu."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Répondant aux appels d'offres (AAPA)"
 emoji: "📤"

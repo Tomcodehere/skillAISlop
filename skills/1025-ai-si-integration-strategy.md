@@ -1,6 +1,7 @@
 ---
 num: 1025
 resume: "AI-SI Integration Strategy Étape 1 : Cartographier les composants, flux, systèmes sources/cibles et dépendances."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI-SI Integration Strategy"
 emoji: "📋"

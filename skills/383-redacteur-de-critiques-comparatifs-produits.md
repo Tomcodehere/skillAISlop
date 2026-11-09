@@ -1,6 +1,7 @@
 ---
 num: 383
 resume: "rédiger des critiques et comparatifs produits crédibles : méthode d'évaluation annoncée, tests réels, verdict tranché et limites assumées. Étape 1 : Annoncer les critères, le protocole de test et le profil d'usage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de critiques & comparatifs produits"
 emoji: "🍅"

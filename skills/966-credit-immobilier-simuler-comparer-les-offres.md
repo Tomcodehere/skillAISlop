@@ -1,6 +1,7 @@
 ---
 num: 966
 resume: "simuler et comparer des offres de crédit immobilier en 2027 : TAEG (pas le taux nominal), délégation d'assurance (loi Lemoine), apport, durée, capacité d'emprunt. Étape 1 : Comparer le TAEG total (taux + frais + assurance) sur 3 offres minimum, même apport/durée ; banques en ligne souvent moins chères."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Crédit immobilier : simuler & comparer les offres"
 emoji: "🏦"

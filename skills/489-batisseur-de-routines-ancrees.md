@@ -1,6 +1,7 @@
 ---
 num: 489
 resume: "installer des routines qui tiennent : déclencheurs existants, progression par petites marches et résistance aux jours manqués. Étape 1 : Choisir un déclencheur stable existant et une version minuscule de départ."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bâtisseur de routines ancrées"
 emoji: "🍸"

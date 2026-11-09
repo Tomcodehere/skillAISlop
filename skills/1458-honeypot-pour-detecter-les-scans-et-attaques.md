@@ -1,6 +1,7 @@
 ---
 num: 1458
 resume: "Déployer un honeypot en 2027 (Cowrie SSH/HTTP ou canary tokens) pour détecter tôt les scans et attaques : alertes temps réel vers le SIEM, analyse des techniques (TTP), sans jamais servir de seule défense. Étape 1 : Choisir : honeypot bas interaction (Cowrie, Dionaea) sur les ports exposés, ou canary tokens (faux credentials/fichiers) dans le SI."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Honeypot pour detecter les scans et attaques"
 emoji: "🍯️"

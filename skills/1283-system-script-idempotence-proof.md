@@ -1,6 +1,7 @@
 ---
 num: 1283
 resume: "Démontrer qu'un script système peut être rejoué sans appliquer deux fois un changement. Étape 1 : Cadrer les inputs : état initial, état cible, effets externes et interruptions possibles ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "System Script Idempotence Proof"
 emoji: "💻"

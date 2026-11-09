@@ -1,6 +1,7 @@
 ---
 num: 1974
 resume: "Une figurine kawaii finie, avec proportions mignonnes et détails soignés. Étape 1 : Former le cœur (tête grosse + corps) en cardée (voir 1973)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Feutrage kawaii et figurines 3D"
 emoji: "🐻"

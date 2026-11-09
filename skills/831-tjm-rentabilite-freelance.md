@@ -1,6 +1,7 @@
 ---
 num: 831
 resume: "calculer un TJM qui couvre charges, impôts, congés et dégage un revenu cible, puis suivre la rentabilité réelle mission par mission. Étape 1 : TJM = (revenu cible + charges ~45 % + impôts + congés + frais) / ~160 jours facturables réels."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "TJM & rentabilité freelance"
 emoji: "💻"

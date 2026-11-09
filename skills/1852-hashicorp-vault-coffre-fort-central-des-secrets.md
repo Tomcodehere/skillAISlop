@@ -1,6 +1,7 @@
 ---
 num: 1852
 resume: "Déployer Vault (HA Raft, unseal auto KMS) comme coffre-fort central : stockage chiffré, audit de chaque accès, policies granulaires, auth AppRole/Kubernetes JWT/OIDC. Étape 1 : Déployer Vault HA : raft storage, 3 replicas, TLS, auto-unseal via KMS (aws/azure/gcp)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "HashiCorp Vault : coffre-fort central des secrets"
 emoji: "🏦"

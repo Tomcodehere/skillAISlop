@@ -1,6 +1,7 @@
 ---
 num: 1456
 resume: "Sécuriser une app mobile en 2027 : certificate pinning (bloquer les MITM), secrets dans le Keychain/Keystore (jamais en clair), détection root/jailbreak, et blocage des versions obsolètes. Étape 1 : Implémenter le certificate pinning sur les domaines API (empreintes SHA-256)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Securiser une app mobile (pinning, stockage)"
 emoji: "📱"

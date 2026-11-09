@@ -1,6 +1,7 @@
 ---
 num: 614
 resume: "donner un verdict READY / NOT READY avant chaque mise en production, à partir d'une checklist de vérifications. Étape 1 : Rassembler les faits du déploiement : version exacte, périmètre des changements, migrations, flags, rollback."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Contrôleur pré-déploiement"
 emoji: "🛫"

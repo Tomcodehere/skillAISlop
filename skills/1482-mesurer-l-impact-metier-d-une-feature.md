@@ -1,6 +1,7 @@
 ---
 num: 1482
 resume: "Mesurer l'impact réel d'une feature en 2027 : groupe témoin vs exposé (flag 304), métrique d'impact métier (pas juste clics), 2-4 semaines de mesure, significativité statistique, décision ship/kill/iterate documentée. Étape 1 : Activer le flag 50/50 (hash stable par user pour éviter le biais)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Mesurer l'impact metier d'une feature"
 emoji: "📏"

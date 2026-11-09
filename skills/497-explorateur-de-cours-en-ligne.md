@@ -1,6 +1,7 @@
 ---
 num: 497
 resume: "choisir des cours en ligne qui font progresser : besoins précis, filtres de qualité, échantillon testé et engagement calibré. Étape 1 : Définir l'objectif observable, le niveau de départ et le livrable final."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Explorateur de cours en ligne"
 emoji: "🍼"

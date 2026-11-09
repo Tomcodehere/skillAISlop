@@ -1,6 +1,7 @@
 ---
 num: 819
 resume: "mettre un agent en production avec des garde-fous actifs : evals continues, détection de dérive, alertes, rollback. Étape 1 : Guardrails : filtrage entrées/sorties, pas d'exécution de contenu externe, seuils de qualité et de coût."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guardrails & evals live en production"
 emoji: "🛡️"

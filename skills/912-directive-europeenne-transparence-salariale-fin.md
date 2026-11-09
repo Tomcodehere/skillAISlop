@@ -1,6 +1,7 @@
 ---
 num: 912
 resume: "préparer l'entreprise à la directive européenne sur la transparence des rémunérations (application fin 2027 en France) : fourchettes dans les offres, interdiction d'historique salarial, rapport d'écart H/F. Étape 1 : Grilles salariales à jour, justifiées par poste/niveau ; fourchette affichée dans chaque offre d'emploi."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Directive européenne transparence salariale (fin)"
 emoji: "💶"

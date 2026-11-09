@@ -1,6 +1,7 @@
 ---
 num: 1929
 resume: "Une étagère solide, de niveau et bien fixée, avec la charge adaptée au mur. Étape 1 : Découper et finir le plateau (voir 1935/1927)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fabriquer une étagère murale"
 emoji: "📚"

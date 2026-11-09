@@ -1,6 +1,7 @@
 ---
 num: 1969
 resume: "3-4 petits objets finis rapidement (tote bag, coussin, tablier) pour prendre confiance. Étape 1 : Tote bag : découper, ourlet haut, coudre côtés endroit contre endroit, retourner, surfiler."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Projets couture débutant (tote bag, coussin, tablier)"
 emoji: "👜"

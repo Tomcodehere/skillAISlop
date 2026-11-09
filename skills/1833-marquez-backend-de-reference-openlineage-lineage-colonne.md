@@ -1,6 +1,7 @@
 ---
 num: 1833
 resume: "Déployer Marquez (backend de référence OpenLineage) : stocker et visualiser les événements de lineage, colonne par colonne, avec analyse d'impact (qui est affecté par un changement). Étape 1 : Déployer Marquez : Postgres + marquez (API 5002) + marquez-web (UI 3000), via docker/helm."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Marquez : backend de référence OpenLineage (lineage colonne, impact analysis)"
 emoji: "🌊"

@@ -1,6 +1,7 @@
 ---
 num: 1672
 resume: "Choisir sa stack de streaming en 2027 : Flink (référence, stateful, exactement-once 1464), RisingWave (vues matérialisées en SQL, compatible Postgres, simple), Bytewax (dataflow Python) — selon équipe SQL/Python, latence et état. Étape 1 : Flink : job stateful (windowing, joins de streams, exactly-once via checkpoints), déploiement k8s (1412)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Streaming -27 : Flink vs RisingWave vs Bytewax"
 emoji: "⏩"

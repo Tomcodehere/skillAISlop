@@ -1,6 +1,7 @@
 ---
 num: 863
 resume: "organiser un événement familial (baptême, mariage, anniversaire) dans un budget maîtrisé : liste, prestataires, timing, invitations. Étape 1 : Budget total + répartition par poste (salle, traiteur, déco, photo) + marge 10 % imprévu."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un baptême / mariage / fête familiale"
 emoji: "🎉"

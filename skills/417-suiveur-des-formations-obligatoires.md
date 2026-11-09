@@ -1,6 +1,7 @@
 ---
 num: 417
 resume: "piloter le suivi des formations obligatoires : registre à jour, échéances anticipées, relances graduées et preuve en cas de contrôle. Étape 1 : Construire le registre par personne et obligation avec dates de validité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Suiveur des formations obligatoires"
 emoji: "🍙"

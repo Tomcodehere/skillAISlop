@@ -1,6 +1,7 @@
 ---
 num: 603
 resume: "détecter les régressions visuelles d'une interface en comparant des captures de référence à l'état actuel. Étape 1 : Établir la liste des captures de référence par page et par taille d'écran."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Testeur de régressions visuelles"
 emoji: "🖼️"

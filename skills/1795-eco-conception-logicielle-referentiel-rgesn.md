@@ -1,6 +1,7 @@
 ---
 num: 1795
 resume: "Concevoir des services numériques sobres en 2027 selon le RGESN (79 critères DINUM/ARCEP/ADEME) et la loi REEN : sobriété fonctionnelle, allègement des ressources, performance front, hébergement bas carbone. Étape 1 : Audit RGESN du service (ou spec du nouveau) : 79 critères, score par famille."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Éco-conception logicielle : référentiel RGESN"
 emoji: "🌱"

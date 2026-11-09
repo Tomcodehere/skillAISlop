@@ -1,6 +1,7 @@
 ---
 num: 469
 resume: "remettre de l'ordre dans une boîte email : règles automatiques graduées, newsletters maîtrisées et rituel de maintenance. Étape 1 : Auditer le flux réel : volumes, catégories, expéditeurs critiques."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Régleur de filtres & règles email"
 emoji: "🍮"

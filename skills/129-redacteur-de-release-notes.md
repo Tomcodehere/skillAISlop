@@ -1,6 +1,7 @@
 ---
 num: 129
 resume: "rédiger des notes de version que les utilisateurs lisent : ce qui change, pourquoi ça leur est utile. Étape 1 : Collecter les changements de la version (commits, tickets) et trier par impact utilisateur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de release notes"
 emoji: "🔖"

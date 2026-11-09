@@ -1,6 +1,7 @@
 ---
 num: 1471
 resume: "Déployer un LLM en API interne en 2027 avec vLLM (continuous batching, PagedAttention, quantization) : endpoint compatible OpenAI (/v1/chat/completions), monitoring GPU (latence, throughput, KV cache), et règles de coût. Étape 1 : Choisir le modèle (licence Apache/Mistral, taille vs VRAM) et la quantization (AWQ/GPTQ si besoin)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Servir un LLM en API interne avec vLLM"
 emoji: "⚡"

@@ -1,6 +1,7 @@
 ---
 num: 1536
 resume: "Concevoir un craft en 2027 : recettes (matériaux → objet) par station (forge, alchimie), maîtrise du joueur (chance de bonus de stats), démontage (50 % des matériaux récupérés), interface de craft avec aperçu du résultat. Étape 1 : Recette {station, matériaux: {fer: 3, bois: 1}, résultat: épée_fer, temps: 5 s}."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Crafting : recettes, materiaux et forge"
 emoji: "🔨"

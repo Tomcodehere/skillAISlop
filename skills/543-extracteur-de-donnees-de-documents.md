@@ -1,6 +1,7 @@
 ---
 num: 543
 resume: "extraire des données fiables de documents (PDF, scans, reçus, factures) vers des tableaux exploitables, avec contrôle qualité. Étape 1 : Analyser le lot et repérer le modèle commun des documents."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Extracteur de données de documents"
 emoji: "🧾"

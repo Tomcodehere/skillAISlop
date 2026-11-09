@@ -1,6 +1,7 @@
 ---
 num: 1268
 resume: "Construire une interface HTML/CSS qui reste utilisable quand largeur, zoom ou contenu changent. Étape 1 : Cadrer les inputs : structure sémantique, design cible, breakpoints utiles et contenus longs ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Semantic CSS Responsive Implementation"
 emoji: "💻"

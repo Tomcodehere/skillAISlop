@@ -5175,6 +5175,22 @@ TESTS_ROUTAGE = [
     ("organiser atelier loisirs créatifs rangement lumière budget temps", 2000),
 ]
 
+# Tests EN (pilote multilingue) : routés avec lang="en" sur les sidecars .en.md
+TESTS_ROUTAGE_EN = [
+    ("how do I write an SEO blog post", 1),
+    ("rewrite this text in a different tone", 2),
+    ("write an advertising headline that converts", 3),
+    ("write a professional email to decline politely", 4),
+    ("summarize a long document in 5 bullet points", 5),
+    ("run a structured brainstorming session", 6),
+    ("translate this text professionally", 7),
+    ("proofread and correct my text", 8),
+    ("generate commented code", 9),
+    ("review and debug my code", 10),
+    ("which skill should I use for this", 0),
+]
+
+
 # ---------------------------------------------------------------------------
 # Outils communs
 # ---------------------------------------------------------------------------
@@ -5393,6 +5409,42 @@ def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
     return struct.pack(f"{dim}f", *(x / n for x in v))
 
 
+def _lang_sidecars(sk_dir: Path) -> dict[str, dict[int, dict]]:
+    """Sidecars multilingues skills/NNN-slug.<lang>.md -> {lang: {num: entry}}.
+    Mécanisme générique : tout code langue 2 lettres (en, nl, ...)."""
+    out: dict[str, dict[int, dict]] = {}
+    for f in sorted(Path(sk_dir).glob("*.md")):
+        m = re.match(r"^(\d+)-(.+)\.([a-z]{2})\.md$", f.name)
+        if not m:
+            continue
+        lang = m.group(3)
+        if lang == "fr":
+            continue
+        txt = f.read_text(encoding="utf-8")
+        mm = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+        assert mm, f"{f.name} : pas de frontmatter"
+        fm = mm.group(1)
+        def g(k):
+            r = re.search(rf'^{k}: "(.*)"$', fm, re.M)
+            return r.group(1) if r else ""
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        ml = re.search(r'^lang: "(.*)"$', fm, re.M)
+        assert ml and ml.group(1) == lang, f"{f.name} : lang incohérent avec le suffixe"
+        ms = re.search(r'^synonymes: \[(.*)\]$', fm, re.M)
+        syns = [x.strip().strip('"') for x in ms.group(1).split(",") if x.strip()] if ms else []
+        mc = re.search(r'^cross_refs: \[(.*)\]$', fm, re.M)
+        refs = [int(r) for r in re.findall(r"\d+", mc.group(1))] if mc else []
+        mr = re.search(r'^resume: "(.*)"$', fm, re.M)
+        resume = mr.group(1) if (mr and mr.group(1).strip()) else resume_auto(txt[mm.end():])
+        out.setdefault(lang, {})[num] = {
+            "nom": g("nom"), "domaine": g("domaine"), "signal": g("signal"),
+            "mot_cle": g("mot_cle"), "branche": g("branche"), "nom_court": g("nom_court"),
+            "emoji": g("emoji"), "resume": resume, "synonymes": syns, "cross_refs": refs,
+            "fichier": f.name,
+        }
+    return out
+
+
 def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) -> None:
     if from_skills:
         sommaire, signaux, mot_cles, branches, noms_courts, _, syns_par_num, cartes_brutes = \
@@ -5450,10 +5502,12 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             mots_cles TEXT NOT NULL
         );
         CREATE TABLE synonymes (
-            synonyme      TEXT PRIMARY KEY,
+            synonyme      TEXT NOT NULL,
             synonyme_norm TEXT NOT NULL DEFAULT '',
             num           INTEGER NOT NULL,
-            poids         REAL NOT NULL DEFAULT 1.0  -- P0-1 : poids IDF, synonyme générique = poids faible
+            poids         REAL NOT NULL DEFAULT 1.0,  -- P0-1 : poids IDF, synonyme générique = poids faible
+            lang          TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (synonyme, lang)
         );
         CREATE INDEX IF NOT EXISTS idx_synonymes_norm ON synonymes(synonyme_norm);
         CREATE TABLE non_routees (
@@ -5513,12 +5567,20 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         CREATE TABLE IF NOT EXISTS mots_cles (
             mot_cle_norm TEXT NOT NULL,
             num          INTEGER NOT NULL,
-            PRIMARY KEY (mot_cle_norm, num)
+            lang         TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (mot_cle_norm, num, lang)
         ) WITHOUT ROWID;
+        CREATE TABLE IF NOT EXISTS lang (
+            num    INTEGER NOT NULL,
+            lang   TEXT NOT NULL,
+            fichier TEXT NOT NULL DEFAULT '',
+            PRIMARY KEY (num, lang)
+        );
         CREATE TABLE IF NOT EXISTS trigrammes (
             trigramme TEXT NOT NULL,
             num       INTEGER NOT NULL,
-            PRIMARY KEY (trigramme, num)
+            lang      TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (trigramme, num, lang)
         ) WITHOUT ROWID;
         CREATE TABLE IF NOT EXISTS versions (
             id        INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -5601,7 +5663,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
     for num, syns in SYN_A_UTILISER.items():
         for syn in syns:
             assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
-            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?,?)", (syn, norm(syn), num, _poids_syn(syn)))
+            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?,?,?)", (syn, norm(syn), num, _poids_syn(syn), "fr"))
     # popularité : top-N des skills les plus routées (table routes), sert de bonus de classement
     # et de cache chaud. Recalculée à chaque build si la table routes existe.
     try:
@@ -5645,8 +5707,8 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
     # table des mots-clés normalisés (voie mot-clé en SQL, indexée)
     mcs = []
     for r in db.execute("SELECT num, mot_cle FROM skills WHERE mot_cle != ''"):
-        mcs.append((norm(r[1]), r[0]))
-    db.executemany("INSERT OR IGNORE INTO mots_cles VALUES (?,?)", mcs)
+        mcs.append((norm(r[1]), r[0], "fr"))
+    db.executemany("INSERT OR IGNORE INTO mots_cles VALUES (?,?,?)", mcs)
     db.commit()
     # table des trigrammes (passe floue en SQL) : mêmes champs que la version Python
     tg = []
@@ -5659,9 +5721,46 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
                 tri = t[i:i+3]
                 if tri not in seen:
                     seen.add(tri)
-                    tg.append((tri, r[0]))
-    db.executemany("INSERT OR IGNORE INTO trigrammes VALUES (?,?)", tg)
+                    tg.append((tri, r[0], "fr"))
+    db.executemany("INSERT OR IGNORE INTO trigrammes VALUES (?,?,?)", tg)
     db.commit()
+    # table lang(num, lang, fichier) : FR (fichiers racine) + sidecars .<lang>.md
+    sk = _skills_dir()
+    for f in sorted(sk.glob("*.md")):
+        if re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name):
+            continue  # sidecar
+        m2 = re.match(r"^(\d+)-.+\.md$", f.name)
+        if m2:
+            db.execute("INSERT OR REPLACE INTO lang VALUES (?,?,?)", (int(m2.group(1)), "fr", f.name))
+    for lang, entrees in _lang_sidecars(sk).items():
+        sfx = "_" + re.sub(r"[^a-z0-9]", "", lang.lower())
+        db.execute(f"CREATE TABLE IF NOT EXISTS skills{sfx} (num INTEGER PRIMARY KEY, nom TEXT NOT NULL, domaine TEXT NOT NULL, signal TEXT NOT NULL DEFAULT '', mot_cle TEXT NOT NULL DEFAULT '', branche TEXT NOT NULL DEFAULT '', nom_court TEXT NOT NULL DEFAULT '', resume TEXT NOT NULL DEFAULT '')")
+        db.execute(f"CREATE VIRTUAL TABLE IF NOT EXISTS skills_fts{sfx} USING fts5(num UNINDEXED, nom, signal, mot_cle, nom_court, domaine, tokenize='unicode61')")
+        if vec_ok:
+            db.execute(f"CREATE VIRTUAL TABLE IF NOT EXISTS skills_vec{sfx} USING vec0(num INTEGER PRIMARY KEY, embedding float[{VEC_DIM}] distance_metric=cosine)")
+        for num, e in sorted(entrees.items()):
+            db.execute(f"INSERT OR REPLACE INTO skills{sfx} VALUES (?,?,?,?,?,?,?,?)",
+                       (num, e["nom"], e["domaine"], e["signal"], e["mot_cle"], e["branche"], e["nom_court"], e["resume"]))
+            db.execute(f"INSERT INTO skills_fts{sfx} VALUES (?,?,?,?,?,?)",
+                       (num, e["nom"], e["signal"], e["mot_cle"], e["nom_court"], e["domaine"]))
+            if vec_ok:
+                ctx = f"[{e['domaine']} | {e['branche']}] "
+                db.execute(f"INSERT INTO skills_vec{sfx} VALUES (?,?)",
+                           (num, embed_hash(ctx + " ".join(x for x in (e["nom"], e["signal"], e["mot_cle"], e["nom_court"]) if x))))
+            if e["mot_cle"]:
+                db.execute("INSERT OR IGNORE INTO mots_cles VALUES (?,?,?)", (norm(e["mot_cle"]), num, lang))
+            for syn in e["synonymes"]:
+                db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?,?,?)", (syn, norm(syn), num, 1.0, lang))
+            mots = [t for t in tokens(" ".join((e["nom"], e["signal"], e["mot_cle"], e["nom_court"]))) if len(t) >= 5]
+            seen = set()
+            for t in mots:
+                for i in range(len(t) - 2):
+                    tri = t[i:i+3]
+                    if tri not in seen:
+                        seen.add(tri)
+                        db.execute("INSERT OR IGNORE INTO trigrammes VALUES (?,?,?)", (tri, num, lang))
+            db.execute("INSERT OR REPLACE INTO lang VALUES (?,?,?)", (num, lang, e["fichier"]))
+        db.commit()
     np_ = ingerer_perso(db)  # mesSkillsPerso/ -> skills_perso (conversion auto au template)
     n = db.execute("SELECT COUNT(*) FROM skills").fetchone()[0]
     d = db.execute("SELECT COUNT(*) FROM domaines").fetchone()[0]
@@ -5711,7 +5810,7 @@ def trigrammes_de(mot: str) -> frozenset:
 
 
 def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
-                           vus=None):
+                           vus=None, lang="fr"):
     """Passe floue par trigrammes en SQL (table `trigrammes` indexée).
     Même contrat que proches_trigrammes : liste triée (ratio, nb, mot, row).
     Repli sur la version Python si la table est absente (base ancienne)."""
@@ -5724,8 +5823,8 @@ def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
     for t, tri in req_tri.items():
         ph = ",".join("?" * len(tri))
         for num, c in db.execute(
-                f"SELECT num, COUNT(*) FROM trigrammes WHERE trigramme IN ({ph}) "
-                f"GROUP BY num", tuple(tri)):
+                f"SELECT num, COUNT(*) FROM trigrammes WHERE trigramme IN ({ph}) AND lang = ? "
+                f"GROUP BY num", (*tri, lang)):
             if vus and num in vus:
                 continue
             ratio = c / len(tri)
@@ -5737,8 +5836,11 @@ def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
         return []
     nums = sorted({num for num, _ in best})
     ph = ",".join("?" * len(nums))
+    sfx = "" if lang == "fr" else "_" + re.sub(r"[^a-z0-9]", "", lang.lower())
+    if not db.execute("SELECT 1 FROM sqlite_master WHERE name=?", (f"skills{sfx}",)).fetchone():
+        sfx = ""
     skills = {r["num"]: r for r in db.execute(
-        f"SELECT num, nom, domaine, signal, mot_cle, nom_court FROM skills "
+        f"SELECT num, nom, domaine, signal, mot_cle, nom_court FROM skills{sfx} "
         f"WHERE num IN ({ph})", tuple(nums))}
     out = [(ratio, c, t, skills[num]) for (num, t), (ratio, c) in best.items()]
     out.sort(key=lambda x: (-x[0], -x[1]))
@@ -6058,7 +6160,7 @@ def cmd_perso(add: str | None, convert: bool) -> int:
     return 0
 
 
-def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
+def chercher(db: sqlite3.Connection, query: str, top: int, lang: str = "fr") -> dict:
     q = norm(query)
     qt = tokens(query)
     qn = q  # forme normalisée hoistée (évite de re-normaliser dans les boucles)
@@ -6066,6 +6168,13 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     res = {"exact": [], "fts": [], "vec": [], "flou": [], "pistes": [],
            "domaines": [], "direct": None, "perso": []}
     vus = set()
+    sfx = "" if lang == "fr" else "_" + re.sub(r"[^a-z0-9]", "", lang.lower())
+    t_sk, t_fts, t_vec = f"skills{sfx}", f"skills_fts{sfx}", f"skills_vec{sfx}"
+    if lang != "fr" and not db.execute("SELECT 1 FROM sqlite_master WHERE name=?", (t_sk,)).fetchone():
+        lang = "fr"  # aucune traduction pour cette langue -> FR
+        sfx = ""
+        t_sk, t_fts, t_vec = "skills", "skills_fts", "skills_vec"
+    res["lang"] = lang
 
     def cand(num, nom, domaine, signal, voie, cible, score=None):
         d = {"num": num, "nom": nom, "domaine": domaine, "signal": signal,
@@ -6077,8 +6186,10 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     # 0) renvoi direct « skill N » (n'importe où dans la demande)
     m = re.search(r"skill (\d+)", q)
     if m:
-        r = db.execute("SELECT num, nom, domaine, signal FROM skills WHERE num=?",
-                       (int(m.group(1)),)).fetchone()
+        r = db.execute(f"SELECT num, nom, domaine, signal FROM {t_sk} WHERE num=?",
+                       (int(m.group(1)),)).fetchone() \
+            or db.execute("SELECT num, nom, domaine, signal FROM skills WHERE num=?",
+                          (int(m.group(1)),)).fetchone()
         if r:
             res["direct"] = cand(r["num"], r["nom"], r["domaine"],
                                  r["signal"] or "(routeur)", "direct", None)
@@ -6153,16 +6264,16 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     if qn:
         rows_mc = db.execute(
             "SELECT m.num, s.nom, s.domaine, s.signal, m.mot_cle_norm AS mot_cle FROM mots_cles m "
-            "JOIN skills s ON s.num = m.num "
-            "WHERE m.mot_cle_norm = ? OR (length(?) >= 5 AND instr(m.mot_cle_norm, ?) > 0) "
-            "   OR (length(m.mot_cle_norm) >= 5 AND instr(?, m.mot_cle_norm) > 0)",
-            (qn, qn, qn, qn)).fetchall()
+            "JOIN " + t_sk + " s ON s.num = m.num "
+            "WHERE (m.mot_cle_norm = ? OR (length(?) >= 5 AND instr(m.mot_cle_norm, ?) > 0) "
+            "   OR (length(m.mot_cle_norm) >= 5 AND instr(?, m.mot_cle_norm) > 0)) AND m.lang = ?",
+            (qn, qn, qn, qn, lang)).fetchall()
         for r in rows_mc:
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "mot-clé", r["mot_cle"]))
             vus.add(r["num"])
     for r in db.execute("SELECT m.num, s.nom, s.domaine, s.signal, m.mot_cle_norm AS mot_cle FROM mots_cles m "
-                       "JOIN skills s ON s.num = m.num"):
+                       "JOIN " + t_sk + " s ON s.num = m.num WHERE m.lang = ?", (lang,)):
         if r["num"] in vus:
             continue
         kwt = set(tokens(r["mot_cle"]))
@@ -6177,9 +6288,9 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     if qn:
         rows_syn = db.execute(
             "SELECT s.synonyme, s.poids, k.num, k.nom, k.domaine, k.signal FROM synonymes s "
-            "JOIN skills k ON k.num = s.num "
-            "WHERE instr(?, s.synonyme_norm) > 0 OR instr(s.synonyme_norm, ?) > 0",
-            (qn, qn)).fetchall()
+            "JOIN " + t_sk + " k ON k.num = s.num "
+            "WHERE (instr(?, s.synonyme_norm) > 0 OR instr(s.synonyme_norm, ?) > 0) AND s.lang = ?",
+            (qn, qn, lang)).fetchall()
     else:
         rows_syn = []
     for r in rows_syn:
@@ -6210,7 +6321,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
 
     # 3) FTS5 : préfixes, ET puis OU, bm25 pondéré
     if qt_forts:
-        poids = "bm25(skills_fts, 0.0, 2.0, 6.0, 10.0, 3.0, 1.0)"
+        poids = f"bm25({t_fts}, 0.0, 2.0, 6.0, 10.0, 3.0, 1.0)"
         for op in ("AND", "OR"):
             match = (" ".join(f'"{t}"*' for t in qt_forts) if op == "AND"
                      else " OR ".join(f'"{t}"*' for t in qt_forts))
@@ -6218,7 +6329,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 hits = db.execute(
                     "SELECT num, nom, domaine, signal, mot_cle, nom_court, "
                     + poids + " AS score "
-                    "FROM skills_fts WHERE skills_fts MATCH ? "
+                    f"FROM {t_fts} WHERE {t_fts} MATCH ? "
                     "ORDER BY score LIMIT ?", (match, top + len(vus))).fetchall()
             except sqlite3.OperationalError:
                 continue
@@ -6239,7 +6350,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     #     capture les périphrases sans mot-clé exact, en complément du FTS5
     try:
         has_vec = db.execute(
-            "SELECT 1 FROM sqlite_master WHERE name='skills_vec'").fetchone()
+            "SELECT 1 FROM sqlite_master WHERE name=?", (t_vec,)).fetchone()
     except sqlite3.Error:
         has_vec = None
     if has_vec and any(len(t) >= 5 for t in qt):  # hash 32 dims bruité sur requêtes < 5 lettres
@@ -6247,7 +6358,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
         try:
             hits = db.execute(
                 "SELECT v.num, s.nom, s.domaine, s.signal, 1 - distance AS cos "
-                "FROM skills_vec v JOIN skills s ON s.num = v.num "
+                f"FROM {t_vec} v JOIN {t_sk} s ON s.num = v.num "
                 "WHERE v.embedding MATCH ? AND k = ? "
                 "ORDER BY distance LIMIT ?",
                 (qvec, top, top)).fetchall()
@@ -6267,7 +6378,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             try:
                 r0 = db.execute(
                     "SELECT v.num, s.nom, s.domaine, s.signal, 1 - distance AS cos "
-                    "FROM skills_vec v JOIN skills s ON s.num = v.num "
+                    f"FROM {t_vec} v JOIN {t_sk} s ON s.num = v.num "
                     "WHERE v.embedding MATCH ? AND k = 1 ORDER BY distance",
                     (qvec,)).fetchone()
                 if r0 and r0["cos"] >= VEC_PISTE and r0["num"] not in vus:
@@ -6283,7 +6394,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     #     en dessous du seuil, les meilleurs recouvrements deviennent pistes
     if not res["exact"] and not res["fts"] and not res["vec"] and not res["pistes"]:
         pistes_vues = set()
-        for ratio, nb, t, r in proches_trigrammes_sql(db, qt_forts, 0.65, vus):
+        for ratio, nb, t, r in proches_trigrammes_sql(db, qt_forts, 0.65, vus, lang):
             mots = mots_de(r)
             uniques = set(qt_forts)
             n = sum(1 for t2 in uniques if mot_match_large(t2, mots))
@@ -6305,7 +6416,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             dt = set(tokens(d["domaine"])) | set(tokens(d["mots_cles"]))
             commun = dt & set(qt)
             if commun:
-                n = db.execute("SELECT COUNT(*) FROM skills WHERE domaine=?",
+                n = db.execute(f"SELECT COUNT(*) FROM {t_sk} WHERE domaine=?",
                                (d["domaine"],)).fetchone()[0]
                 res["domaines"].append({"domaine": d["domaine"], "nb": n,
                                         "mots": sorted(commun)[:4]})
@@ -6395,14 +6506,32 @@ def _journaliser(db: sqlite3.Connection, query: str) -> None:
         pass  # base ancienne sans journal
 
 
-def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> int:
+def detect_lang(q: str) -> str:
+    """Heuristique stdlib (stopwords FR/EN/NL) -> code langue 2 lettres, défaut fr."""
+    ql = q.lower()
+    fr = len(re.findall(r"\b(le|la|les|un|une|des|du|et|est|pas|comment|pourquoi|quand|où|écrire|créer|faire|aider|avec|pour|dans|sur|je|tu|il|nous|vous|mon|ma|mes|ton|son|notre|votre)\b", ql))
+    en = len(re.findall(r"\b(the|and|is|are|was|not|how|what|why|when|where|write|rewrite|create|make|help|with|for|from|this|that|please|can|could|i|you|he|she|we|they|my|your|his|her|our|their)\b", ql))
+    nl = len(re.findall(r"\b(de|het|een|en|is|zijn|hoe|wat|waarom|wanneer|schrijven|maken|helpen|met|voor|van|deze|dat|kun|kunt|ik|jij|hij|wij|jullie|mijn|jouw|zijn|hun)\b", ql))
+    if fr >= max(en, nl):
+        return "fr"
+    return "en" if en >= nl else "nl"
+
+
+def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None, lang: str | None = None) -> int:
     if not DB_PATH.exists():
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
     db = sqlite3.connect(DB_PATH)
     db.row_factory = sqlite3.Row
     db.execute("PRAGMA cache_size=-8000")
     charger_vec(db)
-    res = chercher(db, query, top)
+    lang = (lang or detect_lang(query)).lower()
+    if not re.fullmatch(r"[a-z]{2}", lang):
+        lang = "fr"
+    res = chercher(db, query, top, lang)
+    if lang != "fr" and not any(res.get(k) for k in ("direct", "exact", "fts", "vec", "flou", "pistes", "perso")):
+        res = chercher(db, query, top, "fr")  # fallback FR si rien en langue cible
+        res["lang_fallback"] = "fr"
+        lang = "fr"
     if tag:
         # pré-filtre optionnel par tag : ne garder que les skills taguées
         try:
@@ -6423,6 +6552,13 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
             if nxt:
                 noms = {r["num"]: r["nom"] for r in db.execute("SELECT num, nom FROM skills WHERE num IN (%s)" % ",".join(map(str, nxt)))}
                 res["chaine"] = [{"num": n, "nom": noms.get(n, "")} for n in nxt]
+        except sqlite3.OperationalError:
+            pass
+    if candidats:
+        try:
+            lf = db.execute("SELECT fichier FROM lang WHERE num=? AND lang=?", (candidats[0]["num"], lang)).fetchone()
+            if lf:
+                candidats[0]["fichier"] = f"skills/{lf['fichier']}"
         except sqlite3.OperationalError:
             pass
     pistes_vec = any(p["voie"] == "piste-vec" for p in res["pistes"])
@@ -6469,7 +6605,8 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
               f"— signal : {r['signal']}")
     if code == 0:
         c0 = candidats[0]
-        print(f"⤳ Section : {('mesSkillsPerso/' + c0['fichier']) if c0.get('perso') else c0['section']}")
+        sec = ('mesSkillsPerso/' + c0['fichier']) if c0.get('perso') else (c0.get('fichier') or c0['section'])
+        print(f"⤳ Section : {sec}  (lang: {lang})")
     elif res["domaines"]:
         for d in res["domaines"]:
             print(f"◎ Domaine plausible : {d['domaine']} ({d['nb']} skills) "
@@ -6700,7 +6837,7 @@ def cmd_test() -> int:
     db.row_factory = sqlite3.Row
     echecs = []
     for demande, attendu in TESTS_ROUTAGE:
-        res = chercher(db, demande, 5)
+        res = chercher(db, demande, 5, "fr")
         trouves = ({r["num"] for r in res["exact"]}
                    | {r["num"] for r in res["fts"]}
                    | {r["num"] for r in res.get("vec", [])}
@@ -6712,13 +6849,26 @@ def cmd_test() -> int:
                                "des candidates trouvées"))
         elif attendu not in trouves:
             echecs.append((demande, attendu, sorted(trouves) or "rien"))
+    for demande, attendu in TESTS_ROUTAGE_EN:
+        res = chercher(db, demande, 5, "en")
+        trouves = ({r["num"] for r in res["exact"]}
+                   | {r["num"] for r in res["fts"]}
+                   | {r["num"] for r in res.get("vec", [])}
+                   | {r["num"] for r in res["flou"]}
+                   | ({res["direct"]["num"]} if res["direct"] else set()))
+        if attendu is None:
+            if trouves:
+                echecs.append((demande, "aucune skill", "des candidates trouvées"))
+        elif attendu not in trouves:
+            echecs.append((demande, attendu, sorted(trouves) or "rien"))
+    total = len(TESTS_ROUTAGE) + len(TESTS_ROUTAGE_EN)
     db.close()
     if echecs:
-        print(f"✖ {len(echecs)}/{len(TESTS_ROUTAGE)} tests en échec :")
+        print(f"✖ {len(echecs)}/{total} tests en échec :")
         for demande, attendu, obtenu in echecs:
             print(f"  - « {demande} » : attendu {attendu}, obtenu {obtenu}")
         return 1
-    print(f"✅ {len(TESTS_ROUTAGE)}/{len(TESTS_ROUTAGE)} tests de routage passés")
+    print(f"✅ {total}/{total} tests de routage passés (fr: {len(TESTS_ROUTAGE)} · en: {len(TESTS_ROUTAGE_EN)})")
     return 0
 
 
@@ -6879,6 +7029,24 @@ def cmd_bench(tours: int) -> int:
     return 0
 
 
+def _langs_map(sk_dir: Path) -> dict[int, list[str]]:
+    """num -> langues disponibles (fr + sidecars .<lang>.md), fr en premier."""
+    out: dict[int, list[str]] = {}
+    for f in sorted(Path(sk_dir).glob("*.md")):
+        m = re.match(r"^(\d+)-(.+)\.([a-z]{2})\.md$", f.name)
+        if m and m.group(3) != "fr":
+            out.setdefault(int(m.group(1)), []).append(m.group(3))
+            continue
+        m2 = re.match(r"^(\d+)-.+\.md$", f.name)
+        if m2:
+            ls = out.setdefault(int(m2.group(1)), [])
+            if "fr" not in ls:
+                ls.append("fr")
+    for ls in out.values():
+        ls[:] = sorted(set(ls), key=lambda l: (l != "fr", l))
+    return out
+
+
 def cmd_lint() -> int:
     problemes = []
     vus = {}
@@ -6902,8 +7070,16 @@ def cmd_lint() -> int:
     for sk_dir in sk_dirs:
         n_da = 0
         n_re = 0
+        n_lg = 0
+        fr_nums = set()
         for f in sk_dir.glob("*.md"):
-            fm = f.read_text(encoding="utf-8").split("---")[1]
+            if re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name):
+                continue  # sidecar multilingue, contrôlé à part
+            txt = f.read_text(encoding="utf-8")
+            fm = txt.split("---")[1]
+            mn = re.search(r"^num: (\d+)$", fm, re.M)
+            if mn:
+                fr_nums.add(int(mn.group(1)))
             m = re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm, re.M)
             if not (m and 1 <= int(m.group(2)) <= 12):
                 problemes.append(f"{f.name} : date_ajout absente ou invalide (YYYY-MM)")
@@ -6915,6 +7091,12 @@ def cmd_lint() -> int:
                 problemes.append(f"{f.name} : resume absent ou invalide (1-400 car.)")
             else:
                 n_re += 1
+            # R16 : lang présent et = fr sur les fichiers racine
+            ml = re.search(r'^lang: "([a-z]{2})"$', fm, re.M)
+            if not ml or ml.group(1) != "fr":
+                problemes.append(f"{f.name} : lang absent ou != fr (R16)")
+            else:
+                n_lg += 1
             # R13 : aucune année (20xx) dans le titre (nom / nom_court)
             for k in ("nom", "nom_court"):
                 mv = re.search(rf'^{k}: "(.*)"$', fm, re.M)
@@ -6925,6 +7107,33 @@ def cmd_lint() -> int:
                 problemes.append(f"{f.name} : frontmatter contient < ou >")
         print(f"  date_ajout : {n_da} skills conformes (YYYY-MM) dans {sk_dir}")
         print(f"  resume : {n_re} skills conformes (R15, 1-400 car.) dans {sk_dir}")
+        print(f"  lang : {n_lg} fichiers fr conformes (R16) dans {sk_dir}")
+        # sidecars multilingues NNN-slug.<lang>.md : lang cohérent, num FR existant, mêmes contrôles
+        n_sc = 0
+        par_lang: dict[str, int] = {}
+        for f in sk_dir.glob("*.md"):
+            m = re.match(r"^(\d+)-(.+)\.([a-z]{2})\.md$", f.name)
+            if not m:
+                continue
+            lang = m.group(3)
+            txt = f.read_text(encoding="utf-8")
+            fm = txt.split("---")[1]
+            ml = re.search(r'^lang: "(.*)"$', fm, re.M)
+            if not ml or ml.group(1) != lang:
+                problemes.append(f"{f.name} : lang frontmatter != suffixe .{lang}.md")
+            if int(m.group(1)) not in fr_nums:
+                problemes.append(f"{f.name} : num {m.group(1)} sans fichier FR correspondant")
+            mda = re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm, re.M)
+            if not (mda and 1 <= int(mda.group(2)) <= 12):
+                problemes.append(f"{f.name} : date_ajout absente ou invalide")
+            mr = re.search(r'^resume: "(.+)"$', fm, re.M)
+            if not mr or len(mr.group(1)) > 400:
+                problemes.append(f"{f.name} : resume absent ou invalide (1-400 car.)")
+            if re.search(r"[<>]", fm):
+                problemes.append(f"{f.name} : frontmatter contient < ou >")
+            n_sc += 1
+            par_lang[lang] = par_lang.get(lang, 0) + 1
+        print(f"  sidecars multilingues : {n_sc} dans {sk_dir} ({', '.join(f'{l}: {n}' for l, n in sorted(par_lang.items())) or 'aucun'})")
     # skills perso (mesSkillsPerso/) : date_ajout + pas de < > + au moins un mot_cle
     for pd in dossiers_perso():
         n_p = 0
@@ -7002,7 +7211,7 @@ def _sections_multi(canvas: Path) -> dict[int, tuple[str, str, str, str]]:
 
 
 def _entree_condensee(num, nom, nom_court, emoji, domaine, branche, mot_cle, resume,
-                      synonymes, cross_refs, corps) -> dict:
+                      synonymes, cross_refs, corps, langs=None) -> dict:
     """Entrée condensée machine d'une skill : métadonnées + resume + étapes de la
     Méthode + garde-fous GF (sans le corps complet)."""
     blocs = _blocs_canoniques(corps)
@@ -7014,7 +7223,8 @@ def _entree_condensee(num, nom, nom_court, emoji, domaine, branche, mot_cle, res
     return {"num": num, "nom": nom, "nom_court": nom_court, "emoji": emoji,
             "domaine": domaine, "branche": branche, "mot_cle": mot_cle,
             "resume": resume, "methode": methode, "garde_fous": gf,
-            "synonymes": sorted(synonymes), "cross_refs": sorted(set(cross_refs))}
+            "synonymes": sorted(synonymes), "cross_refs": sorted(set(cross_refs)),
+            "langs": langs or ["fr"]}
 
 
 def _json_condense(entrees: list[dict]) -> str:
@@ -7038,6 +7248,7 @@ def _condensed_json_repo(canvas: Path) -> str:
         synonymes.setdefault(num, []).append(syn)
     sk = _skills_dir()
     resumes = lire_resumes(sk)
+    langs = _langs_map(sk)
     fm_refs: dict[int, list[int]] = {}
     for f in sorted(sk.glob("*.md")):
         txt = f.read_text(encoding="utf-8")
@@ -7058,7 +7269,8 @@ def _condensed_json_repo(canvas: Path) -> str:
         refs |= set(fm_refs.get(num, []))
         entrees.append(_entree_condensee(num, nom, noms_courts.get(num), emoji, dom,
                                          branches.get(num), mot_cles.get(num),
-                                         resumes.get(num), synonymes.get(num, []), refs, corps))
+                                         resumes.get(num), synonymes.get(num, []), refs, corps,
+                                         langs.get(num, ["fr"])))
     return _json_condense(entrees)
 
 
@@ -7083,7 +7295,8 @@ def _condensed_json_from_skills(sk_dir: Path) -> str:
         resume = mr.group(1) if (mr and mr.group(1).strip()) else resume_auto(txt[m.end():])
         entrees.append(_entree_condensee(num, _g("nom"), _g("nom_court"), _g("emoji"),
                                          _g("domaine"), _g("branche"), _g("mot_cle"),
-                                         resume, syns, refs, txt[m.end():]))
+                                         resume, syns, refs, txt[m.end():],
+                                         _langs_map(sk_dir).get(num, ["fr"])))
     return _json_condense(entrees)
 
 
@@ -7110,10 +7323,12 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False,
         synonymes.setdefault(num, []).append(syn)
 
     resumes: dict[int, str] = {}
+    langs: dict[int, list[str]] = {}
     for cand in (Path(canvas).resolve().parent.parent / "skills",
                  Path(canvas).resolve().parent / "skills"):
         if cand.is_dir():
             resumes = lire_resumes(cand)
+            langs = _langs_map(cand)
             break
 
     skills = []
@@ -7138,6 +7353,7 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False,
             "cross_refs": refs,
             "synonymes": sorted(synonymes.get(num, [])),
             "resume": resumes.get(num),
+            "langs": langs.get(num, ["fr"]),
             "fichier": fichier_section,
         }
         if complet:
@@ -7295,8 +7511,23 @@ def cmd_pack(sortie: Path, check: bool) -> int:
                 spec.loader.exec_module(rt)
                 rt.cmd_build(td / "routage.py", db_path=td / "skills.db", from_skills=True)
                 db = _sq.connect(td / "skills.db")
-                got = {t: db.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
-                       for t in ("skills", "synonymes", "domaines", "skills_fts", "trigrammes")}
+                try:
+                    import sqlite_vec as _sv
+                    db.enable_load_extension(True)
+                    _sv.load(db)
+                except Exception:
+                    pass
+                base = ["skills", "synonymes", "domaines", "skills_fts", "trigrammes", "lang"]
+                for f in (td / "skills").glob("*.md"):
+                    m = re.match(r"^\d+-.*\.([a-z]{2})\.md$", f.name)
+                    if m and m.group(1) != "fr":
+                        l = re.sub(r"[^a-z0-9]", "", m.group(1))
+                        base += [f"skills_{l}", f"skills_fts_{l}", f"skills_vec_{l}"]
+                def _counts(conn):
+                    return {t: conn.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
+                            for t in base
+                            if conn.execute("SELECT 1 FROM sqlite_master WHERE name=?", (t,)).fetchone()}
+                got = _counts(db)
                 gh = hashlib.sha256()
                 for f in sorted((td / "skills").glob("*.md")):
                     gh.update(f.name.encode()); gh.update(f.read_bytes())
@@ -7305,8 +7536,14 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             finally:
                 sys.path[:] = sys_path_backup
             ref = sqlite3.connect(Path(__file__).resolve().with_name("skills.db"))  # DB du dépôt courant
+            try:
+                import sqlite_vec as _sv
+                ref.enable_load_extension(True)
+                _sv.load(ref)
+            except Exception:
+                pass
             attendu = {t: ref.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
-                       for t in ("skills", "synonymes", "domaines", "skills_fts", "trigrammes")}
+                       for t in got if ref.execute("SELECT 1 FROM sqlite_master WHERE name=?", (t,)).fetchone()}
             ref.close()
             # trigrammes : tolérance 1 % (source canvas vs fichiers peut différer marginalement)
             tri_ok = abs(got["trigrammes"] - attendu["trigrammes"]) <= max(1, attendu["trigrammes"] // 100)
@@ -7337,7 +7574,7 @@ def cmd_pack(sortie: Path, check: bool) -> int:
     return 0
 
 
-def cmd_skillmd(sortie: Path) -> int:
+def cmd_skillmd(sortie: Path, lang: str | None = None) -> int:
     """Génère un dossier de SKILL.md (standard ouvert Agent Skills : frontmatter
     name/description + corps) depuis skills/*.md — installable via `npx skills add`."""
     import re as _re, unicodedata
@@ -7346,7 +7583,13 @@ def cmd_skillmd(sortie: Path) -> int:
         return "".join(c for c in s if not unicodedata.combining(c)).lower()
     sortie.mkdir(parents=True, exist_ok=True)
     n = 0
-    for f in sorted((Path(__file__).resolve().parent.parent / "skills").glob("*.md")):
+    sk = _skills_dir()
+    if lang:
+        files = sorted(sk.glob(f"*.{lang}.md"))
+    else:
+        files = [f for f in sorted(sk.glob("*.md"))
+                 if not re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name)]
+    for f in files:
         txt = f.read_text(encoding="utf-8")
         fm = _re.match(r"---\n(.*?)\n---\n(.*)", txt, _re.S)
         meta, corps = fm.group(1), fm.group(2)
@@ -7581,6 +7824,21 @@ def cmd_count(canvas: Path, dossier: Path) -> int:
     ]
     for dom, n in sorted(domaines.items(), key=lambda x: (-x[1], x[0])):
         lignes.append(f"| {dom} | {n} |")
+    lm = _langs_map(_skills_dir())
+    trad = {}
+    for ls in lm.values():
+        for l in ls:
+            if l != "fr":
+                trad[l] = trad.get(l, 0) + 1
+    if trad:
+        lignes += [
+            "",
+            "## Traductions",
+            "",
+            "Sidecars `NNN-slug.<lang>.md` : "
+            + ", ".join(f"{l} = {n} skills (`.{l}.md`, routage `route --lang {l}`)" for l, n in sorted(trad.items()))
+            + ".",
+        ]
     lignes += [
         "",
         "## Génération",
@@ -7616,6 +7874,7 @@ def main():
 
     p_route.add_argument("--top", type=int, default=5)
     p_route.add_argument("--json", action="store_true")
+    p_route.add_argument("--lang", default=None, help="langue de la demande (fr/en/nl/... ; défaut : auto-détection par stopwords)")
 
     p_gen = sub.add_parser("generate", help="base -> sections de routage du canvas")
     p_gen.add_argument("canvas", nargs="?", type=Path, default=CANVAS_PAR_DEFAUT)
@@ -7651,6 +7910,7 @@ def main():
     p_pack.add_argument("--check", action="store_true", help="vérifie le pack : extrait, rebuild --from-skills, compare les tables")
     p_sm = sub.add_parser("skillmd", help="génère un dossier de SKILL.md (standard Agent Skills) depuis skills/*.md")
     p_sm.add_argument("--sortie", type=Path, default=RACINE / "data" / "agent-skills")
+    p_sm.add_argument("--lang", default=None, help="générer depuis les sidecars .<lang>.md (ex. --lang en -> data/agent-skills-en)")
     sub.add_parser("top", help="top-N des skills les plus utilisées (popularité)").add_argument("--n", type=int, default=20)
     p_ev = sub.add_parser("evals", help="exécute les tests de routage et score la couverture par skill (evals)")
     p_ev.add_argument("--num", type=int, help="une seule skill")
@@ -7684,7 +7944,7 @@ def main():
     if args.cmd == "build":
         cmd_build(args.canvas, from_skills=args.from_skills)
     elif args.cmd == "route":
-        raise SystemExit(cmd_route(args.query, args.top, args.json, getattr(args, "tag", None)))
+        raise SystemExit(cmd_route(args.query, args.top, args.json, getattr(args, "tag", None), getattr(args, "lang", None)))
     elif args.cmd == "generate":
         raise SystemExit(cmd_generate(args.canvas, args.check))
     elif args.cmd == "test":
@@ -7710,6 +7970,10 @@ def main():
     elif args.cmd == "pack":
         raise SystemExit(cmd_pack(args.sortie, args.check))
     elif args.cmd == "skillmd":
+        sortie = args.sortie
+        if getattr(args, "lang", None) and sortie == RACINE / "data" / "agent-skills":
+            sortie = RACINE / "data" / f"agent-skills-{args.lang}"
+        raise SystemExit(cmd_skillmd(sortie, getattr(args, "lang", None)))
         raise SystemExit(cmd_skillmd(args.sortie))
     elif args.cmd == "evals":
         raise SystemExit(cmd_evals(getattr(args, "num", None)))

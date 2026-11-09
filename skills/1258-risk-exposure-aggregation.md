@@ -1,6 +1,7 @@
 ---
 num: 1258
 resume: "Évaluer l'exposition consolidée d'un projet sans additionner abusivement des risques corrélés. Étape 1 : Cadrer les inputs : registre coté, échelles de probabilité/impact, dépendances et tolérance ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Risk Exposure Aggregation"
 emoji: "🧠"

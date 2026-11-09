@@ -1,6 +1,7 @@
 ---
 num: 433
 resume: "auditer un processus métier réel : étapes réellement suivies, goulots d'étranglement, reprises et délais, avec les priorités d'amélioration. Étape 1 : Suivre le processus sur des cas réels et relever ce qui se passe vraiment."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur de processus métier"
 emoji: "🎡"

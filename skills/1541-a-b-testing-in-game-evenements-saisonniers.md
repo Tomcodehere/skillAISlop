@@ -1,6 +1,7 @@
 ---
 num: 1541
 resume: "Faire de l'A/B testing in-game en 2027 : cohortes A/B assignées à distance (remote config), métriques (rétention D7, revenus, progression) mesurées (1540), significativité statistique, décision ship/kill du gagnant. Étape 1 : Assigner la cohorte à l'installation (hash user_id stable) via remote config, logger 'cohort' dans chaque event (1540)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "A/B testing in-game : evenements saisonniers"
 emoji: "⚖️"

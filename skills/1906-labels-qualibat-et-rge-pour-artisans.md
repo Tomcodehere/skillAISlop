@@ -1,6 +1,7 @@
 ---
 num: 1906
 resume: "Obtenir le label RGE/Qualibat pour accéder aux chantiers aidés (MaPrimeRénov', CEE) et rassurer les clients. Étape 1 : Vérifier l'éligibilité (décennale, RC Pro, moyens, formation du responsable technique)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Labels Qualibat et RGE pour artisans"
 emoji: "🏷️"

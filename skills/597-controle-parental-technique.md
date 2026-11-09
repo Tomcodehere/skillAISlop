@@ -1,6 +1,7 @@
 ---
 num: 597
 resume: "installer une protection technique des enfants raisonnable : filtrage, temps d'écran et suivi, alignés sur l'âge et discutés en famille. Étape 1 : Poser le cadre familial et les règles par âge."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Contrôle parental technique"
 emoji: "🧸"

@@ -1,6 +1,7 @@
 ---
 num: 178
 resume: "construire un plan de tests fonctionnels complet (cas nominaux, limites, erreurs) avant une mise en production. Étape 1 : Recueillir les critères d'acceptation et le périmètre de la recette."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de tests fonctionnels (QA)"
 emoji: "🕹️"

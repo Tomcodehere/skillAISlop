@@ -1,6 +1,7 @@
 ---
 num: 142
 resume: "spécifier des objets 3D générés par IA (props de jeu, mockups produits, décors) prêts pour la production. Étape 1 : Définir l'usage (moteur de jeu, rendu produit, impression) et ses contraintes techniques."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Générateur d'assets 3D"
 emoji: "🧊"

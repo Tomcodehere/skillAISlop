@@ -1,6 +1,7 @@
 ---
 num: 549
 resume: "travailler efficacement entre cultures : décoder les écarts de codes, adapter sa communication et bâtir des rituels d'équipe inclusifs. Étape 1 : Décoder la situation et les codes culturels en jeu."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach interculturel"
 emoji: "🌍"

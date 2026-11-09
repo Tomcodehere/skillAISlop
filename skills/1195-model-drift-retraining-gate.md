@@ -1,6 +1,7 @@
 ---
 num: 1195
 resume: "Définir quand une dérive observée justifie une investigation ou un réentraînement. Étape 1 : Cadrer les inputs : référence, données récentes, performance étiquetée et coûts de réentraînement ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Model Drift Retraining Gate"
 emoji: "🧠"

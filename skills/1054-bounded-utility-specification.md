@@ -1,6 +1,7 @@
 ---
 num: 1054
 resume: "Définir une petite tâche technique généraliste assez précisément pour une exécution sûre par l'agent de coordination. Étape 1 : Cadrer les inputs : entrées, sorties, formats, volume et opérations autorisées ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bounded Utility Specification"
 emoji: "📋"

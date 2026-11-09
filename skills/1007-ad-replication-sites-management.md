@@ -1,6 +1,7 @@
 ---
 num: 1007
 resume: "Diagnostiquer et résoudre les problèmes de réplication Active Directory entre contrôleurs de domaine, et concevoir une topologie de sites/liens de sites optimisée pour la bande passante et la latence réseau disponibles. Étape 1 : Collecter `repadmin /replsummary` sur l'ensemble des contrôleurs de domaine pour identifier les échecs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AD Replication & Sites Management"
 emoji: "🧑‍🏫"

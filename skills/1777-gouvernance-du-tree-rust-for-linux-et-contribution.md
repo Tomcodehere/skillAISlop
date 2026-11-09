@@ -1,6 +1,7 @@
 ---
 num: 1777
 resume: "Contribuer au code Rust du noyau en 2027 via le tree rust-for-linux (Ojeda) : RFC pour les nouveaux designs, patchs petits et testés (KUnit), clippy/fmt, revue sur la mailing list. Étape 1 : Cloner rust-for-linux, choisir la branche du sous-système concerne (ex. binder, gpu)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gouvernance du tree rust-for-linux et contribution"
 emoji: "🏛️"

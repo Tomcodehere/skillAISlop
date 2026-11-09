@@ -1,6 +1,7 @@
 ---
 num: 1447
 resume: "Auditer un compte cloud en 2027 et appliquer le moindre privilège IAM : supprimer les admins inutiles, les clés supérieur à 90 jours, les ressources publiques, et gérer les droits en IaC (Terraform) avec revue de PR. Étape 1 : Inventorier users, rôles, policies (aws iam list-*)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "IAM cloud : auditer et reduire les permissions"
 emoji: "🚡"

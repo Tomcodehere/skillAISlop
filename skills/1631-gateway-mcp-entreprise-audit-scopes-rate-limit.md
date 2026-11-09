@@ -1,6 +1,7 @@
 ---
 num: 1631
 resume: "Déployer une gateway MCP en 2027 : point d'entrée unique, audit de chaque appel (tool, args, agent, user), scopes par agent, rate limit, blocage des tools sensibles, secrets en env — pour toute l'entreprise. Étape 1 : Inventorier tous les serveurs MCP et les classer (dangereux: shell/exec/fichiers larges ; sûrs: recherche, BDD read-only)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gateway MCP entreprise : audit, scopes, rate limit"
 emoji: "🛡"

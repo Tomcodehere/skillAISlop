@@ -1,6 +1,7 @@
 ---
 num: 529
 resume: "désamorcer un litige de voisinage (bruit, clôture, plantations, travaux) par la médiation structurée avant la procédure. Étape 1 : Documenter les faits datés et vérifier les règles applicables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Médiateur de litiges de voisinage"
 emoji: "🏘️"

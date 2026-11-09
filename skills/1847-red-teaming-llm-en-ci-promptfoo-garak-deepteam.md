@@ -1,6 +1,7 @@
 ---
 num: 1847
 resume: "Red-tester le système LLM avant chaque release en CI (promptfoo red-team, garak, DeepTeam) : datasets adversariaux, gate sur le taux de succès des attaques (ex. bloquer si supérieur à 1 %), attaques vues en prod réinjectées. Étape 1 : promptfoo redteam : génère les attaques (stratégies configurées), exécute contre l'endpoint, rapport avec taux de succès par catégorie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Red-teaming LLM en CI : promptfoo, garak, DeepTeam"
 emoji: "🎯"

@@ -1,6 +1,7 @@
 ---
 num: 186
 resume: "définir le plan de mesure d'un produit (événements, propriétés, moments) avant d'implémenter l'analytique. Étape 1 : Recueillir les questions métier et les définir en mesures nécessaires."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de tracking analytics"
 emoji: "🔭"

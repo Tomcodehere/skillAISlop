@@ -1,6 +1,7 @@
 ---
 num: 599
 resume: "fixer et défendre ses tarifs de freelance : prix de journée calculé, devis clairs et hausses négociées sans perdre ses clients. Étape 1 : Calculer le plancher et positionner le prix par la valeur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fixateur de tarifs freelance"
 emoji: "💰"

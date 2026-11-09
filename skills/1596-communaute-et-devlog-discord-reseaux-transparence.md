@@ -1,6 +1,7 @@
 ---
 num: 1596
 resume: "Construire une communauté en 2027 : Discord structuré (devlog/feedback/bugs/rôles), devlog hebdo transparent, réseaux sociaux (3 GIF gameplay/semaine, 1559), newsletter, playtests réguliers (1598), modération bienveillante (1548) — dès l'annonce du jeu. Étape 1 : Discord : salons #annonces #devlog #feedback #bugs #off-topic, rôles (beta-testeur, supporter), règles + modération (1548), sondages pou"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Communaute et devlog : Discord, reseaux, transparence"
 emoji: "📣"

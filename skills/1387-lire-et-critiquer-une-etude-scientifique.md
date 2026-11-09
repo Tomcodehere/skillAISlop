@@ -1,6 +1,7 @@
 ---
 num: 1387
 resume: "Evaluer la fiabilite d'une etude scientifique en 2027 : type de design, taille d'echantillon et puissance, p-value avec intervalle de confiance, biais possibles, conflits d'interets, reproductibilite — et conclure sur le niveau de preuve. Étape 1 : Identifier le design : RCT, cohorte, cas-témoins, observationnel, méta-analyse."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lire et critiquer une etude scientifique"
 emoji: "🔬"

@@ -1,6 +1,7 @@
 ---
 num: 1657
 resume: "Sécuriser le domaine email de l'entreprise en 2027 : SPF+DKIM+DMARC p=reject (anti-spoofing), BIMI (logo VMC certifié), MTA-STS (TLS obligatoire en transit), sandbox des pièces jointes, filtrage anti-phishing avancé (509). Étape 1 : SPF : lister toutes les IPs/services qui envoient pour le domaine (M365, Sendgrid, newsletter...), SPF include."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Securite email : DMARC strict, BIMI, anti-spoofing"
 emoji: "📧"

@@ -1,6 +1,7 @@
 ---
 num: 345
 resume: "prévoir une série temporelle métier : tendance, saisonnalité, intervalle de confiance et limites honnêtes de la prévision. Étape 1 : Visualiser et décomposer la série : tendance, saisonnalité, événements."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prévisionniste de séries temporelles"
 emoji: "🌫"

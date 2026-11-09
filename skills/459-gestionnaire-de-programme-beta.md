@@ -1,6 +1,7 @@
 ---
 num: 459
 resume: "piloter un programme bêta : testeurs recrutés à bon escient, boucles de retour courtes et décisions de lancement à la fin. Étape 1 : Recruter les testeurs représentatifs et définir ce que chaque phase doit apprendre."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestionnaire de programme bêta"
 emoji: "🍧"

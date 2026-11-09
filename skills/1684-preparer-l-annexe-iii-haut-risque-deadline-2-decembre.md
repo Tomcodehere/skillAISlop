@@ -1,6 +1,7 @@
 ---
 num: 1684
 resume: "Se préparer d'ici le 2 décembre 2027 (Annexe III, date Omnibus 2026/1744) pour les systèmes IA haut risque (emploi, crédit, éducation, biométrie, justice) : système de gestion des risques, qualité des données d'entraînement (336), doc technique, logs (713), transparence, supervision humaine (329), robustesse + cybersécurité, déclaration dans la base UE, enregistrement. Étape 1 : Identifier les cas"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer l'Annexe III haut risque : deadline 2 décembre"
 emoji: "⏳"

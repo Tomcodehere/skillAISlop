@@ -1,6 +1,7 @@
 ---
 num: 1624
 resume: "Rendre une page agent-friendly en 2027 avec WebMCP (origin trial Chrome 2026) : déclarer des outils exécutables par un agent navigateur (navigator.modelContext.registerTool) au lieu du scraping fragile — tout en gardant le HTML accessible (1619). Étape 1 : Identifier 3-5 actions utiles aux agents (search, addToCart, book)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "WebMCP : navigateur agentique (Chrome origin trial)"
 emoji: "🌐"

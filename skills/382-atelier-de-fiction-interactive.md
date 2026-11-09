@@ -1,6 +1,7 @@
 ---
 num: 382
 resume: "concevoir une histoire interactive à choix : structure ramifiée, choix signifiants, conséquences visibles et fins satisfaisantes. Étape 1 : Poser la prémisse, les états suivis (confiance, inventaire, réputation) et la carte des branches."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Atelier de fiction interactive"
 emoji: "🍄"

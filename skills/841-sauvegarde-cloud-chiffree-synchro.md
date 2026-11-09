@@ -1,6 +1,7 @@
 ---
 num: 841
 resume: "mettre en place une sauvegarde cloud fiable et chiffrée, synchronisée entre appareils, avec 2FA et plan de récupération de compte. Étape 1 : Choisir : iCloud/Drive (simple) ou Nextcloud/Proton (chiffrement côté client) ; 2FA obligatoire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sauvegarde cloud chiffrée & synchro"
 emoji: "☁️"

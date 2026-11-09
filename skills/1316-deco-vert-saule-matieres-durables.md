@@ -1,6 +1,7 @@
 ---
 num: 1316
 resume: "adopter la déco 2027 : vert Saule (couleur de l'année), matières durables et naturelles, mobilier avec une histoire — sans tout racheter. Étape 1 : Choisir 1 couleur forte (vert Saule ou terre cuite) sur un mur ou un accessoire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Déco : vert Saule & matières durables"
 emoji: "🎨"

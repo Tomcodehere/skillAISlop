@@ -1,6 +1,7 @@
 ---
 num: 1307
 resume: "Décomposer un livrable projet en lots vérifiables et ordonner leurs dépendances réelles. Étape 1 : Cadrer les inputs : livrables, limites de périmètre, capacités et contraintes externes ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "WBS and Dependency Planning"
 emoji: "📋"

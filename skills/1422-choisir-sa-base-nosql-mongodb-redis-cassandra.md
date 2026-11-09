@@ -1,6 +1,7 @@
 ---
 num: 1422
 resume: "Choisir la base NoSQL adaptée en 2027 en comparant MongoDB (documents/JSON), Redis (cache, temps réel) et Cassandra/Scylla (écritures massives distribuées) selon le cas d'usage. Étape 1 : Lister les besoins : modèle, volumétrie, latence, cohérence."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir sa base NoSQL : MongoDB, Redis, Cassandra"
 emoji: "🗄️"

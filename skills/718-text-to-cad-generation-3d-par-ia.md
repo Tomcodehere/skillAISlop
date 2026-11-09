@@ -1,6 +1,7 @@
 ---
 num: 718
 resume: "concevoir un objet 3D imprimable à partir d'une description textuelle, avec les contraintes d'impression (FDM/SLA). Étape 1 : Cadrer l'objet : usage, contraintes mécaniques, taille, matériau d'impression visé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Text-to-CAD & génération 3D par IA"
 emoji: "🧊"

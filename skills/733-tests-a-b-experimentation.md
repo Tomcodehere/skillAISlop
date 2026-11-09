@@ -1,6 +1,7 @@
 ---
 num: 733
 resume: "concevoir et lire un test A/B propre : hypothèse, variantes, échantillon, durée, significativité, décision. Étape 1 : Clarifier « Tests A/B & expérimentation »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tests A/B & expérimentation"
 emoji: "🧪"

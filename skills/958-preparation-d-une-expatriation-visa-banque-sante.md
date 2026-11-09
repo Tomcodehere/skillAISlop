@@ -1,6 +1,7 @@
 ---
 num: 958
 resume: "préparer une expatriation en 2027 : visa long séjour, banque, assurance santé internationale, statut fiscal (non-résident), formalités frontière (ETIAS/ETA). Étape 1 : Visa long séjour : demander tôt (2-6 mois), dossier complet ; consulat du pays visé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'une expatriation (visa, banque, santé)"
 emoji: "🌍"

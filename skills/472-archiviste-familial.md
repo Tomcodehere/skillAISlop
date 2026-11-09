@@ -1,6 +1,7 @@
 ---
 num: 472
 resume: "préserver les souvenirs familiaux : tri des photos et documents, organisation durable, sauvegarde multiple et transmission pensée. Étape 1 : Trier par série en sessions courtes : garder, doublons, rebut, sans cible parfaite."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Archiviste familial"
 emoji: "🗀"

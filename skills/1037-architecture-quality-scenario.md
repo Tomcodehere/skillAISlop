@@ -1,6 +1,7 @@
 ---
 num: 1037
 resume: "Rendre une exigence de qualité architecturale testable par un scénario concret. Étape 1 : Cadrer les inputs : exigences de disponibilité, performance ou évolutivité et contraintes ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecture Quality Scenario"
 emoji: "💻"

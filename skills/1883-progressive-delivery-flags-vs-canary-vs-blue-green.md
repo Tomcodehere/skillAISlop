@@ -1,6 +1,7 @@
 ---
 num: 1883
 resume: "Choisir et combiner les stratégies de progressive delivery : feature flags (contrôle produit : qui voit), canary (1418/1877, % de trafic), blue-green (switch/rollback instantané), Flagger (Flux) pour l'auto sur k8s. Étape 1 : Flag (1881) : la feature existe en prod mais cachée — contrôle par segment/utilisateur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Progressive delivery : flags vs canary vs blue-green"
 emoji: "🚚"

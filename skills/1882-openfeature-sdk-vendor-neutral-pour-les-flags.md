@@ -1,6 +1,7 @@
 ---
 num: 1882
 resume: "Standardiser l'évaluation des flags avec OpenFeature (CNCF Incubating) : API unique dans le code, provider par vendor (changer de vendor = changer le provider, pas le code), hooks pour l'audit. Étape 1 : Installer le SDK OpenFeature + le provider du vendor (ex. @openfeature/unleash-provider)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OpenFeature : SDK vendor-neutral pour les flags"
 emoji: "🧰"

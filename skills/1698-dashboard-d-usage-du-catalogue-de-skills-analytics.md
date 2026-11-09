@@ -1,6 +1,7 @@
 ---
 num: 1698
 resume: "Visualiser l'usage réel du catalogue en 2027 : analytics SQL (table routes) + dashboard (top skills, taux exit 0/1/2, domaines sollicités, misses récurrents 1497, évolution par version) — pour décider quelles skills prioriser, avec données anonymisées (RGPD 1584). Étape 1 : Collecte : chaque route loggue (demande hashée, code exit, voie, num, date) dans routes — jamais la demande en clair ni le us"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Dashboard d'usage du catalogue de skills (analytics)"
 emoji: "📊"

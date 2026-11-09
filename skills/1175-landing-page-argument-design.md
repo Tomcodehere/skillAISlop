@@ -1,6 +1,7 @@
 ---
 num: 1175
 resume: "Structurer une page marketing autour d'une promesse démontrable et d'objections réelles. Étape 1 : Cadrer les inputs : offre, audience non sensible, preuves et action souhaitée ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Landing Page Argument Design"
 emoji: "📣"

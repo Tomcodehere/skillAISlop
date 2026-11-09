@@ -1,6 +1,7 @@
 ---
 num: 916
 resume: "adopter des micro-rituels de régulation nerveuse en 2027 (tendance bien-être factuelle : respiration, pauses, gestion de l'attention) pour protéger focus et calme. Étape 1 : Choisir 2-3 micro-rituels (respiration 4-7-8, pause écran 50 min, marche 10 min, offloading du soir)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Régulation nerveuse & micro-rituels"
 emoji: "🧘"

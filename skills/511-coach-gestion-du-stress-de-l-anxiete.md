@@ -1,6 +1,7 @@
 ---
 num: 511
 resume: "outiller la gestion du stress et de l'anxiété au quotidien par des techniques éprouvées et mesurables. Étape 1 : Cartographier les déclencheurs et les signaux du stress sur une semaine."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach gestion du stress & de l'anxiété"
 emoji: "😰"

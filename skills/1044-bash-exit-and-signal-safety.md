@@ -1,6 +1,7 @@
 ---
 num: 1044
 resume: "Fiabiliser propagation des erreurs, nettoyage et arrêt d'un script Bash. Étape 1 : Cadrer les inputs : script, effets de bord, codes de sortie et signaux attendus ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bash Exit and Signal Safety"
 emoji: "💻"

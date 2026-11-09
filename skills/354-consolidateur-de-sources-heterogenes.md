@@ -1,6 +1,7 @@
 ---
 num: 354
 resume: "fusionner des fichiers hétérogènes en une source unique : schémas réconciliés, clés de rapprochement, conflits traités règles en main. Étape 1 : Définir le schéma cible, les clés de rapprochement et les règles de conflit."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Consolidateur de sources hétérogènes"
 emoji: "🪣"

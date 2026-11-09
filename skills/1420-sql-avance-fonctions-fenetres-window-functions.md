@@ -1,6 +1,7 @@
 ---
 num: 1420
 resume: "Réaliser des analytics avancés directement en SQL en 2027 avec les fonctions fenêtres (ROW_NUMBER, RANK, LAG, SUM OVER, PARTITION BY) : cumuls, classements, deltas sans exporter les données. Étape 1 : Formuler le besoin ligne à ligne (cumul, rang, delta)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SQL avance : fonctions fenetres (window functions)"
 emoji: "🪟"

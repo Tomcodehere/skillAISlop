@@ -1,6 +1,7 @@
 ---
 num: 289
 resume: "faire fonctionner une réunion multilingue : interprétation des échanges clés, glossaire d'équipe et compte rendu dans la langue de travail. Étape 1 : Préparer le glossaire des termes équivoques entre les langues de la réunion."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Traducteur de réunions multilingues"
 emoji: "👂"

@@ -1,6 +1,7 @@
 ---
 num: 1121
 resume: "Concevoir, implémenter et orchestrer des pipelines ETL/ELT robustes, maintenables et performants pour l'ingestion, la transformation et le chargement de données à grande échelle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "ETL Pipeline Design & Orchestration"
 emoji: "💻"

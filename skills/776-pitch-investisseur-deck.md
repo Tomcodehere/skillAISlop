@@ -1,6 +1,7 @@
 ---
 num: 776
 resume: "construire un deck de levée de fonds convaincant (10-12 slides) et préparer le pitch oral et la due diligence. Étape 1 : Construire le deck 10-12 slides : problème, solution, marché, traction, modèle, concurrence, équipe, besoins."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pitch investisseur & deck"
 emoji: "🎤"

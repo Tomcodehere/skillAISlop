@@ -1,6 +1,7 @@
 ---
 num: 1245
 resume: "Concevoir une évaluation de disparités respectueuse des personnes et des limites des données. Étape 1 : Cadrer les inputs : objectif d'évaluation, groupes autorisés, base de traitement confirmée et métriques ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Protected-Group Evaluation Protocol"
 emoji: "🧠"

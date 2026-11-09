@@ -1,6 +1,7 @@
 ---
 num: 604
 resume: "garantir qu'une évolution d'API ne casse pas ses consommateurs en testant le contrat côté consommateur. Étape 1 : Recenser les consommateurs et leurs usages réels de l'API : champs lus, paramètres, codes d'erreur attendus."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Testeur de contrats d'API"
 emoji: "🔗"

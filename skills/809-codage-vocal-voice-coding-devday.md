@@ -1,6 +1,7 @@
 ---
 num: 809
 resume: "piloter un agent de code à la voix : dicter des tâches, corriger, valider, sans taper au clavier (DevDay 2026 : Codex CLI vocal, vue /agents). Étape 1 : Préparer : micro correct, environnement calme, dictée claire (objectif + contraintes + fichiers)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Codage vocal (voice coding, DevDay)"
 emoji: "🎤"

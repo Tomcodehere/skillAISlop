@@ -1,6 +1,7 @@
 ---
 num: 1497
 resume: "Analyser le journal des misses (exit 2) en 2027 : lancer misses --suggest, identifier les motifs récurrents (synonyme manquant vs vraie lacune), ajouter les synonymes ou créer la skill manquante, puis build + test + sonde. Étape 1 : Lancer python3 routage.py misses (liste des demandes non routées, fréquences)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyser les demandes non routees (misses) et boucler"
 emoji: "📊"

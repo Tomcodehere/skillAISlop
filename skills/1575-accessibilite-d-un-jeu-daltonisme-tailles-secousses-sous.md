@@ -1,6 +1,7 @@
 ---
 num: 1575
 resume: "Rendre un jeu accessible en 2027 : filtres daltonisme (3 types) + jamais d'info par couleur seule (formes/icônes aussi), taille UI 100-200 %, réduction secousses (1558)/flashs (1495), sous-titres VO+SFX (1533/1569), remap total (1504), mode 'haute lisibilité'. Étape 1 : Daltonisme : 3 filtres de correction (protanopie/deutéranopie/tritanopie) en post-FX (1555) + jamais couleur seule (formes/icônes"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Accessibilite d'un jeu : daltonisme, tailles, secousses, sous-titres"
 emoji: "♿"

@@ -1,6 +1,7 @@
 ---
 num: 804
 resume: "organiser une production de contenu (jeu, vidéo, film) avec une équipe d'agents IA spécialisées (rôles, QA, review). Étape 1 : Organiser l'équipe d'agents par rôles (DA, dev, QA, review) avec hiérarchie et points de validation humains."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Studio de création IA (jeu, film, vidéo)"
 emoji: "🎮"

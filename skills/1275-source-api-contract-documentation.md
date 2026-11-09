@@ -1,6 +1,7 @@
 ---
 num: 1275
 resume: "Documenter le contrat interne d'une fonction ou classe à partir du code réel. Étape 1 : Cadrer les inputs : source, signatures, types et comportements observables ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Source API Contract Documentation"
 emoji: "💻"

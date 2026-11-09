@@ -1,6 +1,7 @@
 ---
 num: 1323
 resume: "organiser un voyage de A à Z avec un agent IA : itinéraire personnalisé (météo, budget, goûts), réservations, et gestion d'annulation multi-étapes (vol + hôtel + activités). Étape 1 : Cadrer : dates, budget, voyageurs, rythme souhaité ; vérifier formalités (ETIAS/ETA/passeport)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Organisateur de voyage IA"
 emoji: "🧳"

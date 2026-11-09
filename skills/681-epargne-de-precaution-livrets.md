@@ -1,6 +1,7 @@
 ---
 num: 681
 resume: "construire une épargne de précaution puis placer son épargne selon ses objectifs et son horizon. Étape 1 : Sécuriser d'abord : épargne de précaution (3-6 mois de charges) sur livret A/LEP/LDDS, disponible immédiatement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Épargne de précaution & livrets"
 emoji: "🐷"

@@ -1,6 +1,7 @@
 ---
 num: 118
 resume: "générer en série des fiches produits uniques, vendeuses et cohérentes pour une boutique en ligne. Étape 1 : Recueillir les données produits, la cible et les mots-clés prioritaires."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Producteur de fiches produits e-commerce"
 emoji: "🛒"

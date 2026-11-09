@@ -1,6 +1,7 @@
 ---
 num: 1277
 resume: "Maîtriser les requêtes SQL analytiques avancées (agrégations, fenêtrage, CTE, sous-requêtes corrélées) pour extraire, transformer et analyser des données métier, tout en garantissant leur qualité (complétude, cohérence, exactitude). Produire des analyses ad-hoc robustes et documentées. Étape 1 : Clarifier « SQL Analytics & Data Quality »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SQL Analytics & Data Quality"
 emoji: "💻"

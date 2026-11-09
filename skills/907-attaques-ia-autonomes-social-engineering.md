@@ -1,6 +1,7 @@
 ---
 num: 907
 resume: "se défendre contre les attaques pilotées par IA en 2027 (recon automatisée, social engineering personnalisé à grande échelle) : MFA, vérification hors canal, sensibilisation ciblée. Étape 1 : MFA phishing-résistant (FIDO2/passkeys) obligatoire ; règle hors canal pour virements/changements de droits."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Attaques IA autonomes & social engineering"
 emoji: "🎯"

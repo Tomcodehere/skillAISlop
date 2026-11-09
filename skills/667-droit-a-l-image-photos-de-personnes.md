@@ -1,6 +1,7 @@
 ---
 num: 667
 resume: "comprendre le droit à l'image avant de publier une photo de quelqu'un et obtenir les autorisations nécessaires. Étape 1 : Vérifier avant de publier : la personne est-elle reconnaissable, lieu privé ou public, y a-t-il un mineur, ai-je l'autorisation écrite."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Droit à l'image & photos de personnes"
 emoji: "📸"

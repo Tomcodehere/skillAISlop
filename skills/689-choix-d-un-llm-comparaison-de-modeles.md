@@ -1,6 +1,7 @@
 ---
 num: 689
 resume: "choisir le modèle d'IA adapté à un cas d'usage en comparant capacités, coût, latence, contexte et contraintes. Étape 1 : Cadrer le besoin : tâches, volume, latence, budget, confidentialité, multimodalité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choix d'un LLM & comparaison de modèles"
 emoji: "🤖"

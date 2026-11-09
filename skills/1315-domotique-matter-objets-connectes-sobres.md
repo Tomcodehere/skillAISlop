@@ -1,6 +1,7 @@
 ---
 num: 1315
 resume: "équiper sa maison en objets connectés compatibles Matter (interopérables, locaux) pour piloter chauffage/éclairage avec économies d'énergie mesurables. Étape 1 : Choisir une box compatible Matter + appli locale si possible (Home Assistant, etc.)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Domotique Matter & objets connectés sobres"
 emoji: "🏠"

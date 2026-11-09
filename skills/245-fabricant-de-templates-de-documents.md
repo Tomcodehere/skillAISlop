@@ -1,6 +1,7 @@
 ---
 num: 245
 resume: "créer des modèles de documents réutilisables (comptes rendus, devis, rapports) qui standardisent la production d'équipe. Étape 1 : Identifier les documents récurrents et leurs lecteurs réels."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fabricant de templates de documents"
 emoji: "🖨️"

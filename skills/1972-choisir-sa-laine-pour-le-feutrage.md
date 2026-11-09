@@ -1,6 +1,7 @@
 ---
 num: 1972
 resume: "Acheter la bonne laine (cardée pour le cœur, peignée pour la finition) dans les bonnes quantités. Étape 1 : Cœur de la forme : laine cardée grossière (corriedale), pas chère, qui feutre vite."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir sa laine pour le feutrage"
 emoji: "🐑"

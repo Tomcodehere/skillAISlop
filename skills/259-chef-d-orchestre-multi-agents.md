@@ -1,6 +1,7 @@
 ---
 num: 259
 resume: "concevoir un système multi-agents coordonné : rôles spécialisés, règles de passage de relais et points de contrôle humains. Étape 1 : Décomposer le travail en rôles et définir la responsabilité de chaque agent."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chef d'orchestre multi-agents"
 emoji: "🚂"

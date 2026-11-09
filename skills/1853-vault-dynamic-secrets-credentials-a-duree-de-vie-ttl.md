@@ -1,6 +1,7 @@
 ---
 num: 1853
 resume: "Utiliser les dynamic secrets Vault (moteur database) : un credential dédié créé à la volée avec TTL (ex. 24 h), expirant automatiquement — plus de mots de passe statiques partagés ni de rotation manuelle. Étape 1 : Activer database engine + configurer la connexion BDD (plugin, root cred dans Vault seul)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vault dynamic secrets : credentials à durée de vie (TTL)"
 emoji: "⏳"

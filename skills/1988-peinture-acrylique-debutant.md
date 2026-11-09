@@ -1,6 +1,7 @@
 ---
 num: 1988
 resume: "Une première toile acrylique finie, avec les bases (préparation, couches, séchage). Étape 1 : Acheter toiles + acryliques de base + pinceaux + médium + palette."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Peinture acrylique débutant"
 emoji: "🖌️"

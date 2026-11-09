@@ -1,6 +1,7 @@
 ---
 num: 466
 resume: "construire des horaires tournants soutenables : couverture complète, équité entre équipes et repos réglementaire respecté. Étape 1 : Établir la charge réelle par créneau et les contraintes réglementaires de repos."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur d'horaires atypiques"
 emoji: "🍪"

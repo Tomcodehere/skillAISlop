@@ -1,6 +1,7 @@
 ---
 num: 1568
 resume: "Rendre les SFX vivants en 2027 : à chaque joue, pitch aléatoire 0,9-1,1 et volume ±3 dB (jamais identique), pool de voix par catégorie (1551), priorité aux sons proches de la caméra, cooldown anti-spam par catégorie. Étape 1 : Sur chaque event SFX : ajouter 'Pitch' random 0,9-1,1 et 'Volume' random -3/+3 dB (FMOD/Wwise randomizer)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SFX réactifs : variation de pitch/volume et pooling"
 emoji: "📢"

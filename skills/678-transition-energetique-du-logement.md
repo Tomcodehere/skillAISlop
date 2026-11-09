@@ -1,6 +1,7 @@
 ---
 num: 678
 resume: "planifier la rénovation énergétique d'un logement : DPE, travaux prioritaires, aides financières et artisans RGE. Étape 1 : Diagnostiquer : DPE actuel, postes de déperdition (combles, murs, fenêtres, chauffage), confort ressenti."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Transition énergétique du logement"
 emoji: "🔆"

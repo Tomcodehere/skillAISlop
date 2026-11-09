@@ -1,6 +1,7 @@
 ---
 num: 1334
 resume: "sécuriser son domicile en 2027 : détecteurs de fumée obligatoires, alarme connectée avec télésurveillance, serrure renforcée, et assurance habitation à jour. Étape 1 : Vérifier détecteurs fumée (1/étage, test mensuel) + alarme connectée + télésurveillance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sécurité domicile & alarme"
 emoji: "🏡"

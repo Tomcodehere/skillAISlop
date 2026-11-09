@@ -1,6 +1,7 @@
 ---
 num: 1182
 resume: "Produire un livrable maîtrisé : bible de monde versionnée (lore, chronologie, personnages, lexique, règles de ton) et dossier de préparation à la localisation (clés de texte, contexte pour traducteurs, glossaire). Étape 1 : Cadrer les inputs : pitch, canon validé, langues cibles, format d'export, sujets sensibles ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lore, Worldbuilding Bible & Localization Prep"
 emoji: "💻"

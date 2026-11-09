@@ -1,6 +1,7 @@
 ---
 num: 1542
 resume: "Organiser des événements saisonniers en 2027 : event temporaire (2 semaines, skins/quêtes/niveau dédiés activés par remote config), battle pass 30 paliers (gratuit + payant), annonce in-game, métriques de l'event (1540), rotation mensuelle. Étape 1 : Planifier l'année : 1 event/mois (Halloween, Noël, été...), durée 2 semaines, contenu dédié (skins 1585, quêtes 1531, niveau temporaire)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Live ops : evenements saisonniers et battle pass simple"
 emoji: "🌟"

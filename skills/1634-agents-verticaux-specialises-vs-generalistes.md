@@ -1,6 +1,7 @@
 ---
 num: 1634
 resume: "Choisir en 2027 entre agent vertical (spécialisé domaine, données propres, conformité AI Act) et généraliste : comparer fiabilité, coût de construction (RAG domaine 1477 + distillation 1473), régulation (1681), et décider selon le risque. Étape 1 : Évaluer le risque : domaine haut risque (santé, crédit, emploi, Annex III AI Act) → agent vertical obligatoire + conformité (1681)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Agents verticaux specialises vs generalistes"
 emoji: "🎯"

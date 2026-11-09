@@ -1,6 +1,7 @@
 ---
 num: 763
 resume: "prioriser rationnellement avec la matrice d'Eisenhower et protéger son temps des urgences non importantes. Étape 1 : Classer les tâches : urgent/important, important à planifier, urgent à déléguer, à éliminer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion du temps & priorités (matrice d'Eisenhower)"
 emoji: "⏳"

@@ -1,6 +1,7 @@
 ---
 num: 1781
 resume: "Activer et mesurer l'AIO de PG18 (io_method=io_uring) : lectures asynchrones des heap/bitmap scans, jusqu'à 3x plus rapide quand le dataset dépasse shared_buffers. Étape 1 : Verifier io_uring disponible (kernel, seccomp) et passer io_method=io_uring dans postgresql.conf."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AIO PostgreSQL 18 : I/O asynchrones (io_uring)"
 emoji: "⚡"

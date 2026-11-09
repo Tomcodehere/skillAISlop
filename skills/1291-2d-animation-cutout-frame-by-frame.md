@@ -1,6 +1,7 @@
 ---
 num: 1291
 resume: "Produire un livrable maîtrisé : animation 2D (cutout ou image par image) avec planches ou clips et fiche de timing. Étape 1 : Cadrer les inputs : personnage ou éléments 2D, style, framerate, outils (Blender Grease Pencil, Godot Skeleton2D, Krita) ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "2D Animation Cutout & Frame-by-Frame"
 emoji: "🎨"

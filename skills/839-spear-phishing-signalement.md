@@ -1,6 +1,7 @@
 ---
 num: 839
 resume: "reconnaître un spear phishing (mail personnalisé avec vos données fuitées) et le signaler correctement (33700, Pharos, banque, IT). Étape 1 : Reconnaître : personnalisation crédible (vrai nom, projet récent) = données fuitées, vérifier sur haveibeenpwned."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Spear phishing & signalement"
 emoji: "🎯"

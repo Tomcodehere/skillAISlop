@@ -1,6 +1,7 @@
 ---
 num: 1526
 resume: "Concevoir un boss en 2027 : 3 phases selon PV avec transitions courtes (invincible), attaques télégraphiées (marque au sol/zone + barre de cast), rotation de patterns, et fenêtres de contre-attaque après certaines attaques. Étape 1 : Phases : phase = PV supérieur à 66 % ? 1 : PV supérieur à 33 % ? 2 : 3; au changement, 2 s invincible + anim + nouveau set de patterns."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Boss : phases et patterns telegraphes"
 emoji: "🐉"

@@ -1,6 +1,7 @@
 ---
 num: 1662
 resume: "Adopter Apache Iceberg v3 en 2027 (deletion vectors pour les suppressions efficaces + conformité effacement RGPD 189, row lineage pour la traçabilité ligne par ligne) dans un lakehouse ouvert (1463), avec support Snowflake/Databricks/Spark/DuckDB (1660). Étape 1 : Migrer la table en v3 (format_version=3, migration progressive, compatibilité v2 maintenue)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Apache Iceberg v3 : deletion vectors et row lineage"
 emoji: "🧊"

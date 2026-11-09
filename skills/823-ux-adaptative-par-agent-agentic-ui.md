@@ -1,6 +1,7 @@
 ---
 num: 823
 resume: "faire évoluer une interface pour qu'elle s'adapte à l'utilisateur (niveau, préférences, contexte) sans la surcharger. Étape 1 : Définir les niveaux utilisateur et ce qui change à chaque niveau (guidage, raccourcis, densité d'info)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "UX adaptative par agent (agentic UI)"
 emoji: "✨"

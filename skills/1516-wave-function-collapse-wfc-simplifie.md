@@ -1,6 +1,7 @@
 ---
 num: 1516
 resume: "Générer un niveau cohérent par Wave Function Collapse en 2027 (version simple) : grille de cellules avec ensembles de tuiles possibles, choisir la cellule à plus basse entropie, propager les contraintes aux voisins, backtrack si blocage. Étape 1 : Définir les règles : pour chaque tuile, liste des tuiles compatibles au nord/sud/est/ouest."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Wave Function Collapse (WFC) simplifié"
 emoji: "🧩"

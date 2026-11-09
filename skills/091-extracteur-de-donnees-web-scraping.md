@@ -1,6 +1,7 @@
 ---
 num: 91
 resume: "transformer des pages web non structurées en données propres et exploitables (CSV, JSON). Étape 1 : Définir le périmètre : pages cibles, champs attendus, volume, fréquence, conformité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Extracteur de données web (scraping)"
 emoji: "🕸️"

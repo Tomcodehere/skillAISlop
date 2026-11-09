@@ -1,6 +1,7 @@
 ---
 num: 1413
 resume: "Diviser par 2-3 le temps d'une CI en 2027 : cache des dépendances et layers Docker, jobs en parallèle (matrix), étapes ordonnées (lint d'abord, fail-fast), sans perdre de tests. Étape 1 : Mesurer le temps de chaque job pour cibler le goulot."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pipeline CI rapide : cache et parallelisation"
 emoji: "⏩"

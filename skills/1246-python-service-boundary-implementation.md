@@ -1,6 +1,7 @@
 ---
 num: 1246
 resume: "Implémenter une frontière de service Python avec contrats typés et erreurs explicites. Étape 1 : Cadrer les inputs : cas d'usage, schéma d'entrée/sortie, i/o et erreurs attendues ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Python Service Boundary Implementation"
 emoji: "💻"

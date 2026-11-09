@@ -1,6 +1,7 @@
 ---
 num: 1317
 resume: "activer son identité numérique France Identité (CNIe gratuite + appli) et le permis de conduire numérique pour les démarches et contrôles 2027. Étape 1 : Renouveler gratuitement sa CNI pour obtenir la CNIe (format carte bancaire) via ANTS/mairie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "France Identité & CNIe"
 emoji: "🪪"

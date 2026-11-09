@@ -1,6 +1,7 @@
 ---
 num: 1368
 resume: "Detecter les principaux biais cognitifs (ancrage, confirmation, statu quo, cout irrecuperable) dans une decision en cours, appliquer le cout de l'inaction et designer un contradicteur, avant de trancher. Étape 1 : Decrire la decision et l'information qui a servi d'ancre (premier chiffre, avis dominant)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Eviter les biais cognitifs de decision"
 emoji: "🧠"

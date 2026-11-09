@@ -1,6 +1,7 @@
 ---
 num: 1487
 resume: "Sunsetter une feature en 2027 sans perdre la confiance : mesurer l'usage réel, annoncer à J-90/60/30 avec alternative et export des données, page de statut, support dédié, puis arrêt avec page explicative. Étape 1 : Mesurer : % d'utilisateurs actifs sur la feature sur 90 jours (seuil ex. inférieur à 5 %)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Deprecier une feature sans perdre ses utilisateurs (sunsetting)"
 emoji: "🌅"

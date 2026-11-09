@@ -1,6 +1,7 @@
 ---
 num: 415
 resume: "concevoir un dispositif de feedback 360 utile : répondants pertinents, questions comportementales, synthèse honnête et plan de progression. Étape 1 : Sélectionner les répondants par diversité de relation et garantir l'anonymat."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Designer de cycles de feedback 360"
 emoji: "🛞"

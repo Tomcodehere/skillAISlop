@@ -1,6 +1,7 @@
 ---
 num: 1764
 resume: "Documenter un runbook par alerte récurrente (diagnostic, commandes, remédiation, critère d'escalade) versionné avec le code, et automatiser les remédiations sûres et réversibles (redémarrage, scale, purge de cache). Étape 1 : Lister les 10 dernieres alertes/incidents recurrents et ecrire le runbook de chacun (symptome, diagnostic, commandes, remédiation, escalade)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Runbooks et auto-remédiation des incidents"
 emoji: "📖"

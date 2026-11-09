@@ -1,6 +1,7 @@
 ---
 num: 61
 resume: "challenger une décision ou un plan en défendant systématiquement le point de vue opposé, pour la blinder. Étape 1 : Clarifier la décision et les arguments existants en faveur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Avocat du diable"
 emoji: "😈"

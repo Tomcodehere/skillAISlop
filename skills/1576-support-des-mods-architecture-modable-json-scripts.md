@@ -1,6 +1,7 @@
 ---
 num: 1576
 resume: "Rendre un jeu modable en 2027 : données (objets 1535, quêtes 1531, équilibres 1529) en JSON externes, API de modding (Lua embarqué ou events exposés), dossier /mods au boot avec liste on/off (1574), sandbox (pas d'accès système), version de compatibilité par mod. Étape 1 : Externaliser : items.json, quests.json, balance.json (dégâts, prix 1529) chargés au boot, modifiables par les mods (merge)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Support des mods : architecture modable (JSON, scripts)"
 emoji: "🦩"

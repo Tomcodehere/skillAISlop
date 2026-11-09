@@ -1,6 +1,7 @@
 ---
 num: 1341
 resume: "rédiger des emails professionnels qui obtiennent une réponse en 2027 : objet parlant, structure courte, une seule demande, CTA clair, relance mesurée. Étape 1 : Objet parlant (action + date), accroche en 1 phrase, corps 3-5 lignes, 1 demande, CTA final."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédiger un email professionnel percutant"
 emoji: "📧"

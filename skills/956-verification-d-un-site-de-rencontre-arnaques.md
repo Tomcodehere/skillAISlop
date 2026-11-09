@@ -1,6 +1,7 @@
 ---
 num: 956
 resume: "détecter une arnaque sur un site/app de rencontre en 2027 (love scam) : faux profil, demande d'argent, signaux, vérification, signalement. Étape 1 : Signaux : profil parfait, amour rapide, jamais de visio, demande d'argent (urgence médicale/douane/billet)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vérification d'un site de rencontre (arnaques)"
 emoji: "🚩"

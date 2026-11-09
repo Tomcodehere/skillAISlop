@@ -1,6 +1,7 @@
 ---
 num: 1555
 resume: "Ajouter un post-processing léger en 2027 (vignette, grain, bloom subtil, chromatic aberration sur les dégâts) en 1 passe GPU (URP/HDRP), profilé pour rester à 60 fps (1552), désactivable dans les réglages (1574). Étape 1 : URP : ajouter un Full Screen Pass (Render Feature) après le rendu, 1 material post-FX."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Post-processing : vignette, grain, bloom legers"
 emoji: "🌟"

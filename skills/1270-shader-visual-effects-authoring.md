@@ -1,6 +1,7 @@
 ---
 num: 1270
 resume: "Produire un livrable maîtrisé : shader visuel (Godot Shading Language ou VisualShader) pour un effet de matériau, de dissolution, de distorsion, de contour ou de post-traitement, avec paramètres exposés et scène de test. Étape 1 : Cadrer l'effet : support, moteur de rendu, plateformes, paramètres à exposer et textures d'entrée ; vérifier licences et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Shader Visual Effects Authoring"
 emoji: "💻"

@@ -1,6 +1,7 @@
 ---
 num: 938
 resume: "optimiser sa présence pour être cité par les moteurs IA (ChatGPT ~20 % du volume de recherche Google en nov. 2026, Perplexity, Gemini) : GEO/AEO, contenu structuré, sources fiables. Étape 1 : Contenu clair, sourcé, structuré (FAQ, définitions, tableaux) + données structurées schema.org."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "GEO / AEO : être cité par les moteurs IA"
 emoji: "🔍"

@@ -1,6 +1,7 @@
 ---
 num: 1232
 resume: "Prévenir la fuite temporelle dans l'évaluation d'un modèle prédictif. Étape 1 : Cadrer les inputs : historique horodaté, horizon de prédiction et disponibilité réelle des features ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Predictive Temporal Validation"
 emoji: "🧠"

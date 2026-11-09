@@ -1,6 +1,7 @@
 ---
 num: 1466
 resume: "Documenter le lineage des données en 2027 (OpenLineage/Marquez/DataHub ou dbt docs) : graphe des dépendances amont/aval par table/colonne, propriétaires, et impact analysis (si la source X casse, quelles cibles sont touchées). Étape 1 : Déployer la collecte de lineage (OpenLineage : jobs Airflow/dbt/Spark émettent les événements)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Provenance et lineage des donnees"
 emoji: "🧬"

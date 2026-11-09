@@ -1,6 +1,7 @@
 ---
 num: 1060
 resume: "Fournir un second avis chiffré sur les décisions ambiguës de l'agent de coordination : clarifier vs inférer, routage direct vs coordination multi-agents par l'agent de coordination, urgence critique vs normale, périmètre agent vs multi-agents."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Calibration Confiance Décisionnelle"
 emoji: "🧠"

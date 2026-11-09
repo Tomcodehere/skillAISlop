@@ -1,6 +1,7 @@
 ---
 num: 444
 resume: "gérer la notification d'une violation de données : qualification du risque, délais tenus, notification à l'autorité et communication aux personnes. Étape 1 : Qualifier la violation : données, personnes concernées, risques réels."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestionnaire de notification de violation de données"
 emoji: "🫨"

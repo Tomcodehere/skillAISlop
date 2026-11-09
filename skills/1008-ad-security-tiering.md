@@ -1,6 +1,7 @@
 ---
 num: 1008
 resume: "Sécuriser l'infrastructure Active Directory via un modèle de tiering (séparation des niveaux d'administration), le durcissement Kerberos/LDAP, et la réduction de la surface d'attaque des comptes à privilèges. Étape 1 : Cartographier les comptes à privilèges et leur usage réel (administration quotidienne, comptes de service, comptes d'urgence)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AD Security & Tiering"
 emoji: "🧠"

@@ -1,6 +1,7 @@
 ---
 num: 141
 resume: "concevoir des visuels vectoriels (logos, icônes, pictogrammes) éditables et cohérents en série. Étape 1 : Cadrer l'usage, la grille de construction et les contraintes (tailles, fonds)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créateur d'illustrations vectorielles"
 emoji: "✒️"

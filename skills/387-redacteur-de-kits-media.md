@@ -1,6 +1,7 @@
 ---
 num: 387
 resume: "assembler un kit média complet : communiqué, fiche entreprise, bios, visuels, données et FAQ, prêt à repartir par le journaliste. Étape 1 : Rassembler les faits vérifiés, visuels et personnes disponibles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de kits média"
 emoji: "📪"

@@ -1,6 +1,7 @@
 ---
 num: 1423
 resume: "Mettre en cache efficacement en 2027 avec Redis : cache-aside (lecture), TTL adapté, invalidation à l'écriture, et mesure du hit rate. Étape 1 : Identifier les lectures chaudes via les logs DB."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cache applicatif et invalidation"
 emoji: "⏱️"

@@ -1,6 +1,7 @@
 ---
 num: 670
 resume: "choisir et mettre en place un système de prise de notes et d'organisation personnelle soutenable. Étape 1 : Choisir l'outil principal selon le besoin : notes (Obsidian/Notion), tâches (Todoist/Trello), projets (Linear/Asana)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Outils de productivité & prise de notes"
 emoji: "🗂️"

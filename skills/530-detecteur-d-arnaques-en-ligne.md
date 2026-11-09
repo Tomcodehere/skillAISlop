@@ -1,6 +1,7 @@
 ---
 num: 530
 resume: "évaluer un message ou une offre suspects et protéger ses comptes : signaux d'alerte, vérifications et réaction en cas de piège. Étape 1 : Analyser les signaux du message ou de l'offre."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Détecteur d'arnaques en ligne"
 emoji: "🕵️"

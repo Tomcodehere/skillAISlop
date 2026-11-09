@@ -7,6 +7,7 @@ Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-22 du 2026-11-02
 ```bash
 python3 outils/routage.py build        # ~2 s, une seule fois (skills.db est gitignoré)
 python3 outils/routage.py route "ma demande"   # exit 0 = skill trouvée, 1 = piste, 2 = rien
+python3 outils/routage.py route --lang en "my request"  # multilingue : sidecars skills/NNN-*.en.md, auto-détection par défaut, fallback FR
 ```
 Prérequis : Python 3.12+ (stdlib seule suffit). Optionnel mais recommandé : `pip install sqlite-vec` (voie vectorielle ; sinon repli gracieux FTS5 seul).
 

@@ -1,6 +1,7 @@
 ---
 num: 1192
 resume: "Concevoir des expériences ML rigoureuses, comparer des modèles et interpréter les résultats avec une validation statistique adaptée. Étape 1 : Définir H0/H1, baseline, effet minimal détectable et décision attendue."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "ML Experimentation & Validation"
 emoji: "🧠"

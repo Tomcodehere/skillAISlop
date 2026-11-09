@@ -1,6 +1,7 @@
 ---
 num: 824
 resume: "prévenir la fraude au président (BEC) : un mail usurpé demande un virement urgent — reconnaître les signaux et instaurer une procédure de vérification. Étape 1 : Signaux BEC : urgence, « ne m'appelle pas », changement de RIB, adresse proche, ton inhabituel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fraude au président (BEC) & virements"
 emoji: "📧"

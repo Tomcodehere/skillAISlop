@@ -1,6 +1,7 @@
 ---
 num: 1654
 resume: "Donner une identité cryptographique à chaque workload en 2027 avec SPIFFE/SPIRE : SVID (certificat X.509 à courte durée de vie, renouvelé automatiquement), mTLS entre services, plus de secrets longue durée (1446), révocation instantanée. Étape 1 : Déployer SPIRE server + agents (sur chaque nœud), configurer les attestations (k8s ServiceAccount, AWS instance profile, etc.)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Identite machine : SPIFFE/SPIRE pour workloads"
 emoji: "🖥️"

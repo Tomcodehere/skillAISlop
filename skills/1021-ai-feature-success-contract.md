@@ -1,6 +1,7 @@
 ---
 num: 1021
 resume: "Formaliser les conditions d'acceptation d'une fonctionnalité IA entre responsables produit, modèle et exploitation. Étape 1 : Cadrer les inputs : usage cible, erreurs tolérables, supervision et métriques métier ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI Feature Success Contract"
 emoji: "🧠"

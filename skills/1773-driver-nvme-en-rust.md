@@ -1,6 +1,7 @@
 ---
 num: 1773
 resume: "Évaluer le driver NVMe en Rust comme preuve de faisabilité du Rust sur un chemin I/O critique (latence SSD), avec les garanties : pas de GC, allocations contrôlées, objets pinés. Étape 1 : Confirmer le driver NVMe Rust livre et teste (rust-for-linux)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Driver NVMe en Rust"
 emoji: "💾"

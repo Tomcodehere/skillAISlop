@@ -1,6 +1,7 @@
 ---
 num: 114
 resume: "structurer les notes, projets et savoirs d'une personne ou d'une équipe en base de connaissances navigable. Étape 1 : Auditer l'existant (notes, fichiers, habitudes) et les usages réels."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte de bases de connaissances"
 emoji: "📕"

@@ -1,6 +1,7 @@
 ---
 num: 1332
 resume: "préparer le bien vieillir et l'autonomie en 2027 : prévention des chutes, aménagement du logement, aides (APA, téléassistance), rôle d'aidant familial. Étape 1 : Évaluer les risques de chute à domicile ; aménagement (barres, éclairage, antidérapants)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bien vieillir & autonomie"
 emoji: "🦯"

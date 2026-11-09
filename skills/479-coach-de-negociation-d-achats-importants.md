@@ -1,6 +1,7 @@
 ---
 num: 479
 resume: "négocier un achat important (voiture, travaux, équipement) : prix de référence, leviers réels, échanges et sortie propre. Étape 1 : Établir le prix de référence réel et fixer sa limite maximale avant d'entrer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de négociation d'achats importants"
 emoji: "🍴"

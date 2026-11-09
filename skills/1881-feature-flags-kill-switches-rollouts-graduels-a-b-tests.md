@@ -1,6 +1,7 @@
 ---
 num: 1881
 resume: "Déployer derrière des feature flags : kill switch (off en 1 clic sans redéploiement), rollouts graduels avec auto-rollback, ciblage, A/B tests, audit log — LaunchDarkly/Statsig ou OSS (Unleash/GrowthBook/Flagsmith). Étape 1 : Créer le flag (off par défaut) + SDK dans le code (if flag) — la feature n'existe pas sans flag."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Feature flags : kill switches, rollouts graduels, A/B tests"
 emoji: "🚩"

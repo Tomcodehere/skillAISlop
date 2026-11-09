@@ -1,6 +1,7 @@
 ---
 num: 100
 resume: "écrire les instructions système complètes d'un agent autonome : rôle, limites, procédure, ton, garde-fous. Étape 1 : Définir la mission, les utilisateurs et le périmètre d'action de l'agent."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte d'instructions d'agent"
 emoji: "🎛️"

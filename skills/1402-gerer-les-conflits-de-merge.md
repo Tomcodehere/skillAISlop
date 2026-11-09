@@ -1,6 +1,7 @@
 ---
 num: 1402
 resume: "Résoudre un conflit de merge sereinement en 2027 : lire les marqueurs, choisir ours/theirs/les deux intelligemment, et valider le résultat avec les tests avant de continuer. Étape 1 : Lire git status pour lister les fichiers en conflit."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gerer les conflits de merge"
 emoji: "⚔️"

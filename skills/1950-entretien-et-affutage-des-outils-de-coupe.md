@@ -1,6 +1,7 @@
 ---
 num: 1950
 resume: "Des ciseaux et burins tranchants comme un rasoir, en sécurité. Étape 1 : Si ébréché : redresser le biseau au grain grossier (400-600), puis biseau à 25-30°."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Entretien et affûtage des outils de coupe"
 emoji: "🪓"

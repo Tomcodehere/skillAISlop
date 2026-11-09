@@ -1,6 +1,7 @@
 ---
 num: 830
 resume: "comprendre ses droits au chômage : inscription, calcul de l'ARE, durée d'indemnisation, cumul emploi, cas de la démission. Étape 1 : Inscription France Travail sous 30 jours ; dossier avec attestations employeur et fiches de paie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chômage & droits France Travail"
 emoji: "💼"

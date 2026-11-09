@@ -1,6 +1,7 @@
 ---
 num: 1687
 resume: "Évaluer en 2027 l'AWS European Sovereign Cloud (janv 2026, 7,8 Md€, entité allemande) : données en UE, clés contrôlées par entité UE, mais opérateur US — comparer avec les fournisseurs purement UE (OVH, Gaia-X niveau 3 1686) et faire valider par le juridique (CLOUD Act). Étape 1 : Lister ce qui migre : données + métadonnées + clés (Key Management UE) + support (UE) sur le Sovereign Cloud."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AWS European Sovereign Cloud : évaluer l'offre souveraine US"
 emoji: "☁️"

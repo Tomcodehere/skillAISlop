@@ -1,6 +1,7 @@
 ---
 num: 834
 resume: "décider entre remboursement anticipé, renégociation de taux et rachat de crédit : calcul du gain net (intérêts économisés − IRA − frais). Étape 1 : Comparer 3 options : remboursement anticipé (IRA plafonnés), renégociation, rachat."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Remboursement anticipé / rachat de crédit"
 emoji: "💸"

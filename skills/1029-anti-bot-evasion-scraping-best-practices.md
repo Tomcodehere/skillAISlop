@@ -1,6 +1,7 @@
 ---
 num: 1029
 resume: "Définir les bonnes pratiques techniques pour réaliser du scraping web de manière robuste, respectueuse des serveurs cibles et durable dans le temps : rate limiting, rotation, en-têtes HTTP, respect de `robots.txt`. Étape 1 : Lire et documenter `robots.txt` du site cible (Disallow, Crawl-delay, sitemap)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Anti-Bot Evasion & Scraping Best Practices"
 emoji: "💻"

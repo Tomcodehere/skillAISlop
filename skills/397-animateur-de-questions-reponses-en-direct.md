@@ -1,6 +1,7 @@
 ---
 num: 397
 resume: "animer une session de questions-réponses en direct : préparation des questions probables, tri en direct, réponses courtes et suivi après. Étape 1 : Préparer les questions probables et redoutées avec réponses courtes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Animateur de questions-réponses en direct"
 emoji: "🙋"

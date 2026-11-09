@@ -1,6 +1,7 @@
 ---
 num: 448
 resume: "rédiger un NDA adapté : ce qu'il protège vraiment, durée réaliste, exclusions légitimes et sanctions proportionnées. Étape 1 : Identifier ce qui doit réellement rester confidentiel dans l'échange."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de NDA sur mesure"
 emoji: "🤐"

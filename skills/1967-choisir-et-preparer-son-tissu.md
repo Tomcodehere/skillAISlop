@@ -1,6 +1,7 @@
 ---
 num: 1967
 resume: "Un tissu choisi adapté au projet et préparé (pré-lavé, droit-fil respecté, entoilé si besoin). Étape 1 : Vérifier le droit-fil (parallèle à la lisière), repérer l'endroit (plus vif)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir et préparer son tissu"
 emoji: "🧶"

@@ -1,6 +1,7 @@
 ---
 num: 226
 resume: "transformer un livre lu (ou écouté) en fiche de lecture utile : idées clés, citations, applications concrètes. Étape 1 : Recueillir la matière : notes prises, passages marqués, contexte de lecture."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ficheur de lectures"
 emoji: "👓"

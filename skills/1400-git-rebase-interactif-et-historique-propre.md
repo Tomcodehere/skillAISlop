@@ -1,6 +1,7 @@
 ---
 num: 1400
 resume: "Nettoyer une branche locale avant merge : rebase interactif pour squasher/reordonner/renommer les commits, en gardant un historique lisible (1 commit = 1 changement logique). Étape 1 : Vérifier que la branche n'est pas déjà poussée/partagée (sinon prévenir l'équipe)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Git rebase interactif et historique propre"
 emoji: "🔀"

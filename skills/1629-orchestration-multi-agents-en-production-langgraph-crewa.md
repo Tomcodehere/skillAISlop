@@ -1,6 +1,7 @@
 ---
 num: 1629
 resume: "Orchestrer plusieurs agents en production en 2027 (LangGraph/CrewAI/MS Agent Framework) : graphe de tâches avec états, rôles par agent, mémoire partagée (1434), reprise sur erreur (checkpoint), monitoring des trajectoires (1476). Étape 1 : Modéliser la tâche en graphe : nœuds = agents (rôle + outils), arêtes = passage de contexte."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Orchestration multi-agents en production (LangGraph, CrewAI, MS Agent Framework)"
 emoji: "🏗️"

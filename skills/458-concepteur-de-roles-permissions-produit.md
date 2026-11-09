@@ -1,6 +1,7 @@
 ---
 num: 458
 resume: "concevoir les rôles et permissions d'un produit : rôle par besoin réel, principe du minimum nécessaire et auditabilité des accès. Étape 1 : Recenser les populations réelles et leurs besoins d'action authentiques."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de rôles & permissions produit"
 emoji: "🫅"

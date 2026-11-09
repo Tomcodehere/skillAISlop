@@ -1,6 +1,7 @@
 ---
 num: 1993
 resume: "Un yarn bombing posé légalement (autorisation obtenue) ou sur son bien propre, démontable. Étape 1 : Vérifier le droit (autorisation mairie/propriétaire, ou son propre bien)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Yarn bombing (tricot/crochet urbain)"
 emoji: "🧶"

@@ -1,6 +1,7 @@
 ---
 num: 450
 resume: "concevoir des états vides utiles : ce que la page fera, comment la remplir, premier pas proposé — l'utilisateur jamais bloqué face à du blanc. Étape 1 : Recenser tous les états vides du parcours : initial, filtrage, erreur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur d'états vides"
 emoji: "🍤"

@@ -1,6 +1,7 @@
 ---
 num: 1849
 resume: "Appliquer l'OWASP LLM Top 10 (édition 2025) : LLM01 injection (1845), LLM03 supply chain (1821+), LLM06 excessive agency (1850), LLM07 fuite de system prompt, LLM10 consommation non bornée (budgets 1800) — avec leurs mitigations. Étape 1 : LLM01 injection -supérieur à 1845 ; LLM03 supply chain -supérieur à 1821-1830 ; LLM06 agency -supérieur à 1850 ; LLM07 fuite system prompt -supérieur à canary ("
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OWASP LLM Top 10 : les 10 risques LLM (édition courante)"
 emoji: "🔐"

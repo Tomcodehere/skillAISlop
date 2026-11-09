@@ -1,6 +1,7 @@
 ---
 num: 157
 resume: "transformer un contenu existant (article, newsletter) en épisode de podcast audio à deux voix, naturel et fluide. Étape 1 : Sélectionner le contenu source et l'angle de l'épisode ; définir durée et format."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Producteur de podcast IA"
 emoji: "🎧"

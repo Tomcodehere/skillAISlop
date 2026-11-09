@@ -1,6 +1,7 @@
 ---
 num: 864
 resume: "résoudre un conflit de voisinage : de l'amiable (courrier factuel) à la médiation, en passant par la mairie/garde, jusqu'au tribunal si besoin. Étape 1 : Dialogue direct d'abord, puis courrier factuel (dates, heures, nature du trouble) en LRAR."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion d'un litige de voisinage"
 emoji: "🏘️"

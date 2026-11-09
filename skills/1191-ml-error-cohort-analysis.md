@@ -1,6 +1,7 @@
 ---
 num: 1191
 resume: "Expliquer où un modèle prédictif échoue en comparant des cohortes et exemples d'erreur. Étape 1 : Cadrer les inputs : prédictions, vérité terrain, segments autorisés et protocole de validation ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "ML Error Cohort Analysis"
 emoji: "🧠"

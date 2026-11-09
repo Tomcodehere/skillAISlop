@@ -1,6 +1,7 @@
 ---
 num: 1637
 resume: "Équiper un agent d'une mémoire graphe en 2027 (Zep/Graphiti) : entités, relations, épisodes datés dans un graphe temporel (Neo4j/Kuzu 1478) — l'agent raisonne sur les liens ('qui a signé le contrat lié à ce fournisseur'). Étape 1 : Choisir Zep (API mémoire graphe temps réel) ou Graphiti (open source, ingestion auto)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Memoire graphe d'agent : Zep, Graphiti"
 emoji: "🕸️"

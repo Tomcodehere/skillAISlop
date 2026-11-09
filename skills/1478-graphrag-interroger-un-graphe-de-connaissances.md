@@ -1,6 +1,7 @@
 ---
 num: 1478
 resume: "Construire un GraphRAG en 2027 : extraction LLM des entités/relations du corpus dans un graphe (Neo4j/Kuzu), requêtes multi-sauts (Cypher via text2cypher ou parcours de graphe), combiné au retrieval vectoriel. Étape 1 : Définir l'ontologie (entités : Personne, Contrat, Projet... ; relations : signé, dépend_de...)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "GraphRAG : interroger un graphe de connaissances"
 emoji: "🕸️"

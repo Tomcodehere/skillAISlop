@@ -1,6 +1,7 @@
 ---
 num: 1927
 resume: "Protéger et embellir un ouvrage bois avec la finition adaptée à son usage. Étape 1 : Préparer : ponçage fin (120→240), dépoussiérage soigné."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Finitions du bois (huile, vernis, cire, lasure)"
 emoji: "🎨"

@@ -1,6 +1,7 @@
 ---
 num: 887
 resume: "recruter un alternant/stagiaire en conformité : type de contrat, tuteur, rémunération selon barème 2026, aides employeur. Étape 1 : Clarifier « Recrutement d'un alternant / stagiaire »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Recrutement d'un alternant / stagiaire"
 emoji: "🎓"

@@ -1,6 +1,7 @@
 ---
 num: 223
 resume: "vider une to-do list débordante : trier, prioriser, planifier, et éliminer ce qui n'a pas à être fait. Étape 1 : Déverser la liste brute et appliquer le tri en quatre tas avec justifications."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Priorisateur de tâches (to-do)"
 emoji: "⏳"

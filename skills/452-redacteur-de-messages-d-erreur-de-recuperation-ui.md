@@ -1,6 +1,7 @@
 ---
 num: 452
 resume: "concevoir les écrans d'échec qui récupèrent : erreurs humaines, techniques et de flux, avec le chemin de reprise conçu pour chacune. Étape 1 : Cartographier les erreurs réelles par famille : utilisateur, système, flux."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de messages d'erreur & de récupération UI"
 emoji: "🍥"

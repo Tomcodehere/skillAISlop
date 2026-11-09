@@ -1,6 +1,7 @@
 ---
 num: 1809
 resume: "Exécuter des workloads WebAssembly comme pods Kubernetes first-class (kwasm ou SpinKube/wasmCloud) : images Wasm légères, cold start ~1 ms, isolation renforcée — pour fonctions edge, plugins, calcul sandboxé dans le cluster. Étape 1 : Installer kwasm (RuntimeClass wasm) ou SpinKube (operator wasmCloud) sur les nœuds dédiés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "WebAssembly sur Kubernetes : pods Wasm (kwasm, SpinKube)"
 emoji: "🧩"

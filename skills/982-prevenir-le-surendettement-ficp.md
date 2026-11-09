@@ -1,6 +1,7 @@
 ---
 num: 982
 resume: "prévenir et sortir du surendettement en 2027 : budget, négociation créanciers, dossier Banque de France (plan de surendettement), FICP, aides. Étape 1 : Budget réel (recettes, charges fixes, crédits) ; marge de manœuvre ; épargne de précaution minimale d'abord."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prévenir le surendettement & FICP"
 emoji: "⚖️"

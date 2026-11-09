@@ -1,6 +1,7 @@
 ---
 num: 442
 resume: "rédiger une politique de rétention : durées de conservation par type de données, justification légale, mode de suppression et responsabilités. Étape 1 : Inventorier les catégories de données et leur base de traitement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de politiques de rétention & archivage"
 emoji: "🫙"

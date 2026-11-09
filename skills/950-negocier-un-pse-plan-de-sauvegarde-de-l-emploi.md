@@ -1,6 +1,7 @@
 ---
 num: 950
 resume: "comprendre et négocier un PSE (plan de sauvegarde de l'emploi) : procédure, rôle du CSE, accord majoritaire ou homologation, mesures d'accompagnement. Étape 1 : Procédure : info-consultation CSE, négociation avec les syndicats ou homologation DIRECCTE du plan."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Négocier un PSE (plan de sauvegarde de l'emploi)"
 emoji: "📉"

@@ -1,6 +1,7 @@
 ---
 num: 1125
 resume: "Préparer le dimensionnement et la règle d'arrêt d'une expérience analytique. Étape 1 : Cadrer les inputs : effet minimal utile, variance estimée, allocation et coût d'erreur ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Experiment Power Planning"
 emoji: "🤖"

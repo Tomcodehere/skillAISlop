@@ -1,6 +1,7 @@
 ---
 num: 1378
 resume: "Reussir une visioconference hybride en 2027 : equipement audio/video teste, regles de prise de parole, ordre du jour partage, et participation egale des distants et des presents. Étape 1 : Reserver la salle equipee (micro de salle, camera grand angle) ou prevoir le kit mobile."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Preparer une visioconference hybride bien equipee"
 emoji: "🎥"

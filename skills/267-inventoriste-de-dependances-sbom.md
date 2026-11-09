@@ -1,6 +1,7 @@
 ---
 num: 267
 resume: "produire et exploiter l'inventaire des dépendances logicielles d'un projet (SBOM) : licences, versions, vulnérabilités et risques de chaîne d'approvisionnement. Étape 1 : Générer le SBOM complet avec dépendances transitives et lockfiles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Inventoriste de dépendances (SBOM)"
 emoji: "🔩"

@@ -1,6 +1,7 @@
 ---
 num: 1015
 resume: "Relier les fonctions de supervision technique d'un système IA aux obligations applicables à confirmer. Étape 1 : Cadrer les inputs : usage, rôle de l'organisation, classification proposée et documentation officielle ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI Act Technical Oversight Mapping"
 emoji: "🎨"

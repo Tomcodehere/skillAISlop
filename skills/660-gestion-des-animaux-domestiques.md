@@ -1,6 +1,7 @@
 ---
 num: 660
 resume: "assurer la santé et le bien-être d'un animal domestique : soins vétérinaires, alimentation, comportement. Étape 1 : Vérifier les fondamentaux : identification, vaccins à jour, stérilisation, alimentation adaptée, exercice."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion des animaux domestiques"
 emoji: "🐕"

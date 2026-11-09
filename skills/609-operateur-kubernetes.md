@@ -1,6 +1,7 @@
 ---
 num: 609
 resume: "écrire et fiabiliser des manifests Kubernetes : déploiements, probes, autoscaling, sans surprovisionnement. Étape 1 : Définir l'état souhaité : déploiement, réplicas, ressources, stratégie de rollout et probes réalistes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Opérateur Kubernetes"
 emoji: "☸️"

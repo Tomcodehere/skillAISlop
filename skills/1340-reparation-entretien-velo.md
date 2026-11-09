@@ -1,6 +1,7 @@
 ---
 num: 1340
 resume: "entretenir et réparer soi-même son vélo en 2027 : crevaison, chaîne, freins, réglage dérailleur, révisions saisonnières, atelier associatif. Étape 1 : Kit de base : démonte-pneus, pompe, multi-outil, dérive, maillon rapide, chambre de secours."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Réparation & entretien vélo"
 emoji: "🚲"

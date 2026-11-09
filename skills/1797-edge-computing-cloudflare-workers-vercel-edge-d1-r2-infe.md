@@ -1,6 +1,7 @@
 ---
 num: 1797
 resume: "Déployer à l'edge en 2027 (Cloudflare Workers 330+ PoP, cold start inférieur à5 ms, D1/R2/Durable Objects/Workers AI ; Vercel Edge ; Lambda@Edge) pour une latence de 5-15 ms, en gardant les données proches de l'edge (pas d'appel origine mono-région). Étape 1 : Identifier les traitements 'proches de l'utilisateur' : routing, A/B, auth légère, rendu middleware, inférence IA légère (Workers AI)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Edge computing : Cloudflare Workers, Vercel Edge, D1/R2, inference IA locale"
 emoji: "🌎"

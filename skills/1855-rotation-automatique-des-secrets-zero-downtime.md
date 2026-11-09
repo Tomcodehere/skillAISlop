@@ -1,6 +1,7 @@
 ---
 num: 1855
 resume: "Automatiser la rotation des secrets sans downtime : Vault dynamic (TTL) ou rotation cloud -supérieur à ESO resync (1854) -supérieur à Reloader rolling restart ; ou secret en volume (propagation kubelet ~1 min sans restart). Étape 1 : Source : Vault dynamic TTL 24 h (1853) ou AWS SM rotation lambda (30 j)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rotation automatique des secrets (zero downtime)"
 emoji: "🔄"

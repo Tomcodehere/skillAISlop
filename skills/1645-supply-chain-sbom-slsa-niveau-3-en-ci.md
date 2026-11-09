@@ -1,6 +1,7 @@
 ---
 num: 1645
 resume: "Sécuriser la supply chain en 2027 (+40 % d'attaques, ENISA) : SBOM à chaque build (Syft), build SLSA niveau 3 (infra de confiance, provenance signée), signatures vérifiées (cosign 1457), miroir interne + quarantaine, alertes OSV. Étape 1 : SBOM à chaque build : syft → spdx/json, stocké avec la release, scan CVE (grype/trivy)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Supply chain : SBOM + SLSA niveau 3 en CI"
 emoji: "⛓️"

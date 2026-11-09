@@ -1,6 +1,7 @@
 ---
 num: 1917
 resume: "Clôturer un chantier proprement : PV de réception, réserves levées, DOE remis, garanties déclenchées. Étape 1 : Visiter l'ouvrage avec le client, rédiger le PV de réception avec réserves datées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Réception de chantier et DOE"
 emoji: "✅"

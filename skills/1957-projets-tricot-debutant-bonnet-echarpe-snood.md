@@ -1,6 +1,7 @@
 ---
 num: 1957
 resume: "Enchaîner 4-5 petits projets pour monter en compétence rapidement et finir des objets utiles. Étape 1 : Écharpe point mousse (montage, endroit/envers, rabattre)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Projets tricot débutant (bonnet, écharpe, snood)"
 emoji: "🧣"

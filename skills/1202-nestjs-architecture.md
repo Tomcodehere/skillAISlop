@@ -1,6 +1,7 @@
 ---
 num: 1202
 resume: "Concevoir architecture backend NestJS modulaire (controllers, services, modules, dependency injection, guards, interceptors)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "NestJS Architecture"
 emoji: "💻"

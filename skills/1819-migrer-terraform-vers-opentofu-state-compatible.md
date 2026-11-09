@@ -1,6 +1,7 @@
 ---
 num: 1819
 resume: "Migrer un repo Terraform vers OpenTofu : installer tofu, tofu init (state compatible réutilisé), tofu plan doit montrer 0 changement, puis remplacer terraform par tofu en CI — sans activer le chiffrement en même temps. Étape 1 : brew install opentofu (ou image CI), vérifier tofu version."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Migrer Terraform vers OpenTofu (state compatible)"
 emoji: "🔄"

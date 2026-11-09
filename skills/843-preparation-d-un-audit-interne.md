@@ -1,6 +1,7 @@
 ---
 num: 843
 resume: "préparer un audit interne (qualité, sécurité, RGPD) pour qu'il se passe bien : périmètre, preuves, entretiens, plan d'actions. Étape 1 : Périmètre + référentiel ; preuves : documents, registres, traces, revue de direction."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un audit interne"
 emoji: "📋"

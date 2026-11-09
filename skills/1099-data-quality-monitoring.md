@@ -1,6 +1,7 @@
 ---
 num: 1099
 resume: "Implémenter des systèmes robustes de validation, monitoring et alerting de la qualité des données pour garantir fiabilité, complétude et exactitude des datasets en production (data pipelines, data lake, data warehouse)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data Quality Monitoring"
 emoji: "💻"

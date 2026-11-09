@@ -1,6 +1,7 @@
 ---
 num: 1128
 resume: "Cadrer la préparation des données et la construction de features pour un pipeline de machine learning classique/prédictif, en prévenant les risques de fuite de données et de biais."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Feature Engineering & Data Preparation"
 emoji: "💻"

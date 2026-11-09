@@ -1,6 +1,7 @@
 ---
 num: 1714
 resume: "Standardiser l'environnement de dev en 2027 avec un devcontainer (.devcontainer/devcontainer.json : image, extensions, postCreateCommand qui seed la BDD, ports) : 'Reopen in Container' et tout marche — VS Code local ou GitHub Codespaces (cloud). Étape 1 : Créer .devcontainer/devcontainer.json : image (ex. mcr.microsoft.com/devcontainers/typescript-node), features (docker, git), customizations.vsco"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Devcontainers : environnement de dev en 1 commande"
 emoji: "📦"

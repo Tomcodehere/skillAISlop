@@ -1,6 +1,7 @@
 ---
 num: 741
 resume: "concevoir une démo produit qui raconte une histoire et montre la valeur, pas une liste de features. Étape 1 : Préparer : connaître le problème du client, choisir 2-3 features qui le résolvent, données de démo réalistes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation de démo produit"
 emoji: "🎪"

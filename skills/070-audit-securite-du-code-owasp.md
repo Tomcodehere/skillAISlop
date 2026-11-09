@@ -1,6 +1,7 @@
 ---
 num: 70
 resume: "auditer du code selon les vulnérabilités OWASP et produire un rapport de correction priorisé et contextualisé. Étape 1 : Identifier le type d'application et sa surface d'attaque (API, web, batch)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Audit sécurité du code (OWASP)"
 emoji: "🔐"

@@ -1,6 +1,7 @@
 ---
 num: 842
 resume: "vérifier la fiabilité d'un influenceur/marque avant d'acheter : mention sponsorisée, vrais avis externes, plaintes, achat sécurisé. Étape 1 : Vérifier la transparence : mention « sponsorisé » obligatoire ; avis externes (Trustpilot, Reddit, forums)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vérifier un influenceur avant achat"
 emoji: "🕵️"

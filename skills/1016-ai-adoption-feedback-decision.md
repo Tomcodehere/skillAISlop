@@ -1,6 +1,7 @@
 ---
 num: 1016
 resume: "Transformer les retours d'usage d'une fonctionnalité IA en décision produit traçable. Étape 1 : Cadrer les inputs : retours consentis, signaux d'adoption, segments autorisés et limites de collecte ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI Adoption Feedback Decision"
 emoji: "📦"

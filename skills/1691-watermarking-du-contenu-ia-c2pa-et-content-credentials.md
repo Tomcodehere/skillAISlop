@@ -1,6 +1,7 @@
 ---
 num: 1691
 resume: "Implémenter le watermarking C2PA en 2027 : chaque contenu IA généré (image/vidéo/audio/texte) embarque des Content Credentials signés (auteur, modèle, date, prompt) — lisible humain, vérifiable machine (C2PA verify) — requis par l'AI Act art 50(2) (dès 2 août 2026, systèmes existants au 2 déc 2026). Étape 1 : Intégrer le SDK C2PA dans la génération : après création du média, signer un manifest (as"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Watermarking du contenu IA : C2PA et Content Credentials"
 emoji: "🎧"

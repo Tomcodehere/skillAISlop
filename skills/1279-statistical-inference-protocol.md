@@ -1,6 +1,7 @@
 ---
 num: 1279
 resume: "Choisir une analyse statistique compatible avec la question, l'échantillonnage et les hypothèses. Étape 1 : Cadrer les inputs : question, variables, plan de collecte, dépendances et taille d'échantillon ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Statistical Inference Protocol"
 emoji: "🤖"

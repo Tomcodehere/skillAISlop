@@ -1,6 +1,7 @@
 ---
 num: 808
 resume: "déployer un agent vocal (réception, IVR, assistant) avec une voix personnalisée, en local si données sensibles (Handy, Voicebox 2026). Étape 1 : Clarifier « Agent vocal (voice agent) & voix locale »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Agent vocal (voice agent) & voix locale"
 emoji: "🎙️"

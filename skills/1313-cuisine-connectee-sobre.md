@@ -1,6 +1,7 @@
 ---
 num: 1313
 resume: "équiper sa cuisine d'appareils connectés utiles et sobres en énergie (jusqu'à -35 % sur la facture), sans tomber dans le gadget. Étape 1 : Lister ses vrais besoins (batch cooking, cuisson précise, vapeur) avant d'acheter."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cuisine connectée sobre"
 emoji: "🍳"

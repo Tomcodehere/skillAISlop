@@ -1,6 +1,7 @@
 ---
 num: 1729
 resume: "Gouverner l'adoption d'eBPF en entreprise en 2027 : stack réduit (Cilium 1721, Falco 1723, Tetragon 1725, Beyla 1724, bpftrace 1726 en debug only), formation (CCAE 1728), overhead mesuré (moins de 5 % de CPU), TCO open source vs enterprise (Isovalent), éviter la fragmentation. Étape 1 : Stack standard : Cilium (réseau+obs Hubble 1721/1722 + mesh 1727) + Falco ou Tetragon (sécurité runtime 1723/172"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "eBPF en entreprise : gouvernance et coûts"
 emoji: "💰"

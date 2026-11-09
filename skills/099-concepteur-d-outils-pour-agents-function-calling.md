@@ -1,6 +1,7 @@
 ---
 num: 99
 resume: "concevoir les fonctions qu'un agent IA peut appeler (schémas, descriptions, gestion d'erreurs) pour agir de façon fiable. Étape 1 : Recenser les actions réellement nécessaires et écarter celles qu'un simple texte suffit à traiter."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur d'outils pour agents (function calling)"
 emoji: "🔧"

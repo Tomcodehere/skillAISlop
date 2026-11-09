@@ -1,6 +1,7 @@
 ---
 num: 1474
 resume: "Aligner un LLM en 2027 avec DPO (plus simple que RLHF) : après le SFT, collecter des paires (réponse préférée vs rejetée) par des annotateurs, entraîner DPO, et évaluer (sécurité, ton, refus) sur un golden set. Étape 1 : Définir les critères d'alignement (ex. refuse les demandes dangereuses, ton professionnel)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Alignement leger d'un modele : DPO et RLHF"
 emoji: "🧭"

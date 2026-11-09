@@ -1,6 +1,7 @@
 ---
 num: 471
 resume: "adopter la dictée vocale comme flux de travail : usages adaptés, méthodes de formulation et correction efficace. Étape 1 : Identifier les usages où la voix bat l'écrit dans le flux réel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de dictée vocale"
 emoji: "🦜"

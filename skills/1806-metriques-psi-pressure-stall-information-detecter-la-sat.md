@@ -1,6 +1,7 @@
 ---
 num: 1806
 resume: "Exploiter les métriques PSI (Pressure Stall Information, GA 1.36) du kubelet pour détecter la saturation CPU/mémoire/IO d'un nœud avant OOMKill/throttle, et alerter (cpu some avg10 supérieur à 5 %). Étape 1 : Vérifier que le kubelet expose PSI (k8s 1.36+, feature gate on)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Métriques PSI (Pressure Stall Information) : détecter la saturation"
 emoji: "📈"

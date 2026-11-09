@@ -1,6 +1,7 @@
 ---
 num: 1864
 resume: "Orchestrer avec Dagster en asset-centric : @asset déclare les data assets et leurs dépendances, avec tests locaux (pytest), fraîcheur trackée (stale) et lineage OpenLineage (1832). Étape 1 : Définir @asset def daily_revenue(raw_orders) -supérieur à matérialise la table, dépend de raw_orders."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Dagster : orchestration asset-centric"
 emoji: "🧩"

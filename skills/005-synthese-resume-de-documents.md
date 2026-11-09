@@ -1,6 +1,7 @@
 ---
 num: 5
 resume: "condenser un document long en résumés exploitables à plusieurs niveaux. Étape 1 : Détecter le type de document (rapport, contrat, article, PV)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Synthèse & résumé de documents"
 emoji: "📄"

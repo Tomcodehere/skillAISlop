@@ -1,6 +1,7 @@
 ---
 num: 1513
 resume: "Générer un donjon procédural en 2027 : placer 10-15 salles rectangulaires sans chevauchement (avec marge), connecter leurs centres par corridors (plus proche voisin ou arbre couvrant minimal), instancier sur la tilemap (1512). Étape 1 : Seed fixe pour debug, aléatoire sinon (Random with seed)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Generation procédurale de donjons : rooms et corridors"
 emoji: "🏰"

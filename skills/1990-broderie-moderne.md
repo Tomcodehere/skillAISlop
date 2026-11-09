@@ -1,6 +1,7 @@
 ---
 num: 1990
 resume: "Une première broderie moderne finie (motif floral simple) avec les 4-5 points de base. Étape 1 : Tendre le tissu au tambour, transférer le motif (calque/crayon)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Broderie moderne"
 emoji: "🪡"

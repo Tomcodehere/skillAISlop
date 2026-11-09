@@ -1,6 +1,7 @@
 ---
 num: 13
 resume: "interpréter des données, détecter des patterns et produire des recommandations. Étape 1 : Qualifier les données avant d'analyser."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste de données"
 emoji: "📊"

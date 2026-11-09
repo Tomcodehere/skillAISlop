@@ -1,6 +1,7 @@
 ---
 num: 1333
 resume: "assurer le suivi santé de son chien/chat en 2027 : calendrier vaccins/vermifuge, alimentation adaptée, signes d'alerte urgence véto, assurance animale. Étape 1 : Calendrier vaccins/vermifuge à jour chez le veto ; identifiant I-CAD à jour."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Santé de son animal (chien/chat)"
 emoji: "🐾"

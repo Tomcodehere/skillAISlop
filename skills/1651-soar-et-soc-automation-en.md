@@ -1,6 +1,7 @@
 ---
 num: 1651
 resume: "Automatiser le SOC en 2027 avec un SOAR (Shuffle open source, Tines, XSOAR) : playbooks qui trient/enrichissent/isolent automatiquement (poste compromis → isolation réseau, IP malveillante → blocage 1451), avec revue humaine (HITL 1636) sur les actions à fort impact. Étape 1 : Connecter le SIEM au SOAR (webhooks/API), définir les types d'alertes à auto-traiter (phishing confirmé, malware connu)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SOAR et SOC automation en"
 emoji: "🤖"

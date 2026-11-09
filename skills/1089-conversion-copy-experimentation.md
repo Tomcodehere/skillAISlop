@@ -1,6 +1,7 @@
 ---
 num: 1089
 resume: "Structurer des experiments de copywriting pour augmenter la conversion avec hypotheses testables et mesurees. Étape 1 : Identifier les friction points du funnel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Conversion Copy Experimentation"
 emoji: "💻"

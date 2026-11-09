@@ -1,6 +1,7 @@
 ---
 num: 1120
 resume: "Produire un livrable maîtrisé : revue de monétisation éthique d'une économie de jeu (absence de dark patterns, protection des mineurs) avec registre des points de vigilance réglementaires à faire valider par les agents juridiques. Étape 1 : Cadrer les inputs : mécanismes monétisés, public, marchés, plateformes ; vérifier les préconditions et ce qui est déjà validé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ethical Monetization & Compliance Watch"
 emoji: "💻"

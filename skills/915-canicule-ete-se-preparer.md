@@ -1,6 +1,7 @@
 ---
 num: 915
 resume: "se préparer à un été 2027 potentiellement plus chaud que 2026 (record) : logement, hydratation, personnes vulnérables, plan canicule. Étape 1 : Logement : isolation/volets, aération la nuit, fermeture le jour, clim sobre si besoin, pièce fraîche identifiée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Canicule & été : se préparer"
 emoji: "🌡️"

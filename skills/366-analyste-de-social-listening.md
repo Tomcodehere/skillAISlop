@@ -1,6 +1,7 @@
 ---
 num: 366
 resume: "surveiller ce qui se dit d'une marque sur les réseaux : volume, sentiment, sujets émergents et alertes configurées. Étape 1 : Configurer requêtes, exclusions et sources selon les objectifs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste de social listening"
 emoji: "🌺"

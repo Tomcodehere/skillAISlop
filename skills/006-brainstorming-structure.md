@@ -1,6 +1,7 @@
 ---
 num: 6
 resume: "générer des idées originales en évitant les réponses génériques. Étape 1 : Formuler le problème en une question 'Comment pourrions-nous… ?' (How Might We)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Brainstorming structuré"
 emoji: "💡"

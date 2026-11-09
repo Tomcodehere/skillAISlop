@@ -1,6 +1,7 @@
 ---
 num: 276
 resume: "concevoir la structure d'un entretien de recrutement et sa grille d'évaluation : questions standardisées, notation sur échelle définie et débrief objectif. Étape 1 : Dériver les axes d'évaluation de la fiche de poste et définir l'échelle de notation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de grille d'entretien de recrutement"
 emoji: "🎗️"

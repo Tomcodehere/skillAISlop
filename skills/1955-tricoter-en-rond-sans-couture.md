@@ -1,6 +1,7 @@
 ---
 num: 1955
 resume: "Un bonnet (ou manchon) tricoté en rond, sans couture, avec des diminutions propres. Étape 1 : Monter les mailles en rond, joindre sans vriller, poser le marqueur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tricoter en rond sans couture"
 emoji: "⭕"

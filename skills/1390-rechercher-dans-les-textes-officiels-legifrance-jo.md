@@ -1,6 +1,7 @@
 ---
 num: 1390
 resume: "Localiser rapidement le texte officiel applicable en 2027 (loi, décret, arrêté, code consolidé) sur Légifrance/JO, vérifier sa date d'entrée en vigueur et sa version en vigueur, sans confondre projet et droit positif. Étape 1 : Aller sur legifrance.gouv.fr, choisir Codes / Lois et reglements / Journal officiel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rechercher dans les textes officiels (Legifrance, JO)"
 emoji: "⚖"

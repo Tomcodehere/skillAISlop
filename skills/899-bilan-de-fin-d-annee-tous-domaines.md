@@ -1,6 +1,7 @@
 ---
 num: 899
 resume: "faire un bilan factuel de son année (perso + pro) et poser 3 objectifs réalistes pour l'année prochaine. Étape 1 : Bilan par domaine (pro, perso, santé, finances, relations) avec faits et chiffres, pas d'impressions."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bilan de fin d'année (tous domaines)"
 emoji: "✅"

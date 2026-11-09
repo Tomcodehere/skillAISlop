@@ -1,6 +1,7 @@
 ---
 num: 714
 resume: "concevoir la mémoire persistante d'un agent : faits sémantiques, préférences, épisodes, avec règles de placement et d'oubli. Étape 1 : Choisir le stockage : fichier mémoire indexé, base vectorielle pour le sémantique, graphe pour les relations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Mémoire persistante d'agent (structured memory)"
 emoji: "🧠"

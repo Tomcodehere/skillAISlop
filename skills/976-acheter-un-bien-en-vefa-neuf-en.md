@@ -1,6 +1,7 @@
 ---
 num: 976
 resume: "acheter un bien neuf en VEFA en 2027 : contrat de réservation, échelonnement des paiements selon avancement, garanties (parfait achèvement, biennale, décennale), PTZ. Étape 1 : Réservation : acompte ≤ 5 % séquestré, appels de fonds selon avancement, réception avec réserves sous 30 j."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Acheter un bien en VEFA / neuf en"
 emoji: "🏗️"

@@ -1,6 +1,7 @@
 ---
 num: 154
 resume: "produire des voix de synthèse expressives et naturelles (narration, doublage, livres audio) avec instructions techniques précises. Étape 1 : Oraliser le texte (chiffres, sigles, ponctuation) et découper en passages d'intention."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Studio de voix de synthèse"
 emoji: "🔊"

@@ -1,6 +1,7 @@
 ---
 num: 970
 resume: "prévenir l'usure professionnelle (TMS, fatigue) en 2027 : ergonomie, pauses, aménagement de poste, médecine du travail, DUERP. Étape 1 : Ergonomie : écran à hauteur des yeux, chaise réglée, clavier/souris adaptés, pas de souris 8 h/j."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prévenir l'usure professionnelle (santé au travail)"
 emoji: "🩺"

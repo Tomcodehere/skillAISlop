@@ -1,6 +1,7 @@
 ---
 num: 932
 resume: "comprendre l'EES (Entry/Exit System) en vigueur depuis avril 2026 aux frontières Schengen : enregistrement biométrique des voyageurs non-UE, et prévoir les délais en 2027. Étape 1 : Savoir que l'EES est actif depuis avril 2026 : passeport scanné + empreintes + photo à la frontière Schengen."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "EES : contrôle biométrique aux frontières Schengen"
 emoji: "🛂"

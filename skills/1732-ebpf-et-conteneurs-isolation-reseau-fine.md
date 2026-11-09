@@ -1,6 +1,7 @@
 ---
 num: 1732
 resume: "Micro-segmenter le réseau des conteneurs en 2027 avec eBPF/Cilium (1721) : identité réseau par pod (stable, pas l'IP), policies L3-L7 par identité, egress control (IPs/allowlist), filtres DNS-aware (par nom de domaine). Étape 1 : Identité : chaque pod = identité Cilium (basée sur ses labels), stable malgré les IPs changeantes — les policies citent les identités, pas les IPs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "eBPF et conteneurs : isolation réseau fine"
 emoji: "📦"

@@ -1,6 +1,7 @@
 ---
 num: 925
 resume: "utiliser le protocole ACP (Agent Client Protocol) en 2027 pour brancher son propre agent IA (BYOB) dans un client (Android Studio Rabbit 2 : 40+ agents) de façon standardisée. Étape 1 : Choisir le client ACP (ex. Android Studio Rabbit 2) et les agents compatibles à installer (BYOB)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Agent Client Protocol (ACP) & BYO agent"
 emoji: "🔌"

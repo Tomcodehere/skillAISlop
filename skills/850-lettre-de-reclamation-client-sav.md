@@ -1,6 +1,7 @@
 ---
 num: 850
 resume: "rédiger une réclamation client efficace : faits datés, demande précise, délais, et savoir quand saisir le médiateur. Étape 1 : Faits datés (commande, livraison, défauts constatés) + demande chiffrée précise + délai 15 jours."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lettre de réclamation client (SAV)"
 emoji: "📮"

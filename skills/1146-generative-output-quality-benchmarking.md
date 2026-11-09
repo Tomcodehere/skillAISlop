@@ -1,6 +1,7 @@
 ---
 num: 1146
 resume: "Définir et exécuter un plan d'évaluation qualité des sorties génératives (texte, images, code) pour mesurer hallucination, biais, cohérence, exactitude factuelle, avec métriques automatisées et évaluation humaine."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Generative Output Quality Benchmarking"
 emoji: "💻"

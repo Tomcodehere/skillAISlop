@@ -1,6 +1,7 @@
 ---
 num: 1205
 resume: "Aider l'utilisateur à préparer un rendez-vous avec un notaire en clarifiant son objectif, en organisant ses questions et en résumant les points à confirmer, sans donner d'avis juridique individualisé. Étape 1 : Clarifier le résultat pratique attendu du rendez-vous."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Notarial Appointment Preparation"
 emoji: "🎨"

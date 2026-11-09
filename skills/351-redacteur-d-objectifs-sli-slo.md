@@ -1,6 +1,7 @@
 ---
 num: 351
 resume: "définir les indicateurs et objectifs de fiabilité d'un service : bons SLI, SLO réalistes, budget d'erreur et conséquences de dépassement. Étape 1 : Identifier les parcours critiques et leurs indicateurs d'expérience utilisateur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur d'objectifs SLI/SLO"
 emoji: "🚥"

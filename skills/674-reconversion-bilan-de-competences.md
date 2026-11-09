@@ -1,6 +1,7 @@
 ---
 num: 674
 resume: "préparer une reconversion : bilan de compétences financé, VAE, choix de formation, test de projet. Étape 1 : Faire le bilan : compétences transférables, valeurs, contraintes, métiers cibles explorés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Reconversion & bilan de compétences"
 emoji: "🧭"

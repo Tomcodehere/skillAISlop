@@ -1,6 +1,7 @@
 ---
 num: 1570
 resume: "Concevoir le HUD en 2027 : barre de PV/énergie (couleur dynamique inférieur à 30 %, 1535), jauges (dash 1511, mana), munitions, minimap avec marqueurs (quêtes 1531, ennemis si compétence 1520), réticule contextuel, notifications (loot/succès), tout désactivable (1575). Étape 1 : Barre PV : fillAmount + couleur lerp (vert supérieur à 50 %, orange supérieur à 30 %, rouge clignotant inférieur à 30 %)"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "HUD et minimap : barre de vie, jauge, objectifs"
 emoji: "🎯"

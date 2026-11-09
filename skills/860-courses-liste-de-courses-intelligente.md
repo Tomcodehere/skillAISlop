@@ -1,6 +1,7 @@
 ---
 num: 860
 resume: "faire ses courses moins souvent, moins cher et avec moins de gaspillage : liste structurée, comparaison, anti-gaspi. Étape 1 : Liste par rayon à partir des menus de la semaine + inventaire frigo/congélateur avant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Courses & liste de courses intelligente"
 emoji: "🛒"

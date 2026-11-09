@@ -1,6 +1,7 @@
 ---
 num: 638
 resume: "construire et suivre un prévisionnel de trésorerie pour anticiper les tensions de liquidités. Étape 1 : Lister les flux : encaissements clients (délais de paiement), charges fixes, variables, échéances fiscales et sociales."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Trésorerie & prévisionnel"
 emoji: "💰"
