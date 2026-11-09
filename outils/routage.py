@@ -5288,7 +5288,7 @@ TESTS_ROUTAGE_EN = [
     ("orchestrate a multi-agent pipeline", 259),
     ("design long-term memory for an agent", 260),
     ("generate synthetic test data", 263),
-    ("rag or fine-tuning decision for our assistant", 266),
+    ("fine-tuning versus RAG architecture choice for our assistant", 266),
     ("sbom and dependency inventory with licences", 267),
     ("extract a table from a scanned PDF", 268),
 ]
