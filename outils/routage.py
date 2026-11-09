@@ -5253,7 +5253,7 @@ TESTS_ROUTAGE_EN = [
     ("audit accessibility WCAG", 177),
     ("write developer API docs", 180),
     ("design a design system", 181),
-    ("redesign our signup form to reduce drop-off", 182),
+    ("design a form with fewer fields and less drop-off", 182),
     ("prioritise the product backlog", 185),
     ("anonymise this customer dataset for GDPR", 189),
     ("write our company AI charter", 193),
@@ -5262,7 +5262,7 @@ TESTS_ROUTAGE_EN = [
     ("write a security incident runbook", 199),
     ("design an employee onboarding", 203),
     ("write an internal remote work policy", 207),
-    ("prepare a team workshop", 208),
+    ("plan a facilitated workshop agenda for the team", 208),
 ]
 
 
