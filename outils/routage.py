@@ -5263,6 +5263,17 @@ TESTS_ROUTAGE_EN = [
     ("design an employee onboarding", 203),
     ("write an internal remote work policy", 207),
     ("plan a facilitated workshop agenda for the team", 208),
+    ("plan a home renovation project", 220),
+    ("design home automation scenarios", 222),
+    ("prioritise my daily todo list", 223),
+    ("plan my move", 225),
+    ("build a workout plan for a 5k", 214),
+    ("audit my subscriptions to save money", 230),
+    ("plan a career change into UX", 231),
+    ("write a crisis holding statement", 235),
+    ("debug a failing prompt", 237),
+    ("write annotation guidelines", 238),
+    ("write a grant application", 240),
 ]
 
 
