@@ -5274,6 +5274,23 @@ TESTS_ROUTAGE_EN = [
     ("debug a failing prompt", 237),
     ("write annotation guidelines", 238),
     ("write a grant application", 240),
+    ("prepare my thesis defence", 241),
+    ("find open data on housing prices", 242),
+    ("prepare an ISO audit", 243),
+    ("clean up my digital accounts", 247),
+    ("organise my digital legacy", 246),
+    ("add a skill to the library properly", 250),
+    ("write an E2E playwright test", 252),
+    ("audit web performance Core Web Vitals", 253),
+    ("plan a load test", 255),
+    ("investigate a production incident", 256),
+    ("onboard me onto this unknown codebase", 257),
+    ("orchestrate a multi-agent pipeline", 259),
+    ("design long-term memory for an agent", 260),
+    ("generate synthetic test data", 263),
+    ("choose between RAG and fine-tuning", 266),
+    ("generate an SBOM", 267),
+    ("extract a table from a scanned PDF", 268),
 ]
 
 
