@@ -1903,6 +1903,106 @@
 | 1898 | DAST/IAST en CI : scanner les API et applis en exécution | Sécurité|
 | 1899 | Security champions : relais sécurité dans chaque équipe | Gestion|
 | 1900 | Bug bounty et VDP : recevoir et traiter les signalements de vulnérabilités | Sécurité|
+| 1901 | Devenir auto-entrepreneur dans le BTP | Artisanat & loisirs créatifs |
+| 1902 | Obligations légales de l'artisan BTP | Artisanat & loisirs créatifs |
+| 1903 | Rédiger un devis conforme en BTP | Artisanat & loisirs créatifs |
+| 1904 | Facturation artisan : mentions obligatoires et Factur-X | Artisanat & loisirs créatifs |
+| 1905 | Choisir son statut juridique d'artisan BTP | Artisanat & loisirs créatifs |
+| 1906 | Labels Qualibat et RGE pour artisans | Artisanat & loisirs créatifs |
+| 1907 | Assurance décennale et RC Pro du BTP | Artisanat & loisirs créatifs |
+| 1908 | EPI obligatoires sur chantier | Artisanat & loisirs créatifs |
+| 1909 | PPSPS, coordination SPS et DUERP | Artisanat & loisirs créatifs |
+| 1910 | Électricien : norme NF C 15-100 et Consuel | Artisanat & loisirs créatifs |
+| 1911 | Plombier : normes et mise en sécurité sanitaire | Artisanat & loisirs créatifs |
+| 1912 | Devis quantitatif estimatif BTP (métré) | Artisanat & loisirs créatifs |
+| 1913 | Gestion des déchets de chantier | Artisanat & loisirs créatifs |
+| 1914 | Louer ou acheter son matériel de chantier | Artisanat & loisirs créatifs |
+| 1915 | Lire un plan de construction (DCE) | Artisanat & loisirs créatifs |
+| 1916 | Préparer et organiser son chantier | Artisanat & loisirs créatifs |
+| 1917 | Réception de chantier et DOE | Artisanat & loisirs créatifs |
+| 1918 | Gérer un litige chantier (mise en demeure, expertise) | Artisanat & loisirs créatifs |
+| 1919 | Cession ou reprise d'entreprise artisanale BTP | Artisanat & loisirs créatifs |
+| 1920 | Vendre son entreprise artisanale (préparation) | Artisanat & loisirs créatifs |
+| 1921 | Installer un atelier de menuiserie | Artisanat & loisirs créatifs |
+| 1922 | Outillage électroportatif du menuisier | Artisanat & loisirs créatifs |
+| 1923 | Choisir ses essences de bois | Artisanat & loisirs créatifs |
+| 1924 | Débit, dégauchissage et rabotage | Artisanat & loisirs créatifs |
+| 1925 | Assemblages du bois | Artisanat & loisirs créatifs |
+| 1926 | Collage du bois | Artisanat & loisirs créatifs |
+| 1927 | Finitions du bois (huile, vernis, cire, lasure) | Artisanat & loisirs créatifs |
+| 1928 | Restaurer un meuble ancien | Artisanat & loisirs créatifs |
+| 1929 | Fabriquer une étagère murale | Artisanat & loisirs créatifs |
+| 1930 | Fabriquer un petit meuble (caisson) | Artisanat & loisirs créatifs |
+| 1931 | Quincaillerie et ferrures de menuiserie | Artisanat & loisirs créatifs |
+| 1932 | Sécurité dans l'atelier bois | Artisanat & loisirs créatifs |
+| 1933 | Traçage et mesures de précision | Artisanat & loisirs créatifs |
+| 1934 | Découpe à la scie manuelle | Artisanat & loisirs créatifs |
+| 1935 | Ponçage du bois | Artisanat & loisirs créatifs |
+| 1936 | Teinture et patine du bois | Artisanat & loisirs créatifs |
+| 1937 | Poser un parquet (flottant ou collé) | Artisanat & loisirs créatifs |
+| 1938 | Plan de travail en bois (lamellé-collé) | Artisanat & loisirs créatifs |
+| 1939 | Portes et fenêtres en bois : réglage et rénovation | Artisanat & loisirs créatifs |
+| 1940 | Bois extérieur : traitement et entretien | Artisanat & loisirs créatifs |
+| 1941 | Tournage sur bois | Artisanat & loisirs créatifs |
+| 1942 | Cintrage du bois | Artisanat & loisirs créatifs |
+| 1943 | Marqueterie et placage | Artisanat & loisirs créatifs |
+| 1944 | Réparer une fissure ou un éclat dans le bois | Artisanat & loisirs créatifs |
+| 1945 | Chiffrer un ouvrage de menuiserie | Artisanat & loisirs créatifs |
+| 1946 | Lire un plan de meuble (nomenclature) | Artisanat & loisirs créatifs |
+| 1947 | Usinage à la défonceuse | Artisanat & loisirs créatifs |
+| 1948 | Assemblages démontables | Artisanat & loisirs créatifs |
+| 1949 | Vernis au pistolet (HVLP) | Artisanat & loisirs créatifs |
+| 1950 | Entretien et affûtage des outils de coupe | Artisanat & loisirs créatifs |
+| 1951 | Débuter le tricot | Artisanat & loisirs créatifs |
+| 1952 | Choisir laine et aiguilles de tricot | Artisanat & loisirs créatifs |
+| 1953 | Échantillon et gauge (jauge) en tricot | Artisanat & loisirs créatifs |
+| 1954 | Points de base du tricot | Artisanat & loisirs créatifs |
+| 1955 | Tricoter en rond sans couture | Artisanat & loisirs créatifs |
+| 1956 | Lire un patron de tricot | Artisanat & loisirs créatifs |
+| 1957 | Projets tricot débutant (bonnet, écharpe, snood) | Artisanat & loisirs créatifs |
+| 1958 | Blockage, lavage et finition de la laine | Artisanat & loisirs créatifs |
+| 1959 | Réparer un pull en laine (repriser, boulochage) | Artisanat & loisirs créatifs |
+| 1960 | Monter les mailles et rabattre en tricot | Artisanat & loisirs créatifs |
+| 1961 | Choisir et régler sa machine à coudre | Artisanat & loisirs créatifs |
+| 1962 | Enfilage, canette et réglages de base | Artisanat & loisirs créatifs |
+| 1963 | Points de base à la machine (droit, zigzag, boutonnière) | Artisanat & loisirs créatifs |
+| 1964 | Surfilage et ourlets à la machine | Artisanat & loisirs créatifs |
+| 1965 | Poser une fermeture éclair | Artisanat & loisirs créatifs |
+| 1966 | Assembler un vêtement à la machine | Artisanat & loisirs créatifs |
+| 1967 | Choisir et préparer son tissu | Artisanat & loisirs créatifs |
+| 1968 | Lire un patron de couture | Artisanat & loisirs créatifs |
+| 1969 | Projets couture débutant (tote bag, coussin, tablier) | Artisanat & loisirs créatifs |
+| 1970 | Finitions à la main (boutons, ourlets invisibles) | Artisanat & loisirs créatifs |
+| 1971 | Débuter le feutrage à l'aiguille | Artisanat & loisirs créatifs |
+| 1972 | Choisir sa laine pour le feutrage | Artisanat & loisirs créatifs |
+| 1973 | Formes de base en feutrage | Artisanat & loisirs créatifs |
+| 1974 | Feutrage kawaii et figurines 3D | Artisanat & loisirs créatifs |
+| 1975 | Feutrage mouillé à chaud | Artisanat & loisirs créatifs |
+| 1976 | Bijoux et accessoires en feutre | Artisanat & loisirs créatifs |
+| 1977 | Chaussons et sacs en feutre | Artisanat & loisirs créatifs |
+| 1978 | Repriser un vêtement en laine feutrée | Artisanat & loisirs créatifs |
+| 1979 | Sécurité des aiguilles à feutrer | Artisanat & loisirs créatifs |
+| 1980 | Kit débutant feutrage et budget | Artisanat & loisirs créatifs |
+| 1981 | Macramé débutant (nœuds de base) | Artisanat & loisirs créatifs |
+| 1982 | Pâte polymère (Fimo) : modelage et cuisson | Artisanat & loisirs créatifs |
+| 1983 | Bijoux en pâte polymère | Artisanat & loisirs créatifs |
+| 1984 | Bougies parfumées DIY | Artisanat & loisirs créatifs |
+| 1985 | Savons naturels DIY (saponification à froid) | Artisanat & loisirs créatifs |
+| 1986 | Scrapbooking (album souvenir) | Artisanat & loisirs créatifs |
+| 1987 | Machine de coupe (Cricut) : vinyle, papier, stickers | Artisanat & loisirs créatifs |
+| 1988 | Peinture acrylique débutant | Artisanat & loisirs créatifs |
+| 1989 | Aquarelle débutant | Artisanat & loisirs créatifs |
+| 1990 | Broderie moderne | Artisanat & loisirs créatifs |
+| 1991 | Pyrogravure sur bois | Artisanat & loisirs créatifs |
+| 1992 | Kintsugi (réparation dorée de céramique) | Artisanat & loisirs créatifs |
+| 1993 | Yarn bombing (tricot/crochet urbain) | Artisanat & loisirs créatifs |
+| 1994 | Upcycling : meubles et textiles | Artisanat & loisirs créatifs |
+| 1995 | Art journal et carnet créatif | Artisanat & loisirs créatifs |
+| 1996 | Perles et bijoux fantaisie DIY | Artisanat & loisirs créatifs |
+| 1997 | Sériraphie et risographie (petites séries) | Artisanat & loisirs créatifs |
+| 1998 | Customisation textile (peinture, patches, broderie) | Artisanat & loisirs créatifs |
+| 1999 | Vendre ses créations (Etsy, marchés, prix) | Artisanat & loisirs créatifs |
+| 2000 | Organiser son atelier loisirs créatifs | Artisanat & loisirs créatifs |
 | 617 | Accompagnement burn-out | Personnel |
 | 618 | Charge mentale | Personnel |
 | 619 | Syndrome de l'imposteur | Personnel |

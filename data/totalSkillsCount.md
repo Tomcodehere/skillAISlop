@@ -2,7 +2,7 @@
 
 > 🔎 **Index** : Total · Répartition par domaine · Génération
 
-**Total : 1901 sections (0-1900)** — **1900 skills opérationnelles** + 1 routeur (skill 0).
+**Total : 2001 sections (0-2000)** — **2000 skills opérationnelles** + 1 routeur (skill 0).
 
 ## Répartition par domaine
 
@@ -13,6 +13,7 @@
 | Sécurité | 144 |
 | IA / Prompting | 136 |
 | Gestion | 117 |
+| Artisanat & loisirs créatifs | 100 |
 | Game Dev | 100 |
 | Data | 93 |
 | Design | 86 |
@@ -40,4 +41,4 @@
 
 ## Génération
 
-Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-08. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — skillAISlop ».
+Fichier `totalSkillsCount.md` généré par `routage.py count` (canvas « Routage SQL Skills ») le 2026-11-09. À régénérer après chaque évolution du catalogue (R8), puis recopier dans le canvas « totalSkillsCount — skillAISlop ».

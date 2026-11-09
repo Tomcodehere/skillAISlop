@@ -1,12 +1,13 @@
 # Documentation skillAISlop — générée automatiquement (gen_docs.py)
 
-**1900 skills** + 1 routeur (skill 0, non compté) · **29 domaines** · **2916 synonymes** · **1901 FTS** · **1901 vecteurs**
+**2000 skills** + 1 routeur (skill 0, non compté) · **30 domaines** · **3222 synonymes** · **2001 FTS** · **2001 vecteurs**
 
 > Auto-générée par `python3 outils/gen_docs.py` depuis `skills/*.md` + `catalogue/sources.md`. Ne pas éditer à la main.
 
 ## Sommaire
 
 - [Apprentissage](domaines/apprentissage.md) — 36 skills
+- [Artisanat & loisirs créatifs](domaines/artisanat-loisirs-creatifs.md) — 100 skills
 - [Bureau](domaines/bureau.md) — 18 skills
 - [Carrière](domaines/carriere.md) — 34 skills
 - [Communication](domaines/communication.md) — 35 skills
