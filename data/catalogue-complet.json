@@ -2134,7 +2134,8 @@
       "synonymes": [],
       "resume": "challenger une décision ou un plan en défendant systématiquement le point de vue opposé, pour la blinder. Étape 1 : Clarifier la décision et les arguments existants en faveur.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Avocat du diable",
@@ -2168,7 +2169,8 @@
       ],
       "resume": "rédiger des propositions et devis freelance qui convertissent sans brader la valeur. Étape 1 : Clarifier le besoin client, le périmètre et les exclusions.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Rédacteur de propositions freelance",
@@ -2199,7 +2201,8 @@
       "synonymes": [],
       "resume": "rédiger un document d'exigences produit (PRD) et des user stories directement exploitables par une équipe de développement. Étape 1 : Clarifier le problème, les utilisateurs et le périmètre de la version.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Rédacteur de PRD & user stories",
@@ -2233,7 +2236,8 @@
       ],
       "resume": "évaluer une interface ou un parcours et produire un audit priorisé, actionnable, adossé aux règles reconnues. Étape 1 : Clarifier l'objectif principal de l'écran et le persona concerné.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Critique UX d'interface",
@@ -2264,7 +2268,8 @@
       "synonymes": [],
       "resume": "rédiger les textes d'interface (boutons, erreurs, états vides) clairs, utiles et cohérents, avec des frameworks de référence. Étape 1 : Clarifier l'écran, le contexte d'apparition et la matrice de ton.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "UX writer (microcopy d'interface)",
@@ -2298,7 +2303,8 @@
       ],
       "resume": "concevoir les intentions, flux et messages d'un chatbot utile : support, qualification, guidance. Étape 1 : Définir les 3-5 jobs du chatbot et son périmètre explicite.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Concepteur de chatbot conversationnel",
@@ -2332,7 +2338,8 @@
       ],
       "resume": "écrire des tests unitaires qui vérifient le comportement attendu, pas la couverture pour la couverture. Étape 1 : Clarifier l'exigence à tester et le comportement attendu de chaque cas.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Générateur de tests unitaires",
@@ -2363,7 +2370,8 @@
       "synonymes": [],
       "resume": "écrire des messages de commit et des descriptions de pull request qui facilitent la revue et la lecture de l'historique. Étape 1 : Lire le diff (ou le faire décrire) pour comprendre l'intention réelle du changement.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Commits & descriptions de PR",
@@ -2394,7 +2402,8 @@
       "synonymes": [],
       "resume": "écrire des requêtes SQL correctes et efficientes, et modéliser des schémas propres et documentés. Étape 1 : Clarifier le schéma, le SGBD et le volume de données.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Assistant SQL & modélisation de données",
@@ -2426,7 +2435,8 @@
       "synonymes": [],
       "resume": "auditer du code selon les vulnérabilités OWASP et produire un rapport de correction priorisé et contextualisé. Étape 1 : Identifier le type d'application et sa surface d'attaque (API, web, batch).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Audit sécurité du code (OWASP)",
@@ -2457,7 +2467,8 @@
       "synonymes": [],
       "resume": "concevoir des automatisations (n8n, Make, Zapier, scripts) fiables, surveillées et documentées. Étape 1 : Cartographier le processus manuel actuel et son volume réel.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Concepteur de workflows d'automatisation",
@@ -2488,7 +2499,8 @@
       "synonymes": [],
       "resume": "construire une semaine réaliste qui protège les priorités au lieu de subir la surcharge. Étape 1 : Collecter les tâches, réunions imposées et les pics d'énergie (matin/soir, jours).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Planificateur de semaine (time blocking)",
@@ -2522,7 +2534,8 @@
       ],
       "resume": "préparer et animer une rétrospective d'équipe qui produit des actions tenues, pas des résolutions oubliées. Étape 1 : Clarifier le contexte : composition, tensions récentes, objectif de la rétrospective.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Animateur de rétrospective",
@@ -2556,7 +2569,8 @@
       ],
       "resume": "rédiger des OKR trimestriels clairs, mesurables, ambitieux mais atteignables, et anti-triche. Étape 1 : Clarifier l'ambition du trimestre et la baseline actuelle des mesures.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Définisseur d'OKR",
@@ -2589,7 +2603,8 @@
       ],
       "resume": "écrire des discours qui sonnent juste à l'oral : mariage, keynote, départ, cérémonie. Étape 1 : Collecter l'occasion, le public, les anecdotes réelles et la durée.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Rédacteur de discours",
@@ -2620,7 +2635,8 @@
       "synonymes": [],
       "resume": "piloter un agent de code en ligne de commande (Claude Code, Codex CLI, Gemini CLI) de façon sûre et efficace, du brief initial au commit final. Étape 1 : Auditer le contexte : dépôt, conventions, périmètre de la session.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Pilote d'agents de code CLI",
@@ -2651,7 +2667,8 @@
       "synonymes": [],
       "resume": "concevoir un serveur MCP qui connecte un assistant IA à un outil ou une source de données métier. Étape 1 : Cartographier le besoin : quel système connecter, quelles actions exposer, quels accès interdire.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Builder MCP (Model Context Protocol)",
@@ -2684,7 +2701,8 @@
       ],
       "resume": "transformer une idée d'application en prototype fonctionnel no-code (Lovable, Bolt.new, Glide) en une session. Étape 1 : Formuler l'hypothèse à tester et le parcours critique unique.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Prototypeur no-code",
@@ -2715,7 +2733,8 @@
       "synonymes": [],
       "resume": "auditer un contrat d'API (cohérence, sécurité, versionnage) et livrer un rapport d'amélioration priorisé. Étape 1 : Collecter le contrat (OpenAPI, collection Postman) et le contexte d'usage.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Auditeur d'API",
@@ -2746,7 +2765,8 @@
       "synonymes": [],
       "resume": "assainir du code legacy en petites étapes sûres, sans casser le comportement existant. Étape 1 : Cartographier le module : points d'entrée, dépendances, tests existants, zones à risque.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Refactorer de code patrimonial",
@@ -2777,7 +2797,8 @@
       "synonymes": [],
       "resume": "produire des composants d'interface réutilisables, accessibles et conformes au design system en place. Étape 1 : Recueillir le besoin : framework, design system, données du composant, états à couvrir.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Générateur de composants UI",
@@ -2808,7 +2829,8 @@
       "synonymes": [],
       "resume": "automatiser le déploiement et l'orchestration d'une application, du commit à la production. Étape 1 : Cartographier l'existant : stack, environnements, contraintes de disponibilité.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Ingénieur DevOps & déploiement",
@@ -2839,7 +2861,8 @@
       "synonymes": [],
       "resume": "convertir un projet d'un langage ou paradigme à un autre (Python → TypeScript, classe → fonctionnel) en préservant le comportement. Étape 1 : Analyser le projet source : volume, dépendances, zones à risque, idiomes non transposables.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Transpileur de code",
@@ -2870,7 +2893,8 @@
       "synonymes": [],
       "resume": "réduire la complexité temps et mémoire d'un script lent, en mesurant avant d'optimiser. Étape 1 : Reproduire et mesurer le problème : cas d'usage, volume de données, profil de performance.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Optimiseur d'algorithmes",
@@ -2901,7 +2925,8 @@
       "synonymes": [],
       "resume": "décrire toute une infrastructure de façon déclarative et versionnée (Terraform, Pulumi) plutôt qu'à la main. Étape 1 : Recueillir l'architecture cible : composants, environnements, contraintes de conformité.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Architecte d'infrastructure as code",
@@ -2932,7 +2957,8 @@
       "synonymes": [],
       "resume": "planifier une migration risquée (version de framework, de base, de cloud) sans interruption de service. Étape 1 : Auditer le système source : version, dépendances, incompatibilités documentées, volumétrie.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Planificateur de migrations techniques",
@@ -2963,7 +2989,8 @@
       "synonymes": [],
       "resume": "rédiger un contrat d'API complet et lisible (OpenAPI/Swagger) qui fait foi entre équipes. Étape 1 : Recueillir les cas d'usage des consommateurs et le modèle de données.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Rédacteur de spécifications OpenAPI",
@@ -2994,7 +3021,8 @@
       "synonymes": [],
       "resume": "documenter une décision technique importante avec son contexte, ses options et ses conséquences, pour qu'elle reste compréhensible dans deux ans. Étape 1 : Cadrer la décision : problème, contraintes, parties prenantes, urgence.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Rédacteur d'ADR (décisions d'architecture)",
@@ -3028,7 +3056,8 @@
       ],
       "resume": "transformer un incident de production en document sans blâme qui empêche sa récurrence. Étape 1 : Collecter les faits : chronologie, logs, captures, retours des intervenants.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Rédacteur de post-mortems d'incident",
@@ -3059,7 +3088,8 @@
       "synonymes": [],
       "resume": "réduire la facture cloud sans dégrader le service, en arbitrant sur des chiffres. Étape 1 : Analyser la facture : top 10 des postes, ressources orphelines, tendances sur 3 mois.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Optimiseur FinOps (coûts cloud)",
@@ -3093,7 +3123,8 @@
       ],
       "resume": "transformer des pages web non structurées en données propres et exploitables (CSV, JSON). Étape 1 : Définir le périmètre : pages cibles, champs attendus, volume, fréquence, conformité.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Extracteur de données web (scraping)",
@@ -3124,7 +3155,8 @@
       "synonymes": [],
       "resume": "fiabiliser un fichier de données (doublons, anomalies, formats incohérents) avant toute analyse. Étape 1 : Profiler le fichier : qualité par colonne, doublons, formats, incohérences entre champs.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Nettoyeur de données",
@@ -3155,7 +3187,8 @@
       "synonymes": [],
       "resume": "construire un modèle de prédiction simple et explicable (tendance, score, classement) sur des données métier. Étape 1 : Cadrer la prédiction utile : variable cible, horizon, décision associée, donnée disponible.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Modélisateur prédictif",
@@ -3186,7 +3219,8 @@
       "synonymes": [],
       "resume": "concevoir un flux de données automatisé (extraction, transformation, chargement) fiable et surveillé. Étape 1 : Cartographier sources, cibles et latence attendue ; identifier les cas d'erreur (source lente, fichier absent).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Architecte de pipelines de données",
@@ -3219,7 +3253,8 @@
       ],
       "resume": "dresser le dictionnaire et la cartographie des données d'une organisation : où elles vivent, qui y accède, ce qu'elles signifient. Étape 1 : Recenser les systèmes et leurs données clés ; interviewer les propriétaires métier.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Cartographe de données",
@@ -3250,7 +3285,8 @@
       "synonymes": [],
       "resume": "constituer un jeu de données d'entraînement ou de fine-tuning propre, diversifié et documenté. Étape 1 : Définir l'objectif du modèle, le format des exemples et les critères de qualité.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Préparateur de datasets d'entraînement LLM",
@@ -3281,7 +3317,8 @@
       "synonymes": [],
       "resume": "mesurer objectivement la qualité des sorties d'un modèle ou d'un prompt avant et après chaque changement. Étape 1 : Recueillir 30 à 100 cas réels représentatifs et définir les critères de réussite par cas.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Ingénieur d'évaluations LLM (evals)",
@@ -3312,7 +3349,8 @@
       "synonymes": [],
       "resume": "concevoir un système de question-réponse sur documents d'entreprise (indexation, recherche augmentée, réponse sourcée). Étape 1 : Auditer le corpus et les questions types ; définir le découpage et les métadonnées.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Architecte de pipelines RAG",
@@ -3343,7 +3381,8 @@
       "synonymes": [],
       "resume": "concevoir les fonctions qu'un agent IA peut appeler (schémas, descriptions, gestion d'erreurs) pour agir de façon fiable. Étape 1 : Recenser les actions réellement nécessaires et écarter celles qu'un simple texte suffit à traiter.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Concepteur d'outils pour agents (function calling)",
@@ -3374,7 +3413,8 @@
       "synonymes": [],
       "resume": "écrire les instructions système complètes d'un agent autonome : rôle, limites, procédure, ton, garde-fous. Étape 1 : Définir la mission, les utilisateurs et le périmètre d'action de l'agent.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Architecte d'instructions d'agent",
