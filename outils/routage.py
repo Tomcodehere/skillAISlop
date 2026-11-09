@@ -5188,6 +5188,21 @@ TESTS_ROUTAGE_EN = [
     ("generate commented code", 9),
     ("review and debug my code", 10),
     ("which skill should I use for this", 0),
+    ("explain a concept simply to a beginner", 11),
+    ("prepare for my job interview", 12),
+    ("analyse this sales data", 13),
+    ("create a presentation deck with slides for the board", 14),
+    ("plan a project with milestones and risks", 15),
+    ("what does this contract clause mean", 16),
+    ("help me improve this prompt", 17),
+    ("deep research on the EV market", 18),
+    ("grill me on my migration plan", 19),
+    ("debug this intermittent bug", 20),
+    ("write meeting minutes", 24),
+    ("my inbox is overflowing", 25),
+    ("I procrastinate on big tasks", 26),
+    ("write a 30s TikTok ad script", 29),
+    ("optimise my LinkedIn post", 30),
 ]
 
 

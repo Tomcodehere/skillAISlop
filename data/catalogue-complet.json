@@ -146,6 +146,7 @@
       ],
       "resume": "analyser la demande de l'utilisateur et aiguiller automatiquement vers la (ou les) skill(s) adaptée(s), avec une cascade de repli si aucune skill ne correspond.",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "principal",
@@ -173,6 +174,7 @@
       "synonymes": [],
       "resume": "produire un article optimisé pour les moteurs de recherche, structuré et engageant. Étape 1 : Demander le sujet, le mot-clé principal, les mots-clés secondaires et la longueur cible.",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -204,6 +206,7 @@
       "synonymes": [],
       "resume": "transformer un texte existant sans en perdre le sens, en adaptant le registre. Étape 1 : Recevoir le texte source + ton souhaité + audience.",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -240,6 +243,7 @@
       ],
       "resume": "générer des accroches et textes publicitaires qui convertissent. Étape 1 : Recueillir : produit, cible, douleur principale, promesse, contrainte (longueur, plateforme).",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -271,6 +275,7 @@
       "synonymes": [],
       "resume": "rédiger des emails clairs, polis et efficaces (négatif, relance, refus, annonce). Étape 1 : Clarifier l'intention (informer, obtenir, refuser, relancer).",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -307,6 +312,7 @@
       ],
       "resume": "condenser un document long en résumés exploitables à plusieurs niveaux. Étape 1 : Détecter le type de document (rapport, contrat, article, PV).",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -337,6 +343,7 @@
       "synonymes": [],
       "resume": "générer des idées originales en évitant les réponses génériques. Étape 1 : Formuler le problème en une question 'Comment pourrions-nous… ?' (How Might We).",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -370,6 +377,7 @@
       ],
       "resume": "traduire en conservant sens, registre et intentions, pas mot à mot. Étape 1 : Identifier langue source → cible, type de document, audience.",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -402,6 +410,7 @@
       ],
       "resume": "corriger orthographe, grammaire, style et cohérence sans reformuler à outrance. Étape 1 : Demander le niveau d'intervention (léger / moyen / réécriture).",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -433,6 +442,7 @@
       "synonymes": [],
       "resume": "écrire du code fonctionnel, propre, testable et documenté. Étape 1 : Clarifier langage, version, contexte d'exécution et contraintes.",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -466,6 +476,7 @@
       ],
       "resume": "relire du code existant et diagnostiquer des bugs avec méthode. Étape 1 : Lire tout le code avant de commenter.",
       "langs": [
+        "fr",
         "en"
       ],
       "fichier": "canvas",
@@ -496,7 +507,8 @@
       "synonymes": [],
       "resume": "rendre accessible tout concept, à n'importe quel niveau. Étape 1 : Partir d'une analogie concrète du quotidien.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Expliqueur pédagogique",
@@ -529,7 +541,8 @@
       ],
       "resume": "préparer et simuler un entretien (job, média ou entrevue client). Étape 1 : Analyser le poste / contexte et le CV fourni.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Préparation d'entretien / interview",
@@ -560,7 +573,8 @@
       "synonymes": [],
       "resume": "interpréter des données, détecter des patterns et produire des recommandations. Étape 1 : Qualifier les données avant d'analyser.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Analyste de données",
@@ -596,7 +610,8 @@
       ],
       "resume": "transformer un sujet en deck structuré et percutant. Étape 1 : Clarifier audience, durée, message central ('Ce que l'auditoire doit retenir = …').",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Créateur de présentations",
@@ -626,7 +641,8 @@
       "synonymes": [],
       "resume": "décomposer un objectif en plan d'action réaliste et suivi. Étape 1 : Clarifier périmètre, contraintes (temps, budget, équipe) et exclusions.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Planificateur de projet",
@@ -659,7 +675,8 @@
       ],
       "resume": "comprendre des questions et documents juridiques, jamais remplacer un avocat. Étape 1 : Identifier le domaine (droit social, commercial, consommation…).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Assistant juridique de premier niveau",
@@ -692,7 +709,8 @@
       ],
       "resume": "aider l'utilisateur à formuler de meilleurs prompts et ses propres skills. Étape 1 : Clarifier l'usage final et l'outil cible.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Coach de prompts (meta-prompting)",
@@ -726,7 +744,8 @@
       ],
       "resume": "structurer une recherche en profondeur avec sources vérifiables. Étape 1 : Cadrer : question exacte, profondeur souhaitée, deadline.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Agent de recherche approfondie",
@@ -757,7 +776,8 @@
       "synonymes": [],
       "resume": "stress-tester un plan, une architecture ou une décision en interviewant l'utilisateur jusqu'à compréhension partagée, avant toute exécution. Étape 1 : Recevoir le plan et identifier les branches de décision (incertitudes, angles morts).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Grill Me (validation de plan)",
@@ -792,7 +812,8 @@
       ],
       "resume": "diagnostiquer la cause racine d'un bug complexe avec une méthodologie en 4 phases, sans patch symptomatique. Étape 1 : Rassembler les preuves et reproduire le problème (ou faire décrire la reproduction exacte).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Débogage systématique",
@@ -822,7 +843,8 @@
       "synonymes": [],
       "resume": "implémenter une fonctionnalité en petits morceaux complets, vérifiés un par un, plutôt qu'en un gros bloc. Étape 1 : Découper la tâche en morceaux de 15 à 60 minutes chacun, listés et validés par l'utilisateur.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Implémentation incrémentale",
@@ -852,7 +874,8 @@
       "synonymes": [],
       "resume": "transformer une description en langage naturel en diagrammes d'architecture et de flux de données exploitables. Étape 1 : Clarifier le périmètre, le niveau d'abstraction et l'audience (technique ou direction).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Diagrammes d'architecture",
@@ -882,7 +905,8 @@
       "synonymes": [],
       "resume": "produire des README, docs API et guides techniques clairs, complets et maintenables. Étape 1 : Identifier le lecteur (débutant, contributeur, ops) et sa question d'entrée.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Documentation technique",
@@ -915,7 +939,8 @@
       ],
       "resume": "transformer des notes ou une transcription de réunion en compte rendu exploitable : décisions, actions, propriétaires. Étape 1 : Détecter le type de réunion (projet, comité, créa) pour orienter le résumé.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Compte rendu de réunion",
@@ -945,7 +970,8 @@
       "synonymes": [],
       "resume": "désembrasser une boîte de réception : classer, prioriser et rédiger les brouillons de réponse. Étape 1 : Trier par émetteur, urgence perçue et engagement attendu.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Tri & priorisation d'emails",
@@ -980,7 +1006,8 @@
       ],
       "resume": "transformer une tâche intimidante ou floue en micro-étapes actionnables immédiatement. Étape 1 : Diagnostiquer la cause du blocage en questionnant.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Décomposition de tâches",
@@ -1011,7 +1038,8 @@
       "synonymes": [],
       "resume": "produire des documents Word, Excel ou PowerPoint complets et bien structurés à partir d'une demande. Étape 1 : Clarifier format, audience, message central et contraintes de charte.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Créateur de documents Office",
@@ -1041,7 +1069,8 @@
       "synonymes": [],
       "resume": "gérer une tâche complexe multi-sessions avec un plan, des constats et une progression tenus à jour dans des documents vivants. Étape 1 : Créer les 3 documents à l'ouverture de la mission avec le découpage initial.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Planification par fichiers",
@@ -1071,7 +1100,8 @@
       "synonymes": [],
       "resume": "écrire des scripts vidéo courte (UGC, TikTok, Reels, pub) qui accrochent en 3 secondes et convertissent. Étape 1 : Recueillir produit, cible, douleur, plateforme et durée.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Script vidéo UGC & pub",
@@ -1105,7 +1135,8 @@
       ],
       "resume": "maximiser la portée et l'engagement d'un post existant ou à venir sur une plateforme donnée. Étape 1 : Identifier la plateforme, l'objectif (portée, clics, autorité) et l'audience.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas",
       "nom_sommaire": "Optimiseur de posts sociaux",
