@@ -5228,6 +5228,23 @@ TESTS_ROUTAGE_EN = [
     ("remove duplicates and anomalies from this dataset", 92),
     ("design a RAG pipeline over our documents", 98),
     ("write the system prompt for our agent", 100),
+    ("map these concepts visually", 101),
+    ("answer questions over my personal documents", 102),
+    ("analyse a market sector", 103),
+    ("summarise this scientific paper", 104),
+    ("analyse cohort retention and churn", 106),
+    ("design an A/B test properly", 110),
+    ("prioritise my sales pipeline with lead scoring", 111),
+    ("write a client case study", 124),
+    ("write a press release", 126),
+    ("write a one-page decision memo", 127),
+    ("write a step-by-step user guide", 130),
+    ("explain this to kids simply", 132),
+    ("format APA citations and a bibliography", 133),
+    ("plan our editorial calendar", 135),
+    ("write transactional emails", 138),
+    ("write an image generation prompt", 139),
+    ("design a colour palette and fonts", 149),
 ]
 
 

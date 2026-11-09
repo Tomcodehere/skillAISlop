@@ -2338,7 +2338,8 @@
       "synonymes": [],
       "resume": "transformer un domaine complexe en carte conceptuelle claire : notions clés, liens, niveau de difficulté. Étape 1 : Cerner le domaine avec l'utilisateur : finalité, niveau visé, temps disponible.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2358,7 +2359,8 @@
       "synonymes": [],
       "resume": "interroger un corpus de documents personnels (PDF, notes, relevés) et obtenir des réponses sourcées. Étape 1 : Recenser le corpus : types de documents, dates, organisation, questions prioritaires.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2378,7 +2380,8 @@
       "synonymes": [],
       "resume": "produire une analyse de marché structurée (taille, tendances, acteurs, barrières) pour éclairer une décision d'entrée ou d'investissement. Étape 1 : Cadrer le marché : périmètre géographique, segments, horizon temporel, décision à éclairer.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2398,7 +2401,8 @@
       "synonymes": [],
       "resume": "extraire d'un article scientifique l'essentiel : question, méthode, résultats, limites — et son degré de fiabilité. Étape 1 : Identifier la question, l'hypothèse et le type d'étude (observation, essai, revue).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2422,7 +2426,8 @@
       ],
       "resume": "transformer un flux de veille brut (articles, posts, rapports) en digest hebdomadaire court, hiérarchisé et actionnable. Étape 1 : Recueillir le flux brut et les thèmes de veille prioritaires de l'utilisateur.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2446,7 +2451,8 @@
       ],
       "resume": "mesurer la rétention par cohorte d'arrivée et identifier où et pourquoi les utilisateurs partent. Étape 1 : Auditer les données d'usage : définition d'un utilisateur actif, période d'observation, segments.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2469,7 +2475,8 @@
       ],
       "resume": "concevoir un tableau de bord utile : les bonnes métriques, comparées à une cible, en une seule page. Étape 1 : Identifier les décisions à prendre et leurs utilisateurs (direction, équipe, opérationnel).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2489,7 +2496,8 @@
       "synonymes": [],
       "resume": "transformer une analyse chiffrée en narration claire qui porte une décision, sans déformer les données. Étape 1 : Identifier le message central et la décision associée.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2512,7 +2520,8 @@
       ],
       "resume": "localiser les étapes d'un parcours (inscription, achat, onboarding) qui perdent le plus d'utilisateurs, et proposer des corrections. Étape 1 : Cartographier le parcours réel et collecter les taux de passage par étape.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2536,7 +2545,8 @@
       ],
       "resume": "concevoir un test A/B solide : une hypothèse, une variable, une durée et un critère de décision définis à l'avance. Étape 1 : Formuler l'hypothèse, la variable unique et la métrique principale avec cible.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2556,7 +2566,8 @@
       "synonymes": [],
       "resume": "classer des prospects par probabilité de conversion pour concentrer l'effort commercial sur les meilleurs. Étape 1 : Analyser les leads passés : quels signaux distinguent les convertis des autres.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2576,7 +2587,8 @@
       "synonymes": [],
       "resume": "comprendre pourquoi des affaires sont gagnées ou perdues, et en tirer des changements concrets d'offre et de discours. Étape 1 : Constituer l'échantillon d'affaires (gagnées, perdues, abandonnées) et le questionnaire.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2596,7 +2608,8 @@
       "synonymes": [],
       "resume": "concevoir et analyser une enquête interne (baromètre social, satisfaction équipe) qui donne des résultats actionnables. Étape 1 : Définir les thèmes à sonder et concevoir le questionnaire neutre avec échelles et questions ouvertes.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2616,7 +2629,8 @@
       "synonymes": [],
       "resume": "structurer les notes, projets et savoirs d'une personne ou d'une équipe en base de connaissances navigable. Étape 1 : Auditer l'existant (notes, fichiers, habitudes) et les usages réels.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2639,7 +2653,8 @@
       ],
       "resume": "transformer des reçus et factures en données comptables propres et catégorisées, prêtes pour la déclaration. Étape 1 : Recueillir les documents et le plan comptable ou les catégories de l'utilisateur.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2659,7 +2674,8 @@
       "synonymes": [],
       "resume": "écrire un document long structuré (rapport, mémoire, dossier) qui reste cohérent du début à la fin. Étape 1 : Cadrer le document : lecteur, décision attendue, longueur cible, contraintes formelles.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2679,7 +2695,8 @@
       "synonymes": [],
       "resume": "traduire un document complet (PDF, Word, slides) en conservant sa structure et sa mise en forme. Étape 1 : Analyser le document : structure, glossaire, ton, éléments à ne pas traduire (marques, références).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2699,7 +2716,8 @@
       "synonymes": [],
       "resume": "générer en série des fiches produits uniques, vendeuses et cohérentes pour une boutique en ligne. Étape 1 : Recueillir les données produits, la cible et les mots-clés prioritaires.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2719,7 +2737,8 @@
       "synonymes": [],
       "resume": "transformer un guide, un contrat ou une documentation en foire aux questions claire et hiérarchisée. Étape 1 : Analyser le document source et le profil des utilisateurs avec leurs vraies questions.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2739,7 +2758,8 @@
       "synonymes": [],
       "resume": "évaluer l'authenticité d'un texte (probabilité de génération IA, passages plagiés) et en rendre compte honnêtement. Étape 1 : Analyser le texte : régularité, tics de génération, cohérence factuelle, ancrage réel.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2759,7 +2779,8 @@
       "synonymes": [],
       "resume": "co-écrire de la fiction (nouvelle, scénario, roman) en mode atelier : l'utilisateur écrit, tu accompagnes. Étape 1 : Cadrer le projet : genre, longueur, voix, références aimées, objectif de la séance.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2779,7 +2800,8 @@
       "synonymes": [],
       "resume": "structurer une idée d'histoire en synopsis solide et en pitch de 2 minutes qui donne envie d'en savoir plus. Étape 1 : Extraire de l'idée brute : personnage principal, désir, obstacle, enjeu.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2802,7 +2824,8 @@
       ],
       "resume": "écrire une page de vente complète qui convertit : promesse, preuve, objections levées, appel à l'action. Étape 1 : Cadrer l'offre : produit, prix, cible, promesse mesurable, objections connues.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2822,7 +2845,8 @@
       "synonymes": [],
       "resume": "transformer un succès client en étude de cas crédible : problème, solution, résultats chiffrés. Étape 1 : Collecter la matière : interview client, chiffres avant/après, citations.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2842,7 +2866,8 @@
       "synonymes": [],
       "resume": "produire un livre blanc d'expertise (10-30 pages) qui démontre l'autorité et génère des contacts qualifiés. Étape 1 : Cadrer le sujet : lecteur cible, problème, position unique de l'entreprise, longueur.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2862,7 +2887,8 @@
       "synonymes": [],
       "resume": "écrire un communiqué de presse que les journalistes lisent jusqu'au bout et qu'ils peuvent reprendre tel quel. Étape 1 : Identifier l'angle journalistique : pourquoi un média en parlerait-il maintenant.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2882,7 +2908,8 @@
       "synonymes": [],
       "resume": "rédiger un mémo structuré (format 6-pager ou note courte) qui permet à un décideur de trancher sans réunion. Étape 1 : Cadrer la décision : question précise, décideur, options réelles, contraintes.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2902,7 +2929,8 @@
       "synonymes": [],
       "resume": "écrire des bios professionnelles courtes et mémorables, adaptées à chaque plateforme. Étape 1 : Recueillir la matière : parcours, spécialité, résultats, personnalité, plateformes cibles.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2922,7 +2950,8 @@
       "synonymes": [],
       "resume": "rédiger des notes de version que les utilisateurs lisent : ce qui change, pourquoi ça leur est utile. Étape 1 : Collecter les changements de la version (commits, tickets) et trier par impact utilisateur.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2942,7 +2971,8 @@
       "synonymes": [],
       "resume": "écrire un guide utilisateur pas à pas qui permet de réussir une tâche sans aide humaine. Étape 1 : Identifier les tâches réelles des utilisateurs et leur niveau.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2962,7 +2992,8 @@
       "synonymes": [],
       "resume": "obtenir des témoignages clients crédibles et utilisables : interview guidée, rédaction, validation. Étape 1 : Préparer le questionnaire d'interview et sélectionner les clients à solliciter.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -2986,7 +3017,8 @@
       ],
       "resume": "expliquer un sujet complexe à un enfant de 6 à 12 ans, avec justesse et sans condescendance. Étape 1 : Cerner le sujet, l'âge de l'enfant et le contexte (devoirs, curiosité, exposé).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3006,7 +3038,8 @@
       "synonymes": [],
       "resume": "construire une bibliographie conforme aux normes (APA, MLA, Chicago) et vérifier la cohérence des citations. Étape 1 : Identifier la norme exigée et collecter toutes les références avec leurs métadonnées.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3026,7 +3059,8 @@
       "synonymes": [],
       "resume": "produire des définitions claires, exactes et autonomes d'un lexique métier ou technique. Étape 1 : Collecter le lexique brut et le public cible du glossaire.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3046,7 +3080,8 @@
       "synonymes": [],
       "resume": "bâtir un calendrier de contenus thématique et réaliste qui tient sur la durée. Étape 1 : Définir les piliers thématiques, la cadence réaliste et les canaux.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3070,7 +3105,8 @@
       ],
       "resume": "écrire des messages d'occasion (vœux, remerciements, faire-part) personnels et justes en ton. Étape 1 : Recueillir la relation, le souvenir marquant et le ton souhaité.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3090,7 +3126,8 @@
       "synonymes": [],
       "resume": "rédiger un courrier formel efficace (réclamation, contestation, demande administrative) qui obtient une réponse. Étape 1 : Recueillir les faits datés, les références (contrat, facture, loi) et l'objectif visé.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3110,7 +3147,8 @@
       "synonymes": [],
       "resume": "écrire les emails automatiques d'un service (confirmation, réinitialisation, livraison) pour qu'ils soient clairs et rassurants. Étape 1 : Recenser les emails du parcours (déclencheur, moment, action attendue, inquiétude).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3130,7 +3168,8 @@
       "synonymes": [],
       "resume": "écrire des prompts de génération d'images précis (sujet, style, lumière, cadrage) qui donnent le résultat visé du premier coup. Étape 1 : Définir l'usage final, le format et le référent stylistique de l'utilisateur.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3150,7 +3189,8 @@
       "synonymes": [],
       "resume": "planifier la restauration numérique de photos anciennes (rayures, déchirures, colorisation) avec des instructions précises. Étape 1 : Diagnostiquer la photo : types de dommages, priorités de traitement, zones irrécupérables.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3174,7 +3214,8 @@
       ],
       "resume": "concevoir des visuels vectoriels (logos, icônes, pictogrammes) éditables et cohérents en série. Étape 1 : Cadrer l'usage, la grille de construction et les contraintes (tailles, fonds).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3194,7 +3235,8 @@
       "synonymes": [],
       "resume": "spécifier des objets 3D générés par IA (props de jeu, mockups produits, décors) prêts pour la production. Étape 1 : Définir l'usage (moteur de jeu, rendu produit, impression) et ses contraintes techniques.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3217,7 +3259,8 @@
       ],
       "resume": "incruster virtuellement un logo ou un design sur des supports réels (packaging, textile, signalétique) avec des instructions réalistes. Étape 1 : Recueillir le design, le support réel et le contexte d'usage final.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3237,7 +3280,8 @@
       "synonymes": [],
       "resume": "écrire des prompts de génération vidéo (clips animés, plans d'illustration) cohérents d'un plan à l'autre. Étape 1 : Définir l'usage, le style global et la durée totale de la séquence.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3257,7 +3301,8 @@
       "synonymes": [],
       "resume": "produire des vidéos avec présentateur virtuel (avatar IA) crédibles et utiles, du script au rendu final. Étape 1 : Définir l'usage, l'audience et le ton ; écrire le script oralisé.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3277,7 +3322,8 @@
       "synonymes": [],
       "resume": "transformer un script en storyboard complet : plans, cadrages, mouvements, intentions. Étape 1 : Analyser le script : séquences, rythme, points d'attention émotionnels.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3297,7 +3343,8 @@
       "synonymes": [],
       "resume": "concevoir des miniatures (YouTube, podcasts, articles) qui donnent envie de cliquer sans tromper sur le contenu. Étape 1 : Analyser le contenu réel et les miniatures concurrentes du même sujet.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3317,7 +3364,8 @@
       "synonymes": [],
       "resume": "assembler un mood board directionnel (ambiances, références, palettes) qui aligne tout le monde avant création. Étape 1 : Cadrer le projet : audience, usage, émotion visée, références aimées et rejetées.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3337,7 +3385,8 @@
       "synonymes": [],
       "resume": "définir une palette de couleurs et une échelle typographique cohérentes, accessibles et adaptées à tous les supports. Étape 1 : Cadrer l'identité visée, les supports et les contraintes d'accessibilité.",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
@@ -3357,7 +3406,8 @@
       "synonymes": [],
       "resume": "constituer une bible de style pour la génération d'images en série : même identité visuelle sur des dizaines d'images. Étape 1 : Extraire les caractéristiques d'images de référence aimées (palette, lumière, grain, composition).",
       "langs": [
-        "fr"
+        "fr",
+        "en"
       ],
       "fichier": "canvas"
     },
