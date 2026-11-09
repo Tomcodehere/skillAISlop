@@ -84,3 +84,8 @@ jobs:
         run: |
           python3 outils/routage.py count --dossier /tmp/count-check
           diff <(grep -m1 "Total" data/totalSkillsCount.md) <(grep -m1 "Total" /tmp/count-check/totalSkillsCount.md)
+
+      - name: Index condensé à jour (R8)
+        run: |
+          python3 outils/routage.py export --condensé --fichier /tmp/condensed-check.json
+          diff /tmp/condensed-check.json data/catalogue-condensed.json

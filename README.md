@@ -32,7 +32,7 @@ Pour un **pack autonome** distribuable à d'autres projets : `data/skillaislop-p
 | `skills/` | 2001 fichiers `.md` (une skill = un fichier, frontmatter YAML avec `date_ajout: "YYYY-MM"`) |
 | `catalogue/` | sommaire, règles R1-R11, template, utilisation, sources, vue d'ensemble |
 | `outils/` | `routage.py` (routeur SQL hybride FTS5 + sqlite-vec, repli gracieux si l'extension est absente), `audit_conformite.py` |
-| `data/` | catalogues JSON + `sonde-rapport.md` (rapport de couverture) |
+| `data/` | catalogues JSON (compact/complet/condensé) + `sonde-rapport.md` (rapport de couverture) — `catalogue-condensed.json` = index machine léger (resume + méthode + garde-fous), embarqué dans le pack |
 | `canvas/` | 7 canvases d'origine (corpus, blocs de 300) |
 | `AGENTS.md` / `TODO.md` / `DONE.md` | instructions agents / suivi |
 

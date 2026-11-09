@@ -7001,8 +7001,104 @@ def _sections_multi(canvas: Path) -> dict[int, tuple[str, str, str, str]]:
     return sections
 
 
-def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False) -> int:
-    """Exporte toutes les sections du catalogue en JSON (compact par défaut, --complet pour le texte intégral)."""
+def _entree_condensee(num, nom, nom_court, emoji, domaine, branche, mot_cle, resume,
+                      synonymes, cross_refs, corps) -> dict:
+    """Entrée condensée machine d'une skill : métadonnées + resume + étapes de la
+    Méthode + garde-fous GF (sans le corps complet)."""
+    blocs = _blocs_canoniques(corps)
+    methode = [re.sub(r"\s+", " ", m).strip()[:240]
+               for m in re.findall(r"(?m)^\d+\. (.+)$", blocs.get("Méthode") or "")]
+    gf = [re.sub(r"\s+", " ", l).strip()[2:].strip()
+          for l in (blocs.get("Garde-fous") or "").splitlines()
+          if re.match(r"^- GF-", l.strip())]
+    return {"num": num, "nom": nom, "nom_court": nom_court, "emoji": emoji,
+            "domaine": domaine, "branche": branche, "mot_cle": mot_cle,
+            "resume": resume, "methode": methode, "garde_fous": gf,
+            "synonymes": sorted(synonymes), "cross_refs": sorted(set(cross_refs))}
+
+
+def _json_condense(entrees: list[dict]) -> str:
+    export = {"catalogue": "skillAISlop", "version": CATALOGUE_VERSION,
+              "mode": "condensé",
+              "stats": {"sections": len(entrees),
+                        "domaines": len({e["domaine"] for e in entrees}),
+                        "synonymes": sum(len(e["synonymes"]) for e in entrees),
+                        "tests_routage": len(TESTS_ROUTAGE)},
+              "skills": sorted(entrees, key=lambda e: e["num"])}
+    return json.dumps(export, ensure_ascii=False, indent=2) + "\n"
+
+
+def _condensed_json_repo(canvas: Path) -> str:
+    """Index condensé depuis le canvas (dépôt) : extraire + sections corpus + resumes."""
+    texte = Path(canvas).read_text(encoding="utf-8")
+    sommaire, _sig, mot_cles, branches, noms_courts, cartes = extraire(texte)
+    sections = _sections_multi(canvas)
+    synonymes: dict[int, list[str]] = {}
+    for syn, num in SYNONYMES:
+        synonymes.setdefault(num, []).append(syn)
+    sk = _skills_dir()
+    resumes = lire_resumes(sk)
+    fm_refs: dict[int, list[int]] = {}
+    for f in sorted(sk.glob("*.md")):
+        txt = f.read_text(encoding="utf-8")
+        m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+        if not m:
+            continue
+        fm = m.group(1)
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        mc = re.search(r'^cross_refs: \[(.*)\]$', fm, re.M)
+        if mc:
+            fm_refs[num] = [int(r) for r in re.findall(r"\d+", mc.group(1))]
+    entrees = []
+    for num in sorted(sections):
+        emoji, nom, corps, _f = sections[num]
+        dom = sommaire.get(num, ["", ""])[1]
+        cas = _blocs_canoniques(corps).get("Cas d'usage", "")
+        refs = {int(r) for r in re.findall(r"(\d+) \(", cas)} | {int(r) for r in re.findall(r"skills? (\d+)", cas)}
+        refs |= set(fm_refs.get(num, []))
+        entrees.append(_entree_condensee(num, nom, noms_courts.get(num), emoji, dom,
+                                         branches.get(num), mot_cles.get(num),
+                                         resumes.get(num), synonymes.get(num, []), refs, corps))
+    return _json_condense(entrees)
+
+
+def _condensed_json_from_skills(sk_dir: Path) -> str:
+    """Index condensé depuis skills/*.md (pack autonome, sans canvas)."""
+    entrees = []
+    for f in sorted(Path(sk_dir).glob("*.md")):
+        txt = f.read_text(encoding="utf-8")
+        m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+        if not m:
+            continue
+        fm = m.group(1)
+        def _g(k):
+            mm = re.search(rf'^{k}: "(.*)"$', fm, re.M)
+            return mm.group(1) if mm else ""
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        ms = re.search(r'^synonymes: \[(.*)\]$', fm, re.M)
+        syns = [x.strip().strip('"') for x in ms.group(1).split(",") if x.strip()] if ms else []
+        mc = re.search(r'^cross_refs: \[(.*)\]$', fm, re.M)
+        refs = [int(r) for r in re.findall(r"\d+", mc.group(1))] if mc else []
+        mr = re.search(r'^resume: "(.*)"$', fm, re.M)
+        resume = mr.group(1) if (mr and mr.group(1).strip()) else resume_auto(txt[m.end():])
+        entrees.append(_entree_condensee(num, _g("nom"), _g("nom_court"), _g("emoji"),
+                                         _g("domaine"), _g("branche"), _g("mot_cle"),
+                                         resume, syns, refs, txt[m.end():]))
+    return _json_condense(entrees)
+
+
+def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False,
+               condense: bool = False) -> int:
+    """Exporte toutes les sections du catalogue en JSON (compact par défaut, --complet
+    pour le texte intégral, --condensé pour l'index machine léger)."""
+    if condense:
+        sortie = _condensed_json_repo(canvas)
+        if fichier is None:
+            fichier = RACINE / "data" / "catalogue-condensed.json"
+        Path(fichier).write_text(sortie, encoding="utf-8")
+        n = sortie.count('"num":')
+        print(f"✅ {n} sections exportées (mode condensé) vers {fichier}")
+        return 0
     texte = Path(canvas).read_text(encoding="utf-8")
     sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(texte)
 
@@ -7189,6 +7285,7 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             td = Path(td)
             with zipfile.ZipFile(sortie) as z:
                 z.extractall(td)
+                cond_zip = z.read("catalogue-condensed.json").decode("utf-8")
             import sqlite3 as _sq
             sys_path_backup = list(sys.path)
             sys.path.insert(0, str(td))
@@ -7204,6 +7301,7 @@ def cmd_pack(sortie: Path, check: bool) -> int:
                 for f in sorted((td / "skills").glob("*.md")):
                     gh.update(f.name.encode()); gh.update(f.read_bytes())
                 hash_ok = gh.hexdigest() == h
+                cond_ok = cond_zip == rt._condensed_json_from_skills(td / "skills")
             finally:
                 sys.path[:] = sys_path_backup
             ref = sqlite3.connect(Path(__file__).resolve().with_name("skills.db"))  # DB du dépôt courant
@@ -7213,8 +7311,8 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             # trigrammes : tolérance 1 % (source canvas vs fichiers peut différer marginalement)
             tri_ok = abs(got["trigrammes"] - attendu["trigrammes"]) <= max(1, attendu["trigrammes"] // 100)
             autres = {k: v for k, v in attendu.items() if k != "trigrammes"}
-            ok = all(got[k] == v for k, v in autres.items()) and tri_ok and hash_ok
-            print("pack check:", "✅ FIDÈLE" if ok else f"❌ écart {got} vs {attendu}, hash_ok={hash_ok}")
+            ok = all(got[k] == v for k, v in autres.items()) and tri_ok and hash_ok and cond_ok
+            print("pack check:", "✅ FIDÈLE" if ok else f"❌ écart {got} vs {attendu}, hash_ok={hash_ok}, cond_ok={cond_ok}")
             return 0 if ok else 1
     sortie.parent.mkdir(parents=True, exist_ok=True)
     # deflate reste le meilleur sur du markdown (testé : LZMA 2,2 Mo vs deflate 1,93 Mo) ;
@@ -7224,6 +7322,7 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             # (skills.db est régénéré par build --from-skills : exclu du pack)
             z.write(f, f"skills/{f.name}")
         z.write(RACINE / "outils" / "routage.py", "routage.py")
+        z.writestr("catalogue-condensed.json", _condensed_json_from_skills(RACINE / "skills"))
         # mesSkillsPerso/ : JAMAIS les fichiers perso de l'utilisateur (ils restent
         # locaux, jamais écrasés à l'upgrade) — uniquement le README explicatif
         pr = RACINE / "mesSkillsPerso" / "README.md"
@@ -7570,6 +7669,8 @@ def main():
                        help="écrire le JSON dans ce fichier (défaut : stdout)")
     p_exp.add_argument("--complet", action="store_true",
                        help="inclure le texte intégral des sections (sinon index compact)")
+    p_exp.add_argument("--condensé", dest="condense", action="store_true",
+                       help="index condensé machine (resume + méthode + garde-fous) -> data/catalogue-condensed.json")
 
     p_cnt = sub.add_parser("count", help="compte les skills -> totalSkillsCount.md")
     p_cnt.add_argument("canvas", nargs="?", type=Path, default=CANVAS_PAR_DEFAUT)
@@ -7621,7 +7722,7 @@ def main():
     elif args.cmd == "lint":
         raise SystemExit(cmd_lint())
     elif args.cmd == "export":
-        raise SystemExit(cmd_export(args.canvas, args.fichier, args.complet))
+        raise SystemExit(cmd_export(args.canvas, args.fichier, args.complet, args.condense))
     elif args.cmd == "count":
         raise SystemExit(cmd_count(args.canvas, args.dossier))
     elif args.cmd == "perso":
