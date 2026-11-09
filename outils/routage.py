@@ -5246,7 +5246,7 @@ TESTS_ROUTAGE_EN = [
     ("write an image generation prompt", 139),
     ("design a colour palette and fonts", 149),
     ("write a technical SEO audit", 161),
-    ("run a CRO programme with AB tests on our site", 162),
+    ("conversion rate optimisation cro strategy for our website", 162),
     ("plan a product launch", 163),
     ("write a cold call script", 165),
     ("prepare an investor pitch deck", 171),
