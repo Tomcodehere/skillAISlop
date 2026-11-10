@@ -1,5 +1,7 @@
 ---
 num: 1312
+resume: "créer une haie variée (essences locales mélangées) qui accueille la faune et demande moins d'entretien qu'une haie de thuyas. Étape 1 : Choisir 5-8 essences locales mélangées (ex. charme, noisetier, aubépine, troène, viorne)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Haie variée & biodiversité"
 emoji: "🌳"

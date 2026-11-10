@@ -1,5 +1,7 @@
 ---
 num: 1370
+resume: "Concevoir un onboarding qui mene l'utilisateur a sa premiere « victoire » avec la feature IA en moins de 5 minutes : 3 etapes max, exemple pre-rempli, feedback immediat. Étape 1 : Definir la premiere valeur percue (ex. « votre premier resume genere »)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concevoir l'onboarding d'une feature IA"
 emoji: "🚪"

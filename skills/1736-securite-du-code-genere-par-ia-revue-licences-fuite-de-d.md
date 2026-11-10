@@ -1,5 +1,7 @@
 ---
 num: 1736
+resume: "Sécuriser le code généré par IA en 2027 (92 % des devs concernés, blindspot OWASP n°1) : revue humaine des PR IA (1401) + SAST en CI (1658), jamais de secrets/données perso dans les prompts (1440), licence vérifiée (1177), outil choisi selon la résidence du code (HIPAA/self-host 1633), pas de code proprio sur les outils gratuits. Étape 1 : Politique : code public → outils gratuits OK ; code intern"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Securite du code genere par IA : revue, licences, fuite de donnees"
 emoji: "🛡"

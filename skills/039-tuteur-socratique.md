@@ -1,5 +1,7 @@
 ---
 num: 39
+resume: "faire comprendre par questions guidées plutôt qu'expliquer : l'apprenant raisonne, l'IA féconde. Étape 1 : Évaluer le niveau de départ avec 1-2 questions d'ouverture."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tuteur socratique"
 emoji: "🤔"

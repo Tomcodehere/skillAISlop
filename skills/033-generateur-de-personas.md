@@ -1,5 +1,7 @@
 ---
 num: 33
+resume: "créer des personas réalistes, actionnables, basés sur des données réelles plutôt que des stéréotypes. Étape 1 : Recueillir les sources disponibles (données, interviews, hypothèses de l'équipe)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Générateur de personas"
 emoji: "👤"

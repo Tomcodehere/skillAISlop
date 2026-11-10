@@ -1,5 +1,7 @@
 ---
 num: 707
+resume: "rédiger un update d'équipe clair et utile : fait, en cours, blocages, aide demandée — sans réunion inutile. Étape 1 : Lister ce qui a été livré cette période avec métrique ou livrable concret."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Statut & mise à jour d'équipe (standup écrit)"
 emoji: "📣"

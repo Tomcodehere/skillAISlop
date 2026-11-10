@@ -1,5 +1,7 @@
 ---
 num: 778
+resume: "sécuriser la trésorerie d'une PME : suivre le BFR, négocier les délais, anticiper les trous de trésorerie. Étape 1 : Suivre mensuellement : encaissements, décaissements, solde, BFR et évolution des délais."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Trésorerie & BFR de la PME"
 emoji: "🏦"

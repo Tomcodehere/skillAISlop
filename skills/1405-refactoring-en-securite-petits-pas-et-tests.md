@@ -1,5 +1,7 @@
 ---
 num: 1405
+resume: "Refactorer du code legacy en 2027 sans régression : tests de caractérisation d'abord, puis refactorings en micro-étapes (renommage, extraction) validées à chaque pas. Étape 1 : Écrire des tests de caractérisation capturant le comportement actuel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Refactoring en securite : petits pas et tests"
 emoji: "🧰"

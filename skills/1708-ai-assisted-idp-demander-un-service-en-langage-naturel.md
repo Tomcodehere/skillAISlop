@@ -1,5 +1,7 @@
 ---
 num: 1708
+resume: "Intégrer l'IA dans l'IDP en 2027 (92 % des CIO) : demande en langage naturel ('service Node + Postgres + observabilité') → l'IDP génère repo + manifests + pipeline depuis un golden path (1701), et un humain valide la PR (1401) avant merge. Étape 1 : Chat dans le portail : 'nouveau service Node + Postgres + observabilité en prod'."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI-assisted IDP : demander un service en langage naturel"
 emoji: "🤖"

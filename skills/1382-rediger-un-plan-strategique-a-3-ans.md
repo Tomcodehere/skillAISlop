@@ -1,5 +1,7 @@
 ---
 num: 1382
+resume: "Rédiger un plan strategique 2027-2029 sur 2 pages : vision, 3 objectifs prioritaires avec KPI, 3-5 initiatives par an, risques et hypotheses, revu annuellement. Étape 1 : Reprendre la vision et la traduire en 3 objectifs strategiques max pour 2029."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rediger un plan strategique a 3 ans"
 emoji: "🗺"

@@ -1,5 +1,7 @@
 ---
 num: 755
+resume: "mettre en place une stratégie de sauvegarde 3-2-1 fiable et tester régulièrement la restauration. Étape 1 : Appliquer 3-2-1 : 3 copies, 2 supports, 1 hors ligne ; automatiser et versionner."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sauvegardes 3-2-1 & PRA personnel"
 emoji: "💾"

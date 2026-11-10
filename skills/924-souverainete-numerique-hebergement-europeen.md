@@ -1,5 +1,7 @@
 ---
 num: 924
+resume: "assurer la souveraineté numérique en 2027 : héberger données et traitements IA en Europe (hébergeurs UE, neoclouds GPU européens), conforme RGPD/AI Act. Étape 1 : Inventorier données et flux (où elles vont, quels fournisseurs, quelles régions)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Souveraineté numérique & hébergement européen"
 emoji: "🇪🇺"

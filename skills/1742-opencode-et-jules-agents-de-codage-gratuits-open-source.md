@@ -1,5 +1,7 @@
 ---
 num: 1742
+resume: "Utiliser un agent de codage gratuit en 2027 : OpenCode (CLI open source, modèles au choix dont locaux 1633 — le code ne sort jamais) ou Google Jules (15 tâches/jour en free tier, intégré GitHub) — pour le perso/open source ou sans budget. Étape 1 : OpenCode : installer (npm/binaire), configurer le modèle (ex. qwen-coder local via Ollama 1472 → zéro fuite de code, ou API gratuite), lancer dans le r"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OpenCode et Jules : agents de codage gratuits/open source"
 emoji: "🆓"

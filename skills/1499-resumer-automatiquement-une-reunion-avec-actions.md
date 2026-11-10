@@ -1,5 +1,7 @@
 ---
 num: 1499
+resume: "Automatiser le compte-rendu de réunion en 2027 (Fireflies/Otter/tl;dv ou bot Teams/Meet) : transcription, résumé structuré (sujets, décisions, actions avec responsable + échéance), partage aux absents, recherche dans les transcriptions. Étape 1 : Choisir l'outil (bot intégré à la visio = le plus simple) et annoncer l'enregistrement à l'oral."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Resumer automatiquement une reunion avec actions"
 emoji: "🎤"

@@ -1,5 +1,7 @@
 ---
 num: 1373
+resume: "Concevoir un workflow en chainant 2 a 4 skills via leurs cross-refs et depends_on : skill d'entree, sorties intermediaires reutilisees comme entrees, point de controle a chaque etape. Étape 1 : Partir de la demande globale et choisir la skill d'entree (dispatch)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Composer plusieurs skills en workflow"
 emoji: "🔗"

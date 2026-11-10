@@ -1,5 +1,7 @@
 ---
 num: 1610
+resume: "Utiliser le CSS 2027 : :has() (styliser un parent selon son enfant), container queries (@container : le composant s'adapte à son conteneur, pas au viewport), View Transitions natifs, animations scroll-driven — sans JS. Étape 1 : :has() : .form:has(input:invalid) { border: red } — plus besoin de classe JS."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "CSS : :has, container queries, view transitions natifs"
 emoji: "🎨"

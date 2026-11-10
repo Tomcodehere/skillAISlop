@@ -1,5 +1,7 @@
 ---
 num: 1678
+resume: "Faire respecter les data contracts en prod en 2027 : contrat signé (schéma, sémantique, qualité, SLA), enforcement AUTO en CI (1592) — un changement de schéma bloque le merge sans versionnage v1→v2 + période de grâce, monitoring prod (1675), alerte bilatérale, dépréciation datée. Étape 1 : Rédiger le contrat par source critique : schéma (types, nullabilité 1424), sémantique (définition métier 344)"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data contracts en prod : enforcement auto en CI"
 emoji: "📜"

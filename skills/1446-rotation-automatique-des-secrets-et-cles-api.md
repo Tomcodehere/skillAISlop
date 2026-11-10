@@ -1,5 +1,7 @@
 ---
 num: 1446
+resume: "Automatiser la rotation des secrets/clés API en 2027 : vault central (Vault/AWS Secrets Manager), rotation tous les 90 jours, double validité pendant la transition, révocation immédiate en cas de fuite suspectée. Étape 1 : Inventorier tous les secrets (grep, vault scan) et les migrer dans le vault."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rotation automatique des secrets et cles API"
 emoji: "🔑"

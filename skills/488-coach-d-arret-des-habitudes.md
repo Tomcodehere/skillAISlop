@@ -1,5 +1,7 @@
 ---
 num: 488
+resume: "arrêter une habitude tenace : déclencheurs cartographiés, remplaçants concrets, plan des premiers jours et gestion des rechutes. Étape 1 : Cartographier les déclencheurs réels et concevoir un remplaçant par déclencheur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach d'arrêt des habitudes"
 emoji: "🚬"

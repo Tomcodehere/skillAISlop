@@ -1,5 +1,7 @@
 ---
 num: 1227
+resume: "Concevoir un traitement de requête PHP qui distingue validation, autorisation et logique métier. Étape 1 : Cadrer les inputs : route, données attendues, politique d'accès et conventions du framework ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "PHP Request Validation Flow"
 emoji: "💻"

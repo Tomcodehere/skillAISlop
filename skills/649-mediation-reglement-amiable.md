@@ -1,5 +1,7 @@
 ---
 num: 649
+resume: "régler un litige à l'amiable avant toute procédure : conciliation, médiation, compromis écrit. Étape 1 : Poser les faits par écrit : chronologie, preuves, préjudice subi, demande précise et chiffrée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Médiation & règlement amiable"
 emoji: "🤝"

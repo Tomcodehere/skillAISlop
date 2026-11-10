@@ -1,5 +1,7 @@
 ---
 num: 1311
+resume: "convertir une pelouse classique en prairie fleurie sobre en eau et riche en biodiversité, avec un entretien simplifié. Étape 1 : Choisir un mélange prairial adapté au sol et au climat (graminées + vivaces locales)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Jardin en prairie fleurie"
 emoji: "🌼"

@@ -1,5 +1,7 @@
 ---
 num: 598
+resume: "améliorer ses prompts par la boucle d'itération : versions comparées, échecs collectés et bibliothèque de prompts qui progressent. Étape 1 : Définir les critères de réussite et les cas de test."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Boucle d'amélioration des prompts"
 emoji: "🔁"

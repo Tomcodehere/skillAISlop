@@ -1,5 +1,7 @@
 ---
 num: 235
+resume: "gérer la communication de crise (incident, bad buzz, erreur publique) : faits, messages, séquences, canaux. Étape 1 : Établir les faits et la gravité réelle ; identifier les publics par ordre d'urgence."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Communicant de crise"
 emoji: "📢"

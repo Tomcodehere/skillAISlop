@@ -1,5 +1,7 @@
 ---
 num: 143
+resume: "incruster virtuellement un logo ou un design sur des supports réels (packaging, textile, signalétique) avec des instructions réalistes. Étape 1 : Recueillir le design, le support réel et le contexte d'usage final."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créateur de mockups produits"
 emoji: "🧴"

@@ -1,5 +1,7 @@
 ---
 num: 786
+resume: "choisir et gérer ses assurances professionnelles essentielles : RC Pro, décennale, cyber, multirisque. Étape 1 : Inventorier les risques métier et les assurances obligatoires/indispensables (RC Pro, décennale, cyber, PJ)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Assurances professionnelles (RC Pro, décennale)"
 emoji: "🛡️"

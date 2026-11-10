@@ -1,5 +1,7 @@
 ---
 num: 1177
+resume: "Identifier des alternatives libres/open source pertinentes à un outil propriétaire envisagé, évaluer la compatibilité de licence (GPL/AGPL/MIT/Apache/BSD/MPL) et rendre un avis explicite et argumenté sur la pertinence du choix libre pour le projet en cours — sans jamais bloquer la décision finale. Étape 1 : Identifier précisément l'outil/technologie propriétaire en question et le besoin fonctionne"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Libre Software Advocacy & Licensing"
 emoji: "🧠"

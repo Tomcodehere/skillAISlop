@@ -1,5 +1,7 @@
 ---
 num: 441
+resume: "mener une investigation forensique : préservation des preuves, chronologie reconstruite, périmètre de compromission et constats factuels. Étape 1 : Préserver : captures, images et chaîne de conservation documentées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Expert forensique numérique"
 emoji: "🔦"

@@ -1,5 +1,7 @@
 ---
 num: 799
+resume: "réussir le lancement d'un produit : positionnement, bêta, waitlist, annonce coordonnée, mesure des premiers signaux. Étape 1 : Positionner (promesse en 1 phrase, public early adopters) et construire une waitlist avec objectif chiffré."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lancement de produit & go-to-market"
 emoji: "🚀"

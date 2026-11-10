@@ -1,5 +1,7 @@
 ---
 num: 347
+resume: "auditer un classeur à risque : formules cassées, références dangereuses, erreurs masquées et dépendances circulaires. Étape 1 : Cartographier le classeur : feuilles, flux de calcul, liens externes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur de formules Excel"
 emoji: "🌭"

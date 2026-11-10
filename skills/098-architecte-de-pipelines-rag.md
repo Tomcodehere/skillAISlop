@@ -1,5 +1,7 @@
 ---
 num: 98
+resume: "concevoir un système de question-réponse sur documents d'entreprise (indexation, recherche augmentée, réponse sourcée). Étape 1 : Auditer le corpus et les questions types ; définir le découpage et les métadonnées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte de pipelines RAG"
 emoji: "🔬"

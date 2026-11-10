@@ -1,5 +1,7 @@
 ---
 num: 1877
+resume: "Déployer en canary avancé avec Argo Rollouts : Rollout avec setWeight/pause/AnalysisTemplate Prometheus (erreurs 5xx, latence p99) — abort automatique si dégradation, promotion auto sinon. Étape 1 : Rollout CR : strategy canary steps: setWeight 10, pause 5 min, analysis (AnalysisTemplate)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Argo Rollouts : canary avancé avec analysis Prometheus"
 emoji: "🚀"

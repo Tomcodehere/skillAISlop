@@ -1,5 +1,7 @@
 ---
 num: 534
+resume: "écrire et retravailler des poèmes : formes, images, rythme, avec un atelier progressif et des retours précis. Étape 1 : Choisir une forme et une contrainte d'écriture."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Atelier d'écriture poétique"
 emoji: "✒️"

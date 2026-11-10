@@ -1,5 +1,7 @@
 ---
 num: 75
+resume: "écrire des discours qui sonnent juste à l'oral : mariage, keynote, départ, cérémonie. Étape 1 : Collecter l'occasion, le public, les anecdotes réelles et la durée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de discours"
 emoji: "🎤"

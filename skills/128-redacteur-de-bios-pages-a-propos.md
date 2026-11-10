@@ -1,5 +1,7 @@
 ---
 num: 128
+resume: "écrire des bios professionnelles courtes et mémorables, adaptées à chaque plateforme. Étape 1 : Recueillir la matière : parcours, spécialité, résultats, personnalité, plateformes cibles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de bios & pages « à propos »"
 emoji: "🪪"

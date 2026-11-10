@@ -1,5 +1,7 @@
 ---
 num: 35
+resume: "concevoir un système qui sélectionne les top-K éléments pour un utilisateur donné (feeds, reranking, notifications). Étape 1 : Clarifier le cas d'usage (feed, recherche, notifications) et les contraintes (latence, volume)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pipeline de recommandation"
 emoji: "🔗"

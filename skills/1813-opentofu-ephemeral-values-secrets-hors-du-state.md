@@ -1,5 +1,7 @@
 ---
 num: 1813
+resume: "Utiliser les ephemeral values d'OpenTofu (1.11+) pour que les secrets (ex. mot de passe BDD lu dans Secrets Manager) traversent le provider sans jamais être écrits dans le state ni les logs. Étape 1 : Déclarer ephemeral 'aws_secretsmanager_secret_version' 'db' { ... } — la valeur est éphémère."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OpenTofu : ephemeral values (secrets hors du state)"
 emoji: "🕶️"

@@ -1,5 +1,7 @@
 ---
 num: 1381
+resume: "Arbitrer le budget croissance 2027 entre acquisition (CAC) et retention (churn, LTV) en calculant le ratio LTV/CAC et en choisissant le levier le plus rentable au stade actuel du produit. Étape 1 : Calculer le CAC actuel (depenses marketing / nouveaux clients)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Strategie de croissance : acquisition vs retention"
 emoji: "⚖"

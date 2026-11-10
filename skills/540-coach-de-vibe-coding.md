@@ -1,5 +1,7 @@
 ---
 num: 540
+resume: "réussir un projet construit en pilotage naturel d'un agent de code : cadrer, découper, vérifier et garder la main sur la qualité. Étape 1 : Cadrer l'objectif et le périmètre de la session avec critère observable."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de vibe coding"
 emoji: "🎨"

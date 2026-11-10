@@ -1,5 +1,7 @@
 ---
 num: 1172
+resume: "Rédiger des erreurs d'interface qui expliquent le problème et une reprise réellement possible. Étape 1 : Cadrer les inputs : état d'erreur, cause exposable, actions possibles et contraintes ui ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Interface Error-Recovery Writing"
 emoji: "🎨"

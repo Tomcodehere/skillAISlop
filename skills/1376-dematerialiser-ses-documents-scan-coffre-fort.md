@@ -1,5 +1,7 @@
 ---
 num: 1376
+resume: "Passer au numerique ses documents papier : scanner, nommer (AAAA-MM-JJ categorie), stocker dans un coffre-fort numerique fiable avec une copie de sauvegarde, et ne garder en papier que l'original legal. Étape 1 : Trier : ne scanner que ce qui n'a pas besoin d'etre en original papier."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Dematérialiser ses documents (scan, coffre-fort)"
 emoji: "📥"

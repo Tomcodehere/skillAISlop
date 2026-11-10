@@ -1,5 +1,7 @@
 ---
 num: 339
+resume: "tester un nouvel agent en shadow : il tourne en parallèle de l'existant sans agir, on compare décisions et sorties avant bascule. Étape 1 : Mettre en place la duplication du trafic en lecture seule, sans effet visible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Testeur fantôme d'agents"
 emoji: "🌦"

@@ -1,5 +1,7 @@
 ---
 num: 1611
+resume: "Construire une app local-first en 2027 : données locales d'abord (IndexedDB/WASM), synchro CRDT (Replicache/LiveStore/Yjs) sans conflit entre appareils, offline total, synchro quand le réseau revient. Étape 1 : État local d'abord : IndexedDB (ou SQLite via WASM 1608) comme source de vérité locale, UI bindée dessus (0 latence perçue)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Local-first web : CRDT et synchro offline"
 emoji: "💾"

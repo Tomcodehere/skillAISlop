@@ -1,5 +1,7 @@
 ---
 num: 1427
+resume: "Obtenir une sortie JSON 100 % valide d'un LLM en 2027 : schéma + exemples dans le prompt, parsing défensif et validation (JSON Schema/Pydantic) côté code, avec retry si invalide. Étape 1 : Mettre le schéma JSON dans le prompt + instruction 'réponds UNIQUEMENT en JSON'."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sortie JSON fiable et validee"
 emoji: "🧱"

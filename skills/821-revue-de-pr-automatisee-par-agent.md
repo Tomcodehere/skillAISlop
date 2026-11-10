@@ -1,5 +1,7 @@
 ---
 num: 821
+resume: "mettre en place une revue de pull request automatisée par agent (CodeRabbit, Agent HQ) avec des règles de qualité claires. Étape 1 : Configurer l'agent : périmètre précis (sécurité, tests, lisibilité), interdictions (pas de nitpick)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Revue de PR automatisée par agent"
 emoji: "👀"

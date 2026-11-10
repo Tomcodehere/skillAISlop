@@ -1,5 +1,7 @@
 ---
 num: 317
+resume: "générer les tests d'intégration qui comptent : les contrats entre services, les parcours de bout en bout internes, sans doublonner les tests unitaires. Étape 1 : Cartographier les points d'intégration et leurs contrats (formats, erreurs, latence)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Générateur de tests d'intégration"
 emoji: "🌔"

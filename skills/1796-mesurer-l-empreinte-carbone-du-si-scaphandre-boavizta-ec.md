@@ -1,5 +1,7 @@
 ---
 num: 1796
+resume: "Mesurer l'empreinte carbone du SI en 2027 : Scaphandre/PowerAPI (conso élec serveurs), Boavizta (impact matériel), EcoIndex (pages web), facteurs NégaOctet/ADEME, et la reporter dans le CSRD (scope 3). Étape 1 : Deployer Scaphandre sur les serveurs physiques/cloud (export Prometheus) : conso W -supérieur à kWh/mois."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Mesurer l'empreinte carbone du SI : Scaphandre, Boavizta, EcoIndex, CSRD"
 emoji: "🌍"

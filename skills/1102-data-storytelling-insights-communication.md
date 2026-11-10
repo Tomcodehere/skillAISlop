@@ -1,5 +1,7 @@
 ---
 num: 1102
+resume: "Informer, convaincre, former, aligner, décider -"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data Storytelling & Insights Communication"
 emoji: "🤖"

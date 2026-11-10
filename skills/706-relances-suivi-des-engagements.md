@@ -1,5 +1,7 @@
 ---
 num: 706
+resume: "relisser proprement les personnes qui doivent répondre ou livrer : relances graduées, ton adapté, journal des attentes. Étape 1 : Lister les attentes : personne, objet, date d'envoi initial, relances déjà faites."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Relances & suivi des engagements"
 emoji: "⏰"

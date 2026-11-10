@@ -1,5 +1,7 @@
 ---
 num: 1794
+resume: "Exécuter du code non fiable en sandbox WebAssembly en 2027 avec le modèle par capacités (deny-by-default : wasmtime --dir=. n'ouvre que le dossier courant), cold start ~1 ms, pour plugins, extensions et fonctions edge. Étape 1 : Lister les capacités strictement nécessaires au plugin (1 dossier, 1 variable d'env)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Plugins et sandbox en WebAssembly : sécurité par capacités"
 emoji: "🧷"

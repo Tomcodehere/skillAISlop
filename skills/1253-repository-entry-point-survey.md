@@ -1,5 +1,7 @@
 ---
 num: 1253
+resume: "Cartographier les points d'entrée documentaires et techniques d'un dépôt sans audit spécialisé. Étape 1 : Cadrer les inputs : périmètre autorisé, arborescence et manifests accessibles ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Repository Entry-Point Survey"
 emoji: "📋"

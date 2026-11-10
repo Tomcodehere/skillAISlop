@@ -1,5 +1,7 @@
 ---
 num: 262
+resume: "auditer des fichiers de skills (SKILL.md) selon les critères de qualité : description-règle de routage, un seul job par skill, corps maigre et exemples concrets. Étape 1 : Lister les défauts par skill : routage vague, multi-jobs, corps trop lourd, règles sans exemples."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Contrôleur qualité de SKILL.md"
 emoji: "🧑‍⚖️"

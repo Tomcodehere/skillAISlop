@@ -1,5 +1,7 @@
 ---
 num: 1383
+resume: "Construire une strategie d'export 2027-2028 : 2-3 pays cibles priorises avec justification, mode d'entree (direct/distributeur), budget, aides publiques mobilisables et jalons sur 18 mois. Étape 1 : Lister 5-8 pays potentiels et les scorer (taille du marche, proximite geographique/culturelle, barrieres reglementaires, concurrence)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Preparer une strategie d'export a l'international"
 emoji: "✈"

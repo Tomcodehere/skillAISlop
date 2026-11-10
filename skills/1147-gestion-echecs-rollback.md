@@ -1,5 +1,7 @@
 ---
 num: 1147
+resume: "Gerer systematiquement les echecs d'execution avec documentation precise, evaluation de rollback et proposition claire a l'agent de coordination, sans execution autonome de remediation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion Echecs & Rollback"
 emoji: "🧠"

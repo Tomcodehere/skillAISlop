@@ -1,5 +1,7 @@
 ---
 num: 457
+resume: "architecturer des paliers d'offre (freemium, abonnements) : critères de passage, valeur perçue par palier et migration douce des clients. Étape 1 : Définir les critères de paliers et la promesse complète de chacun."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte de paliers d'offre"
 emoji: "🧧"

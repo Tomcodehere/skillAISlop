@@ -1,5 +1,7 @@
 ---
 num: 265
+resume: "réduire la facture LLM en ajustant modèles, contextes et caches, sans dégrader la qualité perçue. Étape 1 : Auditer la consommation : par cas d'usage, modèle, tokens d'entrée/sortie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Optimiseur de coûts & modèles LLM"
 emoji: "💲"

@@ -1,5 +1,7 @@
 ---
 num: 1104
+resume: "Administrer et maintenir des systèmes Debian/Ubuntu (apt/dpkg) et Arch Linux (pacman/AUR) : installation, mise à jour, gestion rolling-release, hardening AppArmor, troubleshooting — en complément de la spécialisation RHEL/Red Hat Enterprise portée par l'agent d'administration Linux. Étape 1 : Identifier la distribution et la branche (stable vs rolling) ainsi que l'objectif exact."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Debian & Arch System Administration"
 emoji: "💻"

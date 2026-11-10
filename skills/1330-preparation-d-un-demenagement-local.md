@@ -1,5 +1,7 @@
 ---
 num: 1330
+resume: "organiser un déménagement local en 2027 : volume estimé, camion adapté, cartons gratuits, tri avant, démarches changement d'adresse (énergie, banque, impôts, école). Étape 1 : Estimer le volume et réserver le camion/l'aide 3-4 semaines avant ; cartons gratuits."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un déménagement local"
 emoji: "📦"

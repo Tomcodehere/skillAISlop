@@ -1,5 +1,7 @@
 ---
 num: 1391
+resume: "Concevoir un schéma en étoile pour un data warehouse 2027 : identifier la table de faits (mesures agrégables) et les 4-6 dimensions pertinentes, avec les cles et la granularité. Étape 1 : Choisir le processus métier et la granularité de la table de faits."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Modeliser un schema en etoile (dimensions et faits)"
 emoji: "⭐"

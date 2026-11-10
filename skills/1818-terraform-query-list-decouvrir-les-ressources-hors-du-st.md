@@ -1,5 +1,7 @@
 ---
 num: 1818
+resume: "Utiliser terraform query/list (Terraform 1.14+) pour découvrir les ressources existantes chez le provider mais absentes du state, et les importer en masse (détection de drift manuel / ressources créées en console). Étape 1 : terraform list aws_s3_bucket (avec provider config du compte) : liste les buckets réels."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Terraform query/list : découvrir les ressources hors du state (drift)"
 emoji: "🔎"

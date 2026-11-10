@@ -1,5 +1,7 @@
 ---
 num: 1473
+resume: "Distiller un grand LLM en un petit modèle spécialisé en 2027 : générer 5-50k exemples de haute qualité (avec reasoning) via le grand modèle, entraîner le petit (SFT/LoRA), évaluer vs le grand sur un golden set. Étape 1 : Définir le domaine et collecter 5-50k prompts représentatifs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Distillation : entrainer un petit modele a partir d'un grand"
 emoji: "🧪"

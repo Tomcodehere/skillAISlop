@@ -1,5 +1,7 @@
 ---
 num: 872
+resume: "réussir un entretien d'embauche en visioconférence : préparation technique et contenu (STAR), environnement pro, relance. Étape 1 : Veille : test technique complet, fond neutre, lumière frontale, batterie, notifications off ; 5 min avant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un entretien d'embauche en visio (candidat)"
 emoji: "💻"

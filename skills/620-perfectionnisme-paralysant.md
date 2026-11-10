@@ -1,5 +1,7 @@
 ---
 num: 620
+resume: "distinguer le perfectionnisme utile du perfectionnisme paralysant et adopter des standards ajustés à l'enjeu. Étape 1 : Repérer les situations bloquées : tâches commencées mais jamais finies, peur du regard des autres."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Perfectionnisme paralysant"
 emoji: "✨"

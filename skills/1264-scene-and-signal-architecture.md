@@ -1,5 +1,7 @@
 ---
 num: 1264
+resume: "Structurer les responsabilités de scènes Godot et leurs communications par signaux. Étape 1 : Cadrer les inputs : arbre de scènes, interactions gameplay et cycle de vie des nœuds ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Scene and Signal Architecture"
 emoji: "💻"

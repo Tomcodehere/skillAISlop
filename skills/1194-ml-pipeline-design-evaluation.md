@@ -1,5 +1,7 @@
 ---
 num: 1194
+resume: "Cadrer la conception d'un pipeline de machine learning classique/prédictif (classification, régression, clustering, séries temporelles, recommandation) et son protocole d'évaluation, avec sélection d'algorithmes et de métriques justifiées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "ML Pipeline Design & Evaluation"
 emoji: "💻"

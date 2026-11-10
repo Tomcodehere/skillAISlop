@@ -1,5 +1,7 @@
 ---
 num: 408
+resume: "rédiger une offre d'emploi qui attire les bons profils : missions concrètes, équipe réelle, fourchette affichée et filtre naturel intégré. Étape 1 : Collecter la réalité du poste : missions hebdomadaires, équipe, contraintes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur d'offres d'emploi attractives"
 emoji: "🤵"

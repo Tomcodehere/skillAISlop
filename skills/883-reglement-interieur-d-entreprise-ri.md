@@ -1,5 +1,7 @@
 ---
 num: 883
+resume: "rédiger ou mettre à jour un règlement intérieur conforme : champs obligatoires, validation CSE, affichage, sanctions graduées. Étape 1 : Obligation supérieur à 50 salariés : RI déposé inspection du travail + avis CSE ; champs : hygiène/sécurité, discipline, harcèlement, défense."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Règlement intérieur d'entreprise (RI)"
 emoji: "📜"

@@ -1,5 +1,7 @@
 ---
 num: 424
+resume: "rédiger une charte d'équipe co-construite : règles du jeu concrètes, engagements de chacun et mode de traitement des manquements. Étape 1 : Animer l'atelier d'émergence : irritants, règles proposées, arbitrages."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de chartes d'équipe"
 emoji: "🫂"

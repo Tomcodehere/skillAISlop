@@ -1,5 +1,7 @@
 ---
 num: 1142
+resume: "Produire un livrable maîtrisé : extension native Godot 4.x (GDExtension C++ ou Rust, ou module moteur) documentée, avec fichier `.gdextension`, binaires par plateforme et exemple d'appel GDScript. Étape 1 : Cadrer les inputs : version Godot, langage, plateformes, besoin natif et dépendances ; vérifier que le besoin justifie du code natif plutôt que du GDScript."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "GDExtension & Native Module Development"
 emoji: "💻"

@@ -1,5 +1,7 @@
 ---
 num: 654
+resume: "diagnostiquer une panne domestique courante et décider : réparer soi-même en sécurité ou appeler un pro. Étape 1 : Sécuriser : couper l'arrivée d'eau ou le courant concerné, aérer, ne jamais forcer sur le gaz."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Dépannage & petites réparations"
 emoji: "🔧"

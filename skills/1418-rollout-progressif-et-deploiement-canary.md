@@ -1,5 +1,7 @@
 ---
 num: 1418
+resume: "Déployer une version risquée en canary en 2027 : 5 % du trafic d'abord, surveillance, montée progressive (25/50/100 %) ou rollback auto si métriques dégradées. Étape 1 : Préparer la v2 derrière un flag à 5 % du trafic."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rollout progressif et deploiement canary"
 emoji: "🚩"

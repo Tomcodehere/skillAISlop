@@ -1,5 +1,7 @@
 ---
 num: 1712
+resume: "Mesurer la productivité des équipes dev en 2027 avec le framework SPACE (Satisfaction, Performance=DORA 1706, Activité, Communication, Efficacité/flow) en combinant plusieurs sources — jamais une seule métrique, jamais au niveau individuel. Étape 1 : Satisfaction : enquête 2x/an (eNPS dev, outils, réunions inutiles), anonyme, par équipe."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Framework SPACE : mesurer la productivité dev"
 emoji: "📏"

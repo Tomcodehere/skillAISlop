@@ -1,5 +1,7 @@
 ---
 num: 1496
+resume: "Mettre en place la thématisation en 2027 : dark + light + high-contrast (7:1) via des design tokens sémantiques (surface/texte, jamais de couleurs en dur), détection prefers-color-scheme, persistance du choix utilisateur. Étape 1 : Définir les tokens sémantiques par thème (light/dark/high-contrast) en CSS variables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Thematisation produit : light, dark, high-contrast"
 emoji: "🌓"

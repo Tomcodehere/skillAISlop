@@ -1,5 +1,7 @@
 ---
 num: 575
+resume: "concevoir un gameplay qui tient : boucle claire, difficulté dosée et équilibrage mesuré plutôt qu'intuition. Étape 1 : Formaliser la boucle centrale et l'expérience servie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Designer de gameplay"
 emoji: "🎯"

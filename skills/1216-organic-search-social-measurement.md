@@ -1,5 +1,7 @@
 ---
 num: 1216
+resume: "Définir un cadre commun de mesure pour le SEO et les réseaux sociaux organiques, reliant objectifs, indicateurs, sources et fréquence de revue. Le skill clarifie les métriques et les limites d'interprétation; les analyses de données et dashboards sont pris en charge par l'agent d'analyse de données. Étape 1 : Définir les décisions que le reporting doit éclairer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Organic Search & Social Measurement"
 emoji: "💻"

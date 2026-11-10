@@ -1,5 +1,7 @@
 ---
 num: 862
+resume: "organiser les papiers administratifs de la famille : classement physique + numérique, durées de conservation, coffre-fort numérique. Étape 1 : Classeur par personne + classeur foyer, intercalaires par thème ; durées légales (paie 50 ans, impôts 3-6 ans, factures 10 ans)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Organisation des papiers administratifs (famille)"
 emoji: "🗄️"

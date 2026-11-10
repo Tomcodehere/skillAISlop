@@ -1,5 +1,7 @@
 ---
 num: 1612
+resume: "Déployer sur l'edge en 2027 (Cloudflare Workers/Vercel Edge) : exécution dans 300+ PoP, latence inférieur à 50 ms, WASM supporté, pour API, auth, personnalisation, A/B — sans serveur à gérer. Étape 1 : Choisir : Cloudflare Workers (le plus de PoP + KV/DO/D1), Vercel Edge (intégré Next.js 1602), Deno Deploy."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Edge computing : Cloudflare Workers et Vercel Edge"
 emoji: "🌍"

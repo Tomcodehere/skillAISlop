@@ -1,5 +1,7 @@
 ---
 num: 1895
+resume: "Sécuriser le DNS : DNSSEC (signature, anti-spoofing), DoH/DoT (chiffrement des requêtes), DNS filtering (blocage malware/phishing via Quad9 ou liste interne) — en entreprise et sur les postes. Étape 1 : DNSSEC : activer chez le registrar (DS records), signer la zone ; côté resolver : activer la validation (unbound, systemd-resolved) — réponse spoofée = SERVFAIL."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sécurité DNS : DNSSEC, DoH/DoT, resolvers chiffrés"
 emoji: "🌐"

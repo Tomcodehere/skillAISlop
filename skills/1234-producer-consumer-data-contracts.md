@@ -1,5 +1,7 @@
 ---
 num: 1234
+resume: "Spécifier les engagements d'échange entre un producteur et ses consommateurs de données. Étape 1 : Cadrer les inputs : schéma, sémantique, fraîcheur attendue, versions et propriétaires ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Producer-Consumer Data Contracts"
 emoji: "🤖"

@@ -1,5 +1,7 @@
 ---
 num: 1126
+resume: "Rendre visible ce qui a été et n'a pas été examiné lors d'une cartographie. Étape 1 : Cadrer les inputs : question, fichiers autorisés, exclusions et observations ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Exploration Coverage Boundary"
 emoji: "🧠"

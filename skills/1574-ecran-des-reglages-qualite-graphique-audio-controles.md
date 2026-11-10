@@ -1,5 +1,7 @@
 ---
 num: 1574
+resume: "Concevoir l'écran des réglages en 2027 : presets qualité (Bas/Moyen/Haut + custom : résolution, VSync, FOV 1506, ombres/particules), volumes par bus (Master/Music/SFX/VO, 1566), contrôles (remap 1504, sensibilité, invert Y), accessibilité (1575), sauvegarde auto (1503), changements appliqués en live. Étape 1 : Onglet Graphismes : preset (Bas/Moyen/Haut/auto-détecté) + custom (résolution, plein écr"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ecran des reglages : qualité graphique, audio, contrôles"
 emoji: "⚙️"

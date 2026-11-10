@@ -1,5 +1,7 @@
 ---
 num: 1527
+resume: "Concevoir un spawner de vagues en 2027 : 10 vagues avec budget de points croissant (vague n = 5*n points), composition aléatoire pondérée (slime 1 pt, archer 3, brute 5), délais entre spawns, et compte à rebours entre vagues. Étape 1 : Budget vague n = 5 + 3n; choisir ennemis aléatoire pondéré tant que coût inférieur à= budget restant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Spawner de vagues a difficulté progressive"
 emoji: "🌊"

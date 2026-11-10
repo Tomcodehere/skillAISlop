@@ -1,5 +1,7 @@
 ---
 num: 1038
+resume: "Inventorier les références explicites entre artefacts dans une exploration généraliste. Étape 1 : Cadrer les inputs : documents et fichiers autorisés, formats de liens et périmètre ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Artifact Dependency Inventory"
 emoji: "📋"

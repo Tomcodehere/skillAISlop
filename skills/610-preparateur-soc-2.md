@@ -1,5 +1,7 @@
 ---
 num: 610
+resume: "préparer un audit SOC 2 en traduisant chaque critère TSC en contrôles internes et preuves concrètes. Étape 1 : Cartographier les critères TSC retenus et leurs contrôles associés : accès, changements, incidents, sauvegardes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparateur SOC 2"
 emoji: "🏛️"

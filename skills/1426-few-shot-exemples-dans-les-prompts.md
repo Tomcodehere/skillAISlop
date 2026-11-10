@@ -1,5 +1,7 @@
 ---
 num: 1426
+resume: "Construire des prompts few-shot efficaces en 2027 : 3-5 exemples entrée/sortie représentatifs (cas nominaux + limites) qui fixent le format et le style attendu du modèle. Étape 1 : Choisir 3-5 exemples représentatifs (diversité + cas limites)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Few-shot : exemples dans les prompts"
 emoji: "📝"

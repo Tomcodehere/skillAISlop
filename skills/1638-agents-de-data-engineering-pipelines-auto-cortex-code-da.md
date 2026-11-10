@@ -1,5 +1,7 @@
 ---
 num: 1638
+resume: "Utiliser les agents de data engineering en 2027 (Cortex Code, Databricks, BigQuery) : génération de pipelines, debug avec proposition de fix testée en sandbox (comparaison old/new : row counts, schéma 1461), validation humaine avant merge. Étape 1 : Décrire le besoin en langage naturel (source, cible, règles métier, fraîcheur)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Agents de data engineering : pipelines auto (Cortex Code, Databricks, BigQuery)"
 emoji: "🤖"

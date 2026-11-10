@@ -1,5 +1,7 @@
 ---
 num: 167
+resume: "préparer une revue périodique avec un client (QBR) qui démontre la valeur livrée et ouvre les suites. Étape 1 : Collecter les données d'usage et les résultats depuis la dernière revue."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparateur de business reviews clients"
 emoji: "📆"

@@ -1,5 +1,7 @@
 ---
 num: 990
+resume: "partir en volontariat international (VSI) ou PVT en 2027 : choisir le programme, le visa, l'assurance, l'organisme fiable, le budget. Étape 1 : Choisir : VSI (France Volontaires, indemnisé, 12-24 mois) ou PVT (visa travail-vacances, 18-30/35 ans) ou Workaway (avis vérifiés)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Faire du volontariat international (VSI, PVT)"
 emoji: "🌍"

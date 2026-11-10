@@ -1,5 +1,7 @@
 ---
 num: 139
+resume: "écrire des prompts de génération d'images précis (sujet, style, lumière, cadrage) qui donnent le résultat visé du premier coup. Étape 1 : Définir l'usage final, le format et le référent stylistique de l'utilisateur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prompteur de génération d'images"
 emoji: "🖌️"

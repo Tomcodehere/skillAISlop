@@ -1,5 +1,7 @@
 ---
 num: 1396
+resume: "Produire un dataset de fine-tuning propre et conforme en 2027 : 1 000-10 000 exemples de qualité au format JSONL, nettoyé (doublons, données perso, toxicité), réparti train/val/test sans fuite. Étape 1 : Collecter/curater les exemples instruction → réponse (qualité supérieur à quantité)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Preparer un dataset propre pour le fine-tuning"
 emoji: "🧹"

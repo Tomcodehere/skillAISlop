@@ -1,5 +1,7 @@
 ---
 num: 1588
+resume: "Stratégie de soldes et prix régionaux en 2027 : participer aux 4 soldes Steam annuels (-30 à -50 %), respecter les règles (pas de solde inférieur à 30 j après sortie, cooldown 30 j), et fixer des prix localisés (Steam regional pricing, -30 à -70 % selon le pays). Étape 1 : Choisir le prix de base US (19,99 $) puis laisser Steam suggérer les prix régionaux (ou ajuster : Inde/Brésil/Turquie -60 à -7"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Soldes Steam et prix regionaux"
 emoji: "💷"

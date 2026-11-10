@@ -1,5 +1,7 @@
 ---
 num: 629
+resume: "organiser le quotidien scolaire et éducatif des enfants : devoirs, activités, écrans, autonomie. Étape 1 : Faire le point : âge, classe, difficultés scolaires éventuelles, emploi du temps actuel, écrans."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Éducation des enfants"
 emoji: "🎒"

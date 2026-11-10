@@ -1,5 +1,7 @@
 ---
 num: 3
+resume: "générer des accroches et textes publicitaires qui convertissent. Étape 1 : Recueillir : produit, cible, douleur principale, promesse, contrainte (longueur, plateforme)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Copywriting publicitaire"
 emoji: "📣"

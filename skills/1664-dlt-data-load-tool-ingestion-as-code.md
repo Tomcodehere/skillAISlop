@@ -1,5 +1,7 @@
 ---
 num: 1664
+resume: "Ingérer des données en 2027 avec dlt (open source) : pipelines déclaratifs Python (sources: REST API, SaaS, BDD) vers DuckDB (1660)/BigQuery/Snowflake/Postgres, schéma géré automatiquement (évolution 1461), chargement incremental (last_value), normalisation. Étape 1 : Installer dlt, définir la source : @dlt.resource def ma_source(): yield from api_paginated(...)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "dlt (data load tool) : ingestion as code"
 emoji: "📥"

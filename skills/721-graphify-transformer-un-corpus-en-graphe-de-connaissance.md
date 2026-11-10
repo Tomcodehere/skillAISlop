@@ -1,5 +1,7 @@
 ---
 num: 721
+resume: "convertir un corpus de documents (notes, docs, code) en graphe de connaissances navigable (entités + relations). Étape 1 : Extraire les entités du corpus et leurs relations, avec source citée pour chaque relation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Graphify : transformer un corpus en graphe de connaissances"
 emoji: "🕸️"

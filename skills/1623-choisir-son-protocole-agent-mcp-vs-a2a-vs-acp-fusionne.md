@@ -1,5 +1,7 @@
 ---
 num: 1623
+resume: "Choisir le bon protocole agent en 2027 : MCP (agent→outil, standard de fait), A2A (agent→agent, ACP fusionné dedans), UCP (commerce/paiement agent) — matrice de décision, pas de protocole maison. Étape 1 : Cas outil interne (BDD, CRM, fichiers) → MCP server (registry officiel 1621), client dans l'agent."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir son protocole agent : MCP vs A2A vs ACP (fusionné)"
 emoji: "⚖️"

@@ -1,5 +1,7 @@
 ---
 num: 1436
+resume: "Ancrer les réponses d'un LLM sur des sources en 2027 (grounding) : chaque affirmation doit citer un document+ligne fourni, sinon le modèle répond 'je ne sais pas' — zéro invention. Étape 1 : Fournir les sources dans le contexte (avec identifiants doc+ligne)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Grounding : ancrer les reponses sur des sources"
 emoji: "📎"

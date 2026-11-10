@@ -1,5 +1,7 @@
 ---
 num: 1148
+resume: "Produire un livrable maîtrisé : image retouchée ou composite (fichier .xcf) avec journal des opérations non destructives. Étape 1 : Cadrer les inputs : images sources avec licences, résultat attendu, format et profil colorimétrique de sortie ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "GIMP Photo Retouch & Compositing"
 emoji: "🎨"

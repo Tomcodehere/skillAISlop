@@ -39,4 +39,5 @@ flowchart TD
     B -->|Agents personnels & gouvernance (vague 12)| V15[800 Agent perso · 801 Permissions · 802 Mémoire · 803 WebMCP\n818 Injection web · 819 Guardrails · 820 Équipe d'agents · 824 BEC]
     B -->|Fiscalité, conso & quotidien 2026 (vague 12)| V16[811 LF 2026 · 812 Optim. fiscale · 838 Droit oubli\n855 Défense conso · 864 Voisinage · 865 Billet low cost · 899 Bilan annuel]
     B -->|RH avancée & cession (vague 12)| V17[883 RI · 884 TT · 885 DUERP · 886 AT\n889 Élections CSE · 890 Conflit salarial · 891 Cession · 898 Levée fonds]
+    B -->|Artisanat & loisirs créatifs (vague 22)| V18[1901 Auto-entrepreneur BTP · 1908 EPI chantier · 1921 Atelier menuiserie · 1930 Petit meuble · 1951 Tricot débutant · 1961 Machine à coudre · 1971 Feutrage aiguille · 1981 Macramé · 1982 Fimo · 1986 Scrapbooking · 1994 Upcycling · 1999 Vendre ses créations]
 ```

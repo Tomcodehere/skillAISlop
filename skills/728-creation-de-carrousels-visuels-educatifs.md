@@ -1,5 +1,7 @@
 ---
 num: 728
+resume: "concevoir un carrousel de slides qui éduque et convertit : accroche forte, progression logique, CTA final clair. Étape 1 : Choisir le sujet : un problème précis de l'audience, avec un chiffre ou une promesse concrète."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Création de carrousels & visuels éducatifs"
 emoji: "🎠"

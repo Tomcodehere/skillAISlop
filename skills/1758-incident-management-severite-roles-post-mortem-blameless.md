@@ -1,5 +1,7 @@
 ---
 num: 1758
+resume: "Gérer les incidents en 2027 : sévérités (SEV1 down client → war room 15 min, rôles : incident commander 1161, comm, scribe), timeline, post-mortem blameless (89) avec actions suivies, communication client (235). Étape 1 : SEV : SEV1 (down total/métier critique, supérieur à 10 % users), SEV2 (dégradé majeur), SEV3 (mineur/interne). SLA : SEV1 réponse 15 min + war room auto (Slack #inc-XXXX), SEV2 1"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Incident management : sévérité, rôles, post-mortem blameless"
 emoji: "🚨"

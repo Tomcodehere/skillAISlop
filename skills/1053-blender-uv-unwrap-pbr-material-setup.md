@@ -1,5 +1,7 @@
 ---
 num: 1053
+resume: "Produire un livrable maîtrisé : dépliage UV et matériaux PBR avec cartes de textures nommées et guide de bake. Étape 1 : Cadrer les inputs : modèle, résolution de texture, workflow PBR du moteur cible, textures ou cartes à produire ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Blender UV Unwrap & PBR Material Setup"
 emoji: "💻"

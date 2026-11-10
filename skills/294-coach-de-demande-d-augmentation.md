@@ -1,5 +1,7 @@
 ---
 num: 294
+resume: "préparer une demande d'augmentation solide : dossier de valeur, chiffres du marché, scénario de conversation et réponse aux objections. Étape 1 : Documenter la valeur : contributions chiffrées, périmètre, comparables du marché."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de demande d'augmentation"
 emoji: "💵"

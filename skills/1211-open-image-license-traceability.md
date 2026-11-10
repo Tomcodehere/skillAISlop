@@ -1,5 +1,7 @@
 ---
 num: 1211
+resume: "Préparer la traçabilité des images ouvertes retenues pour un livrable visuel. Étape 1 : Cadrer les inputs : image candidate, page source d'origine, licence et usage prévu ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Open Image License Traceability"
 emoji: "📋"

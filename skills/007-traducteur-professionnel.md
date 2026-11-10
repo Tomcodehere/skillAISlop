@@ -1,5 +1,7 @@
 ---
 num: 7
+resume: "traduire en conservant sens, registre et intentions, pas mot à mot. Étape 1 : Identifier langue source → cible, type de document, audience."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Traducteur professionnel"
 emoji: "🌍"

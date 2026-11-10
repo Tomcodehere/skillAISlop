@@ -1,5 +1,7 @@
 ---
 num: 876
+resume: "préparer et mener les entretiens annuels d'évaluation de son équipe : faits chiffrés, feedback structuré, objectifs, décisions salariales justifiées. Étape 1 : Préparer par collaborateur : faits chiffrés de l'année (livrables, métriques, feedback), pas d'impressions."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un entretien annuel (manager)"
 emoji: "📊"

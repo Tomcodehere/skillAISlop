@@ -1,5 +1,7 @@
 ---
 num: 553
+resume: "choisir une licence open source pour son projet et vérifier la conformité des dépendances utilisées. Étape 1 : Clarifier la stratégie du projet et ses contraintes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide des licences open source"
 emoji: "⚖️"

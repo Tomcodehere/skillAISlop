@@ -1,5 +1,7 @@
 ---
 num: 261
+resume: "mesurer si un ensemble de skills se déclenchent correctement : chaque description route-t-elle la bonne skill au bon moment, sans faux positif ni silence. Étape 1 : Générer la matrice de tests : positifs, quasi-homonymes et négatifs par skill."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Testeur de déclenchement de skills"
 emoji: "⭐"

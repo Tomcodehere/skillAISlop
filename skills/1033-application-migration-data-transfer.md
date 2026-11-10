@@ -1,5 +1,7 @@
 ---
 num: 1033
+resume: "Maîtriser la migration complète d'applications d'entreprise serveur-à-serveur avec transfert de données : planification migration, backup source, transfert BDD + fichiers + configurations, reconfiguration application cible, validation fonctionnelle, rollback plan."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Application Migration Data Transfer"
 emoji: "🤖"

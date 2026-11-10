@@ -1,5 +1,7 @@
 ---
 num: 1595
+resume: "Budgéter un jeu indé en 2027 : postes (code/art/son/prod, marketing 10-20 %, imprévus 15 %) × durée en mois = budget total, paliers de financement (éditeur 1594 / crowdfunding / aides CNC/régionales), scope ajusté au budget (MVP 1593), milestones mensuels. Étape 1 : Postes : dev (2-3), art (1-2), son (1 freelance), prod (1), marketing 10-20 %, licences/outils, imprévus 15 %."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Budget et planning d'un jeu independant"
 emoji: "💰"

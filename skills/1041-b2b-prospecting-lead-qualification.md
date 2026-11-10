@@ -1,5 +1,7 @@
 ---
 num: 1041
+resume: "Transformer un marché cible et des signaux disponibles en une démarche de prospection B2B priorisée, transparente et prête à être exécutée par une personne habilitée. Qualifier les leads avec des critères observables et expliciter les validations manquantes. Étape 1 : Cadrer l'offre, la cible, le résultat souhaité, la zone et les limites de prospection."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "B2B Prospecting & Lead Qualification"
 emoji: "💼"

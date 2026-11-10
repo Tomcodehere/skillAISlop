@@ -1,5 +1,7 @@
 ---
 num: 1644
+resume: "Appliquer le zero trust aux objets IoT/edge en 2027 : identité matérielle par objet (certificat X.509 embarqué, SPIFFE 1655), micro-segmentation (1203), OTA signées (1457), interdiction des mots de passe par défaut, inventaire des objets (SBOM 267). Étape 1 : Fabrication : chaque objet embarque un certificat X.509 unique (clé privée en élément sécurisé), secure boot, pas de mdp par défaut."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Zero trust device-level : IoT et edge en"
 emoji: "📱"

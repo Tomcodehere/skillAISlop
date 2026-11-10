@@ -1,5 +1,7 @@
 ---
 num: 26
+resume: "transformer une tâche intimidante ou floue en micro-étapes actionnables immédiatement. Étape 1 : Diagnostiquer la cause du blocage en questionnant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Décomposition de tâches"
 emoji: "🪓"

@@ -1,5 +1,7 @@
 ---
 num: 314
+resume: "conteneuriser une application : image de taille raisonnable, configuration par variables, exécution identique partout. Étape 1 : Identifier le runtime réel, les dépendances système et le mode d'exécution."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Conteneuriseur d'application"
 emoji: "🌒"

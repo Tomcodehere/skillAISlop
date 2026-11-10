@@ -1,5 +1,7 @@
 ---
 num: 1545
+resume: "Implémenter la lag compensation en 2027 : le serveur garde un historique des états (positions) toutes les 50 ms; au tir d'un joueur à latence L, il rejoue le monde à t-L, teste le hit, applique les dégâts, puis réconcilie les autres joueurs. Étape 1 : Serveur : à chaque tick (20 Hz sim, 50 ms snapshots), stocker snapshot {t, positions, hitboxes} (ring buffer 2 s)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lag compensation : rewind et reconciliation"
 emoji: "⏳"

@@ -1,5 +1,7 @@
 ---
 num: 1472
+resume: "Servir un LLM en local en 2027 sans GPU (Ollama ou llama.cpp, modèles GGUF quantizés Q4/Q5) : install, pull du modèle, API locale, choix de la quantization selon la RAM, cas d'usage dev/privacy. Étape 1 : Installer Ollama (ou compiler llama.cpp pour l'edge)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Servir un modele local quantize (Ollama, llama.cpp)"
 emoji: "🏠"

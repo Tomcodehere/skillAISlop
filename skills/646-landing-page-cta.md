@@ -1,5 +1,7 @@
 ---
 num: 646
+resume: "concevoir une landing page qui convertit : un seul objectif, un message clair, un CTA unique et visible. Étape 1 : Définir l'objectif unique de la page et le parcours de l'utilisateur (d'où il vient, ce qu'il cherche)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Landing page & CTA"
 emoji: "🎯"

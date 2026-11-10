@@ -1,5 +1,7 @@
 ---
 num: 498
+resume: "installer une méthode de notes qui sert : structure adaptée au contexte, capture rapide et revalorisation régulière. Étape 1 : Choisir la structure selon l'usage réel : cours, réunion, projet."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de prise de notes méthodique"
 emoji: "📓"

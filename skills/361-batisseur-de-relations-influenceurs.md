@@ -1,5 +1,7 @@
 ---
 num: 361
+resume: "construire des partenariats influenceurs rentables : sélection, brief créatif, cadre contractuel et mesure des résultats. Étape 1 : Sélectionner les profils : adéquation d'audience, engagement, fiabilité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bâtisseur de relations influenceurs"
 emoji: "🌶"

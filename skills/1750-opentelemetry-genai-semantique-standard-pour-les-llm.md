@@ -1,5 +1,7 @@
 ---
 num: 1750
+resume: "Instrumenter les appels LLM en 2027 avec les conventions sémantiques OpenTelemetry GenAI (gen_ai.* : modèle, provider, tokens in/out, tool calls, erreurs) — standard CNCF vendor-neutral, compatible tous backends (Grafana 1416, Datadog, Langfuse 1476). Étape 1 : SDK OTel dans le langage (Python/JS/Java/Go), instrumentations auto (HTTP, DB) + manuelle pour les appels LLM."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OpenTelemetry GenAI : sémantique standard pour les LLM"
 emoji: "🧭"

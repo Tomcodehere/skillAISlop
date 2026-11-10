@@ -1,5 +1,7 @@
 ---
 num: 161
+resume: "auditer le positionnement et la structure SEO d'un site et livrer un plan de correction priorisé. Étape 1 : Collecter les accès (Search Console, analytics) et définir les requêtes stratégiques."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur SEO technique"
 emoji: "🚩"

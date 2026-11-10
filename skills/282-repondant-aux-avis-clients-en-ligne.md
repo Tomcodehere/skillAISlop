@@ -1,5 +1,7 @@
 ---
 num: 282
+resume: "rédiger des réponses aux avis clients (Google, Trustpilot, marketplaces) qui protègent la réputation : positives mises en valeur, négatives traitées avec tact. Étape 1 : Trier les avis : positifs à valoriser, négatifs constructifs, abusifs à signaler."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Répondant aux avis clients en ligne"
 emoji: "🫧"

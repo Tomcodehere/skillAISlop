@@ -1,5 +1,7 @@
 ---
 num: 1653
+resume: "Se préparer au ransomware 2027 (double/triple extorsion, RaaS) : playbook testé (1454), sauvegardes 3-2-1 immuables (Object Lock), détection précoce (canaris fichiers, UEBA 1652), procédure de décision payer/non (assurance/légal), reprise testée, déclaration NIS2 24 h (1649). Étape 1 : Prévention : EDR (1651), MFA/passkeys (1643), segmentation (1203), patchs (505), phishing (509), sauvegardes 3-2-"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ransomware : playbook double extorsion et reprise"
 emoji: "💣"

@@ -1,5 +1,7 @@
 ---
 num: 904
+resume: "déployer un agent vocal IA en première ligne de support client (tendance 2027) avec mention IA obligatoire, fallback humain et mesure de la qualité. Étape 1 : Clarifier « Agent vocal en support client (2027) »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Agent vocal en support client"
 emoji: "📞"

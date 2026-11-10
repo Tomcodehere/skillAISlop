@@ -1,5 +1,7 @@
 ---
 num: 1711
+resume: "Noter chaque service en 2027 (bronze/argent/or) via des scorecards (Port/Cortex natifs ou plugin Backstage) sur : observabilité (OTel 1680), sécurité (1646), SLO (351), CI (1413), owner + doc (1406) — pour piloter la dette sans revue manuelle, jamais sur des personnes. Étape 1 : Définir les niveaux : bronze (owner renseigné, doc 1406, repo propre), argent (+ CI tests 67, SLO 351, alertes 1417), or"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Scorecards : niveaux de maturité des services"
 emoji: "🎯"

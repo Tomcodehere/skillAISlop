@@ -1,5 +1,7 @@
 ---
 num: 1169
+resume: "Concevoir des integrations robustes avec idempotence, retry/backoff, DLQ, timeouts et observabilite minimale. Étape 1 : Cartographier les points de panne (network, API, broker, schema)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Integration Reliability Patterns"
 emoji: "📋"

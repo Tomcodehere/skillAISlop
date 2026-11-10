@@ -1,5 +1,7 @@
 ---
 num: 1393
+resume: "Rédiger une data card complète pour un dataset en 2027 : origine/licence, méthode de collecte, contenu détaillé, biais et limites connus, usages prévus/interdits, versioning et contact — avant tout partage. Étape 1 : Bloc identite : nom, version, date, responsable, licence (ex. CC-BY, ODbL)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Documenter un dataset (data card)"
 emoji: "🏷"

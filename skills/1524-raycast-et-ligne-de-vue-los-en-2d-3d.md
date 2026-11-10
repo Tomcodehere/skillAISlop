@@ -1,5 +1,7 @@
 ---
 num: 1524
+resume: "Utiliser le raycast en 2027 pour la ligne de vue (LOS), les tirs hitscan et la conversion clic→monde : un rayon depuis une origine selon une direction, retourne le premier objet touché (point, normal, distance) ou rien. Étape 1 : LOS : raycast(garde.eye, dir(joueur), dist, layerMurs) → si rien entre, joueur visible (1523)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Raycast et ligne de vue (LOS) en 2D/3D"
 emoji: "💡"

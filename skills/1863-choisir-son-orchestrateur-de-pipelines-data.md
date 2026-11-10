@@ -1,5 +1,7 @@
 ---
 num: 1863
+resume: "Choisir son orchestrateur de pipelines en 2027 : Airflow 3.2 (DAG, écosystème), Dagster (assets), Prefect (Python natif), Temporal (durable, agents IA), Kestra — selon modèle, hébergement et coût. Étape 1 : Airflow 3.2 : DAG déclaratifs, asset partitioning, mais 5+ processus en self-host (scheduler, webserver, workers...)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir son orchestrateur de pipelines data"
 emoji: "🎭"

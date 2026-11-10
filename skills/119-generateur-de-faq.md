@@ -1,5 +1,7 @@
 ---
 num: 119
+resume: "transformer un guide, un contrat ou une documentation en foire aux questions claire et hiérarchisée. Étape 1 : Analyser le document source et le profil des utilisateurs avec leurs vraies questions."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Générateur de FAQ"
 emoji: "❓"

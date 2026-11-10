@@ -1,5 +1,7 @@
 ---
 num: 1364
+resume: "Construire un parcours d'auto-formation a l'IA sur 3 mois (30 min/jour) melant ressources gratuites fiables, 3 projets pratiques concrets et une veille hebdomadaire, sans dispersion. Étape 1 : Semaine 1-2 : bases (fonctionnement des LLM, limites, prompt de base) via ressources gratuites."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auto-formation a l'IA : parcours personnel"
 emoji: "🚀"

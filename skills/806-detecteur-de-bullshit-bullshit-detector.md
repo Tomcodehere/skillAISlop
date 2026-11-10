@@ -1,5 +1,7 @@
 ---
 num: 806
+resume: "extraire les affirmations vérifiables d'un contenu (média, PDF, discours) et les confronter à des sources indépendantes avec un score de risque. Étape 1 : Extraire tous les claims factuels : chiffres, statistiques, causalités, citations d'études."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Détecteur de bullshit (bullshit-detector)"
 emoji: "🚨"

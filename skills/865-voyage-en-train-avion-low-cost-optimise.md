@@ -1,5 +1,7 @@
 ---
 num: 865
+resume: "trouver et réserver un billet train/avion au meilleur prix avec les bonnes astuces (flexibilité, alertes, bagages cabine, assurances). Étape 1 : Comparer agrégateurs aux mêmes dates + dates flexibles (± 3 j) + alertes prix activées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Voyage en train/avion low-cost optimisé"
 emoji: "🚄"

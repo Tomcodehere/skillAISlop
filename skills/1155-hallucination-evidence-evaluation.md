@@ -1,5 +1,7 @@
 ---
 num: 1155
+resume: "Mesurer l'appui factuel des réponses d'un agent sur un jeu de référence vérifiable. Étape 1 : Cadrer les inputs : questions, sources autorisées, réponses et critères de vérité ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Hallucination Evidence Evaluation"
 emoji: "🧠"

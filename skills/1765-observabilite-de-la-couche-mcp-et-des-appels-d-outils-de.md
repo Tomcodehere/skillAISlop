@@ -1,5 +1,7 @@
 ---
 num: 1765
+resume: "Tracer l'exécution des agents IA (appels d'outils MCP, lectures de fichiers, commandes) via les spans sémantiques gen_ai.* d'OpenTelemetry, et choisir une plateforme d'observabilité agent (self-host, managé ou proxy). Étape 1 : Identifier tous les tool calls de l'agent (MCP tools, read_file, run_shell) et les wrapper dans des spans gen_ai.tool.call."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Observabilité de la couche MCP et des appels d'outils des agents"
 emoji: "🔌"

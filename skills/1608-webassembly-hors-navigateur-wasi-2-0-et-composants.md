@@ -1,5 +1,7 @@
 ---
 num: 1608
+resume: "Faire tourner du code compilé hors navigateur en 2027 avec Wasm + WASI 2.0 (fichiers, réseau, horloge) et le Component Model (échange typé entre langages) — pour CLI, plugins, edge, embarqué. Étape 1 : Compiler en wasm32-wasip2 (Rust : cargo build --target wasm32-wasip2)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "WebAssembly hors navigateur : WASI 2.0 et composants"
 emoji: "🧱"

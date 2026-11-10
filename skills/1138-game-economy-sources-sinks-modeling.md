@@ -1,5 +1,7 @@
 ---
 num: 1138
+resume: "Produire un livrable maîtrisé : modèle de l'économie interne d'un jeu (monnaies, ressources, sources, sinks, flux, prix) avec simulation reproductible et télémétrie économique à suivre. Étape 1 : Cadrer les inputs : design du jeu, monnaies et ressources, profils de joueurs, plages de valeurs ; vérifier les préconditions et le statut (observé, simulé, supposé) de chaque paramètre."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Game Economy Sources & Sinks Modeling"
 emoji: "🧠"

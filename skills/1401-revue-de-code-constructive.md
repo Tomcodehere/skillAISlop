@@ -1,5 +1,7 @@
 ---
 num: 1401
+resume: "Mener une revue de PR efficace en 2027 : ordre de lecture (diff, tests, risques), commentaires actionnables (bloquant vs suggestion), et décision approve/request-changes justifiée. Étape 1 : Pass 1 : lire la description et le diff global (ça répond au besoin ?)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Revue de code constructive"
 emoji: "🔍"

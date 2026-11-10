@@ -1,5 +1,7 @@
 ---
 num: 516
+resume: "améliorer sa voix chantée : justesse, respiration, placement, avec des exercices progressifs et mesurables. Étape 1 : Évaluer justesse, souffle et tessiture par des tests simples."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach vocal & chant"
 emoji: "🎤"

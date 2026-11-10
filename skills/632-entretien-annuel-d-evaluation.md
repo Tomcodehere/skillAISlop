@@ -1,5 +1,7 @@
 ---
 num: 632
+resume: "préparer son entretien annuel : bilan factuel de l'année, revendications argumentées, négociation des objectifs. Étape 1 : Faire le bilan : réalisations, chiffres, compétences développées, difficultés rencontrées et gérées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Entretien annuel d'évaluation"
 emoji: "📋"

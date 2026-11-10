@@ -1,5 +1,7 @@
 ---
 num: 688
+resume: "organiser une veille technologique efficace et peu chronophage : sources fiables, rythme soutenable, synthèse régulière. Étape 1 : Sélectionner les sources : 3-5 newsletters/blogs fiables, alertes mots-clés, podcasts pour les trajets."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Veille technologique & veille IA"
 emoji: "📡"

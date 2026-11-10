@@ -1,5 +1,7 @@
 ---
 num: 795
+resume: "faire adopter un changement (nouvel outil, réorganisation, fusion) : expliquer le pourquoi, impliquer, accompagner. Étape 1 : Expliquer le pourquoi (problème chiffré, vision) et impliquer tôt les équipes et ambassadeurs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Conduite du changement"
 emoji: "🔄"

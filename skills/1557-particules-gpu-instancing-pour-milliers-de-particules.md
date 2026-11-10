@@ -1,5 +1,7 @@
 ---
 num: 1557
+resume: "Rendre des milliers de particules en 2027 via GPU instancing (1 draw call pour toutes, 1553) : système custom (compute buffer : position, vélocité, durée de vie, couleur) ou VFX Graph, avec spawn rate, cap 5000, et LOD (moins de particules au loin). Étape 1 : Choisir : VFX Graph (visuel, Unity) ou shader custom (compute buffer de particules, DrawProcedural = 1 draw call)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Particules GPU : instancing pour milliers de particules"
 emoji: "✨"

@@ -1,5 +1,7 @@
 ---
 num: 1791
+resume: "Activer le TLS 1.3 hybride X25519MLKEM768 (X25519 classique + ML-KEM-768 PQC dans le même handshake) sur les serveurs 2027 (Chrome/Firefox/OpenSSL 3.5+/BoringSSL/Cloudflare), conforme ANSSI (hybride obligatoire). Étape 1 : Monter OpenSSL 3.5+ (ou BoringSSL), activer TLS 1.3."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "TLS 1.3 hybride X25519MLKEM768 (PQC ready)"
 emoji: "🔒"

@@ -1,5 +1,7 @@
 ---
 num: 1237
+resume: "Arbitrer un backlog produit selon une méthode de valeur explicite et les contraintes disponibles. Étape 1 : Cadrer les inputs : options, objectifs, estimation d'effort, confiance et dépendances ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Product Prioritization Decision"
 emoji: "📦"

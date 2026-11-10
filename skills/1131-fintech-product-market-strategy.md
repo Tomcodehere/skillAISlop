@@ -1,5 +1,7 @@
 ---
 num: 1131
+resume: "Structurer une stratégie produit et une analyse de marché pour un service FinTech d'entreprise à partir de données vérifiables, en guidant le choix des segments, la différenciation et les étapes de validation. Étape 1 : Délimiter le marché, les segments, la géographie et l'horizon temporel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "FinTech Product & Market Strategy"
 emoji: "📦"

@@ -1,5 +1,7 @@
 ---
 num: 1498
+resume: "Déployer n8n auto-hébergé en 2027 pour des automatisations souveraines : docker-compose sur son serveur, workflows visuels (webhooks, cron, 400+ nœuds), credentials chiffrés, exécutions rejouables et monitoring. Étape 1 : Déployer n8n (docker-compose up, domaine + HTTPS Let's Encrypt, auth basique)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Automatisations souveraines avec n8n auto-heberge"
 emoji: "🔗"

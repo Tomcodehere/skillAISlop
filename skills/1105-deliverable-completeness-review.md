@@ -1,5 +1,7 @@
 ---
 num: 1105
+resume: "Vérifier la complétude d'un livrable généraliste par rapport au brief explicite. Étape 1 : Cadrer les inputs : brief, livrable, contraintes et critères de réception ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Deliverable Completeness Review"
 emoji: "📋"

@@ -1,5 +1,7 @@
 ---
 num: 747
+resume: "lancer et piloter une campagne de publicité payante rentable : ciblage, annonces, budget, mesure du ROAS. Étape 1 : Cadrer : un objectif mesurable (CPA cible), une plateforme, un petit budget de test (20-50 €/jour)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Publicité payante (SEA) & gestion de campagnes ads"
 emoji: "💰"

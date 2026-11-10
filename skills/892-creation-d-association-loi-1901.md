@@ -1,5 +1,7 @@
 ---
 num: 892
+resume: "créer une association loi 1901 : statuts conformes, assemblée constitutive, déclaration en préfecture, compte bancaire, assurance. Étape 1 : Statuts conformes (objet précis, bureau, dissolution) + PV de l'AG constitutive ; déclaration préfecture en ligne."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Création d'association (loi 1901)"
 emoji: "🏛️"

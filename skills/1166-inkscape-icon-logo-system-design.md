@@ -1,5 +1,7 @@
 ---
 num: 1166
+resume: "Produire un livrable maîtrisé : système d'icônes ou de logo (grille, déclinaisons, variantes de taille et de couleur). Étape 1 : Cadrer les inputs : identité visuelle, usages, tailles minimales, contraintes d'accessibilité et de contraste ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Inkscape Icon & Logo System Design"
 emoji: "💻"

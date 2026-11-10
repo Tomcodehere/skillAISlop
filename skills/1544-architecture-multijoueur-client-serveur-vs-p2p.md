@@ -1,5 +1,7 @@
 ---
 num: 1544
+resume: "Choisir l'architecture réseau en 2027 : client-serveur dédié (autoritaire, anti-triche, coût serveurs), P2P avec host (gratuit, triche facile), ou relais (Steam Relay, compromis coût/sécurité), selon le type de jeu (compétitif vs coop) et le budget. Étape 1 : Compétitif (classé 1549) : client-serveur dédié autoritaire (1543), VPS multi-régions (latence inférieur à 50 ms)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecture multijoueur : client-serveur vs P2P"
 emoji: "🖧️"

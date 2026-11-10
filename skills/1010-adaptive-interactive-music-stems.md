@@ -1,5 +1,7 @@
 ---
 num: 1010
+resume: "Produire un livrable maîtrisé : plan de musique adaptative (couches verticales, transitions horizontales) avec stems alignés et table d'états musicaux prête pour l'intégration. Étape 1 : Cadrer les inputs : états de jeu, événements déclencheurs, contraintes du moteur ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Adaptive Interactive Music & Stems"
 emoji: "🎨"

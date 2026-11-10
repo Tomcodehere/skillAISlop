@@ -1,5 +1,7 @@
 ---
 num: 1605
+resume: "Atteindre un first-load quasi instantané en 2027 avec Qwik : resumability (reprise là où le code s'est arrêté, pas de réhydratation), chargement lazy automatique par interaction (optimizer), pour apps lourdes. Étape 1 : Créer le projet Qwik (npm create qwik), structure avec composants."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Qwik : reprise instantanée et first-load à l'échelle"
 emoji: "⏩"

@@ -1,5 +1,7 @@
 ---
 num: 1321
+resume: "apprendre une nouvelle compétence avec un tuteur IA qui s'adapte au niveau, fait des quiz et planifie la révision espacée. Étape 1 : Diagnostic initial (3 questions) → niveau et objectif daté."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tuteur IA personnalisé"
 emoji: "🎓"

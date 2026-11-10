@@ -1,5 +1,7 @@
 ---
 num: 410
+resume: "auditer l'équité des rémunérations : écarts mesurés à critères comparables, causes identifiées et plan de correction chiffré. Étape 1 : Constituer la base comparable : poste, niveau, ancienneté, performance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur d'équité salariale"
 emoji: "🍖"

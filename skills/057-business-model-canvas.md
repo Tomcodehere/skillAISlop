@@ -1,5 +1,7 @@
 ---
 num: 57
+resume: "cartographier un modèle économique complet sur les 9 blocs du BMC et en tester la cohérence. Étape 1 : Clarifier le produit/service et le stade (idée, lancé, pivot)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Business Model Canvas"
 emoji: "🧮"

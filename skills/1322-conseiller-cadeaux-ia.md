@@ -1,5 +1,7 @@
 ---
 num: 1322
+resume: "trouver un cadeau adapté à un destinataire (profil, budget, occasion) avec un agent IA qui explique son raisonnement, pour des décisions à faible enjeu. Étape 1 : Profiler le destinataire (univers, goûts, événements récents) + budget + occasion."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Conseiller cadeaux IA"
 emoji: "🎁"

@@ -1,5 +1,7 @@
 ---
 num: 229
+resume: "planifier un potager réaliste : variétés, calendrier de semis, rotations et charge de travail assumée. Étape 1 : Évaluer le terrain : surface, exposition, climat, temps hebdomadaire disponible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de potager"
 emoji: "🌻"

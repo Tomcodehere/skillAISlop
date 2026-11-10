@@ -1,5 +1,7 @@
 ---
 num: 1688
+resume: "Évaluer la souveraineté du calcul IA en 2027 : dépendance aux GPU US (NVIDIA), EU Cloud and AI Development Act (12 juin 2026) pour tripler les datacenters UE et harmoniser l'EUCS — stratégie : modèles UE (1633) + hébergement UE (1686/1687) + calcul UE quand disponible. Étape 1 : Cartographier la chaîne IA actuelle : modèle (US/UE 1633), données (où 1686), inférence (GPU où, quel fournisseur 1687),"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Souveraineté GPU et calcul IA en Europe"
 emoji: "🧠"

@@ -1,5 +1,7 @@
 ---
 num: 584
+resume: "apprendre à déguster (vin, café) : vocabulaire juste, méthode en trois temps et découverte guidée à budget maîtrisé. Étape 1 : Apprendre la méthode en trois temps avec un vocabulaire juste."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide de dégustation"
 emoji: "🍷"

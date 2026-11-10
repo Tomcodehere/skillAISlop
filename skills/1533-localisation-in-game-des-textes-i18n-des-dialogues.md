@@ -1,5 +1,7 @@
 ---
 num: 1533
+resume: "Localiser un jeu en 2027 : toutes les chaînes sous forme de clés (ui.title, quest.x.desc) dans des fichiers par langue, ICU pour pluriels/genre, longueur max, pseudo-localisation pour tester les débordements d'UI avant traduction. Étape 1 : Externaliser : chaque texte → clé (quest.rats.desc) + valeur par langue (JSON/PO/CSV selon moteur)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Localisation in-game des textes (i18n des dialogues)"
 emoji: "🌐"

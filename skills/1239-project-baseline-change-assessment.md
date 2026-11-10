@@ -1,5 +1,7 @@
 ---
 num: 1239
+resume: "Mesurer l'effet d'une demande de changement sur une référence projet approuvée. Étape 1 : Cadrer les inputs : demande, référence de périmètre, dépendances, coûts et décisionnaires ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Project Baseline Change Assessment"
 emoji: "📋"

@@ -1,5 +1,7 @@
 ---
 num: 1580
+resume: "Exploiter Steamworks en 2027 : succès avec stats (1538), leaderboards (upload score, top mondial + amis), cloud saves (1539), lobby/invitations (1544), matchmaking Steam (1549), overlay, et DLC si extension prévue. Étape 1 : Succès : SteamUserStats.SetAchievement + StoreStats, icônes 64x64, cachés ou non (1538)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Steamworks : succes, leaderboards, cloud saves, lobby"
 emoji: "🏆"

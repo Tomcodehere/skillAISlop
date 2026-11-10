@@ -1,5 +1,7 @@
 ---
 num: 725
+resume: "obtenir des réponses ancrées exclusivement dans ses propres documents (NotebookLM ou équivalent) avec citations systématiques. Étape 1 : Préparer le corpus : importer les documents pertinents, vérifier leur qualité et leur fraîcheur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "NotebookLM & réponses ancrées dans ses sources"
 emoji: "📓"

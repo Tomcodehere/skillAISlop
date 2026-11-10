@@ -1,5 +1,7 @@
 ---
 num: 1168
+resume: "Produire un livrable maîtrisé : fichier SVG structuré (calques, groupes, identifiants) avec guide de manipulation Inkscape. Étape 1 : Cadrer les inputs : brief visuel, formats cibles, palette, contraintes de taille et références libres de droits ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Inkscape Vector Production Workflow"
 emoji: "🎨"

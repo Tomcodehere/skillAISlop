@@ -1,5 +1,7 @@
 ---
 num: 505
+resume: "transformer le flux de vulnérabilités (CVE) en plan de remédiation : triage, priorités, fenêtres de mise à jour et vérification. Étape 1 : Évaluer l'exposition réelle de chaque vulnérabilité annoncée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ordonnanceur de correctifs & CVE"
 emoji: "⚠"

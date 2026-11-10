@@ -1,5 +1,7 @@
 ---
 num: 630
+resume: "organiser le maintien à domicile d'une personne âgée : aides humaines, aménagements, financement et vigilance. Étape 1 : Évaluer l'autonomie : capacité à se laver, cuisiner, se déplacer, gérer ses papiers, score de dépendance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Maintien à domicile des seniors"
 emoji: "🧓"

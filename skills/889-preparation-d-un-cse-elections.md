@@ -1,5 +1,7 @@
 ---
 num: 889
+resume: "organiser les élections du CSE : seuils, protocole d'accord préélectoral (PAP), listes, vote, prise de fonction. Étape 1 : PAP négocié (sièges, collèges, répartition H/F, date, modalités de vote) avec les syndicats ; dépôt DIRECCTE."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un CSE (élections)"
 emoji: "🗳️"

@@ -1,5 +1,7 @@
 ---
 num: 874
+resume: "vérifier qu'une offre d'emploi est réelle avant de postuler ou d'envoyer des documents : signaux d'arnaque, vérification SIRET/avis. Étape 1 : Signaux : salaire trop beau, pas d'entretien réel, demande de payer, mail gmail, pression, documents sensibles avant contrat."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vérification d'une offre d'emploi (arnaque)"
 emoji: "🚩"

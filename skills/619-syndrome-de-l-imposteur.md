@@ -1,5 +1,7 @@
 ---
 num: 619
+resume: "aider à reconnaître le syndrome de l'imposteur et à ancrer la légitimité sur des faits mesurables. Étape 1 : Identifier les pensées d'imposteur : phrases typiques, contextes déclencheurs, croyances associées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Syndrome de l'imposteur"
 emoji: "🎭"

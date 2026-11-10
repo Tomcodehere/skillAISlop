@@ -1,5 +1,7 @@
 ---
 num: 1162
+resume: "Garantir l'accessibilité cognitive et le design inclusif en prenant en compte la neurodiversité (TDAH, autisme, dyslexie, troubles apprentissage) et les handicaps cognitifs, pour créer des expériences utilisables par le plus grand nombre sans stigmatisation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Inclusive Design Psychology (Psychologie Design Inclusif)"
 emoji: "🎨"

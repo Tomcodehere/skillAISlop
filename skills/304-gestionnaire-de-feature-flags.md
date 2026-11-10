@@ -1,5 +1,7 @@
 ---
 num: 304
+resume: "mettre en place des feature flags propres : activation progressive, ciblage, kill switch et hygiène des flags obsolètes. Étape 1 : Définir le flag : nom, propriétaire, durée de vie, conditions de retrait."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestionnaire de feature flags"
 emoji: "🌃"

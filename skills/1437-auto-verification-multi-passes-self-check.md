@@ -1,5 +1,7 @@
 ---
 num: 1437
+resume: "Améliorer la qualité d'une réponse LLM en 2027 par self-check : passe 1 génère, passe 2 applique une grille de vérification (exactitude, complétude, format, biais) et corrige, avec un score final. Étape 1 : Passe 1 : le LLM génère la réponse (prompt habituel)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auto-verification multi-passes (self-check)"
 emoji: "✅"

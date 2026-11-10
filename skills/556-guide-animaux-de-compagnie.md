@@ -1,5 +1,7 @@
 ---
 num: 556
+resume: "bien vivre avec son animal : arrivée, éducation de base, santé au quotidien et décisions vétérinaires préparées. Étape 1 : Préparer l'arrivée et les premières semaines."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide animaux de compagnie"
 emoji: "🐾"

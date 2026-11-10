@@ -1,5 +1,7 @@
 ---
 num: 1578
+resume: "Versionner un jeu en 2027 : SemVer (majeur = rupture save/compat, mineur = contenu, patch = bug), build auto en CI (1593), changelog public (patch notes lisibles), branches Steam (beta 1581), migration des saves (1503), branche 'previous' pour downgrade. Étape 1 : SemVer : MAJEUR si rupture (save incompatible, moteur changé), MINEUR si nouveau contenu (niveau, perso), PATCH si bugfix. Build auto ="
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Versioning des builds et changelog joueur"
 emoji: "📅"

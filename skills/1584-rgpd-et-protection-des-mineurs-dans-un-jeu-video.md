@@ -1,5 +1,7 @@
 ---
 num: 1584
+resume: "Appliquer le RGPD + protection des mineurs à un jeu en ligne en 2027 : consentement parental vérifiable inférieur à 16 ans (13 FR) pour compte/chat/multi (1548), données minimisées et anonymisées (analytics 1540), pas de pub ciblée mineurs (1582), droit à l'effacement, registre des traitements, DPO. Étape 1 : Vérification d'âge : date de naissance à la création, inférieur à 16 ans (13 FR) → consen"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "RGPD et protection des mineurs dans un jeu video"
 emoji: "⚖️"

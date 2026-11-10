@@ -1,5 +1,7 @@
 ---
 num: 360
+resume: "développer la visibilité locale d'un commerce : fiche d'établissement optimisée, avis, contenus et citations locales cohérentes. Étape 1 : Auditer le socle : fiche, citations locales, cohérence des informations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Stratège de présence locale"
 emoji: "🌵"

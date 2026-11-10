@@ -1,5 +1,7 @@
 ---
 num: 189
+resume: "anonymiser ou pseudonymiser un jeu de données pour analyse ou partage en respectant le RGPD. Étape 1 : Classifier les colonnes : identifiants directs, indirects, sensibles, nécessaires à l'analyse."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Anonymisateur de données (RGPD)"
 emoji: "🥸"

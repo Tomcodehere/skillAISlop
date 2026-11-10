@@ -1,5 +1,7 @@
 ---
 num: 1236
+resume: "Relier les initiatives produit à des résultats mesurables sans transformer la roadmap en planning détaillé. Étape 1 : Cadrer les inputs : vision, objectifs, indicateurs, contraintes de capacité et dépendances ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Product Outcome Roadmap"
 emoji: "📦"

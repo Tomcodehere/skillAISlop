@@ -1,5 +1,7 @@
 ---
 num: 1350
+resume: "faire un bilan factuel de 2027 et poser 3 objectifs SMART max pour 2028, avec revue mensuelle de 30 min. Étape 1 : Bilan 2027 par domaine avec faits et chiffres (travail, santé, finances, relations, apprentissages)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bilan de fin d'année (tous domaines, édition annuelle)"
 emoji: "✅"

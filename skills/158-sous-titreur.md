@@ -1,5 +1,7 @@
 ---
 num: 158
+resume: "produire des sous-titres propres, synchronisés et lisibles (SRT, VTT) pour toute vidéo. Étape 1 : Transcrire la vidéo avec locuteurs et sons pertinents."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sous-titreur"
 emoji: "📑"

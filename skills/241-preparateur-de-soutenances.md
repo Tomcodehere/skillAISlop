@@ -1,5 +1,7 @@
 ---
 num: 241
+resume: "préparer une soutenance ou une défense orale (mémoire, thèse, projet de fin d'études) : discours, slides, questions du jury. Étape 1 : Structurer le discours de soutenance dans le temps imparti et concevoir les slides."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparateur de soutenances"
 emoji: "🎖️"

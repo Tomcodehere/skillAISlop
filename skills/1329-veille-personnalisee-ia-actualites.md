@@ -1,5 +1,7 @@
 ---
 num: 1329
+resume: "suivre l'actualité sur ses sujets avec un agent IA : veille quotidienne sourcée, synthèse, alertes événements, en croisant plusieurs sources (anti-bulle). Étape 1 : Choisir 3-5 sujets + mots-clés ; liste de sources fiables par sujet."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Veille personnalisée IA (actualités)"
 emoji: "📰"

@@ -1,5 +1,7 @@
 ---
 num: 881
+resume: "mettre en place un canal de feedback anonyme fiable : outil adapté, questions courtes, anonymat garanti, restitution et actions. Étape 1 : Outil avec anonymat garanti (pas d'IP, pas de compte pro) ; 5-8 questions, échelle + 1 ouverte, trimestrielle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Mise en place d'un canal de feedback anonyme"
 emoji: "📥"

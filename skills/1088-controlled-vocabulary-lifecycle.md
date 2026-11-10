@@ -1,5 +1,7 @@
 ---
 num: 1088
+resume: "Gérer les statuts et évolutions d'un vocabulaire de référence sans perdre l'historique des termes. Étape 1 : Cadrer les inputs : glossaire, domaines, owners et règles d'approbation ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Controlled Vocabulary Lifecycle"
 emoji: "📋"

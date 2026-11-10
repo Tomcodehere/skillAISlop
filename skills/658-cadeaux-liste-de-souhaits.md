@@ -1,5 +1,7 @@
 ---
 num: 658
+resume: "trouver un cadeau adapté à la personne et au budget, et gérer une liste de cadeaux collective. Étape 1 : Cerner le destinataire : goûts, besoins, occasion, budget total (y compris emballage et carte)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cadeaux & liste de souhaits"
 emoji: "🎁"

@@ -1,5 +1,7 @@
 ---
 num: 1491
+resume: "Budgéter une feature IA en 2027 : coût par requête (tokens × prix modèle), coût mensuel par utilisateur actif (fréquence × coût), projection à 10k users, leviers de réduction (cascade/cache/SLM), et seuil de rentabilité vs revenu par user. Étape 1 : Mesurer : tokens moyens in/out par requête (logs, 1476), fréquence/user/semaine."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Budgeter une feature IA : cout par requete et par utilisateur"
 emoji: "💰"

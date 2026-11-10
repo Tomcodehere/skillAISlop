@@ -1,5 +1,7 @@
 ---
 num: 43
+resume: "structurer et améliorer un budget personnel : vision claire, priorités, plan d'action chiffré. Étape 1 : Collecter revenus nets et dépenses du mois (même approximatives)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach budget perso"
 emoji: "💸"

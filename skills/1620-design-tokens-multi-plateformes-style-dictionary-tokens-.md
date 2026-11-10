@@ -1,5 +1,7 @@
 ---
 num: 1620
+resume: "Industrialiser les design tokens en 2027 : JSON unique (Style Dictionary / Tokens Studio) générant CSS variables, Tailwind, Swift, Kotlin — une seule source de vérité pour web + iOS + Android. Étape 1 : Modéliser en 3 niveaux : primitifs (blue-500), sémantiques (--color-primary, --surface), composants (bouton primaire)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Design tokens multi-plateformes : Style Dictionary, Tokens Studio"
 emoji: "🎨"

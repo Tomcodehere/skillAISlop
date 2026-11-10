@@ -1,5 +1,7 @@
 ---
 num: 484
+resume: "corriger l'ergonomie d'un poste de travail : poste ajusté, gestes répétitifs traités et exercices de compensation installés. Étape 1 : Évaluer le poste réel et les positions tenues pendant le travail."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach d'ergonomie au bureau"
 emoji: "🤸"

@@ -1,5 +1,7 @@
 ---
 num: 352
+resume: "tirer parti des heatmaps et enregistrements de session : lire les rage clicks, les abandons de scroll et en faire des corrections UX priorisées. Étape 1 : Définir les segments d'analyse et les parcours à observer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lecteur de heatmaps & sessions"
 emoji: "👁"

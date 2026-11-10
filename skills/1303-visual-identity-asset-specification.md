@@ -1,5 +1,7 @@
 ---
 num: 1303
+resume: "Définir des déclinaisons d'assets cohérentes avec une identité visuelle validée. Étape 1 : Cadrer les inputs : charte, usages, formats et contraintes de diffusion ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Visual Identity Asset Specification"
 emoji: "📋"

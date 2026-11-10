@@ -1,5 +1,7 @@
 ---
 num: 1354
+resume: "Etre operationnel en langue des affaires etrangere : rediger des emails clairs, participer a une reunion, presenter un point en 5 minutes, dans un registre professionnel adapte. Étape 1 : Lister les 5 situations les plus frecuentes de l'utilisateur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Langue des affaires et communication professionnelle"
 emoji: "💼"

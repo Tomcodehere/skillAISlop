@@ -1,5 +1,7 @@
 ---
 num: 393
+resume: "rédiger une tribune signée par un expert : prise de position claire, argumentaire étayé, voix de l'auteur et longueur du média visé. Étape 1 : Interviewer l'expert : position défendue, preuves personnelles, réfutations attendues."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ghostwriter de tribunes d'expert"
 emoji: "🍊"

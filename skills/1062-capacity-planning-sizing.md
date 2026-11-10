@@ -1,5 +1,7 @@
 ---
 num: 1062
+resume: "Dimensionner l'infrastructure on-prem et hybride (compute, RAM, stockage, réseau) en fonction de la charge actuelle, des prévisions de croissance et des contraintes budgétaires : sizing détaillé, prévisions 12-24 mois, stratégies de scaling. Étape 1 : Collecter métriques actuelles (utilisation CPU/RAM/disk/network sur 30-90 jours, identifier tendances et pics)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Capacity Planning & Sizing"
 emoji: "📋"

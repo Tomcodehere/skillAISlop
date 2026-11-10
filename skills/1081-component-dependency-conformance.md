@@ -1,5 +1,7 @@
 ---
 num: 1081
+resume: "Comparer les dépendances observées d'un logiciel aux frontières d'architecture décidées. Étape 1 : Cadrer les inputs : carte cible, imports/appels observables et exceptions approuvées ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Component Dependency Conformance"
 emoji: "💻"

@@ -1,5 +1,7 @@
 ---
 num: 1718
+resume: "Sécuriser la plateforme interne en 2027 (zero trust) : accès portail en SSO+passkeys (1643), mTLS SPIFFE entre services (1655), secrets hors Git (Vault 1656), policies Kyverno (1705), audit complet (1476), CI en OIDC sans clés longues (1450). Étape 1 : Humains : SSO (Entra ID/Okta) + passkeys FIDO2 (1643) + MFA adaptatif, pas de mot de passe local."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Securite de la plateforme : zero trust interne"
 emoji: "🔒"

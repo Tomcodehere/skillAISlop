@@ -1,5 +1,7 @@
 ---
 num: 1538
+resume: "Concevoir 40-60 achievements en 2027 : conditions variées (combat, exploration, secret), certains cachés, récompenses cosmétiques/titres, notification toast à l'obtention, progression globale %, synchro Steam (1581). Étape 1 : Définir les achievements : id, nom, description, icône, condition (ex. kills supérieur à= 100), récompense (cosmétique/titre), caché ou non."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Succes (achievements) et deblocages"
 emoji: "🏆"

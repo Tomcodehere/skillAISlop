@@ -1,5 +1,7 @@
 ---
 num: 1689
+resume: "Viser la certification EUCS (schéma européen de certification cloud, basé sur ENISA) en 2027 pour un cloud conforme UE : niveaux basic/substantial/high, en articulation avec Gaia-X (1686) et le CADA (1685) — requis pour les marchés publics et secteurs régulés (santé, finance). Étape 1 : Vérifier la certification EUCS du fournisseur (registre officiel) : niveau (basic/substantial/high) et périmètre"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "EUCS : certification cloud européenne"
 emoji: "🏆"

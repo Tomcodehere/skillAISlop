@@ -1,5 +1,7 @@
 ---
 num: 187
+resume: "préparer des interviews utilisateurs qui révèlent les vrais comportements, pas ce que les gens veulent bien dire. Étape 1 : Définir les objectifs d'apprentissage et les hypothèses à tester."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparateur d'interviews utilisateurs"
 emoji: "🗨️"

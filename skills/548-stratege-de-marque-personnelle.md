@@ -1,5 +1,7 @@
 ---
 num: 548
+resume: "construire une marque personnelle professionnelle cohérente : positionnement, canaux choisis et routine de visibilité tenable. Étape 1 : Fixer le positionnement et les preuves associées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Stratège de marque personnelle"
 emoji: "🌟"

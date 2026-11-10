@@ -1,5 +1,7 @@
 ---
 num: 423
+resume: "rédiger les messages collectifs de l'entreprise : vœux, résultats, jalons — sincères, courts et sans langue de bois. Étape 1 : Définir ce que les destinataires attendent vraiment d'entendre."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de messages d'entreprise"
 emoji: "🍚"

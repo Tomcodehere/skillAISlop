@@ -1,5 +1,7 @@
 ---
 num: 1445
+resume: "Automatiser les mises à jour de dépendances en 2027 avec Dependabot/Renovate : PR auto groupées par écosystème, CI verte requise, CVE/sécurité prioritaires (merge rapide), changelogs majeurs relus. Étape 1 : Activer Dependabot/Renovate avec config par écosystème (npm, pip...)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Mise a jour automatique des dependances"
 emoji: "🔄"

@@ -1,5 +1,7 @@
 ---
 num: 1614
+resume: "Migrer un projet Webpack legacy vers Vite en 2027 sans régression : mapping loaders→plugins, alias/env/proxy dev, assets, polyfills, et preuve que le build prod est équivalent (taille, perfs, tests). Étape 1 : Inventorier webpack.config : entry, loaders, plugins, alias, define, devServer.proxy, output."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Migration Webpack vers Vite : guide pratique"
 emoji: "🔄"

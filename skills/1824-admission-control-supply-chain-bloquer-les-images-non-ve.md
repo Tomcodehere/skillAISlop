@@ -1,5 +1,7 @@
 ---
 num: 1824
+resume: "Bloquer à l'admission Kubernetes (Kyverno 1.13 verifyImages ou Sigstore Policy Controller) toute image non signée ou sans provenance SLSA du bon repo — après une phase Audit. Étape 1 : Choisir : Kyverno (policies riches) ou Sigstore Policy Controller (léger, greenfield)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Admission control supply chain : bloquer les images non vérifiées"
 emoji: "⛔"

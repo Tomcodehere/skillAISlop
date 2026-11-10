@@ -1,5 +1,7 @@
 ---
 num: 1761
+resume: "Remplacer les alertes brutes (CPU, mémoire, disque) par des alertes dérivées des SLO (burn rate 1757), avec dédoublonnage, groupement par service et routage automatique vers l'équipe responsable avec escalade. Étape 1 : Lister les alertes existantes et supprimer celles sans impact utilisateur (CPU/ram/disque bruts)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Alerting intelligent : debruitage et routage des alertes"
 emoji: "🔔"

@@ -1,5 +1,7 @@
 ---
 num: 391
+resume: "rédiger des textes alternatifs utiles : ce que l'image apporte au contenu, pour les lecteurs d'écran et les images non chargées. Étape 1 : Classer les images par fonction : informationnelle, fonctionnelle, décorative."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur d'alt-text & descriptions d'images"
 emoji: "🦯"

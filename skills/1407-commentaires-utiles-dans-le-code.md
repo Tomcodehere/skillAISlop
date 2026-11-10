@@ -1,5 +1,7 @@
 ---
 num: 1407
+resume: "Améliorer les commentaires d'un codebase en 2027 : garder ceux qui expliquent le pourquoi (décision, piège, contrainte externe), supprimer ceux qui répètent le code. Étape 1 : Repérer les commentaires qui répètent le code (à supprimer)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Commentaires utiles dans le code"
 emoji: "💬"

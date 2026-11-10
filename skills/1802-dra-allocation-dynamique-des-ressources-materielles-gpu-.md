@@ -1,5 +1,7 @@
 ---
 num: 1802
+resume: "Allouer dynamiquement GPU/FPGA aux pods avec DRA (ResourceClaim/ResourceSlice, GA 1.34, par défaut 1.36) : sélection par attributs avec fallback ordonné, devices partitionnables, taints et health status. Étape 1 : Installer le driver DRA vendor (ex. NVIDIA) qui publie les ResourceSlice par nœud."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "DRA : allocation dynamique des ressources matérielles (GPU, FPGA)"
 emoji: "🧠"

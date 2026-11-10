@@ -1,5 +1,7 @@
 ---
 num: 902
+resume: "cadrer l'usage d'outils algorithmiques de management (assignation, évaluation, planification) conformément à l'AI Act annexe III (applicable 2 déc. 2027) et au droit du travail. Étape 1 : Inventorier les outils algo de management (planning, évaluation, assignation) et les classer haut risque."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion algorithmique du travail (AI Act emploi)"
 emoji: "🤖"

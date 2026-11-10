@@ -1,5 +1,7 @@
 ---
 num: 280
+resume: "adapter une application ou un contenu à un marché : traduction des chaînes UI, formats locaux et ajustements culturels, sans casser le code. Étape 1 : Extraire les chaînes et repérer les pièges : interpolation, pluriel, longueur, code."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Localisateur de contenu & d'app i18n"
 emoji: "🛤️"

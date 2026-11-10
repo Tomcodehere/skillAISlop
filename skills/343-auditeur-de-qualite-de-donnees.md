@@ -1,5 +1,7 @@
 ---
 num: 343
+resume: "auditer la qualité d'un jeu de données : complétude, exactitude, unicité, fraîcheur et cohérence, avec un rapport d'écarts priorisés. Étape 1 : Définir les dimensions pertinentes et les contrôles mesurables par dimension."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur de qualité de données"
 emoji: "🌩"

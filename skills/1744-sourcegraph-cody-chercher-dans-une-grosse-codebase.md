@@ -1,5 +1,7 @@
 ---
 num: 1744
+resume: "Naviguer dans une grosse codebase en 2027 avec Sourcegraph Cody : recherche structurelle (AST/regex : 'tous les appels à l'ancienne API'), navigation par symboles cross-repo, chat contextuel — self-host (1633) pour le code interne. Étape 1 : Indexer les repos sur Sourcegraph (cloud sourcegraph.com pour l'open source, ou self-host pour l'interne 1633)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sourcegraph Cody : chercher dans une grosse codebase"
 emoji: "🔎"

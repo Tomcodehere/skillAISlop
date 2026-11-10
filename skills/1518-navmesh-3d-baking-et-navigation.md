@@ -1,5 +1,7 @@
 ---
 num: 1518
+resume: "Baker et utiliser un navmesh 3D en 2027 : marquer la géométrie walkable (pentes max, hauteur agent), bake le navmesh, agents NavigationAgent qui le suivent avec évitement, mise à jour locale pour obstacles dynamiques. Étape 1 : Marquer les surfaces walkable (layer/zone), exclure pentes supérieur à 45° et trous inférieur à hauteur agent."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Navmesh 3D : baking et navigation"
 emoji: "🧭"

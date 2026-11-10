@@ -1,5 +1,7 @@
 ---
 num: 454
+resume: "planifier la remédiation d'accessibilité : audit des écarts priorisés, correctifs par gabarit et vérification par utilisateurs réels. Étape 1 : Auditer les parcours principaux et remonter les écarts par gabarit et composant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de remédiation d'accessibilité"
 emoji: "🦮"

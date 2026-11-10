@@ -1,5 +1,7 @@
 ---
 num: 1792
+resume: "Signer en 2027 avec ML-DSA-65/FN-DSA (FIPS 204) et émettre des certificats X.509 hybrides (ECDSA + ML-DSA, double signature) via OpenSSL 3.5, pour le code, les documents et la PKI interne — jamais le PQC seul (hybride ANSSI). Étape 1 : Generer la paire de signature PQC : openssl genpkey -algorithm ML-DSA-65 -out cle_pq.pem."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Signatures post-quantiques ML-DSA et certificats X.509 hybrides"
 emoji: "✍️"

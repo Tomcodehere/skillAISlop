@@ -1,5 +1,7 @@
 ---
 num: 1709
+resume: "Chiffrer le TCO d'une IDP en 2027 (self-host Backstage : 3-6 ing/an + maintenance vs IDP managé Port/Cortex : licence) et la justifier par les gains mesurés (DORA 1706 : lead time, fréquence, tickets -70 %, onboarding). Étape 1 : Coûts : self-host = 3-6 ETP/an (équipe platform) + hébergement + upgrades Backstage (douloureux) ; managé = licence (Port/Cortex/Humanitec) + intégration."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cout de l'IDP : TCO et justification metier"
 emoji: "💰"

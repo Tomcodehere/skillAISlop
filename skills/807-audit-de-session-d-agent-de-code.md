@@ -1,5 +1,7 @@
 ---
 num: 807
+resume: "auditer rétrospectivement ce qu'un agent de code a fait : coût, erreurs, latence, diffs, décisions — pour améliorer le processus. Étape 1 : Collecter les traces : tokens/coût/latence par appel, erreurs, retries, diffs, décisions."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Audit de session d'agent de code"
 emoji: "🔍"

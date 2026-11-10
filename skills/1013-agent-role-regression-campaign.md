@@ -1,5 +1,7 @@
 ---
 num: 1013
+resume: "Vérifier qu'une modification de configuration préserve rôle, escalade et format d'un agent. Étape 1 : Cadrer les inputs : versions comparées, cas autorisés/hors périmètre et critères d'acceptation ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Agent Role Regression Campaign"
 emoji: "📋"

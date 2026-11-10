@@ -1,5 +1,7 @@
 ---
 num: 886
+resume: "gérer un accident du travail : déclaration sous 48 h à la CPAM, soins, enquête interne, prévention, suivi du salarié. Étape 1 : 48 h : déclaration CPAM (S6201), témoignages, photos ; inspection du travail si AT grave."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion d'un accident du travail"
 emoji: "🩹"

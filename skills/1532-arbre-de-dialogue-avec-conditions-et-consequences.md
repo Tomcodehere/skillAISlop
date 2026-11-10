@@ -1,5 +1,7 @@
 ---
 num: 1532
+resume: "Construire un arbre de dialogue en 2027 : nœuds PNJ/choix joueur, conditions (quête faite, or, réputation), conséquences (donneur d'objet, démarreur de quête, changement de réputation), persistance des choix faits. Étape 1 : Modéliser : nœud {speaker, texte, choix[]}; choix {texte, condition?, effets[], next}."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Arbre de dialogue avec conditions et consequences"
 emoji: "💬"

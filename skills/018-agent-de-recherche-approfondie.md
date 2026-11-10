@@ -1,5 +1,7 @@
 ---
 num: 18
+resume: "structurer une recherche en profondeur avec sources vérifiables. Étape 1 : Cadrer : question exacte, profondeur souhaitée, deadline."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Agent de recherche approfondie"
 emoji: "🔎"

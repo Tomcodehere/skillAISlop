@@ -1,5 +1,7 @@
 ---
 num: 702
+resume: "préparer efficacement chaque réunion : objectif, ordre du jour, fiche des participants et questions à poser. Étape 1 : Cadrer : objectif de la réunion, décision attendue, durée, participants et leurs enjeux."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation de réunion (meeting prep)"
 emoji: "🗂️"

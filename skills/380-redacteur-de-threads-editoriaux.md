@@ -1,5 +1,7 @@
 ---
 num: 380
+resume: "écrire un thread (X, LinkedIn, Bluesky) qui se lit en entier : accroche solide, une idée par post, progression et conclusion qui donne envie de suivre. Étape 1 : Trouver la tension ou la promesse de l'accroche et la progression du fil."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de threads éditoriaux"
 emoji: "🍂"

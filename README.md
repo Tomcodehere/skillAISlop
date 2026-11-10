@@ -1,12 +1,13 @@
 # skillAISlop — skillAISlop (skillAISlop)
 
-Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-21 du 2026-11-02 au 2026-11-07) : **1901 sections** (1900 skills + routeur 0, numérotées 0-1900) organisées en **29 domaines**, avec catalogue, routeur SQL et outils d'audit.
+Export du projet skillAISlop (Vibe Work, 2026-11-01 ; vagues 10-22 du 2026-11-02 au 2026-11-08) : **2001 sections** (2000 skills + routeur 0, numérotées 0-2000) organisées en **30 domaines**, avec catalogue, routeur SQL et outils d'audit.
 
 ## Installation rapide & branchement sur ton agent
 
 ```bash
 python3 outils/routage.py build        # ~2 s, une seule fois (skills.db est gitignoré)
 python3 outils/routage.py route "ma demande"   # exit 0 = skill trouvée, 1 = piste, 2 = rien
+python3 outils/routage.py route --lang en "my request"  # multilingue : sidecars skills/NNN-*.en.md, auto-détection par défaut, fallback FR
 ```
 Prérequis : Python 3.12+ (stdlib seule suffit). Optionnel mais recommandé : `pip install sqlite-vec` (voie vectorielle ; sinon repli gracieux FTS5 seul).
 
@@ -29,10 +30,10 @@ Pour un **pack autonome** distribuable à d'autres projets : `data/skillaislop-p
 
 | Chemin | Contenu |
 |---|---|
-| `skills/` | 1901 fichiers `.md` (une skill = un fichier, frontmatter YAML avec `date_ajout: "YYYY-MM"`) |
+| `skills/` | 2001 fichiers `.md` (une skill = un fichier, frontmatter YAML avec `date_ajout: "YYYY-MM"`) |
 | `catalogue/` | sommaire, règles R1-R11, template, utilisation, sources, vue d'ensemble |
 | `outils/` | `routage.py` (routeur SQL hybride FTS5 + sqlite-vec, repli gracieux si l'extension est absente), `audit_conformite.py` |
-| `data/` | catalogues JSON + `sonde-rapport.md` (rapport de couverture) |
+| `data/` | catalogues JSON (compact/complet/condensé) + `sonde-rapport.md` (rapport de couverture) — `catalogue-condensed.json` = index machine léger (resume + méthode + garde-fous), embarqué dans le pack |
 | `canvas/` | 7 canvases d'origine (corpus, blocs de 300) |
 | `AGENTS.md` / `TODO.md` / `DONE.md` | instructions agents / suivi |
 
@@ -47,14 +48,14 @@ Pour un **pack autonome** distribuable à d'autres projets : `data/skillaislop-p
 
 ## Vérifications
 
-- `build` ✅ (1900 skills + routeur · 29 domaines · 2916 synonymes · 1901 vecteurs sqlite-vec)
-- `test` ✅ **1749/1749**
-- `lint` ✅ aucun problème (+ `date_ajout` YYYY-MM vérifié sur 1901/1901 skills, R13 titre sans année, R14 frontmatter sans < >)
+- `build` ✅ (2000 skills + routeur · 30 domaines · 3222 synonymes · 2001 vecteurs sqlite-vec)
+- `test` ✅ **1849/1849**
+- `lint` ✅ aucun problème (+ `date_ajout` YYYY-MM vérifié sur 2001/2001 skills, R13 titre sans année, R14 frontmatter sans < >)
 - `golden` ✅ **198/198** requêtes stables
 - `route "IoT"` → exit 2 (faux positif corrigé) ✅
 - `route "domotique"` → skill 222 ✅
-- `sonde` → **2294/2294 couverts (100 %), 0 partiel, 0 gap** ✅
-- `audit_conformite` ✅ **1900/1900 conformes (100 %)** (8 canvases) · `score_skills` moyenne **100,0/100** · `evals` **1748/1748** (1067 skills)
+- `sonde` → **2400/2400 couverts (100 %), 0 partiel, 0 gap** ✅
+- `audit_conformite` ✅ **2000/2000 conformes (100 %)** (8 canvases) · `score_skills` moyenne **100,0/100** · `evals` **1848/1848** (1167 skills)
 
 ## Mes skills perso (`mesSkillsPerso/`)
 

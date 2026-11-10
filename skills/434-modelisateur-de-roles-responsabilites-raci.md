@@ -1,5 +1,7 @@
 ---
 num: 434
+resume: "clarifier qui fait quoi : matrice de rôles lisible, une personne accountable par décision, zones grises traitées et validation par les concernés. Étape 1 : Lister les décisions et livrables qui créent des conflits réels."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Modélisateur de rôles & responsabilités (RACI)"
 emoji: "🍠"

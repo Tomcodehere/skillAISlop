@@ -1,5 +1,7 @@
 ---
 num: 893
+resume: "gérer une copropriété en crise avec un syndic défaillant : mise en concurrence, AG extraordinaire, changement de syndic, travaux urgents. Étape 1 : Conseil syndical actif : contrôle des comptes et délais du syndic ; 3 devis de syndics concurrents préparés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion d'une copropriété en crise (syndic défaillant)"
 emoji: "🏢"

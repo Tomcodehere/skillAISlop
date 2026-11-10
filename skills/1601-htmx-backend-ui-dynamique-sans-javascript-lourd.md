@@ -1,5 +1,7 @@
 ---
 num: 1601
+resume: "Construire une UI dynamique en 2027 avec HTMX + backend (Django django-htmx, Rails, Laravel) : requêtes AJAX depuis le HTML (hx-get/hx-post), rendu de fragments partiels, validation côté serveur, CSRF géré — sans SPA lourde. Étape 1 : Ajouter htmx via CDN ou npm + le bundle dans le layout."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "HTMX + backend : UI dynamique sans JavaScript lourd"
 emoji: "🧩"

@@ -1,5 +1,7 @@
 ---
 num: 698
+resume: "réussir l'intégration d'un nouveau collaborateur : check-list avant l'arrivée, parrainage, plan 30-60-90 jours. Étape 1 : Préparer avant J-1 : matériel et accès prêts, parrain désigné, planning de la première semaine, mail de bienvenue."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Onboarding d'un nouveau collaborateur"
 emoji: "👋"

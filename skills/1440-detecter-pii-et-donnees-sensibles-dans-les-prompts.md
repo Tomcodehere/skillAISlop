@@ -1,5 +1,7 @@
 ---
 num: 1440
+resume: "Mettre en place un guardrail PII en 2027 : détecter (NER + regex : email, tél, IBAN, CNI, adresse) les données personnelles dans les prompts, les masquer ou bloquer, et journaliser sans stocker la PII. Étape 1 : Lister les PII à détecter (email, tél FR, IBAN, CNI, Sécu, adresse, IP)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Detecter PII et donnees sensibles dans les prompts"
 emoji: "🙈"

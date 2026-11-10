@@ -1,5 +1,7 @@
 ---
 num: 1213
+resume: "Évaluer si un runbook permet un diagnostic et une reprise sûrs par une personne habilitée. Étape 1 : Cadrer les inputs : service, symptômes, commandes proposées, accès et critères de reprise ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Operational Runbook Acceptance"
 emoji: "🧠"

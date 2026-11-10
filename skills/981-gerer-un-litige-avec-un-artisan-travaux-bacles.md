@@ -1,5 +1,7 @@
 ---
 num: 981
+resume: "gérer un litige avec un artisan (travaux bâclés) en 2027 : mise en demeure, garanties (décennale/biennale/parfait achèvement), expertise, assurance DO, médiation. Étape 1 : Garanties : parfait achèvement 1 an, biennale 2 ans, décennale 10 ans (artisan tenu même sans faute)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gérer un litige avec un artisan / travaux bâclés"
 emoji: "🔨"

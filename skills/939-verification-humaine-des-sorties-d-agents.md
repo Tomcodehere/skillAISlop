@@ -1,5 +1,7 @@
 ---
 num: 939
+resume: "instaurer en 2027 la vérification humaine systématique des sorties d'agents (cadre « verifiability » de Karpathy) : checklist, tests de régression, journal des erreurs. Étape 1 : Checklist de revue par type de sortie (code : tests+review ; texte : faits vérifiés ; décision : humain)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vérification humaine des sorties d'agents"
 emoji: "✅"

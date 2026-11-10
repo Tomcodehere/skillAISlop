@@ -1,5 +1,7 @@
 ---
 num: 537
+resume: "recueillir et écrire le récit de vie d'un proche ou de soi : interviews, structure, manuscrit familial transmissible. Étape 1 : Préparer et enregistrer les interviews par thèmes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Biographe & récits de vie"
 emoji: "📜"

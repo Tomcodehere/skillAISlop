@@ -1,5 +1,7 @@
 ---
 num: 895
+resume: "se protéger sur un chantier : assurance dommages-ouvrage (DO) obligatoire pour le maître d'ouvrage, décennale du constructeur, réception et garanties. Étape 1 : DO obligatoire avant chantier (permis/extension supérieur à 20 m²) : souscrire avant ouverture, sinon amende."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Assurance dommages-ouvrage & décennale"
 emoji: "🏗️"

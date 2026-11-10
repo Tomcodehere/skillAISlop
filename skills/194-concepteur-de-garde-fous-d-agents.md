@@ -1,5 +1,7 @@
 ---
 num: 194
+resume: "définir les garde-fous d'un agent IA autonome : limites d'action, validations humaines, modes de repli. Étape 1 : Cartographier les actions possibles de l'agent et les classer par risque."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de garde-fous d'agents"
 emoji: "🚧"

@@ -1,5 +1,7 @@
 ---
 num: 1260
+resume: "Fournir une critique franche, directe et sans complaisance sur une idée, un brief ou un projet, façon investisseur/VC qui évalue un pitch, en exposant sans filtre ses faiblesses, ses angles morts et ses risques, pour muscler la réflexion avant l'action. Étape 1 : Reformuler l'idée/le projet en une phrase pour valider la compréhension."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Roast My Idea (Feedback Tough Love)"
 emoji: "🧠"

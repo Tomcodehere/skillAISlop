@@ -1,5 +1,7 @@
 ---
 num: 1633
+resume: "Choisir un modèle souverain européen en 2027 (Mistral, autres acteurs UE) hébergé en UE (OVH/Scaleway) pour la conformité (AI Act, Cloud Act, souveraineté GPU 1689) : comparer qualité/coût vs US, API cloud UE ou self-host (1471). Étape 1 : Lister les données traitées : si sensibles/réglementées (santé, juridique, admin) → modèle + hébergement 100 % UE obligatoire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Modeles souverains europeens : Mistral et alternatives UE"
 emoji: "𝼞a🇺"

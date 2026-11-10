@@ -1,5 +1,7 @@
 ---
 num: 411
+resume: "concevoir un programme de stage ou d'alternance utile pour les deux parties : missions progressives, tuteur réel, évaluation honnête et vivier de recrutement. Étape 1 : Définir les objectifs d'apprentissage et la mission responsable finale."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de programmes de stage & alternance"
 emoji: "🍗"

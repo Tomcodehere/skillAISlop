@@ -1,5 +1,7 @@
 ---
 num: 134
+resume: "produire des définitions claires, exactes et autonomes d'un lexique métier ou technique. Étape 1 : Collecter le lexique brut et le public cible du glossaire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de définitions & glossaires"
 emoji: "🔡"

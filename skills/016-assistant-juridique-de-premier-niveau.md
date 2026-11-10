@@ -1,5 +1,7 @@
 ---
 num: 16
+resume: "comprendre des questions et documents juridiques, jamais remplacer un avocat. Étape 1 : Identifier le domaine (droit social, commercial, consommation…)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Assistant juridique de premier niveau"
 emoji: "⚖️"

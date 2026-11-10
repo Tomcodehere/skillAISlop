@@ -1,5 +1,7 @@
 ---
 num: 1243
+resume: "Structurer ou restructurer les prompts IA pour maximiser clarté, cohérence et efficacité (réduction ambiguïté, meilleur respect du périmètre, format de sortie stable)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prompt Structure Optimization"
 emoji: "🧠"

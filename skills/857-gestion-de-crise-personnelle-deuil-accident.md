@@ -1,5 +1,7 @@
 ---
 num: 857
+resume: "organiser les premières démarches après un décès ou un accident grave : qui appeler, quelles démarches, quels délais, quel soutien. Étape 1 : 48 h : constat médical, déclaration mairie (24 h), funerarium, prévenir employeur/école/banque."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion de crise personnelle (deuil, accident)"
 emoji: "🕊️"

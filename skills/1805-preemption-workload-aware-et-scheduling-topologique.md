@@ -1,5 +1,7 @@
 ---
 num: 1805
+resume: "Configurer le workload-aware preemption (1.36+) et le topology-aware scheduling pour que les workloads critiques (PDB) ne soient pas préemptés et que les pods soient placés selon la topologie réelle (zone/nœud/GPU). Étape 1 : Définir des PriorityClass (critique supérieur à batch)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Preemption workload-aware et scheduling topologique"
 emoji: "⏏️"

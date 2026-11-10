@@ -1,5 +1,7 @@
 ---
 num: 538
+resume: "retirer les tics d'écriture IA d'un texte (litanies, connecteurs pompeux, surenchères) pour retrouver une voix humaine crédible. Étape 1 : Diagnostiquer les marqueurs IA présents dans le texte."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Humaniseur de texte IA"
 emoji: "✨"

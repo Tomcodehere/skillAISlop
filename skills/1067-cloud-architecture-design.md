@@ -1,5 +1,7 @@
 ---
 num: 1067
+resume: "Concevoir des architectures cloud cibles (compute, réseau, stockage, données) robustes, sécurisées et scalables sur AWS/Azure/GCP ou hybride. Étape 1 : Clarifier contraintes et exigences non fonctionnelles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cloud Architecture Design"
 emoji: "💻"

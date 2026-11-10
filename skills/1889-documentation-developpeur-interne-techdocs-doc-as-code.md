@@ -1,5 +1,7 @@
 ---
 num: 1889
+resume: "Maintenir la doc développeur interne en doc-as-code : TechDocs (Backstage 1702) publie README/ADR/runbooks (1764) du repo en site auto — même PR que le code (1401), zéro drift. Étape 1 : Chaque repo a un README + docs/ (mkdocs.yml) ; TechDocs (1702) publie sur le portail interne à chaque merge."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Documentation développeur interne : TechDocs, doc-as-code"
 emoji: "📖"

@@ -1,5 +1,7 @@
 ---
 num: 844
+resume: "prendre une décision structurée entre plusieurs options : critères pondérés, scores, analyse de sensibilité, recommandation justifiée. Étape 1 : Options (3-5) + critères (5-8) pondérés (somme 100 %) ; noter 1-5 avec justification factuelle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Matrice de décision multicritères"
 emoji: "⚖️"

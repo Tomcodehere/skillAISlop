@@ -1,5 +1,7 @@
 ---
 num: 1560
+resume: "Organiser les animations d'un personnage en 2027 : états (Idle/Run/Jump/Attack/Hit/Death), paramètres (speed, grounded, trigger attack), transitions avec conditions + crossfade 0,1 s, et priorité (Hit supérieur à Attack supérieur à mouvement). Étape 1 : Créer les paramètres : Speed (float), Grounded (bool), Attack (trigger), Hit (trigger), Dead (bool)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "State machine d'animation (Animator)"
 emoji: "🎭"

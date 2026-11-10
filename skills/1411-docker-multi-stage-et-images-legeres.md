@@ -1,5 +1,7 @@
 ---
 num: 1411
+resume: "Produire une image Docker optimisée en 2027 : build multi-stage, base minimale (distroless/alpine), utilisateur non-root, .dockerignore pour accélérer le build. Étape 1 : Passer en multi-stage : stage build (SDK complet), stage final (runtime seul)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Docker multi-stage et images legeres"
 emoji: "📦"

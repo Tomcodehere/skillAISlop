@@ -1,5 +1,7 @@
 ---
 num: 1165
+resume: "Concevoir des architectures de haute disponibilité (HA) et des plans de continuité (PRA/PCA) on-prem : clustering, load balancing, failover, définition RTO/RPO, stratégies de disaster recovery testables. Étape 1 : Identifier services critiques et leurs dépendances (cartographie flux)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Infrastructure Resilience Design"
 emoji: "💻"

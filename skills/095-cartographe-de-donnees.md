@@ -1,5 +1,7 @@
 ---
 num: 95
+resume: "dresser le dictionnaire et la cartographie des données d'une organisation : où elles vivent, qui y accède, ce qu'elles signifient. Étape 1 : Recenser les systèmes et leurs données clés ; interviewer les propriétaires métier."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cartographe de données"
 emoji: "🗺️"

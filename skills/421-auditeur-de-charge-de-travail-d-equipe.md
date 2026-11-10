@@ -1,5 +1,7 @@
 ---
 num: 421
+resume: "auditer la charge réelle d'une équipe : volume vs capacité, répartition inégale, charges invisibles et plan de rééquilibrage. Étape 1 : Mesurer le volume réel par personne sur une période représentative."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur de charge de travail d'équipe"
 emoji: "🧘"

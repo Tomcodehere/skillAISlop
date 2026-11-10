@@ -1,5 +1,7 @@
 ---
 num: 1153
+resume: "Résoudre les ambiguïtés syntaxiques et d'accord sans changer l'intention d'un texte rédigé. Étape 1 : Cadrer les inputs : texte, langue, antécédents et intention confirmable ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Grammatical Ambiguity Resolution"
 emoji: "🎨"

@@ -1,5 +1,7 @@
 ---
 num: 1519
+resume: "Construire une IA ennemie par FSM en 2027 : états Patrouille/Poursuite/Attaque/Fuite avec transitions claires (distance joueur inférieur à 8 m et ligne de vue → Poursuite), update par état, debug visuel (état affiché au-dessus de l'ennemi). Étape 1 : Définir les états : Patrol (va-et-vient entre points), Chase (navigue vers joueur 1518), Attack (cooldown 1 s, dégâts), Flee (s'éloigne si PV bas)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "IA ennemie : state machine (FSM) simple"
 emoji: "🧠"

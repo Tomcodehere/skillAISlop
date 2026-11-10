@@ -1,5 +1,7 @@
 ---
 num: 1728
+resume: "Préparer la certification Cilium CCAE en 2027 (associate engineer eBPF/Cilium) : CNI eBPF, NetworkPolicy L3-L7, Hubble, service mesh, commandes de debug (cilium bpf policy list, cilium service list, cilium status) — dans la roadmap CKA/CKS (609). Étape 1 : Pré-requis : CKA ou expérience k8s équivalente (609)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Certification Cilium CCAE : valider ses compétences eBPF"
 emoji: "🏆"

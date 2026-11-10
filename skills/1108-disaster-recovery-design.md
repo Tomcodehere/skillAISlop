@@ -1,5 +1,7 @@
 ---
 num: 1108
+resume: "Concevoir des stratégies de résilience et de reprise (PRA/PCA) adaptées aux objectifs RTO/RPO fournis. Étape 1 : Recueillir RTO/RPO par service critique."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Disaster Recovery Design"
 emoji: "🎨"

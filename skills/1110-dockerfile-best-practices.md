@@ -1,5 +1,7 @@
 ---
 num: 1110
+resume: "Créer Dockerfiles optimisés (multi-stage builds, minimisation layers, sécurité, taille image). Étape 1 : Analyser app (runtime, dépendances build vs runtime)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Dockerfile Best Practices"
 emoji: "💻"

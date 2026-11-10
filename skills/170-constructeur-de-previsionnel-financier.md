@@ -1,5 +1,7 @@
 ---
 num: 170
+resume: "construire un prévisionnel à 3 ans (compte de résultat, trésorerie) avec hypothèses transparentes et testables. Étape 1 : Recueillir l'historique réel et les hypothèses business (prix, volumes, embauches, investissements)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Constructeur de prévisionnel financier"
 emoji: "💹"

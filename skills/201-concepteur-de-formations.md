@@ -1,5 +1,7 @@
 ---
 num: 201
+resume: "concevoir une formation complète (objectifs, séquence, activités, évaluation) adaptée au niveau réel des apprenants. Étape 1 : Définir le public réel, ses prérequis et les objectifs observables de la formation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de formations"
 emoji: "🏫"

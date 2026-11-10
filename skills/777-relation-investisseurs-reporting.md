@@ -1,5 +1,7 @@
 ---
 num: 777
+resume: "entretenir une relation de confiance avec ses investisseurs : reporting régulier, board efficace, bad news tôt. Étape 1 : Rédiger le reporting mensuel 1 page : KPIs, faits marquants, bad news tôt, besoins, prochaines étapes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Relation investisseurs & reporting"
 emoji: "🤝"

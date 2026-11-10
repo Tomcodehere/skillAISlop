@@ -1,5 +1,7 @@
 ---
 num: 337
+resume: "rédiger la carte d'un modèle (model card) : usages prévus, données, limites connues, performances mesurées et conditions d'emploi. Étape 1 : Rassembler les faits vérifiables : données, entraînement, évaluations, versions."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de cartes de modèle"
 emoji: "🌤"

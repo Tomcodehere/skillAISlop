@@ -1,5 +1,7 @@
 ---
 num: 1762
+resume: "Instrumenter le tracing distribué (OpenTelemetry spans + contexte W3C traceparent propagé) pour visualiser le parcours complet d'une requête et identifier le service qui la ralentit, avec tail-based sampling pour garder les traces lentes. Étape 1 : Deployer le collecteur OTel avec récepteurs OTLP et export vers le backend de traces."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tracing distribué de bout en bout"
 emoji: "🧵"

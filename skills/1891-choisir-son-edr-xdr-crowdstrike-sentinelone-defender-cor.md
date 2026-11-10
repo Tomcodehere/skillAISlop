@@ -1,5 +1,7 @@
 ---
 num: 1891
+resume: "Choisir son EDR/XDR en 2027 (CrowdStrike Falcon, SentinelOne Singularity, Defender for Endpoint P2, Cortex XDR) selon le threat model, le stack existant (M365/Entra) et le budget — Gartner MQ 2026 : 3 Leaders. Étape 1 : Court-circuiter : si 100 % M365 E5 -supérieur à Defender P2 déployé (déjà payé), évaluer ensuite."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir son EDR/XDR : CrowdStrike, SentinelOne, Defender, Cortex"
 emoji: "🛡️"

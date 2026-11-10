@@ -1,5 +1,7 @@
 ---
 num: 1727
+resume: "Déployer un service mesh sans sidecar en 2027 avec Cilium Service Mesh (eBPF dans le noyau) : mTLS auto, L7 routing (retries, circuit breaker), observabilité (Hubble 1722) — -50 % de ressources et ~30 % de latence en moins vs Istio/Linkerd avec sidecars. Étape 1 : Activer : cilium clustermesh / service mesh enable (Cilium 1.16+), mTLS auto par défaut (identités Cilium, pas de certs à gérer)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cilium service mesh sans sidecar"
 emoji: "🕸️"

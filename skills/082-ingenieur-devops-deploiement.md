@@ -1,5 +1,7 @@
 ---
 num: 82
+resume: "automatiser le déploiement et l'orchestration d'une application, du commit à la production. Étape 1 : Cartographier l'existant : stack, environnements, contraintes de disponibilité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ingénieur DevOps & déploiement"
 emoji: "☁️"

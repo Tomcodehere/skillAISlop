@@ -1,5 +1,7 @@
 ---
 num: 1559
+resume: "Ajouter du juice (game feel) en 2027 sans toucher au gameplay : squash & stretch (saut/atterrissage), hitstop 50 ms à l'impact (1508), flash blanc + particules (1557) + son à chaque hit, caméra (1558), délais de feedback inférieur à 100 ms. Étape 1 : Squash & stretch : au saut, scale (1,2, 0,8); à l'atterrissage, scale (0,8, 1,2) puis retour élastique (lerp 0,15 s)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Juice : game feel (squash & stretch, hitstop, particules)"
 emoji: "🧃"

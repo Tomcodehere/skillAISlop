@@ -1,5 +1,7 @@
 ---
 num: 50
+resume: "transformer un processus fait « dans la tête des gens » en procédure écrite, exécutable par quelqu'un d'autre (humain ou agent IA). Étape 1 : Interviewer le détenteur du savoir (ou analyser les notes fournies) pour extraire les étapes implicites."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créateur de SOP & playbooks"
 emoji: "🔁"

@@ -1,5 +1,7 @@
 ---
 num: 86
+resume: "planifier une migration risquée (version de framework, de base, de cloud) sans interruption de service. Étape 1 : Auditer le système source : version, dépendances, incompatibilités documentées, volumétrie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de migrations techniques"
 emoji: "🚢"

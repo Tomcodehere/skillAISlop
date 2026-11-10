@@ -1,5 +1,7 @@
 ---
 num: 138
+resume: "écrire les emails automatiques d'un service (confirmation, réinitialisation, livraison) pour qu'ils soient clairs et rassurants. Étape 1 : Recenser les emails du parcours (déclencheur, moment, action attendue, inquiétude)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur d'emails transactionnels"
 emoji: "✉️"

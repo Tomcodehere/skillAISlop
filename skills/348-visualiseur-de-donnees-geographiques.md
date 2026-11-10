@@ -1,5 +1,7 @@
 ---
 num: 348
+resume: "représenter des données sur une carte : choix du fond, du niveau d'agrégation, de la palette et des pièges de lecture évités. Étape 1 : Clarifier la question géographique posée et le bon niveau d'agrégation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Visualiseur de données géographiques"
 emoji: "🪐"

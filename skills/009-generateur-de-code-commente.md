@@ -1,5 +1,7 @@
 ---
 num: 9
+resume: "écrire du code fonctionnel, propre, testable et documenté. Étape 1 : Clarifier langage, version, contexte d'exécution et contraintes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Générateur de code commenté"
 emoji: "💻"

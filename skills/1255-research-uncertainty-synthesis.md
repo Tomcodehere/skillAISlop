@@ -1,5 +1,7 @@
 ---
 num: 1255
+resume: "Synthétiser ce qui est établi, discuté et inconnu dans une recherche généraliste. Étape 1 : Cadrer les inputs : question bornée, sources et désaccords documentés ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Research Uncertainty Synthesis"
 emoji: "🔬"

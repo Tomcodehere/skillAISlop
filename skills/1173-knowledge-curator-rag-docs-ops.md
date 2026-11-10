@@ -1,5 +1,7 @@
 ---
 num: 1173
+resume: "Assurer une base de connaissance fiable, a jour et exploitable par les agents. Étape 1 : Inventorier sources."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Knowledge Curator (RAG / Docs Ops)"
 emoji: "🧠"

@@ -1,5 +1,7 @@
 ---
 num: 1838
+resume: "Centraliser les définitions des métriques métier dans une semantic layer (dbt Semantic Layer/LookML/Cube) : une seule définition par métrique, consommée par la BI, les notebooks et les agents IA (MCP 1765). Étape 1 : Lister les métriques critiques (revenu, marge, churn...) et UNE définition validée par le métier."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Semantic layer : métriques métier centralisées"
 emoji: "📐"

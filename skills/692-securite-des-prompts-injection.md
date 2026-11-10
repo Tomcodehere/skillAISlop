@@ -1,5 +1,7 @@
 ---
 num: 692
+resume: "protéger une application IA contre l'injection de prompt et les fuites de données via des garde-fous testés. Étape 1 : Identifier les surfaces d'attaque : entrées utilisateur, documents ingérés, sorties d'outils, mémoire de l'agent."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sécurité des prompts & injection"
 emoji: "🧨"

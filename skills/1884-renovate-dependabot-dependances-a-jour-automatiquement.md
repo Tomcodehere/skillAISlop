@@ -1,5 +1,7 @@
 ---
 num: 1884
+resume: "Automatiser les mises à jour de dépendances (Renovate ou Dependabot) : PRs groupées, automerge des patchs/minor après CI verte (1413) + scan sécurité (1827), schedule hebdo, semaine lock avant release. Étape 1 : Renovate : renovate.json (extends config:recommended, packageRules par écosystème, automerge patch/minor si CI verte, schedule 'before 6am on monday'... en fait hebdo calme)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Renovate/Dependabot : dépendances à jour automatiquement"
 emoji: "🤖"

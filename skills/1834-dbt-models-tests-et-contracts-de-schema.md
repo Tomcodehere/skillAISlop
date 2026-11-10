@@ -1,5 +1,7 @@
 ---
 num: 1834
+resume: "Modéliser avec dbt : models SQL, tests intégrés + custom (métier), contracts de schéma (schema.yml avec data_type, enforcement à l'exécution), docs auto, snapshots SCD2 — dbt Fusion pour la vitesse. Étape 1 : Models : stg_* (clean) -supérieur à int_* -supérieur à f_* (marts), ref() entre eux."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "dbt : models, tests et contracts de schéma"
 emoji: "🧱"

@@ -1,5 +1,7 @@
 ---
 num: 1118
+resume: "Gérer schéma BDD via EF Core Code First : migrations, relations, indexes, optimisation requêtes (N+1). Étape 1 : Définir entités :"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Entity Framework Core Migrations"
 emoji: "💻"

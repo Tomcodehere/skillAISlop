@@ -1,5 +1,7 @@
 ---
 num: 1770
+resume: "Situer Rust dans le noyau Linux en 2027 : plus experimental depuis dec. 2025, 496 fichiers / 120 019 SLOC au kernel 7.3 (x24,6 vs 6.1), premiers drivers livrees (Binder, NVMe, Asahi, Nova), avec la doctrine Torvalds : un ajout, pas un remplacement. Étape 1 : Verifier la version du noyau : flag experimental retire en dec. 2025, Rust utilisable pour les nouveaux drivers depuis 6.8."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rust dans le noyau Linux : bilan et trajectorie"
 emoji: "🧀"

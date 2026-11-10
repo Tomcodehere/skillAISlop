@@ -1,5 +1,7 @@
 ---
 num: 1666
+resume: "Monter un modern data stack léger en 2027 : dlt (1664) pour ingérer, DuckDB/MotherDuck (1660/1661) pour stocker, dbt (350) pour transformer en SQL versionné, Apache Superset (107) pour le BI — sans infrastructure lourde, pour PME/équipe data. Étape 1 : dlt (1664) : pipelines d'ingestion vers DuckDB/MotherDuck (1661), incremental, schéma auto (1461)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Modern data stack -27 : dlt + DuckDB + dbt + Superset"
 emoji: "🧱"

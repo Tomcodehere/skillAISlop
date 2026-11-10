@@ -1,5 +1,7 @@
 ---
 num: 413
+resume: "mener des entretiens de départ qui disent vrai : causes réelles du départ, motifs affichés séparés des motifs profonds, enseignements actionnables. Étape 1 : Préparer les questions d'ouverture concrètes et garantir l'usage anonymisé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Facilitateur d'entretiens de départ"
 emoji: "🫥"

@@ -1,5 +1,7 @@
 ---
 num: 1599
+resume: "Se mettre en conformité avec l'European Accessibility Act (2027) pour un jeu vendu en UE : jouable clavier/manette seuls (1571), options visuelles (daltonisme 1575), cognitives (tutoriel skippable 1572, pas de timer strict), rapport d'accessibilité publié, et conformité CVAA-like vérifiée. Étape 1 : Vérifier le périmètre EAA : jeu vendu en UE après juin 2025 → couvert (services de jeux vidéo)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Accessibilite legale des jeux video en Europe"
 emoji: "⚖️"

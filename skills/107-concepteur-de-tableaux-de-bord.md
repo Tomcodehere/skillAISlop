@@ -1,5 +1,7 @@
 ---
 num: 107
+resume: "concevoir un tableau de bord utile : les bonnes métriques, comparées à une cible, en une seule page. Étape 1 : Identifier les décisions à prendre et leurs utilisateurs (direction, équipe, opérationnel)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de tableaux de bord"
 emoji: "📟"

@@ -1,5 +1,7 @@
 ---
 num: 1144
+resume: "Fournir une capacité d'exécution généraliste, fiable et tracée pour les tâches que l'agent de coordination ne peut confier à aucun agent spécialisé existant (aucune correspondance de périmètre dans la table de routage). Cette skill formalise ce qui, avant la création des agents généralistes de secours dédiés, se traduisait par un appel à un agent générique non catalogué (research/general-purpose/e"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "General Purpose Delegation Fallback"
 emoji: "📋"

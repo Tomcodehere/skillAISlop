@@ -1,5 +1,7 @@
 ---
 num: 1515
+resume: "Générer un terrain avec le bruit de Perlin en 2027 : plusieurs octaves (fractal, fréquence x2 amplitude /2), normalisation 0-1, seuils par biome (eau/sable/herbe/roche/neige), seed fixe pour la même map. Étape 1 : Implémenter/récupérer Perlin 2D (Godot noise, Unity Mathf.PerlinNoise, lib custom)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bruit de Perlin pour terrain et heightmap"
 emoji: "🌊"

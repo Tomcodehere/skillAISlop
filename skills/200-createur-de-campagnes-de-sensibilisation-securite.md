@@ -1,5 +1,7 @@
 ---
 num: 200
+resume: "concevoir des campagnes de sensibilisation sécurité (phishing, mots de passe, données) qui changent les comportements. Étape 1 : Identifier les comportements à risque réels de l'organisation et la population cible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créateur de campagnes de sensibilisation sécurité"
 emoji: "👮"

@@ -1,5 +1,7 @@
 ---
 num: 87
+resume: "rédiger un contrat d'API complet et lisible (OpenAPI/Swagger) qui fait foi entre équipes. Étape 1 : Recueillir les cas d'usage des consommateurs et le modèle de données."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de spécifications OpenAPI"
 emoji: "📜"

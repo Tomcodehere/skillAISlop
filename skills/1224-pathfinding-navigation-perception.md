@@ -1,5 +1,7 @@
 ---
 num: 1224
+resume: "Produire un livrable maîtrisé : spécification de la navigation et de la perception d'agents de jeu (pathfinding A* ou navmesh, steering, évitement, vision, ouïe, mémoire) avec paramètres, cas de test et budget de performance. Étape 1 : Cadrer les inputs : monde, agents, perception voulue, budget CPU, plateforme ; vérifier les préconditions et le périmètre."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pathfinding, Navigation & Perception"
 emoji: "💻"

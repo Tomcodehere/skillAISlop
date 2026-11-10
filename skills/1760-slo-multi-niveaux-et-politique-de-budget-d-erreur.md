@@ -1,5 +1,7 @@
 ---
 num: 1760
+resume: "Mettre en place des SLO multi-niveaux (interne/externe, par parcours critique) avec une politique d'error budget explicite : seuils, conséquences (gel des livraisons, focus fiabilité), et revue mensuelle du budget consommé. Étape 1 : Identifier les 3-5 parcours critiques utilisateurs (paiement, auth, lecture)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SLO multi-niveaux et politique de budget d'erreur"
 emoji: "🎯"

@@ -1,5 +1,7 @@
 ---
 num: 1319
+resume: "obtenir un programme sportif personnalisé généré par IA (d'après ses données wearable) avec suivi de la récupération, en complément d'un coach humain si besoin. Étape 1 : Profiler : niveau, objectif, contraintes (temps, équipement), données wearable des 4 dernières semaines."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach sportif personnel IA"
 emoji: "🏋️"

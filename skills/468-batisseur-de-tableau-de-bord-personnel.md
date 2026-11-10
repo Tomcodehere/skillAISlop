@@ -1,5 +1,7 @@
 ---
 num: 468
+resume: "bâtir un tableau de bord personnel : 5-8 indicateurs qui comptent vraiment, suivi léger et revue hebdomadaire utile. Étape 1 : Identifier les 5-8 indicateurs qui éclairent de vraies décisions de vie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bâtisseur de tableau de bord personnel"
 emoji: "🍭"

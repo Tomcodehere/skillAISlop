@@ -1,5 +1,7 @@
 ---
 num: 587
+resume: "structurer la logistique d'une boutique en ligne : stock fiable, expédition fluide et retours gérés sans hémorragie. Étape 1 : Fiabiliser l'inventaire par comptage et traçage des écarts."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Organisateur logistique e-commerce"
 emoji: "📦"

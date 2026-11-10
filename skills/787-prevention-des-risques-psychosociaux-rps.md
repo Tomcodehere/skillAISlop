@@ -1,5 +1,7 @@
 ---
 num: 787
+resume: "prévenir les risques psychosociaux en entreprise : identifier les facteurs (charge, autonomie, soutien), agir, documenter dans le DUERP. Étape 1 : Évaluer les 6 facteurs de risque via le DUERP et une enquête anonyme régulière."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prévention des risques psychosociaux (RPS)"
 emoji: "🧘"

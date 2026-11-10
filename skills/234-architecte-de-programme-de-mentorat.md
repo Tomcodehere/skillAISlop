@@ -1,5 +1,7 @@
 ---
 num: 234
+resume: "structurer un programme de mentorat d'entreprise : appariement, cadre, jalons, évaluation. Étape 1 : Définir les objectifs du programme, le cadre et les critères d'appariement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte de programme de mentorat"
 emoji: "🌳"

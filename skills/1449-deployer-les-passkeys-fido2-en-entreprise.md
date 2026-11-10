@@ -1,5 +1,7 @@
 ---
 num: 1449
+resume: "Déployer les passkeys (FIDO2) en entreprise en 2027 : enregistrement des clés (YubiKey ou plateforme), phishing-resistant par design, politique de secours (codes de récupération), et plan de compatibilité avec les apps legacy. Étape 1 : Vérifier la compatibilité des apps critiques (support WebAuthn ?)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Deployer les passkeys (FIDO2) en entreprise"
 emoji: "🔑"

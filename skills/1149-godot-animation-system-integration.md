@@ -1,5 +1,7 @@
 ---
 num: 1149
+resume: "Produire un livrable maîtrisé : intégration d'animations dans Godot 4 (AnimationPlayer, AnimationTree, Skeleton) avec scène de test. Étape 1 : Cadrer les inputs : assets animés importés, version de Godot, états et transitions voulus, contraintes de performance ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Godot Animation System Integration"
 emoji: "💻"

@@ -1,5 +1,7 @@
 ---
 num: 539
+resume: "organiser et automatiser un coffre de notes Obsidian : structure, liens, plugins utiles et routines de maintenance. Étape 1 : Diagnostiquer le coffre actuel et son usage réel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Pilote de vault Obsidian"
 emoji: "🗿"

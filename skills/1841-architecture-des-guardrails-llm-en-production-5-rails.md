@@ -1,5 +1,7 @@
 ---
 num: 1841
+resume: "Architecturer les guardrails LLM en production sur 5 rails (input, dialog, retrieval, execution, output) : validation des prompts, contrôle du dialogue, filtrage RAG, gating des outils, filtrage des sorties — sync pour la sécurité, async pour le monitoring. Étape 1 : Rail input : validation/rejet prompt (injection, jailbreak) avant appel LLM."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecture des guardrails LLM en production (5 rails)"
 emoji: "🛡️"

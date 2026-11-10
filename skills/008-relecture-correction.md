@@ -1,5 +1,7 @@
 ---
 num: 8
+resume: "corriger orthographe, grammaire, style et cohérence sans reformuler à outrance. Étape 1 : Demander le niveau d'intervention (léger / moyen / réécriture)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Relecture & correction"
 emoji: "🔍"

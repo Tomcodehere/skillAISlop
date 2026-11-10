@@ -1,5 +1,7 @@
 ---
 num: 1179
+resume: "Localiser les causes d'une latence IA excessive avant de recommander une optimisation. Étape 1 : Cadrer les inputs : traces horodatées, volumes, concurrence et objectifs de latence ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "LLM Latency Bottleneck Measurement"
 emoji: "🧠"

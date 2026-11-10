@@ -1,5 +1,7 @@
 ---
 num: 429
+resume: "prioriser un portefeuille trop chargé : critères explicites, arbitrages assumés, projets arrêtés et capacité protégée. Étape 1 : Poser les critères d'arbitrage pondérés et la capacité réelle disponible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Priorisateur de portefeuille de projets"
 emoji: "🪁"

@@ -1,5 +1,7 @@
 ---
 num: 160
+resume: "spécifier et produire des effets sonores précis (bruitages) pour le montage vidéo, le jeu ou le podcast. Étape 1 : Lister les besoins sonores du projet avec durées et intensités."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créateur d'effets sonores"
 emoji: "🎵"

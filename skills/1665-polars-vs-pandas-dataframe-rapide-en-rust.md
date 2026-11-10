@@ -1,5 +1,7 @@
 ---
 num: 1665
+resume: "Choisir Polars en 2027 pour le data processing local : DataFrame en Rust, multi-cœurs, lazy (optimise la requête avant exécution), lecture native Parquet/DuckDB (1660) — vs pandas (mono-thread, lent au-delà de 1 Go) quand l'écosystème ML le permet. Étape 1 : Installer polars, lire : pl.read_parquet('s3://...') (streaming, pas tout en RAM), pl.scan_parquet (lazy)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Polars vs pandas : DataFrame rapide en Rust"
 emoji: "🦅"

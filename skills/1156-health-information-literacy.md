@@ -1,5 +1,7 @@
 ---
 num: 1156
+resume: "Fournir une explication accessible et prudente d'informations générales sur la santé, en distinguant les connaissances générales des décisions cliniques individuelles. Étape 1 : Reformuler la demande pour vérifier qu'elle est informative et non diagnostique."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Health Information Literacy"
 emoji: "🎨"

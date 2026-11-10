@@ -1,5 +1,7 @@
 ---
 num: 618
+resume: "rendre visible la charge mentale d'un foyer et la répartir équitablement entre ses membres. Étape 1 : Inventorier la charge mentale : lister toutes les tâches cognitives du foyer, visibles et invisibles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Charge mentale"
 emoji: "🧠"

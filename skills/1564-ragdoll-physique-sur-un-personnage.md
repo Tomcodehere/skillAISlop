@@ -1,5 +1,7 @@
 ---
 num: 1564
+resume: "Créer un ragdoll en 2027 : à la mort/assommage, désactiver l'animator (1560) et activer les rigidbodies+joints (CharacterJoint) des 11 parties du corps, appliquer la dernière force reçue (explosion → AddExplosionForce), le corps s'effondre. Étape 1 : Préparer le ragdoll dans l'éditeur : rigidbody sur chaque membre (masse selon taille), CharacterJoint (hanche→torse, torse→tête, etc.), limites d'ang"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ragdoll physique sur un personnage"
 emoji: "🧸"

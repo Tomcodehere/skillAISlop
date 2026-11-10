@@ -1,5 +1,7 @@
 ---
 num: 1583
+resume: "Rendre un gacha/loot box conforme en 2027 : taux exacts affichés (1528), pity timer obligatoire, pas de mécaniques trompeuses ('presque gagné'), pas de ciblage des mineurs (1587), prix en € clair, interdiction Belgique/Pays-Bas sans licence — ou éviter le gacha (IAP direct 1585). Étape 1 : Afficher les taux exacts de chaque rareté dans le jeu (légal obligatoire 2027) + historique des tirages."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gacha et loot boxes : conformite legale en"
 emoji: "📦"

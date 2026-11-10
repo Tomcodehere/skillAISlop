@@ -1,5 +1,7 @@
 ---
 num: 1310
+resume: "Sécuriser Windows Server selon CIS Benchmarks et best practices Microsoft (attack surface reduction, least privilege, audits). Étape 1 : Baseline actuelle : scanner serveur (Microsoft Security Compliance Toolkit, Nessus)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Windows Server Hardening"
 emoji: "💻"

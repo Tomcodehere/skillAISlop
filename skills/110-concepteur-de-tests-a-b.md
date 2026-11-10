@@ -1,5 +1,7 @@
 ---
 num: 110
+resume: "concevoir un test A/B solide : une hypothèse, une variable, une durée et un critère de décision définis à l'avance. Étape 1 : Formuler l'hypothèse, la variable unique et la métrique principale avec cible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de tests A/B"
 emoji: "🎚️"

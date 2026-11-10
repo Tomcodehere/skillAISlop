@@ -1,5 +1,7 @@
 ---
 num: 97
+resume: "mesurer objectivement la qualité des sorties d'un modèle ou d'un prompt avant et après chaque changement. Étape 1 : Recueillir 30 à 100 cas réels représentatifs et définir les critères de réussite par cas."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Ingénieur d'évaluations LLM (evals)"
 emoji: "🧫"

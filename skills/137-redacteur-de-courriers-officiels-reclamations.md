@@ -1,5 +1,7 @@
 ---
 num: 137
+resume: "rédiger un courrier formel efficace (réclamation, contestation, demande administrative) qui obtient une réponse. Étape 1 : Recueillir les faits datés, les références (contrat, facture, loi) et l'objectif visé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de courriers officiels & réclamations"
 emoji: "📮"

@@ -1,5 +1,7 @@
 ---
 num: 1561
+resume: "Créer un blend tree 2D en 2027 : paramètres X/Y (-1..1) selon l'input (et caméra pour la 3D, 1506), 9 clips (idle + 8 directions), interpolation automatique du mélange — déplacement fluide sans à-coups. Étape 1 : Créer Blend Tree 2D Freeform, params X (strafe) et Y (forward), seuils -1, 0, 1."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Blend trees : mouvement multidirectionnel fluide"
 emoji: "🌿"

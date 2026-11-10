@@ -1,5 +1,7 @@
 ---
 num: 283
+resume: "décliner un visuel ou une idée publicitaire en variantes A/B : accroches, visuels et appels à l'action différenciés pour tester ce qui convertit. Étape 1 : Poser l'hypothèse : quel levier testé (accroche, visuel, CTA, audience)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Générateur de variantes créatives publicitaires"
 emoji: "🎠"

@@ -1,5 +1,7 @@
 ---
 num: 427
+resume: "rédiger un business case qui aide à décider : problème chiffré, options comparées, coûts complets, risques et recommandation assumée. Étape 1 : Chiffrer le problème et le coût de l'inaction."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de business cases"
 emoji: "🍝"

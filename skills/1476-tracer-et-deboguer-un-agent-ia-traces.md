@@ -1,5 +1,7 @@
 ---
 num: 1476
+resume: "Tracer entièrement un agent IA en 2027 (Langfuse/LangSmith/Phoenix ou OpenTelemetry 713) : à chaque étape logger le prompt, les appels d'outils (args), les réponses, tokens/coût/durée — puis rechercher et rejouer une trace pour déboguer. Étape 1 : Instrumenter : chaque appel LLM = span (prompt, réponse, tokens, coût, latence)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tracer et deboguer un agent IA (traces)"
 emoji: "🔍"

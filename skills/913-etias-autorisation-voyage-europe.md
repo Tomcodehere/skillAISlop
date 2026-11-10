@@ -1,5 +1,7 @@
 ---
 num: 913
+resume: "préparer un voyage en Europe en 2027 : comprendre l'ETIAS (pré-autorisation payante 20 € pour les voyageurs dispensés de visa, lancement attendu en 2027 sans date fixe) et l'EES (contrôle biométrique déjà en vigueur depuis avril 2026). Étape 1 : Clarifier « ETIAS 2027 : autorisation voyage Europe »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "ETIAS : autorisation voyage Europe"
 emoji: "✈️"

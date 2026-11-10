@@ -1,5 +1,7 @@
 ---
 num: 715
+resume: "découvrir, évaluer et installer des skills d'agent depuis les registres (skills.sh, ClawHub) en vérifiant leur sécurité. Étape 1 : Chercher dans les registres officiels (skills.sh, ClawHub) et filtrer : pertinence, installs, activité récente."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Skills dynamiques : découverte & installation (find-skills)"
 emoji: "🧩"

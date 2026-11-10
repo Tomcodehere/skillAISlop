@@ -1,5 +1,7 @@
 ---
 num: 1512
+resume: "Construire des niveaux 2D sur tilemap en 2027 : grille 16/32 px, autotiling par règles de bits (47 tuiles selon les 8 voisins), peinture dans l'éditeur, collision auto par tuile, 3 couches (sol/décor/avant-plan avec parallax). Étape 1 : Préparer le tileset avec les 47 tuiles d'autotiling (bords, coins, centre)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tilemap et autotiling par regles de bits"
 emoji: "🧱"

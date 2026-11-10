@@ -1,5 +1,7 @@
 ---
 num: 207
+resume: "rédiger les politiques internes (télétravail, congés, matériel, usage des outils) claires, applicables et défendables. Étape 1 : Recueillir les situations réelles à encadrer et les règles voulues par la direction."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de politiques internes RH"
 emoji: "🪧"

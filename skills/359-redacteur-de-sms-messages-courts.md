@@ -1,5 +1,7 @@
 ---
 num: 359
+resume: "écrire des SMS et messages courts qui convertissent : utile, bref, actionnable, avec consentement respecté. Étape 1 : Définir l'unique action attendue et le contexte de réception."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de SMS & messages courts"
 emoji: "🌴"

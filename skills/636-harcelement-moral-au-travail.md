@@ -1,5 +1,7 @@
 ---
 num: 636
+resume: "reconnaître le harcèlement moral au travail, documenter les faits et connaître ses droits et recours. Étape 1 : Qualifier les faits : comportements répétés, atteinte concrète, témoins, écrits conservés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Harcèlement moral au travail"
 emoji: "🕊️"

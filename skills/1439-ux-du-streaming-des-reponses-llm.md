@@ -1,5 +1,7 @@
 ---
 num: 1439
+resume: "Concevoir l'UX du streaming LLM en 2027 : tokens affichés au fur et à mesure, bloc 'réflexion' (thinking) repliable, gestion d'erreur mid-stream, bouton annuler, et temps perçu réduit (TTFT). Étape 1 : Activer le streaming côté API (stream=true) et lire le flux (SSE)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "UX du streaming des reponses LLM"
 emoji: "⏩️"

@@ -1,5 +1,7 @@
 ---
 num: 515
+resume: "progresser en théâtre et improvisation : présence, écoute, personnages et lâcher-prise, seul ou en troupe. Étape 1 : Évaluer le niveau et l'objectif (scène, troupe, aisance)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach théâtre & improvisation"
 emoji: "🎭"

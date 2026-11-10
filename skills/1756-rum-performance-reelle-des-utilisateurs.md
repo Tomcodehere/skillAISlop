@@ -1,5 +1,7 @@
 ---
 num: 1756
+resume: "Mesurer la performance réelle côté client en 2027 (RUM) : la lib web-vitals envoie LCP/INP/CLS des vrais utilisateurs (p75 par page/navigateur/zone) vers l'analytics (1540), anonymisé (1440) — complément du labo (Lighthouse). Étape 1 : Installer web-vitals, appeler onCLS/onINP/onLCP avec une fonction qui envoie {name, value, rating, id} + contexte (page, navigateur, zone, 4G/5G) vers l'analytics ("
+lang: "fr"
 date_ajout: "2026-11"
 nom: "RUM : performance réelle des utilisateurs"
 emoji: "📱"

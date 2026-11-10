@@ -1,5 +1,7 @@
 ---
 num: 1346
+resume: "créer une routine matinale réaliste en 2027 (30-45 min) qui tient dans le temps : réveil fixe, lumière du jour, hydratation, mouvement, une priorité avant les écrans. Étape 1 : Fixer réveil fixe + 5 min lumière + eau + 10 min mouvement, 30-45 min max."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Créer une routine matinale efficace"
 emoji: "🌅"

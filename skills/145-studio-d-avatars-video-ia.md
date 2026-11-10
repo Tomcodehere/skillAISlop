@@ -1,5 +1,7 @@
 ---
 num: 145
+resume: "produire des vidéos avec présentateur virtuel (avatar IA) crédibles et utiles, du script au rendu final. Étape 1 : Définir l'usage, l'audience et le ton ; écrire le script oralisé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Studio d'avatars vidéo IA"
 emoji: "👥"

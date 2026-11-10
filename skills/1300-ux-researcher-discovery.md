@@ -1,5 +1,7 @@
 ---
 num: 1300
+resume: "Fonder les decisions produit sur des insights utilisateurs verifies. Étape 1 : Cadrer objectifs de recherche."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "UX Researcher (Discovery)"
 emoji: "📦"

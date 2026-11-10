@@ -1,5 +1,7 @@
 ---
 num: 184
+resume: "trier, prioriser et router les tickets de support selon la gravité, l'impact et le délai contractuel. Étape 1 : Définir la grille de tri (gravité × impact × SLA) et les règles de routage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Trieur de tickets support"
 emoji: "🚦"

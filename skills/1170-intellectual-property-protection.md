@@ -1,5 +1,7 @@
 ---
 num: 1170
+resume: "Protéger et gérer les actifs de propriété intellectuelle (marques, brevets, droits d'auteur, secrets d'affaires) et sécuriser l'usage de licences open source dans les projets de l'organisation. Étape 1 : Identifier la protégeabilité de l'actif (marque, brevet, droit d'auteur, secret d'affaires)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Intellectual Property Protection"
 emoji: "🔬"

@@ -1,5 +1,7 @@
 ---
 num: 199
+resume: "rédiger les procédures opérationnelles de réponse à incident de sécurité, prêtes à exécuter sous pression. Étape 1 : Prioriser les scénarios d'incident selon la probabilité et l'impact."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de runbooks de sécurité"
 emoji: "🧯"

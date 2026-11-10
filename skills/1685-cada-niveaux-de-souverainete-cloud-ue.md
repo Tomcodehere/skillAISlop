@@ -1,5 +1,7 @@
 ---
 num: 1685
+resume: "Comprendre le CADA en 2027 (EU Cloud and AI Development Act, proposé 12 juin 2026) : niveaux d'assurance de souveraineté que les fournisseurs cloud devront satisfaire selon la sensibilité des données, et évaluation obligatoire du risque de souveraineté pour les marchés publics sensibles (banque, énergie, santé). Étape 1 : Classer les données : publiques, internes, sensibles (santé/finance), souver"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "CADA : niveaux de souveraineté cloud UE"
 emoji: "🏛"

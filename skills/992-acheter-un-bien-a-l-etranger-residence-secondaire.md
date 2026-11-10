@@ -1,5 +1,7 @@
 ---
 num: 992
+resume: "acheter un bien immobilier à l'étranger en 2027 (résidence secondaire) : notaire local obligatoire, financement, fiscalité du pays et de la France (non-résident), gestion à distance. Étape 1 : Notaire/avocat local obligatoire dans la plupart des pays ; visiter plusieurs fois, vérifier charges copro, DPE local, travaux."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Acheter un bien à l'étranger (résidence secondaire)"
 emoji: "🏝️"

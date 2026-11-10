@@ -1,5 +1,7 @@
 ---
 num: 1432
+resume: "Construire une équipe d'agents spécialisés en 2027 : un orchestrateur analyse la tâche et délègue à l'expert compétent (recherche/code/rédaction/review), qui rend un livrable structuré. Étape 1 : Définir l'orchestrateur (analyse la demande, choisit l'expert, agrège)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Equipe d'agents specialises par domaine"
 emoji: "👥"

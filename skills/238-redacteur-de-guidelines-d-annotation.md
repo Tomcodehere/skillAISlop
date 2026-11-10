@@ -1,5 +1,7 @@
 ---
 num: 238
+resume: "rédiger des consignes d'annotation de données claires qui donnent des annotations cohérentes entre annotateurs. Étape 1 : Définir les catégories avec définitions, exemples et cas limites tranchés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de guidelines d'annotation"
 emoji: "🖍️"

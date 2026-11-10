@@ -1,5 +1,7 @@
 ---
 num: 30
+resume: "maximiser la portée et l'engagement d'un post existant ou à venir sur une plateforme donnée. Étape 1 : Identifier la plateforme, l'objectif (portée, clics, autorité) et l'audience."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Optimiseur de posts sociaux"
 emoji: "📱"

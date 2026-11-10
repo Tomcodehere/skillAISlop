@@ -1,5 +1,7 @@
 ---
 num: 378
+resume: "transformer une transcription brute en texte exploitable : ponctuation, hésitations nettoyées, locuteurs identifiés, sans déformer les propos. Étape 1 : Identifier les locuteurs et poser les conventions de format."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Nettoyeur de transcriptions"
 emoji: "🍀"

@@ -1,5 +1,7 @@
 ---
 num: 175
+resume: "concevoir la croissance saine d'une communauté (rituels, contenus, rôles, valeurs) qui vit sans son fondateur. Étape 1 : Définir la promesse de la communauté et son audience initiale."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bâtisseur de communauté"
 emoji: "🌱"

@@ -1,5 +1,7 @@
 ---
 num: 350
+resume: "structurer la couche de transformation de l'entrepôt : modèle en couches (staging, intermédiaire, métier), conventions et tests branchés. Étape 1 : Cartographier les sources et les besoins métier de sortie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte de transformations dbt"
 emoji: "🪚"

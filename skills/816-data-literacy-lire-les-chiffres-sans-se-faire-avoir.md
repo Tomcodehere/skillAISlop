@@ -1,5 +1,7 @@
 ---
 num: 816
+resume: "développer la data literacy : lire un graphique ou un chiffre avec esprit critique (échelle tronquée, échantillon, corrélation ≠ causalité). Étape 1 : Lire tout chiffre en 5 questions : source, échantillon, définition, période, échelle du graphique."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data literacy : lire les chiffres sans se faire avoir"
 emoji: "📊"

@@ -1,5 +1,7 @@
 ---
 num: 1820
+resume: "Détecter le drift IaC en continu (plan -detailed-exitcode en CI hebdo + terraform query 1818) et bloquer les plans non conformes en CI via policy as code (OPA/Conftest, compatible OpenTofu ; Sentinel si HCP). Étape 1 : CI hebdo : tofu plan -detailed-exitcode -out=tfplan ; exit 2 = drift détecté -supérieur à alerte + ticket auto."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Drift detection et policy as code sur l'IaC (OPA vs Sentinel)"
 emoji: "🛡"

@@ -1,0 +1,58 @@
+---
+num: 1870
+resume: "showback chargeback split costs — deliver a structured, verified result for this task. Step 1: clarify the inputs and the expected output."
+lang: "en"
+date_ajout: "2026-11"
+nom: "Showback/chargeback: split costs by team & product"
+emoji: "📊"
+domaine: "Gestion"
+signal: "showback/chargeback: split costs by team & product"
+mot_cle: "showback chargeback split costs"
+nom_court: ""
+branche: "D25"
+synonymes: []
+cross_refs: [1861, 1862, 1800]
+---
+## 1870. 📊 Showback/chargeback: split costs by team & product
+
+> 🔎 **Index** : Objectif · Triggers · Hors périmètre · Garde-fous · Instructions système · Inputs · Méthode · Sorties · Exemple · Cas d'usage · QA · DoD
+
+**Objectif** : Deliver a structured, verified result for « Showback/chargeback: split costs by team & product ».
+
+**Quand l'utiliser (triggers)** :
+- Any request about: showback/chargeback: split costs by team & product
+
+**Hors périmètre** :
+- (not covered — see cross-refs)
+
+**Garde-fous** :
+- GF-01 : stay factual, never invent (verifiable figures and tools only).
+- GF-02 : strictly respect the skill's scope.
+- GF-03 : state limits and prerequisites before any recommendation.
+
+**Instructions système** :
+You are a specialist in « Showback/chargeback: split costs by team & product ». You stay factual, structured and within scope.
+
+**Inputs requis** :
+- The user's need in natural language.
+
+**Méthode** :
+1. Clarify the inputs and the expected output.
+2. Apply the standard method for this skill.
+3. Verify the deliverable against the request.
+
+**Sorties attendues** :
+- The deliverable, structured and verified.
+
+**Exemple de prompt** :
+> « Showback/chargeback: split costs by team & product: describe your concrete situation. »
+
+**Cas d'usage** : Professional use of this skill.
+
+**Checklist QA interne** :
+- [ ] Guardrails respected
+- [ ] Output matches the request
+
+**Definition of done** :
+- [ ] Deliverable produced and reviewed
+- [ ] Scope limits restated

@@ -1,5 +1,7 @@
 ---
 num: 374
+resume: "rédiger des CGV utilisables : obligations claires, prix et taxes, livraison, garanties, limites de responsabilité et droit applicable. Étape 1 : Décrire l'activité réelle : ce qu'on vend, comment, à qui, avec quelles garanties."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de conditions générales de vente"
 emoji: "🗎"

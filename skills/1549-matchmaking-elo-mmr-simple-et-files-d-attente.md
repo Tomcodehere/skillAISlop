@@ -1,5 +1,7 @@
 ---
 num: 1549
+resume: "Implémenter un matchmaking en 2027 : MMR par joueur (départ 1000, +25/-25 selon résultat et écart), file d'attente qui élargit la plage acceptée avec le temps (±100 à 30 s, ±400 à 2 min), match trouvé inférieur à 2 min, évitement des smurfs (1543). Étape 1 : File d'attente : rejoindre avec {mmr, région, t0}; toutes les secondes, chercher un groupe de 10 joueurs (2 équipes de 5) avec max-min MMR in"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Matchmaking : ELO/MMR simple et files d'attente"
 emoji: "🎯"

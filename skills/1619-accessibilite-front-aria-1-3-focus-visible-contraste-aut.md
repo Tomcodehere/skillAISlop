@@ -1,5 +1,7 @@
 ---
 num: 1619
+resume: "Rendre un front accessible en 2027 (WCAG 2.2 AA+) : :focus-visible (focus clavier, pas clic), prefers-contrast:more (contraste renforcé auto), ARIA 1.3, réduction de mouvement (1495), tests NVDA/VoiceOver sur chaque composant. Étape 1 : Focus : remplacer :focus par :focus-visible (anneau clavier seul), outline clair (2-3 px, offset)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Accessibilite front : ARIA 1.3, focus-visible, contraste auto"
 emoji: "♿"

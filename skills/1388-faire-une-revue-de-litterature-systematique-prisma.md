@@ -1,5 +1,7 @@
 ---
 num: 1388
+resume: "Mener une revue de littérature systématique conforme PRISMA : protocole PICO, recherche multi-bases documentée, sélection transparente avec diagramme PRISMA, extraction standardisée et synthèse des preuves. Étape 1 : Rédiger le protocole : question PICO, critères d'inclusion/exclusion, bases, stratégie de recherche."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Faire une revue de litterature systematique (PRISMA)"
 emoji: "🧾"

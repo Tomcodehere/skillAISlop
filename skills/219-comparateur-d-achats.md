@@ -1,5 +1,7 @@
 ---
 num: 219
+resume: "comparer des options d'achat (produits, services, abonnements) sur des critères objectifs pondérés selon l'usage réel. Étape 1 : Définir l'usage réel, le budget et les critères pondérés par importance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Comparateur d'achats"
 emoji: "🛷"

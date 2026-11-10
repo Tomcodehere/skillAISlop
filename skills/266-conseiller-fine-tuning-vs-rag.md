@@ -1,5 +1,7 @@
 ---
 num: 266
+resume: "choisir entre RAG, fine-tuning, prompting avancé ou mélange selon le besoin réel et le budget, avec un plan d'implémentation. Étape 1 : Classifier le besoin : connaissance, style, compétence, comportement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Conseiller fine-tuning vs RAG"
 emoji: "🌀"

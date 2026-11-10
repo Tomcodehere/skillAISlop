@@ -1,5 +1,7 @@
 ---
 num: 288
+resume: "concevoir le parcours d'un agent vocal ou serveur IVR : arbres de décision, scripts de dialogues, gestion des silences et transfert vers l'humain. Étape 1 : Cartographier les intentions d'appel et leur fréquence réelle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur d'agent vocal IVR"
 emoji: "🎺"

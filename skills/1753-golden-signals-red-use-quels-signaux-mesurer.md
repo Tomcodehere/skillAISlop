@@ -1,5 +1,7 @@
 ---
 num: 1753
+resume: "Choisir les bons signaux d'observabilité en 2027 : Golden Signals (latence, trafic, erreurs, saturation — vue service), RED (Rate/Errors/Duration — par endpoint), USE (Utilization/Saturation/Errors — par ressource) — avant toute métrique custom. Étape 1 : Golden Signals (service) : latence (p50/p95/p99 1416), trafic (req/s), erreurs (taux 5xx), saturation (CPU/mémoire/file d'attente)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Golden signals + RED + USE : quels signaux mesurer"
 emoji: "📊"

@@ -1,5 +1,7 @@
 ---
 num: 152
+resume: "écrire un brief de shooting (photo ou vidéo) assez précis pour qu'un exécutant produise sans question supplémentaire. Étape 1 : Cadrer la campagne : message, audience, canaux de diffusion et contraintes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Briefeur de direction artistique"
 emoji: "📸"

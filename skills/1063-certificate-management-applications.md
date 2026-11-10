@@ -1,5 +1,7 @@
 ---
 num: 1063
+resume: "Maîtriser la gestion complète des certificats SSL/TLS pour applications d'entreprise (Jira, Gitlab, ServiceNow, Confluence, etc.) : génération CSR, installation certificats, configuration HTTPS, renouvellement automatique, troubleshooting certificats expirés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Certificate Management Applications"
 emoji: "💻"

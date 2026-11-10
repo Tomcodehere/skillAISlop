@@ -1,5 +1,7 @@
 ---
 num: 1686
+resume: "Choisir un fournisseur certifié Gaia-X niveau 3 en 2027 (siège UE, opéré sous droit européen, hors CLOUD Act US) pour les données sensibles : vérifier le niveau via le Digital Clearing House (GXDCH), rejoindre un espace de données sectoriel (180+ en 2026 : santé, auto, énergie). Étape 1 : Vérifier le niveau du fournisseur sur le registre GXDCH (pas juste le logo) : niveau 3 = siège UE + droit UE +"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gaia-X niveau 3 : souveraineté pleine vs CLOUD Act"
 emoji: "🇪🇺"

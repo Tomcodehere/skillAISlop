@@ -1,5 +1,7 @@
 ---
 num: 573
+resume: "écrire une chanson complète : paroles sincères, structure efficace et mélodie chantable, du premier couplet au refrain qui reste. Étape 1 : Poser la phrase vraie et la structure de la chanson."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auteur-compositeur de chansons"
 emoji: "🎸"

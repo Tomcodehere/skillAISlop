@@ -1,5 +1,7 @@
 ---
 num: 1257
+resume: "Préparer un diagnostic SELinux sans désactiver arbitrairement la protection. Étape 1 : Cadrer les inputs : version rhel, contexte de service, événements avc et opérations refusées ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "RHEL SELinux Diagnosis"
 emoji: "💻"

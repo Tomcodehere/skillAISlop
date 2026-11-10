@@ -1,5 +1,7 @@
 ---
 num: 833
+resume: "changer d'assurance de crédit immobilier (loi Lemoine : résiliation à tout moment, sans frais, à garanties équivalentes). Étape 1 : Comparer offres (TAEG, exclusions, franchises) et vérifier l'équivalence des garanties (décès, PTIA, IPT, IP)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Délégation d'assurance emprunteur (loi Lemoine)"
 emoji: "🏦"

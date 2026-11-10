@@ -1,5 +1,7 @@
 ---
 num: 443
+resume: "rédiger des CGU et mentions légales qui protègent : obligations de l'utilisateur, droits et limits de responsabilité, blocs obligatoires complets et langage lisible. Étape 1 : Décrire le service réel, ses usages et son public (B2C ou B2B)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de CGU & mentions légales"
 emoji: "📵"

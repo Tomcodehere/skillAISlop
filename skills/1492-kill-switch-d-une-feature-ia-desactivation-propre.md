@@ -1,5 +1,7 @@
 ---
 num: 1492
+resume: "Prévoir le kill switch d'une feature IA en 2027 : flag global (couper en inférieur à 1 min sans déploiement), vidage propre des files, message clair aux utilisateurs, conservation des données, et post-mortem si coupure longue. Étape 1 : Flag 'ia_enabled' global (désactivation inférieur à 1 min, testé en staging)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Kill switch d'une feature IA (desactivation propre)"
 emoji: "🔴"

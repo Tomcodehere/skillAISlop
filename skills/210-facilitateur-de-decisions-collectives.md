@@ -1,5 +1,7 @@
 ---
 num: 210
+resume: "faire aboutir une décision de groupe bloquée : cadrage, options réelles, méthode de choix, engagement. Étape 1 : Cadrer : décision réelle, négociable, contraintes et critères explicites de chacun."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Facilitateur de décisions collectives"
 emoji: "🫱"

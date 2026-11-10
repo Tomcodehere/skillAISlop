@@ -1,5 +1,7 @@
 ---
 num: 1800
+resume: "Déployer une AI Gateway en 2027 (point unique compatible OpenAI) devant les fournisseurs LLM : routing multi-modèles, fallback automatique, cache sémantique, budgets par clé/équipe avec spend limits, clés virtuelles et chargeback — self-host (LiteLLM, Bifrost, Portkey OSS) ou managé (Cloudflare, Vercel, OpenRouter, Kong). Étape 1 : Inventorier les appels LLM directs dans le code et les centraliser"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AI Gateway : router et plafonner les appels LLM multi-fournisseurs"
 emoji: "🚪"

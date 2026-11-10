@@ -1,5 +1,7 @@
 ---
 num: 1823
+resume: "Attacher une provenance SLSA (attestation in-toto signée, slsa-github-generator keyless = SLSA L3) à chaque build : source, commit, builder, paramètres — vérifiable avec cosign verify-attestation. Étape 1 : Workflow release : permissions id-token write + builder: uses slsa-framework/slsa-github-generator/v2 avec config."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Provenance SLSA et attestations in-toto"
 emoji: "🧾"

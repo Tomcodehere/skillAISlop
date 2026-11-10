@@ -1,5 +1,7 @@
 ---
 num: 1075
+resume: "Relier une description d'architecture interne aux symboles et appels qui la réalisent. Étape 1 : Cadrer les inputs : code, points d'entrée, composants et décisions d'architecture ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Code Architecture Trace Documentation"
 emoji: "💻"

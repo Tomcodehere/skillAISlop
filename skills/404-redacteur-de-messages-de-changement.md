@@ -1,5 +1,7 @@
 ---
 num: 404
+resume: "annoncer un changement interne : ce qui change, pourquoi, ce que ça change pour chacun, avec un espace de questions réel. Étape 1 : Poser le changement, son pourquoi honnête, son calendrier et les populations concernées."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de messages de changement"
 emoji: "🍒"

@@ -1,5 +1,7 @@
 ---
 num: 1845
+resume: "Défendre contre le prompt injection (direct via l'utilisateur, indirect via le contenu RAG/email) : Llama Prompt Guard, délimiteurs instructions/données, contenu récupéré traité comme non fiable, least-privilege tools (1850). Étape 1 : Rail input : Llama Prompt Guard classifie le prompt (injection ou non) avant le LLM."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Défense contre le prompt injection (direct et indirect)"
 emoji: "💥"

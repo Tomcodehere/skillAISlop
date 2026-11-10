@@ -1,5 +1,7 @@
 ---
 num: 1677
+resume: "Faire du reverse ETL en 2027 (Hightouch/Census) : les modèles du warehouse (dbt 350, segments, scores 353) sont synchronisés automatiquement vers les SaaS métier (CRM 270, ads 747, email 357, support 56) — plus d'export CSV manuel (264). Étape 1 : Choisir l'outil : Hightouch, Census, ou natif (dbt + Airbyte 1460)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Reverse ETL : pousser les données warehouse vers les SaaS (Hightouch, Census)"
 emoji: "🔄"

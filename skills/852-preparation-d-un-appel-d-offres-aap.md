@@ -1,5 +1,7 @@
 ---
 num: 852
+resume: "répondre à un appel d'offres public en structurant un dossier conforme : candidature, mémoire technique, offre financière. Étape 1 : Lire le RC : critères pondérés, pièces obligatoires, format, deadline ; ne répondre que si atteignable."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un appel d'offres (AAP)"
 emoji: "📑"

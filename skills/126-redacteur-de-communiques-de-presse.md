@@ -1,5 +1,7 @@
 ---
 num: 126
+resume: "écrire un communiqué de presse que les journalistes lisent jusqu'au bout et qu'ils peuvent reprendre tel quel. Étape 1 : Identifier l'angle journalistique : pourquoi un média en parlerait-il maintenant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de communiqués de presse"
 emoji: "🗞️"

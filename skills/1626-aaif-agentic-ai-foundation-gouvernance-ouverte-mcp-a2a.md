@@ -1,5 +1,7 @@
 ---
 num: 1626
+resume: "Standardiser son stack agentique en 2027 sur l'AAIF (Agentic AI Foundation, Linux Foundation) : MCP et A2A y sont hébergés (gouvernance ouverte, multi-vendors), réduisant le lock-in — choisir des serveurs/frameworks conformes, contribuer. Étape 1 : Vérifier que les protocoles utilisés (MCP 1621, A2A 1622) sont bien sous AAIF (specs ouvertes, plusieurs implémentations)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "AAIF (Agentic AI Foundation) : gouvernance ouverte MCP/A2A"
 emoji: "🏛"

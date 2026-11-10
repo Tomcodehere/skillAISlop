@@ -1,5 +1,7 @@
 ---
 num: 1566
+resume: "Intégrer FMOD Studio ou Wwise en 2027 : banques de sons, événements audio déclenchés par le gameplay (pas d'AudioSource en dur), bus (Master/Music/SFX/Voix) avec ducking, occlusion (son étouffé derrière un mur, 1524), perfs (limite de voix simultanées). Étape 1 : Créer les banques (armes, pas selon matériau, UI, VO) et les bus (Master/Music/SFX/Voix/Ambiance)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Middleware audio : intégrer FMOD ou Wwise"
 emoji: "🔊"

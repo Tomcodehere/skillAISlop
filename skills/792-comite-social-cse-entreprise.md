@@ -1,5 +1,7 @@
 ---
 num: 792
+resume: "faire fonctionner un CSE conforme et utile : réunions, consultations obligatoires, budget activités sociales. Étape 1 : Réunions mensuelles : ordre du jour, PV, suivi des réponses de l'employeur (délai légal)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Comité social & CSE (entreprise)"
 emoji: "🏛️"

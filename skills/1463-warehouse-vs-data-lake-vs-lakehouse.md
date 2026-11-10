@@ -1,5 +1,7 @@
 ---
 num: 1463
+resume: "Choisir l'architecture data en 2027 (warehouse vs lake vs lakehouse) selon les besoins : warehouse pour le BI structuré, lake pour le brut pas cher, lakehouse (Delta/Iceberg) pour ACID + time travel + ML et BI réunis. Étape 1 : Lister les besoins : BI structuré, ML, data science, ingestion brute, gouvernance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Warehouse vs data lake vs lakehouse"
 emoji: "🏔️"

@@ -1,5 +1,7 @@
 ---
 num: 131
+resume: "obtenir des témoignages clients crédibles et utilisables : interview guidée, rédaction, validation. Étape 1 : Préparer le questionnaire d'interview et sélectionner les clients à solliciter."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Collecteur de témoignages clients"
 emoji: "💎"

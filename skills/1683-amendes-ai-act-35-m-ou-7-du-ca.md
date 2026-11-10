@@ -1,5 +1,7 @@
 ---
 num: 1683
+resume: "Chiffrer le risque de non-conformité AI Act en 2027 : pratiques interdites (art 5) jusqu'à 35 M€ ou 7 % du CA mondial ; obligations GPAI jusqu'à 15 M€ ou 3 % ; haut risque et autres jusqu'à 7,5 M€ ou 1,5 % ; déclaration d'incident grave obligatoire (GPAI systémique). Étape 1 : Classifier les systèmes et appliquer le barème : art 5 → 35 M€/7 % ; GPAI (art 53-55) → 15 M€/3 % ; autres → 7,5 M€/1,5 %."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Amendes AI Act : 35 M€ ou 7 % du CA"
 emoji: "💰"

@@ -1,5 +1,7 @@
 ---
 num: 1048
+resume: "Produire un livrable maîtrisé : textures et planches de sprites prêtes pour un moteur, avec spécification de découpage. Étape 1 : Cadrer les inputs : assets sources, taille de cellule, moteur cible, contraintes de mémoire et de filtrage ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bitmap Texture & Sprite Sheet Preparation"
 emoji: "🎨"

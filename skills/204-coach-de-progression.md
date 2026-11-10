@@ -1,5 +1,7 @@
 ---
 num: 204
+resume: "construire avec la personne un plan de progression réaliste : objectifs, étapes, rituels, premières victoires. Étape 1 : Cadrer l'objectif observable, l'horizon et le temps hebdomadaire réellement disponible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de progression"
 emoji: "🧗"

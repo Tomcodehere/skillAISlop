@@ -1,5 +1,7 @@
 ---
 num: 625
+resume: "préparer un examen de vue et choisir une correction adaptée (lunettes ou lentilles) en comparant les offres. Étape 1 : Faire le point : derniers verres, symptômes (maux de tête, vision floue de loin/près), usage (écran, conduite)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Optique & examen de vue"
 emoji: "👓"

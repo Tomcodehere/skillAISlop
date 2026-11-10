@@ -1,5 +1,7 @@
 ---
 num: 634
+resume: "comprendre une procédure de licenciement ou de rupture de contrat : droits, indemnités, recours possibles. Étape 1 : Qualifier la situation : type de rupture (démission, RC, licenciement), ancienneté, motif invoqué."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Licenciement & fin de contrat"
 emoji: "🚪"

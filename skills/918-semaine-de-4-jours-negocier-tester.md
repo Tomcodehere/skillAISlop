@@ -1,5 +1,7 @@
 ---
 num: 918
+resume: "négocier et tester la semaine de 4 jours (tendance 2027) : proposer un pilote à l'employeur avec métriques, ou l'organiser en solo si indépendant. Étape 1 : Proposition : pilote 3 mois, équipe volontaire, métriques (livrables, qualité, satisfaction, arrêts), salaire maintenu."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Semaine de 4 jours : négocier & tester"
 emoji: "📅"

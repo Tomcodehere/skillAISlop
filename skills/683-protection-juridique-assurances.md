@@ -1,5 +1,7 @@
 ---
 num: 683
+resume: "comprendre et choisir ses assurances essentielles : habitation, responsabilité civile, auto, protection juridique. Étape 1 : Inventorier les besoins : habitation, RC, auto, santé (mutuelle), protection juridique, selon sa situation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Protection juridique & assurances"
 emoji: "🛡️"

@@ -1,5 +1,7 @@
 ---
 num: 1095
+resume: "Mettre en place et maintenir un catalogue de données centralisé avec métadonnées complètes, lineage (traçabilité end-to-end des transformations) et gouvernance pour faciliter découvrabilité, collaboration et conformité (RGPD, audit)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data Catalog & Lineage"
 emoji: "🤖"

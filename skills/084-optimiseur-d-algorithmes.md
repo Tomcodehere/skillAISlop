@@ -1,5 +1,7 @@
 ---
 num: 84
+resume: "réduire la complexité temps et mémoire d'un script lent, en mesurant avant d'optimiser. Étape 1 : Reproduire et mesurer le problème : cas d'usage, volume de données, profil de performance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Optimiseur d'algorithmes"
 emoji: "⚡"

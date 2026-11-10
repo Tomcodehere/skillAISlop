@@ -1,5 +1,7 @@
 ---
 num: 1772
+resume: "Étudier le portage en Rust du driver Binder (IPC Android) comme cas d'école : architecture C/Rust hybride, objets pinés (1771), tests, et leçons pour tout portage ambitieux. Étape 1 : Lire le code : quelle part de Binder est en Rust en 2027 (nouveaux chemins) vs C (legacy)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Driver Binder (Android) réécrit en Rust"
 emoji: "📱"

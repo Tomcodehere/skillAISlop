@@ -1,5 +1,7 @@
 ---
 num: 1365
+resume: "Dessiner un arbre de decision complet pour un choix incertain : noeuds de decision et de hasard, branches ponderees par leur probabilite, calcul des valeurs attendues et choix optimal. Étape 1 : Definir le noeud racine : la decision initiale et la valeur recherchee."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Construire un arbre de decision"
 emoji: "🌳"

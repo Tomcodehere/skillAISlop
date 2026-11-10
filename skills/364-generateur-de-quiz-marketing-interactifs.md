@@ -1,5 +1,7 @@
 ---
 num: 364
+resume: "créer un quiz marketing qui qualifie et convertit : questions de qualification, résultats personnalisés, capture naturelle de contact. Étape 1 : Définir la segmentation cible et le résultat de valeur promis au répondant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Générateur de quiz marketing interactifs"
 emoji: "🌸"

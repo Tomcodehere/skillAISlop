@@ -1,5 +1,7 @@
 ---
 num: 1713
+resume: "Faire qu'un nouveau développeur ait son premier commit en prod le jour 1 en 2027 : environnement en 1 commande (devcontainer/compose 1109), doc de démarrage (312/1406), golden path première PR (1701), buddy (234), accès progressifs (lecture d'abord). Étape 1 : Jour 0 (arrivée) : compte, accès repo en lecture, devcontainer qui marche en 1 commande (docker compose 1109 : BDD locale, seed de données)"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Onboarding developpeur : premier commit en jour 1"
 emoji: "🚀"

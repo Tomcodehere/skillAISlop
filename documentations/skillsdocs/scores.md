@@ -1,6 +1,6 @@
 # Scores de qualité des skills (/100)
 
-Moyenne globale : **100.0/100** sur 1900 skills · <70 : 0 · >=90 : 1900
+Moyenne globale : **100.0/100** sur 2000 skills · <70 : 0 · >=90 : 2000
 
 | Score | # | Skill | Détails |
 |---|---|---|---|
@@ -1096,16 +1096,116 @@ Moyenne globale : **100.0/100** sur 1900 skills · <70 : 0 · >=90 : 1900
 | 100 | 1899 | Security champions : relais sécurité dans chaque équipe | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 190 | Rédacteur de documents de conformité | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 1900 | Bug bounty et VDP : recevoir et traiter les signalements de vulnérabilités | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1901 | Devenir auto-entrepreneur dans le BTP | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1902 | Obligations légales de l'artisan BTP | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1903 | Rédiger un devis conforme en BTP | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1904 | Facturation artisan : mentions obligatoires et Factur-X | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1905 | Choisir son statut juridique d'artisan BTP | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1906 | Labels Qualibat et RGE pour artisans | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1907 | Assurance décennale et RC Pro du BTP | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1908 | EPI obligatoires sur chantier | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1909 | PPSPS, coordination SPS et DUERP | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 191 | Détecteur de fraudes & anomalies de logs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1910 | Électricien : norme NF C 15-100 et Consuel | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1911 | Plombier : normes et mise en sécurité sanitaire | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1912 | Devis quantitatif estimatif BTP (métré) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1913 | Gestion des déchets de chantier | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1914 | Louer ou acheter son matériel de chantier | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1915 | Lire un plan de construction (DCE) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1916 | Préparer et organiser son chantier | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1917 | Réception de chantier et DOE | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1918 | Gérer un litige chantier (mise en demeure, expertise) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1919 | Cession ou reprise d'entreprise artisanale BTP | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 192 | Modérateur de communauté | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1920 | Vendre son entreprise artisanale (préparation) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1921 | Installer un atelier de menuiserie | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1922 | Outillage électroportatif du menuisier | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1923 | Choisir ses essences de bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1924 | Débit, dégauchissage et rabotage | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1925 | Assemblages du bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1926 | Collage du bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1927 | Finitions du bois (huile, vernis, cire, lasure) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1928 | Restaurer un meuble ancien | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1929 | Fabriquer une étagère murale | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 193 | Rédacteur de charte IA d'entreprise | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1930 | Fabriquer un petit meuble (caisson) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1931 | Quincaillerie et ferrures de menuiserie | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1932 | Sécurité dans l'atelier bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1933 | Traçage et mesures de précision | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1934 | Découpe à la scie manuelle | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1935 | Ponçage du bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1936 | Teinture et patine du bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1937 | Poser un parquet (flottant ou collé) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1938 | Plan de travail en bois (lamellé-collé) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1939 | Portes et fenêtres en bois : réglage et rénovation | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 194 | Concepteur de garde-fous d'agents | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1940 | Bois extérieur : traitement et entretien | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1941 | Tournage sur bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1942 | Cintrage du bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1943 | Marqueterie et placage | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1944 | Réparer une fissure ou un éclat dans le bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1945 | Chiffrer un ouvrage de menuiserie | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1946 | Lire un plan de meuble (nomenclature) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1947 | Usinage à la défonceuse | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1948 | Assemblages démontables | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1949 | Vernis au pistolet (HVLP) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 195 | Durcisseur anti-injection de prompt | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1950 | Entretien et affûtage des outils de coupe | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1951 | Débuter le tricot | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1952 | Choisir laine et aiguilles de tricot | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1953 | Échantillon et gauge (jauge) en tricot | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1954 | Points de base du tricot | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1955 | Tricoter en rond sans couture | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1956 | Lire un patron de tricot | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1957 | Projets tricot débutant (bonnet, écharpe, snood) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1958 | Blockage, lavage et finition de la laine | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1959 | Réparer un pull en laine (repriser, boulochage) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 196 | Gestionnaire de registres RGPD | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1960 | Monter les mailles et rabattre en tricot | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1961 | Choisir et régler sa machine à coudre | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1962 | Enfilage, canette et réglages de base | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1963 | Points de base à la machine (droit, zigzag, boutonnière) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1964 | Surfilage et ourlets à la machine | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1965 | Poser une fermeture éclair | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1966 | Assembler un vêtement à la machine | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1967 | Choisir et préparer son tissu | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1968 | Lire un patron de couture | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1969 | Projets couture débutant (tote bag, coussin, tablier) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 197 | Auditeur de permissions & accès | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1970 | Finitions à la main (boutons, ourlets invisibles) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1971 | Débuter le feutrage à l'aiguille | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1972 | Choisir sa laine pour le feutrage | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1973 | Formes de base en feutrage | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1974 | Feutrage kawaii et figurines 3D | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1975 | Feutrage mouillé à chaud | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1976 | Bijoux et accessoires en feutre | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1977 | Chaussons et sacs en feutre | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1978 | Repriser un vêtement en laine feutrée | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1979 | Sécurité des aiguilles à feutrer | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 198 | Évaluateur de risques fournisseurs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1980 | Kit débutant feutrage et budget | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1981 | Macramé débutant (nœuds de base) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1982 | Pâte polymère (Fimo) : modelage et cuisson | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1983 | Bijoux en pâte polymère | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1984 | Bougies parfumées DIY | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1985 | Savons naturels DIY (saponification à froid) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1986 | Scrapbooking (album souvenir) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1987 | Machine de coupe (Cricut) : vinyle, papier, stickers | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1988 | Peinture acrylique débutant | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1989 | Aquarelle débutant | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 199 | Rédacteur de runbooks de sécurité | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1990 | Broderie moderne | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1991 | Pyrogravure sur bois | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1992 | Kintsugi (réparation dorée de céramique) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1993 | Yarn bombing (tricot/crochet urbain) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1994 | Upcycling : meubles et textiles | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1995 | Art journal et carnet créatif | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1996 | Perles et bijoux fantaisie DIY | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1997 | Sériraphie et risographie (petites séries) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1998 | Customisation textile (peinture, patches, broderie) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 1999 | Vendre ses créations (Etsy, marchés, prix) | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 200 | Créateur de campagnes de sensibilisation sécurité | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
+| 100 | 2000 | Organiser son atelier loisirs créatifs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 201 | Concepteur de formations | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 202 | Rédacteur de fiches de poste | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |
 | 100 | 203 | Concepteur d'onboarding collaborateurs | frontmatter 10/10, sections 12/12, contenu 12/12 sections suffisantes, cross-ref oui, unicité oui |

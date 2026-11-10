@@ -1,5 +1,7 @@
 ---
 num: 1702
+resume: "Déployer Backstage en 2027 (CNCF, 3 400+ orgs, 1 200+ plugins) : catalogue de services (owners, deps, statut CI/k8s), Scaffolder (templates golden paths 1701), TechDocs (doc à côté du code), plugins (PagerDuty, coûts, sécurité) — avec une vraie équipe (3-6 ing/an) ou choisir un IDP managé (Port/Cortex). Étape 1 : Décider : self-host Backstage (équipe 3-6 ing/an dédiée, upgrades douloureux) vs mana"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Backstage (CNCF) : portail developpeur self-host"
 emoji: "📂"

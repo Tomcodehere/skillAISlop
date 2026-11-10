@@ -1,5 +1,7 @@
 ---
 num: 475
+resume: "estimer le temps des tâches de façon réaliste : historique plutôt qu'optimisme, découpage en pas fin et marges tracées. Étape 1 : Chercher l'historique réel de la tâche ou d'une analogue."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Estimateur de temps réaliste"
 emoji: "🕐"

@@ -1,5 +1,7 @@
 ---
 num: 1362
+resume: "Concevoir et animer un atelier interne de 90 minutes pour faire decouvrir l'IA a des equipes non techniques : 3 cas d'usage metier concrets, demo hands-on, charte d'usage interne. Étape 1 : Recenser 3 taches metier ou l'IA apporte un gain reel (redaction, synthese, brainstorming)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Former ses equipes a l'IA en interne (atelier)"
 emoji: "🛠"

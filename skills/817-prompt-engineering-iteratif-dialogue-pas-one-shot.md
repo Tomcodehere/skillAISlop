@@ -1,5 +1,7 @@
 ---
 num: 817
+resume: "obtenir le meilleur d'un LLM par un dialogue itératif (affiner, corriger, variantes) plutôt qu'un prompt one-shot parfait du premier coup. Étape 1 : Prompt initial + 3 critères de succès concrets ; corriger une chose à la fois, re-tester."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prompt engineering itératif (dialogue, pas one-shot)"
 emoji: "💬"

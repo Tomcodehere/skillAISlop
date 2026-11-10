@@ -1,5 +1,7 @@
 ---
 num: 1523
+resume: "Construire un stealth en 2027 : cône de vision rendu (mesh translucide), visibilité du joueur par 3 raycasts (tête/corps/pieds) avec occlusion, jauge de détection 0-100 % (monte vite si proche, lentement si loin), ombre = -30 %, états du garde (Suspect → Alerte → Combat). Étape 1 : Générer le mesh du cône (arc de cercle + triangulation) affiché en translucide (jaune suspect, rouge alerte)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Stealth : ligne de vue et cone de vision avances"
 emoji: "🕶️"

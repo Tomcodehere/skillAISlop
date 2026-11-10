@@ -1,5 +1,7 @@
 ---
 num: 1263
+resume: "Concevoir architecture stockage SAN/NAS (Fibre Channel, iSCSI, NFS, SMB) performante, résiliente et scalable."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "SAN/NAS Design"
 emoji: "💻"

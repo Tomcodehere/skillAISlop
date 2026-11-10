@@ -1,5 +1,7 @@
 ---
 num: 524
+resume: "guider la création d'un premier jeu vidéo : moteur adapté, périmètre minuscule et boucle jouable livrée rapidement. Étape 1 : Choisir le moteur et une seule mécanique."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach game dev du débutant"
 emoji: "🎮"

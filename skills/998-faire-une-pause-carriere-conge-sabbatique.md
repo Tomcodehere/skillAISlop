@@ -1,5 +1,7 @@
 ---
 num: 998
+resume: "préparer un congé sabbatique en 2027 : demander un congé sans solde/sabbatique à l'employeur, prévoir les économies (6-12 mois de salaire), définir le projet, préparer le retour. Étape 1 : Matelas 6-12 mois de salaire constitué AVANT ; projet concret avec jalons (voyage long, formation, création, bénévolat)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Faire une pause carrière (congé sabbatique)"
 emoji: "🌴"

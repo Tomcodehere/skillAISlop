@@ -1,5 +1,7 @@
 ---
 num: 1746
+resume: "Générer et maintenir la doc du code avec l'IA en 2027 : docstrings, README (312), ADR (88), changelog (1578) depuis les commits (68), doc API (180/87) depuis les handlers — TOUJOURS avec revue humaine (1401) car l'IA hallucine (1155). Étape 1 : Docstrings : sélectionner le module, prompt 'documente chaque fonction publique (params, return, exceptions, exemple)' → appliquer, puis relire ligne par l"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Documentation auto du code par IA : docstrings, README, ADR"
 emoji: "📖"

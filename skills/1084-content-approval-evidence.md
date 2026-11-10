@@ -1,5 +1,7 @@
 ---
 num: 1084
+resume: "Tracer les validations nécessaires avant de publier un contenu gouverné. Étape 1 : Cadrer les inputs : contenu/version, responsables, règles de publication et décisions ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Content Approval Evidence"
 emoji: "🔬"

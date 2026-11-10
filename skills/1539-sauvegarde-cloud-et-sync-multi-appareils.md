@@ -1,5 +1,7 @@
 ---
 num: 1539
+resume: "Synchroniser les saves dans le cloud en 2027 (Steam Cloud / Play Games / iCloud ou S3 maison) : upload auto à la fermeture, download au lancement, conflit résolu par date (plus récent gagne, notif au joueur), quota 1 Mo, mode offline d'abord. Étape 1 : Offline-first : la save locale (1503) est la source de vérité, le cloud est un miroir."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sauvegarde cloud et sync multi-appareils"
 emoji: "☁️"

@@ -1,5 +1,7 @@
 ---
 num: 41
+resume: "simuler un examen complet dans les conditions réelles, puis débriefyer pour progresser. Étape 1 : Recueillir le format exact de l'examen (sujets, durée, barème, annales si disponibles)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Simulateur d'examen blanc"
 emoji: "📝"

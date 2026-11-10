@@ -1,5 +1,7 @@
 ---
 num: 1509
+resume: "Coder une physique 2D custom en 2027 pour un plateformer : gravité (ex. 2500 px/s²), saut variable (relâcher = vélocité verticale coupée à 40 %), vitesse max horizontale, friction sol, air control réduit. Étape 1 : Gravité : vy += G * dt, clamp vy à fall_max (ex. 1200 px/s)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Physique 2D custom : gravité et saut variable"
 emoji: "🏃"

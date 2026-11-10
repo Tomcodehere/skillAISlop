@@ -1,5 +1,7 @@
 ---
 num: 1450
+resume: "Implémenter OAuth2/OIDC en sécurité en 2027 : flow Authorization Code + PKCE (jamais Implicit), validation stricte de redirect_uri et state, scopes minimaux, access token court + refresh token rotatif. Étape 1 : Choisir le flow : Authorization Code + PKCE partout (SPA/mobile/serveur)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OAuth2 et OIDC : flows et securite PKCE"
 emoji: "🔐"

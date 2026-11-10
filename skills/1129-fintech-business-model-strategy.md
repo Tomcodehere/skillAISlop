@@ -1,5 +1,7 @@
 ---
 num: 1129
+resume: "Aider une entreprise à structurer et comparer des modèles économiques pour des produits ou services FinTech, en rendant explicites les segments, propositions de valeur, revenus, coûts, dépendances et hypothèses à tester. Étape 1 : Définir le client, le problème, la proposition de valeur et la géographie visée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "FinTech Business Model Strategy"
 emoji: "🧠"

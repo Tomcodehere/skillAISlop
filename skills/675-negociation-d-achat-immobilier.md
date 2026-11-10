@@ -1,5 +1,7 @@
 ---
 num: 675
+resume: "préparer l'achat d'un bien immobilier : budget, crédit, recherche, négociation du prix et offre d'achat. Étape 1 : Cadrer le budget : apport, capacité d'emprunt (35 % des revenus), mensualité visée, durée, assurance emprunteur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Négociation d'achat immobilier"
 emoji: "🏡"

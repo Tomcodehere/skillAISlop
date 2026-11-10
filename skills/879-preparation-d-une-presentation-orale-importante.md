@@ -1,5 +1,7 @@
 ---
 num: 879
+resume: "préparer et réussir une présentation orale importante : structure claire, slides sobres, répétition chronométrée, gestion du stress. Étape 1 : Structure : accroche, 3 messages max, CTA ; 1 idée par slide, sobre ; 10-15 slides pour 20 min."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'une présentation orale importante"
 emoji: "🎤"

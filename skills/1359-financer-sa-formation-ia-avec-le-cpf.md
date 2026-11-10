@@ -1,5 +1,7 @@
 ---
 num: 1359
+resume: "Identifier les financements CPF disponibles en 2027 pour une formation IA (reste a charge de 150 EUR depuis le 2/4/2026, plafonds, codes RS), et constituer un dossier MonCompteFormation complet. Étape 1 : Verifier le solde et les droits CPF sur MonCompteFormation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Financer sa formation IA avec le CPF"
 emoji: "💶"

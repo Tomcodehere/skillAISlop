@@ -1,5 +1,7 @@
 ---
 num: 1719
+resume: "Communiquer sur la plateforme interne en 2027 comme un produit : changelog mensuel (1578), démo trimestrielle (canary 1418), canal dédié (#platform), FAQ (119), roadmap publique (1717), NPS 2x/an (1712) — pour l'adoption, pas juste l'annonce. Étape 1 : Changelog mensuel (1578) : nouveautés (golden paths 1701, scorecards 1711, self-service 1703), envoyé à tous les devs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Communication plateforme : changelog et demos internes"
 emoji: "📣"

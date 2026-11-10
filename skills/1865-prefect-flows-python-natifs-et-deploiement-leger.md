@@ -1,5 +1,7 @@
 ---
 num: 1865
+resume: "Orchestrer avec Prefect en Python natif (@flow/@task, retries, caching, branchements dynamiques) — déploiement Prefect Cloud ou self-host — en évaluant le risque de l'acquisition de Dagster Labs. Étape 1 : @task(retries=3, cache_key_fn=...) et @flow : le code Python est le workflow."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prefect : flows Python natifs et déploiement léger"
 emoji: "🌊"

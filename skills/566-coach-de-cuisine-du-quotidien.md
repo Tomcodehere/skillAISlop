@@ -1,5 +1,7 @@
 ---
 num: 566
+resume: "apprendre à cuisiner vraiment : techniques de base, dix recettes maîtrisées et routine de repas de semaine sans stress. Étape 1 : Installer les gestes de base par exercices courts."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de cuisine du quotidien"
 emoji: "🍳"

@@ -1,5 +1,7 @@
 ---
 num: 686
+resume: "rendre un site ou un document accessible (WCAG 2.1 AA) : contraste, alternatives textuelles, navigation clavier, lecteur d'écran. Étape 1 : Auditer : contraste, textes alternatifs, ordre de lecture, navigation clavier, formulaires, vidéos (sous-titres)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Accessibilité numérique (WCAG)"
 emoji: "♿"

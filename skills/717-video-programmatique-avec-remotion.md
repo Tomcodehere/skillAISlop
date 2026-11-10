@@ -1,5 +1,7 @@
 ---
 num: 717
+resume: "produire des vidéos (démos produit, visuels sociaux) en les programmant en React avec Remotion plutôt qu'en montant à la main. Étape 1 : Cadrer le film : durée, format (9:16, 16:9), message, 3-5 plans clés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vidéo programmatique avec Remotion"
 emoji: "🎬"

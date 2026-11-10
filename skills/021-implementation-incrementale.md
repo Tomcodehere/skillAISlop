@@ -1,5 +1,7 @@
 ---
 num: 21
+resume: "implémenter une fonctionnalité en petits morceaux complets, vérifiés un par un, plutôt qu'en un gros bloc. Étape 1 : Découper la tâche en morceaux de 15 à 60 minutes chacun, listés et validés par l'utilisateur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Implémentation incrémentale"
 emoji: "🪜"

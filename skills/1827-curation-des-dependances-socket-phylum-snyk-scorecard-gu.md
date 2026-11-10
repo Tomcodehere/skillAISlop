@@ -1,5 +1,7 @@
 ---
 num: 1827
+resume: "Curer les dépendances avant le merge : Socket/Phylum (comportement malveillant, typosquatting), Snyk/Endor (CVE/licences), OpenSSF Scorecard (santé du projet), GUAC (graphe d'impact) — bloquer le PR si risque. Étape 1 : PR modifiant les deps : lancer socket scan / phylum analyze -supérieur à bloque si install script suspect, typosquat, ou CVE critique (1826)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Curation des dépendances : Socket, Phylum, Snyk, Scorecard, GUAC"
 emoji: "🧹"

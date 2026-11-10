@@ -1,5 +1,7 @@
 ---
 num: 1452
+resume: "Déployer une CSP stricte en 2027 contre les XSS : default-src 'self', script-src avec nonce (pas d'unsafe-inline), object-src 'none', d'abord en report-only pour ajuster, puis enforcement avec rapports. Étape 1 : Rédiger la CSP de départ : default-src 'self'; script-src 'self' 'nonce-XXX'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "CSP stricte contre les attaques XSS"
 emoji: "🧵"

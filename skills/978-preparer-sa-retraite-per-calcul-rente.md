@@ -1,5 +1,7 @@
 ---
 num: 978
+resume: "préparer sa retraite en 2027 : vérifier les trimestres sur info-retraite.fr, âge légal (64 ans), décote/surcote, PER, calcul de la rente. Étape 1 : Vérifier le relevé de carrière sur info-retraite.fr : trimestres, manquants, rachat possible (coûteux)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer sa retraite (PER, calcul rente)"
 emoji: "👴"

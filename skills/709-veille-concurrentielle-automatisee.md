@@ -1,5 +1,7 @@
 ---
 num: 709
+resume: "mettre en place une veille concurrentielle continue : sites, prix, offres, avis, recrutements des concurrents, avec alertes. Étape 1 : Lister les concurrents et les signaux pertinents : site, prix, recrutement, avis, social."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Veille concurrentielle automatisée"
 emoji: "🕵️"

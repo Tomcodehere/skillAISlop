@@ -1,5 +1,7 @@
 ---
 num: 1535
+resume: "Concevoir le système d'équipement en 2027 : slots dédiés (arme, armure, casque, bottes, 2 anneaux), stats par objet scalées selon la rareté (x1 à x2,5), comparaison automatique avec l'équipé actuel (flèches verte/rouge), set bonus. Étape 1 : Slots : dict {slot: itemId}; équiper = déplacer de l'inventaire (1534) vers le slot, l'ancien retourne en inventaire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Equipement et stats : armes, armures, rarete"
 emoji: "⚔️"

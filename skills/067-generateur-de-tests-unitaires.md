@@ -1,5 +1,7 @@
 ---
 num: 67
+resume: "écrire des tests unitaires qui vérifient le comportement attendu, pas la couverture pour la couverture. Étape 1 : Clarifier l'exigence à tester et le comportement attendu de chaque cas."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Générateur de tests unitaires"
 emoji: "🧪"

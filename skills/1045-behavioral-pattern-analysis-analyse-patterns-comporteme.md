@@ -1,5 +1,7 @@
 ---
 num: 1045
+resume: "Analyser les patterns comportementaux utilisateurs en mobilisant la psychologie comportementale et les neurosciences pour identifier motivations, freins, biais cognitifs et proposer des nudges (incitations comportementales douces) afin d'améliorer adoption, engagement et complétion des parcours. Étape 1 : Comportement observé (description factuelle, fréquence)"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Behavioral Pattern Analysis (Analyse Patterns Comportementaux)"
 emoji: "🎨"

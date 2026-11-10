@@ -1,5 +1,7 @@
 ---
 num: 1563
+resume: "Appliquer le Full Body IK en 2027 : look-at (tête/yeux vers le joueur/ennemi avec poids 0-1), spine (torse penché vers une cible), hand IK avancé, via Animator IK (OnAnimatorIK) ou Final IK, pour des PNJ crédibles. Étape 1 : Dans OnAnimatorIK : si cible proche (inférieur à 5 m), SetLookAtPosition(cible) weight lerp → 1 (tête regarde)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "IK avancé : full body et look-at"
 emoji: "👀"

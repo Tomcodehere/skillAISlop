@@ -1,5 +1,7 @@
 ---
 num: 1111
+resume: "Produire, structurer, maintenir et répondre à des questions sur le Document d'Architecture du Système d'Information (DIS — aussi appelé DAT/DAS selon les organisations) : la référence documentaire décrivant l'architecture cible ou existante d'un système d'information (fonctionnelle, applicative, technique, données, sécurité, infrastructure). Étape 1 : Identifier si la demande est une"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Document d'Architecture du Système d'Information (DIS)"
 emoji: "💻"

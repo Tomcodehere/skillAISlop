@@ -1,5 +1,7 @@
 ---
 num: 1520
+resume: "Implémenter une perception crédible en 2027 : vision (cône angle/portée + occlusion raycast), ouïe (événements bruyants avec rayon selon intensité : marche 3 m, course 8 m, tir 20 m), mémoire (last_seen_position, investigation 5 s). Étape 1 : Vision : chaque frame, si angle(forward, toPlayer) inférieur à 45° et dist inférieur à 10 → raycast (mur bloque) → visible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Perception ennemie : vue, ouïe et memoire"
 emoji: "👁️"

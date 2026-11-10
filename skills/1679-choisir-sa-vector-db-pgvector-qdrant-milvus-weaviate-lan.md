@@ -1,5 +1,7 @@
 ---
 num: 1679
+resume: "Choisir sa vector DB en 2027 : pgvector (dans Postgres, inférieur à 1M vecteurs, zéro infra), Qdrant/Milvus/Weaviate (dédié, gros volume, filtres, HNSW), LanceDB (embarqué 1671), cloud managé (Pinecone) — selon volume, filtres, self-host et coût. Étape 1 : pgvector : si Postgres déjà là (1229) et volume inférieur à 1M vecteurs, index HNSW, zéro infra ajoutée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir sa vector DB : pgvector, Qdrant, Milvus, Weaviate, LanceDB"
 emoji: "🧮"

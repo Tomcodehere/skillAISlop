@@ -1,5 +1,7 @@
 ---
 num: 1828
+resume: "Remplacer les images de base lourdes par des images distroless Chainguard (wolfi/apko, 2-10 Mo, sans shell ni package manager, signées Sigstore avec SBOM) pour réduire la surface d'attaque et les CVE. Étape 1 : Choisir la base : cgr.dev/chainguard/python:latest (ou static pour du Go) ou build apko custom."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Images distroless Chainguard : réduire la surface d'attaque"
 emoji: "🏔️"

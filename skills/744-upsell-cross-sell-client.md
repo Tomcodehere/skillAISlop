@@ -1,5 +1,7 @@
 ---
 num: 744
+resume: "identifier et conclure des opportunités d'upsell/cross-sell chez des clients existants, au bon moment. Étape 1 : Repérer les signaux d'expansion : limites atteintes, nouveaux besoins exprimés, croissance équipe."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Upsell & cross-sell client"
 emoji: "📈"

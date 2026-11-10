@@ -1,5 +1,7 @@
 ---
 num: 596
+resume: "mettre en place des sauvegardes personnelles fiables : règle 3-2-1 adaptée, automatisation et restauration testée. Étape 1 : Inventorier l'irrécupérable et localiser les copies actuelles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Stratège de sauvegardes personnelles"
 emoji: "💾"

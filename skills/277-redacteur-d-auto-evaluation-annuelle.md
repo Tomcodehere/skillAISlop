@@ -1,5 +1,7 @@
 ---
 num: 277
+resume: "préparer une auto-évaluation annuelle solide : réalisations chiffrées, impacts pour l'organisation et objectifs pour la période suivante. Étape 1 : Rassembler les faits de la période : livrables, chiffres, retours reçus."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur d'auto-évaluation annuelle"
 emoji: "🥇"

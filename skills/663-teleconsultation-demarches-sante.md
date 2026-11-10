@@ -1,5 +1,7 @@
 ---
 num: 663
+resume: "accéder à un médecin à distance quand c'est pertinent et préparer sa consultation pour qu'elle soit efficace. Étape 1 : Choisir le bon canal : téléconsultation pour un avis/renouvellement, présentiel pour un examen, 15/112 en urgence."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Téléconsultation & démarches santé"
 emoji: "🩺"

@@ -1,5 +1,7 @@
 ---
 num: 1261
+resume: "Concevoir automatisations RPA (UiPath, Power Automate) pour tâches répétitives métier UI/documents (hors intégrations techniques API). Étape 1 : Identifier tâches candidates RPA (règles claires, UI stable, volumes élevés)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "RPA Automation Design"
 emoji: "💻"

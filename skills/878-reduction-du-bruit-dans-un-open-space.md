@@ -1,5 +1,7 @@
 ---
 num: 878
+resume: "rester concentré dans un open space bruyant : équipement, règles collectives, espaces calmes, plages de deep work. Étape 1 : Individuel : casque anti-bruit, signal « ne pas déranger », plages de deep work bloquées, tâches faciles quand bruyant."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Réduction du bruit dans un open space"
 emoji: "🔇"

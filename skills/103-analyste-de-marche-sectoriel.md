@@ -1,5 +1,7 @@
 ---
 num: 103
+resume: "produire une analyse de marché structurée (taille, tendances, acteurs, barrières) pour éclairer une décision d'entrée ou d'investissement. Étape 1 : Cadrer le marché : périmètre géographique, segments, horizon temporel, décision à éclairer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste de marché sectoriel"
 emoji: "🏪"

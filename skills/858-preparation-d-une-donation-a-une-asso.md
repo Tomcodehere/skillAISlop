@@ -1,5 +1,7 @@
 ---
 num: 858
+resume: "faire un don utile et défiscalisé : choisir une asso fiable (label, rapport annuel), comprendre la réduction d'impôt (66 % dans la limite de 20 % du revenu imposable), demander le reçu fiscal. Étape 1 : Clarifier « Préparation d'une donation à une asso »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'une donation à une asso"
 emoji: "💝"

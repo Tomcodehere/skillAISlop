@@ -1,5 +1,7 @@
 ---
 num: 1680
+resume: "Tracer les pipelines data en 2027 avec OpenTelemetry : spans par étape (extract/load/transform), métriques (lignes/s, latence, erreurs), traces distribuées corrélées au lineage (1466) et aux alertes qualité (1675) — pour déboguer vite un pipeline cassé. Étape 1 : Instrumenter : chaque tâche du pipeline émet un span OTel (opentelemetry-sdk Python/Java) avec attributs (table, nb_lignes, durée, erreu"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OpenTelemetry pour la data : tracer les pipelines"
 emoji: "📈"

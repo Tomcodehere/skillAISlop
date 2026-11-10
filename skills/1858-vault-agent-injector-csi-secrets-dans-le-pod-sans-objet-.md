@@ -1,5 +1,7 @@
 ---
 num: 1858
+resume: "Injecter les secrets Vault directement dans le pod (fichier partagé via Vault Agent Injector, ou volume CSI) sans créer d'objet Secret dans etcd — 0 trace du secret dans le cluster. Étape 1 : Installer vault-agent-injector (helm), auth kubernetes (role -supérieur à policy)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vault Agent Injector / CSI : secrets dans le pod sans objet Secret etcd"
 emoji: "💉"

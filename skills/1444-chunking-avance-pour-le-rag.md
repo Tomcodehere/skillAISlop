@@ -1,5 +1,7 @@
 ---
 num: 1444
+resume: "Optimiser le chunking d'un corpus RAG en 2027 : chunks de 200-500 tokens avec overlap 10-20 %, découpage sémantique (titres/paragraphes) ou hiérarchique, métadonnées par chunk, validé par un eval de retrieval. Étape 1 : Évaluer le chunking actuel : top-5 hit rate sur 50 requêtes réelles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chunking avance pour le RAG"
 emoji: "✂️"

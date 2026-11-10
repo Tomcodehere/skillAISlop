@@ -1,5 +1,7 @@
 ---
 num: 662
+resume: "cuisiner des repas végétariens ou véganes complets et équilibrés, riches en protéines et fer. Étape 1 : Vérifier l'équilibre global : sources de protéines à chaque repas, fer + vitamine C, B12 (supplément en végane), oméga-3."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cuisine végétarienne équilibrée"
 emoji: "🥗"

@@ -1,5 +1,7 @@
 ---
 num: 720
+resume: "soumettre un plan à un interrogatoire structuré (style Grill Me de Matt Pocock, skill viral 2026) avant de l'exécuter. Étape 1 : Lire le plan et lister les hypothèses implicites et les zones floues."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Grill Me : challenger un plan avant de coder"
 emoji: "🔥"

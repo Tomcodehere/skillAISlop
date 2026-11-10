@@ -1,5 +1,7 @@
 ---
 num: 1621
+resume: "Déployer MCP en production en 2027 : serveurs du registry officiel (40 965+, vérifiés), gateway d'entreprise (audit des appels, scopes par agent, rate limit, pas de secrets exposés), monitoring des tools appelés. Étape 1 : Inventorier les serveurs MCP utilisés et leur provenance (registry officiel vs GitHub perso)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "MCP en production : registry officiel et gouvernance"
 emoji: "🔌"

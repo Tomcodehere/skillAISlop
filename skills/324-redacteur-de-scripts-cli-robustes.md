@@ -1,5 +1,7 @@
 ---
 num: 324
+resume: "écrire des scripts en ligne de commande fiables : mode strict, arguments validés, erreurs lisibles, idempotence et sortie propre. Étape 1 : Définir l'usage : arguments, options, préconditions et effets attendus."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de scripts CLI robustes"
 emoji: "🌙"

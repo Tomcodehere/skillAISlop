@@ -1,5 +1,7 @@
 ---
 num: 1723
+resume: "Déployer Falco en 2027 (CNCF, eBPF) pour la détection d'intrusion runtime : règles sur les syscalls (shell dans conteneur, lecture /etc/shadow, connexion sortante anormale, binaire non packagé), alertes temps réel vers SIEM (1453)/SOAR (1651), règles custom pour les faux positifs. Étape 1 : Installer Falco en DaemonSet (un agent par nœud), mode eBPF (kernel 5.8+, recommandé) ou module (noyaux anci"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Falco : détection d'intrusion runtime"
 emoji: "🛡"

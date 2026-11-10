@@ -1,5 +1,7 @@
 ---
 num: 1196
+resume: "Multi-Agent Orchestration Patterns Étape 1 : Vérifier si une orchestration multi-agents est nécessaire plutôt qu'un flux simple."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Multi-Agent Orchestration Patterns"
 emoji: "🧠"

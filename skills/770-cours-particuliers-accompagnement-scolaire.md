@@ -1,5 +1,7 @@
 ---
 num: 770
+resume: "donner un cours particulier efficace : diagnostiquer le niveau, expliquer clairement, faire pratiquer, encourager. Étape 1 : Diagnostiquer le niveau réel avec 2-3 questions ciblées avant d'expliquer."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cours particuliers & accompagnement scolaire"
 emoji: "🏫"

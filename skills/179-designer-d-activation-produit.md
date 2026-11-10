@@ -1,5 +1,7 @@
 ---
 num: 179
+resume: "concevoir le parcours des premiers succès d'un nouvel utilisateur jusqu'à son moment 'aha'. Étape 1 : Définir le moment 'aha' et le chemin minimal vers lui."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Designer d'activation produit"
 emoji: "🗝️"

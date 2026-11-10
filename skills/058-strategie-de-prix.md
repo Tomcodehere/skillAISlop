@@ -1,5 +1,7 @@
 ---
 num: 58
+resume: "définir un modèle de prix (structure, niveau, paliers) qui sert les objectifs business et le positionnement. Étape 1 : Clarifier coûts, cible, positionnement et objectif (marge, volume, adoption)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Stratégie de prix"
 emoji: "💰"

@@ -1,5 +1,7 @@
 ---
 num: 605
+resume: "rédiger des plans de test manuels exécutables : scénarios pas à pas avec critères d'acceptation vérifiables. Étape 1 : Découper la fonctionnalité en parcours utilisateurs et en cas limites à couvrir."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de plans de test manuels"
 emoji: "🗂️"

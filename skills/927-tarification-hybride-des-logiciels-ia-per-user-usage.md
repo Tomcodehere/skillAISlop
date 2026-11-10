@@ -1,5 +1,7 @@
 ---
 num: 927
+resume: "budgéter les logiciels IA en 2027 avec la tarification hybride (par utilisateur + à l'usage/résultat prédite par Deloitte) et un suivi de consommation. Étape 1 : Inventorier les outils IA (prix fixe/user, usage, résultat) + consommation réelle (tokens, appels)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tarification hybride des logiciels IA (per-user + usage)"
 emoji: "🧾"

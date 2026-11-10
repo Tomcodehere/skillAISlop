@@ -1,5 +1,7 @@
 ---
 num: 1788
+resume: "Durcir une instance PG18 : SCRAM-SHA-256 par défaut, TLS 1.3 minimum, hostssl uniquement, RLS sur les tables multi-tenant, pg_audit, OAuth 2.0 (1786) pour les applis. Étape 1 : password_encryption = scram-sha-256 + rehash des mots de passe existants (md5 interdit)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Durcissement sécurité de PostgreSQL 18"
 emoji: "🔒"

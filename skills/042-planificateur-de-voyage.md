@@ -1,5 +1,7 @@
 ---
 num: 42
+resume: "construire un itinéraire de voyage réaliste, budgété et rythmé, adapté aux goûts du voyageur. Étape 1 : Recueillir destination (ou envies), dates, budget, composition et style de voyage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Planificateur de voyage"
 emoji: "🧳"

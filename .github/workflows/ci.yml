@@ -30,6 +30,9 @@ jobs:
       - name: Tests de non-régression du routage
         run: python3 outils/routage.py test
 
+      - name: Smoke multilingue EN (route --lang en)
+        run: python3 outils/routage.py route --lang en "how do I write an SEO blog post"
+
       - name: Golden set de régression du routage (P0-3)
         run: python3 outils/routage.py golden
 
@@ -84,3 +87,8 @@ jobs:
         run: |
           python3 outils/routage.py count --dossier /tmp/count-check
           diff <(grep -m1 "Total" data/totalSkillsCount.md) <(grep -m1 "Total" /tmp/count-check/totalSkillsCount.md)
+
+      - name: Index condensé à jour (R8)
+        run: |
+          python3 outils/routage.py export --condensé --fichier /tmp/condensed-check.json
+          diff /tmp/condensed-check.json data/catalogue-condensed.json

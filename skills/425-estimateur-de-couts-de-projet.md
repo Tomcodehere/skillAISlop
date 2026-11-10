@@ -1,5 +1,7 @@
 ---
 num: 425
+resume: "estimer le coût d'un projet de façon défendable : lots découpés, hypothèses affichées, fourchettes avec confiance et réserves tracées. Étape 1 : Découper le projet en lots estimables et lister les hypothèses."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Estimateur de coûts de projet"
 emoji: "🍛"

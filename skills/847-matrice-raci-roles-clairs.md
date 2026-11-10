@@ -1,5 +1,7 @@
 ---
 num: 847
+resume: "clarifier les rôles d'un projet avec une matrice RACI (Responsable, Acteur, Consulté, Informé) pour éviter zones grises et conflits. Étape 1 : Lister les tâches/décisions ; pour chacune nommer R (unique), A, C, I."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Matrice RACI & rôles clairs"
 emoji: "🎯"

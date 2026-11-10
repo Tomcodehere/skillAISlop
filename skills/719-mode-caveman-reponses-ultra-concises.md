@@ -1,5 +1,7 @@
 ---
 num: 719
+resume: "obtenir des réponses d'agent ultra-concises (style « caveman ») pour gagner en tokens, vitesse et lisibilité sur mobile. Étape 1 : Repérer le contenu essentiel : faits, décisions, actions, chiffres — le reste est du remplissage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Mode caveman : réponses ultra-concises"
 emoji: "🪨"

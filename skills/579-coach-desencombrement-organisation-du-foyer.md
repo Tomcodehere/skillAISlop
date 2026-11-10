@@ -1,5 +1,7 @@
 ---
 num: 579
+resume: "désencombrer et organiser son logement durablement : tri par zones, place pour chaque chose et routines anti-accumulation. Étape 1 : Choisir les zones prioritaires et trier par petits lots terminés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach désencombrement & organisation du foyer"
 emoji: "🧹"

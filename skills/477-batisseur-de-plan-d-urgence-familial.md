@@ -1,5 +1,7 @@
 ---
 num: 477
+resume: "bâtir un plan d'urgence familial : contacts et coordination, documents retrouvables, kit matériel et réflexes par scénario. Étape 1 : Choisir les scénarios réalistes du foyer et leurs premiers réflexes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Bâtisseur de plan d'urgence familial"
 emoji: "🍱"

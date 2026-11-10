@@ -1,5 +1,7 @@
 ---
 num: 1282
+resume: "Concevoir et implémenter des architectures de monitoring et d'observabilité système proactives (métriques, logs, traces, alertes) pour infrastructure on-prem et hybride, permettant la détection préventive des dégradations. Étape 1 : Identifier services critiques et métriques clés (golden signals : latence, traffic, erreurs, saturation)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "System Monitoring & Observability"
 emoji: "💻"

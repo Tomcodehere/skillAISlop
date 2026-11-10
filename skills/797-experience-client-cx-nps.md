@@ -1,5 +1,7 @@
 ---
 num: 797
+resume: "mesurer et améliorer l'expérience client : NPS régulier, analyse des verbatims, actions concrètes par segment. Étape 1 : Mesurer le NPS au bon moment (après achat/livraison/support) et par segment, avec verbatims."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Expérience client (CX) & NPS"
 emoji: "⭐"

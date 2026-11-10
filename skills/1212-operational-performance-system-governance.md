@@ -1,5 +1,7 @@
 ---
 num: 1212
+resume: "Concevoir un système de pilotage opérationnel reliant objectifs, indicateurs, owners, seuils d'attention et instances de décision. Le skill formalise la gouvernance et les actions attendues; il ne construit pas de pipeline de données ni de dashboard technique."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Operational Performance System & Governance"
 emoji: "🎨"

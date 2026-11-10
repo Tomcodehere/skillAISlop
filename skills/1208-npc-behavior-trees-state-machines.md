@@ -1,5 +1,7 @@
 ---
 num: 1208
+resume: "Produire un livrable maîtrisé : spécification du comportement d'un PNJ, ennemi ou allié (machine à états FSM/HFSM, behavior tree, utility AI ou GOAP) avec diagramme, tables d'états et de transitions, données paramétrables et scénarios de test déterministes. Étape 1 : Cadrer les inputs : fiche du personnage, actions, informations accessibles, budget CPU, nombre d'agents ; vérifier les préconditions"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "NPC Behavior Trees & State Machines"
 emoji: "🎨"

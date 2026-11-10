@@ -1,5 +1,7 @@
 ---
 num: 586
+resume: "faire arriver ses emails en boîte de réception : authentification, réputation et hygiène de liste pour newsletters et emails métier. Étape 1 : Vérifier l'authentification et la configuration du domaine."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Coach de délivrabilité email"
 emoji: "📧"

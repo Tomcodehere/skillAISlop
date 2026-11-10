@@ -1,5 +1,7 @@
 ---
 num: 1706
+resume: "Mesurer la performance de livraison en 2027 avec les 4 métriques DORA (lead time, deploy frequency, MTTR, change failure rate), collectées automatiquement (CI 1413 + incidents 256), au niveau équipe uniquement — jamais individuel. Étape 1 : Lead time : timestamp commit → déploiement prod (CI 1413), médiane par équipe/semaine."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Métriques DORA : mesurer la performance de livraison"
 emoji: "📊"

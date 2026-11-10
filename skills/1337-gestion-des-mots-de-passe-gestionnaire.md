@@ -1,5 +1,7 @@
 ---
 num: 1337
+resume: "sécuriser ses comptes en 2027 avec un gestionnaire de mots de passe et les passkeys FIDO2 (phishing-résistantes), mots uniques partout, 2FA activé, coffre numérique pour les proches. Étape 1 : Gestionnaire de mots de passe + maître fort + 2FA ; migrer les comptes un par un."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion des mots de passe & gestionnaire"
 emoji: "🔑"

@@ -1,5 +1,7 @@
 ---
 num: 1769
+resume: "Préparer l'équipe aux incidents par des game days trimestriels (simulation réaliste : panne BDD, AZ, fuite de secrets) testant les runbooks et la communication de crise, en complement des exercices tabletop (1454). Étape 1 : Choisir le scenario du trimestre (AZ down, BDD primaire KO, fuite de secret, ransomware) et annoncer 'game day' a l'astreinte."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Game days et exercices d'incident réguliers"
 emoji: "🎮"

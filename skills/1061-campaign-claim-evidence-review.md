@@ -1,5 +1,7 @@
 ---
 num: 1061
+resume: "Vérifier que les affirmations d'un contenu marketing correspondent aux preuves disponibles. Étape 1 : Cadrer les inputs : texte, données sources, comparaisons et restrictions de l'offre ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Campaign Claim Evidence Review"
 emoji: "🔬"

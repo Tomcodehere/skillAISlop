@@ -1,5 +1,7 @@
 ---
 num: 470
+resume: "évaluer l'empreinte carbone du numérique : usages lourds, appareils, cloud et contenus — avec les gestes qui comptent vraiment. Étape 1 : Ordonner les postes d'impact réels : appareils, usage, stockage, redondances."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur d'empreinte carbone numérique"
 emoji: "🍯"

@@ -1,5 +1,7 @@
 ---
 num: 332
+resume: "obtenir d'un LLM des sorties strictement conformes : JSON validé par schéma, champs obligatoires, types contraints et valeurs énumérées. Étape 1 : Définir le schéma cible et ses contraintes avant d'écrire le moindre prompt."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gardien de schémas de sortie"
 emoji: "🌟"

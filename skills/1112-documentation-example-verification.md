@@ -1,5 +1,7 @@
 ---
 num: 1112
+resume: "Vérifier qu'un exemple de documentation interne reste compatible avec le code et son environnement. Étape 1 : Cadrer les inputs : exemple, dépendances déclarées, api cible et résultat attendu ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Documentation Example Verification"
 emoji: "💻"

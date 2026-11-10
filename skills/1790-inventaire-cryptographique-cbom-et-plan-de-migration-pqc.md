@@ -1,5 +1,7 @@
 ---
 num: 1790
+resume: "Dresser l'inventaire cryptographique (CBOM) de l'organisation en 2027 — PKI, certificats X.509, TLS, VPN, SSH, signatures, HSM — classé par criticité et durée de vie des données, pour planifier la migration PQC (ANSSI : qualification PQC obligatoire dès 2027, haut risque 2030). Étape 1 : Scanner : certificats (CT logs, CA), endpoints TLS (testssl.sh), VPN (IKEv2), SSH, signatures (Sigstore), HSM."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Inventaire cryptographique (CBOM) et plan de migration PQC"
 emoji: "🧾"

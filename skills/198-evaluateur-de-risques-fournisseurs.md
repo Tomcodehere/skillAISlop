@@ -1,5 +1,7 @@
 ---
 num: 198
+resume: "évaluer le risque d'un fournisseur ou prestataire (données, continuité, sécurité, dépendance) avant ou pendant la collaboration. Étape 1 : Définir le périmètre de l'évaluation et les données/accès confiés au fournisseur."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Évaluateur de risques fournisseurs"
 emoji: "🦺"

@@ -1,5 +1,7 @@
 ---
 num: 942
+resume: "choisir en 2027 des hébergements optimisés pour le sommeil (sleep tourism : éclairage circadien, blackout, literie) et organiser ses voyages autour du repos. Étape 1 : Choisir l'hôtel sur : blackout, 18-19 °C, éclairage circadien, insonorisation, literie — pas sur le gadget."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sommeil & voyages (sleep tourism)"
 emoji: "🛏️"

@@ -1,5 +1,7 @@
 ---
 num: 1349
+resume: "cuisiner les restes et réduire le gaspillage alimentaire en 2027 : recettes anti-gaspi, bonne conservation, congélation, applis, compost. Étape 1 : Règles de conservation (3 j frigo, congélation, DLC vs DDM) ; stock visible."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cuisine anti-gaspi & restes"
 emoji: "♻️"

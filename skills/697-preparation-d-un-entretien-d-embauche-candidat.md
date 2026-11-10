@@ -1,5 +1,7 @@
 ---
 num: 697
+resume: "préparer un entretien d'embauche : recherche sur l'entreprise, réponses STAR, questions à poser, relance après entretien. Étape 1 : Rechercher l'entreprise : actualités, produits, équipe, culture, et fiche de poste détaillée."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un entretien d'embauche (candidat)"
 emoji: "🎤"

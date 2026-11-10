@@ -1,5 +1,7 @@
 ---
 num: 1265
+resume: "Sensibiliser aux enjeux éthiques et légaux du web scraping (CGU, propriété intellectuelle, RGPD, robots.txt) et déclencher systématiquement l'escalade vers les agents juridiques compétents. Ce skill couvre uniquement la **sensibilisation technique**, pas le conseil juridique définitif. Étape 1 : Identifier si le site cible a des CGU interdisant explicitement le scraping automatisé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Scraping Ethics & Legal Awareness"
 emoji: "💻"

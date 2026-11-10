@@ -1,5 +1,7 @@
 ---
 num: 316
+resume: "remettre un dépôt Git en ordre : branches mortes taillées, historique lisible, hooks et protections en place. Étape 1 : Établir l'état du dépôt : branches, tags, gros fichiers, historiques anormaux."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Jardinier de dépôt Git"
 emoji: "🌲"

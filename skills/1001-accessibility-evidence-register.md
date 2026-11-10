@@ -1,5 +1,7 @@
 ---
 num: 1001
+resume: "Tracer les preuves et limites d'un audit d'accessibilité sans assimiler un score à une conformité. Étape 1 : Cadrer les inputs : référentiel et version, échantillon, méthodes, résultats datés ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Accessibility Evidence Register"
 emoji: "🔬"

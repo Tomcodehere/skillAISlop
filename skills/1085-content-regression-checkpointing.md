@@ -1,5 +1,7 @@
 ---
 num: 1085
+resume: "Détecter automatiquement les fichiers texte nouveaux ou modifiés depuis le dernier audit de grammaire/orthographe, pour éviter de revoir systématiquement tout le contenu à chaque passage et concentrer l'effort sur les changements réels."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Content Regression Checkpointing"
 emoji: "✍️"

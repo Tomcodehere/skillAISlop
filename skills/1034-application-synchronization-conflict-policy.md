@@ -1,5 +1,7 @@
 ---
 num: 1034
+resume: "Arbitrer les modifications concurrentes lors d'une synchronisation inter-applications. Étape 1 : Cadrer les inputs : sources, owners par champ, horodatages et règles métier ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Application Synchronization Conflict Policy"
 emoji: "📋"

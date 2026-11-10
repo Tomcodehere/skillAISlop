@@ -1,5 +1,7 @@
 ---
 num: 1590
+resume: "Gérer le contenu téléchargeable en 2027 avec Addressables : groupes local (moteur/UI) vs remote (niveaux 1573, VO 1569, textures HD), chargement à la demande, patchs petits (cache invalidé par version de bundle), DLC vérifié (Steam 1580) puis débloqué. Étape 1 : Marquer les assets 'Addressable' et les grouper : Local (moteur, UI, tutoriel 1572) vs Remote (niveaux 1573, VO 1569, skins 1542, boss HD"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Addressables et DLC : contenu telechargeable et patchs"
 emoji: "📥"

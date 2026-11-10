@@ -1,5 +1,7 @@
 ---
 num: 1214
+resume: "Clarifier la stratégie opérationnelle d'une organisation et traduire ses objectifs en capacités, responsabilités, modes de fonctionnement et principes de gouvernance cohérents. Le livrable éclaire les choix de direction sans décider à la place des responsables de l'organisation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Operations Strategy & Operating Model Design"
 emoji: "🧠"

@@ -1,5 +1,7 @@
 ---
 num: 967
+resume: "vérifier une entreprise avant une embauche ou un contrat important en 2027 : SIRET, bilans, avis salariés, contentieux, red flags. Étape 1 : SIRET actif, forme juridique, dirigeants sur societe.com/pappers ; bilans déposés (CA, résultat, dettes)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vérifier une entreprise avant embauche/achat (due diligence légère)"
 emoji: "🔍"

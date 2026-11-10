@@ -1,5 +1,7 @@
 ---
 num: 726
+resume: "écouter ce qui se dit en temps réel sur sa marque, son secteur et ses concurrents sur les réseaux (Reddit, X, forums). Étape 1 : Définir les requêtes de veille : marque, concurrents, mots-clés métier, hashtags, sur les bonnes plateformes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Social listening & tendances temps réel"
 emoji: "👂"

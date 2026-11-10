@@ -1,5 +1,7 @@
 ---
 num: 275
+resume: "organiser un départ de collaborateur sans perte ni risque : transfert de connaissances, révocation des accès et passation des responsabilités. Étape 1 : Lister accès, outils, fichiers et responsabilités de la personne qui part."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparateur d'offboarding"
 emoji: "🚪"

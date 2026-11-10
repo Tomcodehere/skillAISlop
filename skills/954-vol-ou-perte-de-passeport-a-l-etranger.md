@@ -1,5 +1,7 @@
 ---
 num: 954
+resume: "réagir à un vol/perte de passeport à l'étranger en 2027 : déclaration police locale, laissez-passer au consulat, prolongation de séjour, impact ETIAS/EES. Étape 1 : Commissariat local : déclaration de vol/perte (obligatoire assurance + consulat) ; garder le récépissé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vol ou perte de passeport à l'étranger"
 emoji: "🛂"

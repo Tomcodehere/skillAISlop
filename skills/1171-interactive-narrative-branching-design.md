@@ -1,5 +1,7 @@
 ---
 num: 1171
+resume: "Produire un livrable maîtrisé : structure narrative interactive d'un jeu (arcs, nœuds de choix, branches, convergences, variables d'état du monde) sous forme de carte de narration vérifiable. Étape 1 : Cadrer les inputs : pitch, durée, fins visées, format d'écriture, canon et contraintes de contenu ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Interactive Narrative & Branching Design"
 emoji: "🎨"

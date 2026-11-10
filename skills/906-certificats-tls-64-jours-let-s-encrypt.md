@@ -1,5 +1,7 @@
 ---
 num: 906
+resume: "préparer le passage des certificats TLS à 64 jours (Let's Encrypt, 10 février 2027, puis 45 jours en 2028) avec renouvellement ACME automatique. Étape 1 : Clarifier « Certificats TLS 64 jours (Let's Encrypt, fév. 2027) »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Certificats TLS 64 jours (Let's Encrypt)"
 emoji: "🔒"

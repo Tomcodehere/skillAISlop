@@ -1,5 +1,7 @@
 ---
 num: 1577
+resume: "Ajouter une console de dev en 2027 (touche ²) : commandes god/noclip/give/tp/killall/setlevel/timescale/screenshot, autocomplétion (Tab), historique (flèches haut/bas), log coloré — compilée hors build release (anti-triche 1543). Étape 1 : Enregistrer commandes : {'god': toggle invincible, 'give gold N' (1529), 'tp x y z', 'killall' (1519), 'setlevel n' (1530), 'timescale 0,5', 'screenshot', 'fps'"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Console de commandes et cheats de dev"
 emoji: "💻"

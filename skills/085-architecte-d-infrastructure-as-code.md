@@ -1,5 +1,7 @@
 ---
 num: 85
+resume: "décrire toute une infrastructure de façon déclarative et versionnée (Terraform, Pulumi) plutôt qu'à la main. Étape 1 : Recueillir l'architecture cible : composants, environnements, contraintes de conformité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte d'infrastructure as code"
 emoji: "🛠️"

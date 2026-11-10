@@ -1,5 +1,7 @@
 ---
 num: 253
+resume: "auditer la performance d'une application web (Core Web Vitals, rendu React/Next.js) et produire un plan d'optimisation priorisé par impact. Étape 1 : Mesurer les Core Web Vitals et dresser l'inventaire des goulots d'étranglement."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur performance web"
 emoji: "🏎️"

@@ -1,5 +1,7 @@
 ---
 num: 11
+resume: "rendre accessible tout concept, à n'importe quel niveau. Étape 1 : Partir d'une analogie concrète du quotidien."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Expliqueur pédagogique"
 emoji: "🎓"

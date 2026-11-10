@@ -1,5 +1,7 @@
 ---
 num: 1475
+resume: "Faire exécuter un agent IA dans un sandbox en 2027 : conteneur jetable (gVisor/Firecracker) par tâche, réseau en allowlist, aucun secret, FS éphémère, timeout strict, et logs de tout ce qui sort. Étape 1 : Choisir l'isolation : conteneur gVisor (léger) ou microVM Firecracker (fort) par exécution."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sandboxing des agents IA (execution isolee)"
 emoji: "🏖️"

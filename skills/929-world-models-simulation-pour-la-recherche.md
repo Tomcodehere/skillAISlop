@@ -1,5 +1,7 @@
 ---
 num: 929
+resume: "utiliser les world models (simulation d'environnements par IA, tendance 2027) pour tester des hypothèses (bio, robotique, supply chain, scénarios) à coût réduit avant l'expérimentation réelle. Étape 1 : Choisir un world model adapté au domaine (bio, robotique, logistique) et formuler l'hypothèse testable."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "World models & simulation pour la recherche"
 emoji: "🌍"

@@ -1,5 +1,7 @@
 ---
 num: 769
+resume: "préparer un oral d'examen : plan de l'exposé, gestion du temps, réponses aux questions du jury, gestion du stress. Étape 1 : Préparer l'exposé : plan 3 parties avec timing, accroche, exemples, conclusion répondant à la question."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparation d'un oral d'examen"
 emoji: "🗣️"

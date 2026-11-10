@@ -1,5 +1,7 @@
 ---
 num: 545
+resume: "lancer un site ou un blog statique durable : générateur adapté, contenu, domaine et déploiement à coût maîtrisé. Étape 1 : Choisir le générateur et la structure de contenu."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Builder de site statique & blog"
 emoji: "🏗️"

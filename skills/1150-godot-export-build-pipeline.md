@@ -1,5 +1,7 @@
 ---
 num: 1150
+resume: "Configurer et fiabiliser les pipelines d'export/build Godot 4.x multi-plateformes (Windows, Linux, Web/HTML5, mobile Android/iOS), gérer les templates d'export, la signature des builds, l'optimisation de la taille et les automatisations CI de build. Étape 1 : Configuration des export presets par plateforme dans `export_presets.cfg` (résolution, architecture, options de compression, permissions)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Godot Export & Build Pipeline"
 emoji: "💻"

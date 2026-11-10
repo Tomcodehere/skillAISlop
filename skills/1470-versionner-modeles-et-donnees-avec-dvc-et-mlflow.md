@@ -1,5 +1,7 @@
 ---
 num: 1470
+resume: "Versionner données et modèles ML en 2027 avec DVC (données/modèles versionnés, stockage S3) et MLflow (experiments tracés, model registry avec stages prod/staging, déploiement). Étape 1 : Mettre les données sous DVC (dvc init, .gitignore les fichiers, dvc push vers S3)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Versionner modeles et donnees avec DVC et MLflow"
 emoji: "📂"

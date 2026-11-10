@@ -1,5 +1,7 @@
 ---
 num: 729
+resume: "écrire le script d'une vidéo courte (15-60 s) qui accroche en 3 secondes et pousse à l'action. Étape 1 : Choisir l'angle : le problème ou la promesse qui interrompt le scroll en 3 secondes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Scripting de vidéos courtes (Reels/TikTok/Shorts)"
 emoji: "🎥"

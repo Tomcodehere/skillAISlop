@@ -1,5 +1,7 @@
 ---
 num: 851
+resume: "acheter d'occasion ou en ligne en sécurité : vérifier le vendeur, payer via le paiement sécurisé de la plateforme, reconnaître les arnaques. Étape 1 : Vérifier le vendeur (ancienneté, avis, cohérence des annonces) et le prix vs marché."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Achat en ligne sécurisé (marketplace)"
 emoji: "🛒"

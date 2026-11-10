@@ -1,5 +1,7 @@
 ---
 num: 1465
+resume: "Anonymiser un dataset en 2027 pour le RGPD : pseudonymisation (hash salé) ou k-anonymat (k supérieur ou égal à 5) + généralisation des quasi-identifiants, avec un test de risque de ré-identification avant partage. Étape 1 : Identifier les identifiants directs (nom, email, tél) → supprimer ou hasher salé (pseudonymisation)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Anonymisation et pseudonymisation des donnees (RGPD)"
 emoji: "🎭"

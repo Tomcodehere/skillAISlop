@@ -1,5 +1,7 @@
 ---
 num: 527
+resume: "évaluer et préparer un projet de franchise ou de reprise de commerce : budget, dossier, contrat et plan de reprise. Étape 1 : Valider l'adéquation et le budget complet du projet."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide franchise & reprise de commerce"
 emoji: "🏪"

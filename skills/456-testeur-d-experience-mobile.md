@@ -1,5 +1,7 @@
 ---
 num: 456
+resume: "évaluer l'ergonomie réelle d'une application mobile : usage à une main, interruptions, contextes et parcours raccourcis. Étape 1 : Définir les contextes d'usage réels : une main, déplacement, réseau faible, interruptions."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Testeur d'expérience mobile"
 emoji: "📲"

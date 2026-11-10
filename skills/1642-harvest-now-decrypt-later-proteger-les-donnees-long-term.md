@@ -1,5 +1,7 @@
 ---
 num: 1642
+resume: "Se protéger en 2027 du « harvest now, decrypt later » : identifier les données à très long terme (santé, contrats 30 ans, secrets industriels, clés racines), les chiffrer en PQC/hybride dès maintenant (1641), et minimiser la rétention (RGPD 189). Étape 1 : Classer : données à vie longue (santé, contrats, brevets, clés racines PKI) = risque quantique réel → PQC/hybride prioritaire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Harvest now, decrypt later : proteger les donnees long terme"
 emoji: "⏳"

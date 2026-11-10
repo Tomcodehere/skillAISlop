@@ -1,5 +1,7 @@
 ---
 num: 1628
+resume: "Autoriser un agent à acheter en 2027 via UCP : mandat signé (montant max, marchand, durée, catégorie), présenté au marchand, paiement vérifié cryptographiquement, audit de chaque achat. Étape 1 : Emettre un mandat signé : {agent_id, montant_max: 200€, marchand: 'hotel.com', catégorie: 'hebergement', expires: +7j}, signé (clé privée agent)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Paiement agentique : UCP et mandates signes"
 emoji: "💳"

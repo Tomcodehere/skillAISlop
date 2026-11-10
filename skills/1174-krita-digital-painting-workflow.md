@@ -1,5 +1,7 @@
 ---
 num: 1174
+resume: "Produire un livrable maîtrisé : illustration ou concept art en calques (fichier .kra) avec notes de pinceaux et de palette. Étape 1 : Cadrer les inputs : brief visuel, dimensions et résolution, style de référence, contraintes de livraison ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Krita Digital Painting Workflow"
 emoji: "💻"

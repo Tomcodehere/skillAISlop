@@ -1,5 +1,7 @@
 ---
 num: 385
+resume: "optimiser les métadonnées d'une vidéo YouTube : titre cliquable sans putaclic, description qui informe, chapitres et balises utiles. Étape 1 : Chercher l'intention de recherche et le positionnement de la vidéo."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de métadonnées YouTube"
 emoji: "🍇"

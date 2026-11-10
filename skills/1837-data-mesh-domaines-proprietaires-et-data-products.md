@@ -1,5 +1,7 @@
 ---
 num: 1837
+resume: "Organiser le data en mesh : chaque domaine métier possède ses data products (contrat 1831, SLA 1835, catalogués 1836, self-serve via la plateforme 1700), avec gouvernance fédérée (PII, standards). Étape 1 : Identifier les domaines (marketing, ventes, produit...) et leurs data products (ex. 'clients segmentés')."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data mesh : domaines propriétaires et data products"
 emoji: "🕵️"

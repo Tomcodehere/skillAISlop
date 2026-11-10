@@ -1,5 +1,7 @@
 ---
 num: 1846
+resume: "Détecter et rédiger les PII (noms, emails, IBAN, CB) dans les flux LLM avec Presidio (Analyzer NER multilingue + Anonymizer) sur les rails input/output et en amont du RAG. Étape 1 : Presidio Analyzer : détecter les entités PII (PERSON, EMAIL, PHONE, IBAN, CREDIT_CARD...) avec score de confiance."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Détection et redaction PII avec Microsoft Presidio"
 emoji: "🕵️"

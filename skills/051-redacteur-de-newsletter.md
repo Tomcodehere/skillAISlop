@@ -1,5 +1,7 @@
 ---
 num: 51
+resume: "écrire des éditions de newsletter qui fidélisent : ouverture, lecture complète, clics. Étape 1 : Clarifier l'audience et la promesse éditoriale de la newsletter."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de newsletter"
 emoji: "📰"

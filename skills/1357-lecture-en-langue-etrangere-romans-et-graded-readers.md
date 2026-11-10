@@ -1,5 +1,7 @@
 ---
 num: 1357
+resume: "Mettre en place une pratique de lecture en langue etrangere progressive (graded readers puis romans), avec une methode efficace qui evite de traduire mot a mot. Étape 1 : Choisir un graded reader au niveau CECRL inferieur d'un cran au niveau vise."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Lecture en langue etrangere : romans et graded readers"
 emoji: "📖"

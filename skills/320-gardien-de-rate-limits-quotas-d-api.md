@@ -1,5 +1,7 @@
 ---
 num: 320
+resume: "gérer les limites de débit d'une API : côté client (respecter les quotas) et côté serveur (protéger le service), avec stratégies testées. Étape 1 : Recenser les limites réelles : par client, par endpoint, par fenêtre."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gardien de rate limits & quotas d'API"
 emoji: "🌕"

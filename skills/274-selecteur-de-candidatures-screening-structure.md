@@ -1,5 +1,7 @@
 ---
 num: 274
+resume: "trier un vivier de candidatures avec une grille structurée : critères issus de la fiche de poste, notation motivée etshort-list traçable. Étape 1 : Construire la grille depuis la fiche de poste : critères, pondération, seuil."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Sélecteur de candidatures (screening structuré)"
 emoji: "📒"

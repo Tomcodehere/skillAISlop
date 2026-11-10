@@ -1,5 +1,7 @@
 ---
 num: 846
+resume: "mener une rétrospective utile et sans blâme : faits, causes racines, 1-3 actions concrètes avec responsables et dates. Étape 1 : Timeline des faits (métriques, logs) ; ce qui a marché / coincé, causes racines sans coupable."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rétrospective blameless"
 emoji: "🔄"

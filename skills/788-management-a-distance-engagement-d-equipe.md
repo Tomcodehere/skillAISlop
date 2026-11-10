@@ -1,5 +1,7 @@
 ---
 num: 788
+resume: "garder une équipe distante engagée et cohésive : rituels, communication claire, reconnaissance, moments informels. Étape 1 : Rituels réguliers : point hebdo, 1-to-1 hebdo, rétro mensuelle, café virtuel, regroupements présentiels 2-4/an."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Management à distance & engagement d'équipe"
 emoji: "🌐"

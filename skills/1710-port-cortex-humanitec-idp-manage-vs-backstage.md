@@ -1,5 +1,7 @@
 ---
 num: 1710
+resume: "Choisir son IDP en 2027 : Backstage self-host (CNCF, puissant mais 3-6 ETP/an) vs managé (Port/Cortex : scorecards+gouvernance rapides, Humanitec : orchestration multi-cluster) — selon la capacité de l'équipe platform. Étape 1 : Si équipe platform inférieur à 3 ETP ou pas de capacité maintenance → managé (Port/Cortex) : déploiement en semaines, scorecards natifs."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Port, Cortex, Humanitec : IDP managé vs Backstage"
 emoji: "⚖️"

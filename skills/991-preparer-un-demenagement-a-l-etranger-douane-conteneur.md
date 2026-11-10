@@ -1,5 +1,7 @@
 ---
 num: 991
+resume: "organiser un déménagement à l'étranger en 2027 : conteneur ou fret aérien, douane (certificat de changement de résidence pour exonération), inventaire, assurance, devis. Étape 1 : Choisir : conteneur partagé LCL (4-8 sem, économique) ou fret aérien (1 sem, cher) ou porte-à-porte ; 3 devis."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparer un déménagement à l'étranger (douane, conteneur)"
 emoji: "📦"

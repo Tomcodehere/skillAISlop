@@ -1,5 +1,7 @@
 ---
 num: 936
+resume: "préparer une reprise d'entreprise par les salariés en 2027-2029 (Pacte Papin, PLF 2027) : droits d'enregistrement réduits à 0,1 %, suramortissement 30 % (60 % TPE), abattement plus-value retraite porté à 500 k€-1 M€. Étape 1 : Valorisation + montage (souvent LBO) avec EC/banque d'affaires ; impliquer les salariés repreneurs tôt."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Reprise d'entreprise par les salariés (Pacte Papin)"
 emoji: "🤝"

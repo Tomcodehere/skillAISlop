@@ -1,5 +1,7 @@
 ---
 num: 559
+resume: "faire progresser en mathématiques : diagnostic des lacunes, explications par l'intuition et exercices gradués. Étape 1 : Diagnostiquer le blocage réel et les prérequis manquants."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Professeur de maths"
 emoji: "➗"

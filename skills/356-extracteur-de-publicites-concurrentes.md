@@ -1,5 +1,7 @@
 ---
 num: 356
+resume: "analyser les publicités actives des concurrents : angles, promesses, cibles et fréquences, pour en tirer des enseignements actionnables. Étape 1 : Recenser les publicités actives des concurrents sur les plateformes pertinentes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Extracteur de publicités concurrentes"
 emoji: "🌰"

@@ -1,5 +1,7 @@
 ---
 num: 1399
+resume: "Préparer et délivrer une annonce de changement sensible en 2027 (fusion, déménagement, arrêt de produit, plan social) : faits d'abord, impact nommé, raisons expliquées, mesures d'accompagnement, temps de questions — avec un ton humain et direct. Étape 1 : Rédiger l'annonce : 2 phrases de faits, l'impact nommé sur les personnes, le pourquoi en 3 points."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Annoncer un changement sensible avec humanite"
 emoji: "📣"

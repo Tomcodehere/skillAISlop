@@ -1,5 +1,7 @@
 ---
 num: 1880
+resume: "Protéger le cluster k8s : backups Velero (ressources + volumes CSI -supérieur à S3, restore cross-cluster/région) + snapshots etcd réguliers, avec tests de restore (game day 1769) et RTO/RPO définis. Étape 1 : Déployer Velero (helm) pointant sur S3 (credentials via Vault/ESO 1854) ; schedule quotidien, retention 30 j, backup des volumes CSI (snapshot)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Backup et reprise après sinistre Kubernetes (Velero, etcd)"
 emoji: "💾"

@@ -1,5 +1,7 @@
 ---
 num: 542
+resume: "administrer une base de données au quotidien : schémas, index, sauvegardes testées, migrations et requêtes saines. Étape 1 : Établir l'état des lieux : schéma, sauvegardes, droits, volumétrie."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Administrateur de bases de données"
 emoji: "🗄️"

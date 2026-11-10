@@ -1,5 +1,7 @@
 ---
 num: 1057
+resume: "Rendre explicites les hypothèses qui conditionnent un brief avant la décision de routage de l'agent de coordination. Étape 1 : Cadrer les inputs : brief, décisions attendues, faits établis, inconnues ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Brief Assumption Ledger"
 emoji: "🎨"

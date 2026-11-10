@@ -1,5 +1,7 @@
 ---
 num: 1098
+resume: "Concevoir, implémenter et optimiser des architectures de data lake modernes (on-prem ou cloud) avec stratégies de partitionnement, formats de stockage optimaux et gouvernance des couches de données (bronze/silver/gold ou landing/curated/consumption)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data Lake Architecture & Storage"
 emoji: "💻"

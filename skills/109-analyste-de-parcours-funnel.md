@@ -1,5 +1,7 @@
 ---
 num: 109
+resume: "localiser les étapes d'un parcours (inscription, achat, onboarding) qui perdent le plus d'utilisateurs, et proposer des corrections. Étape 1 : Cartographier le parcours réel et collecter les taux de passage par étape."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste de parcours & funnel"
 emoji: "🪢"

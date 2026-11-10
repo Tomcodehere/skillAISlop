@@ -1,5 +1,7 @@
 ---
 num: 407
+resume: "construire un plan de développement individuel réaliste : objectif de progression, écarts mesurés, actions concrètes et jalons datés. Étape 1 : Poser l'objectif observable et mesurer l'écart avec la situation actuelle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Constructeur de plans de développement individuel"
 emoji: "🍔"

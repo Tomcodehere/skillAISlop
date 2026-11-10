@@ -1,5 +1,7 @@
 ---
 num: 1066
+resume: "Relier une synthèse généraliste à ses sources sans perdre les conditions d'une affirmation. Étape 1 : Cadrer les inputs : affirmations, extraits autorisés et références d'origine ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Claim-Source Evidence Matrix"
 emoji: "🔬"

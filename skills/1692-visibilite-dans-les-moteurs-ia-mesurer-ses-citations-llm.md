@@ -1,5 +1,7 @@
 ---
 num: 1692
+resume: "Mesurer et améliorer en 2027 sa visibilité dans les réponses des moteurs IA (GEO) : suivi hebdo de requêtes test (~50) sur ChatGPT/Perplexity/Gemini/Copilot, taux de citation de la marque/site, position et source, sentiment — puis optimiser le contenu (1693). Étape 1 : Définir le panel : 50 requêtes où la marque devrait apparaître (catégories, comparatifs, 'meilleur X')."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Visibilité dans les moteurs IA : mesurer ses citations LLM (GEO)"
 emoji: "🔍"

@@ -1,5 +1,7 @@
 ---
 num: 463
+resume: "opérer un calendrier de réunions obèse : suppression justifiée, remplacement par écrit, durée raccourcie et temps protégé. Étape 1 : Auditer le calendrier : décisions réelles, valeur par participant, récurrences."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Chirurgien du calendrier de réunions"
 emoji: "🫸"

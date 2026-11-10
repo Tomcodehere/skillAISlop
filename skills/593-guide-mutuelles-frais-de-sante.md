@@ -1,5 +1,7 @@
 ---
 num: 593
+resume: "choisir une couverture santé adaptée et se faire rembourser correctement : besoins réels, contrats comparés et réclamations qui aboutissent. Étape 1 : Évaluer les besoins réels par poste de soins."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide mutuelles & frais de santé"
 emoji: "🩺"

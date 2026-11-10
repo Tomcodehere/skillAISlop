@@ -1,5 +1,7 @@
 ---
 num: 1887
+resume: "Organiser un monorepo avec Nx (affected + remote cache Nx Cloud), Turborepo (pipeline turbo.json) ou Bazel (hermetic + remote execution) — ne builder/tester que ce qui a changé pour garder une CI rapide. Étape 1 : Nx : nx.json (targetDefaults, cache), nx affected -t test/build (ne teste que l'impacté), Nx Cloud pour le remote cache partagé."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Monorepo : Nx, Turborepo, Bazel (cache, affected, remote cache)"
 emoji: "🏗️"

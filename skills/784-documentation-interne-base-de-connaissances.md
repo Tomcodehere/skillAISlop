@@ -1,5 +1,7 @@
 ---
 num: 784
+resume: "créer et maintenir une base de connaissances d'équipe vivante : processus documentés, décisions tracées, FAQ. Étape 1 : Choisir l'outil et structurer : accueil, SOP par métier, décisions, FAQ, experts."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Documentation interne & base de connaissances"
 emoji: "📚"

@@ -1,5 +1,7 @@
 ---
 num: 1690
+resume: "Rendre un produit IA conforme à l'article 50 (applicable 2 août 2026) : indiquer clairement que l'utilisateur interagit avec une IA (chatbots, voix, agents), et marquer le contenu généré (texte/image/audio/vidéo) de façon lisible ET détectable (watermarking 1691 pour les systèmes existants depuis déc 2026). Étape 1 : Art 50(1) : dans tout point de contact IA (chat 66, voix 288, agent 76), afficher"
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Produit IA conforme : transparence art. 50 des"
 emoji: "📢"

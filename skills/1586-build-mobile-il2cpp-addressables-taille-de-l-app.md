@@ -1,5 +1,7 @@
 ---
 num: 1586
+resume: "Préparer un build mobile en 2027 : IL2CPP (perf/taille), Addressables (patchs petits, streaming 1573), ASTC textures (1585), audio OGG, stripping, symboles Crashlytics, taille cible inférieur à 150 Mo, testé sur device (1585). Étape 1 : IL2CPP : backend IL2CPP, ARM64 only, stripping 'Medium/High', build natif (build long OK en CI 1593)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Build mobile : IL2CPP, Addressables, taille de l'app"
 emoji: "📦"

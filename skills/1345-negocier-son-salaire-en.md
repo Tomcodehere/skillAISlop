@@ -1,5 +1,7 @@
 ---
 num: 1345
+resume: "négocier son salaire ou une augmentation en 2027 avec des arguments chiffrés et un benchmark marché solide, en visant le package complet. Étape 1 : Benchmark marché (données 2027) + résultats chiffrés personnels → fourchette cible/plancher."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Négocier son salaire en"
 emoji: "💶"

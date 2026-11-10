@@ -1,5 +1,7 @@
 ---
 num: 59
+resume: "rendre lisibles compte de résultat, bilan et trésorerie d'une PME pour un dirigeant non-financier. Étape 1 : Identifier le type de document et l'année de référence."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyse de documents financiers"
 emoji: "📈"

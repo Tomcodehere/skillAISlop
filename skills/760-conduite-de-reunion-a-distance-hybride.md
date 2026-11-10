@@ -1,5 +1,7 @@
 ---
 num: 760
+resume: "mener des réunions à distance ou hybrides aussi efficaces qu'en présentiel : technique, facilitation, engagement. Étape 1 : Préparer la technique et envoyer l'ordre du jour 24 h avant, avec objectif et décisions attendues."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Conduite de réunion à distance & hybride"
 emoji: "💻"

@@ -1,5 +1,7 @@
 ---
 num: 1537
+resume: "Concevoir un arbre de compétences en 2027 : 3 branches, nœuds avec coût en points de talent (1 par niveau), prérequis (parent débloqué), effets passifs appliqués aux stats, respec payant, UI avec connexions entre nœuds. Étape 1 : Data : nœuds avec prérequis (parent), coût (1-3 pts), effet passif (modifie les stats du joueur)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Arbre de competences (skill tree) et respec"
 emoji: "🌳"

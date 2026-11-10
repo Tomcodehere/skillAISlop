@@ -1,5 +1,7 @@
 ---
 num: 691
+resume: "décider si un fine-tuning est pertinent (vs prompt/RAG) et le mener proprement sur ses propres données. Étape 1 : Décider : le besoin est-il un style/format récurrent ? Sinon rester en prompt/RAG. Choisir le modèle de base open source adapté."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Fine-tuning & personnalisation de modèle"
 emoji: "🎛️"

@@ -1,5 +1,7 @@
 ---
 num: 624
+resume: "donner les repères d'une bonne hygiène bucco-dentaire et préparer une visite chez le dentiste sereinement. Étape 1 : Évaluer les habitudes actuelles : fréquence de brossage, fil dentaire, alimentation sucrée, dernier contrôle."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Santé bucco-dentaire"
 emoji: "🦷"

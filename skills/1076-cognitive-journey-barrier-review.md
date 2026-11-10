@@ -1,5 +1,7 @@
 ---
 num: 1076
+resume: "Repérer dans un parcours les obstacles de compréhension et de mémoire de travail observables. Étape 1 : Cadrer les inputs : parcours critique, consignes, retours d'usage et contraintes ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cognitive Journey Barrier Review"
 emoji: "🎓"

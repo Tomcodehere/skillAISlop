@@ -1,5 +1,7 @@
 ---
 num: 1553
+resume: "Réduire les draw calls en 2027 (objectif inférieur à 300 sur mobile) : sprite atlas (1 texture = 1 draw call), batching statique + SRP Batcher, occlusion culling, LOD (modèle simplifié au loin), mesuré au Frame Debugger (1552). Étape 1 : Mesurer : Frame Debugger, compter les draw calls (mobile cible inférieur à 300, PC inférieur à 2000)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Draw calls : batching, atlas et occlusion culling"
 emoji: "🖼️"

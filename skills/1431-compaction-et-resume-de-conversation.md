@@ -1,5 +1,7 @@
 ---
 num: 1431
+resume: "Compacter automatiquement une conversation longue en 2027 : déclencher au seuil de tokens (ex. 80 % de la fenêtre), résumer en gardant décisions/code/préférences/tâches en cours, et réinjecter le résumé. Étape 1 : Fixer le seuil de déclenchement (ex. 80 % de la fenêtre, mesuré skill 326)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Compaction et resume de conversation"
 emoji: "🗜️"

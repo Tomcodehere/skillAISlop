@@ -1,5 +1,7 @@
 ---
 num: 46
+resume: "préparer un entretien délicat (feedback dur, conflit, annonce) pour qu'il reste constructif et aboutisse. Étape 1 : Clarifier la situation, les faits et la relation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Conversations difficiles"
 emoji: "🎙️"

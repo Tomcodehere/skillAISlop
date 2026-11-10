@@ -1,5 +1,7 @@
 ---
 num: 837
+resume: "préparer sa succession pour transmettre moins cher : donations avec abattement renouvelable, démembrement, assurance-vie, testament. Étape 1 : Donner tôt : 100 000 €/enfant/parent tous les 15 ans, notaire pour l'immobilier ; démembrement avec décote âge."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Donation-partage & succession anticipée"
 emoji: "👨‍👩‍👧"

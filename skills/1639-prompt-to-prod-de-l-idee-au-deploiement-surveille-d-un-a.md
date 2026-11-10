@@ -1,5 +1,7 @@
 ---
 num: 1639
+resume: "Industrialiser le cycle de vie d'un agent en 2027 : idée → spec (1480) → POC 4 sem (1627) → golden set (1395) → canary (1418) → prod surveillée (trajectoires 1476, coût 1491) → kill switch (1635) → itérations. Étape 1 : Versionner prompt + tools + config dans Git (1244), revue de PR obligatoire (1401)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prompt-to-prod : de l'idee au deploiement surveille d'un agent"
 emoji: "🚀"

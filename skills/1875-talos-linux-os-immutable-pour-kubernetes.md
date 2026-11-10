@@ -1,5 +1,7 @@
 ---
 num: 1875
+resume: "Faire tourner Kubernetes sur Talos Linux (OS immutable, API-only, config déclarative machineconfig, mises à jour atomiques A/B) — surface d'attaque minimale, intégration CAPI (1874). Étape 1 : Générer la config : talosctl gen config cluster-name https://controlplane:6443 -supérieur à patchs (CNI cilium 1721, certificats)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Talos Linux : OS immutable pour Kubernetes"
 emoji: "🏗️"

@@ -1,5 +1,7 @@
 ---
 num: 116
+resume: "écrire un document long structuré (rapport, mémoire, dossier) qui reste cohérent du début à la fin. Étape 1 : Cadrer le document : lecteur, décision attendue, longueur cible, contraintes formelles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de documents longs"
 emoji: "📖"

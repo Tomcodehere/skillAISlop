@@ -1,5 +1,7 @@
 ---
 num: 812
+resume: "utiliser dans le bon ordre les leviers légaux 2026 : épargne réglementée (Livret A 1,5 %, LEP 2,5 %), PER (déduction plafonnée), dons (Coluche 75 % jusqu'à 2 000 €), donations (100 000 €/enfant/15 ans), PEA/assurance-vie après 5-8 ans. Étape 1 : Épargne de précaution d'abord : Livret A/LEP/LDDS (taux 2026, exonérés)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Optimisation fiscale légale"
 emoji: "🧮"

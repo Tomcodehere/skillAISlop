@@ -1,5 +1,7 @@
 ---
 num: 1197
+resume: "Fournir une analyse comparative objective entre providers (AWS vs Azure vs GCP) ou stratégies (mono vs multi-cloud) sur des critères explicites. Étape 1 : Formaliser et pondérer les critères de décision."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Multi-Cloud Tradeoff Analysis"
 emoji: "📋"

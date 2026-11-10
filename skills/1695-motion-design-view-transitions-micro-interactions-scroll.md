@@ -1,5 +1,7 @@
 ---
 num: 1695
+resume: "Concevoir le motion design 2027 : View Transitions (1615), micro-interactions hover/focus (150-300 ms, easing spring), animations scroll-driven (1610), toujours avec prefers-reduced-motion (1495) — UI vivante sans la ralentir (perf d'abord 1618). Étape 1 : Transitions de page : View Transitions (1615) avec morphing de l'élément clé (view-transition-name)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Motion design : view transitions, micro-interactions, scroll"
 emoji: "🎬"

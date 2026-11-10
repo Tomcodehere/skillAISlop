@@ -1,5 +1,7 @@
 ---
 num: 1394
+resume: "Identifier en 2027 les 3-5 meilleurs datasets publics pour un cas d'usage : sources fiables (data.gouv, INSEE, Eurostat, Hugging Face, Kaggle), critères de sélection (fraîcheur, licence, qualité, taille) et mise en garde sur la qualité réelle. Étape 1 : Lister les sources officielles : data.gouv.fr, INSEE, Eurostat, OpenData soft, data.europa.eu."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Benchmarker des datasets publics pour son cas d'usage"
 emoji: "🏁"

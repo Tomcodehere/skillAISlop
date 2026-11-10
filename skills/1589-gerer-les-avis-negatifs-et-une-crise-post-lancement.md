@@ -1,5 +1,7 @@
 ---
 num: 1589
+resume: "Gérer une mauvaise réception au lancement en 2027 : répondre aux avis négatifs Steam en inférieur à 24 h (calme, factuel, jamais supprimé), hotfix des bugs bloquants sous 48 h (branche 1578), communiquer (devlog 1596 + patch notes), et surveiller le ratio d'avis (1580). Étape 1 : Trier les avis : bloquants (crash/démarrage) supérieur à gênants (perf 1585) supérieur à suggestions (contenu)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gerer les avis negatifs et une crise post-lancement"
 emoji: "💬"

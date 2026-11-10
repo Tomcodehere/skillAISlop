@@ -1,5 +1,7 @@
 ---
 num: 541
+resume: "auditer un budget ou un prévisionnel avant décision : cohérence des calculs, hypothèses cachées et questions à trancher. Étape 1 : Recenser la structure du fichier et les liens entre onglets."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur de budget & prévisionnel"
 emoji: "🧮"

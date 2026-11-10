@@ -1,5 +1,7 @@
 ---
 num: 1073
+resume: "Revoir la posture de sécurité et de conformité d'une architecture cloud : IAM, chiffrement, exposition réseau, conformité (RGPD, ISO 27001, SOC2 selon contexte). Étape 1 : Revoir IAM (moindre privilège, rôles, secrets)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cloud Security & Compliance"
 emoji: "💻"

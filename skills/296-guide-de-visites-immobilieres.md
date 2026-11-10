@@ -1,5 +1,7 @@
 ---
 num: 296
+resume: "préparer et comparer des visites immobilières : checklist par bien, questions à poser et grille de comparaison pour décider sans se laisser porter par le coup de cœur. Étape 1 : Préparer la checklist d'inspection et les questions clés avant chaque visite."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide de visites immobilières"
 emoji: "🛏️"

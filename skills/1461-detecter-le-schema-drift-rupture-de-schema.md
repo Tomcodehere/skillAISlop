@@ -1,5 +1,7 @@
 ---
 num: 1461
+resume: "Détecter le schema drift en 2027 avant qu'il ne casse la prod : data contracts (schéma attendu signé), monitoring automatisé (Soda/dbt tests) avec alerte au producteur et au consommateur. Étape 1 : Rédiger le data contract par source critique (schéma + sémantique + propriétaire)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Detecter le schema drift (rupture de schema)"
 emoji: "💥"

@@ -1,5 +1,7 @@
 ---
 num: 1235
+resume: "Distinguer une opportunité produit démontrée d'une idée de solution prématurée. Étape 1 : Cadrer les inputs : problème utilisateur, retours disponibles, segments et objectifs métier ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Product Opportunity Assessment"
 emoji: "💻"

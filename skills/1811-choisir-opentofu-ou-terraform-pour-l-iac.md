@@ -1,5 +1,7 @@
 ---
 num: 1811
+resume: "Décider entre OpenTofu (MPL 2.0, Linux Foundation, state encryption natif, 1.13) et Terraform (BSL 1.1, IBM, Stacks/Sentinel HCP) pour l'IaC : nouveau projet self-host = OpenTofu ; dépendance HCP = Terraform. Étape 1 : Lister les besoins : encryption du state (OpenTofu natif), ephemeral values (les deux), Stacks (HCP only), support contrat (IBM)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Choisir OpenTofu ou Terraform pour l'IaC"
 emoji: "⚖️"

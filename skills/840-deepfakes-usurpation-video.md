@@ -1,5 +1,7 @@
 ---
 num: 840
+resume: "reconnaître un deepfake (vidéo/appel truqué) et se protéger de l'usurpation d'identité par IA en entreprise et en perso. Étape 1 : Signaux visuels : clignements, flou facial, lèvres désync, éclairage incohérent ; contextuels : urgence + canal inhabituel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Deepfakes & usurpation vidéo"
 emoji: "🎭"

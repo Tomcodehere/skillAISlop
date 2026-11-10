@@ -1,5 +1,7 @@
 ---
 num: 120
+resume: "évaluer l'authenticité d'un texte (probabilité de génération IA, passages plagiés) et en rendre compte honnêtement. Étape 1 : Analyser le texte : régularité, tics de génération, cohérence factuelle, ancrage réel."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Détecteur de textes IA & plagiat"
 emoji: "🕵️"

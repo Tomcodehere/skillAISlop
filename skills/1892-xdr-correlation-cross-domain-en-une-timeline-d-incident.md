@@ -1,5 +1,7 @@
 ---
 num: 1892
+resume: "Mettre en place l'XDR : corréler endpoint, identity, email, cloud et réseau dans une timeline d'incident unique (Defender XDR / Falcon / Singularity / Cortex selon le stack 1891). Étape 1 : Connecter les sources : EDR (1891), Entra ID Protection, Exchange/M365, Defender for Cloud, firewall réseau."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "XDR : corrélation cross-domain en une timeline d'incident"
 emoji: "🔗"

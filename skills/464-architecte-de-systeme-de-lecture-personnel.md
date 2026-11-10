@@ -1,5 +1,7 @@
 ---
 num: 464
+resume: "bâtir un système de lecture personnel qui tourne : sources triées, pile maîtrisée, notes durables et rituel de traitement. Étape 1 : Auditer les sources actuelles par valeur réelle servie et trier sans pitié."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Architecte de système de lecture personnel"
 emoji: "🍩"

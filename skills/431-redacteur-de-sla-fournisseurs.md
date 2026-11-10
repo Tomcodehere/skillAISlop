@@ -1,5 +1,7 @@
 ---
 num: 431
+resume: "rédiger un SLA fournisseur tenable : services mesurables, engagements chiffrés, pénalités équilibrées et procédure d'escalade. Étape 1 : Définir les livrables mesurables et leurs seuils réalistes."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de SLA fournisseurs"
 emoji: "📿"

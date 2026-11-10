@@ -1,5 +1,7 @@
 ---
 num: 1786
+resume: "Authentifier les connexions PG18 via OAuth 2.0 (bearer token JWT de l'IdP, validation JWKS, exp, aud, claim role mappé vers le rôle PG) dans pg_hba.conf, sans mot de passe en base. Étape 1 : Creer le role PG (app_readonly) avec les grants minimaux."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "OAuth 2.0 dans PostgreSQL 18 : bearer tokens JWT"
 emoji: "🔐"

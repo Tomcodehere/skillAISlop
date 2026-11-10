@@ -1,5 +1,7 @@
 ---
 num: 1186
+resume: "Rédiger une séquence marketing cohérente sans envoyer de messages ni décider de la base de prospection. Étape 1 : Cadrer les inputs : audience autorisée, offre, ton, objectif et contraintes de contact validées ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Marketing Email Sequence Drafting"
 emoji: "📣"

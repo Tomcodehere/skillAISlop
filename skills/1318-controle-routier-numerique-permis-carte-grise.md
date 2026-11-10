@@ -1,5 +1,7 @@
 ---
 num: 1318
+resume: "savoir présenter ses titres numériques (permis, carte grise) lors d'un contrôle routier en 2027 via l'appli France Identité. Étape 1 : Activer permis + carte grise numériques dans France Identité (CNIe requise)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Contrôle routier numérique (permis/carte grise)"
 emoji: "🚔"

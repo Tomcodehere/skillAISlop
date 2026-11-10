@@ -1,5 +1,7 @@
 ---
 num: 731
+resume: "rédiger tous les textes d'une interface : boutons, erreurs, états vides, onboarding — clairs, humains et actionnables. Étape 1 : Clarifier « Microcopy & textes d'interface »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Microcopy & textes d'interface"
 emoji: "🔤"

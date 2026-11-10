@@ -1,5 +1,7 @@
 ---
 num: 1668
+resume: "Se mettre en conformité avec le Data Act UE (12 sept 2026) pour un produit connecté vendu en UE : exposer les données générées via une API standardisée et sécurisée, permettre le partage avec des tiers choisis, documenter — sans verrouiller les données. Étape 1 : Inventorier les données générées par le produit (capteurs, usage, logs) et leur sensibilité (1440)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data Act septembre : acces aux donnees des produits connectes"
 emoji: "⚖️"

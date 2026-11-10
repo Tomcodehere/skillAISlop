@@ -1,5 +1,7 @@
 ---
 num: 323
+resume: "réduire le temps de build : cache, parallélisme, découpage et suppression du superflu, avec le gain mesuré à chaque étape. Étape 1 : Instrumenter le build pour obtenir la répartition du temps par étape."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Optimiseur de builds & compilation"
 emoji: "🌘"

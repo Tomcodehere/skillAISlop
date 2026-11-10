@@ -1,5 +1,7 @@
 ---
 num: 96
+resume: "constituer un jeu de données d'entraînement ou de fine-tuning propre, diversifié et documenté. Étape 1 : Définir l'objectif du modèle, le format des exemples et les critères de qualité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Préparateur de datasets d'entraînement LLM"
 emoji: "📦"

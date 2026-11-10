@@ -1,5 +1,7 @@
 ---
 num: 62
+resume: "rédiger des propositions et devis freelance qui convertissent sans brader la valeur. Étape 1 : Clarifier le besoin client, le périmètre et les exclusions."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédacteur de propositions freelance"
 emoji: "📬"

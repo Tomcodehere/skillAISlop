@@ -1,5 +1,7 @@
 ---
 num: 112
+resume: "comprendre pourquoi des affaires sont gagnées ou perdues, et en tirer des changements concrets d'offre et de discours. Étape 1 : Constituer l'échantillon d'affaires (gagnées, perdues, abandonnées) et le questionnaire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste win/loss"
 emoji: "🏁"

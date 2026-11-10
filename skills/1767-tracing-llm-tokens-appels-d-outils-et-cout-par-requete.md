@@ -1,5 +1,7 @@
 ---
 num: 1767
+resume: "Mesurer le coût réel de chaque requête LLM (tokens entrée/sortie, tool calls, latence, $) via les attributs gen_ai.* d'OTel et un cost attribution par parcours utilisateur, pour optimiser ou couper. Étape 1 : Verifier que chaque span LLM porte gen_ai.request.model, gen_ai.usage.input_tokens, gen_ai.usage.output_tokens et la latence."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tracing LLM : tokens, appels d'outils et coût par requête"
 emoji: "💸"

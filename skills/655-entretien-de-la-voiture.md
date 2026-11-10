@@ -1,5 +1,7 @@
 ---
 num: 655
+resume: "planifier l'entretien de sa voiture : révisions, pneus, contrôle technique et réparations prioritaires. Étape 1 : Clarifier « Entretien de la voiture »."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Entretien de la voiture"
 emoji: "🚗"

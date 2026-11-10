@@ -1,5 +1,7 @@
 ---
 num: 264
+resume: "transformer un besoin exprimé en langage naturel en formules, tableaux croisés dynamiques et graphiques exploitables dans un tableur. Étape 1 : Clarifier la question d'analyse et la structure des données disponibles."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Automatiseur Excel & tableurs"
 emoji: "🖩"

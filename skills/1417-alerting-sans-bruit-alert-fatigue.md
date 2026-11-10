@@ -1,5 +1,7 @@
 ---
 num: 1417
+resume: "Concevoir un alerting soutenable en 2027 : seules les alertes actionnables (erreur utilisateur, SLO menacé) déclenchent, avec runbook intégré, dédup/regroupement, et revue mensuelle. Étape 1 : Lister les alertes et compter les non actionnables."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Alerting sans bruit : alert fatigue"
 emoji: "🔔"

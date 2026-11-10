@@ -1,5 +1,7 @@
 ---
 num: 149
+resume: "définir une palette de couleurs et une échelle typographique cohérentes, accessibles et adaptées à tous les supports. Étape 1 : Cadrer l'identité visée, les supports et les contraintes d'accessibilité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Designer de palettes & typographies"
 emoji: "🌈"

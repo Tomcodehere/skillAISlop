@@ -1,5 +1,7 @@
 ---
 num: 1747
+resume: "Générer des tests utiles en 2027 avec l'IA : couvrir les chemins critiques (happy + erreurs + limites 310) à 80 % sur le nouveau code, mocker les dépendances (254), vérifier par mutation testing (mutmut/Stryker) + revue humaine (1401). Étape 1 : Prompt : 'génère les tests unitaires de ce module : happy path, chaque erreur, cas limites (null, vide, max 310), mocks des dépendances externes (BDD/API "
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Tests auto generes par l'IA depuis le code"
 emoji: "🧪"

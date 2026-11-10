@@ -1,5 +1,7 @@
 ---
 num: 1223
+resume: "Transformer une intention de partenariat en démarche opérationnelle : clarifier la valeur mutuelle, identifier les interlocuteurs et dépendances, préparer les échanges, structurer un pilote et suivre les engagements. Les décisions, prises de contact et validations contractuelles restent aux personnes habilitées. Étape 1 : Clarifier le résultat souhaité et pourquoi un partenaire est nécessaire."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Partnership Development & Execution"
 emoji: "🎨"

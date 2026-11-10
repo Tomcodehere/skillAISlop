@@ -1,5 +1,7 @@
 ---
 num: 1798
+resume: "Piloter l'expérience développeur en 2027 avec le framework SPACE (Satisfaction, Performance, Activité, Communication, Efficacité) + DORA, en évitant les vanity metrics (commits, lignes) et en intégrant le harness engineering des agents de code. Étape 1 : DORA : lead time (commit-supérieur àprod), fréquence de deploiement, MTTR (1758), change failure rate — depuis la CI."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "DevEx : métriques SPACE + DORA et harness engineering"
 emoji: "🚀"

@@ -1,5 +1,7 @@
 ---
 num: 699
+resume: "organiser un déménagement international : choix du mode de transport, douane, assurances, et transfert de domicile. Étape 1 : Choisir le transport : inventaire volumique, LCL vs FCL vs aérien, devis comparés, assurance transport, délais."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Déménagement international"
 emoji: "🌐"

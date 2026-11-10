@@ -1,5 +1,7 @@
 ---
 num: 1100
+resume: "Définir une politique de conservation et suppression cohérente avec les usages et obligations confirmées. Étape 1 : Cadrer les inputs : catégories de données, finalités, obligations validées et contraintes de restauration ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Data Retention Policy Design"
 emoji: "🤖"

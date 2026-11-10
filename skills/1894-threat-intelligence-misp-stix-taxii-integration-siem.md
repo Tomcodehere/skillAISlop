@@ -1,5 +1,7 @@
 ---
 num: 1894
+resume: "Alimenter la détection avec de la threat intelligence (MISP open source ou flux STIX/TAXII commerciaux) : IOCs intégrés au SIEM (1453)/EDR (1891) pour blocage automatique, scoring de confiance (TLP). Étape 1 : MISP : rejoindre les communautés (secteur, éditeur), configurer TLP, synchronisation."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Threat intelligence : MISP, STIX/TAXII, intégration SIEM"
 emoji: "🕵️"

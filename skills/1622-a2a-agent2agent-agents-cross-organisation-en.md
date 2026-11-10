@@ -1,5 +1,7 @@
 ---
 num: 1622
+resume: "Mettre en place A2A en 2027 pour la coordination agent-à-agent cross-organisation : Agent Card publié (.well-known/agent.json), découverte, délégation de tâche avec suivi de statut et artifacts. Étape 1 : Publier son Agent Card : /.well-known/agent.json (name, capabilities, skills, url, auth scheme)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "A2A (Agent2Agent) : agents cross-organisation en"
 emoji: "🤝"

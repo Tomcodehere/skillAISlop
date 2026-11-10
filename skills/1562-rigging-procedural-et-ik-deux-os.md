@@ -1,5 +1,7 @@
 ---
 num: 1562
+resume: "Appliquer l'IK à 2 os en 2027 (Two Bone IK Unity / FABRIK) : un effecteur (pied/main) atteint une cible (sol, poignée d'arme) avec la rotation calculée automatiquement, poids d'IK 0-1 pour mélanger anim et IK. Étape 1 : Raycast (1524) depuis la hanche + 0,5 m vers le bas → hit sol → target pied = hit.point + offset."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rigging procédural et IK deux os"
 emoji: "🦴"

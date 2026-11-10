@@ -1,5 +1,7 @@
 ---
 num: 329
+resume: "placer les points de contrôle humains d'un agent : où l'approbation est requise, avec quel niveau d'urgence et quel délai acceptable. Étape 1 : Lister les actions possibles de l'agent et les classer par irréversibilité."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Concepteur de points de contrôle humains"
 emoji: "🌝"

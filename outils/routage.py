@@ -2989,6 +2989,314 @@ SYNONYMES = [
     ("explique la différence entre SAS et SARL", 668),
     ("notre ton de marque", 691),
 
+    ("micro-entreprise BTP", 1901),
+    ("démarrer artisan bâtiment", 1901),
+    ("immatriculation RNE artisan", 1901),
+    ("obligations légales artisan", 1902),
+    ("checklist conformité BTP", 1902),
+    ("amende RNE 15 000", 1902),
+    ("rédiger un devis travaux", 1903),
+    ("mentions obligatoires devis BTP", 1903),
+    ("acompte devis max 30", 1903),
+    ("mentions obligatoires facture 2026", 1904),
+    ("Factur-X obligatoire", 1904),
+    ("amende facture 75 000", 1904),
+    ("micro entreprise ou SARL artisan", 1905),
+    ("quel statut pour artisan BTP", 1905),
+    ("EURL ou SASU travaux", 1905),
+    ("devenir RGE artisan", 1906),
+    ("label qualibat coût 2026", 1906),
+    ("MaPrimeRénov condition RGE", 1906),
+    ("assurance décennale obligatoire artisan", 1907),
+    ("prix RC Pro BTP 2026", 1907),
+    ("décennale loi Spinetta", 1907),
+    ("équipements protection individuelle obligatoires chantier", 1908),
+    ("harnais EN 361 longe EN 355", 1908),
+    ("durée de vie harnais 10 ans", 1908),
+    ("rédiger un PPSPS", 1909),
+    ("coordination SPS obligatoire quand", 1909),
+    ("DUERP artisan solo obligatoire", 1909),
+    ("norme électrique NF C 15-100 2026", 1910),
+    ("attestation Consuel obligatoire", 1910),
+    ("volumes salle de bain électricité", 1910),
+    ("normes plomberie DTU évacuation", 1911),
+    ("disconnecteur BA obligatoire", 1911),
+    ("test étanchéité plomberie", 1911),
+    ("faire un métré chantier", 1912),
+    ("calculer prix main d'œuvre BTP", 1912),
+    ("déboursé sec définition", 1912),
+    ("tri déchets chantier obligatoire 7 flux", 1913),
+    ("bordereau BSD déchets dangereux", 1913),
+    ("déchetterie chantier benne", 1913),
+    ("louer ou acheter nacelle", 1914),
+    ("prix location échafaudage 2026", 1914),
+    ("VGP engins levage vérification", 1914),
+    ("lire plan architecte échelle", 1915),
+    ("cotes chaînage plan bâtiment", 1915),
+    ("symboles plan construction DCE", 1915),
+    ("préparer un chantier travaux étapes", 1916),
+    ("DT-DICT obligatoire avant travaux", 1916),
+    ("implantation piquetage chantier", 1916),
+    ("procès-verbal réception travaux réserves", 1917),
+    ("DOE dossier ouvrages exécutés contenu", 1917),
+    ("garantie décennale date début", 1917),
+    ("litige travaux artisan client que faire", 1918),
+    ("mise en demeure LRAR chantier", 1918),
+    ("déclarer sinistre décennale 5 jours", 1918),
+    ("reprendre entreprise artisanale BTP", 1919),
+    ("valorisation fonds de commerce artisan", 1919),
+    ("garantie actif passif cession", 1919),
+    ("préparer vente entreprise artisanale", 1920),
+    ("valoriser PME travaux 2026", 1920),
+    ("trouver repreneur artisan", 1920),
+    ("aménager atelier bois garage", 1921),
+    ("aspirateur poussière bois classe M", 1921),
+    ("électricité atelier menuiserie 380V", 1921),
+    ("quels outils électroportatifs acheter menuiserie", 1922),
+    ("scie circulaire plongeante rail", 1922),
+    ("défonceuse à quoi ça sert", 1922),
+    ("quelle essence bois choisir meuble", 1923),
+    ("classe emploi bois extérieur classe 3 4", 1923),
+    ("prix m3 chêne pin douglas 2026", 1923),
+    ("comment dégauchir une planche", 1924),
+    ("ordre dégauchisseuse raboteuse", 1924),
+    ("scier bois sens du fil éclats", 1924),
+    ("tenon mortaise comment faire", 1925),
+    ("queue d'aronde à la défonceuse", 1925),
+    ("lamello biscuit assemblage", 1925),
+    ("quelle colle bois choisir PVA PU", 1926),
+    ("temps séchage colle à bois", 1926),
+    ("serrage collage serre-joints combien", 1926),
+    ("huile ou vernis plan de travail bois", 1927),
+    ("lasurer bois extérieur fréquence", 1927),
+    ("céruser un meuble comment", 1927),
+    ("restaurer meuble ancien étapes", 1928),
+    ("décaper meuble bois sans l'abîmer", 1928),
+    ("traitement trous de vers bois", 1928),
+    ("fixer étagère mur placo cheville molly", 1929),
+    ("fabriquer étagère bois plan étapes", 1929),
+    ("charge max étagère équerres", 1929),
+    ("fabriquer un meuble en bois soi-même plan", 1930),
+    ("assembler caisson meuble vis colle", 1930),
+    ("ajuster porte meuble jeu 2 mm", 1930),
+    ("poser charnière meuble réglage 3 vis", 1931),
+    ("coulisse tiroir soft close installer", 1931),
+    ("loquet magnétique meuble pose", 1931),
+    ("poussières bois cancérogènes atelier aspiration", 1932),
+    ("EPI atelier menuiserie masque lunettes", 1932),
+    ("règles sécurité scie circulaire défonceuse", 1932),
+    ("trusquin à quoi ça sert traçage", 1933),
+    ("vérifier équerre meuble diagonales", 1933),
+    ("cotes fonctionnelles assemblage jeu", 1933),
+    ("scie japonaise dozuki utilisation", 1934),
+    ("couper un tenon à la main", 1934),
+    ("ciseau à bois maillet biseau", 1934),
+    ("quel grain ponçage bois ordre 80 120 240", 1935),
+    ("poncer dans le sens du fil pourquoi", 1935),
+    ("épongeage bois avant finition", 1935),
+    ("teinture bois à l'eau ou alcool différence", 1936),
+    ("céruser bois chêne effet blanc", 1936),
+    ("vieillir le bois thé vinaigre", 1936),
+    ("poser parquet stratifié soi-même étapes", 1937),
+    ("jeu dilatation parquet 10 mm pourquoi", 1937),
+    ("sous-couche parquet pare-vapeur obligatoire", 1937),
+    ("plan de travail bois massif poser soi-même", 1938),
+    ("huile dure alimentaire plan cuisine", 1938),
+    ("jonction plan de travail angle 45", 1938),
+    ("porte qui frotte comment régler paumelles", 1939),
+    ("changer joint fenêtre bois EPDM", 1939),
+    ("restaurer vieille fenêtre bois étapes", 1939),
+    ("lasure bois terrasse fréquence réapplication", 1940),
+    ("classe emploi 3 ou 4 différence", 1940),
+    ("bois autoclave classe 4 c'est quoi", 1940),
+    ("débuter tournage sur bois tour à bois", 1941),
+    ("gouge à ébaucher à quoi ça sert", 1941),
+    ("vitesse tour bois selon diamètre", 1941),
+    ("cintrer bois à la vapeur moule", 1942),
+    ("lamellé collé cintré comment faire", 1942),
+    ("rebond élastique cintrage bois", 1942),
+    ("poser placage bois soi-même fer à repasser", 1943),
+    ("placage de chant thermocollant poser", 1943),
+    ("marqueterie débutant essences couleurs", 1943),
+    ("boucher trou dans bois pâte à bois teinte", 1944),
+    ("flipot réparer fissure panneau", 1944),
+    ("nœud sauté bois remplacer goujon", 1944),
+    ("calculer prix meuble sur mesure artisan", 1945),
+    ("taux horaire menuisier 2026", 1945),
+    ("marge à prendre devis menuiserie", 1945),
+    ("lire plan meuble avant fabrication", 1946),
+    ("nomenclature meuble c'est quoi", 1946),
+    ("dessiner plan meuble SketchUp gratuit", 1946),
+    ("défonceuse rainure languette réglage profondeur", 1947),
+    ("fraise à feuillure à quoi ça sert", 1947),
+    ("sens avance défonceuse sécurité", 1947),
+    ("insert fileté bois poser démontable", 1948),
+    ("écrou à frapper bois assembler meuble démontable", 1948),
+    ("assembler lit démontable ferrures", 1948),
+    ("vernis au pistolet HVLP réglage pression buse", 1949),
+    ("diluer vernis polyuréthane combien", 1949),
+    ("masque vapeurs organiques vernis A2P3", 1949),
+    ("affûter ciseau à bois pierre à eau grain", 1950),
+    ("angle affûtage ciseau menuisier 25 degrés", 1950),
+    ("test fil lame ciseau coupe cheveu", 1950),
+    ("comment tricoter pour débutant", 1951),
+    ("première paire aiguilles laine débutant", 1951),
+    ("écharpe tricot première projet", 1951),
+    ("aiguilles droites ou circulaires différence", 1952),
+    ("lire étiquette pelote laine DK worsted", 1952),
+    ("laine mérinos ou acrylique débutant", 1952),
+    ("faire un échantillon tricot gauge", 1953),
+    ("mesurer mailles 10 cm après blocage", 1953),
+    ("changer taille aiguilles tricot tension", 1953),
+    ("point mousse tricot comment faire", 1954),
+    ("différence jersey et point mousse", 1954),
+    ("côtes 1/1 tricot bordure élastique", 1954),
+    ("tricoter bonnet en rond sans couture", 1955),
+    ("magic loop tricot aiguilles circulaires", 1955),
+    ("diminutions bonnet tricot régulièrement", 1955),
+    ("abréviations patron tricot français M1L", 1956),
+    ("choisir taille patron tricot selon mensurations", 1956),
+    ("patron raglan tricot explications", 1956),
+    ("premier projet tricot facile bonnet", 1957),
+    ("tricoter snood tube rond débutant", 1957),
+    ("chaussettes tricot talon comment faire", 1957),
+    ("laver un pull en laine machine comment", 1958),
+    ("bloquer tricot épingler dimensions sécher", 1958),
+    ("laine superwash différence lavage", 1958),
+    ("enlever bouloches pull laine rasoir", 1959),
+    ("repriser un trou dans un pull technique", 1959),
+    ("maille tombée pull remonter aiguille", 1959),
+    ("monter des mailles tricot méthode longue queue", 1960),
+    ("rabattre mailles souplement tricot bonnet", 1960),
+    ("cast on cast off tricot français", 1960),
+    ("quelle machine à coudre acheter débutant 2026", 1961),
+    ("Brother FS40 ou Singer 3232 avis", 1961),
+    ("régler tension fil machine à coudre", 1961),
+    ("enfiler machine à coudre étape par étape", 1962),
+    ("canette mal enfilée symptômes fil dessous", 1962),
+    ("tension 4 ou 5 machine coudre défaut", 1962),
+    ("point zigzag à quoi ça sert couture", 1963),
+    ("boutonnière machine 4 temps régler taille", 1963),
+    ("point d'arrêt début couture machine", 1963),
+    ("surfiler un bord au zigzag serré comment", 1964),
+    ("ourlet invisible machine à coudre point", 1964),
+    ("pré-laver tissu avant couture rétrécissement", 1964),
+    ("poser zip invisible robe pied spécial", 1965),
+    ("fermeture éclair qui bloque coincée réparer", 1965),
+    ("zip séparable veste coudre étapes", 1965),
+    ("endroit contre endroit coudre pourquoi", 1966),
+    ("valeur de couture 1 cm repère plaque machine", 1966),
+    ("cranter courbe couture retourner à plat", 1966),
+    ("pré-laver tissu coton rétrécissement pourcentage", 1967),
+    ("droit-fil tissu couture c'est quoi", 1967),
+    ("entoilage thermocollant quand l'utiliser", 1967),
+    ("lire patron couture Fait Main symboles", 1968),
+    ("quelle taille choisir patron 34 36 38 mensurations", 1968),
+    ("métrage tissu patron selon laize 140 cm", 1968),
+    ("premier projet couture tote bag tutoriel", 1969),
+    ("coussin zip coudre débutant étapes", 1969),
+    ("tablier couture patron gratuit simple", 1969),
+    ("coudre un bouton 4 trous à la main tige", 1970),
+    ("point arrière couture main quand l'utiliser", 1970),
+    ("ourlet invisible à la main point espacé 1 cm", 1970),
+    ("feutrage à l'aiguille comment débuter", 1971),
+    ("aiguilles 36 38 40 à feutrer différence", 1971),
+    ("laine cardée roving mérinos acheter", 1971),
+    ("laine cardée ou peignée feutrage différence", 1972),
+    ("roving mérinos acheter 50g prix", 1972),
+    ("laine corriedale feutrage boule cœur", 1972),
+    ("faire une boule laine feutrée serrée", 1973),
+    ("cône feutrage chapeau gabarit mousse", 1973),
+    ("feutrage rétrécit combien pourcentage", 1973),
+    ("figurine kawaii feutrage patron proportions", 1974),
+    ("yeux figurine feutrée sécurité enfant", 1974),
+    ("tête grosse corps petit style kawaii", 1974),
+    ("feutrer un pull à l'eau chaude savon", 1975),
+    ("chapeau feutré à l'eau 40 degrés méthode", 1975),
+    ("laine superwash ne feutre pas pourquoi", 1975),
+    ("faire une broche en feutre aiguille attache", 1976),
+    ("boucles d'oreilles feutrine découper coudre", 1976),
+    ("barrette feutre pince croco DIY", 1976),
+    ("faire des chaussons en feutre soi-même forme pied", 1977),
+    ("sac en laine feutrée à l'eau anses cuir", 1977),
+    ("semelle chausson feutre coudre cuir", 1977),
+    ("boucher trou pull laine avec feutre patch", 1978),
+    ("réparer trou mite laine feutré aiguille", 1978),
+    ("feutrer un patch réparation laine 40G", 1978),
+    ("aiguille à feutrer dans le doigt que faire", 1979),
+    ("doigtier cuir feutrage acheter", 1979),
+    ("ranger aiguilles à feutrer étui sécurité", 1979),
+    ("kit débutant feutrage aiguille acheter 20 euros", 1980),
+    ("où acheter laine cardée roving mérinos", 1980),
+    ("budget premier mois loisirs créatifs feutrage", 1980),
+    ("apprendre macramé nœuds débutant tutoriel", 1981),
+    ("porte-plante macramé patron gratuit corde 5mm", 1981),
+    ("nœud carré spirale macramé différence", 1981),
+    ("cuire Fimo à quelle température combien de temps", 1982),
+    ("Fimo Soft ou Professional différence", 1982),
+    ("effet marbré pâte polymère technique", 1982),
+    ("perles Fimo rouler cuire trou avant cuisson", 1983),
+    ("montage boucles d'oreilles pâte polymère crochets", 1983),
+    ("effet marbré ou canne Fimo bijou technique", 1983),
+    ("cire de soja ou paraffine bougie DIY différence", 1984),
+    ("taux huile essentielle dans bougie 5 8 pourcent", 1984),
+    ("mèche coton centrer socle métal bougie", 1984),
+    ("recette savon saponification à froid débutant", 1985),
+    ("soude caustique NaOH savon sécurité EPI gants", 1985),
+    ("cure savon 4 6 semaines pH 9 10 test", 1985),
+    ("scrapbooking débuter quel matériel acheter", 1986),
+    ("washi tape à quoi ça sert scrapbooking", 1986),
+    ("colle sans acide photos pourquoi", 1986),
+    ("Cricut Explore 3 ou Maker 3 différence prix", 1987),
+    ("vinyle adhésif poser mur lettrage étapes", 1987),
+    ("tapis de coupe Cricut nettoyer colle résidu", 1987),
+    ("quelle peinture acrylique acheter débutant couleurs de base", 1988),
+    ("toile cartonnée ou chassis entoilé différence", 1988),
+    ("médium acrylique à quoi ça sert glacis", 1988),
+    ("papier aquarelle 300g bloc collé ou feuille à coller", 1989),
+    ("godets ou tubes aquarelle que choisir débutant", 1989),
+    ("lavis dégradé aquarelle technique mouillé sur mouillé", 1989),
+    ("points de broderie de base apprendre point arrière tige", 1990),
+    ("tambour broderie 15 cm quel tissu tendre", 1990),
+    ("fil mouliné DMC combien de brins séparer", 1990),
+    ("quel appareil pyrogravure acheter débutant 50 euros", 1991),
+    ("pyrogravure sur quel bois tilleul peuplier", 1991),
+    ("transférer un dessin sur bois papier carbone", 1991),
+    ("kintsugi kit acheter débutant laque urushi", 1992),
+    ("réparer bol cassé doré wabi-sabi", 1992),
+    ("laque urushi allergie précaution kintsugi", 1992),
+    ("yarn bombing légal autorisation mairie", 1993),
+    ("tricoter autour d'un poteau yarn bombing tutoriel", 1993),
+    ("quel fil acrylique pour yarn bombing extérieur UV", 1993),
+    ("relooker meuble sans décaper chalk paint", 1994),
+    ("customiser un jean peinture tissu patches", 1994),
+    ("transformer vieux t-shirt en tote bag couture", 1994),
+    ("art journal débuter quelle carnet papier 300g", 1995),
+    ("mixed media page exemple collage pochoir gesso", 1995),
+    ("idée page art journal semaine thème", 1995),
+    ("bracelet perles rocailles fil élastique nœud chirurgien", 1996),
+    ("technique wrapped loop tige œil pince ronde", 1996),
+    ("fermoir collier installer pince plate tutoriel", 1996),
+    ("sériraphie kit débutant 50 euros tee-shirt imprimer", 1997),
+    ("risographie c'est quoi effet grain machine Riso", 1997),
+    ("encre sérigraphie à l'eau papier carton tirage manuel", 1997),
+    ("peindre sur un t-shirt avec peinture tissu fixer fer", 1998),
+    ("patch thermocollant poser fer 150 degrés combien temps", 1998),
+    ("broder directement sur un jean troué", 1998),
+    ("vendre sur Etsy frais commission 2026 auto-entrepreneur", 1999),
+    ("marché de créateurs autorisation mairie assurance RC Pro", 1999),
+    ("calculer prix vente création artisanale matière temps marge x2", 1999),
+    ("organiser coin loisirs créatifs petit appartement rangement", 2000),
+    ("combien de temps par semaine pour progresser hobby", 2000),
+    ("budget mensuel loisirs créatifs 30 50 euros", 2000),
+    ("exercer mon droit de rétractation", 850),  # rescue golden vague 22
+    ("classement papier hebdomadaire vendredi", 862),  # rescue golden vague 22
+    ("lag compensation rewind raycast état ancien", 1545),  # rescue golden vague 22
+    ("comparer assurances habitation", 965),  # rescue golden vague 22
+
+    ("session hebdomadaire classement papier 15 min vendredi", 862),  # rescue golden vague 22
+    ("compare les assurances habitation 2027", 965),  # rescue golden vague 22 (965 = assurance habitation, meilleur gagnant que 1360)
+
 ]
 
 # ---------------------------------------------------------------------------
@@ -4765,7 +5073,946 @@ TESTS_ROUTAGE = [
     ("security.txt RFC 9116 publié + security@ répond < 5 j (testé avec un faux rapport)", 1900),
     ("triage : rapport high SSVC 1826 -> patch en 5 j (canary 1418) + re-test + clôture + métrique publiée", 1900),
 
+    ("auto-entrepreneur BTP", 1901),
+    ("obligations légales artisan BTP", 1902),
+    ("devis BTP conforme", 1903),
+    ("facture artisan mentions obligatoires", 1904),
+    ("statut juridique artisan comparatif", 1905),
+    ("label Qualibat RGE artisan", 1906),
+    ("assurance décennale RC Pro chantier", 1907),
+    ("EPI chantier obligations 2026", 1908),
+    ("PPSPS coordination SPS DUERP", 1909),
+    ("NF C 15-100 Consuel électricien", 1910),
+    ("plomberie normes DTU sanitaire", 1911),
+    ("devis quantitatif estimatif métré", 1912),
+    ("déchets chantier tri 7 flux BSD", 1913),
+    ("location matériel chantier nacelle échafaudage", 1914),
+    ("lire plan construction échelle cotes DCE", 1915),
+    ("préparer chantier implantation réseaux accès", 1916),
+    ("réception chantier procès-verbal réserves DOE", 1917),
+    ("litige chantier BTP expertise médiation", 1918),
+    ("reprise cession entreprise artisanale BTP", 1919),
+    ("vendre son entreprise artisanale valorisation", 1920),
+    ("installer atelier menuiserie amateur", 1921),
+    ("outillage électroportatif menuiserie scie défonceuse", 1922),
+    ("choisir essence bois chêne hêtre pin durabilité", 1923),
+    ("dégauchir raboter bois scie à ruban sens du fil", 1924),
+    ("assemblages bois tenon mortaise queue aronde lamello", 1925),
+    ("colle bois vinylique PU serrage temps séchage", 1926),
+    ("finition bois huile vernis cire lasure lasurer", 1927),
+    ("restaurer meuble ancien décapage recollage", 1928),
+    ("fabriquer étagère murale bois fixation chevilles", 1929),
+    ("fabriquer meuble caisson bois DIY plan", 1930),
+    ("quincaillerie ferrures charnières coulisses serrures pose", 1931),
+    ("sécurité atelier bois aspiration poussières EPI stop urgence", 1932),
+    ("traçage bois trusquin équerre cotes fonctionnelles", 1933),
+    ("scie manuelle bois scie à dos japonaise coupe nette", 1934),
+    ("poncer bois grain 80 240 sens du fil cale", 1935),
+    ("teindre bois teinture eau alcool patine cérusé", 1936),
+    ("poser parquet flottant clipsé sous-couche plinthes", 1937),
+    ("plan de travail bois lamellé collé huile dure jonction", 1938),
+    ("régler porte bois paumelles joint rénovation fenêtre", 1939),
+    ("bois extérieur lasure classe 3 4 autoclave entretien", 1940),
+    ("tour à bois tourner bol entre-pointes", 1941),
+    ("cintrer bois vapeur lamellé cintré cintreuse", 1942),
+    ("placage bois marqueterie fer à repasser colle contact", 1943),
+    ("réparer fissure bois mastic greffe flipot", 1944),
+    ("chiffrer ouvrage menuiserie prix matière temps vente", 1945),
+    ("lire plan meuble nomenclature cotes découpe", 1946),
+    ("défonceuse fraises rainure feuillure languette guide parallèle", 1947),
+    ("assemblage démontable inserts filetés écrous à frapper", 1948),
+    ("vernis pistolet HVLP dilution couches ponçage", 1949),
+    ("affûter ciseau burin pierre angle 25 30 degrés", 1950),
+    ("apprendre à tricoter débutant", 1951),
+    ("choisir laine aiguilles tricot droites circulaires doubles pointes", 1952),
+    ("échantillon tricot gauge 10x10 mesurer tension ajuster", 1953),
+    ("points tricot base endroit envers mousse jersey côtes", 1954),
+    ("tricot en rond circulaire marqueur bonnet sans couture", 1955),
+    ("lire patron tricot abréviations tailles augmentations diminutions raglan", 1956),
+    ("projet tricot débutant bonnet écharpe snood moufles chaussettes", 1957),
+    ("bloquer ouvrage tricot laver laine sécher à plat finition", 1958),
+    ("repriser pull laine reprise de mailles boulochage anti-peluches", 1959),
+    ("monter mailles tricot longue queue rabattre souple", 1960),
+    ("choisir machine à coudre débutant Brother Singer réglage", 1961),
+    ("enfiler machine à coudre canette bobine tension fil", 1962),
+    ("points couture machine droit zigzag boutonnière ourlet", 1963),
+    ("surfiler ourlet machine zigzag overlock ourlet invisible double pli", 1964),
+    ("poser fermeture éclair zip centrale invisible séparable", 1965),
+    ("assembler vêtement couture endroit contre endroit valeur 1 cm point arrêt", 1966),
+    ("choisir tissu couture droit-fil bâtir prélavage entoilage", 1967),
+    ("lire patron couture Fait Main tailles 34 54 symboles marges", 1968),
+    ("projet couture débutant tote bag coussin tablier 30 min par jour", 1969),
+    ("coudre bouton à la main point arrière surjet main ourlet invisible", 1970),
+    ("feutrage à l'aiguille débutant aiguilles 36 38 40", 1971),
+    ("laine cardée roving peignée mérinos corriedale feutrage", 1972),
+    ("forme base feutrage boule cylindre cône bloc mousse gabarit", 1973),
+    ("figurine kawaii feutrage 3D yeux détails finition 40G", 1974),
+    ("feutrage à l'eau chaude savon Marseille friction rétrécissement", 1975),
+    ("bijoux feutre broche boucles d'oreilles barrette chapeau feutré", 1976),
+    ("chaussons feutre semelle moule doublure sac feutré à l'eau", 1977),
+    ("repriser pull laine feutré patch trou reprise feutrée", 1978),
+    ("sécurité aiguilles à feutrer pointe acérée doigtier rangement", 1979),
+    ("kit débutant feutrage 20 25 euros fournisseurs spécialisés", 1980),
+    ("macramé débutant nœuds plat carré spirale porte-plante", 1981),
+    ("pâte polymère Fimo Cernit cuisson four 110 130 degrés marbré", 1982),
+    ("bijoux Fimo perles boucles pendentifs montage", 1983),
+    ("faire bougie parfumée cire végétale soja mèche huile essentielle", 1984),
+    ("savon naturel saponification à froid soude huile surgraissage cure", 1985),
+    ("scrapbooking album vacances papiers tampons washi tape", 1986),
+    ("machine de coupe Cricut Explore 3 Maker 3 Joy vinyle sticker", 1987),
+    ("peinture acrylique débutant toile pinceaux glacis médium couches", 1988),
+    ("aquarelle débutant papier 300g godets lavis sel masque liquide", 1989),
+    ("broderie moderne tambour fils moulinés points base droit arrière nœud coulé tige", 1990),
+    ("pyrogravure bois appareil pyrograveur essences tendres gabarits", 1991),
+    ("kintsugi réparer céramique laque poudre or wabi-sabi", 1992),
+    ("yarn bombing tricoter autour objets urbains autorisation fils acrylique", 1993),
+    ("upcycling meuble relooker customiser textile jean peinture chalk paint", 1994),
+    ("art journal carnet créatif mixed media collage pochoirs gesso", 1995),
+    ("perles rocailles bijoux fantaisie montage fil élastique fermoirs", 1996),
+    ("sériraphie risographie petites séries encres écrans tirage manuel", 1997),
+    ("customiser vêtement jean tee-shirt peinture tissu patches thermocollants broderie", 1998),
+    ("vendre créations artisanales Etsy A Little Market marchés prix fiches produit", 1999),
+    ("organiser atelier loisirs créatifs rangement lumière budget temps", 2000),
 ]
+
+# Tests EN (pilote multilingue) : routés avec lang="en" sur les sidecars .en.md
+TESTS_ROUTAGE_EN = [
+    ("how do I write an SEO blog post", 1),
+    ("rewrite this text in a different tone", 2),
+    ("write an advertising headline that converts", 3),
+    ("write a professional email to decline politely", 4),
+    ("summarize a long document in 5 bullet points", 5),
+    ("run a structured brainstorming session", 6),
+    ("translate this text professionally", 7),
+    ("proofread and correct my text", 8),
+    ("generate commented code", 9),
+    ("review and debug my code", 10),
+    ("which skill should I use for this", 0),
+    ("explain a concept simply to a beginner", 11),
+    ("prepare for my job interview", 12),
+    ("analyse sales data trends and KPIs", 13),
+    ("create a presentation deck with slides for the board", 14),
+    ("plan a project with milestones and risks", 15),
+    ("what does this contract clause mean", 16),
+    ("help me improve this prompt", 17),
+    ("deep research on the EV market", 18),
+    ("grill me on my migration plan", 19),
+    ("debug this intermittent bug", 20),
+    ("write meeting minutes", 24),
+    ("my inbox is overflowing", 25),
+    ("I procrastinate on big tasks", 26),
+    ("write a 30s TikTok ad script", 29),
+    ("optimise my LinkedIn post", 30),
+    ("write a LinkedIn post about my product launch", 31),
+    ("benchmark our 3 main competitors", 32),
+    ("build user personas for our app", 33),
+    ("create a skill package in SKILL.md format", 38),
+    ("make flashcards from this chapter", 40),
+    ("run a mock exam with grading", 41),
+    ("plan a 10-day trip to Japan", 42),
+    ("write cold emails that get replies", 54),
+    ("fill a business model canvas", 57),
+    ("design our pricing tiers", 58),
+    ("run a project premortem", 60),
+    ("challenge this decision, play devil's advocate", 61),
+    ("write a PRD with user stories", 63),
+    ("audit this interface for UX issues", 64),
+    ("write unit tests for this function", 67),
+    ("write the commit message and PR description", 68),
+    ("write a SQL query for our schema", 69),
+    ("security audit of this code", 70),
+    ("design OKRs for next quarter", 74),
+    ("write a wedding speech", 75),
+    ("build an MCP server for our database", 77),
+    ("scrape these public pages into structured data", 91),
+    ("remove duplicates and anomalies from this dataset", 92),
+    ("design a RAG pipeline over our documents", 98),
+    ("write the system prompt for our agent", 100),
+    ("map these concepts visually", 101),
+    ("answer questions over my personal documents", 102),
+    ("analyse a market sector", 103),
+    ("summarise this scientific paper", 104),
+    ("analyse cohort retention and churn", 106),
+    ("design an A/B test properly", 110),
+    ("prioritise my sales pipeline with lead scoring", 111),
+    ("write a client case study", 124),
+    ("write a press release", 126),
+    ("write a one-page decision memo", 127),
+    ("write a step-by-step user guide", 130),
+    ("explain this to kids simply", 132),
+    ("format APA citations and a bibliography", 133),
+    ("plan our editorial calendar", 135),
+    ("write transactional emails", 138),
+    ("write an image generation prompt", 139),
+    ("design a colour palette and fonts", 149),
+    ("write a technical SEO audit", 161),
+    ("conversion rate optimisation cro strategy for our website", 162),
+    ("plan a product launch", 163),
+    ("write a cold call script", 165),
+    ("prepare an investor pitch deck", 171),
+    ("audit accessibility WCAG", 177),
+    ("write developer API docs", 180),
+    ("design a design system", 181),
+    ("design a form with fewer fields and less drop-off", 182),
+    ("prioritise the product backlog", 185),
+    ("anonymise this customer dataset for GDPR", 189),
+    ("write our company AI charter", 193),
+    ("harden our bot against prompt injection", 195),
+    ("audit access rights in our cloud", 197),
+    ("write a security incident runbook", 199),
+    ("design an employee onboarding", 203),
+    ("write an internal remote work policy", 207),
+    ("plan a facilitated workshop agenda for the team", 208),
+    ("plan a home renovation project", 220),
+    ("design home automation scenarios", 222),
+    ("prioritise my daily todo list", 223),
+    ("plan my moving checklist and logistics", 225),
+    ("build a workout plan for a 5k", 214),
+    ("audit my subscriptions to save money", 230),
+    ("plan a career change into UX", 231),
+    ("crisis communication holding statement", 235),
+    ("debug a failing prompt", 237),
+    ("write annotation guidelines", 238),
+    ("write a grant application", 240),
+    ("prepare my thesis defence", 241),
+    ("find open data on housing prices", 242),
+    ("prepare an ISO audit", 243),
+    ("clean up my digital accounts", 247),
+    ("organise my digital legacy", 246),
+    ("add a skill to the library properly", 250),
+    ("write an E2E playwright test", 252),
+    ("audit web performance Core Web Vitals", 253),
+    ("plan a load test", 255),
+    ("investigate a production incident", 256),
+    ("onboard me onto this unknown codebase", 257),
+    ("orchestrate a multi-agent pipeline", 259),
+    ("design long-term memory for an agent", 260),
+    ("generate synthetic test data", 263),
+    ("fine-tuning versus RAG architecture choice for our assistant", 266),
+    ("sbom and dependency inventory with licences", 267),
+    ("extract a table from a scanned PDF", 268),
+    ("dpia data protection impact assessment for our platform", 272),
+    ("ai act risk classification of our system", 271),
+    ("build a business continuity plan", 273),
+    ("cv screening candidate shortlist scoring grid", 274),
+    ("write my annual self-assessment", 277),
+    ("write viral hooks for a video", 278),
+    ("localise our app into German", 280),
+    ("answer negative online reviews", 282),
+    ("find a meeting slot across 3 timezones", 284),
+    ("organise my messy Downloads folder", 286),
+    ("diagnose my washing machine", 291),
+    ("prepare a raise request", 294),
+    ("compare two loan offers", 298),
+    ("design gamification for our app", 300),
+
+    ("manage parallel branches with git worktrees", 301),
+    ("apply TDD test-first on a function", 302),
+    ("ship behind a feature flag", 304),
+    ("handle secrets with a vault and rotation", 306),
+    ("plan a dependency upgrade", 307),
+    ("profile a memory leak", 308),
+    ("find the guilty commit with git bisect", 315),
+    ("optimise a slow SQL query", 318),
+    ("design webhooks with retries and signing", 322),
+    ("write a robust shell script", 324),
+    ("count tokens to fit the context budget", 326),
+    ("design a scheduled agent routine", 328),
+    ("trace an agent run for debugging", 330),
+
+    ("force strict JSON structured output from a model", 332),
+    ("choose the right LLM using benchmarks", 333),
+    ("audit a model for bias", 336),
+    ("detect prompt regression between two versions", 338),
+    ("shadow-test a new agent in production", 339),
+    ("profile dataset quality missing values duplicates outliers", 343),
+    ("write the SLO availability commitment with error budget", 351),
+    ("analyse session recordings heatmaps and rage clicks", 352),
+    ("write a drip email onboarding sequence", 357),
+    ("clean and segment our email list", 358),
+    ("win local SEO for our clinics", 360),
+
+    ("run an influencer campaign", 361),
+    ("write comparison and alternatives pages", 367),
+    ("prepare a personalised sales demo", 368),
+    ("chase an unpaid invoice politely", 371),
+    ("write terms and conditions for an e-shop", 374),
+    ("improve text readability", 377),
+    ("clean a raw interview transcript", 378),
+    ("write a push notification", 379),
+    ("write an editorial thread", 380),
+    ("pitch a story to journalists", 386),
+    ("write helpful error messages", 390),
+
+    ("write accessible alt-text for images", 391),
+    ("write a webinar script", 392),
+    ("write support macros with placeholders", 394),
+    ("run a pre-publication check", 395),
+    ("facilitate a live AMA", 397),
+    ("brief an external agency", 398),
+    ("announce a reorganisation calmly", 404),
+    ("write a pay equity audit plan", 410),
+    ("draft a remote work agreement", 412),
+    ("design a 360 feedback cycle", 415),
+    ("plan team continuity for holidays", 420),
+
+    ("audit team workload and rebalance", 421),
+    ("write a recommendation letter", 422),
+    ("estimate a project budget with contingency", 425),
+    ("map the stakeholders of a project", 426),
+    ("write a business case for an investment", 427),
+    ("build a RACI matrix", 434),
+    ("keep the project risk register", 435),
+    ("plan an intrusion test pentest with rules of engagement", 439),
+    ("handle a data breach notification in 72h", 444),
+    ("draft a confidentiality agreement nda", 448),
+    ("design a helpful empty state", 450),
+
+    ("design the site navigation and menus", 451),
+    ("write helpful UI error messages", 452),
+    ("design the in-app onboarding activation", 453),
+    ("produce design tokens for our rebrand", 455),
+    ("design freemium pricing tiers", 457),
+    ("audit our product for dark patterns", 460),
+    ("audit my meeting calendar load", 463),
+    ("set up deep work blocks", 465),
+    ("build a critical checklist", 467),
+    ("reduce my digital carbon footprint", 470),
+    ("build a family emergency plan", 477),
+    ("negotiate a renovation quote", 479),
+    ("organise family logistics and babysitting", 481),
+    ("coach my sleep hygiene", 483),
+    ("plan batch cooking for the week", 486),
+    ("prepare for the DELF B2 exam", 493),
+    ("design web authentication with MFA", 501),
+    ("harden HTTP headers and CSP", 502),
+    ("run a threat model STRIDE", 504),
+    ("prioritise patches and CVE remediation plan", 505),
+    ("audit our cloud security IAM", 507),
+    ("run a phishing simulation", 509),
+
+    ("manage stress and anxiety daily", 511),
+    ("crypto blockchain education and basics", 512),
+    ("start with ETFs and the stock market", 519),
+    ("learn regex with a tester", 523),
+    ("make a first game in Godot", 524),
+    ("spot an online scam SMS", 530),
+    ("start a journaling practice", 535),
+    ("humanise an AI-generated text", 538),
+    ("set up an Obsidian vault", 539),
+    ("vibe-code an app with an agent", 540),
+
+    ("audit our budget and forecast", 541),
+    ("extract data from scanned invoices OCR", 543),
+    ("build a Discord moderation bot", 544),
+    ("explain statistics significance and sample size", 547),
+    ("build my personal brand on LinkedIn", 548),
+    ("write our company vision and values", 551),
+    ("check open source licences of dependencies", 553),
+    ("detect a deepfake disinformation video", 561),
+    ("freelance status obligations taxes auto-entrepreneur", 562),
+    ("write a best-man wedding speech", 564),
+    ("learn chess tactics to progress", 567),
+    ("help with homework battles at home", 570),
+
+    ("school guidance study choices paths orientation", 571),
+    ("write a pop song with a hook", 573),
+    ("set up my first Twitch stream", 576),
+    ("monitor our production AI agents", 577),
+    ("prepare for the driving theory test", 580),
+    ("plan a 10k running race", 582),
+    ("fix email deliverability SPF DKIM DMARC", 586),
+    ("separation divorce procedure custody sharing", 590),
+    ("set up the 3-2-1 backup rule", 596),
+    ("set up parental controls", 597),
+    ("raise my freelance day rates", 599),
+    ("run a skills assessment bilan", 600),
+
+    ("review an AI session before committing", 601),
+    ("prepare a CTO technical review", 602),
+    ("set up visual regression tests", 603),
+    ("prepare for a SOC 2 audit", 610),
+    ("optimise visibility in AI search engines GEO", 612),
+    ("run a SWOT analysis", 613),
+    ("give a READY NOT READY pre-deploy verdict", 614),
+    ("burnout professional exhaustion motivation recovery", 617),
+    ("share the household mental load", 618),
+    ("handle a workplace harassment situation", 636),
+    ("manage cashflow with a 13-week forecast", 638),
+    ("read and check my payslip", 641),
+    ("cancel a contract within the withdrawal period", 648),
+    ("navigate an inheritance with the notary", 651),
+    ("prepare a trip to Japan", 656),
+    ("host a dinner party for 8", 657),
+
+    ("secure my passwords and enable 2FA", 665),
+    ("respond to a ransomware attack", 666),
+    ("choose a legal status for my company", 668),
+    ("learn Spanish as an adult to B2", 671),
+    ("negotiate a property purchase offer", 675),
+    ("plan a home energy renovation with grants", 678),
+    ("switch banks with the mobility service", 680),
+    ("prepare my retirement at 62", 682),
+    ("avoid an online scam call from my bank", 685),
+    ("choose an LLM for French legal docs", 689),
+    ("build a RAG over our internal docs", 690),
+    ("secure prompts against injection", 692),
+    ("fact-check an AI output", 700),
+    ("write my morning brief and standup", 701),
+    ("set up automated competitive watch", 709),
+    ("audit a SKILL.md before installing", 716),
+    ("grill me on this plan before coding", 720),
+
+    ("turn our documents into a knowledge graph", 721),
+    ("keep AI data and models in the EU", 722),
+    ("script a 30s TikTok video with a hook", 729),
+    ("structure a prompt with RCORCF", 737),
+    ("prospect on LinkedIn with social selling", 740),
+    ("run a profitable paid ads campaign", 747),
+    ("get an SME GDPR compliant", 751),
+    ("respond to a security incident with CNIL notification", 754),
+    ("prepare an oral thesis defence", 767),
+    ("write a business plan with forecast", 775),
+    ("write a compliant invoice and chase payment", 779),
+    ("choose and compare SaaS tools", 781),
+    ("recruit and interview candidates as an employer", 790),
+    ("run Scrum for a 6-person team", 793),
+    ("vet an influencer before a deal", 842),
+    ("choose between 3 vendors with a decision matrix", 844),
+    ("handle unpaid rent as a landlord", 827),
+    ("claim unemployment benefits in France", 830),
+    ("spot a fake property listing", 870),
+    ("prepare a home fire emergency plan", 859),
+
+    ("keep children safe online as a parent", 871),
+    ("spot a fake job offer scam", 874),
+    ("negotiate salary on a job offer", 875),
+    ("prepare an annual review as a manager", 876),
+    ("prepare for high-risk AI Act annex III", 900),
+    ("small local models for an SME", 903),
+    ("64-day TLS certificates with Let's Encrypt", 906),
+    ("ETIAS travel authorisation for Europe", 913),
+    ("4-day week negotiation and pilot", 918),
+    ("zero trust and AI agent identity", 908),
+    ("shadow ai governing informal uses in the company", 928),
+    ("write a will with reserved share", 963),
+    ("simulate and compare mortgage offers", 966),
+    ("handle online banking fraud", 953),
+    ("plan an expatriation visa bank health", 958),
+    ("install a home EV charger", 960),
+    ("active directory architecture design", 1004),
+    ("cloud migration strategy", 1071),
+    ("dockerfile best practices", 1110),
+    ("blender rigging and animation workflow", 1052),
+    ("godot export and build pipeline", 1150),
+    ("etl pipeline design and orchestration", 1121),
+    ("fairness and bias detection", 1127),
+    ("data retention policy design", 1100),
+    ("incident commander sre runbook", 1161),
+    ("intellectual property protection", 1170),
+
+    ("multi-agent orchestration patterns", 1196),
+    ("mysql query optimization", 1201),
+    ("prompt injection boundary evaluation", 1242),
+    ("rag and fine-tuning strategy design", 1248),
+    ("react hooks patterns", 1249),
+    ("postgresql advanced tuning", 1229),
+    ("seo audit and keyword strategy", 1269),
+    ("ui tone-of-voice specification", 1293),
+    ("web accessibility audit", 1308),
+    ("build an ai personal sports coach", 1319),
+    ("negotiate your salary", 1345),
+    ("build a decision tree", 1365),
+    ("choose the right skill for a task", 1372),
+    ("safe refactoring small steps and tests", 1405),
+    ("kubernetes configmaps secrets deployment", 1412),
+    ("load testing with k6 or locust", 1415),
+    ("window functions in sql", 1420),
+    ("react agents loop and planning", 1428),
+    ("managing long context 200k tokens", 1430),
+    ("strict csp against xss", 1452),
+    ("kafka topics partitions consumer groups", 1463),
+    ("anonymisation and pseudonymisation GDPR", 1465),
+    ("version models and data with dvc and mlflow", 1470),
+
+    ("serve an llm via internal api with vllm", 1471),
+    ("sandbox ai agents isolated execution", 1475),
+    ("graphrag query a knowledge graph", 1478),
+    ("lora qlora cheap fine-tuning", 1479),
+    ("sunsetting a feature without losing users", 1487),
+    ("choose your game engine unity godot unreal", 1500),
+    ("coyote time and jump buffering", 1510),
+    ("a star pathfinding flow fields", 1517),
+    ("weighted loot tables pity timer", 1528),
+    ("server side anti cheat validation", 1543),
+    ("publish a game on steam builds depots", 1579),
+    ("vibe 8 rolldown speed up builds", 1600),
+    ("htmx backend dynamic ui without heavy js", 1601),
+    ("webgpu client side 3d gpu compute", 1606),
+    ("choosing your agent protocol mcp a2a acp", 1623),
+    ("cilium ebpf networking security observability", 1721),
+    ("falco runtime intrusion detection", 1723),
+    ("cursor agentic ide day to day", 1740),
+    ("slo burn rate smart alerts error budget", 1757),
+    ("llm tracing tokens tool calls cost per request", 1767),
+    ("rust in the linux kernel review trajectory", 1770),
+
+    ("postgresql 18 new features overview", 1780),
+    ("hybrid tls 1.3 x25519mlkem768 pqc ready", 1791),
+    ("wasi 0.3 component model webassembly", 1793),
+    ("ai gateway route cap multi provider llm calls", 1800),
+    ("karpenter node autoscaling consolidation", 1810),
+    ("opentofu state encryption", 1812),
+    ("slsa provenance in-toto attestations", 1823),
+    ("openlineage data lineage standard", 1832),
+    ("llm guardrail architecture production rails", 1841),
+    ("red team llm in ci promptfoo garak", 1847),
+    ("vault dynamic secrets ttl credentials", 1853),
+    ("keda event driven autoscaling", 1873),
+    ("argo rollouts advanced canary prometheus", 1877),
+    ("become self employed in construction", 1901),
+    ("qualibat rge labels for artisans", 1906),
+    ("getting started with knitting", 1951),
+    ("basic knitting stitches", 1954),
+    ("sewing in a zipper", 1965),
+    ("needle felting basics", 1971),
+    ("macrame basic knots beginner", 1981),
+    ("kintsugi gold ceramic repair", 1992),
+    ("selling your creations etsy markets pricing", 1999),
+    ("organise your craft workshop", 2000),
+
+]
+
+# Tests NL : routés avec lang="nl" sur les sidecars .nl.md
+TESTS_ROUTAGE_NL = [
+    ("hoe schrijf ik een seo blogartikel", 1),
+    ("rewrite this text in a different tone", 2),
+    ("write an advertising headline that converts", 3),
+    ("schrijf een zakelijke e-mail om beleefd af te wijzen", 4),
+    ("summarize a long document in 5 bullet points", 5),
+    ("run a structured brainstorming session", 6),
+    ("translate this text professionally", 7),
+    ("lees mijn tekst na en corrigeer", 8),
+    ("generate commented code", 9),
+    ("review and debug my code", 10),
+    ("welke skill moet ik hiervoor gebruiken", 0),
+    ("explain a concept simply to a beginner", 11),
+    ("prepare for my job interview", 12),
+    ("analyse sales data trends and KPIs", 13),
+    ("create a presentation deck with slides for the board", 14),
+    ("plan a project with milestones and risks", 15),
+    ("what does this contract clause mean", 16),
+    ("help me improve this prompt", 17),
+    ("deep research on the EV market", 18),
+    ("grill me on my migration plan", 19),
+    ("debug this intermittent bug", 20),
+    ("write meeting minutes", 24),
+    ("my inbox is overflowing", 25),
+    ("I procrastinate on big tasks", 26),
+    ("write a 30s TikTok ad script", 29),
+    ("optimise my LinkedIn post", 30),
+    ("write a LinkedIn post about my product launch", 31),
+    ("benchmark our 3 main competitors", 32),
+    ("build user personas for our app", 33),
+    ("create a skill package in SKILL.md format", 38),
+    ("make flashcards from this chapter", 40),
+    ("run a mock exam with grading", 41),
+    ("plan een reis van 10 dagen naar japan", 42),
+    ("write cold emails that get replies", 54),
+    ("fill a business model canvas", 57),
+    ("design our pricing tiers", 58),
+    ("run a project premortem", 60),
+    ("challenge this decision, play devil's advocate", 61),
+    ("write a PRD with user stories", 63),
+    ("audit this interface for UX issues", 64),
+    ("write unit tests for this function", 67),
+    ("write the commit message and PR description", 68),
+    ("write a SQL query for our schema", 69),
+    ("security audit of this code", 70),
+    ("design OKRs for next quarter", 74),
+    ("write a wedding speech", 75),
+    ("build an MCP server for our database", 77),
+    ("scrape these public pages into structured data", 91),
+    ("remove duplicates and anomalies from this dataset", 92),
+    ("design a RAG pipeline over our documents", 98),
+    ("write the system prompt for our agent", 100),
+    ("map these concepts visually", 101),
+    ("answer questions over my personal documents", 102),
+    ("analyse a market sector", 103),
+    ("summarise this scientific paper", 104),
+    ("analyse cohort retention and churn", 106),
+    ("design an A/B test properly", 110),
+    ("prioritise my sales pipeline with lead scoring", 111),
+    ("write a client case study", 124),
+    ("write a press release", 126),
+    ("write a one-page decision memo", 127),
+    ("write a step-by-step user guide", 130),
+    ("explain this to kids simply", 132),
+    ("format APA citations and a bibliography", 133),
+    ("plan our editorial calendar", 135),
+    ("write transactional emails", 138),
+    ("write an image generation prompt", 139),
+    ("design a colour palette and fonts", 149),
+    ("write a technical SEO audit", 161),
+    ("conversion rate optimisation cro strategy for our website", 162),
+    ("plan a product launch", 163),
+    ("write a cold call script", 165),
+    ("prepare an investor pitch deck", 171),
+    ("audit accessibility WCAG", 177),
+    ("write developer API docs", 180),
+    ("design a design system", 181),
+    ("design a form with fewer fields and less drop-off", 182),
+    ("prioritise the product backlog", 185),
+    ("anonymise this customer dataset for GDPR", 189),
+    ("write our company AI charter", 193),
+    ("harden our bot against prompt injection", 195),
+    ("audit access rights in our cloud", 197),
+    ("write a security incident runbook", 199),
+    ("design an employee onboarding", 203),
+    ("write an internal remote work policy", 207),
+    ("plan a facilitated workshop agenda for the team", 208),
+    ("plan a home renovation project", 220),
+    ("design home automation scenarios", 222),
+    ("prioritise my daily todo list", 223),
+    ("plan my moving checklist and logistics", 225),
+    ("build a workout plan for a 5k", 214),
+    ("audit my subscriptions to save money", 230),
+    ("plan a career change into UX", 231),
+    ("crisis communication holding statement", 235),
+    ("debug a failing prompt", 237),
+    ("write annotation guidelines", 238),
+    ("write a grant application", 240),
+    ("prepare my thesis defence", 241),
+    ("find open data on housing prices", 242),
+    ("prepare an ISO audit", 243),
+    ("clean up my digital accounts", 247),
+    ("organise my digital legacy", 246),
+    ("add a skill to the library properly", 250),
+    ("write an E2E playwright test", 252),
+    ("audit web performance Core Web Vitals", 253),
+    ("plan a load test", 255),
+    ("investigate a production incident", 256),
+    ("onboard me onto this unknown codebase", 257),
+    ("orchestrate a multi-agent pipeline", 259),
+    ("design long-term memory for an agent", 260),
+    ("generate synthetic test data", 263),
+    ("fine-tuning versus RAG architecture choice for our assistant", 266),
+    ("sbom and dependency inventory with licences", 267),
+    ("extract a table from a scanned PDF", 268),
+    ("dpia data protection impact assessment for our platform", 272),
+    ("ai act risk classification of our system", 271),
+    ("build a business continuity plan", 273),
+    ("cv screening candidate shortlist scoring grid", 274),
+    ("write my annual self-assessment", 277),
+    ("write viral hooks for a video", 278),
+    ("localise our app into German", 280),
+    ("answer negative online reviews", 282),
+    ("find a meeting slot across 3 timezones", 284),
+    ("organise my messy Downloads folder", 286),
+    ("diagnose my washing machine", 291),
+    ("prepare a raise request", 294),
+    ("compare two loan offers", 298),
+    ("design gamification for our app", 300),
+
+    ("manage parallel branches with git worktrees", 301),
+    ("apply TDD test-first on a function", 302),
+    ("ship behind a feature flag", 304),
+    ("handle secrets with a vault and rotation", 306),
+    ("plan a dependency upgrade", 307),
+    ("profile a memory leak", 308),
+    ("find the guilty commit with git bisect", 315),
+    ("optimise a slow SQL query", 318),
+    ("design webhooks with retries and signing", 322),
+    ("write a robust shell script", 324),
+    ("count tokens to fit the context budget", 326),
+    ("design a scheduled agent routine", 328),
+    ("trace an agent run for debugging", 330),
+
+    ("force strict JSON structured output from a model", 332),
+    ("choose the right LLM using benchmarks", 333),
+    ("audit a model for bias", 336),
+    ("detect prompt regression between two versions", 338),
+    ("shadow-test a new agent in production", 339),
+    ("profile dataset quality missing values duplicates outliers", 343),
+    ("write the SLO availability commitment with error budget", 351),
+    ("analyse session recordings heatmaps and rage clicks", 352),
+    ("write a drip email onboarding sequence", 357),
+    ("clean and segment our email list", 358),
+    ("win local SEO for our clinics", 360),
+
+    ("run an influencer campaign", 361),
+    ("write comparison and alternatives pages", 367),
+    ("prepare a personalised sales demo", 368),
+    ("chase an unpaid invoice politely", 371),
+    ("write terms and conditions for an e-shop", 374),
+    ("improve text readability", 377),
+    ("clean a raw interview transcript", 378),
+    ("write a push notification", 379),
+    ("write an editorial thread", 380),
+    ("pitch a story to journalists", 386),
+    ("write helpful error messages", 390),
+
+    ("write accessible alt-text for images", 391),
+    ("write a webinar script", 392),
+    ("write support macros with placeholders", 394),
+    ("run a pre-publication check", 395),
+    ("facilitate a live AMA", 397),
+    ("brief an external agency", 398),
+    ("announce a reorganisation calmly", 404),
+    ("write a pay equity audit plan", 410),
+    ("draft a remote work agreement", 412),
+    ("design a 360 feedback cycle", 415),
+    ("plan team continuity for holidays", 420),
+
+    ("audit team workload and rebalance", 421),
+    ("write a recommendation letter", 422),
+    ("estimate a project budget with contingency", 425),
+    ("map the stakeholders of a project", 426),
+    ("write a business case for an investment", 427),
+    ("build a RACI matrix", 434),
+    ("keep the project risk register", 435),
+    ("plan an intrusion test pentest with rules of engagement", 439),
+    ("handle a data breach notification in 72h", 444),
+    ("draft a confidentiality agreement nda", 448),
+    ("design a helpful empty state", 450),
+
+    ("design the site navigation and menus", 451),
+    ("write helpful UI error messages", 452),
+    ("design the in-app onboarding activation", 453),
+    ("produce design tokens for our rebrand", 455),
+    ("design freemium pricing tiers", 457),
+    ("audit our product for dark patterns", 460),
+    ("audit my meeting calendar load", 463),
+    ("set up deep work blocks", 465),
+    ("build a critical checklist", 467),
+    ("reduce my digital carbon footprint", 470),
+    ("build a family emergency plan", 477),
+    ("negotiate a renovation quote", 479),
+    ("organise family logistics and babysitting", 481),
+    ("coach my sleep hygiene", 483),
+    ("plan batch cooking for the week", 486),
+    ("prepare for the DELF B2 exam", 493),
+    ("design web authentication with MFA", 501),
+    ("harden HTTP headers and CSP", 502),
+    ("run a threat model STRIDE", 504),
+    ("prioritise patches and CVE remediation plan", 505),
+    ("audit our cloud security IAM", 507),
+    ("run a phishing simulation", 509),
+
+    ("manage stress and anxiety daily", 511),
+    ("crypto blockchain education and basics", 512),
+    ("start with ETFs and the stock market", 519),
+    ("learn regex with a tester", 523),
+    ("make a first game in Godot", 524),
+    ("spot an online scam SMS", 530),
+    ("start a journaling practice", 535),
+    ("humanise an AI-generated text", 538),
+    ("set up an Obsidian vault", 539),
+    ("vibe-code an app with an agent", 540),
+
+    ("audit our budget and forecast", 541),
+    ("extract data from scanned invoices OCR", 543),
+    ("build a Discord moderation bot", 544),
+    ("explain statistics significance and sample size", 547),
+    ("build my personal brand on LinkedIn", 548),
+    ("write our company vision and values", 551),
+    ("check open source licences of dependencies", 553),
+    ("detect a deepfake disinformation video", 561),
+    ("freelance status obligations taxes auto-entrepreneur", 562),
+    ("write a best-man wedding speech", 564),
+    ("learn chess tactics to progress", 567),
+    ("help with homework battles at home", 570),
+
+    ("school guidance study choices paths orientation", 571),
+    ("write a pop song with a hook", 573),
+    ("set up my first Twitch stream", 576),
+    ("monitor our production AI agents", 577),
+    ("prepare for the driving theory test", 580),
+    ("plan a 10k running race", 582),
+    ("fix email deliverability SPF DKIM DMARC", 586),
+    ("separation divorce procedure custody sharing", 590),
+    ("set up the 3-2-1 backup rule", 596),
+    ("set up parental controls", 597),
+    ("raise my freelance day rates", 599),
+    ("run a skills assessment bilan", 600),
+
+    ("review an AI session before committing", 601),
+    ("prepare a CTO technical review", 602),
+    ("set up visual regression tests", 603),
+    ("prepare for a SOC 2 audit", 610),
+    ("optimise visibility in AI search engines GEO", 612),
+    ("run a SWOT analysis", 613),
+    ("give a READY NOT READY pre-deploy verdict", 614),
+    ("burnout professional exhaustion motivation recovery", 617),
+    ("share the household mental load", 618),
+    ("handle a workplace harassment situation", 636),
+    ("manage cashflow with a 13-week forecast", 638),
+    ("read and check my payslip", 641),
+    ("cancel a contract within the withdrawal period", 648),
+    ("navigate an inheritance with the notary", 651),
+    ("prepare a trip to Japan", 656),
+    ("host a dinner party for 8", 657),
+
+    ("secure my passwords and enable 2FA", 665),
+    ("respond to a ransomware attack", 666),
+    ("choose a legal status for my company", 668),
+    ("learn Spanish as an adult to B2", 671),
+    ("negotiate a property purchase offer", 675),
+    ("plan a home energy renovation with grants", 678),
+    ("switch banks with the mobility service", 680),
+    ("prepare my retirement at 62", 682),
+    ("avoid an online scam call from my bank", 685),
+    ("choose an LLM for French legal docs", 689),
+    ("build a RAG over our internal docs", 690),
+    ("secure prompts against injection", 692),
+    ("fact-check an AI output", 700),
+    ("write my morning brief and standup", 701),
+    ("set up automated competitive watch", 709),
+    ("audit a SKILL.md before installing", 716),
+    ("grill me on this plan before coding", 720),
+
+    ("turn our documents into a knowledge graph", 721),
+    ("keep AI data and models in the EU", 722),
+    ("script a 30s TikTok video with a hook", 729),
+    ("structure a prompt with RCORCF", 737),
+    ("prospect on LinkedIn with social selling", 740),
+    ("run a profitable paid ads campaign", 747),
+    ("get an SME GDPR compliant", 751),
+    ("respond to a security incident with CNIL notification", 754),
+    ("prepare an oral thesis defence", 767),
+    ("write a business plan with forecast", 775),
+    ("write a compliant invoice and chase payment", 779),
+    ("choose and compare SaaS tools", 781),
+    ("recruit and interview candidates as an employer", 790),
+    ("run Scrum for a 6-person team", 793),
+    ("vet an influencer before a deal", 842),
+    ("choose between 3 vendors with a decision matrix", 844),
+    ("handle unpaid rent as a landlord", 827),
+    ("claim unemployment benefits in France", 830),
+    ("spot a fake property listing", 870),
+    ("prepare a home fire emergency plan", 859),
+
+    ("keep children safe online as a parent", 871),
+    ("spot a fake job offer scam", 874),
+    ("negotiate salary on a job offer", 875),
+    ("prepare an annual review as a manager", 876),
+    ("prepare for high-risk AI Act annex III", 900),
+    ("small local models for an SME", 903),
+    ("64-day TLS certificates with Let's Encrypt", 906),
+    ("ETIAS travel authorisation for Europe", 913),
+    ("4-day week negotiation and pilot", 918),
+    ("zero trust and AI agent identity", 908),
+    ("shadow ai governing informal uses in the company", 928),
+    ("write a will with reserved share", 963),
+    ("simulate and compare mortgage offers", 966),
+    ("handle online banking fraud", 953),
+    ("plan an expatriation visa bank health", 958),
+    ("install a home EV charger", 960),
+    ("active directory architecture design", 1004),
+    ("cloud migration strategy", 1071),
+    ("dockerfile best practices", 1110),
+    ("blender rigging and animation workflow", 1052),
+    ("godot export and build pipeline", 1150),
+    ("etl pipeline design and orchestration", 1121),
+    ("fairness and bias detection", 1127),
+    ("data retention policy design", 1100),
+    ("incident commander sre runbook", 1161),
+    ("intellectual property protection", 1170),
+
+    ("multi-agent orchestration patterns", 1196),
+    ("mysql query optimization", 1201),
+    ("prompt injection boundary evaluation", 1242),
+    ("rag and fine-tuning strategy design", 1248),
+    ("react hooks patterns", 1249),
+    ("postgresql advanced tuning", 1229),
+    ("seo audit and keyword strategy", 1269),
+    ("ui tone-of-voice specification", 1293),
+    ("web accessibility audit", 1308),
+    ("build an ai personal sports coach", 1319),
+    ("negotiate your salary", 1345),
+    ("build a decision tree", 1365),
+    ("choose the right skill for a task", 1372),
+    ("safe refactoring small steps and tests", 1405),
+    ("kubernetes configmaps secrets deployment", 1412),
+    ("load testing with k6 or locust", 1415),
+    ("window functions in sql", 1420),
+    ("react agents loop and planning", 1428),
+    ("managing long context 200k tokens", 1430),
+    ("strict csp against xss", 1452),
+    ("kafka topics partitions consumer groups", 1463),
+    ("anonymisation and pseudonymisation GDPR", 1465),
+    ("version models and data with dvc and mlflow", 1470),
+
+    ("serve an llm via internal api with vllm", 1471),
+    ("sandbox ai agents isolated execution", 1475),
+    ("graphrag query a knowledge graph", 1478),
+    ("lora qlora cheap fine-tuning", 1479),
+    ("sunsetting a feature without losing users", 1487),
+    ("choose your game engine unity godot unreal", 1500),
+    ("coyote time and jump buffering", 1510),
+    ("a star pathfinding flow fields", 1517),
+    ("weighted loot tables pity timer", 1528),
+    ("server side anti cheat validation", 1543),
+    ("publish a game on steam builds depots", 1579),
+    ("vibe 8 rolldown speed up builds", 1600),
+    ("htmx backend dynamic ui without heavy js", 1601),
+    ("webgpu client side 3d gpu compute", 1606),
+    ("choosing your agent protocol mcp a2a acp", 1623),
+    ("cilium ebpf networking security observability", 1721),
+    ("falco runtime intrusion detection", 1723),
+    ("cursor agentic ide day to day", 1740),
+    ("slo burn rate smart alerts error budget", 1757),
+    ("llm tracing tokens tool calls cost per request", 1767),
+    ("rust in the linux kernel review trajectory", 1770),
+
+    ("postgresql 18 new features overview", 1780),
+    ("hybrid tls 1.3 x25519mlkem768 pqc ready", 1791),
+    ("wasi 0.3 component model webassembly", 1793),
+    ("ai gateway route cap multi provider llm calls", 1800),
+    ("karpenter node autoscaling consolidation", 1810),
+    ("opentofu state encryption", 1812),
+    ("slsa provenance in-toto attestations", 1823),
+    ("openlineage data lineage standard", 1832),
+    ("llm guardrail architecture production rails", 1841),
+    ("red team llm in ci promptfoo garak", 1847),
+    ("vault dynamic secrets ttl credentials", 1853),
+    ("keda event driven autoscaling", 1873),
+    ("argo rollouts advanced canary prometheus", 1877),
+    ("become self employed in construction", 1901),
+    ("qualibat rge labels for artisans", 1906),
+    ("getting started with knitting", 1951),
+    ("basic knitting stitches", 1954),
+    ("sewing in a zipper", 1965),
+    ("needle felting basics", 1971),
+    ("macrame basic knots beginner", 1981),
+    ("kintsugi gold ceramic repair", 1992),
+    ("selling your creations etsy markets pricing", 1999),
+    ("organise your craft workshop", 2000),
+
+    # --- requêtes vraiment en néerlandais ---
+    ("zet deze tekst om in een andere toon", 2),
+    ("schrijf een wervende advertentie", 3),
+    ("vat een lang document samen in 5 bulletpunten", 5),
+    ("geef me ideeen voor een gestructureerde brainstorm", 6),
+    ("vertaal deze tekst professioneel naar het duits", 7),
+    ("genereer gedocumenteerde python code", 9),
+    ("maak een presentatie voor de raad van bestuur", 14),
+    ("help me een project plannen met mijlpalen", 15),
+    ("maak notulen van de vergadering met actiepunten", 24),
+    ("sorteer en prioriteer mijn overvolle inbox", 25),
+    ("ik heb veel te veel meetings in mijn agenda", 463),
+    ("schrijf een persbericht voor onze productlancering", 126),
+    ("bouw een statische blog met hugo", 545),
+    ("maak een faq van onze gebruikershandleiding", 119),
+    ("is deze tekst door ai geschreven of plagiaat", 120),
+    ("begroot een renovatieproject met onvoorziene kosten", 425),
+    ("word zelfstandig als elektricien in de bouw", 1901),
+    ("ik wil beginnen met breien als beginner", 1951),
+    ("hoe maak ik macramé knopen als beginner", 1981),
+    ("hoe organiseer ik mijn knutselatelier", 2000),
+
+]
+
 
 # ---------------------------------------------------------------------------
 # Outils communs
@@ -4811,6 +6058,43 @@ RE_ITEM_ARBRE = re.compile(r"(\d+) ([^·\]]+?)\s*$")
 RE_KNODE = re.compile(r"K\d+\[Skill (\d+)\]")
 
 
+def resume_auto(corps: str) -> str:
+    """Condensé 2-3 lignes d'une skill, dérivé du corps (Objectif + étape 1 de la
+    Méthode) — déterministe, identique entre build canvas et build --from-skills."""
+    blocs = _blocs_canoniques(corps)
+    obj = re.sub(r"\s+", " ", (blocs.get("Objectif") or "").strip())
+    m = re.search(r"(?m)^1\.\s+(.+)$", blocs.get("Méthode") or "")
+    etape = re.sub(r"\s+", " ", m.group(1).strip()) if m else ""
+    r = f"{obj} Étape 1 : {etape}" if etape else obj
+    r = r.replace("<", "inférieur à").replace(">", "supérieur à").replace('"', "'")
+    return re.sub(r"\s+", " ", r).strip()[:400]
+
+
+def lire_resumes(dossier_skills: Path) -> dict[int, str]:
+    """Lit le champ `resume` du frontmatter de chaque skills/*.md ; si absent,
+    le dérive du corps via resume_auto."""
+    out = {}
+    for f in sorted(Path(dossier_skills).glob("*.md")):
+        txt = f.read_text(encoding="utf-8")
+        m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+        if not m:
+            continue
+        fm = m.group(1)
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        mr = re.search(r'^resume: "(.*)"$', fm, re.M)
+        out[num] = mr.group(1) if (mr and mr.group(1).strip()) else resume_auto(txt[m.end():])
+    return out
+
+
+def _skills_dir() -> Path:
+    """Dossier skills/ : à côté de routage.py (pack) ou à la racine du dépôt."""
+    here = Path(__file__).resolve().parent
+    for cand in (here / "skills", here.parent / "skills"):
+        if cand.is_dir():
+            return cand
+    return here / "skills"
+
+
 def extraire_frontmatter(dossier_skills: Path):
     """Reconstruit sommaire/signaux/mot_cles/branches/noms_courts/cartes depuis
     skills/*.md (frontmatter YAML) — source de vérité autonome du canvas."""
@@ -4819,6 +6103,8 @@ def extraire_frontmatter(dossier_skills: Path):
     syns_par_num = {}
     cartes = {}
     for f in sorted(dossier_skills.glob("*.md")):
+        if _re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name):
+            continue  # sidecar multilingue .<lang>.md, pas un skill FR de base
         txt = f.read_text(encoding="utf-8")
         m = _re.match(r"---\n(.*?)\n---\n", txt, _re.S)
         assert m, f"{f.name} : pas de frontmatter"
@@ -4845,7 +6131,7 @@ def extraire(canvas: str):
     sommaire = {}
     for num, nom, dom in RE_SOMMAIRE.findall(canvas):
         sommaire[int(num)] = [nom.strip(), dom.strip()]
-    assert len(sommaire) == 1901, f"sommaire : {len(sommaire)} lignes"
+    assert len(sommaire) == 2001, f"sommaire : {len(sommaire)} lignes"
 
     signaux = {}
     for sig, num, dom in RE_ROUTAGE.findall(canvas):
@@ -4853,7 +6139,7 @@ def extraire(canvas: str):
         assert n not in signaux, f"signal dupliqué pour {n}"
         signaux[n] = sig.strip()
         assert sommaire[n][1] == dom.strip(), f"domaine incohérent pour {n}"
-    assert len(signaux) == 1900
+    assert len(signaux) == 2000
 
     mot_cles, cartes, bullets = {}, [], False
     dans_carte = False
@@ -4885,8 +6171,8 @@ def extraire(canvas: str):
                 mot_cles[n] = kw
         elif bullets and s and not s.startswith("- **"):
             bullets = False
-    assert len(cartes) == 29, f"carte : {len(cartes)}"
-    assert len(mot_cles) == 1900, f"index : {len(mot_cles)}"
+    assert len(cartes) == 30, f"carte : {len(cartes)}"
+    assert len(mot_cles) == 2000, f"index : {len(mot_cles)}"
 
     branches, noms_courts = {}, {}
     for m in RE_Q6.finditer(canvas):
@@ -4898,7 +6184,7 @@ def extraire(canvas: str):
             noms_courts[n] = mi.group(2).strip()
     for n in RE_KNODE.findall(canvas):
         branches.setdefault(int(n), "K")
-    assert len(branches) == 1900, f"arbre : {len(branches)} skills couvertes"
+    assert len(branches) == 2000, f"arbre : {len(branches)} skills couvertes"
     return sommaire, signaux, mot_cles, branches, noms_courts, cartes
 
 
@@ -4908,7 +6194,7 @@ def _json_dumps(x) -> str:
 
 
 VEC_DIM = 32  # 32 suffit à 1 351 skills (hash bag-of-words) — 2x moins de calcul vec
-CATALOGUE_VERSION = "20.0.0"  # version sémantique du catalogue (vague 21 = 1901 sections)
+CATALOGUE_VERSION = "21.0.0"  # version sémantique du catalogue (vague 22 = 2001 sections)
 VEC_SEUIL = 0.95  # seuil très strict : hash 32 dims monte les cosinus sur requêtes courtes
 VEC_PISTE = 0.86  # P0-2 : relevé de 0.80 (faux positifs à 0.803) + au moins un token commun avec la requête requis ci-dessous
 
@@ -4948,10 +6234,46 @@ def embed_hash(texte: str, dim: int = VEC_DIM) -> bytes:
     return struct.pack(f"{dim}f", *(x / n for x in v))
 
 
+def _lang_sidecars(sk_dir: Path) -> dict[str, dict[int, dict]]:
+    """Sidecars multilingues skills/NNN-slug.<lang>.md -> {lang: {num: entry}}.
+    Mécanisme générique : tout code langue 2 lettres (en, nl, ...)."""
+    out: dict[str, dict[int, dict]] = {}
+    for f in sorted(Path(sk_dir).glob("*.md")):
+        m = re.match(r"^(\d+)-(.+)\.([a-z]{2})\.md$", f.name)
+        if not m or re.search(r"\.[a-z]{2}$", m.group(2)):
+            continue  # pas un sidecar, ou double suffixe (.en.nl.md)
+        lang = m.group(3)
+        if lang == "fr":
+            continue
+        txt = f.read_text(encoding="utf-8")
+        mm = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+        assert mm, f"{f.name} : pas de frontmatter"
+        fm = mm.group(1)
+        def g(k):
+            r = re.search(rf'^{k}: "(.*)"$', fm, re.M)
+            return r.group(1) if r else ""
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        ml = re.search(r'^lang: "(.*)"$', fm, re.M)
+        assert ml and ml.group(1) == lang, f"{f.name} : lang incohérent avec le suffixe"
+        ms = re.search(r'^synonymes: \[(.*)\]$', fm, re.M)
+        syns = [x.strip().strip('"') for x in ms.group(1).split(",") if x.strip()] if ms else []
+        mc = re.search(r'^cross_refs: \[(.*)\]$', fm, re.M)
+        refs = [int(r) for r in re.findall(r"\d+", mc.group(1))] if mc else []
+        mr = re.search(r'^resume: "(.*)"$', fm, re.M)
+        resume = mr.group(1) if (mr and mr.group(1).strip()) else resume_auto(txt[mm.end():])
+        out.setdefault(lang, {})[num] = {
+            "nom": g("nom"), "domaine": g("domaine"), "signal": g("signal"),
+            "mot_cle": g("mot_cle"), "branche": g("branche"), "nom_court": g("nom_court"),
+            "emoji": g("emoji"), "resume": resume, "synonymes": syns, "cross_refs": refs,
+            "fichier": f.name,
+        }
+    return out
+
+
 def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) -> None:
     if from_skills:
         sommaire, signaux, mot_cles, branches, noms_courts, _, syns_par_num, cartes_brutes = \
-            extraire_frontmatter(Path(__file__).resolve().parent / "skills")
+            extraire_frontmatter(_skills_dir())
         # source unique des synonymes = SYNONYMES (embarquée dans routage.py, donc dans le pack)
         SYN_A_UTILISER = {n: [s for s, num in SYNONYMES if num == n] for n in set(num for _, num in SYNONYMES)}
         # si le canvas existe : noms + carte des domaines depuis le canvas (source de vérité)
@@ -4997,17 +6319,20 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             signal    TEXT NOT NULL DEFAULT '',
             mot_cle   TEXT NOT NULL DEFAULT '',
             branche   TEXT NOT NULL DEFAULT '',
-            nom_court TEXT NOT NULL DEFAULT ''
+            nom_court TEXT NOT NULL DEFAULT '',
+            resume    TEXT NOT NULL DEFAULT ''
         );
         CREATE TABLE domaines (
             domaine   TEXT PRIMARY KEY,
             mots_cles TEXT NOT NULL
         );
         CREATE TABLE synonymes (
-            synonyme      TEXT PRIMARY KEY,
+            synonyme      TEXT NOT NULL,
             synonyme_norm TEXT NOT NULL DEFAULT '',
             num           INTEGER NOT NULL,
-            poids         REAL NOT NULL DEFAULT 1.0  -- P0-1 : poids IDF, synonyme générique = poids faible
+            poids         REAL NOT NULL DEFAULT 1.0,  -- P0-1 : poids IDF, synonyme générique = poids faible
+            lang          TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (synonyme, lang)
         );
         CREATE INDEX IF NOT EXISTS idx_synonymes_norm ON synonymes(synonyme_norm);
         CREATE TABLE non_routees (
@@ -5067,12 +6392,20 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         CREATE TABLE IF NOT EXISTS mots_cles (
             mot_cle_norm TEXT NOT NULL,
             num          INTEGER NOT NULL,
-            PRIMARY KEY (mot_cle_norm, num)
+            lang         TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (mot_cle_norm, num, lang)
         ) WITHOUT ROWID;
+        CREATE TABLE IF NOT EXISTS lang (
+            num    INTEGER NOT NULL,
+            lang   TEXT NOT NULL,
+            fichier TEXT NOT NULL DEFAULT '',
+            PRIMARY KEY (num, lang)
+        );
         CREATE TABLE IF NOT EXISTS trigrammes (
             trigramme TEXT NOT NULL,
             num       INTEGER NOT NULL,
-            PRIMARY KEY (trigramme, num)
+            lang      TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (trigramme, num, lang)
         ) WITHOUT ROWID;
         CREATE TABLE IF NOT EXISTS versions (
             id        INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -5084,7 +6417,8 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         );
         -- skills perso (mesSkillsPerso/) : table dédiée, jamais dans le pack
         CREATE TABLE IF NOT EXISTS skills_perso (
-            num        INTEGER PRIMARY KEY,
+            num        INTEGER NOT NULL,
+            lang       TEXT NOT NULL DEFAULT 'fr',
             nom        TEXT NOT NULL DEFAULT '',
             domaine    TEXT NOT NULL DEFAULT 'Perso',
             signal     TEXT NOT NULL DEFAULT '',
@@ -5093,35 +6427,44 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
             branche    TEXT NOT NULL DEFAULT 'K',
             synonymes  TEXT NOT NULL DEFAULT '',
             date_ajout TEXT NOT NULL DEFAULT '',
-            fichier    TEXT NOT NULL DEFAULT ''
+            fichier    TEXT NOT NULL DEFAULT '',
+            PRIMARY KEY (num, lang)
         );
         CREATE VIRTUAL TABLE IF NOT EXISTS perso_fts USING fts5(
-            num UNINDEXED, nom, signal, mot_cle, nom_court, domaine,
+            num UNINDEXED, lang UNINDEXED, nom, signal, mot_cle, nom_court, domaine,
             tokenize='unicode61'
         );
         CREATE TABLE IF NOT EXISTS perso_synonymes (
-            synonyme      TEXT PRIMARY KEY,
+            synonyme      TEXT NOT NULL,
             synonyme_norm TEXT NOT NULL DEFAULT '',
-            num           INTEGER NOT NULL
+            num           INTEGER NOT NULL,
+            lang          TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (synonyme, lang)
         );
         CREATE TABLE IF NOT EXISTS perso_mots_cles (
             mot_cle_norm TEXT NOT NULL,
             num          INTEGER NOT NULL,
-            PRIMARY KEY (mot_cle_norm, num)
+            lang         TEXT NOT NULL DEFAULT 'fr',
+            PRIMARY KEY (mot_cle_norm, num, lang)
         ) WITHOUT ROWID;
     """)
     if old_snapshot:
         db.execute("INSERT OR REPLACE INTO meta VALUES ('snapshot', ?)",
                    (old_snapshot[0],))
     db.executemany("INSERT INTO domaines VALUES (?, ?)", cartes)
+    if from_skills:
+        resumes = lire_resumes(_skills_dir())
+    else:
+        resumes = {n: resume_auto(corps)
+                   for n, (_e, _nom, corps, _lbl) in _sections_multi(chemin).items()}
     for num in sorted(sommaire):
         nom, dom = sommaire[num]
         sig = signaux.get(num, "")
         mc = mot_cles.get(num, "")
         br = branches.get(num, "")
         nc = noms_courts.get(num, "")
-        db.execute("INSERT INTO skills VALUES (?,?,?,?,?,?,?)",
-                   (num, nom, dom, sig, mc, br, nc))
+        db.execute("INSERT INTO skills VALUES (?,?,?,?,?,?,?,?)",
+                   (num, nom, dom, sig, mc, br, nc, resumes.get(num, "")))
     # embeddings : séquentiel suffit à 1 351 skills (hash rapide) — le multiprocessing
     # (testé) coûte plus cher en spawn de workers qu'il ne gagne. À paralléliser > ~20 000 skills.
     if vec_ok:
@@ -5135,7 +6478,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
         db.executemany("INSERT INTO skills_vec(num, embedding) VALUES (?,?)", vecs)
     connus = {n for (n,) in db.execute("SELECT num FROM skills")}
     if 0 not in connus:  # pack autonome : recréer la skill 0 (routeur)
-        db.execute("INSERT INTO skills VALUES (0, '🧭 Routeur de skills', 'Routage', '', '', '', '')")
+        db.execute("INSERT INTO skills VALUES (0, '🧭 Routeur de skills', 'Routage', '', '', '', '', '')")
         db.execute("INSERT INTO skills_fts VALUES (0, 'Routeur de skills', '', '', 'Routeur', 'Routage')")
         db.commit()
         connus = {n for (n,) in db.execute("SELECT num FROM skills")}
@@ -5150,7 +6493,7 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
     for num, syns in SYN_A_UTILISER.items():
         for syn in syns:
             assert num in connus, f"synonyme « {syn} » -> skill inexistante {num}"
-            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?,?)", (syn, norm(syn), num, _poids_syn(syn)))
+            db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?,?,?)", (syn, norm(syn), num, _poids_syn(syn), "fr"))
     # popularité : top-N des skills les plus routées (table routes), sert de bonus de classement
     # et de cache chaud. Recalculée à chaque build si la table routes existe.
     try:
@@ -5194,8 +6537,8 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
     # table des mots-clés normalisés (voie mot-clé en SQL, indexée)
     mcs = []
     for r in db.execute("SELECT num, mot_cle FROM skills WHERE mot_cle != ''"):
-        mcs.append((norm(r[1]), r[0]))
-    db.executemany("INSERT OR IGNORE INTO mots_cles VALUES (?,?)", mcs)
+        mcs.append((norm(r[1]), r[0], "fr"))
+    db.executemany("INSERT OR IGNORE INTO mots_cles VALUES (?,?,?)", mcs)
     db.commit()
     # table des trigrammes (passe floue en SQL) : mêmes champs que la version Python
     tg = []
@@ -5208,9 +6551,46 @@ def cmd_build(chemin: Path, db_path: Path = DB_PATH, from_skills: bool = False) 
                 tri = t[i:i+3]
                 if tri not in seen:
                     seen.add(tri)
-                    tg.append((tri, r[0]))
-    db.executemany("INSERT OR IGNORE INTO trigrammes VALUES (?,?)", tg)
+                    tg.append((tri, r[0], "fr"))
+    db.executemany("INSERT OR IGNORE INTO trigrammes VALUES (?,?,?)", tg)
     db.commit()
+    # table lang(num, lang, fichier) : FR (fichiers racine) + sidecars .<lang>.md
+    sk = _skills_dir()
+    for f in sorted(sk.glob("*.md")):
+        if re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name):
+            continue  # sidecar
+        m2 = re.match(r"^(\d+)-.+\.md$", f.name)
+        if m2:
+            db.execute("INSERT OR REPLACE INTO lang VALUES (?,?,?)", (int(m2.group(1)), "fr", f.name))
+    for lang, entrees in _lang_sidecars(sk).items():
+        sfx = "_" + re.sub(r"[^a-z0-9]", "", lang.lower())
+        db.execute(f"CREATE TABLE IF NOT EXISTS skills{sfx} (num INTEGER PRIMARY KEY, nom TEXT NOT NULL, domaine TEXT NOT NULL, signal TEXT NOT NULL DEFAULT '', mot_cle TEXT NOT NULL DEFAULT '', branche TEXT NOT NULL DEFAULT '', nom_court TEXT NOT NULL DEFAULT '', resume TEXT NOT NULL DEFAULT '')")
+        db.execute(f"CREATE VIRTUAL TABLE IF NOT EXISTS skills_fts{sfx} USING fts5(num UNINDEXED, nom, signal, mot_cle, nom_court, domaine, tokenize='unicode61')")
+        if vec_ok:
+            db.execute(f"CREATE VIRTUAL TABLE IF NOT EXISTS skills_vec{sfx} USING vec0(num INTEGER PRIMARY KEY, embedding float[{VEC_DIM}] distance_metric=cosine)")
+        for num, e in sorted(entrees.items()):
+            db.execute(f"INSERT OR REPLACE INTO skills{sfx} VALUES (?,?,?,?,?,?,?,?)",
+                       (num, e["nom"], e["domaine"], e["signal"], e["mot_cle"], e["branche"], e["nom_court"], e["resume"]))
+            db.execute(f"INSERT INTO skills_fts{sfx} VALUES (?,?,?,?,?,?)",
+                       (num, e["nom"], e["signal"], e["mot_cle"], e["nom_court"], e["domaine"]))
+            if vec_ok:
+                ctx = f"[{e['domaine']} | {e['branche']}] "
+                db.execute(f"INSERT INTO skills_vec{sfx} VALUES (?,?)",
+                           (num, embed_hash(ctx + " ".join(x for x in (e["nom"], e["signal"], e["mot_cle"], e["nom_court"]) if x))))
+            if e["mot_cle"]:
+                db.execute("INSERT OR IGNORE INTO mots_cles VALUES (?,?,?)", (norm(e["mot_cle"]), num, lang))
+            for syn in e["synonymes"]:
+                db.execute("INSERT OR IGNORE INTO synonymes VALUES (?,?,?,?,?)", (syn, norm(syn), num, 1.0, lang))
+            mots = [t for t in tokens(" ".join((e["nom"], e["signal"], e["mot_cle"], e["nom_court"]))) if len(t) >= 5]
+            seen = set()
+            for t in mots:
+                for i in range(len(t) - 2):
+                    tri = t[i:i+3]
+                    if tri not in seen:
+                        seen.add(tri)
+                        db.execute("INSERT OR IGNORE INTO trigrammes VALUES (?,?,?)", (tri, num, lang))
+            db.execute("INSERT OR REPLACE INTO lang VALUES (?,?,?)", (num, lang, e["fichier"]))
+        db.commit()
     np_ = ingerer_perso(db)  # mesSkillsPerso/ -> skills_perso (conversion auto au template)
     n = db.execute("SELECT COUNT(*) FROM skills").fetchone()[0]
     d = db.execute("SELECT COUNT(*) FROM domaines").fetchone()[0]
@@ -5260,7 +6640,7 @@ def trigrammes_de(mot: str) -> frozenset:
 
 
 def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
-                           vus=None):
+                           vus=None, lang="fr"):
     """Passe floue par trigrammes en SQL (table `trigrammes` indexée).
     Même contrat que proches_trigrammes : liste triée (ratio, nb, mot, row).
     Repli sur la version Python si la table est absente (base ancienne)."""
@@ -5273,8 +6653,8 @@ def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
     for t, tri in req_tri.items():
         ph = ",".join("?" * len(tri))
         for num, c in db.execute(
-                f"SELECT num, COUNT(*) FROM trigrammes WHERE trigramme IN ({ph}) "
-                f"GROUP BY num", tuple(tri)):
+                f"SELECT num, COUNT(*) FROM trigrammes WHERE trigramme IN ({ph}) AND lang = ? "
+                f"GROUP BY num", (*tri, lang)):
             if vus and num in vus:
                 continue
             ratio = c / len(tri)
@@ -5286,8 +6666,11 @@ def proches_trigrammes_sql(db: sqlite3.Connection, qt, ratio_mini=0.6,
         return []
     nums = sorted({num for num, _ in best})
     ph = ",".join("?" * len(nums))
+    sfx = "" if lang == "fr" else "_" + re.sub(r"[^a-z0-9]", "", lang.lower())
+    if not db.execute("SELECT 1 FROM sqlite_master WHERE name=?", (f"skills{sfx}",)).fetchone():
+        sfx = ""
     skills = {r["num"]: r for r in db.execute(
-        f"SELECT num, nom, domaine, signal, mot_cle, nom_court FROM skills "
+        f"SELECT num, nom, domaine, signal, mot_cle, nom_court FROM skills{sfx} "
         f"WHERE num IN ({ph})", tuple(nums))}
     out = [(ratio, c, t, skills[num]) for (num, t), (ratio, c) in best.items()]
     out.sort(key=lambda x: (-x[0], -x[1]))
@@ -5486,7 +6869,17 @@ def normaliser_perso(txt: str, fname: str, num: int) -> str:
     if "skill" not in cas.lower():
         cas = (cas + "\n" if cas else "") + f"Usage perso : {nom_court} ; le catalogue skillAISlop complète (skills 0-1799)."
     syns_s = ", ".join(f'"{s}"' for s in syns)
-    L = ["---", f"num: {num}", f'date_ajout: "{date_ajout}"', f'nom: "{nom}"', f'emoji: "{emoji}"',
+    resume_p = _sanitize_fm(g("resume")) or resume_auto(body)
+    if len(resume_p) > 400:
+        resume_p = resume_p[:397] + "..."
+    lang_p = g("lang") if re.fullmatch(r"[a-z]{2}", g("lang") or "") else ""
+    traduit_p = g("traduit") if g("traduit") in ("auto", "humain") else ""
+    L = ["---", f"num: {num}"]
+    if lang_p:
+        L.append(f'lang: "{lang_p}"')
+    if traduit_p:
+        L.append(f'traduit: "{traduit_p}"')
+    L += [f'resume: "{resume_p}"', f'date_ajout: "{date_ajout}"', f'nom: "{nom}"', f'emoji: "{emoji}"',
          f'domaine: "{domaine}"', f'signal: "{signal}"', f'mot_cle: "{mot_cle}"',
          f'nom_court: "{nom_court}"', 'branche: "K"', f"synonymes: [{syns_s}]",
          "cross_refs: []", 'tags: ["perso"]', "---", "",
@@ -5528,10 +6921,21 @@ def ingerer_perso(db: sqlite3.Connection) -> int:
     if not fichiers:
         return 0
     maxnum = db.execute("SELECT COALESCE(MAX(num),0) FROM skills_perso").fetchone()[0]
-    n = 0
+    # sidecars multilingues nom.<lang>.md -> num du fichier de base
+    sidecar_num = {}
     for f in fichiers:
+        ms = re.match(r"^(.+\.)([a-z]{2})\.md$", f.name)
+        if ms:
+            base = f.parent / (ms.group(1) + "md")
+            if base.exists() and base in fichiers:
+                sidecar_num[f.name] = base.name
+    n = 0
+    for f in sorted(fichiers, key=lambda f: 1 if re.match(r"^.+\.[a-z]{2}\.md$", f.name) else 0):  # bases d'abord, sidecars ensuite
         txt = f.read_text(encoding="utf-8")
-        if not perso_conforme(txt):
+        lang_avant = detect_lang(txt) if not re.search(r'^lang: "', txt, re.M) else None  # détection sur le contenu ORIGINAAL (avant normalisation)
+        est_sidecar = bool(re.match(r"^.+\.[a-z]{2}\.md$", f.name))
+        if not perso_conforme(txt) and not (est_sidecar and re.search(r'^traduit: "auto"$', txt, re.M)):
+            # sidecar trad:auto = scaffold intentionnel (bandeau skill 7) : on ne le normalise pas
             maxnum += 1
             txt = normaliser_perso(txt, f.name, maxnum)
             f.write_text(txt, encoding="utf-8")  # auto-format au template, en place (jamais supprimé)
@@ -5541,23 +6945,157 @@ def ingerer_perso(db: sqlite3.Connection) -> int:
             mm = re.search(rf"^{k}: \[(.*)\]$", fm, re.M)
             return [x.strip().strip('"') for x in mm.group(1).split(",") if x.strip()] if mm else []
         num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        ms = re.match(r"^(.+\.)([a-z]{2})\.md$", f.name)
+        if ms and f.name in sidecar_num:
+            # sidecar : même num que la base, lang du suffixe (frontmatter lang prioritaire)
+            base_fm = re.match(r"---\n(.*?)\n---\n", (f.parent / sidecar_num[f.name]).read_text(encoding="utf-8"), re.S).group(1)
+            num = int(re.search(r"^num: (\d+)$", base_fm, re.M).group(1))
+            lang = g("lang") or ms.group(2)
+        else:
+            # base : lang du frontmatter, sinon détection stopwords sur le contenu
+            body = txt[re.match(r"---\n(.*?)\n---\n", txt, re.S).end():]
+            lang = g("lang") or lang_avant or detect_lang(" ".join([g("nom"), g("signal"), g("mot_cle"), body])) or "fr"
+            if not re.search(r'^lang: "', fm, re.M):
+                new_fm = re.sub(r'^(num: \d+\n)', '\\1lang: "' + lang + '"\n', fm, count=1, flags=re.M)
+                if new_fm != fm:
+                    f.write_text(f"---\n{new_fm}\n---\n{body}", encoding="utf-8")
         nom, dom = g("nom"), g("domaine") or "Perso"
         sig, mc, nc, da = g("signal"), g("mot_cle"), g("nom_court"), g("date_ajout")
         syns = [s for s in gl("synonymes") if s and not any(c in s for c in '<>"')]
-        db.execute("INSERT OR REPLACE INTO skills_perso VALUES (?,?,?,?,?,?,?,?,?,?)",
-                   (num, nom, dom, sig, mc, nc, "K", ";".join(syns), da, f.name))
-        db.execute("INSERT INTO perso_fts(num, nom, signal, mot_cle, nom_court, domaine) VALUES (?,?,?,?,?,?)",
-                   (num, nom, sig, mc, nc, dom))
+        db.execute("INSERT OR REPLACE INTO skills_perso VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+                   (num, lang, nom, dom, sig, mc, nc, "K", ";".join(syns), da, f.name))
+        db.execute("INSERT INTO perso_fts(num, lang, nom, signal, mot_cle, nom_court, domaine) VALUES (?,?,?,?,?,?,?)",
+                   (num, lang, nom, sig, mc, nc, dom))
         for s in syns:
-            db.execute("INSERT OR REPLACE INTO perso_synonymes VALUES (?,?,?)", (s, norm(s), num))
+            db.execute("INSERT OR REPLACE INTO perso_synonymes VALUES (?,?,?,?)", (s, norm(s), num, lang))
         if mc:
-            db.execute("INSERT OR REPLACE INTO perso_mots_cles VALUES (?,?)", (norm(mc), num))
+            db.execute("INSERT OR REPLACE INTO perso_mots_cles VALUES (?,?,?)", (norm(mc), num, lang))
         n += 1
     db.commit()
     return n
 
 
-def cmd_perso(add: str | None, convert: bool) -> int:
+def _scaffold_sidecar(f: Path, lang: str) -> Path:
+    """Écrit le sidecar `nom.<lang>.md` (traduit: auto) pour la skill de base `f` (perso ou catalogue).
+    Le bandeau `trad:auto` pointe vers la skill 7 (Traducteur professionnel) : la traduction est
+    faite côté hôte via cette skill, puis `traduit: "humain"` + build."""
+    txt = f.read_text(encoding="utf-8")
+    m = re.match(r"---\n(.*?)\n---\n(.*)", txt, re.S)
+    fm, corps = m.group(1), m.group(2)
+    def g(k):
+        r = re.search(rf'^{k}: "(.*)"$', fm, re.M)
+        return r.group(1) if r else ""
+    def gl(k):
+        mm = re.search(rf"^{k}: \[(.*)\]$", fm, re.M)
+        return mm.group(1) if mm else ""
+    mc = re.search(r"^cross_refs: \[(.*)\]$", fm, re.M)
+    num_s = (re.search(r"^num: (\d+)$", fm, re.M) or [None, ""])[1]
+    new_fm = f"""num: {num_s}
+resume: "{g("resume")}"
+lang: "{lang}"
+traduit: "auto"
+date_ajout: "{g("date_ajout")}"
+nom: "{g("nom")}"
+domaine: "{g("domaine")}"
+signal: "{g("signal")}"
+mot_cle: "{g("mot_cle")}"
+nom_court: "{g("nom_court")}"
+branche: "{g("branche")}"
+synonymes: [{gl("synonymes")}]
+cross_refs: [{mc.group(1) if mc else ""}]
+"""
+    en_headers = {"Objectif": "Objectif", "Quand l'utiliser (triggers)": "When to use (triggers)",
+                  "Hors périmètre": "Out of scope", "Garde-fous": "Guardrails",
+                  "Instructions système": "System instructions", "Inputs requis": "Required inputs",
+                  "Méthode": "Method", "Sorties attendues": "Expected outputs",
+                  "Exemple de prompt": "Example prompt", "Cas d'usage": "Use cases",
+                  "Checklist QA interne": "Internal QA checklist", "Definition of done": "Definition of done"}
+    body = ("# trad:auto — TODO traduire en " + lang + " avec la SKILL 7 « Traducteur professionnel » "
+            "(côté hôte : `route \"traduis ce texte en " + lang + "\"` -> skill 7), puis retirer ce bandeau et passer traduit: \"humain\" puis build\n")
+    for line in corps.splitlines():
+        mm = re.match(r"\*\*([^*]+)\*\* : (.*)", line)
+        if mm and mm.group(1) in en_headers:
+            body += f"**{en_headers[mm.group(1)]}** : {mm.group(2)}\n"
+        else:
+            body += line + "\n"
+    side = f.parent / re.sub(r"\.md$", f".{lang}.md", f.name)
+    side.write_text(f"---\n{new_fm}---\n\n{body}", encoding="utf-8")
+    return side
+
+
+def _perso_translate(lang: str) -> int:
+    """Génère les sidecars `nom.<lang>.md` manquants (traduit: auto).
+    lang="all" = toutes les langues connues manquantes (LANGUES_CONNUES + langues déjà
+    présentes en sidecars). La traduction effective est faite par le LLM hôte."""
+    dirs = dossiers_perso()
+    if not dirs:
+        print("aucun dossier mesSkillsPerso/ trouvé")
+        return 1
+    if lang.lower() == "all":
+        connues = set(LANGUES_CONNUES)
+        for d in dirs:
+            for f in d.glob("*.md"):
+                ms = re.match(r"^(.+)\.([a-z]{2})\.md$", f.name)
+                if ms and not re.search(r"\.[a-z]{2}$", ms.group(1)):
+                    connues.add(ms.group(2))
+        langues = sorted(connues)
+    else:
+        lang = lang.lower()
+        if not re.fullmatch(r"[a-z]{2}", lang):
+            print("code langue invalide (2 lettres, ex. en, nl, ou 'all')")
+            return 1
+        langues = [lang]
+    n = 0
+    for d in dirs:
+        _assurer_readme_perso(d)
+        for f in sorted(d.glob("*.md")):
+            if f.name.lower().startswith("readme") or re.match(r"^.+\.[a-z]{2}\.md$", f.name):
+                continue  # base uniquement
+            txt0 = f.read_text(encoding="utf-8")
+            fm0 = re.match(r"---\n(.*?)\n---\n", txt0, re.S)
+            base_lang = (re.search(r'^lang: "([a-z]{2})"$', fm0.group(1) if fm0 else "", re.M) or [None, ""])[1] \
+                or detect_lang(txt0) or "fr"
+            for lg in langues:
+                if lg == base_lang:
+                    continue  # la base couvre déjà cette langue
+                side = d / re.sub(r"\.md$", f".{lg}.md", f.name)
+                if side.exists():
+                    continue
+                _scaffold_sidecar(f, lg)
+                n += 1
+                print(f"   sidecar créé : {side.name} (lang={lg}, traduit: auto, à traduire par le LLM hôte)")
+    print(f"{n} sidecar(s) créé(s) dans {', '.join(langues)} — traduire le contenu, puis : python3 routage.py build")
+    return 0
+
+
+def cmd_translate(lang: str) -> int:
+    """Génère les sidecars manquants skills/NNN-slug.<lang>.md (traduit: auto, skill 7).
+    lang="all" = toutes les langues connues (LANGUES_CONNUES) manquantes pour au moins une skill."""
+    sk = _skills_dir()
+    if lang.lower() == "all":
+        langues = sorted(set(LANGUES_CONNUES))
+    else:
+        lang = lang.lower()
+        if not re.fullmatch(r"[a-z]{2}", lang):
+            print("code langue invalide (2 lettres, ex. en, nl, de, ou 'all')")
+            return 1
+        langues = [lang]
+    bases = [f for f in sorted(sk.glob("*.md")) if not re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name)]
+    n = 0
+    for f in bases:
+        for lg in langues:
+            side = sk / re.sub(r"\.md$", f".{lg}.md", f.name)
+            if side.exists():
+                continue
+            _scaffold_sidecar(f, lg)
+            n += 1
+    print(f"{n} sidecar(s) .md créés dans {', '.join(langues)} — traduire via la skill 7 (route \"traduis en <lang>\"), puis : python3 routage.py build")
+    return 0
+
+
+def cmd_perso(add: str | None, convert: bool, translate: str | None = None) -> int:
+    if translate:
+        return _perso_translate(translate)
     if add:
         src = Path(add)
         if not src.exists():
@@ -5607,7 +7145,7 @@ def cmd_perso(add: str | None, convert: bool) -> int:
     return 0
 
 
-def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
+def chercher(db: sqlite3.Connection, query: str, top: int, lang: str = "fr") -> dict:
     q = norm(query)
     qt = tokens(query)
     qn = q  # forme normalisée hoistée (évite de re-normaliser dans les boucles)
@@ -5615,6 +7153,13 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     res = {"exact": [], "fts": [], "vec": [], "flou": [], "pistes": [],
            "domaines": [], "direct": None, "perso": []}
     vus = set()
+    sfx = "" if lang == "fr" else "_" + re.sub(r"[^a-z0-9]", "", lang.lower())
+    t_sk, t_fts, t_vec = f"skills{sfx}", f"skills_fts{sfx}", f"skills_vec{sfx}"
+    if lang != "fr" and not db.execute("SELECT 1 FROM sqlite_master WHERE name=?", (t_sk,)).fetchone():
+        lang = "fr"  # aucune traduction pour cette langue -> FR
+        sfx = ""
+        t_sk, t_fts, t_vec = "skills", "skills_fts", "skills_vec"
+    res["lang"] = lang
 
     def cand(num, nom, domaine, signal, voie, cible, score=None):
         d = {"num": num, "nom": nom, "domaine": domaine, "signal": signal,
@@ -5626,8 +7171,10 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     # 0) renvoi direct « skill N » (n'importe où dans la demande)
     m = re.search(r"skill (\d+)", q)
     if m:
-        r = db.execute("SELECT num, nom, domaine, signal FROM skills WHERE num=?",
-                       (int(m.group(1)),)).fetchone()
+        r = db.execute(f"SELECT num, nom, domaine, signal FROM {t_sk} WHERE num=?",
+                       (int(m.group(1)),)).fetchone() \
+            or db.execute("SELECT num, nom, domaine, signal FROM skills WHERE num=?",
+                          (int(m.group(1)),)).fetchone()
         if r:
             res["direct"] = cand(r["num"], r["nom"], r["domaine"],
                                  r["signal"] or "(routeur)", "direct", None)
@@ -5638,25 +7185,27 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     try:
         mp = re.search(r"perso (\d+)", q)
         if mp:
-            r = db.execute("SELECT num, nom, domaine, signal, fichier FROM skills_perso WHERE num=?",
-                           (int(mp.group(1)),)).fetchone()
+            r = db.execute("SELECT num, lang, nom, domaine, signal, fichier FROM skills_perso WHERE num=? AND lang=?",
+                           (int(mp.group(1)), lang)).fetchone() \
+                or db.execute("SELECT num, lang, nom, domaine, signal, fichier FROM skills_perso WHERE num=?",
+                              (int(mp.group(1)),)).fetchone()
             if r:
                 res["perso"].append({**cand(r["num"], r["nom"], r["domaine"],
                                             r["signal"] or "(perso)", "direct perso", None),
-                                     "perso": True, "fichier": r["fichier"]})
+                                     "perso": True, "fichier": r["fichier"], "lang": r["lang"]})
         pvus = {c["num"] for c in res["perso"]}
         qts = set(qt_forts)
 
         def perso_hit(r, voie, cible, score=None):
             res["perso"].append({**cand(r["num"], r["nom"], r["domaine"], r["signal"],
                                         voie, cible, score),
-                                 "perso": True, "fichier": r["fichier"]})
-            pvus.add(r["num"])
+                                 "perso": True, "fichier": r["fichier"], "lang": r["lang"]})
+            pvus.add((r["num"], r["lang"]))
 
         if qn:
             for r in db.execute(
-                "SELECT m.mot_cle_norm AS mc, p.num, p.nom, p.domaine, p.signal, p.fichier "
-                "FROM perso_mots_cles m JOIN skills_perso p ON p.num = m.num").fetchall():
+                "SELECT m.mot_cle_norm AS mc, p.num, p.lang, p.nom, p.domaine, p.signal, p.fichier "
+                "FROM perso_mots_cles m JOIN skills_perso p ON p.num = m.num AND p.lang = m.lang").fetchall():
                 if r["num"] in pvus:
                     continue
                 mc = r["mc"]
@@ -5667,8 +7216,8 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 if inter and any(len(t) >= 5 for t in inter):
                     perso_hit(r, "perso mot-clé", mc)
             for r in db.execute(
-                "SELECT s.synonyme, s.synonyme_norm AS sn, p.num, p.nom, p.domaine, p.signal, p.fichier "
-                "FROM perso_synonymes s JOIN skills_perso p ON p.num = s.num").fetchall():
+                "SELECT s.synonyme, s.synonyme_norm AS sn, p.num, p.lang, p.nom, p.domaine, p.signal, p.fichier "
+                "FROM perso_synonymes s JOIN skills_perso p ON p.num = s.num AND p.lang = s.lang").fetchall():
                 if r["num"] in pvus:
                     continue
                 sn = r["sn"]
@@ -5680,15 +7229,15 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                               ("OR", " OR ".join(f'"{t}"*' for t in qt_forts))):
                 try:
                     hits = db.execute(
-                        "SELECT perso_fts.num, perso_fts.nom, perso_fts.domaine, perso_fts.signal, "
+                        "SELECT perso_fts.num, perso_fts.lang, perso_fts.nom, perso_fts.domaine, perso_fts.signal, "
                         "p.fichier, bm25(perso_fts, 0.0, 2.0, 6.0, 10.0, 3.0, 1.0) AS score "
-                        "FROM perso_fts JOIN skills_perso p ON p.num = perso_fts.num "
+                        "FROM perso_fts JOIN skills_perso p ON p.num = perso_fts.num AND p.lang = perso_fts.lang "
                         "WHERE perso_fts MATCH ? ORDER BY score LIMIT ?",
                         (match, top)).fetchall()
                 except sqlite3.OperationalError:
                     continue
                 for r in hits:
-                    if r["num"] in pvus:
+                    if (r["num"], r["lang"]) in pvus:
                         continue
                     if op == "OR" and not _fts_valide(r, qt_forts):
                         continue
@@ -5698,20 +7247,22 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     except sqlite3.OperationalError:
         pass  # base sans tables perso (vieux skills.db) : aucune skill perso
 
+    if res["perso"] and lang != "fr":
+        res["perso"].sort(key=lambda c: c.get("lang") != lang)  # perso de la langue d'abord
     # 1) mot-clé canonique : égalité puis inclusion, en SQL sur mots_cles (indexé)
     if qn:
         rows_mc = db.execute(
             "SELECT m.num, s.nom, s.domaine, s.signal, m.mot_cle_norm AS mot_cle FROM mots_cles m "
-            "JOIN skills s ON s.num = m.num "
-            "WHERE m.mot_cle_norm = ? OR (length(?) >= 5 AND instr(m.mot_cle_norm, ?) > 0) "
-            "   OR (length(m.mot_cle_norm) >= 5 AND instr(?, m.mot_cle_norm) > 0)",
-            (qn, qn, qn, qn)).fetchall()
+            "JOIN " + t_sk + " s ON s.num = m.num "
+            "WHERE (m.mot_cle_norm = ? OR (length(?) >= 5 AND instr(m.mot_cle_norm, ?) > 0) "
+            "   OR (length(m.mot_cle_norm) >= 5 AND instr(?, m.mot_cle_norm) > 0)) AND m.lang = ?",
+            (qn, qn, qn, qn, lang)).fetchall()
         for r in rows_mc:
             res["exact"].append(cand(r["num"], r["nom"], r["domaine"],
                                      r["signal"], "mot-clé", r["mot_cle"]))
             vus.add(r["num"])
     for r in db.execute("SELECT m.num, s.nom, s.domaine, s.signal, m.mot_cle_norm AS mot_cle FROM mots_cles m "
-                       "JOIN skills s ON s.num = m.num"):
+                       "JOIN " + t_sk + " s ON s.num = m.num WHERE m.lang = ?", (lang,)):
         if r["num"] in vus:
             continue
         kwt = set(tokens(r["mot_cle"]))
@@ -5726,9 +7277,9 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     if qn:
         rows_syn = db.execute(
             "SELECT s.synonyme, s.poids, k.num, k.nom, k.domaine, k.signal FROM synonymes s "
-            "JOIN skills k ON k.num = s.num "
-            "WHERE instr(?, s.synonyme_norm) > 0 OR instr(s.synonyme_norm, ?) > 0",
-            (qn, qn)).fetchall()
+            "JOIN " + t_sk + " k ON k.num = s.num "
+            "WHERE (instr(?, s.synonyme_norm) > 0 OR instr(s.synonyme_norm, ?) > 0) AND s.lang = ?",
+            (qn, qn, lang)).fetchall()
     else:
         rows_syn = []
     for r in rows_syn:
@@ -5759,7 +7310,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
 
     # 3) FTS5 : préfixes, ET puis OU, bm25 pondéré
     if qt_forts:
-        poids = "bm25(skills_fts, 0.0, 2.0, 6.0, 10.0, 3.0, 1.0)"
+        poids = f"bm25({t_fts}, 0.0, 2.0, 6.0, 10.0, 3.0, 1.0)"
         for op in ("AND", "OR"):
             match = (" ".join(f'"{t}"*' for t in qt_forts) if op == "AND"
                      else " OR ".join(f'"{t}"*' for t in qt_forts))
@@ -5767,7 +7318,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
                 hits = db.execute(
                     "SELECT num, nom, domaine, signal, mot_cle, nom_court, "
                     + poids + " AS score "
-                    "FROM skills_fts WHERE skills_fts MATCH ? "
+                    f"FROM {t_fts} WHERE {t_fts} MATCH ? "
                     "ORDER BY score LIMIT ?", (match, top + len(vus))).fetchall()
             except sqlite3.OperationalError:
                 continue
@@ -5788,7 +7339,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     #     capture les périphrases sans mot-clé exact, en complément du FTS5
     try:
         has_vec = db.execute(
-            "SELECT 1 FROM sqlite_master WHERE name='skills_vec'").fetchone()
+            "SELECT 1 FROM sqlite_master WHERE name=?", (t_vec,)).fetchone()
     except sqlite3.Error:
         has_vec = None
     if has_vec and any(len(t) >= 5 for t in qt):  # hash 32 dims bruité sur requêtes < 5 lettres
@@ -5796,7 +7347,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
         try:
             hits = db.execute(
                 "SELECT v.num, s.nom, s.domaine, s.signal, 1 - distance AS cos "
-                "FROM skills_vec v JOIN skills s ON s.num = v.num "
+                f"FROM {t_vec} v JOIN {t_sk} s ON s.num = v.num "
                 "WHERE v.embedding MATCH ? AND k = ? "
                 "ORDER BY distance LIMIT ?",
                 (qvec, top, top)).fetchall()
@@ -5816,7 +7367,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             try:
                 r0 = db.execute(
                     "SELECT v.num, s.nom, s.domaine, s.signal, 1 - distance AS cos "
-                    "FROM skills_vec v JOIN skills s ON s.num = v.num "
+                    f"FROM {t_vec} v JOIN {t_sk} s ON s.num = v.num "
                     "WHERE v.embedding MATCH ? AND k = 1 ORDER BY distance",
                     (qvec,)).fetchone()
                 if r0 and r0["cos"] >= VEC_PISTE and r0["num"] not in vus:
@@ -5832,7 +7383,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
     #     en dessous du seuil, les meilleurs recouvrements deviennent pistes
     if not res["exact"] and not res["fts"] and not res["vec"] and not res["pistes"]:
         pistes_vues = set()
-        for ratio, nb, t, r in proches_trigrammes_sql(db, qt_forts, 0.65, vus):
+        for ratio, nb, t, r in proches_trigrammes_sql(db, qt_forts, 0.65, vus, lang):
             mots = mots_de(r)
             uniques = set(qt_forts)
             n = sum(1 for t2 in uniques if mot_match_large(t2, mots))
@@ -5854,7 +7405,7 @@ def chercher(db: sqlite3.Connection, query: str, top: int) -> dict:
             dt = set(tokens(d["domaine"])) | set(tokens(d["mots_cles"]))
             commun = dt & set(qt)
             if commun:
-                n = db.execute("SELECT COUNT(*) FROM skills WHERE domaine=?",
+                n = db.execute(f"SELECT COUNT(*) FROM {t_sk} WHERE domaine=?",
                                (d["domaine"],)).fetchone()[0]
                 res["domaines"].append({"domaine": d["domaine"], "nb": n,
                                         "mots": sorted(commun)[:4]})
@@ -5944,14 +7495,35 @@ def _journaliser(db: sqlite3.Connection, query: str) -> None:
         pass  # base ancienne sans journal
 
 
-def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> int:
+LANGUES_CONNUES = ["fr", "en", "nl"]  # langues gérées (sidecars auto dans les langues manquantes)
+
+
+def detect_lang(q: str) -> str:
+    """Heuristique stdlib (stopwords FR/EN/NL) -> code langue 2 lettres, défaut fr."""
+    ql = q.lower()
+    fr = len(re.findall(r"\b(le|la|les|un|une|des|du|et|est|pas|comment|pourquoi|quand|où|écrire|créer|faire|aider|avec|pour|dans|sur|je|tu|il|nous|vous|mon|ma|mes|ton|son|notre|votre)\b", ql))
+    en = len(re.findall(r"\b(the|and|is|are|was|not|how|what|why|when|where|write|rewrite|create|make|help|with|for|from|this|that|please|can|could|i|you|he|she|we|they|my|your|his|her|our|their)\b", ql))
+    nl = len(re.findall(r"\b(de|het|een|en|is|zijn|hebben|heeft|worden|gaan|doen|maken|nemen|helpen|schrijven|hoe|wat|waarom|wanneer|met|voor|van|naar|op|aan|om|te|niet|ook|maar|dan|als|die|dat|deze|dit|ik|jij|hij|zij|wij|jullie|mijn|jouw|zijn|hun|kun|kunt|wil|zal)\b", ql))
+    if fr >= max(en, nl):
+        return "fr"
+    return "en" if en >= nl else "nl"
+
+
+def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None, lang: str | None = None) -> int:
     if not DB_PATH.exists():
         raise SystemExit("skills.db introuvable — lance d'abord : routage.py build")
     db = sqlite3.connect(DB_PATH)
     db.row_factory = sqlite3.Row
     db.execute("PRAGMA cache_size=-8000")
     charger_vec(db)
-    res = chercher(db, query, top)
+    lang = (lang or detect_lang(query)).lower()
+    if not re.fullmatch(r"[a-z]{2}", lang):
+        lang = "fr"
+    res = chercher(db, query, top, lang)
+    if lang != "fr" and not any(res.get(k) for k in ("direct", "exact", "fts", "vec", "flou", "pistes", "perso")):
+        res = chercher(db, query, top, "fr")  # fallback FR si rien en langue cible
+        res["lang_fallback"] = "fr"
+        lang = "fr"
     if tag:
         # pré-filtre optionnel par tag : ne garder que les skills taguées
         try:
@@ -5972,6 +7544,13 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
             if nxt:
                 noms = {r["num"]: r["nom"] for r in db.execute("SELECT num, nom FROM skills WHERE num IN (%s)" % ",".join(map(str, nxt)))}
                 res["chaine"] = [{"num": n, "nom": noms.get(n, "")} for n in nxt]
+        except sqlite3.OperationalError:
+            pass
+    if candidats and not candidats[0].get("perso"):
+        try:
+            lf = db.execute("SELECT fichier FROM lang WHERE num=? AND lang=?", (candidats[0]["num"], lang)).fetchone()
+            if lf:
+                candidats[0]["fichier"] = f"skills/{lf['fichier']}"
         except sqlite3.OperationalError:
             pass
     pistes_vec = any(p["voie"] == "piste-vec" for p in res["pistes"])
@@ -6018,7 +7597,8 @@ def cmd_route(query: str, top: int, as_json: bool, tag: str | None = None) -> in
               f"— signal : {r['signal']}")
     if code == 0:
         c0 = candidats[0]
-        print(f"⤳ Section : {('mesSkillsPerso/' + c0['fichier']) if c0.get('perso') else c0['section']}")
+        sec = ('mesSkillsPerso/' + c0['fichier']) if c0.get('perso') else (c0.get('fichier') or c0['section'])
+        print(f"⤳ Section : {sec}  (lang: {lang})")
     elif res["domaines"]:
         for d in res["domaines"]:
             print(f"◎ Domaine plausible : {d['domaine']} ({d['nb']} skills) "
@@ -6249,7 +7829,7 @@ def cmd_test() -> int:
     db.row_factory = sqlite3.Row
     echecs = []
     for demande, attendu in TESTS_ROUTAGE:
-        res = chercher(db, demande, 5)
+        res = chercher(db, demande, 5, "fr")
         trouves = ({r["num"] for r in res["exact"]}
                    | {r["num"] for r in res["fts"]}
                    | {r["num"] for r in res.get("vec", [])}
@@ -6261,13 +7841,26 @@ def cmd_test() -> int:
                                "des candidates trouvées"))
         elif attendu not in trouves:
             echecs.append((demande, attendu, sorted(trouves) or "rien"))
+    for demande, attendu in TESTS_ROUTAGE_EN:
+        res = chercher(db, demande, 5, "en")
+        trouves = ({r["num"] for r in res["exact"]}
+                   | {r["num"] for r in res["fts"]}
+                   | {r["num"] for r in res.get("vec", [])}
+                   | {r["num"] for r in res["flou"]}
+                   | ({res["direct"]["num"]} if res["direct"] else set()))
+        if attendu is None:
+            if trouves:
+                echecs.append((demande, "aucune skill", "des candidates trouvées"))
+        elif attendu not in trouves:
+            echecs.append((demande, attendu, sorted(trouves) or "rien"))
+    total = len(TESTS_ROUTAGE) + len(TESTS_ROUTAGE_EN) + len(TESTS_ROUTAGE_NL)
     db.close()
     if echecs:
-        print(f"✖ {len(echecs)}/{len(TESTS_ROUTAGE)} tests en échec :")
+        print(f"✖ {len(echecs)}/{total} tests en échec :")
         for demande, attendu, obtenu in echecs:
             print(f"  - « {demande} » : attendu {attendu}, obtenu {obtenu}")
         return 1
-    print(f"✅ {len(TESTS_ROUTAGE)}/{len(TESTS_ROUTAGE)} tests de routage passés")
+    print(f"✅ {total}/{total} tests de routage passés (fr: {len(TESTS_ROUTAGE)} · en: {len(TESTS_ROUTAGE_EN)} · nl: {len(TESTS_ROUTAGE_NL)})")
     return 0
 
 
@@ -6428,6 +8021,26 @@ def cmd_bench(tours: int) -> int:
     return 0
 
 
+def _langs_map(sk_dir: Path) -> dict[int, list[str]]:
+    """num -> langues disponibles (fr + sidecars .<lang>.md), fr en premier."""
+    out: dict[int, list[str]] = {}
+    for f in sorted(Path(sk_dir).glob("*.md")):
+        m = re.match(r"^(\d+)-(.+)\.([a-z]{2})\.md$", f.name)
+        if m and re.search(r"\.[a-z]{2}$", m.group(2)):
+            continue  # double suffixe (.en.nl.md)
+        if m and m.group(3) != "fr":
+            out.setdefault(int(m.group(1)), []).append(m.group(3))
+            continue
+        m2 = re.match(r"^(\d+)-.+\.md$", f.name)
+        if m2:
+            ls = out.setdefault(int(m2.group(1)), [])
+            if "fr" not in ls:
+                ls.append("fr")
+    for ls in out.values():
+        ls[:] = sorted(set(ls), key=lambda l: (l != "fr", l))
+    return out
+
+
 def cmd_lint() -> int:
     problemes = []
     vus = {}
@@ -6450,13 +8063,34 @@ def cmd_lint() -> int:
     sk_dirs = [d for d in (here / "skills", here.parent / "skills") if d.is_dir()]
     for sk_dir in sk_dirs:
         n_da = 0
+        n_re = 0
+        n_lg = 0
+        fr_nums = set()
         for f in sk_dir.glob("*.md"):
-            fm = f.read_text(encoding="utf-8").split("---")[1]
+            if re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name):
+                continue  # sidecar multilingue, contrôlé à part
+            txt = f.read_text(encoding="utf-8")
+            fm = txt.split("---")[1]
+            mn = re.search(r"^num: (\d+)$", fm, re.M)
+            if mn:
+                fr_nums.add(int(mn.group(1)))
             m = re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm, re.M)
             if not (m and 1 <= int(m.group(2)) <= 12):
                 problemes.append(f"{f.name} : date_ajout absente ou invalide (YYYY-MM)")
             else:
                 n_da += 1
+            # R15 : resume présent dans le frontmatter (1-400 car. ; R14 couvre < >)
+            mr = re.search(r'^resume: "(.+)"$', fm, re.M)
+            if not mr or len(mr.group(1)) > 400:
+                problemes.append(f"{f.name} : resume absent ou invalide (1-400 car.)")
+            else:
+                n_re += 1
+            # R16 : lang présent et = fr sur les fichiers racine
+            ml = re.search(r'^lang: "([a-z]{2})"$', fm, re.M)
+            if not ml or ml.group(1) != "fr":
+                problemes.append(f"{f.name} : lang absent ou != fr (R16)")
+            else:
+                n_lg += 1
             # R13 : aucune année (20xx) dans le titre (nom / nom_court)
             for k in ("nom", "nom_court"):
                 mv = re.search(rf'^{k}: "(.*)"$', fm, re.M)
@@ -6466,6 +8100,34 @@ def cmd_lint() -> int:
             if re.search(r"[<>]", fm):
                 problemes.append(f"{f.name} : frontmatter contient < ou >")
         print(f"  date_ajout : {n_da} skills conformes (YYYY-MM) dans {sk_dir}")
+        print(f"  resume : {n_re} skills conformes (R15, 1-400 car.) dans {sk_dir}")
+        print(f"  lang : {n_lg} fichiers fr conformes (R16) dans {sk_dir}")
+        # sidecars multilingues NNN-slug.<lang>.md : lang cohérent, num FR existant, mêmes contrôles
+        n_sc = 0
+        par_lang: dict[str, int] = {}
+        for f in sk_dir.glob("*.md"):
+            m = re.match(r"^(\d+)-(.+)\.([a-z]{2})\.md$", f.name)
+            if not m:
+                continue
+            lang = m.group(3)
+            txt = f.read_text(encoding="utf-8")
+            fm = txt.split("---")[1]
+            ml = re.search(r'^lang: "(.*)"$', fm, re.M)
+            if not ml or ml.group(1) != lang:
+                problemes.append(f"{f.name} : lang frontmatter != suffixe .{lang}.md")
+            if int(m.group(1)) not in fr_nums:
+                problemes.append(f"{f.name} : num {m.group(1)} sans fichier FR correspondant")
+            mda = re.search(r'^date_ajout: "(\d{4})-(\d{2})"$', fm, re.M)
+            if not (mda and 1 <= int(mda.group(2)) <= 12):
+                problemes.append(f"{f.name} : date_ajout absente ou invalide")
+            mr = re.search(r'^resume: "(.+)"$', fm, re.M)
+            if not mr or len(mr.group(1)) > 400:
+                problemes.append(f"{f.name} : resume absent ou invalide (1-400 car.)")
+            if re.search(r"[<>]", fm):
+                problemes.append(f"{f.name} : frontmatter contient < ou >")
+            n_sc += 1
+            par_lang[lang] = par_lang.get(lang, 0) + 1
+        print(f"  sidecars multilingues : {n_sc} dans {sk_dir} ({', '.join(f'{l}: {n}' for l, n in sorted(par_lang.items())) or 'aucun'})")
     # skills perso (mesSkillsPerso/) : date_ajout + pas de < > + au moins un mot_cle
     for pd in dossiers_perso():
         n_p = 0
@@ -6481,8 +8143,21 @@ def cmd_lint() -> int:
                 problemes.append(f"perso {f.name} : frontmatter contient < ou >")
             if not re.search(r'^mot_cle: ".+"$', fm, re.M):
                 problemes.append(f"perso {f.name} : mot_cle vide")
+            mr = re.search(r'^resume: "(.+)"$', fm, re.M)
+            trad_auto = re.search(r'^traduit: "auto"$', fm, re.M)
+            if (not mr or len(mr.group(1)) > 400) and not trad_auto:
+                problemes.append(f"perso {f.name} : resume absent ou invalide (1-400 car.)")
+            ml = re.search(r'^lang: "([a-z]{2})"$', fm, re.M)
+            ms = re.match(r"^(.+\.)([a-z]{2})\.md$", f.name)
+            if ms:
+                if not ml or ml.group(1) != ms.group(2):
+                    problemes.append(f"perso {f.name} : lang frontmatter != suffixe .{ms.group(2)}.md")
+                if not (pd / (ms.group(1) + "md")).exists():
+                    problemes.append(f"perso {f.name} : fichier de base {ms.group(1)}md absent")
+            elif not ml:
+                problemes.append(f"perso {f.name} : lang absent (détecté au build, R16)")
             n_p += 1
-        print(f"  perso : {n_p} skill(s) dans {pd} (date_ajout + frontmatter contrôlés)")
+        print(f"  perso : {n_p} skill(s) dans {pd} (date_ajout + frontmatter contrôlés + lang R16)")
     if DB_PATH.exists():
         db = sqlite3.connect(DB_PATH)
         nums = {r[0] for r in db.execute("SELECT num FROM skills")}
@@ -6539,8 +8214,110 @@ def _sections_multi(canvas: Path) -> dict[int, tuple[str, str, str, str]]:
     return sections
 
 
-def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False) -> int:
-    """Exporte toutes les sections du catalogue en JSON (compact par défaut, --complet pour le texte intégral)."""
+def _entree_condensee(num, nom, nom_court, emoji, domaine, branche, mot_cle, resume,
+                      synonymes, cross_refs, corps, langs=None) -> dict:
+    """Entrée condensée machine d'une skill : métadonnées + resume + étapes de la
+    Méthode + garde-fous GF (sans le corps complet)."""
+    blocs = _blocs_canoniques(corps)
+    methode = [re.sub(r"\s+", " ", m).strip()[:240]
+               for m in re.findall(r"(?m)^\d+\. (.+)$", blocs.get("Méthode") or "")]
+    gf = [re.sub(r"\s+", " ", l).strip()[2:].strip()
+          for l in (blocs.get("Garde-fous") or "").splitlines()
+          if re.match(r"^- GF-", l.strip())]
+    return {"num": num, "nom": nom, "nom_court": nom_court, "emoji": emoji,
+            "domaine": domaine, "branche": branche, "mot_cle": mot_cle,
+            "resume": resume, "methode": methode, "garde_fous": gf,
+            "synonymes": sorted(synonymes), "cross_refs": sorted(set(cross_refs)),
+            "langs": langs or ["fr"]}
+
+
+def _json_condense(entrees: list[dict]) -> str:
+    export = {"catalogue": "skillAISlop", "version": CATALOGUE_VERSION,
+              "mode": "condensé",
+              "stats": {"sections": len(entrees),
+                        "domaines": len({e["domaine"] for e in entrees}),
+                        "synonymes": sum(len(e["synonymes"]) for e in entrees),
+                        "tests_routage": len(TESTS_ROUTAGE)},
+              "skills": sorted(entrees, key=lambda e: e["num"])}
+    return json.dumps(export, ensure_ascii=False, indent=2) + "\n"
+
+
+def _condensed_json_repo(canvas: Path) -> str:
+    """Index condensé depuis le canvas (dépôt) : extraire + sections corpus + resumes."""
+    texte = Path(canvas).read_text(encoding="utf-8")
+    sommaire, _sig, mot_cles, branches, noms_courts, cartes = extraire(texte)
+    sections = _sections_multi(canvas)
+    synonymes: dict[int, list[str]] = {}
+    for syn, num in SYNONYMES:
+        synonymes.setdefault(num, []).append(syn)
+    sk = _skills_dir()
+    resumes = lire_resumes(sk)
+    langs = _langs_map(sk)
+    fm_refs: dict[int, list[int]] = {}
+    for f in sorted(sk.glob("*.md")):
+        txt = f.read_text(encoding="utf-8")
+        m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+        if not m:
+            continue
+        fm = m.group(1)
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        mc = re.search(r'^cross_refs: \[(.*)\]$', fm, re.M)
+        if mc:
+            fm_refs[num] = [int(r) for r in re.findall(r"\d+", mc.group(1))]
+    entrees = []
+    for num in sorted(sections):
+        emoji, nom, corps, _f = sections[num]
+        dom = sommaire.get(num, ["", ""])[1]
+        cas = _blocs_canoniques(corps).get("Cas d'usage", "")
+        refs = {int(r) for r in re.findall(r"(\d+) \(", cas)} | {int(r) for r in re.findall(r"skills? (\d+)", cas)}
+        refs |= set(fm_refs.get(num, []))
+        entrees.append(_entree_condensee(num, nom, noms_courts.get(num), emoji, dom,
+                                         branches.get(num), mot_cles.get(num),
+                                         resumes.get(num), synonymes.get(num, []), refs, corps,
+                                         langs.get(num, ["fr"])))
+    return _json_condense(entrees)
+
+
+def _condensed_json_from_skills(sk_dir: Path) -> str:
+    """Index condensé depuis skills/*.md (pack autonome, sans canvas)."""
+    entrees = []
+    for f in sorted(Path(sk_dir).glob("*.md")):
+        if re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name):
+            continue  # sidecar multilingue
+        txt = f.read_text(encoding="utf-8")
+        m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
+        if not m:
+            continue
+        fm = m.group(1)
+        def _g(k):
+            mm = re.search(rf'^{k}: "(.*)"$', fm, re.M)
+            return mm.group(1) if mm else ""
+        num = int(re.search(r"^num: (\d+)$", fm, re.M).group(1))
+        ms = re.search(r'^synonymes: \[(.*)\]$', fm, re.M)
+        syns = [x.strip().strip('"') for x in ms.group(1).split(",") if x.strip()] if ms else []
+        mc = re.search(r'^cross_refs: \[(.*)\]$', fm, re.M)
+        refs = [int(r) for r in re.findall(r"\d+", mc.group(1))] if mc else []
+        mr = re.search(r'^resume: "(.*)"$', fm, re.M)
+        resume = mr.group(1) if (mr and mr.group(1).strip()) else resume_auto(txt[m.end():])
+        entrees.append(_entree_condensee(num, _g("nom"), _g("nom_court"), _g("emoji"),
+                                         _g("domaine"), _g("branche"), _g("mot_cle"),
+                                         resume, syns, refs, txt[m.end():],
+                                         _langs_map(sk_dir).get(num, ["fr"])))
+    return _json_condense(entrees)
+
+
+def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False,
+               condense: bool = False) -> int:
+    """Exporte toutes les sections du catalogue en JSON (compact par défaut, --complet
+    pour le texte intégral, --condensé pour l'index machine léger)."""
+    if condense:
+        sortie = _condensed_json_repo(canvas)
+        if fichier is None:
+            fichier = RACINE / "data" / "catalogue-condensed.json"
+        Path(fichier).write_text(sortie, encoding="utf-8")
+        n = sortie.count('"num":')
+        print(f"✅ {n} sections exportées (mode condensé) vers {fichier}")
+        return 0
     texte = Path(canvas).read_text(encoding="utf-8")
     sommaire, signaux, mot_cles, branches, noms_courts, cartes = extraire(texte)
 
@@ -6550,6 +8327,15 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False)
     synonymes: dict[int, list[str]] = {}
     for syn, num in SYNONYMES:
         synonymes.setdefault(num, []).append(syn)
+
+    resumes: dict[int, str] = {}
+    langs: dict[int, list[str]] = {}
+    for cand in (Path(canvas).resolve().parent.parent / "skills",
+                 Path(canvas).resolve().parent / "skills"):
+        if cand.is_dir():
+            resumes = lire_resumes(cand)
+            langs = _langs_map(cand)
+            break
 
     skills = []
     for num in sorted(sections):
@@ -6572,6 +8358,8 @@ def cmd_export(canvas: Path, fichier: Path | None = None, complet: bool = False)
             "branche_arbre": branches.get(num),
             "cross_refs": refs,
             "synonymes": sorted(synonymes.get(num, [])),
+            "resume": resumes.get(num),
+            "langs": langs.get(num, ["fr"]),
             "fichier": fichier_section,
         }
         if complet:
@@ -6719,6 +8507,7 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             td = Path(td)
             with zipfile.ZipFile(sortie) as z:
                 z.extractall(td)
+                cond_zip = z.read("catalogue-condensed.json").decode("utf-8")
             import sqlite3 as _sq
             sys_path_backup = list(sys.path)
             sys.path.insert(0, str(td))
@@ -6728,23 +8517,45 @@ def cmd_pack(sortie: Path, check: bool) -> int:
                 spec.loader.exec_module(rt)
                 rt.cmd_build(td / "routage.py", db_path=td / "skills.db", from_skills=True)
                 db = _sq.connect(td / "skills.db")
-                got = {t: db.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
-                       for t in ("skills", "synonymes", "domaines", "skills_fts", "trigrammes")}
+                try:
+                    import sqlite_vec as _sv
+                    db.enable_load_extension(True)
+                    _sv.load(db)
+                except Exception:
+                    pass
+                base = ["skills", "synonymes", "domaines", "skills_fts", "trigrammes", "lang"]
+                for f in (td / "skills").glob("*.md"):
+                    m = re.match(r"^\d+-.*\.([a-z]{2})\.md$", f.name)
+                    if m and m.group(1) != "fr":
+                        l = re.sub(r"[^a-z0-9]", "", m.group(1))
+                        base += [f"skills_{l}", f"skills_fts_{l}", f"skills_vec_{l}"]
+                def _counts(conn):
+                    return {t: conn.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
+                            for t in base
+                            if conn.execute("SELECT 1 FROM sqlite_master WHERE name=?", (t,)).fetchone()}
+                got = _counts(db)
                 gh = hashlib.sha256()
                 for f in sorted((td / "skills").glob("*.md")):
                     gh.update(f.name.encode()); gh.update(f.read_bytes())
                 hash_ok = gh.hexdigest() == h
+                cond_ok = cond_zip == rt._condensed_json_from_skills(td / "skills")
             finally:
                 sys.path[:] = sys_path_backup
             ref = sqlite3.connect(Path(__file__).resolve().with_name("skills.db"))  # DB du dépôt courant
+            try:
+                import sqlite_vec as _sv
+                ref.enable_load_extension(True)
+                _sv.load(ref)
+            except Exception:
+                pass
             attendu = {t: ref.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
-                       for t in ("skills", "synonymes", "domaines", "skills_fts", "trigrammes")}
+                       for t in got if ref.execute("SELECT 1 FROM sqlite_master WHERE name=?", (t,)).fetchone()}
             ref.close()
             # trigrammes : tolérance 1 % (source canvas vs fichiers peut différer marginalement)
             tri_ok = abs(got["trigrammes"] - attendu["trigrammes"]) <= max(1, attendu["trigrammes"] // 100)
             autres = {k: v for k, v in attendu.items() if k != "trigrammes"}
-            ok = all(got[k] == v for k, v in autres.items()) and tri_ok and hash_ok
-            print("pack check:", "✅ FIDÈLE" if ok else f"❌ écart {got} vs {attendu}, hash_ok={hash_ok}")
+            ok = all(got[k] == v for k, v in autres.items()) and tri_ok and hash_ok and cond_ok
+            print("pack check:", "✅ FIDÈLE" if ok else f"❌ écart {got} vs {attendu}, hash_ok={hash_ok}, cond_ok={cond_ok}")
             return 0 if ok else 1
     sortie.parent.mkdir(parents=True, exist_ok=True)
     # deflate reste le meilleur sur du markdown (testé : LZMA 2,2 Mo vs deflate 1,93 Mo) ;
@@ -6754,6 +8565,7 @@ def cmd_pack(sortie: Path, check: bool) -> int:
             # (skills.db est régénéré par build --from-skills : exclu du pack)
             z.write(f, f"skills/{f.name}")
         z.write(RACINE / "outils" / "routage.py", "routage.py")
+        z.writestr("catalogue-condensed.json", _condensed_json_from_skills(RACINE / "skills"))
         # mesSkillsPerso/ : JAMAIS les fichiers perso de l'utilisateur (ils restent
         # locaux, jamais écrasés à l'upgrade) — uniquement le README explicatif
         pr = RACINE / "mesSkillsPerso" / "README.md"
@@ -6768,7 +8580,7 @@ def cmd_pack(sortie: Path, check: bool) -> int:
     return 0
 
 
-def cmd_skillmd(sortie: Path) -> int:
+def cmd_skillmd(sortie: Path, lang: str | None = None) -> int:
     """Génère un dossier de SKILL.md (standard ouvert Agent Skills : frontmatter
     name/description + corps) depuis skills/*.md — installable via `npx skills add`."""
     import re as _re, unicodedata
@@ -6777,7 +8589,13 @@ def cmd_skillmd(sortie: Path) -> int:
         return "".join(c for c in s if not unicodedata.combining(c)).lower()
     sortie.mkdir(parents=True, exist_ok=True)
     n = 0
-    for f in sorted((Path(__file__).resolve().parent.parent / "skills").glob("*.md")):
+    sk = _skills_dir()
+    if lang:
+        files = sorted(sk.glob(f"*.{lang}.md"))
+    else:
+        files = [f for f in sorted(sk.glob("*.md"))
+                 if not re.match(r"^\d+-.*\.[a-z]{2}\.md$", f.name)]
+    for f in files:
         txt = f.read_text(encoding="utf-8")
         fm = _re.match(r"---\n(.*?)\n---\n(.*)", txt, _re.S)
         meta, corps = fm.group(1), fm.group(2)
@@ -7012,6 +8830,21 @@ def cmd_count(canvas: Path, dossier: Path) -> int:
     ]
     for dom, n in sorted(domaines.items(), key=lambda x: (-x[1], x[0])):
         lignes.append(f"| {dom} | {n} |")
+    lm = _langs_map(_skills_dir())
+    trad = {}
+    for ls in lm.values():
+        for l in ls:
+            if l != "fr":
+                trad[l] = trad.get(l, 0) + 1
+    if trad:
+        lignes += [
+            "",
+            "## Traductions",
+            "",
+            "Sidecars `NNN-slug.<lang>.md` : "
+            + ", ".join(f"{l} = {n} skills (`.{l}.md`, routage `route --lang {l}`)" for l, n in sorted(trad.items()))
+            + ".",
+        ]
     lignes += [
         "",
         "## Génération",
@@ -7047,6 +8880,7 @@ def main():
 
     p_route.add_argument("--top", type=int, default=5)
     p_route.add_argument("--json", action="store_true")
+    p_route.add_argument("--lang", default=None, help="langue de la demande (fr/en/nl/... ; défaut : auto-détection par stopwords)")
 
     p_gen = sub.add_parser("generate", help="base -> sections de routage du canvas")
     p_gen.add_argument("canvas", nargs="?", type=Path, default=CANVAS_PAR_DEFAUT)
@@ -7082,6 +8916,7 @@ def main():
     p_pack.add_argument("--check", action="store_true", help="vérifie le pack : extrait, rebuild --from-skills, compare les tables")
     p_sm = sub.add_parser("skillmd", help="génère un dossier de SKILL.md (standard Agent Skills) depuis skills/*.md")
     p_sm.add_argument("--sortie", type=Path, default=RACINE / "data" / "agent-skills")
+    p_sm.add_argument("--lang", default=None, help="générer depuis les sidecars .<lang>.md (ex. --lang en -> data/agent-skills-en)")
     sub.add_parser("top", help="top-N des skills les plus utilisées (popularité)").add_argument("--n", type=int, default=20)
     p_ev = sub.add_parser("evals", help="exécute les tests de routage et score la couverture par skill (evals)")
     p_ev.add_argument("--num", type=int, help="une seule skill")
@@ -7100,20 +8935,26 @@ def main():
                        help="écrire le JSON dans ce fichier (défaut : stdout)")
     p_exp.add_argument("--complet", action="store_true",
                        help="inclure le texte intégral des sections (sinon index compact)")
+    p_exp.add_argument("--condensé", dest="condense", action="store_true",
+                       help="index condensé machine (resume + méthode + garde-fous) -> data/catalogue-condensed.json")
 
     p_cnt = sub.add_parser("count", help="compte les skills -> totalSkillsCount.md")
     p_cnt.add_argument("canvas", nargs="?", type=Path, default=CANVAS_PAR_DEFAUT)
     p_cnt.add_argument("--dossier", type=Path, default=RACINE / "data")
 
-    p_perso = sub.add_parser("perso", help="skills perso (mesSkillsPerso/) : liste / --add <fichier.md> / --convert")
+    p_tr = sub.add_parser("translate", help="génère les sidecars skills/ manquants (traduit: auto, à traduire via la skill 7) : translate <lang|all>")
+    p_tr.add_argument("lang", nargs="?", default="all")
+    p_perso = sub.add_parser("perso", help="skills perso (mesSkillsPerso/) : liste / --add <fichier.md> / --convert / --translate <lang|all>")
     p_perso.add_argument("--add", default=None, help="copie un fichier .md dans mesSkillsPerso/")
     p_perso.add_argument("--convert", action="store_true", help="convertit tous les fichiers du dossier au template")
+    p_perso.add_argument("--translate", default=None, metavar="LANG",
+                         help="génère les sidecars nom.<LANG>.md manquants (traduit: auto, à traduire par le LLM hôte) ; LANG=all = toutes les langues connues manquantes")
 
     args = ap.parse_args()
     if args.cmd == "build":
         cmd_build(args.canvas, from_skills=args.from_skills)
     elif args.cmd == "route":
-        raise SystemExit(cmd_route(args.query, args.top, args.json, getattr(args, "tag", None)))
+        raise SystemExit(cmd_route(args.query, args.top, args.json, getattr(args, "tag", None), getattr(args, "lang", None)))
     elif args.cmd == "generate":
         raise SystemExit(cmd_generate(args.canvas, args.check))
     elif args.cmd == "test":
@@ -7139,6 +8980,10 @@ def main():
     elif args.cmd == "pack":
         raise SystemExit(cmd_pack(args.sortie, args.check))
     elif args.cmd == "skillmd":
+        sortie = args.sortie
+        if getattr(args, "lang", None) and sortie == RACINE / "data" / "agent-skills":
+            sortie = RACINE / "data" / f"agent-skills-{args.lang}"
+        raise SystemExit(cmd_skillmd(sortie, getattr(args, "lang", None)))
         raise SystemExit(cmd_skillmd(args.sortie))
     elif args.cmd == "evals":
         raise SystemExit(cmd_evals(getattr(args, "num", None)))
@@ -7151,11 +8996,13 @@ def main():
     elif args.cmd == "lint":
         raise SystemExit(cmd_lint())
     elif args.cmd == "export":
-        raise SystemExit(cmd_export(args.canvas, args.fichier, args.complet))
+        raise SystemExit(cmd_export(args.canvas, args.fichier, args.complet, args.condense))
     elif args.cmd == "count":
         raise SystemExit(cmd_count(args.canvas, args.dossier))
+    elif args.cmd == "translate":
+        raise SystemExit(cmd_translate(args.lang))
     elif args.cmd == "perso":
-        raise SystemExit(cmd_perso(args.add, args.convert))
+        raise SystemExit(cmd_perso(args.add, args.convert, getattr(args, "translate", None)))
 
 
 if __name__ == "__main__":

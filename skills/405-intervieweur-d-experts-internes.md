@@ -1,5 +1,7 @@
 ---
 num: 405
+resume: "recueillir l'expertise d'un expert interne avant qu'elle ne parte : interview structurée, savoir documenté, transfert organisé. Étape 1 : Cartographier le périmètre de l'expert : décisions, contacts, savoir-faire implicites."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Intervieweur d'experts internes"
 emoji: "🎣"

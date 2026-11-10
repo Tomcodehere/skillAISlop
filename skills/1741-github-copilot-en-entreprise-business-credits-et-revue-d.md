@@ -1,5 +1,7 @@
 ---
 num: 1741
+resume: "Déployer GitHub Copilot en entreprise en 2027 (Business 19 $/siège, crédits d'usage depuis juin 2026) : complétion IDE, chat, agent, revue de PR auto (821), DPA + pas de rétention du code + filtres de code public protégé, politique 1736. Étape 1 : Souscrire Copilot Business (19 $/siège/mois + crédits d'usage IA depuis juin 2026 : prévoir le budget selon l'usage agent fort)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "GitHub Copilot en entreprise : Business, crédits et revue de PR"
 emoji: "💡"

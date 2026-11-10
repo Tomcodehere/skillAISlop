@@ -1,5 +1,7 @@
 ---
 num: 513
+resume: "accompagner les premiers pas pratiques dans web3 : choisir et sécuriser un wallet, comprendre DeFi et NFT, éviter les pièges. Étape 1 : Mettre en place un wallet sécurisé et tester avec un montant minime."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Guide web3, wallets & DeFi"
 emoji: "🌐"

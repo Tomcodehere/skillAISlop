@@ -1,5 +1,7 @@
 ---
 num: 1514
+resume: "Générer des cavernes en 2027 par automate cellulaire : grille 45 % murs aléatoires, 4-5 itérations de lissage (règle 4-5 : mur si 4+ voisins murs), garder uniquement la plus grande zone connexe (flood fill), y placer contenu. Étape 1 : Init : chaque cellule mur avec proba 0,45 (bordures toujours murs)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Cavernes par cellular automata"
 emoji: "🏔️"

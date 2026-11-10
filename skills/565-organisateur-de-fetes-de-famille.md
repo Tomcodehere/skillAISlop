@@ -1,5 +1,7 @@
 ---
 num: 565
+resume: "organiser une fête de famille (mariage, anniversaire, départ) : budget, prestataires, logistique et diplomatie, sans y perdre sa santé. Étape 1 : Fixer budget, périmètre d'invités et règles de partage."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Organisateur de fêtes de famille"
 emoji: "🎉"

@@ -1,5 +1,7 @@
 ---
 num: 825
+resume: "obtenir une réduction ou un étalement sur une facture ou un abonnement en négociant factuellement. Étape 1 : Benchmarker le prix actuel vs marché (3 offres comparables) pour justifier la demande."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Négociation de facture / réduction de prix"
 emoji: "🏷️"

@@ -1,5 +1,7 @@
 ---
 num: 1600
+resume: "Migrer un build lent sur Vite 8 + Rolldown en 2027 : remplacer Rollup par Rolldown (Rust), activer l'Environment API, mesurer le gain de build (constaté 2,5 min → 40 s), garder la CI verte. Étape 1 : Mesurer le build actuel (temps, taille bundle) comme baseline."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vite 8 et Rolldown (Rust) : accélérer ses builds"
 emoji: "⚡"

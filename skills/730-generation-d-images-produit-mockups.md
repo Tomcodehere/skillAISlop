@@ -1,5 +1,7 @@
 ---
 num: 730
+resume: "produire des packshots et mockups produit propres (fond neutre, ombres, perspectives) sans studio photo, via génération d'images. Étape 1 : Décrire le produit fidèlement et choisir le style : fond blanc e-com, lifestyle, ou bannière."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Génération d'images produit & mockups"
 emoji: "🖼️"

@@ -1,5 +1,7 @@
 ---
 num: 1434
+resume: "Concevoir la mémoire longue durée d'un agent en 2027 : sémantique (faits/préférences en vector store), épisodique (résumés de sessions), procédurale (routines apprises), avec règles d'oubli. Étape 1 : Mémoire sémantique : faits + préférences → embeddings → vector store, requêtés au besoin."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Memoire d'agent : episodique vs semantique"
 emoji: "🧠"

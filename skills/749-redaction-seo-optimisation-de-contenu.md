@@ -1,5 +1,7 @@
 ---
 num: 749
+resume: "optimiser un contenu pour le référencement naturel : intention de recherche, structure, mots-clés, maillage, lisibilité. Étape 1 : Analyser l'intention de recherche des mots-clés cibles et les pages qui rankent déjà."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Rédaction SEO & optimisation de contenu"
 emoji: "✍️"

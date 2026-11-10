@@ -1,5 +1,7 @@
 ---
 num: 960
+resume: "installer une borne de recharge à domicile en 2027 : puissance adaptée (7 kW mono), aides (CEE, MaPrimeRénov'), délestage, copropriété (droit à la prise). Étape 1 : Dimensionner : 7 kW mono (nuit complète) ou 11 kW tri ; délestage si abonnement inférieur à 9 kVA."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Installation d'une borne de recharge à domicile"
 emoji: "🔌"

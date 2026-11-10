@@ -1,5 +1,7 @@
 ---
 num: 671
+resume: "construire un plan d'apprentissage d'une langue étrangère réaliste pour un adulte, avec objectifs CECRL et régularité. Étape 1 : Évaluer : niveau CECRL actuel, objectif concret (voyage, examen, travail), temps disponible par semaine."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Apprentissage d'une langue (adulte)"
 emoji: "🗣️"

@@ -1,5 +1,7 @@
 ---
 num: 1872
+resume: "Synchroniser automatiquement les enregistrements DNS (Route53/Cloudflare) depuis Ingress/HTTPRoute/Service k8s avec external-dns (annotation hostname) — création/mise à jour/suppression auto, avec txt registry. Étape 1 : Déployer external-dns (helm) avec provider route53/cloudflare, credentials via ESO (1854), policy=upsert-only, txt-owner-id, domain-filter=example.com."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "external-dns : synchroniser automatiquement les enregistrements DNS"
 emoji: "🌐"

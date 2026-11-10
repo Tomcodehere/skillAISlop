@@ -1,5 +1,7 @@
 ---
 num: 794
+resume: "identifier, évaluer et mitiger les risques d'un projet avant qu'ils ne deviennent des problèmes. Étape 1 : Atelier d'identification des risques (équipe + stakeholders), évaluation probabilité x impact en matrice."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion des risques projet"
 emoji: "⚠️"

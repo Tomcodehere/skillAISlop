@@ -1,5 +1,7 @@
 ---
 num: 945
+resume: "obtenir des sorties IA concises et précises en 2027 avec le « prompt caveman » (étude mars 2026 : imposer la brièveté améliore la précision de 26 points sur les problèmes à erreur de verbosité). Étape 1 : Ajouter « peu de mots, direct, pas de politesses » ou une limite de tokens à la consigne système."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Prompt « caveman » & concision des sorties IA"
 emoji: "🪨"

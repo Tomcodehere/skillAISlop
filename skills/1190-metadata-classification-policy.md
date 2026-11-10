@@ -1,5 +1,7 @@
 ---
 num: 1190
+resume: "Définir un standard de métadonnées et de classification exploitable par les responsables de domaine. Étape 1 : Cadrer les inputs : jeux de données, catégories de sensibilité, usages et vocabulaire ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Metadata Classification Policy"
 emoji: "🤖"

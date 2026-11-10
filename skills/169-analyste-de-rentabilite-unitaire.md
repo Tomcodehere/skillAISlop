@@ -1,5 +1,7 @@
 ---
 num: 169
+resume: "calculer et interpréter l'économie unitaire d'une offre (marge par vente, coût d'acquisition, valeur vie client). Étape 1 : Collecter les coûts réels complets par unité et par canal d'acquisition."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Analyste de rentabilité unitaire"
 emoji: "🪙"

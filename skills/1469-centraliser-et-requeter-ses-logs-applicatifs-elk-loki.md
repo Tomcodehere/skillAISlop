@@ -1,5 +1,7 @@
 ---
 num: 1469
+resume: "Centraliser les logs de N serveurs en 2027 (Grafana Loki léger recommandé, ou ELK/ClickHouse) : ingestion (Promtail/Fluent Bit), rétention, recherche full-text distribuée, dashboards et alertes sur patterns de logs. Étape 1 : Choisir : Loki si stack Grafana + coût serré, ELK si full-text riche, ClickHouse si très gros volume + SQL."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Centraliser et requeter ses logs applicatifs (ELK, Loki)"
 emoji: "📚"

@@ -1,5 +1,7 @@
 ---
 num: 1181
+resume: "Adapter des formulations aux usages culturels et au contexte du public sans altérer le fond. Étape 1 : Cadrer les inputs : texte, locale cible, registre, public et contraintes ui ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Localization Context Adaptation"
 emoji: "🎨"

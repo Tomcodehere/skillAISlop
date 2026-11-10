@@ -1,5 +1,7 @@
 ---
 num: 1842
+resume: "Programmer des rails de sécurité LLM avec NeMo Guardrails (Colang) : flux de dialogue contrôlés, détection jailbreak, self-check — en prenant en compte le disclaimer beta de NVIDIA (hardening + tests adversariaux requis). Étape 1 : Écrire les flows Colang : ex. define user ask about product -supérieur à bot respond product info ; tout le reste -supérieur à refuse poliment."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "NeMo Guardrails : rails programmables en Colang"
 emoji: "🧨"

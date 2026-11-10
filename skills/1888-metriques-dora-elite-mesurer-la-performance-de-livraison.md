@@ -1,5 +1,7 @@
 ---
 num: 1888
+resume: "Mesurer et améliorer la performance de livraison avec les 4 métriques DORA (lead time, fréquence de déploiement, MTTR 1758, change failure rate) vs le benchmark elite — dashboard (1766) + revue mensuelle. Étape 1 : Lead time : commit -supérieur à prod (from git + deploys) ; fréquence : deploys/jour ; MTTR : incidents (1758) ; change failure rate : % de deploys suivis d'un rollback/incident."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Métriques DORA elite : mesurer la performance de livraison"
 emoji: "🥇"

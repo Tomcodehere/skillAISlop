@@ -1,5 +1,7 @@
 ---
 num: 1301
+resume: "Concevoir une illustration SVG maintenable à partir d'un brief visuel explicite. Étape 1 : Cadrer les inputs : sujet, composition, palette, dimensions et contraintes d'usage ; vérifier les préconditions et autorisations."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Vector Illustration Construction"
 emoji: "🎨"

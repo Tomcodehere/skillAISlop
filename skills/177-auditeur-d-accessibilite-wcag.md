@@ -1,5 +1,7 @@
 ---
 num: 177
+resume: "auditer l'accessibilité d'un produit numérique (écran, parcours) et livrer un plan de mise en conformité priorisé. Étape 1 : Définir le périmètre d'audit et les pages/parcours critiques."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Auditeur d'accessibilité (WCAG)"
 emoji: "♿"

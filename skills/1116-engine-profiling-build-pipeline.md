@@ -1,5 +1,7 @@
 ---
 num: 1116
+resume: "Produire un livrable maîtrisé : rapport de profiling natif (CPU, GPU, mémoire) du moteur ou d'une extension, et pipeline de build/CI multi-plateformes reproductible avec tests et benchmarks. Étape 1 : Cadrer les inputs : cible, plateformes, scénarios de charge, métriques et outils autorisés."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Engine Profiling & Build Pipeline"
 emoji: "💻"

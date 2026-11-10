@@ -1,5 +1,7 @@
 ---
 num: 696
+resume: "gérer une crise en communiquant vite et bien : holding statement, cellule de crise, messages internes et externes cohérents. Étape 1 : Activer la cellule de crise : porte-parole unique, canaux internes/externes, holding statement dans l'heure, fait établi vs inconnu."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gestion de crise & communication de crise"
 emoji: "🚨"

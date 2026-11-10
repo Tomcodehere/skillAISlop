@@ -1,5 +1,7 @@
 ---
 num: 1430
+resume: "Exploiter efficacement un contexte long (200k+ tokens) en 2027 : placer les infos clés en début/fin (effet de primauté/récence), résumer les sections anciennes, et ne pas noyer l'instruction système. Étape 1 : Mesurer la fenêtre du modèle (200k, 1M ?) et le budget de tokens (skill 326)."
+lang: "fr"
 date_ajout: "2026-11"
 nom: "Gerer le contexte long (200k tokens)"
 emoji: "🧠"
